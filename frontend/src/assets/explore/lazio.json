@@ -1,0 +1,50 @@
+{
+  "regionId": "lazio",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Roma oltre il Colosseo", "fullPrompt": "Quali attrazioni meno turistiche di Roma meritano assolutamente una visita?" },
+        { "text": "Musei Vaticani", "fullPrompt": "Come organizzare la visita ai Musei Vaticani e alla Cappella Sistina evitando le code?" },
+        { "text": "Villa d'Este a Tivoli", "fullPrompt": "Cosa vedere a Tivoli tra Villa d'Este e Villa Adriana?" },
+        { "text": "Castelli Romani", "fullPrompt": "Quali borghi visitare nei Castelli Romani per una gita fuori Roma?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Carbonara e amatriciana", "fullPrompt": "Dove mangiare la migliore carbonara e amatriciana a Roma?" },
+        { "text": "Street food romano", "fullPrompt": "Quali sono i migliori cibi di strada romani e dove trovarli?" },
+        { "text": "Vini dei Castelli Romani", "fullPrompt": "Quali vini dei Castelli Romani assaggiare e quali cantine visitare a Frascati?" },
+        { "text": "Porchetta di Ariccia", "fullPrompt": "Dove gustare la vera porchetta di Ariccia e scoprire la sua tradizione?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Laghi del Lazio", "fullPrompt": "Quali laghi visitare nel Lazio tra Bolsena, Bracciano e il lago di Vico?" },
+        { "text": "Monti Simbruini", "fullPrompt": "Quali sentieri e cascate esplorare nel Parco dei Monti Simbruini?" },
+        { "text": "Giardini e parchi di Roma", "fullPrompt": "Quali sono i giardini e parchi più belli di Roma per una pausa dal turismo?" },
+        { "text": "Riviera di Ulisse", "fullPrompt": "Quali spiagge e calette esplorare lungo la Riviera di Ulisse nel sud del Lazio?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Foro Romano e Palatino", "fullPrompt": "Come visitare il Foro Romano e il Palatino per capire la Roma antica?" },
+        { "text": "Quartiere Trastevere", "fullPrompt": "Cosa rende Trastevere un quartiere unico e cosa vedere passeggiando?" },
+        { "text": "Civita di Bagnoregio", "fullPrompt": "Perché Civita di Bagnoregio è chiamata 'la città che muore' e come visitarla?" },
+        { "text": "Parco dei Mostri", "fullPrompt": "Cos'è il Sacro Bosco di Bomarzo e come visitare il Parco dei Mostri?" },
+        { "text": "Catacombe di Roma", "fullPrompt": "Quali catacombe visitare a Roma e cosa raccontano della storia cristiana?" }
+      ]
+    }
+  ]
+}

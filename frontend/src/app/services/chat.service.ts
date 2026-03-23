@@ -13,20 +13,22 @@ export class ChatService {
   private readonly authService = inject(AuthService);
   private readonly chatEndpoint = `${environment.apiUrl}chat/`;
 
-  sendMessage(question: string, history: string[]): Observable<RichChatResponse> {
+  sendMessage(question: string, history: string[], region?: string): Observable<RichChatResponse> {
     const body: ChatRequest = {
       user_question: question,
       conversation_history: { messages: history },
+      region,
     };
     return this.http.post<RichChatResponse>(this.chatEndpoint, body);
   }
 
-  streamMessage(question: string, history: string[]): Observable<StreamChunk> {
+  streamMessage(question: string, history: string[], region?: string): Observable<StreamChunk> {
     return new Observable<StreamChunk>((subscriber) => {
       const controller = new AbortController();
       const body: ChatRequest = {
         user_question: question,
         conversation_history: { messages: history },
+        region,
       };
 
       const token = this.authService.getAccessToken();

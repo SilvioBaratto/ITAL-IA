@@ -1,25 +1,31 @@
-<div class="min-h-dvh bg-surface">
-  <!-- Mobile header -->
-  <header class="md:hidden flex items-center justify-between h-14 px-4 border-b border-border bg-surface-raised sticky top-0 z-30">
-    <button (click)="toggleSidebar()" class="p-1.5 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors" aria-label="Open menu">
-      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-      </svg>
-    </button>
-    <span class="font-display font-bold tracking-tight text-text">ITAL-IA</span>
-    <div class="w-8"></div>
-  </header>
-
-  <!-- Overlay -->
+<div class="min-h-dvh bg-surface flex flex-col md:block">
+  <!-- Overlay (mobile sidebar) -->
   @if (showOverlay()) {
     <div class="fixed inset-0 bg-black/20 z-40 md:hidden" (click)="closeSidebar()"></div>
   }
 
-  <!-- Sidebar -->
+  <!-- Sidebar (desktop only — hidden on mobile now) -->
   <app-sidebar [isOpen]="isSidebarOpen()" [isMobile]="isMobile()" (closeSidebar)="closeSidebar()"></app-sidebar>
 
   <!-- Main content -->
-  <main class="md:pl-64 h-[calc(100dvh-3.5rem)] md:h-dvh flex flex-col">
+  <main #mainContent id="main-content" tabindex="-1" [attr.aria-label]="currentPageTitle()" class="md:pl-64 flex-1 md:h-dvh flex flex-col min-h-0 focus:outline-none">
     <router-outlet></router-outlet>
   </main>
+
+  <!-- Screen reader route announcer -->
+  <div class="sr-only" aria-live="assertive" aria-atomic="true">
+    {{ routeAnnouncement() }}
+  </div>
+
+  <!-- Toast notifications -->
+  <app-toast />
+
+  <!-- Bottom tab bar (mobile only) -->
+  <app-bottom-tab-bar
+    class="sticky bottom-0 z-30"
+    [showChatInput]="showMobileChatInput()"
+    [chatUserInput]="mobileChatUserInput()"
+    [chatIsLoading]="mobileChatIsLoading()"
+    (chatSend)="onMobileChatSend($event)"
+    (chatInputChange)="onMobileChatInputChange($event)" />
 </div>

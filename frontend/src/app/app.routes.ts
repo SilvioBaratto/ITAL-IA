@@ -34,6 +34,11 @@ export const routes: Routes = [
         loadComponent: () => import('./pages/itinerary/itinerary').then((m) => m.ItineraryComponent),
         title: 'Itinerary',
       },
+      {
+        path: 'saved',
+        loadComponent: () => import('./pages/saved/saved').then((m) => m.SavedPageComponent),
+        title: 'Salvati',
+      },
     ],
   },
   {

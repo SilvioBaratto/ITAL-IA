@@ -41,9 +41,10 @@ export class ChatbotService {
   async chat(request: ChatRequestDto, userId?: string): Promise<RichChatResponseDto> {
     try {
       const { b } = await import('../../../baml_client');
+      const region = request.region ?? DEFAULT_REGION;
 
       const [searchResults, tripContext] = await Promise.all([
-        this.qdrantService.search(request.user_question, 5),
+        this.qdrantService.search(request.user_question, 5, request.region),
         userId ? this.getUserTripContext(userId) : Promise.resolve(null),
       ]);
       const contextChunks = toRetrievedChunks(searchResults);
@@ -53,7 +54,7 @@ export class ChatbotService {
         contextChunks,
         request.conversation_history,
         tripContext,
-        DEFAULT_REGION,
+        region,
       );
 
       return {
@@ -79,9 +80,10 @@ export class ChatbotService {
   ): AsyncGenerator<StreamChunkDto> {
     try {
       const { b } = await import('../../../baml_client');
+      const region = request.region ?? DEFAULT_REGION;
 
       const [searchResults, tripContext] = await Promise.all([
-        this.qdrantService.search(request.user_question, 5),
+        this.qdrantService.search(request.user_question, 5, request.region),
         userId ? this.getUserTripContext(userId) : Promise.resolve(null),
       ]);
       const contextChunks = toRetrievedChunks(searchResults);
@@ -91,7 +93,7 @@ export class ChatbotService {
         contextChunks,
         request.conversation_history,
         tripContext,
-        DEFAULT_REGION,
+        region,
       );
 
       for await (const event of stream) {

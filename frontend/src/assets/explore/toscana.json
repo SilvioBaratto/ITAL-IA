@@ -1,0 +1,49 @@
+{
+  "regionId": "toscana",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Firenze in 3 giorni", "fullPrompt": "Quali sono le attrazioni imperdibili di Firenze per un itinerario di 3 giorni?" },
+        { "text": "Torri di San Gimignano", "fullPrompt": "Cosa vedere a San Gimignano e perché è famosa per le sue torri medievali?" },
+        { "text": "Val d'Orcia patrimonio UNESCO", "fullPrompt": "Quali sono i borghi e i paesaggi più belli della Val d'Orcia da visitare?" },
+        { "text": "Piazza dei Miracoli a Pisa", "fullPrompt": "Cosa vedere a Pisa oltre la Torre Pendente nella Piazza dei Miracoli?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Vini del Chianti", "fullPrompt": "Quali cantine visitare nella zona del Chianti per degustare i migliori vini toscani?" },
+        { "text": "Bistecca alla fiorentina", "fullPrompt": "Dove mangiare la migliore bistecca alla fiorentina a Firenze e dintorni?" },
+        { "text": "Cucina povera toscana", "fullPrompt": "Quali sono i piatti tipici della cucina povera toscana da provare?" },
+        { "text": "Brunello di Montalcino", "fullPrompt": "Come visitare le cantine di Montalcino e degustare il Brunello?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Terme naturali toscane", "fullPrompt": "Quali sono le migliori terme naturali gratuite e a pagamento in Toscana?" },
+        { "text": "Trekking in Garfagnana", "fullPrompt": "Quali sentieri di trekking esplorare nella Garfagnana e sulle Alpi Apuane?" },
+        { "text": "Spiagge della Maremma", "fullPrompt": "Quali sono le spiagge più belle della Maremma toscana e dell'Argentario?" },
+        { "text": "Isola d'Elba", "fullPrompt": "Cosa fare all'Isola d'Elba tra spiagge, trekking e storia napoleonica?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Uffizi e arte rinascimentale", "fullPrompt": "Quali opere non perdere alla Galleria degli Uffizi e come organizzare la visita?" },
+        { "text": "Siena e il Palio", "fullPrompt": "Cos'è il Palio di Siena e come vivere questa tradizione secolare?" },
+        { "text": "Etruschi in Toscana", "fullPrompt": "Quali siti e musei etruschi visitare in Toscana per scoprire questa civiltà?" },
+        { "text": "Lucca città murata", "fullPrompt": "Cosa rende unica Lucca e come esplorare le sue mura rinascimentali?" }
+      ]
+    }
+  ]
+}

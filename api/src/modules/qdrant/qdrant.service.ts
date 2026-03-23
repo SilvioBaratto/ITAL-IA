@@ -93,14 +93,19 @@ export class QdrantService implements OnModuleInit {
     return json.data[0].embedding;
   }
 
-  async search(query: string, limit = 5): Promise<SearchResult[]> {
+  async search(query: string, limit = 5, region?: string): Promise<SearchResult[]> {
     const vector = await this.embed(query);
+
+    const filter = region
+      ? { must: [{ key: 'region', match: { value: region } }] }
+      : undefined;
 
     const results = await this.client.search(COLLECTION_NAME, {
       vector,
       limit,
       score_threshold: 0.75,
       with_payload: true,
+      filter,
     });
 
     return results.map((r) => ({
