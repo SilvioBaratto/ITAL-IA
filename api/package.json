@@ -1,0 +1,90 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "ITAL-IA API — Italy regional discovery",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "nest build",
+    "vercel-build": "npx prisma generate && npx baml-cli generate && nest build && tsc-alias -p tsconfig.json",
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "start:debug": "nest start --debug --watch",
+    "start:prod": "node dist/main",
+    "lint": "eslint \"{src,test}/**/*.ts\"",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:cov": "jest --coverage",
+    "prisma:generate": "npx prisma generate",
+    "prisma:migrate:dev": "npx prisma migrate dev",
+    "prisma:migrate:create": "npx prisma migrate dev --create-only",
+    "prisma:migrate:deploy": "npx prisma migrate deploy",
+    "prisma:migrate:reset": "npx prisma migrate reset",
+    "prisma:studio": "npx prisma studio",
+    "postinstall": "npx prisma generate || true",
+    "seed:friuli": "ts-node -r tsconfig-paths/register scripts/seed-friuli.ts"
+  },
+  "dependencies": {
+    "@boundaryml/baml": "^0.220.0",
+    "@nestjs/common": "^11.0.0",
+    "@nestjs/config": "^4.0.0",
+    "@nestjs/core": "^11.0.0",
+    "@nestjs/platform-express": "^11.0.0",
+    "@nestjs/swagger": "^11.0.0",
+    "@nestjs/throttler": "^6.0.0",
+    "@prisma/adapter-pg": "^7.4.0",
+    "@prisma/client": "^7.4.0",
+    "@qdrant/js-client-rest": "^1.16.2",
+    "@supabase/supabase-js": "^2.49.0",
+    "helmet": "^8.0.0",
+    "nestjs-zod": "^5.1.1",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.13.0",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.1",
+    "uuid": "^11.0.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^11.0.16",
+    "@nestjs/schematics": "^11.0.0",
+    "@nestjs/testing": "^11.0.0",
+    "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.0",
+    "@types/node": "^22.0.0",
+    "@types/uuid": "^10.0.0",
+    "@vercel/node": "^5.0.0",
+    "eslint": "^9.0.0",
+    "jest": "^29.7.0",
+    "prisma": "^7.4.0",
+    "prisma-zod-generator": "^2.1.2",
+    "ts-jest": "^29.2.0",
+    "ts-node": "^10.9.0",
+    "tsc-alias": "^1.8.16",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.7.0"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "ts"
+    ],
+    "rootDir": "src",
+    "testRegex": ".*\\.spec\\.ts$",
+    "transform": {
+      "^.+\\.(t|j)s$": "ts-jest"
+    },
+    "collectCoverageFrom": [
+      "**/*.(t|j)s"
+    ],
+    "coverageDirectory": "../coverage",
+    "testEnvironment": "node",
+    "moduleNameMapper": {
+      "^@/(.*)$": "<rootDir>/$1",
+      "^@generated/prisma$": "<rootDir>/../generated/prisma/client",
+      "^@generated/zod$": "<rootDir>/../generated/zod/schemas/index",
+      "^@generated/zod/(.*)$": "<rootDir>/../generated/zod/schemas/$1"
+    }
+  }
+}
