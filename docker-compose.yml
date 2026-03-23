@@ -1,0 +1,34 @@
+services:
+  # NestJS Backend (connects to hosted Supabase DB)
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+      target: dev
+    container_name: app_api
+    env_file:
+      - ./api/.env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./api:/app
+      - /app/node_modules
+    networks:
+      - app_network
+    command: npm run start:dev
+
+  # Angular Frontend with nginx and API proxy
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: app_frontend
+    depends_on:
+      - api
+    ports:
+      - "4200:80"
+    networks:
+      - app_network
+
+networks:
+  app_network:

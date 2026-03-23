@@ -1,0 +1,181 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+generator zod {
+  provider = "prisma-zod-generator"
+  output   = "../generated/zod"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// -----------------------------------------------
+// Enums
+// -----------------------------------------------
+
+enum ActivityType {
+  MEAL
+  VISIT
+  TRANSPORT
+  WALK
+  NIGHTLIFE
+  SHOW
+  SHOPPING
+  REST
+
+  @@map("activity_type")
+}
+
+enum PlaceType {
+  RESTAURANT
+  MUSEUM
+  PARK
+  MARKET
+  BAR
+  LANDMARK
+  VENUE
+  CHURCH
+  ROOFTOP
+  NEIGHBORHOOD
+
+  @@map("place_type")
+}
+
+enum TipCategory {
+  TRANSPORT
+  SAFETY
+  BUDGET
+  PACKING
+
+  @@map("tip_category")
+}
+
+// -----------------------------------------------
+// Models
+// -----------------------------------------------
+
+/// Top-level trip itinerary
+model Trip {
+  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId    String   @default(dbgenerated("auth.uid()")) @map("user_id") @db.Uuid
+  title     String   @db.VarChar(500)
+  city      String   @db.VarChar(255)
+  startDate DateTime @map("start_date") @db.Date
+  endDate   DateTime @map("end_date") @db.Date
+  isShared  Boolean  @default(false) @map("is_shared")
+
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt DateTime @updatedAt @map("updated_at") @db.Timestamptz
+
+  days     TripDay[]
+  bookings Booking[]
+  tips     TravelTip[]
+
+  @@map("trips")
+}
+
+/// A single day within a trip
+model TripDay {
+  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  tripId    String   @map("trip_id") @db.Uuid
+  dayNumber Int      @map("day_number")
+  date      DateTime @db.Date
+  title     String   @db.VarChar(500)
+  theme     String?  @db.VarChar(500)
+
+  trip       Trip       @relation(fields: [tripId], references: [id], onDelete: Cascade)
+  activities Activity[]
+
+  @@unique([tripId, dayNumber])
+  @@map("trip_days")
+}
+
+/// A scheduled activity within a day
+model Activity {
+  id              String       @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  tripDayId       String       @map("trip_day_id") @db.Uuid
+  sortOrder       Int          @map("sort_order")
+  title           String       @db.VarChar(500)
+  description     String?      @db.Text
+  startTime       String?      @map("start_time") @db.VarChar(10)
+  endTime         String?      @map("end_time") @db.VarChar(10)
+  durationMinutes Int?         @map("duration_minutes")
+  activityType    ActivityType @map("activity_type")
+  priceMinCents   Int?         @map("price_min_cents")
+  priceMaxCents   Int?         @map("price_max_cents")
+  priceCurrency   String       @default("EUR") @map("price_currency") @db.VarChar(3)
+  priceNote       String?      @map("price_note") @db.VarChar(500)
+  placeId         String?      @map("place_id") @db.Uuid
+  alternativeToId String?      @map("alternative_to_id") @db.Uuid
+
+  tripDay       TripDay            @relation(fields: [tripDayId], references: [id], onDelete: Cascade)
+  place         Place?             @relation(fields: [placeId], references: [id])
+  alternativeTo Activity?          @relation("Alternatives", fields: [alternativeToId], references: [id])
+  alternatives  Activity[]         @relation("Alternatives")
+  highlights    ActivityHighlight[]
+
+  @@unique([tripDayId, sortOrder])
+  @@map("activities")
+}
+
+/// A physical location referenced by activities
+model Place {
+  id           String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name         String    @db.VarChar(500)
+  address      String?   @db.VarChar(500)
+  neighborhood String?   @db.VarChar(255)
+  latitude     Decimal?  @db.Decimal(10, 7)
+  longitude    Decimal?  @db.Decimal(10, 7)
+  placeType    PlaceType @map("place_type")
+  websiteUrl   String?   @map("website_url") @db.VarChar(500)
+
+  activities Activity[]
+  bookings   Booking[]
+
+  @@map("places")
+}
+
+/// Notable items within an activity (dishes, artworks, etc.)
+model ActivityHighlight {
+  id          String @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  activityId  String @map("activity_id") @db.Uuid
+  sortOrder   Int    @map("sort_order")
+  description String @db.Text
+
+  activity Activity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+
+  @@unique([activityId, sortOrder])
+  @@map("activity_highlights")
+}
+
+/// Advance ticket or reservation for an attraction
+model Booking {
+  id             String @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  tripId         String @map("trip_id") @db.Uuid
+  placeId        String? @map("place_id") @db.Uuid
+  attractionName String @map("attraction_name") @db.VarChar(500)
+  priceCents     Int?   @map("price_cents")
+  priceCurrency  String @default("EUR") @map("price_currency") @db.VarChar(3)
+  discountNote   String? @map("discount_note") @db.VarChar(500)
+  bookingUrl     String? @map("booking_url") @db.VarChar(500)
+
+  trip  Trip   @relation(fields: [tripId], references: [id], onDelete: Cascade)
+  place Place? @relation(fields: [placeId], references: [id])
+
+  @@map("bookings")
+}
+
+/// Practical travel tip associated with a trip
+model TravelTip {
+  id       String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  tripId   String      @map("trip_id") @db.Uuid
+  category TipCategory
+  content  String      @db.Text
+
+  trip Trip @relation(fields: [tripId], references: [id], onDelete: Cascade)
+
+  @@map("travel_tips")
+}

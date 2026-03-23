@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project-initializer"
+version = "0.1.1"
+description = "CLI tool to scaffold full-stack projects with FastAPI, Angular, and Docker"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Silvio Baratto"}
+]
+keywords = ["cli", "scaffold", "fastapi", "angular", "docker", "project-generator"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Code Generators",
+]
+
+[project.scripts]
+project-initializer = "project_initializer.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/silviobaratto/project-initializer"
+Repository = "https://github.com/silviobaratto/project-initializer"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["project_initializer*"]
+
+[tool.setuptools.package-data]
+"project_initializer" = ["templates/**/*", "templates/**/.*"]

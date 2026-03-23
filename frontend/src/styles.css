@@ -1,0 +1,90 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display: 'Bricolage Grotesque', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* Surface colors — warm off-whites */
+  --color-surface: #faf8f5;
+  --color-surface-raised: #ffffff;
+  --color-surface-inset: #f5f0eb;
+
+  /* Borders — warm grays */
+  --color-border: #e8e0d8;
+  --color-border-muted: #f0ebe5;
+
+  /* Text — warm near-black */
+  --color-text: #1a1614;
+  --color-text-secondary: #6b5e54;
+  --color-text-tertiary: #a39688;
+
+  /* Primary — Terracotta */
+  --color-primary: #c45d3e;
+  --color-primary-hover: #b04e31;
+  --color-primary-light: #fdf0ec;
+
+  /* Accent — Azulejo blue */
+  --color-accent: #2d4a7a;
+  --color-accent-hover: #1e3a66;
+  --color-accent-light: #edf2f9;
+
+  /* Gold */
+  --color-gold: #c8982c;
+
+  /* Semantic */
+  --color-danger: #dc2626;
+  --color-success: #16a34a;
+  --color-warning: #d97706;
+  --color-info: #2563eb;
+}
+
+/* Base styles */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  touch-action: manipulation;
+}
+
+/* Prevent iOS auto-zoom on form inputs (triggers below 16px) */
+input, textarea, select {
+  font-size: 16px;
+}
+
+*:focus-visible {
+  outline: 2px solid #c45d3e;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Animations */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-in {
+  from {
+    opacity: 0;
+    transform: translateX(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.3s ease-out both;
+}
+
+.animate-slide-in {
+  animation: slide-in 0.2s ease-out both;
+}

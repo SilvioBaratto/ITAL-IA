@@ -1,0 +1,31 @@
+t# Vercel ignore file for the NestJS API deployment
+# These paths are excluded from the deployment bundle
+
+# Local development
+.env
+.env.local
+*.env
+
+# Docker
+Dockerfile
+entrypoint.sh
+docker-compose*.yml
+
+# Test and coverage artifacts
+coverage/
+**/*.spec.ts
+**/*.test.ts
+
+# Development tooling
+.eslintrc*
+jest.config*
+
+# Seed scripts (not needed at runtime)
+scripts/
+
+# BAML source definitions are needed at build time for baml-cli generate
+# baml_src/
+
+# README files
+README.md
+*.md
