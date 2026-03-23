@@ -1,0 +1,49 @@
+{
+  "regionId": "campania",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Costiera Amalfitana", "fullPrompt": "Quali sono i borghi più belli della Costiera Amalfitana e come visitarli?" },
+        { "text": "Scavi di Pompei", "fullPrompt": "Come organizzare la visita agli scavi di Pompei e cosa non perdere?" },
+        { "text": "Capri e i Faraglioni", "fullPrompt": "Cosa vedere a Capri in una giornata tra Grotta Azzurra e Faraglioni?" },
+        { "text": "Napoli sotterranea", "fullPrompt": "Cos'è Napoli Sotterranea e quali percorsi sotterranei visitare?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Pizza napoletana autentica", "fullPrompt": "Dove mangiare la migliore pizza napoletana a Napoli e qual è la sua storia?" },
+        { "text": "Sfogliatella e pastiera", "fullPrompt": "Quali dolci tipici napoletani provare e dove trovare i migliori?" },
+        { "text": "Limoncello della Costiera", "fullPrompt": "Come viene prodotto il limoncello sulla Costiera Amalfitana e dove degustarlo?" },
+        { "text": "Mozzarella di bufala", "fullPrompt": "Dove assaggiare la vera mozzarella di bufala campana e visitare i caseifici?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Sentiero degli Dei", "fullPrompt": "Come percorrere il Sentiero degli Dei sulla Costiera Amalfitana?" },
+        { "text": "Vesuvio e Cratere", "fullPrompt": "Come salire sul Vesuvio e cosa aspettarsi dalla visita al cratere?" },
+        { "text": "Ischia e terme naturali", "fullPrompt": "Quali terme e spiagge visitare sull'isola di Ischia?" },
+        { "text": "Parco del Cilento", "fullPrompt": "Cosa offre il Parco Nazionale del Cilento tra mare, montagna e grotte?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Museo Archeologico di Napoli", "fullPrompt": "Quali collezioni non perdere al Museo Archeologico Nazionale di Napoli?" },
+        { "text": "Reggia di Caserta", "fullPrompt": "Come visitare la Reggia di Caserta e i suoi giardini reali?" },
+        { "text": "Ercolano e Oplontis", "fullPrompt": "Cosa vedere negli scavi di Ercolano e nella villa di Oplontis?" },
+        { "text": "Spaccanapoli", "fullPrompt": "Cosa scoprire passeggiando lungo Spaccanapoli nel cuore di Napoli?" }
+      ]
+    }
+  ]
+}

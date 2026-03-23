@@ -1,0 +1,49 @@
+{
+  "regionId": "veneto",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Venezia senza folla", "fullPrompt": "Quali zone di Venezia visitare per evitare la folla e scoprire la città autentica?" },
+        { "text": "Arena di Verona", "fullPrompt": "Come assistere a un'opera all'Arena di Verona e cosa vedere in città?" },
+        { "text": "Ville palladiane", "fullPrompt": "Quali ville di Palladio visitare nel Veneto e perché sono patrimonio UNESCO?" },
+        { "text": "Burano e Murano", "fullPrompt": "Cosa vedere a Burano e Murano e come raggiungerle da Venezia?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Colline del Prosecco", "fullPrompt": "Come visitare le colline del Prosecco di Conegliano e Valdobbiadene?" },
+        { "text": "Cicchetti veneziani", "fullPrompt": "Dove fare un giro di cicchetti a Venezia e quali assaggiare?" },
+        { "text": "Radicchio di Treviso", "fullPrompt": "Quali piatti con il radicchio di Treviso provare e dove gustarli?" },
+        { "text": "Amarone della Valpolicella", "fullPrompt": "Come visitare le cantine della Valpolicella e degustare l'Amarone?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Dolomiti venete", "fullPrompt": "Quali escursioni fare sulle Dolomiti venete tra Cortina e le Tre Cime di Lavaredo?" },
+        { "text": "Garda veneto", "fullPrompt": "Cosa fare sulla sponda veneta del Lago di Garda tra borghi e attività all'aperto?" },
+        { "text": "Delta del Po", "fullPrompt": "Come esplorare il Parco del Delta del Po in Veneto tra barca e bicicletta?" },
+        { "text": "Altopiano di Asiago", "fullPrompt": "Quali attività outdoor praticare sull'Altopiano di Asiago estate e inverno?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Carnevale di Venezia", "fullPrompt": "Come vivere il Carnevale di Venezia e qual è la sua storia secolare?" },
+        { "text": "Cappella degli Scrovegni", "fullPrompt": "Perché la Cappella degli Scrovegni a Padova è un capolavoro di Giotto?" },
+        { "text": "Romeo e Giulietta", "fullPrompt": "Quali luoghi legati a Romeo e Giulietta visitare a Verona?" },
+        { "text": "Basilica di San Marco", "fullPrompt": "Cosa rende unica la Basilica di San Marco e come visitarla al meglio?" }
+      ]
+    }
+  ]
+}

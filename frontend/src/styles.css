@@ -17,7 +17,7 @@
   /* Text — warm near-black */
   --color-text: #1a1614;
   --color-text-secondary: #6b5e54;
-  --color-text-tertiary: #a39688;
+  --color-text-tertiary: #847668;
 
   /* Primary — Terracotta */
   --color-primary: #c45d3e;
@@ -39,6 +39,29 @@
   --color-info: #2563eb;
 }
 
+/* Dark mode — warm near-black palette */
+.dark {
+  --color-surface: #1A1614;
+  --color-surface-raised: #242019;
+  --color-surface-inset: #2E2822;
+  --color-border: #3D3530;
+  --color-border-muted: #332D28;
+  --color-text: #F0EBE3;
+  --color-text-secondary: #B8AA9C;
+  --color-text-tertiary: #A69A8E;
+  --color-primary: #d4735a;
+  --color-primary-hover: #e08570;
+  --color-primary-light: #2a1f1a;
+  --color-accent: #6B8FC0;
+  --color-accent-hover: #7DA0D0;
+  --color-accent-light: #1a2535;
+  --color-gold: #daa840;
+  --color-danger: #ef4444;
+  --color-success: #22c55e;
+  --color-warning: #f59e0b;
+  --color-info: #3b82f6;
+}
+
 /* Base styles */
 html {
   -webkit-font-smoothing: antialiased;
@@ -53,38 +76,62 @@ input, textarea, select {
 }
 
 *:focus-visible {
-  outline: 2px solid #c45d3e;
+  outline: 2px solid var(--color-primary);
   outline-offset: 2px;
   border-radius: 4px;
 }
 
-/* Animations */
-@keyframes fade-in-up {
-  from {
-    opacity: 0;
-    transform: translateY(8px);
+/* Animations — only when user has no motion preference */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
-  to {
-    opacity: 1;
-    transform: translateY(0);
+
+  @keyframes slide-in {
+    from {
+      opacity: 0;
+      transform: translateX(-4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  .animate-fade-in-up {
+    animation: fade-in-up 0.3s ease-out both;
+  }
+
+  .animate-slide-in {
+    animation: slide-in 0.2s ease-out both;
   }
 }
 
-@keyframes slide-in {
-  from {
-    opacity: 0;
-    transform: translateX(-4px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
   }
 }
 
-.animate-fade-in-up {
-  animation: fade-in-up 0.3s ease-out both;
+/* Theme transition — applied temporarily during toggle */
+@media (prefers-reduced-motion: no-preference) {
+  html.theme-transitioning,
+  html.theme-transitioning *,
+  html.theme-transitioning *::before,
+  html.theme-transitioning *::after {
+    transition: background-color 150ms ease, color 150ms ease, border-color 150ms ease !important;
+  }
 }
 
-.animate-slide-in {
-  animation: slide-in 0.2s ease-out both;
+/* iOS safe area insets */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
 }

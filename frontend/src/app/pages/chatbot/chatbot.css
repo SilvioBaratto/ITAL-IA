@@ -1,21 +1,26 @@
 .shimmer-bg {
-  background: linear-gradient(90deg, #f5f0eb 25%, #e8e0d8 50%, #f5f0eb 75%);
+  background: linear-gradient(90deg, var(--color-surface-inset) 25%, var(--color-border) 50%, var(--color-surface-inset) 75%);
   background-size: 200% 100%;
-  animation: shimmer 1.5s infinite;
 }
 
-@keyframes shimmer {
-  0% {
-    background-position: 200% 0;
+@media (prefers-reduced-motion: no-preference) {
+  .shimmer-bg {
+    animation: shimmer 1.5s infinite;
   }
-  100% {
-    background-position: -200% 0;
+
+  @keyframes shimmer {
+    0% {
+      background-position: 200% 0;
+    }
+    100% {
+      background-position: -200% 0;
+    }
   }
 }
 
 .table-scroll {
   scrollbar-width: thin;
-  scrollbar-color: rgba(0, 0, 0, 0.15) transparent;
+  scrollbar-color: var(--color-border) transparent;
 }
 
 .table-scroll::-webkit-scrollbar {
@@ -27,32 +32,44 @@
 }
 
 .table-scroll::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: var(--color-border);
   border-radius: 2px;
 }
 
-/* Typing indicator — three bouncing dots */
-.typing-dot {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background-color: #6b5e54;
-  animation: typing-bounce 1.4s ease-in-out infinite;
+/* Follow-up suggestion chips entry animation */
+@media (prefers-reduced-motion: no-preference) {
+  .animate-chips-in {
+    animation: chips-fade-in 0.3s ease-out;
+  }
+
+  @keyframes chips-fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
 }
 
-.typing-dot-1 { animation-delay: 0s; }
-.typing-dot-2 { animation-delay: 0.2s; }
-.typing-dot-3 { animation-delay: 0.4s; }
-
-@keyframes typing-bounce {
-  0%, 60%, 100% {
-    transform: translateY(0);
-    opacity: 0.4;
+/* Bookmark save animation */
+@media (prefers-reduced-motion: no-preference) {
+  .bookmark-btn.bookmark-pop {
+    animation: bookmark-scale 0.2s ease-out;
   }
-  30% {
-    transform: translateY(-6px);
-    opacity: 1;
+
+  @keyframes bookmark-scale {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.3);
+    }
+    100% {
+      transform: scale(1);
+    }
   }
 }
 
@@ -96,7 +113,7 @@
 
 :host ::ng-deep .prose-chat strong {
   font-weight: 600;
-  color: #1a1614;
+  color: var(--color-text);
 }
 
 :host ::ng-deep .prose-chat em {
@@ -124,13 +141,13 @@
 :host ::ng-deep .prose-chat code {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.8125rem;
-  background: #f5f0eb;
+  background: var(--color-surface-inset);
   padding: 0.125rem 0.375rem;
   border-radius: 0.25rem;
 }
 
 :host ::ng-deep .prose-chat pre {
-  background: #f5f0eb;
+  background: var(--color-surface-inset);
   padding: 0.75rem;
   border-radius: 0.5rem;
   overflow-x: auto;
@@ -143,24 +160,69 @@
 }
 
 :host ::ng-deep .prose-chat a {
-  color: #c45d3e;
+  color: var(--color-primary);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
 :host ::ng-deep .prose-chat a:hover {
-  color: #b04e31;
+  color: var(--color-primary-hover);
 }
 
 :host ::ng-deep .prose-chat blockquote {
-  border-left: 3px solid #e8e0d8;
+  border-left: 3px solid var(--color-border);
   padding-left: 0.75rem;
   margin: 0.5rem 0;
-  color: #6b5e54;
+  color: var(--color-text-secondary);
 }
 
 :host ::ng-deep .prose-chat hr {
   border: none;
-  border-top: 1px solid #e8e0d8;
+  border-top: 1px solid var(--color-border);
   margin: 0.75rem 0;
+}
+
+/* Inline citation superscript links */
+:host ::ng-deep .citation-ref {
+  font-size: 0.7em;
+  line-height: 1;
+  vertical-align: super;
+}
+
+:host ::ng-deep .citation-link {
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 2px 4px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+:host ::ng-deep .citation-link:hover,
+:host ::ng-deep .citation-link:focus-visible {
+  background-color: var(--color-primary-light);
+  text-decoration: underline;
+  outline: none;
+}
+
+/* Source scroll target highlight — static fallback for reduced motion */
+.citation-target-active {
+  background-color: var(--color-primary-light);
+  border-radius: 0.375rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .citation-target-active {
+    animation: citation-highlight 1.5s ease-out;
+  }
+
+  @keyframes citation-highlight {
+    from {
+      background-color: var(--color-primary-light);
+    }
+    to {
+      background-color: transparent;
+    }
+  }
 }

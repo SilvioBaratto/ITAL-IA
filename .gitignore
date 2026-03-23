@@ -287,3 +287,9 @@ plan_it.pdf
 
 # Playwright MCP screenshots
 .playwright-mcp/
+
+# Playwright test reports
+playwright-report/
+
+# Local idea/notes
+idea/

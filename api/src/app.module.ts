@@ -11,6 +11,7 @@ import { ChatbotModule } from './modules/chatbot/chatbot.module';
 import { AuthModule } from './modules/auth/auth.module';
 import { ItineraryModule } from './modules/itinerary/itinerary.module';
 import { QdrantModule } from './modules/qdrant/qdrant.module';
+import { SavedItemsModule } from './modules/saved-items/saved-items.module';
 import { SupabaseAuthGuard } from './modules/auth/auth.guard';
 
 @Module({
@@ -40,6 +41,7 @@ import { SupabaseAuthGuard } from './modules/auth/auth.guard';
     ChatbotModule,
     AuthModule,
     ItineraryModule,
+    SavedItemsModule,
   ],
   providers: [
     {

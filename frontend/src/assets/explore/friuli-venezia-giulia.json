@@ -1,0 +1,49 @@
+{
+  "regionId": "friuli-venezia-giulia",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Top cose da vedere a Trieste", "fullPrompt": "Quali sono le migliori attrazioni da visitare a Trieste?" },
+        { "text": "Castelli del Friuli", "fullPrompt": "Quali castelli posso visitare in Friuli Venezia Giulia?" },
+        { "text": "Borghi più belli", "fullPrompt": "Quali sono i borghi più belli del Friuli Venezia Giulia?" },
+        { "text": "Grotta Gigante del Carso", "fullPrompt": "Cos'è la Grotta Gigante sul Carso triestino e come visitarla?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Piatti tipici friulani", "fullPrompt": "Quali sono i piatti tipici della cucina friulana da provare assolutamente?" },
+        { "text": "Vini del Collio", "fullPrompt": "Quali vini del Collio dovrei assaggiare e quali cantine visitare?" },
+        { "text": "Osmize e agriturismi", "fullPrompt": "Cosa sono le osmize e dove posso trovarne di autentiche in Friuli?" },
+        { "text": "Prosciutto di San Daniele", "fullPrompt": "Dove posso degustare il Prosciutto di San Daniele e visitare i prosciuttifici?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Trekking sulle Dolomiti Friulane", "fullPrompt": "Quali sono i migliori percorsi di trekking sulle Dolomiti Friulane?" },
+        { "text": "Spiagge di Lignano e Grado", "fullPrompt": "Quali spiagge visitare a Lignano Sabbiadoro e Grado?" },
+        { "text": "Laghi alpini friulani", "fullPrompt": "Quali laghi alpini meritano una visita in Friuli Venezia Giulia?" },
+        { "text": "Riserva della Val Rosandra", "fullPrompt": "Come posso esplorare la Riserva Naturale della Val Rosandra vicino a Trieste?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Aquileia romana", "fullPrompt": "Cosa vedere ad Aquileia e perché è importante per la storia romana?" },
+        { "text": "Cividale del Friuli longobarda", "fullPrompt": "Quali testimonianze longobarde posso visitare a Cividale del Friuli?" },
+        { "text": "Musei di Trieste", "fullPrompt": "Quali sono i musei più interessanti da visitare a Trieste?" },
+        { "text": "La Risiera di San Sabba", "fullPrompt": "Qual è la storia della Risiera di San Sabba e come visitarla?" }
+      ]
+    }
+  ]
+}

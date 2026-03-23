@@ -4,12 +4,23 @@
   <meta charset="utf-8">
   <title>ITAL-IA — Discover Italy's Regions</title>
   <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="preconnect" href="https://fonts.bunny.net">
   <link href="https://fonts.bunny.net/css?family=bricolage-grotesque:400,600,800|dm-sans:400,500,600|jetbrains-mono:400" rel="stylesheet">
+  <script>
+    (function(){
+      var t=localStorage.getItem('italia-theme');
+      var d=t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme:dark)').matches);
+      if(d)document.documentElement.classList.add('dark');
+    })();
+  </script>
 </head>
 <body class="bg-surface text-text font-sans">
+  <a href="#main-content"
+     class="sr-only focus:not-sr-only focus:fixed focus:z-[100] focus:top-4 focus:left-4 focus:px-4 focus:py-2 focus:bg-primary focus:text-white focus:rounded-lg focus:text-sm focus:font-semibold focus:shadow-lg">
+    Skip to main content
+  </a>
   <app-root></app-root>
 </body>
 </html>

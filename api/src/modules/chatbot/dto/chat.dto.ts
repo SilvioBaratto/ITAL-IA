@@ -5,6 +5,7 @@ import { createZodDto } from 'nestjs-zod';
 export const ChatRequestSchema = z.object({
   user_question: z.string().min(1, 'Question is required'),
   conversation_history: z.object({ messages: z.array(z.string()) }).optional(),
+  region: z.string().optional(),
 });
 
 // Rich response sub-types

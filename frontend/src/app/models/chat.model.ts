@@ -55,9 +55,12 @@ export interface ChatMessage {
   richContent?: RichContent;
   isStreaming?: boolean;
   isError?: boolean;
+  lang?: string;
+  suggestions?: string[];
 }
 
 export interface ChatRequest {
   user_question: string;
   conversation_history: { messages: string[] };
+  region?: string;
 }

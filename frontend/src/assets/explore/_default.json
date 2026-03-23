@@ -1,0 +1,45 @@
+{
+  "regionId": "_default",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Patrimoni UNESCO italiani", "fullPrompt": "Quali sono i siti Patrimonio UNESCO più belli d'Italia?" },
+        { "text": "Città d'arte imperdibili", "fullPrompt": "Quali città d'arte italiane dovrei visitare assolutamente?" },
+        { "text": "Borghi nascosti d'Italia", "fullPrompt": "Quali sono i borghi meno conosciuti ma più affascinanti d'Italia?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Cucina regionale italiana", "fullPrompt": "Quali sono i piatti tipici più famosi della cucina regionale italiana?" },
+        { "text": "Strade del vino", "fullPrompt": "Quali sono le migliori strade del vino in Italia?" },
+        { "text": "Mercati locali e street food", "fullPrompt": "Dove trovare i migliori mercati locali e street food in Italia?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Parchi nazionali italiani", "fullPrompt": "Quali sono i parchi nazionali più belli d'Italia e cosa offrono?" },
+        { "text": "Spiagge più belle", "fullPrompt": "Quali sono le spiagge più belle e meno affollate d'Italia?" },
+        { "text": "Sentieri di trekking", "fullPrompt": "Quali sono i migliori sentieri di trekking in Italia per ogni livello?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Siti archeologici romani", "fullPrompt": "Quali sono i siti archeologici romani più affascinanti d'Italia oltre al Colosseo?" },
+        { "text": "Festival e tradizioni locali", "fullPrompt": "Quali festival e tradizioni popolari italiane meritano un viaggio?" },
+        { "text": "Musei meno conosciuti", "fullPrompt": "Quali musei italiani meno famosi nascondono tesori straordinari?" }
+      ]
+    }
+  ]
+}

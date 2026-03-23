@@ -1,5 +1,5 @@
 <aside
-  class="fixed left-0 top-0 z-50 h-dvh w-64 bg-surface-raised border-r border-border flex flex-col transition-transform duration-200 md:z-30 md:translate-x-0"
+  class="fixed left-0 top-0 z-50 h-dvh w-64 bg-surface-raised border-r border-border flex flex-col transition-transform duration-200 motion-reduce:transition-none md:z-30 md:translate-x-0"
   [class.translate-x-0]="showSidebar()" [class.-translate-x-full]="!showSidebar()">
 
   <!-- Header -->
@@ -23,6 +23,23 @@
     </button>
   </div>
 
+  <!-- Region Selector (desktop only) -->
+  <div class="hidden md:block px-2 py-2 border-b border-border">
+    <app-region-selector />
+  </div>
+
+  <!-- New Chat -->
+  <div class="px-3 pt-3">
+    <button (click)="onNewChat()"
+      class="flex items-center gap-2.5 w-full px-2.5 py-2 rounded-md text-sm font-medium text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px]"
+      aria-label="Start a new chat">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+      </svg>
+      <span>New chat</span>
+    </button>
+  </div>
+
   <!-- Navigation -->
   <nav class="flex-1 px-3 py-3">
     @for (item of navItems; track item.route) {
@@ -43,14 +60,43 @@
           d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
       </svg>
       }
+      @case ('bookmark') {
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+        <path stroke-linecap="round" stroke-linejoin="round"
+          d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z" />
+      </svg>
+      }
       }
       <span>{{ item.name }}</span>
     </a>
     }
   </nav>
 
-  <!-- Logout -->
-  <div class="px-3 py-3 border-t border-border">
+  <!-- Footer actions: theme toggle + logout -->
+  <div class="px-3 py-3 border-t border-border space-y-0.5">
+    <!-- Theme toggle -->
+    <button (click)="themeService.toggleTheme()"
+      class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px]"
+      [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
+      [attr.aria-pressed]="themeService.isDark()">
+      @if (themeService.isDark()) {
+        <!-- Sun icon — shown in dark mode to switch to light -->
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round"
+            d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z" />
+        </svg>
+        <span>Modalità chiara</span>
+      } @else {
+        <!-- Moon icon — shown in light mode to switch to dark -->
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round"
+            d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" />
+        </svg>
+        <span>Modalità scura</span>
+      }
+    </button>
+
+    <!-- Logout -->
     <button (click)="onLogout()"
       class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors">
       <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">

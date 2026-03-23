@@ -1,0 +1,49 @@
+{
+  "regionId": "sicilia",
+  "categories": [
+    {
+      "id": "cosa-vedere",
+      "label": "Cosa vedere",
+      "icon": "landmark",
+      "prompts": [
+        { "text": "Valle dei Templi", "fullPrompt": "Come visitare la Valle dei Templi di Agrigento e qual è la sua importanza storica?" },
+        { "text": "Taormina e il Teatro Greco", "fullPrompt": "Cosa vedere a Taormina tra il Teatro Greco e le spiagge di Isola Bella?" },
+        { "text": "Palermo arabo-normanna", "fullPrompt": "Quali monumenti arabo-normanni visitare a Palermo patrimonio UNESCO?" },
+        { "text": "Catania barocca", "fullPrompt": "Cosa vedere a Catania tra il barocco e i mercati storici?" }
+      ]
+    },
+    {
+      "id": "enogastronomia",
+      "label": "Enogastronomia",
+      "icon": "utensils",
+      "prompts": [
+        { "text": "Street food di Palermo", "fullPrompt": "Quali cibi di strada provare nei mercati di Palermo tra arancine, panelle e sfincione?" },
+        { "text": "Cannoli e granita siciliana", "fullPrompt": "Dove gustare i migliori cannoli e la granita con brioche in Sicilia?" },
+        { "text": "Vini dell'Etna", "fullPrompt": "Quali cantine visitare sulle pendici dell'Etna per degustare i vini vulcanici?" },
+        { "text": "Pesce fresco e couscous", "fullPrompt": "Dove mangiare il couscous di pesce a Trapani e scoprire la cucina marinara siciliana?" }
+      ]
+    },
+    {
+      "id": "natura",
+      "label": "Natura e outdoor",
+      "icon": "mountain",
+      "prompts": [
+        { "text": "Escursione sull'Etna", "fullPrompt": "Come organizzare un'escursione sull'Etna e quali crateri visitare?" },
+        { "text": "Scala dei Turchi", "fullPrompt": "Come visitare la Scala dei Turchi e quali spiagge vicine esplorare?" },
+        { "text": "Riserva dello Zingaro", "fullPrompt": "Come percorrere la Riserva Naturale dello Zingaro tra calette e sentieri?" },
+        { "text": "Isole Eolie", "fullPrompt": "Quali isole delle Eolie visitare e cosa fare tra Stromboli, Vulcano e Lipari?" }
+      ]
+    },
+    {
+      "id": "cultura",
+      "label": "Cultura e storia",
+      "icon": "book-open",
+      "prompts": [
+        { "text": "Mosaici di Piazza Armerina", "fullPrompt": "Cosa raccontano i mosaici della Villa Romana del Casale a Piazza Armerina?" },
+        { "text": "Siracusa e Ortigia", "fullPrompt": "Cosa vedere a Siracusa tra il Parco Archeologico e l'isola di Ortigia?" },
+        { "text": "Barocco di Noto e Ragusa", "fullPrompt": "Quali borghi barocchi visitare nella Val di Noto patrimonio UNESCO?" },
+        { "text": "Pupi e Opera dei Pupi", "fullPrompt": "Cos'è l'Opera dei Pupi siciliana e dove assistere a uno spettacolo di pupi tradizionali?" }
+      ]
+    }
+  ]
+}

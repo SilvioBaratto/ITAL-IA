@@ -53,6 +53,17 @@ enum TipCategory {
   @@map("tip_category")
 }
 
+enum SavedItemCategory {
+  RESTAURANT
+  MUSEUM
+  EVENT
+  PLACE
+  WINE
+  EXPERIENCE
+
+  @@map("saved_item_category")
+}
+
 // -----------------------------------------------
 // Models
 // -----------------------------------------------
@@ -178,4 +189,24 @@ model TravelTip {
   trip Trip @relation(fields: [tripId], references: [id], onDelete: Cascade)
 
   @@map("travel_tips")
+}
+
+/// User-bookmarked entity from chat responses
+model SavedItem {
+  id          String            @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId      String            @map("user_id") @db.Uuid
+  name        String            @db.VarChar(500)
+  category    SavedItemCategory
+  region      String            @db.VarChar(100)
+  description String            @db.Text
+  address     String?           @db.VarChar(500)
+  mapsUrl     String?           @map("maps_url") @db.VarChar(1000)
+  website     String?           @db.VarChar(1000)
+  imageUrl    String?           @map("image_url") @db.VarChar(1000)
+  savedAt     DateTime          @default(now()) @map("saved_at") @db.Timestamptz
+
+  @@unique([userId, name, region, category])
+  @@index([userId, region])
+  @@index([userId, category])
+  @@map("saved_items")
 }
