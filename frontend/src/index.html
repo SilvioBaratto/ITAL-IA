@@ -8,6 +8,40 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="preconnect" href="https://fonts.bunny.net">
   <link href="https://fonts.bunny.net/css?family=bricolage-grotesque:400,600,800|dm-sans:400,500,600|jetbrains-mono:400" rel="stylesheet">
+  <style>
+    #italia-splash {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      background-color: #faf8f5;
+    }
+    .dark #italia-splash { background-color: #1A1614; }
+    #italia-splash-wordmark {
+      font-family: 'Bricolage Grotesque', ui-sans-serif, system-ui, sans-serif;
+      font-weight: 800;
+      font-size: 1.75rem;
+      letter-spacing: -0.02em;
+      color: #c45d3e;
+    }
+    .dark #italia-splash-wordmark { color: #d4735a; }
+    #italia-splash-ring {
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 9999px;
+      border: 3px solid #f5f0eb;
+      border-top-color: #c45d3e;
+      animation: italia-spin 0.8s linear infinite;
+    }
+    .dark #italia-splash-ring { border-color: #2E2822; border-top-color: #d4735a; }
+    @keyframes italia-spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      #italia-splash-ring { animation: none; opacity: 0.5; }
+    }
+  </style>
   <script>
     (function(){
       var t=localStorage.getItem('italia-theme');
@@ -21,6 +55,11 @@
      class="sr-only focus:not-sr-only focus:fixed focus:z-[100] focus:top-4 focus:left-4 focus:px-4 focus:py-2 focus:bg-primary focus:text-white focus:rounded-lg focus:text-sm focus:font-semibold focus:shadow-lg">
     Skip to main content
   </a>
-  <app-root></app-root>
+  <app-root>
+    <div id="italia-splash" aria-hidden="true">
+      <span id="italia-splash-wordmark">ITAL&#8209;IA</span>
+      <div id="italia-splash-ring"></div>
+    </div>
+  </app-root>
 </body>
 </html>

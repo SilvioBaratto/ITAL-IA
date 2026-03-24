@@ -7,6 +7,7 @@ import {
   viewChild,
   ElementRef,
   afterNextRender,
+  DestroyRef,
 } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { SavedItemsService } from '../../services/saved-items.service';
@@ -43,23 +44,34 @@ const CATEGORY_BADGE_CLASSES: Record<SavedItemCategory, string> = {
   templateUrl: './saved.html',
   styleUrl: './saved.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  host: {
+    '(document:keydown.escape)': 'closeMobileSheet()',
+  },
 })
 export class SavedPageComponent {
   private readonly savedItemsService = inject(SavedItemsService);
   private readonly regionService = inject(RegionService);
   private readonly toastService = inject(ToastService);
+  private readonly destroyRef = inject(DestroyRef);
 
   readonly loading = this.savedItemsService.loading;
+  readonly loadingMore = this.savedItemsService.loadingMore;
   readonly error = this.savedItemsService.error;
   readonly hasSavedItems = this.savedItemsService.hasSavedItems;
+  readonly hasMore = this.savedItemsService.hasMore;
+  readonly total = this.savedItemsService.total;
 
   readonly selectedCategory = signal<SavedItemCategory | null>(null);
   readonly showAllRegions = signal(false);
 
-  /** The item currently shown in the detail pane (desktop master-detail). */
+  /** The item currently shown in the detail pane (desktop) or mobile bottom sheet. */
   readonly selectedItem = signal<SavedItem | null>(null);
 
+  /** Controls the mobile bottom sheet visibility. */
+  readonly mobileSheetOpen = signal(false);
+
   private readonly detailHeading = viewChild<ElementRef<HTMLElement>>('detailHeading');
+  private readonly mobileSheetEl = viewChild<ElementRef<HTMLElement>>('mobileSheetEl');
 
   readonly skeletonItems = [0, 1, 2] as const;
 
@@ -90,16 +102,21 @@ export class SavedPageComponent {
     });
   });
 
+  private previousBodyOverflow = '';
+  private touchStartY = 0;
+  private touchDeltaY = 0;
+
+  constructor() {
+    this.destroyRef.onDestroy(() => this.unlockBodyScroll());
+  }
+
   selectCategory(category: SavedItemCategory | null): void {
     this.selectedCategory.set(category);
-    // Clear detail selection when the filter changes so the right pane
-    // does not show a stale item that may no longer be in the filtered list.
     this.selectedItem.set(null);
   }
 
   selectItem(item: SavedItem): void {
     this.selectedItem.set(item);
-    // Move focus to the detail heading after Angular renders it.
     afterNextRender(() => {
       this.detailHeading()?.nativeElement.focus();
     });
@@ -107,6 +124,62 @@ export class SavedPageComponent {
 
   clearSelectedItem(): void {
     this.selectedItem.set(null);
+  }
+
+  /** Opens the mobile bottom sheet for the given item. */
+  openMobileSheet(item: SavedItem): void {
+    this.selectedItem.set(item);
+    this.mobileSheetOpen.set(true);
+    this.lockBodyScroll();
+    afterNextRender(() => {
+      this.mobileSheetEl()?.nativeElement.focus();
+    });
+  }
+
+  /** Closes the mobile bottom sheet. */
+  closeMobileSheet(): void {
+    if (!this.mobileSheetOpen()) return;
+    this.mobileSheetOpen.set(false);
+    this.unlockBodyScroll();
+  }
+
+  onSheetTouchStart(event: TouchEvent): void {
+    this.touchStartY = event.touches[0].clientY;
+    this.touchDeltaY = 0;
+  }
+
+  onSheetTouchMove(event: TouchEvent): void {
+    this.touchDeltaY = event.touches[0].clientY - this.touchStartY;
+  }
+
+  onSheetTouchEnd(): void {
+    if (this.touchDeltaY > 80) {
+      this.closeMobileSheet();
+    }
+  }
+
+  /** Focus trap — keep Tab / Shift+Tab inside the mobile sheet. */
+  onSheetKeydown(event: KeyboardEvent): void {
+    if (event.key !== 'Tab') return;
+
+    const sheetEl = this.mobileSheetEl()?.nativeElement;
+    if (!sheetEl) return;
+
+    const focusable = sheetEl.querySelectorAll<HTMLElement>(
+      'button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])',
+    );
+    if (focusable.length === 0) return;
+
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
   }
 
   /** Move focus to adjacent list item (arrow key navigation for listbox pattern). */
@@ -135,6 +208,16 @@ export class SavedPageComponent {
     });
   }
 
+  loadMore(): void {
+    const region = this.showAllRegions() ? undefined : this.regionService.selectedRegion().id;
+    const category = this.selectedCategory() ?? undefined;
+    this.savedItemsService.loadMore(region, category).subscribe({
+      error: () => {
+        // loadingMore is reset in the service catchError
+      },
+    });
+  }
+
   removeItem(item: SavedItem): void {
     const request: SaveItemRequest = {
       name: item.name,
@@ -147,9 +230,9 @@ export class SavedPageComponent {
       imageUrl: item.imageUrl ?? undefined,
     };
 
-    // If the removed item is currently selected, clear the detail pane.
     if (this.selectedItem()?.id === item.id) {
       this.selectedItem.set(null);
+      this.closeMobileSheet();
     }
 
     this.savedItemsService.unsave(item.name, item.region, item.category).subscribe();
@@ -165,5 +248,14 @@ export class SavedPageComponent {
 
   getCategoryBadgeClass(category: SavedItemCategory): string {
     return CATEGORY_BADGE_CLASSES[category];
+  }
+
+  private lockBodyScroll(): void {
+    this.previousBodyOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+  }
+
+  private unlockBodyScroll(): void {
+    document.body.style.overflow = this.previousBodyOverflow;
   }
 }

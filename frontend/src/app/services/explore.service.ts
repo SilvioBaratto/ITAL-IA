@@ -28,6 +28,12 @@ export class ExploreService {
     });
   }
 
+  retry(): void {
+    const regionId = this.regionService.selectedRegion().id;
+    this.cache.delete(regionId);
+    this.loadPrompts(regionId);
+  }
+
   private loadPrompts(regionId: string): void {
     const cached = this.cache.get(regionId);
     if (cached) {

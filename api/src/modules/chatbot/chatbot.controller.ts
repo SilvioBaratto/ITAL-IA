@@ -2,7 +2,7 @@ import { Controller, Post, Get, Body, Res, Request } from '@nestjs/common';
 import { ApiTags, ApiOperation, ApiBearerAuth } from '@nestjs/swagger';
 import { Response } from 'express';
 import { ChatbotService } from './chatbot.service';
-import { ChatRequestDto, RichChatResponseDto } from './dto/chat.dto';
+import { ChatRequestDto } from './dto/chat.dto';
 import { Public } from '../../common/decorators/public.decorator';
 
 @ApiTags('Chatbot')
@@ -10,15 +10,6 @@ import { Public } from '../../common/decorators/public.decorator';
 @Controller('chat')
 export class ChatbotController {
   constructor(private readonly chatbotService: ChatbotService) {}
-
-  @Post()
-  @ApiOperation({ summary: 'Send a chat message' })
-  async chat(
-    @Body() chatRequest: ChatRequestDto,
-    @Request() req: any,
-  ): Promise<RichChatResponseDto> {
-    return this.chatbotService.chat(chatRequest, req.user?.id);
-  }
 
   @Post('stream')
   @ApiOperation({ summary: 'Stream a chat response (SSE)' })

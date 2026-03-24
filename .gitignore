@@ -291,5 +291,12 @@ plan_it.pdf
 # Playwright test reports
 playwright-report/
 
+# Playwright pre-authenticated storage state (contains session tokens)
+frontend/e2e/.auth/
+
 # Local idea/notes
 idea/
+
+# Claude Code
+.claude/
+**/.claude/

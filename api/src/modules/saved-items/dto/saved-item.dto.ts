@@ -30,6 +30,8 @@ export const CreateSavedItemSchema = z.object({
 export const ListSavedItemsQuerySchema = z.object({
   region: z.string().max(100).optional(),
   category: SavedItemCategorySchema.optional(),
+  limit: z.coerce.number().int().min(1).max(100).default(20),
+  offset: z.coerce.number().int().min(0).default(0),
 });
 
 export const CheckSavedItemQuerySchema = z.object({
@@ -54,6 +56,13 @@ export const SavedItemResponseSchema = z.object({
   savedAt: z.date(),
 });
 
+export const PaginatedSavedItemsResponseSchema = z.object({
+  data: z.array(SavedItemResponseSchema),
+  total: z.number().int().nonnegative(),
+  limit: z.number().int().positive(),
+  offset: z.number().int().nonnegative(),
+});
+
 export const CheckSavedItemResponseSchema = z.object({
   isSaved: z.boolean(),
   id: z.string().uuid().optional(),
@@ -65,4 +74,5 @@ export class CreateSavedItemDto extends createZodDto(CreateSavedItemSchema) {}
 export class ListSavedItemsQueryDto extends createZodDto(ListSavedItemsQuerySchema) {}
 export class CheckSavedItemQueryDto extends createZodDto(CheckSavedItemQuerySchema) {}
 export class SavedItemResponseDto extends createZodDto(SavedItemResponseSchema) {}
+export class PaginatedSavedItemsResponseDto extends createZodDto(PaginatedSavedItemsResponseSchema) {}
 export class CheckSavedItemResponseDto extends createZodDto(CheckSavedItemResponseSchema) {}

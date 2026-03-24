@@ -4,7 +4,7 @@ import { Router } from '@angular/router';
 import { AuthService } from '../services/auth.service';
 import { from, switchMap, catchError, throwError } from 'rxjs';
 
-let refreshPromise: Promise<boolean> | null = null;
+let refreshPromise: Promise<string | null> | null = null;
 
 export const authInterceptor: HttpInterceptorFn = (req, next) => {
   const authService = inject(AuthService);
@@ -19,12 +19,9 @@ export const authInterceptor: HttpInterceptorFn = (req, next) => {
     catchError((error) => {
       if (error.status === 401) {
         return from(handleTokenRefresh(authService)).pipe(
-          switchMap((refreshed) => {
-            if (refreshed) {
-              const newToken = authService.getAccessToken();
-              const retryReq = newToken
-                ? req.clone({ setHeaders: { Authorization: `Bearer ${newToken}` } })
-                : req;
+          switchMap((newToken) => {
+            if (newToken) {
+              const retryReq = req.clone({ setHeaders: { Authorization: `Bearer ${newToken}` } });
               return next(retryReq);
             }
             return from(authService.logout()).pipe(
@@ -41,7 +38,7 @@ export const authInterceptor: HttpInterceptorFn = (req, next) => {
   );
 };
 
-function handleTokenRefresh(authService: AuthService): Promise<boolean> {
+function handleTokenRefresh(authService: AuthService): Promise<string | null> {
   if (!refreshPromise) {
     refreshPromise = authService.refreshSession().finally(() => {
       refreshPromise = null;

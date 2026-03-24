@@ -107,8 +107,18 @@
           </div>
           }
         </div>
+        } @else if (exploreError()) {
+        <!-- Error state with retry -->
+        <div class="flex items-center gap-2 text-sm text-text-secondary" role="alert" lang="it">
+          <span>Impossibile caricare i suggerimenti.</span>
+          <button (click)="retryExplore()"
+            class="underline underline-offset-2 hover:text-text transition-colors motion-reduce:transition-none"
+            lang="it">
+            Riprova
+          </button>
+        </div>
         } @else if (explorePrompts().length === 0) {
-        <!-- Fallback when explore data fails to load -->
+        <!-- Fallback when region has no prompts -->
         <p class="text-sm text-text-secondary" lang="it">
           Scrivi una domanda per iniziare a esplorare {{ currentRegion().name }}.
         </p>
@@ -149,16 +159,30 @@
       }
       <!-- Error bubble -->
       @else if (msg.isError) {
-      <div class="flex justify-start">
+      <div class="flex justify-start" role="alert" aria-live="assertive">
         <div
-          class="max-w-[80%] rounded-2xl rounded-bl-md px-4 py-2.5 bg-danger/10 border border-danger/30 text-danger text-sm leading-relaxed">
+          class="max-w-[80%] rounded-2xl rounded-bl-md px-4 py-3 bg-danger/10 border border-danger/30 text-danger text-sm leading-relaxed">
           <div class="flex items-center gap-2">
             <svg class="w-4 h-4 shrink-0 text-danger" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-              stroke-width="1.5">
+              stroke-width="1.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round"
                 d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" />
             </svg>
             <span>{{ msg.content }}</span>
+          </div>
+          <div class="mt-2.5 flex justify-end">
+            <button
+              (click)="retryLastMessage()"
+              [disabled]="isLoading()"
+              class="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-medium rounded-full border border-danger/40 text-danger hover:bg-danger/15 transition-colors motion-reduce:transition-none disabled:opacity-50 disabled:cursor-not-allowed min-h-[44px]"
+              lang="it"
+              aria-label="Riprova ad inviare il messaggio">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round"
+                  d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
+              </svg>
+              Riprova
+            </button>
           </div>
         </div>
       </div>
@@ -205,12 +229,12 @@
               @if (img.alt) {
               <div class="flex items-center justify-between mt-1 px-1">
                 <p class="text-xs text-text-secondary truncate mr-1">{{ img.alt }}</p>
-                <button (click)="toggleBookmark($event, 'image', img.alt, img.url, '', '')"
+                <button (click)="toggleBookmark($event, 'image', img.alt, img.url, '', '', msg.richContent)"
                   class="bookmark-btn shrink-0 p-2 rounded-md text-text-secondary hover:text-primary transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                  [class.text-primary]="isItemSaved(img.alt, 'PLACE')"
-                  [attr.aria-label]="isItemSaved(img.alt, 'PLACE') ? 'Rimuovi ' + img.alt + ' dai preferiti' : 'Salva ' + img.alt + ' nei preferiti'"
-                  [attr.aria-pressed]="isItemSaved(img.alt, 'PLACE')">
-                  @if (isItemSaved(img.alt, 'PLACE')) {
+                  [class.text-primary]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))"
+                  [attr.aria-label]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent)) ? 'Rimuovi ' + img.alt + ' dai preferiti' : 'Salva ' + img.alt + ' nei preferiti'"
+                  [attr.aria-pressed]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))">
+                  @if (isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))) {
                   <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M5 2h14a1 1 0 0 1 1 1v19.143a.5.5 0 0 1-.766.424L12 18.03l-7.234 4.536A.5.5 0 0 1 4 22.143V3a1 1 0 0 1 1-1Z"/></svg>
                   } @else {
                   <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"/></svg>
@@ -236,12 +260,12 @@
                 </svg>
                 {{ link.text }}
               </a>
-              <button (click)="toggleBookmark($event, 'link', link.text, '', '', link.url)"
+              <button (click)="toggleBookmark($event, 'link', link.text, '', '', link.url, msg.richContent)"
                 class="bookmark-btn inline-flex items-center justify-center px-2.5 py-1 rounded-r-full hover:bg-primary/20 transition-colors min-h-[44px]"
-                [class.text-primary]="isItemSaved(link.text, 'PLACE')"
-                [attr.aria-label]="isItemSaved(link.text, 'PLACE') ? 'Rimuovi ' + link.text + ' dai preferiti' : 'Salva ' + link.text + ' nei preferiti'"
-                [attr.aria-pressed]="isItemSaved(link.text, 'PLACE')">
-                @if (isItemSaved(link.text, 'PLACE')) {
+                [class.text-primary]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))"
+                [attr.aria-label]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent)) ? 'Rimuovi ' + link.text + ' dai preferiti' : 'Salva ' + link.text + ' nei preferiti'"
+                [attr.aria-pressed]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))">
+                @if (isItemSaved(link.text, getItemCategory(link.text, msg.richContent))) {
                 <svg class="w-3 h-3 text-primary" fill="currentColor" viewBox="0 0 24 24"><path d="M5 2h14a1 1 0 0 1 1 1v19.143a.5.5 0 0 1-.766.424L12 18.03l-7.234 4.536A.5.5 0 0 1 4 22.143V3a1 1 0 0 1 1-1Z"/></svg>
                 } @else {
                 <svg class="w-3 h-3 text-text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"/></svg>
@@ -271,12 +295,12 @@
                   <div class="text-xs text-text-secondary truncate">{{ map.address }}</div>
                 </div>
               </a>
-              <button (click)="toggleBookmark($event, 'map', map.place_name, '', map.maps_url, '')"
+              <button (click)="toggleBookmark($event, 'map', map.place_name, '', map.maps_url, '', msg.richContent)"
                 class="bookmark-btn shrink-0 p-2.5 rounded-md text-text-secondary hover:text-primary transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                [class.text-primary]="isItemSaved(map.place_name, 'PLACE')"
-                [attr.aria-label]="isItemSaved(map.place_name, 'PLACE') ? 'Rimuovi ' + map.place_name + ' dai preferiti' : 'Salva ' + map.place_name + ' nei preferiti'"
-                [attr.aria-pressed]="isItemSaved(map.place_name, 'PLACE')">
-                @if (isItemSaved(map.place_name, 'PLACE')) {
+                [class.text-primary]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))"
+                [attr.aria-label]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent)) ? 'Rimuovi ' + map.place_name + ' dai preferiti' : 'Salva ' + map.place_name + ' nei preferiti'"
+                [attr.aria-pressed]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))">
+                @if (isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))) {
                 <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M5 2h14a1 1 0 0 1 1 1v19.143a.5.5 0 0 1-.766.424L12 18.03l-7.234 4.536A.5.5 0 0 1 4 22.143V3a1 1 0 0 1 1-1Z"/></svg>
                 } @else {
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"/></svg>

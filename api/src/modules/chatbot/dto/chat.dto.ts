@@ -3,8 +3,10 @@ import { createZodDto } from 'nestjs-zod';
 
 // Request
 export const ChatRequestSchema = z.object({
-  user_question: z.string().min(1, 'Question is required'),
-  conversation_history: z.object({ messages: z.array(z.string()) }).optional(),
+  user_question: z.string().min(1, 'Question is required').max(2000),
+  conversation_history: z
+    .object({ messages: z.array(z.string().max(5000)).max(50) })
+    .optional(),
   region: z.string().optional(),
 });
 
@@ -36,6 +38,11 @@ export const SourceCitationSchema = z.object({
   url: z.string(),
 });
 
+export const ItemCategoryMapSchema = z.object({
+  name: z.string(),
+  category: z.enum(['RESTAURANT', 'MUSEUM', 'EVENT', 'WINE', 'EXPERIENCE', 'PLACE']),
+});
+
 // Full rich response
 export const RichChatResponseSchema = z.object({
   text: z.string(),
@@ -44,6 +51,7 @@ export const RichChatResponseSchema = z.object({
   map_links: z.array(MapLinkSchema),
   tables: z.array(TableDataSchema),
   sources: z.array(SourceCitationSchema),
+  item_categories: z.array(ItemCategoryMapSchema).optional().default([]),
 });
 
 // Stream chunk

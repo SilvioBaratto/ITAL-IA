@@ -18,11 +18,11 @@ import { ChatHistoryService } from '../../services/chat-history.service';
 import { ExploreService } from '../../services/explore.service';
 import { SavedItemsService } from '../../services/saved-items.service';
 import { ToastService } from '../../services/toast.service';
+import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 import { ChatMessage, RichContent } from '../../models/chat.model';
 import { SavedItemCategory } from '../../models/saved-item.model';
 import { MarkdownPipe } from '../../shared/pipes/markdown.pipe';
 import { ChatInputComponent } from '../../shared/chat-input/chat-input';
-import { LayoutComponent } from '../../shared/layout/layout';
 
 @Component({
   selector: 'app-chatbot',
@@ -40,7 +40,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   private readonly savedItemsService = inject(SavedItemsService);
   private readonly toastService = inject(ToastService);
   private readonly destroyRef = inject(DestroyRef);
-  private readonly layout = inject(LayoutComponent);
+  private readonly bridge = inject(MobileChatBridgeService);
   private readonly scrollContainer = viewChild<ElementRef<HTMLElement>>('scrollContainer');
   private readonly desktopChatInput = viewChild<ChatInputComponent>('desktopChatInput');
 
@@ -81,21 +81,24 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     }
 
     this.isLoading.set(false);
-    this.layout.mobileChatIsLoading.set(false);
+    this.bridge.isLoading.set(false);
     this.lastCompletedSummary.set('');
     this.previousRegionId = region.id;
   });
 
   readonly explorePrompts = this.exploreService.prompts;
   readonly exploreLoading = this.exploreService.loading;
+  readonly exploreError = this.exploreService.error;
 
   ngOnInit() {
-    // Register mobile chat input callbacks with layout
-    this.layout.registerMobileChatCallbacks(
-      (text) => this.onMobileSend(text),
-      (text) => this.userInput.set(text),
-    );
-    this.layout.showMobileChatInput.set(true);
+    // Register mobile chat input callbacks with the bridge service
+    this.bridge.register({
+      send: (text) => this.onMobileSend(text),
+      inputChange: (text) => this.userInput.set(text),
+    });
+    this.bridge.showInput.set(true);
+    // Hydrate localStorage from backend for the current region
+    void this.chatHistoryService.syncFromBackend(this.regionService.selectedRegion().id);
   }
 
   ngOnDestroy() {
@@ -107,8 +110,8 @@ export class ChatbotComponent implements OnInit, OnDestroy {
         currentMessages,
       );
     }
-    this.layout.unregisterMobileChatCallbacks();
-    this.layout.showMobileChatInput.set(false);
+    this.bridge.unregister();
+    this.bridge.showInput.set(false);
   }
 
   onNewChat() {
@@ -180,7 +183,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     this.syncMobileInput(text);
   }
 
-  /** Called from mobile bottom bar via layout bridge */
+  /** Called from mobile bottom bar via bridge service */
   private onMobileSend(text: string) {
     this.sendMessage(text);
   }
@@ -205,14 +208,26 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     this.syncMobileInput('');
     this.lastCompletedSummary.set('');
     this.isLoading.set(true);
-    this.layout.mobileChatIsLoading.set(true);
+    this.bridge.isLoading.set(true);
 
-    // Persist user message
+    // Persist user message to localStorage and backend
     const regionId = this.regionService.selectedRegion().id;
     this.chatHistoryService.saveMessages(regionId, this.messages());
+    void this.chatHistoryService.ensureConversation(regionId).then((convId) => {
+      if (convId) {
+        const userMessages = this.messages().filter((m) => m.role === 'user');
+        if (userMessages.length === 1) {
+          this.chatHistoryService.autoTitle(regionId, question);
+        }
+        this.chatHistoryService.persistMessage(regionId, 'USER', question);
+      }
+    });
     this.scrollToBottom();
 
-    const history = this.messages().map((m) => `${m.role}: ${m.content}`);
+    const history = this.messages()
+      .filter((m) => !m.isStreaming && m.content.trim().length > 0)
+      .slice(-20)
+      .map((m) => `${m.role}: ${m.content}`);
 
     const assistantId = crypto.randomUUID();
     const emptyRich: RichContent = {
@@ -221,6 +236,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
       map_links: [],
       tables: [],
       sources: [],
+      item_categories: [],
     };
 
     this.messages.update((msgs) => [
@@ -255,6 +271,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
                   map_links: data.map_links ?? m.richContent?.map_links ?? [],
                   tables: data.tables ?? m.richContent?.tables ?? [],
                   sources: data.sources ?? m.richContent?.sources ?? [],
+                  item_categories: data.item_categories ?? m.richContent?.item_categories ?? [],
                 },
                 isStreaming: !chunk.done,
               };
@@ -264,13 +281,13 @@ export class ChatbotComponent implements OnInit, OnDestroy {
           this.chatHistoryService.saveMessages(regionId, this.messages());
           this.scrollToBottom();
         },
-        error: () => {
+        error: (err: Error) => {
           this.messages.update((msgs) =>
             msgs.map((m) =>
               m.id === assistantId
                 ? {
                     ...m,
-                    content: 'Something went wrong. Please try again.',
+                    content: err?.message || 'Something went wrong. Please try again.',
                     isStreaming: false,
                     isError: true,
                   }
@@ -278,7 +295,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
             ),
           );
           this.isLoading.set(false);
-          this.layout.mobileChatIsLoading.set(false);
+          this.bridge.isLoading.set(false);
           this.scrollToBottom();
         },
         complete: () => {
@@ -308,12 +325,45 @@ export class ChatbotComponent implements OnInit, OnDestroy {
           }
 
           this.isLoading.set(false);
-          this.layout.mobileChatIsLoading.set(false);
+          this.bridge.isLoading.set(false);
           // Final save after streaming completes
           this.chatHistoryService.saveMessages(regionId, this.messages());
+          // Persist assistant message to backend
+          const completedMsg = this.messages().find((m) => m.id === assistantId);
+          if (completedMsg?.content && !completedMsg.isError) {
+            this.chatHistoryService.persistMessage(
+              regionId,
+              'ASSISTANT',
+              completedMsg.content,
+              completedMsg.richContent,
+            );
+          }
           this.scrollToBottom();
         },
       });
+  }
+
+  retryExplore(): void {
+    this.exploreService.retry();
+  }
+
+  retryLastMessage(): void {
+    if (this.isLoading()) return;
+
+    const msgs = this.messages();
+    const errorIndex = msgs.findLastIndex((m: ChatMessage) => m.isError);
+    if (errorIndex === -1) return;
+
+    const userIndex = errorIndex - 1;
+    if (userIndex < 0 || msgs[userIndex].role !== 'user') return;
+
+    const question = msgs[userIndex].content;
+    const lang = msgs[userIndex].lang;
+
+    this.messages.update((all) => all.filter((_, i) => i !== errorIndex && i !== userIndex));
+
+    this.pendingLang = lang;
+    this.sendMessage(question);
   }
 
   onImageError(event: Event) {
@@ -339,13 +389,32 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     setTimeout(() => sourceEl.classList.remove('citation-target-active'), 1500);
   }
 
+  private static resolveCategory(name: string, richContent?: RichContent): SavedItemCategory {
+    const entry = richContent?.item_categories?.find(
+      (e) => e.name.toLowerCase() === name.toLowerCase(),
+    );
+    if (entry) return entry.category as SavedItemCategory;
+
+    const lower = name.toLowerCase();
+    if (/ristorante|osteria|trattoria|bar|café|cafe|pizzeria|locanda/.test(lower)) return 'RESTAURANT';
+    if (/museo|galleria|pinacoteca|fondazione|mostra/.test(lower)) return 'MUSEUM';
+    if (/festival|evento|sagra|fiera|concerto|mercato/.test(lower)) return 'EVENT';
+    if (/cantina|vino|viticolt|enoteca|winery|vigna|friulano|collio|ribolla/.test(lower)) return 'WINE';
+    if (/tour|escursione|trekking|esperienza|attività|degustazione|crociera/.test(lower)) return 'EXPERIENCE';
+    return 'PLACE';
+  }
+
+  getItemCategory(name: string, richContent?: RichContent): SavedItemCategory {
+    return ChatbotComponent.resolveCategory(name, richContent);
+  }
+
   isItemSaved(name: string, category: SavedItemCategory): boolean {
     return this.savedItemsService.isSaved(name, this.regionService.selectedRegion().id, category);
   }
 
-  toggleBookmark(event: Event, type: 'image' | 'link' | 'map', name: string, imageOrUrl: string, mapsUrl: string, website: string) {
+  toggleBookmark(event: Event, type: 'image' | 'link' | 'map', name: string, imageOrUrl: string, mapsUrl: string, website: string, richContent?: RichContent) {
     const region = this.regionService.selectedRegion().id;
-    const category: SavedItemCategory = 'PLACE';
+    const category = ChatbotComponent.resolveCategory(name, richContent);
     const saved = this.savedItemsService.isSaved(name, region, category);
     const itemData = {
       name, category, region, description: name,
@@ -437,7 +506,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   }
 
   private syncMobileInput(text: string) {
-    this.layout.mobileChatUserInput.set(text);
+    this.bridge.userInput.set(text);
   }
 
   private scrollToBottom() {

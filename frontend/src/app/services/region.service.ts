@@ -1,4 +1,7 @@
-import { Injectable, computed, signal } from '@angular/core';
+import { Injectable, computed, inject, signal } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { catchError, EMPTY } from 'rxjs';
+import { environment } from '../../environments/environment';
 import { Region } from '../models/region.model';
 
 const STORAGE_KEY = 'italia-region';
@@ -31,10 +34,20 @@ const ALL_REGIONS: Region[] = [
   { id: 'sardegna', name: 'Sardegna', group: 'isole', hasKB: false },
 ];
 
+interface ApiRegion {
+  id: string;
+  name: string;
+  group: 'NORD' | 'CENTRO' | 'SUD' | 'ISOLE';
+  hasKB: boolean;
+}
+
 @Injectable({
   providedIn: 'root',
 })
 export class RegionService {
+  private readonly http = inject(HttpClient);
+  private readonly endpoint = `${environment.apiUrl}regions`;
+
   readonly regions = signal<Region[]>(ALL_REGIONS);
 
   readonly selectedRegion = signal<Region>(
@@ -43,8 +56,29 @@ export class RegionService {
 
   readonly selectedRegionHasKB = computed(() => this.selectedRegion().hasKB);
 
+  constructor() {
+    this.http.get<ApiRegion[]>(this.endpoint).pipe(
+      catchError(() => EMPTY),
+    ).subscribe((apiRegions) => {
+      const mapped: Region[] = apiRegions.map((r) => ({
+        id: r.id,
+        name: r.name,
+        group: r.group.toLowerCase() as Region['group'],
+        hasKB: r.hasKB,
+      }));
+      this.regions.set(mapped);
+
+      // Re-resolve selected region so hasKB reflects DB truth
+      const currentId = this.selectedRegion().id;
+      const fresh = mapped.find((r) => r.id === currentId);
+      if (fresh) {
+        this.selectedRegion.set(fresh);
+      }
+    });
+  }
+
   selectRegion(id: string): void {
-    const region = ALL_REGIONS.find((r) => r.id === id);
+    const region = this.regions().find((r) => r.id === id);
     if (!region) return;
     this.selectedRegion.set(region);
     localStorage.setItem(STORAGE_KEY, id);
@@ -52,7 +86,7 @@ export class RegionService {
 
   private loadPersistedRegion(): Region {
     const storedId = localStorage.getItem(STORAGE_KEY) ?? DEFAULT_REGION;
-    return ALL_REGIONS.find((r) => r.id === storedId)
-      ?? ALL_REGIONS.find((r) => r.id === DEFAULT_REGION)!;
+    return this.regions().find((r) => r.id === storedId)
+      ?? this.regions().find((r) => r.id === DEFAULT_REGION)!;
   }
 }

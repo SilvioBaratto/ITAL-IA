@@ -1,20 +1,13 @@
 import { test, expect, Page } from '@playwright/test';
+import { loginViaApi } from './helpers/auth';
 
 // ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
 
-/** Log in via email/password and wait for redirect to root. */
+/** Log in via Supabase REST API and wait for redirect to root. */
 async function login(page: Page): Promise<void> {
-  const email = process.env['TEST_EMAIL'];
-  const password = process.env['TEST_PASSWORD'];
-  if (!email || !password) throw new Error('TEST_EMAIL / TEST_PASSWORD env vars required');
-
-  await page.goto('/login');
-  await page.getByLabel('Email').fill(email);
-  await page.getByLabel('Password').fill(password);
-  await page.getByRole('button', { name: /^sign in$/i }).click();
-  await page.waitForURL('/', { timeout: 15_000 });
+  await loginViaApi(page);
 }
 
 /** Whether the current project is mobile. */

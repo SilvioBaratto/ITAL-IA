@@ -25,3 +25,14 @@
 .filter-pills-scroll::-webkit-scrollbar {
   display: none;
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  .mobile-sheet-slide-up {
+    animation: mobile-sheet-slide-up 0.3s cubic-bezier(0.32, 0.72, 0, 1) both;
+  }
+
+  @keyframes mobile-sheet-slide-up {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+  }
+}
