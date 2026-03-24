@@ -9,9 +9,11 @@ import { HealthModule } from './modules/health/health.module';
 import { TestModule } from './modules/test/test.module';
 import { ChatbotModule } from './modules/chatbot/chatbot.module';
 import { AuthModule } from './modules/auth/auth.module';
-import { ItineraryModule } from './modules/itinerary/itinerary.module';
 import { QdrantModule } from './modules/qdrant/qdrant.module';
 import { SavedItemsModule } from './modules/saved-items/saved-items.module';
+import { ChatConversationModule } from './modules/chat-conversation/chat-conversation.module';
+import { RegionModule } from './modules/region/region.module';
+import { PoiModule } from './modules/poi/poi.module';
 import { SupabaseAuthGuard } from './modules/auth/auth.guard';
 
 @Module({
@@ -40,8 +42,10 @@ import { SupabaseAuthGuard } from './modules/auth/auth.guard';
     TestModule,
     ChatbotModule,
     AuthModule,
-    ItineraryModule,
     SavedItemsModule,
+    ChatConversationModule,
+    RegionModule,
+    PoiModule,
   ],
   providers: [
     {

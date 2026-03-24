@@ -2,6 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { NotFoundException } from '@nestjs/common';
 import { SavedItemsService } from './saved-items.service';
 import { PrismaService } from '../../prisma/prisma.service';
+import { PoiService } from '../poi/poi.service';
 
 const mockPrisma = {
   savedItem: {
@@ -9,7 +10,13 @@ const mockPrisma = {
     findMany: jest.fn(),
     findFirst: jest.fn(),
     delete: jest.fn(),
+    count: jest.fn(),
   },
+  $transaction: jest.fn(),
+};
+
+const mockPoiService = {
+  findByNameAndRegion: jest.fn().mockResolvedValue(null),
 };
 
 describe('SavedItemsService', () => {
@@ -20,6 +27,7 @@ describe('SavedItemsService', () => {
       providers: [
         SavedItemsService,
         { provide: PrismaService, useValue: mockPrisma },
+        { provide: PoiService, useValue: mockPoiService },
       ],
     }).compile();
 
@@ -46,10 +54,10 @@ describe('SavedItemsService', () => {
       expect(result).toEqual(expected);
       expect(mockPrisma.savedItem.upsert).toHaveBeenCalledWith({
         where: {
-          userId_name_region_category: {
+          userId_name_regionId_category: {
             userId,
             name: dto.name,
-            region: dto.region,
+            regionId: dto.region,
             category: dto.category,
           },
         },
@@ -84,50 +92,84 @@ describe('SavedItemsService', () => {
   });
 
   describe('listForUser', () => {
-    it('should list all items for user', async () => {
-      mockPrisma.savedItem.findMany.mockResolvedValue([]);
+    const mockItems = [{ id: 'abc', userId, name: 'Test', savedAt: new Date() }];
 
-      await service.listForUser(userId, {});
+    beforeEach(() => {
+      mockPrisma.$transaction.mockResolvedValue([mockItems, 1]);
+    });
+
+    it('should return paginated envelope { data, total, limit, offset }', async () => {
+      const result = await service.listForUser(userId, { limit: 20, offset: 0 });
+
+      expect(result).toEqual({ data: mockItems, total: 1, limit: 20, offset: 0 });
+    });
+
+    it('should call findMany with take and skip', async () => {
+      await service.listForUser(userId, { limit: 20, offset: 0 });
 
       expect(mockPrisma.savedItem.findMany).toHaveBeenCalledWith({
         where: { userId },
         orderBy: { savedAt: 'desc' },
+        take: 20,
+        skip: 0,
       });
     });
 
-    it('should filter by region', async () => {
-      mockPrisma.savedItem.findMany.mockResolvedValue([]);
+    it('should call count with the same where clause', async () => {
+      await service.listForUser(userId, { limit: 20, offset: 0 });
 
-      await service.listForUser(userId, { region: 'Friuli Venezia Giulia' });
+      expect(mockPrisma.savedItem.count).toHaveBeenCalledWith({ where: { userId } });
+    });
+
+    it('should filter by region', async () => {
+      await service.listForUser(userId, { region: 'Friuli Venezia Giulia', limit: 20, offset: 0 });
 
       expect(mockPrisma.savedItem.findMany).toHaveBeenCalledWith({
-        where: { userId, region: 'Friuli Venezia Giulia' },
+        where: { userId, regionId: 'Friuli Venezia Giulia' },
         orderBy: { savedAt: 'desc' },
+        take: 20,
+        skip: 0,
+      });
+      expect(mockPrisma.savedItem.count).toHaveBeenCalledWith({
+        where: { userId, regionId: 'Friuli Venezia Giulia' },
       });
     });
 
     it('should filter by category', async () => {
-      mockPrisma.savedItem.findMany.mockResolvedValue([]);
-
-      await service.listForUser(userId, { category: 'MUSEUM' });
+      await service.listForUser(userId, { category: 'MUSEUM', limit: 20, offset: 0 });
 
       expect(mockPrisma.savedItem.findMany).toHaveBeenCalledWith({
         where: { userId, category: 'MUSEUM' },
         orderBy: { savedAt: 'desc' },
+        take: 20,
+        skip: 0,
       });
     });
 
     it('should filter by both region and category', async () => {
-      mockPrisma.savedItem.findMany.mockResolvedValue([]);
-
       await service.listForUser(userId, {
         region: 'Friuli Venezia Giulia',
         category: 'RESTAURANT',
+        limit: 10,
+        offset: 20,
       });
 
       expect(mockPrisma.savedItem.findMany).toHaveBeenCalledWith({
-        where: { userId, region: 'Friuli Venezia Giulia', category: 'RESTAURANT' },
+        where: { userId, regionId: 'Friuli Venezia Giulia', category: 'RESTAURANT' },
         orderBy: { savedAt: 'desc' },
+        take: 10,
+        skip: 20,
+      });
+    });
+
+    it('should pass custom limit and offset', async () => {
+      await service.listForUser(userId, { limit: 5, offset: 10 });
+
+      expect(mockPrisma.savedItem.findMany).toHaveBeenCalledWith({
+        where: { userId },
+        orderBy: { savedAt: 'desc' },
+        take: 5,
+        skip: 10,
       });
     });
   });
@@ -173,7 +215,7 @@ describe('SavedItemsService', () => {
         where: {
           userId,
           name: query.name,
-          region: query.region,
+          regionId: query.region,
           category: query.category,
         },
         select: { id: true },

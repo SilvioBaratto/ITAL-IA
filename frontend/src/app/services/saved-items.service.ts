@@ -3,7 +3,9 @@ import { HttpClient } from '@angular/common/http';
 import { Observable, Subscription, tap, catchError, throwError, EMPTY } from 'rxjs';
 import { environment } from '../../environments/environment';
 import { RegionService } from './region.service';
-import { SavedItem, SaveItemRequest, SavedItemCategory } from '../models/saved-item.model';
+import { SavedItem, SaveItemRequest, SavedItemCategory, PaginatedSavedItemsResponse } from '../models/saved-item.model';
+
+const DEFAULT_LIMIT = 20;
 
 @Injectable({
   providedIn: 'root',
@@ -15,15 +17,19 @@ export class SavedItemsService {
 
   private readonly savedItemsMap = signal<Map<string, SavedItem>>(new Map());
   private readonly loadingSignal = signal(false);
+  private readonly loadingMoreSignal = signal(false);
   private readonly errorSignal = signal(false);
-  private readonly statusSignal = signal<string | null>(null);
+  private readonly totalSignal = signal(0);
+  private readonly offsetSignal = signal(0);
   private activeSubscription?: Subscription;
 
   readonly loading = this.loadingSignal.asReadonly();
+  readonly loadingMore = this.loadingMoreSignal.asReadonly();
   readonly error = this.errorSignal.asReadonly();
-  readonly statusMessage = this.statusSignal.asReadonly();
+  readonly total = this.totalSignal.asReadonly();
   readonly hasSavedItems = computed(() => this.savedItemsMap().size > 0);
   readonly savedItems = computed(() => Array.from(this.savedItemsMap().values()));
+  readonly hasMore = computed(() => this.savedItemsMap().size < this.totalSignal());
 
   constructor() {
     effect(() => {
@@ -31,6 +37,8 @@ export class SavedItemsService {
       this.activeSubscription?.unsubscribe();
       this.loadingSignal.set(true);
       this.errorSignal.set(false);
+      this.totalSignal.set(0);
+      this.offsetSignal.set(0);
 
       this.activeSubscription = this.loadSavedItems(region.id).subscribe({
         error: () => {
@@ -53,17 +61,18 @@ export class SavedItemsService {
     const key = this.buildKey(item.name, item.region, item.category);
     const previousItem = this.savedItemsMap().get(key);
     this.addToMap(key, { id: '', userId: '', savedAt: '', ...item, address: item.address ?? null, mapsUrl: item.mapsUrl ?? null, website: item.website ?? null, imageUrl: item.imageUrl ?? null });
-    this.statusSignal.set(`${item.name} saved`);
 
     return this.http.post<SavedItem>(this.endpoint, item).pipe(
-      tap((saved) => this.addToMap(key, saved)),
+      tap((saved) => {
+        this.addToMap(key, saved);
+        this.totalSignal.update((t) => t + 1);
+      }),
       catchError((err) => {
         if (previousItem) {
           this.addToMap(key, previousItem);
         } else {
           this.removeFromMap(key);
         }
-        this.statusSignal.set(`Failed to save ${item.name}`);
         return throwError(() => err);
       }),
     );
@@ -77,34 +86,63 @@ export class SavedItemsService {
     }
 
     this.removeFromMap(key);
-    this.statusSignal.set(`${name} removed from saved`);
+    this.totalSignal.update((t) => Math.max(0, t - 1));
 
     return this.http.delete<void>(`${this.endpoint}/${previousItem.id}`).pipe(
       catchError((err) => {
         this.addToMap(key, previousItem);
-        this.statusSignal.set(`Failed to remove ${name}`);
+        this.totalSignal.update((t) => t + 1);
         return throwError(() => err);
       }),
     );
   }
 
-  loadSavedItems(region?: string, category?: SavedItemCategory): Observable<SavedItem[]> {
-    const params: Record<string, string> = {};
-    if (region) {
-      params['region'] = region;
-    }
-    if (category) {
-      params['category'] = category;
-    }
+  /** Loads the first page, replacing the map entirely. Called on initial mount and region change. */
+  loadSavedItems(region?: string, category?: SavedItemCategory): Observable<PaginatedSavedItemsResponse> {
+    const params: Record<string, string> = {
+      limit: String(DEFAULT_LIMIT),
+      offset: '0',
+    };
+    if (region) params['region'] = region;
+    if (category) params['category'] = category;
 
-    return this.http.get<SavedItem[]>(this.endpoint, { params }).pipe(
-      tap((items) => {
+    return this.http.get<PaginatedSavedItemsResponse>(this.endpoint, { params }).pipe(
+      tap((response) => {
         const map = new Map<string, SavedItem>();
-        for (const item of items) {
+        for (const item of response.data) {
           map.set(this.buildKey(item.name, item.region, item.category), item);
         }
         this.savedItemsMap.set(map);
+        this.totalSignal.set(response.total);
+        this.offsetSignal.set(response.data.length);
         this.loadingSignal.set(false);
+      }),
+    );
+  }
+
+  /** Loads the next page and merges items into the existing map. Triggered by "Load more". */
+  loadMore(region?: string, category?: SavedItemCategory): Observable<PaginatedSavedItemsResponse> {
+    const params: Record<string, string> = {
+      limit: String(DEFAULT_LIMIT),
+      offset: String(this.offsetSignal()),
+    };
+    if (region) params['region'] = region;
+    if (category) params['category'] = category;
+
+    this.loadingMoreSignal.set(true);
+
+    return this.http.get<PaginatedSavedItemsResponse>(this.endpoint, { params }).pipe(
+      tap((response) => {
+        for (const item of response.data) {
+          this.addToMap(this.buildKey(item.name, item.region, item.category), item);
+        }
+        this.totalSignal.set(response.total);
+        this.offsetSignal.update((prev) => prev + response.data.length);
+        this.loadingMoreSignal.set(false);
+      }),
+      catchError((err) => {
+        this.loadingMoreSignal.set(false);
+        return throwError(() => err);
       }),
     );
   }

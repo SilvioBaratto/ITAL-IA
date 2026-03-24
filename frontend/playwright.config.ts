@@ -8,6 +8,7 @@ export default defineConfig({
   workers: process.env['CI'] ? 1 : undefined,
   reporter: 'html',
   timeout: 60_000,
+  globalSetup: './e2e/global-setup.ts',
   use: {
     baseURL: 'http://localhost:4200',
     trace: 'on-first-retry',

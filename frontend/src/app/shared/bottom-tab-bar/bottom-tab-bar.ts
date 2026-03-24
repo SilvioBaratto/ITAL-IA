@@ -1,8 +1,6 @@
 import {
   Component,
   ChangeDetectionStrategy,
-  input,
-  output,
   inject,
   signal,
   computed,
@@ -13,6 +11,7 @@ import {
 import { isPlatformBrowser } from '@angular/common';
 import { RouterLink, RouterLinkActive } from '@angular/router';
 import { RegionService } from '../../services/region.service';
+import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 import { RegionBottomSheetComponent } from '../region-bottom-sheet/region-bottom-sheet';
 import { ChatInputComponent } from '../chat-input/chat-input';
 
@@ -29,13 +28,13 @@ import { ChatInputComponent } from '../chat-input/chat-input';
   host: { class: 'block md:hidden' },
   template: `
     <!-- Chat input (above tabs, only on chat page) — always visible -->
-    @if (showChatInput()) {
+    @if (bridge.showInput()) {
       <div class="px-3 py-2 bg-surface border-t border-border">
         <app-chat-input
-          [userInput]="chatUserInput()"
-          [isLoading]="chatIsLoading()"
-          (send)="chatSend.emit($event)"
-          (inputChange)="chatInputChange.emit($event)" />
+          [userInput]="bridge.userInput()"
+          [isLoading]="bridge.isLoading()"
+          (send)="bridge.send($event)"
+          (inputChange)="bridge.notifyInputChange($event)" />
       </div>
     }
 
@@ -104,12 +103,8 @@ export class BottomTabBarComponent implements OnInit, OnDestroy {
   private readonly regionService = inject(RegionService);
   private readonly platformId = inject(PLATFORM_ID);
 
-  readonly showChatInput = input<boolean>(false);
-  readonly chatUserInput = input<string>('');
-  readonly chatIsLoading = input<boolean>(false);
-
-  readonly chatSend = output<string>();
-  readonly chatInputChange = output<string>();
+  /** Exposed so the template can read bridge signals directly. */
+  readonly bridge = inject(MobileChatBridgeService);
 
   readonly currentRegion = this.regionService.selectedRegion;
   readonly isRegionSheetOpen = signal(false);

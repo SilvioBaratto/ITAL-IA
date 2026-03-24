@@ -1,7 +1,9 @@
 import { Injectable, Logger } from '@nestjs/common';
 import { QdrantService, SearchResult } from '../qdrant/qdrant.service';
-import { ItineraryService } from '../itinerary/itinerary.service';
-import { ChatRequestDto, RichChatResponseDto, StreamChunkDto } from './dto/chat.dto';
+import { ChatRequestDto, ItemCategoryMapSchema, StreamChunkDto } from './dto/chat.dto';
+import { z } from 'zod';
+
+type ItemCategoryMap = z.infer<typeof ItemCategoryMapSchema>;
 
 const DEFAULT_REGION = 'Friuli Venezia Giulia';
 
@@ -20,59 +22,11 @@ function toRetrievedChunks(results: SearchResult[]) {
   }));
 }
 
-const EMPTY_RICH: RichChatResponseDto = {
-  text: '',
-  images: [],
-  links: [],
-  map_links: [],
-  tables: [],
-  sources: [],
-};
-
 @Injectable()
 export class ChatbotService {
   private readonly logger = new Logger(ChatbotService.name);
 
-  constructor(
-    private readonly qdrantService: QdrantService,
-    private readonly itineraryService: ItineraryService,
-  ) {}
-
-  async chat(request: ChatRequestDto, userId?: string): Promise<RichChatResponseDto> {
-    try {
-      const { b } = await import('../../../baml_client');
-      const region = request.region ?? DEFAULT_REGION;
-
-      const [searchResults, tripContext] = await Promise.all([
-        this.qdrantService.search(request.user_question, 5, request.region),
-        userId ? this.getUserTripContext(userId) : Promise.resolve(null),
-      ]);
-      const contextChunks = toRetrievedChunks(searchResults);
-
-      const result = await b.RAGChat(
-        request.user_question,
-        contextChunks,
-        request.conversation_history,
-        tripContext,
-        region,
-      );
-
-      return {
-        text: result.text ?? '',
-        images: result.images ?? [],
-        links: result.links ?? [],
-        map_links: result.map_links ?? [],
-        tables: result.tables ?? [],
-        sources: result.sources ?? [],
-      };
-    } catch (error) {
-      this.logger.error(`Chat error: ${error}`);
-      return {
-        ...EMPTY_RICH,
-        text: 'Mi dispiace, si è verificato un errore. Riprova più tardi.',
-      };
-    }
-  }
+  constructor(private readonly qdrantService: QdrantService) {}
 
   async *streamChat(
     request: ChatRequestDto,
@@ -106,6 +60,7 @@ export class ChatbotService {
             map_links: event?.map_links ?? undefined,
             tables: event?.tables ?? undefined,
             sources: event?.sources ?? undefined,
+            item_categories: (event?.item_categories ?? undefined) as ItemCategoryMap[] | undefined,
           },
           done: false,
         };
@@ -121,6 +76,7 @@ export class ChatbotService {
           map_links: final.map_links ?? [],
           tables: final.tables ?? [],
           sources: final.sources ?? [],
+          item_categories: (final.item_categories ?? []) as ItemCategoryMap[],
         },
         done: true,
       };
@@ -136,67 +92,7 @@ export class ChatbotService {
     }
   }
 
-  private async getUserTripContext(userId: string): Promise<string | null> {
-    try {
-      const trip = await this.itineraryService.getMostRecentTrip(userId);
-      if (!trip) return null;
-      return this.formatTripContext(trip);
-    } catch (error) {
-      this.logger.warn(`Failed to fetch trip context for user ${userId}: ${error}`);
-      return null;
-    }
-  }
-
-  private formatTripContext(trip: any): string {
-    const lines: string[] = [];
-    lines.push(`**Viaggio:** ${trip.title}`);
-    lines.push(`**Città:** ${trip.city}`);
-    lines.push(`**Date:** ${trip.startDate} – ${trip.endDate}`);
-    lines.push('');
-
-    for (const day of trip.days) {
-      lines.push(`### Giorno ${day.dayNumber}: ${day.title}`);
-      if (day.theme) lines.push(`*Tema: ${day.theme}*`);
-
-      for (const activity of day.activities) {
-        const time = activity.startTime
-          ? activity.endTime
-            ? `${activity.startTime}–${activity.endTime}`
-            : activity.startTime
-          : '';
-        const price =
-          activity.priceMinCents != null || activity.priceMaxCents != null
-            ? ` | Prezzo: €${((activity.priceMinCents ?? activity.priceMaxCents ?? 0) / 100).toFixed(0)}`
-            : '';
-        const place = activity.place
-          ? ` | Luogo: ${activity.place.name}${activity.place.address ? `, ${activity.place.address}` : ''}`
-          : '';
-
-        lines.push(`- [${activity.activityType}] ${time ? time + ' ' : ''}**${activity.title}**${place}${price}`);
-        if (activity.description) lines.push(`  ${activity.description}`);
-        if (activity.highlights?.length) {
-          lines.push(`  Punti salienti: ${activity.highlights.map((h: any) => h.description).join(', ')}`);
-        }
-      }
-      lines.push('');
-    }
-
-    if (trip.bookings?.length) {
-      lines.push('### Prenotazioni');
-      for (const b of trip.bookings) {
-        const price = b.priceCents != null ? ` – €${(b.priceCents / 100).toFixed(0)}` : '';
-        lines.push(`- ${b.attractionName}${price}${b.bookingUrl ? ` (${b.bookingUrl})` : ''}`);
-      }
-      lines.push('');
-    }
-
-    if (trip.tips?.length) {
-      lines.push('### Consigli di viaggio');
-      for (const tip of trip.tips) {
-        lines.push(`- [${tip.category}] ${tip.content}`);
-      }
-    }
-
-    return lines.join('\n');
+  private getUserTripContext(_userId: string): Promise<null> {
+    return Promise.resolve(null);
   }
 }

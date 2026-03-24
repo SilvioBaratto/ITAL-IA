@@ -1,12 +1,17 @@
-import { Injectable, signal } from '@angular/core';
+import { inject, Injectable, InjectionToken, signal } from '@angular/core';
 import { createClient, SupabaseClient, User } from '@supabase/supabase-js';
 import { environment } from '../../environments/environment';
+
+export const SUPABASE_CLIENT = new InjectionToken<SupabaseClient>('SupabaseClient', {
+  providedIn: 'root',
+  factory: () => createClient(environment.supabaseUrl, environment.supabasePublishableKey),
+});
 
 @Injectable({
   providedIn: 'root',
 })
 export class AuthService {
-  private readonly supabase: SupabaseClient;
+  private readonly supabase = inject(SUPABASE_CLIENT);
   private initPromise: Promise<void>;
   private cachedAccessToken: string | null = null;
 
@@ -16,8 +21,6 @@ export class AuthService {
   isPasswordRecovery = signal(false);
 
   constructor() {
-    this.supabase = createClient(environment.supabaseUrl, environment.supabasePublishableKey);
-
     this.initPromise = this.supabase.auth.getSession()
       .then(({ data: { session } }) => {
         this.isAuthenticated.set(!!session);
@@ -104,12 +107,13 @@ export class AuthService {
     return this.cachedAccessToken;
   }
 
-  async refreshSession(): Promise<boolean> {
+  async refreshSession(): Promise<string | null> {
     const { data: { session }, error } = await this.supabase.auth.refreshSession();
     if (error || !session) {
-      return false;
+      return null;
     }
-    return true;
+    this.cachedAccessToken = session.access_token;
+    return session.access_token;
   }
 
   async logout(): Promise<void> {

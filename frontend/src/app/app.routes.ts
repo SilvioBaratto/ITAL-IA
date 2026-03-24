@@ -30,19 +30,20 @@ export const routes: Routes = [
         title: 'Chatbot',
       },
       {
-        path: 'itinerary',
-        loadComponent: () => import('./pages/itinerary/itinerary').then((m) => m.ItineraryComponent),
-        title: 'Itinerary',
-      },
-      {
         path: 'saved',
         loadComponent: () => import('./pages/saved/saved').then((m) => m.SavedPageComponent),
         title: 'Salvati',
+      },
+      {
+        path: 'profile',
+        loadComponent: () => import('./pages/profile/profile').then((m) => m.ProfilePageComponent),
+        title: 'Profilo',
       },
     ],
   },
   {
     path: '**',
-    redirectTo: '',
+    loadComponent: () => import('./pages/not-found/not-found').then((m) => m.NotFoundComponent),
+    title: '404 — Pagina non trovata',
   },
 ];

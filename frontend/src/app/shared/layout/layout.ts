@@ -27,25 +27,30 @@ export class LayoutComponent implements OnInit, OnDestroy {
 
   showOverlay = computed(() => this.isSidebarOpen() && this.isMobile());
 
-  // Chat input bridging — mobile bottom bar communicates with chatbot
-  showMobileChatInput = signal(false);
-  mobileChatUserInput = signal('');
-  mobileChatIsLoading = signal(false);
-
-  private mobileSendCallback: ((text: string) => void) | null = null;
-  private mobileInputChangeCallback: ((text: string) => void) | null = null;
-
   private resizeObserver?: ResizeObserver;
+
+  // Arrow function field preserves `this` and keeps a stable reference for removeEventListener.
+  // Intercepts clicks on the skip link (which lives in index.html, outside Angular's template)
+  // and programmatically focuses #main-content once Angular has rendered it.
+  private readonly skipLinkClickHandler = (event: MouseEvent): void => {
+    const target = event.target as HTMLAnchorElement;
+    if (target.getAttribute('href') === '#main-content') {
+      event.preventDefault();
+      this.mainContent()?.nativeElement.focus();
+    }
+  };
 
   ngOnInit() {
     this.checkScreenSize();
     this.initializeResizeObserver();
     this.initializeFocusManagement();
+    this.initializeSkipLink();
   }
 
   ngOnDestroy() {
     this.resizeObserver?.disconnect();
     this.routerSub?.unsubscribe();
+    document.removeEventListener('click', this.skipLinkClickHandler);
   }
 
   toggleSidebar() {
@@ -54,29 +59,6 @@ export class LayoutComponent implements OnInit, OnDestroy {
 
   closeSidebar() {
     this.isSidebarOpen.set(false);
-  }
-
-  // Chat input bridging methods
-  registerMobileChatCallbacks(
-    sendCb: (text: string) => void,
-    inputChangeCb: (text: string) => void,
-  ) {
-    this.mobileSendCallback = sendCb;
-    this.mobileInputChangeCallback = inputChangeCb;
-  }
-
-  unregisterMobileChatCallbacks() {
-    this.mobileSendCallback = null;
-    this.mobileInputChangeCallback = null;
-  }
-
-  onMobileChatSend(text: string) {
-    this.mobileSendCallback?.(text);
-  }
-
-  onMobileChatInputChange(text: string) {
-    this.mobileChatUserInput.set(text);
-    this.mobileInputChangeCallback?.(text);
   }
 
   private checkScreenSize() {
@@ -116,5 +98,9 @@ export class LayoutComponent implements OnInit, OnDestroy {
       }
     });
     this.resizeObserver.observe(document.body);
+  }
+
+  private initializeSkipLink() {
+    document.addEventListener('click', this.skipLinkClickHandler);
   }
 }

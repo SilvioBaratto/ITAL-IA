@@ -50,6 +50,13 @@ class SourceCitation {
   @@stream.done
 }
 
+// Category classification for a named item in the response
+class ItemCategoryMap {
+  name string @description("The place, restaurant, museum or item name")
+  category string @description("One of: RESTAURANT, MUSEUM, EVENT, WINE, EXPERIENCE, PLACE")
+  @@stream.done
+}
+
 // Full rich chat response
 class RichChatResponse {
   text string @description("Main answer in Italian, markdown formatted") @stream.not_null
@@ -58,6 +65,7 @@ class RichChatResponse {
   map_links MapLink[] @description("Google Maps links for mentioned places")
   tables TableData[] @description("Structured data as tables")
   sources SourceCitation[] @description("Source citations")
+  item_categories ItemCategoryMap[] @description("Category for each named item in the response. Use RESTAURANT for ristoranti/bar/osterie, MUSEUM for musei/gallerie/fondazioni, EVENT for eventi/festival/sagre, WINE for cantine/vini/enoteche, EXPERIENCE for tour/esperienze/attività/degustazioni, PLACE as default.")
 }
 
 // Non-streaming RAG chat function
@@ -86,6 +94,7 @@ function RAGChat(
     9. Il campo "text" deve contenere la risposta principale in markdown italiano.
     10. Quando l'utente chiede del suo piano, programma, prenotazioni o attività, usa i dati dell'itinerario personale forniti qui sotto.
     11. Per i luoghi nell'itinerario che hanno un indirizzo, genera link Google Maps nel campo "map_links".
+    12. Per ogni ristorante, museo, evento, cantina, esperienza o luogo citato nella risposta, inserisci una voce in "item_categories" con il nome e la categoria appropriata (RESTAURANT, MUSEUM, EVENT, WINE, EXPERIENCE o PLACE).
 
     {% if context_chunks %}
     ## Contesto recuperato dalla Knowledge Base di {{ region_name }}:
@@ -149,6 +158,7 @@ function StreamRAGChat(
     9. Il campo "text" deve contenere la risposta principale in markdown italiano.
     10. Quando l'utente chiede del suo piano, programma, prenotazioni o attività, usa i dati dell'itinerario personale forniti qui sotto.
     11. Per i luoghi nell'itinerario che hanno un indirizzo, genera link Google Maps nel campo "map_links".
+    12. Per ogni ristorante, museo, evento, cantina, esperienza o luogo citato nella risposta, inserisci una voce in "item_categories" con il nome e la categoria appropriata (RESTAURANT, MUSEUM, EVENT, WINE, EXPERIENCE o PLACE).
 
     {% if context_chunks %}
     ## Contesto recuperato dalla Knowledge Base di {{ region_name }}:

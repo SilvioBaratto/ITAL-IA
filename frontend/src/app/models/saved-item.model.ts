@@ -28,5 +28,17 @@ export interface SavedItem {
   mapsUrl: string | null;
   website: string | null;
   imageUrl: string | null;
-  savedAt: string;
+  savedAt: Date | string;
+}
+
+export interface PaginatedSavedItemsResponse {
+  data: SavedItem[];
+  total: number;
+  limit: number;
+  offset: number;
+}
+
+export interface CheckSavedItemResponse {
+  isSaved: boolean;
+  id?: string;
 }

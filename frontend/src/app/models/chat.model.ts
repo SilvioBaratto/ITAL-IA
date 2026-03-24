@@ -25,12 +25,20 @@ export interface SourceCitation {
   url: string;
 }
 
+export type ChatItemCategory = 'RESTAURANT' | 'MUSEUM' | 'EVENT' | 'WINE' | 'EXPERIENCE' | 'PLACE';
+
+export interface ItemCategoryEntry {
+  name: string;
+  category: ChatItemCategory;
+}
+
 export interface RichContent {
   images: ImageItem[];
   links: LinkItem[];
   map_links: MapLink[];
   tables: TableData[];
   sources: SourceCitation[];
+  item_categories: ItemCategoryEntry[];
 }
 
 export interface RichChatResponse {
@@ -40,6 +48,7 @@ export interface RichChatResponse {
   map_links: MapLink[];
   tables: TableData[];
   sources: SourceCitation[];
+  item_categories: ItemCategoryEntry[];
 }
 
 export interface StreamChunk {

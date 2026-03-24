@@ -21,11 +21,5 @@
   <app-toast />
 
   <!-- Bottom tab bar (mobile only) -->
-  <app-bottom-tab-bar
-    class="sticky bottom-0 z-30"
-    [showChatInput]="showMobileChatInput()"
-    [chatUserInput]="mobileChatUserInput()"
-    [chatIsLoading]="mobileChatIsLoading()"
-    (chatSend)="onMobileChatSend($event)"
-    (chatInputChange)="onMobileChatInputChange($event)" />
+  <app-bottom-tab-bar class="sticky bottom-0 z-30" />
 </div>
