@@ -11,6 +11,29 @@ export class MobileChatBridgeService {
   /** Whether a message is currently streaming — drives the mobile send button disabled state. */
   readonly isLoading = signal(false);
 
+  /**
+   * True while a programmatic scroll (e.g. chat auto-scroll after AI response)
+   * is in progress. BottomTabBarComponent reads this to ignore scroll events
+   * that were not initiated by the user, preventing the nav from hiding on
+   * auto-scroll.
+   */
+  readonly navAutoHideSuppressed = signal(false);
+  private suppressTimer: number | null = null;
+
+  /**
+   * Call immediately before any programmatic scrollToBottom().
+   * Suppresses nav hide/show logic for `ms` milliseconds — enough for the
+   * scroll to settle plus any trailing scroll events fired by the browser.
+   */
+  suppressNavAutoHide(ms = 150): void {
+    this.navAutoHideSuppressed.set(true);
+    if (this.suppressTimer !== null) clearTimeout(this.suppressTimer);
+    this.suppressTimer = window.setTimeout(() => {
+      this.navAutoHideSuppressed.set(false);
+      this.suppressTimer = null;
+    }, ms);
+  }
+
   private sendCallback?: (msg: string) => void;
   private inputChangeCallback?: (msg: string) => void;
 

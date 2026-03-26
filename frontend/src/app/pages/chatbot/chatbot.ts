@@ -510,6 +510,9 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   }
 
   private scrollToBottom() {
+    // Suppress nav hide/show while the programmatic scroll settles so the
+    // bottom tab bar doesn't vanish on every AI streaming chunk.
+    this.bridge.suppressNavAutoHide();
     setTimeout(() => {
       const el = this.scrollContainer()?.nativeElement;
       if (el) el.scrollTop = el.scrollHeight;

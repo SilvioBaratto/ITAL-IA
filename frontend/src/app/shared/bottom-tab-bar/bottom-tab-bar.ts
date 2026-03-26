@@ -176,6 +176,11 @@ export class BottomTabBarComponent implements OnInit, OnDestroy {
   }
 
   private onScrollCapture(event: Event): void {
+    // Ignore programmatic scrolls (e.g. chat auto-scroll while AI streams).
+    // ChatbotComponent calls bridge.suppressNavAutoHide() before every
+    // scrollToBottom(), which sets this flag for 150 ms.
+    if (this.bridge.navAutoHideSuppressed()) return;
+
     const target = event.target as Element | Document;
 
     // Resolve the scrollTop of whatever element fired the event.
