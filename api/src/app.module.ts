@@ -11,7 +11,6 @@ import { ChatbotModule } from './modules/chatbot/chatbot.module';
 import { AuthModule } from './modules/auth/auth.module';
 import { QdrantModule } from './modules/qdrant/qdrant.module';
 import { SavedItemsModule } from './modules/saved-items/saved-items.module';
-import { ChatConversationModule } from './modules/chat-conversation/chat-conversation.module';
 import { RegionModule } from './modules/region/region.module';
 import { PoiModule } from './modules/poi/poi.module';
 import { SupabaseAuthGuard } from './modules/auth/auth.guard';
@@ -43,7 +42,6 @@ import { SupabaseAuthGuard } from './modules/auth/auth.guard';
     ChatbotModule,
     AuthModule,
     SavedItemsModule,
-    ChatConversationModule,
     RegionModule,
     PoiModule,
   ],
