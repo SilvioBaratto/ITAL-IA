@@ -43,13 +43,6 @@ enum PoiCategory {
   @@map("poi_category")
 }
 
-enum ChatMessageRole {
-  USER
-  ASSISTANT
-
-  @@map("chat_message_role")
-}
-
 enum SavedItemCategory {
   RESTAURANT
   MUSEUM
@@ -73,7 +66,6 @@ model Region {
   hasKb Boolean     @default(false) @map("has_kb")
 
   pointsOfInterest  PointOfInterest[]
-  chatConversations ChatConversation[]
   savedItems        SavedItem[]
 
   @@map("regions")
@@ -102,38 +94,6 @@ model PointOfInterest {
   @@unique([name, regionId, category])
   @@index([regionId])
   @@map("points_of_interest")
-}
-
-/// A chat conversation scoped to a user and region
-model ChatConversation {
-  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  userId    String   @map("user_id") @db.Uuid
-  regionId  String   @map("region_id") @db.VarChar(50)
-  title     String   @default("Nuova conversazione") @db.VarChar(500)
-  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz
-  updatedAt DateTime @updatedAt @map("updated_at") @db.Timestamptz
-
-  region   Region        @relation(fields: [regionId], references: [id], onDelete: Restrict, onUpdate: Cascade)
-  messages ChatMessage[]
-
-  @@index([userId, regionId])
-  @@index([userId, updatedAt])
-  @@map("chat_conversations")
-}
-
-/// A single message within a chat conversation
-model ChatMessage {
-  id             String          @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  conversationId String          @map("conversation_id") @db.Uuid
-  role           ChatMessageRole
-  content        String          @db.Text
-  richContent    Json?           @map("rich_content") @db.JsonB
-  createdAt      DateTime        @default(now()) @map("created_at") @db.Timestamptz
-
-  conversation ChatConversation @relation(fields: [conversationId], references: [id], onDelete: Cascade, onUpdate: Cascade)
-
-  @@index([conversationId, createdAt])
-  @@map("chat_messages")
 }
 
 /// User-bookmarked entity from chat responses

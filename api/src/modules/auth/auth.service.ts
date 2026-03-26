@@ -45,10 +45,7 @@ export class AuthService {
       throw new Error('Failed to delete account');
     }
 
-    await this.prisma.$transaction([
-      this.prisma.savedItem.deleteMany({ where: { userId } }),
-      this.prisma.chatConversation.deleteMany({ where: { userId } }),
-    ]);
+    await this.prisma.savedItem.deleteMany({ where: { userId } });
   }
 
   private getAdminClient(): SupabaseClient {

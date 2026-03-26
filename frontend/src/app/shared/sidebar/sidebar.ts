@@ -1,8 +1,7 @@
 import { Component, computed, input, output, inject, ChangeDetectionStrategy } from '@angular/core';
 import { RouterLink, RouterLinkActive, Router } from '@angular/router';
 import { AuthService } from '../../services/auth.service';
-import { ChatHistoryService } from '../../services/chat-history.service';
-import { RegionService } from '../../services/region.service';
+import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 import { ThemeService } from '../../services/theme.service';
 import { RegionSelectorComponent } from '../region-selector/region-selector';
 import {
@@ -45,8 +44,7 @@ interface NavItem {
 })
 export class SidebarComponent {
   private readonly authService = inject(AuthService);
-  private readonly chatHistoryService = inject(ChatHistoryService);
-  private readonly regionService = inject(RegionService);
+  private readonly bridge = inject(MobileChatBridgeService);
   private readonly router = inject(Router);
   readonly themeService = inject(ThemeService);
 
@@ -63,7 +61,8 @@ export class SidebarComponent {
   showSidebar = computed(() => !this.isMobile() || this.isOpen());
 
   onNewChat() {
-    this.chatHistoryService.clearHistory(this.regionService.selectedRegion().id);
+    this.bridge.resetRequested.update(v => v + 1);
+    this.router.navigate(['/']);
     this.closeSidebar.emit();
   }
 

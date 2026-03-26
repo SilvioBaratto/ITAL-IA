@@ -11,6 +11,9 @@ export class MobileChatBridgeService {
   /** Whether a message is currently streaming — drives the mobile send button disabled state. */
   readonly isLoading = signal(false);
 
+  /** Incremented to request a chat reset (e.g. from sidebar "New chat" button). */
+  readonly resetRequested = signal(0);
+
   /**
    * True while a programmatic scroll (e.g. chat auto-scroll after AI response)
    * is in progress. BottomTabBarComponent reads this to ignore scroll events

@@ -1,7 +1,6 @@
 import {
   Component,
   signal,
-  computed,
   inject,
   viewChild,
   ElementRef,
@@ -14,7 +13,6 @@ import {
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ChatService } from '../../services/chat.service';
 import { RegionService } from '../../services/region.service';
-import { ChatHistoryService } from '../../services/chat-history.service';
 import { ExploreService } from '../../services/explore.service';
 import { SavedItemsService } from '../../services/saved-items.service';
 import { ToastService } from '../../services/toast.service';
@@ -27,8 +25,6 @@ import { ChatInputComponent } from '../../shared/chat-input/chat-input';
 import {
   LucidePlus,
   LucideTriangleAlert,
-  LucideClock,
-  LucideX,
   LucideCircleAlert,
   LucideRotateCcw,
   LucideBookmark,
@@ -46,8 +42,6 @@ import {
     ChatInputComponent,
     LucidePlus,
     LucideTriangleAlert,
-    LucideClock,
-    LucideX,
     LucideCircleAlert,
     LucideRotateCcw,
     LucideBookmark,
@@ -65,7 +59,6 @@ import {
 export class ChatbotComponent implements OnInit, OnDestroy {
   private readonly chatService = inject(ChatService);
   private readonly regionService = inject(RegionService);
-  private readonly chatHistoryService = inject(ChatHistoryService);
   private readonly exploreService = inject(ExploreService);
   private readonly savedItemsService = inject(SavedItemsService);
   private readonly toastService = inject(ToastService);
@@ -79,35 +72,27 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   isLoading = signal(false);
   userInput = signal('');
   lastCompletedSummary = signal('');
-  private readonly cardDismissed = signal(false);
-
-  readonly historyLoading = this.chatHistoryService.loading;
-
-  readonly hasExistingHistory = computed(
-    () =>
-      !this.chatHistoryService.loading() &&
-      this.chatHistoryService.storedMessages().length > 0 &&
-      this.messages().length === 0 &&
-      !this.cardDismissed(),
-  );
-
-  readonly historyPreview = computed(() =>
-    this.chatHistoryService.storedMessages().slice(-2),
-  );
 
   readonly currentRegion = this.regionService.selectedRegion;
   readonly currentRegionHasKB = this.regionService.selectedRegionHasKB;
   private pendingLang: string | undefined;
 
-  /** Reset state and reload history from the backend on every region change. */
-  private readonly historyEffect = effect(() => {
-    const region = this.regionService.selectedRegion();
+  /** Reset chat state on every region change. */
+  private readonly regionResetEffect = effect(() => {
+    this.regionService.selectedRegion();
     this.messages.set([]);
-    this.cardDismissed.set(false);
     this.isLoading.set(false);
     this.bridge.isLoading.set(false);
     this.lastCompletedSummary.set('');
-    void this.chatHistoryService.loadForRegion(region.id);
+  });
+
+  /** Reset chat when sidebar requests a new chat. */
+  private readonly chatResetEffect = effect(() => {
+    this.bridge.resetRequested();
+    this.messages.set([]);
+    this.isLoading.set(false);
+    this.bridge.isLoading.set(false);
+    this.lastCompletedSummary.set('');
   });
 
   readonly explorePrompts = this.exploreService.prompts;
@@ -129,42 +114,9 @@ export class ChatbotComponent implements OnInit, OnDestroy {
 
   onNewChat() {
     this.messages.set([]);
-    this.cardDismissed.set(false);
-    this.chatHistoryService.clearHistory(this.regionService.selectedRegion().id);
-    void this.chatHistoryService.loadForRegion(this.regionService.selectedRegion().id);
-  }
-
-  continueConversation() {
-    this.messages.set(this.chatHistoryService.storedMessages());
-    this.scrollToBottom();
-    this.focusAfterCardDismiss();
-  }
-
-  startFresh() {
-    this.cardDismissed.set(true);
-    this.chatHistoryService.clearHistory(this.regionService.selectedRegion().id);
-    this.focusAfterCardDismiss();
-  }
-
-  dismissContinueCard() {
-    this.cardDismissed.set(true);
-    this.focusAfterCardDismiss();
-  }
-
-  private focusAfterCardDismiss() {
-    setTimeout(() => {
-      const desktopInput = this.desktopChatInput();
-      if (desktopInput) {
-        desktopInput.focus();
-      } else {
-        this.scrollContainer()?.nativeElement.focus();
-      }
-    }, 0);
-  }
-
-  previewContent(msg: ChatMessage): string {
-    const text = msg.content.replace(/<[^>]*>/g, '');
-    return text.length > 100 ? text.substring(0, 100) + '…' : text;
+    this.isLoading.set(false);
+    this.bridge.isLoading.set(false);
+    this.lastCompletedSummary.set('');
   }
 
   quickPrompt(fullPrompt: string, lang = 'it') {
@@ -220,16 +172,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     this.isLoading.set(true);
     this.bridge.isLoading.set(true);
 
-    const regionId = this.regionService.selectedRegion().id;
-    void this.chatHistoryService.ensureConversation(regionId).then((convId) => {
-      if (convId) {
-        const userMessages = this.messages().filter((m) => m.role === 'user');
-        if (userMessages.length === 1) {
-          this.chatHistoryService.autoTitle(regionId, question);
-        }
-        this.chatHistoryService.persistMessage(regionId, 'USER', question);
-      }
-    });
     this.scrollToBottom();
 
     const history = this.messages()
@@ -330,17 +272,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
 
           this.isLoading.set(false);
           this.bridge.isLoading.set(false);
-
-          // Persist assistant message to backend
-          const completedMsg = this.messages().find((m) => m.id === assistantId);
-          if (completedMsg?.content && !completedMsg.isError) {
-            this.chatHistoryService.persistMessage(
-              regionId,
-              'ASSISTANT',
-              completedMsg.content,
-              completedMsg.richContent,
-            );
-          }
           this.scrollToBottom();
         },
       });
