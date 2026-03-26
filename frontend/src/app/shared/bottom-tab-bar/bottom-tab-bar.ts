@@ -136,7 +136,10 @@ export class BottomTabBarComponent implements OnInit, OnDestroy {
   private pendingHide: boolean | null = null;
 
   /** Minimum scroll delta required before triggering a direction change. */
-  private readonly SCROLL_THRESHOLD = 20;
+  private readonly SCROLL_THRESHOLD = 8;
+
+  /** Always show the bar when scrolled this close to the top of the container. */
+  private readonly NEAR_TOP_THRESHOLD = 10;
 
   /** Bound reference so we can remove the exact same listener on destroy. */
   private readonly boundScrollListener = this.onScrollCapture.bind(this);
@@ -186,10 +189,27 @@ export class BottomTabBarComponent implements OnInit, OnDestroy {
     const delta = scrollY - lastY;
     this.lastScrollYMap.set(target, scrollY);
 
+    // Always show when near the top regardless of scroll direction.
+    // This is the recovery path after fast mobile momentum scrolling, where
+    // deceleration events have small deltas (< threshold) and the bar would
+    // otherwise stay hidden even after the user scrolls back up.
+    if (scrollY <= this.NEAR_TOP_THRESHOLD) {
+      if (this.pendingHide !== false) {
+        this.pendingHide = false;
+        if (this.rafId !== null) cancelAnimationFrame(this.rafId);
+        this.rafId = requestAnimationFrame(() => {
+          this.rafId = null;
+          this.isNavHidden.set(false);
+        });
+      }
+      return;
+    }
+
     // Ignore tiny jitter.
     if (Math.abs(delta) < this.SCROLL_THRESHOLD) return;
 
-    const shouldHide = delta > 0 && scrollY > 0;
+    // Hide on scroll-down, show on scroll-up.
+    const shouldHide = delta > 0;
 
     // Batch updates through rAF; only schedule a new frame if the intent changed.
     if (shouldHide === this.pendingHide) return;
