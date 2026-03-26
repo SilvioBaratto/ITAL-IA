@@ -6,14 +6,34 @@ import {
   signal,
   viewChild,
   ElementRef,
-  afterNextRender,
   DestroyRef,
 } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { SavedItemsService } from '../../services/saved-items.service';
 import { RegionService } from '../../services/region.service';
 import { ToastService } from '../../services/toast.service';
+import { ThemeService } from '../../services/theme.service';
 import { SavedItem, SavedItemCategory, SaveItemRequest } from '../../models/saved-item.model';
+import {
+  LucideMapPin,
+  LucideTriangleAlert,
+  LucideRotateCcw,
+  LucideBookmark,
+  LucideMessageCircle,
+  LucideChevronRight,
+  LucideArrowDown,
+  LucideLoader,
+  LucideX,
+  LucideMap,
+  LucideGlobe,
+  LucideSun,
+  LucideMoon,
+  LucideUtensils,
+  LucideLandmark,
+  LucideCalendar,
+  LucideWine,
+  LucideStar,
+} from '@lucide/angular';
 
 interface CategoryDescriptor {
   value: SavedItemCategory;
@@ -40,7 +60,27 @@ const CATEGORY_BADGE_CLASSES: Record<SavedItemCategory, string> = {
 
 @Component({
   selector: 'app-saved-page',
-  imports: [RouterLink],
+  imports: [
+    RouterLink,
+    LucideMapPin,
+    LucideTriangleAlert,
+    LucideRotateCcw,
+    LucideBookmark,
+    LucideMessageCircle,
+    LucideChevronRight,
+    LucideArrowDown,
+    LucideLoader,
+    LucideX,
+    LucideMap,
+    LucideGlobe,
+    LucideSun,
+    LucideMoon,
+    LucideUtensils,
+    LucideLandmark,
+    LucideCalendar,
+    LucideWine,
+    LucideStar,
+  ],
   templateUrl: './saved.html',
   styleUrl: './saved.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -53,6 +93,7 @@ export class SavedPageComponent {
   private readonly regionService = inject(RegionService);
   private readonly toastService = inject(ToastService);
   private readonly destroyRef = inject(DestroyRef);
+  readonly themeService = inject(ThemeService);
 
   readonly loading = this.savedItemsService.loading;
   readonly loadingMore = this.savedItemsService.loadingMore;
@@ -117,9 +158,7 @@ export class SavedPageComponent {
 
   selectItem(item: SavedItem): void {
     this.selectedItem.set(item);
-    afterNextRender(() => {
-      this.detailHeading()?.nativeElement.focus();
-    });
+    setTimeout(() => this.detailHeading()?.nativeElement.focus(), 0);
   }
 
   clearSelectedItem(): void {
@@ -131,9 +170,7 @@ export class SavedPageComponent {
     this.selectedItem.set(item);
     this.mobileSheetOpen.set(true);
     this.lockBodyScroll();
-    afterNextRender(() => {
-      this.mobileSheetEl()?.nativeElement.focus();
-    });
+    setTimeout(() => this.mobileSheetEl()?.nativeElement.focus(), 0);
   }
 
   /** Closes the mobile bottom sheet. */

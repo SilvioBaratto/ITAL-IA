@@ -2,10 +2,11 @@ import { Component, signal, inject, ChangeDetectionStrategy, DestroyRef } from '
 import { ReactiveFormsModule, FormBuilder, Validators } from '@angular/forms';
 import { Router, RouterLink } from '@angular/router';
 import { AuthService } from '../../services/auth.service';
+import { LucideCheck } from '@lucide/angular';
 
 @Component({
   selector: 'app-update-password',
-  imports: [ReactiveFormsModule, RouterLink],
+  imports: [ReactiveFormsModule, RouterLink, LucideCheck],
   templateUrl: './update-password.html',
   styleUrl: './update-password.css',
   changeDetection: ChangeDetectionStrategy.OnPush,

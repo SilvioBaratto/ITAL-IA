@@ -5,6 +5,17 @@ import { ChatHistoryService } from '../../services/chat-history.service';
 import { RegionService } from '../../services/region.service';
 import { ThemeService } from '../../services/theme.service';
 import { RegionSelectorComponent } from '../region-selector/region-selector';
+import {
+  LucideX,
+  LucidePlus,
+  LucideMessageCircle,
+  LucideMap,
+  LucideBookmark,
+  LucideUser,
+  LucideSun,
+  LucideMoon,
+  LucideLogOut,
+} from '@lucide/angular';
 
 interface NavItem {
   name: string;
@@ -14,7 +25,20 @@ interface NavItem {
 
 @Component({
   selector: 'app-sidebar',
-  imports: [RouterLink, RouterLinkActive, RegionSelectorComponent],
+  imports: [
+    RouterLink,
+    RouterLinkActive,
+    RegionSelectorComponent,
+    LucideX,
+    LucidePlus,
+    LucideMessageCircle,
+    LucideMap,
+    LucideBookmark,
+    LucideUser,
+    LucideSun,
+    LucideMoon,
+    LucideLogOut,
+  ],
   templateUrl: './sidebar.html',
   styleUrl: './sidebar.css',
   changeDetection: ChangeDetectionStrategy.OnPush,

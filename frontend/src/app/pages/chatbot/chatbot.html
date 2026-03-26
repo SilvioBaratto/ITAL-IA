@@ -2,389 +2,393 @@
   <!-- Mobile header with New Chat -->
   <div class="flex items-center justify-between px-4 h-11 border-b border-border md:hidden">
     <span class="font-display font-bold text-sm text-text">ITAL-IA</span>
-    <button (click)="onNewChat()"
-      class="p-2 -mr-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px] min-w-[44px] flex items-center justify-center"
-      aria-label="Start a new chat">
-      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
-      </svg>
-    </button>
+    <div class="flex items-center gap-1 -mr-2">
+      <button (click)="themeService.toggleTheme()"
+        class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
+        [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
+        [attr.aria-pressed]="themeService.isDark()">
+        @if (themeService.isDark()) {
+        <svg lucideSun class="w-5 h-5" aria-hidden="true"></svg>
+        } @else {
+        <svg lucideMoon class="w-5 h-5" aria-hidden="true"></svg>
+        }
+      </button>
+      <button (click)="onNewChat()"
+        class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
+        aria-label="Start a new chat">
+        <svg lucidePlus class="w-5 h-5" aria-hidden="true"></svg>
+      </button>
+    </div>
   </div>
 
   <!-- Messages area -->
-  <div class="flex-1 overflow-y-auto px-4 py-6 md:px-8" #scrollContainer role="log" aria-label="Chat messages" tabindex="-1">
-    @if (messages().length === 0) {
-    <div class="max-w-3xl mx-auto pt-8 md:pt-16 text-left">
-      <div class="max-w-2xl animate-fade-in-up">
-        <div class="text-4xl mb-3" aria-hidden="true">&#127470;&#127481;</div>
-        <h2 class="text-2xl md:text-3xl font-display font-bold text-text mb-1" lang="it">
-          Scopri {{ currentRegion().name }}
-        </h2>
+  <div class="relative flex-1 min-h-0">
+    <div class="h-full overflow-y-auto px-4 py-6 md:px-8" #scrollContainer role="log" aria-label="Chat messages"
+      tabindex="-1">
+      @if (messages().length === 0) {
+      <div class="max-w-3xl mx-auto pt-8 md:pt-16 text-left">
+        <div class="max-w-2xl animate-fade-in-up">
+          <div class="text-4xl mb-3" aria-hidden="true">&#127470;&#127481;</div>
+          <h2 class="text-2xl md:text-3xl font-display font-bold text-text mb-1" lang="it">
+            Scopri {{ currentRegion().name }}
+          </h2>
 
-        @if (currentRegionHasKB()) {
-        <p class="text-sm text-text-secondary mb-6" lang="it">
-          Chiedimi qualsiasi cosa su {{ currentRegion().name }} — cultura, cibo, vino, eventi e gemme nascoste.
-        </p>
-        } @else {
-        <div class="flex items-start gap-2 px-3 py-2.5 mb-6 rounded-lg bg-warning/10 border border-warning/30 text-sm text-warning" lang="it" role="status">
-          <svg class="w-4 h-4 shrink-0 mt-0.5 text-warning" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-            <path stroke-linecap="round" stroke-linejoin="round"
-              d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
-          </svg>
-          <span>La knowledge base per {{ currentRegion().name }} è in preparazione. Posso comunque aiutarti con informazioni generali sulla regione.</span>
-        </div>
-        }
-
-        <!-- Continue where you left off card -->
-        @if (hasExistingHistory()) {
-        <div class="mt-2 mb-6 animate-fade-in-up" role="region" aria-label="Conversazione precedente disponibile" lang="it">
-          <div class="rounded-xl border border-border bg-surface-raised p-4">
-            <div class="flex items-start justify-between gap-3">
-              <div class="flex items-center gap-2.5">
-                <div class="w-8 h-8 rounded-full bg-primary-light border border-primary/20 flex items-center justify-center shrink-0">
-                  <svg class="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
-                  </svg>
-                </div>
-                <p class="text-sm font-display font-semibold text-text" lang="it">Riprendi da dove avevi lasciato</p>
-              </div>
-              <button (click)="dismissContinueCard()"
-                class="p-1.5 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px] min-w-[44px] flex items-center justify-center -mt-1.5 -mr-1.5"
-                [attr.aria-label]="'Chiudi suggerimento'" lang="it">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
-                </svg>
-              </button>
-            </div>
-
-            <div class="mt-3 space-y-1.5 ml-[42px]">
-              @for (msg of historyPreview(); track msg.id) {
-              <p class="text-sm text-text-secondary truncate" lang="it">
-                @if (msg.role === 'user') {
-                <span class="font-medium text-text">Tu:</span>
-                } @else {
-                <span class="font-medium text-primary">ITAL-IA:</span>
-                }
-                {{ previewContent(msg) }}
-              </p>
-              }
-            </div>
-
-            <div class="flex flex-wrap gap-2 mt-4 ml-[42px]">
-              <button (click)="continueConversation()"
-                class="px-4 py-2 text-sm min-h-[44px] font-medium rounded-full bg-primary text-white hover:opacity-90 transition-opacity motion-reduce:transition-none"
-                lang="it">
-                Continua conversazione
-              </button>
-              <button (click)="startFresh()"
-                class="px-4 py-2 text-sm min-h-[44px] font-medium rounded-full border border-border text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none"
-                lang="it">
-                Ricomincia
-              </button>
-            </div>
+          @if (currentRegionHasKB()) {
+          <p class="text-sm text-text-secondary mb-6" lang="it">
+            Chiedimi qualsiasi cosa su {{ currentRegion().name }} — cultura, cibo, vino, eventi e gemme nascoste.
+          </p>
+          } @else {
+          <div
+            class="flex items-start gap-2 px-3 py-2.5 mb-6 rounded-lg bg-warning/10 border border-warning/30 text-sm text-warning"
+            lang="it" role="status">
+            <svg lucideTriangleAlert class="w-4 h-4 shrink-0 mt-0.5 text-warning" aria-hidden="true"></svg>
+            <span>La knowledge base per {{ currentRegion().name }} è in preparazione. Posso comunque aiutarti con
+              informazioni generali sulla regione.</span>
           </div>
-        </div>
-        }
-
-        <!-- Screen reader loading announcement (WCAG 4.1.3) -->
-        <div class="sr-only" role="status" aria-live="polite">
-          @if (exploreLoading()) {
-          Caricamento suggerimenti in corso...
           }
-        </div>
 
-        <!-- Skeleton shimmer while loading -->
-        @if (exploreLoading()) {
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6" aria-hidden="true">
-          @for (i of [1, 2, 3, 4]; track i) {
-          <div>
-            <div class="h-3.5 w-24 rounded shimmer-bg mb-3"></div>
-            <div class="flex flex-wrap gap-2">
-              @for (j of [1, 2, 3]; track j) {
-              <div class="h-[44px] rounded-full shimmer-bg" [style.width.px]="80 + (j * 28)"></div>
-              }
+          <!-- History loading skeleton -->
+          @if (historyLoading()) {
+          <div class="mt-2 mb-6 rounded-xl border border-border bg-surface-raised p-4 animate-pulse" aria-busy="true" aria-label="Caricamento cronologia" lang="it">
+            <div class="flex items-center gap-2.5">
+              <div class="w-8 h-8 rounded-full bg-surface-inset shrink-0"></div>
+              <div class="h-3.5 w-40 rounded bg-surface-inset"></div>
+            </div>
+            <div class="mt-3 ml-[42px] space-y-2">
+              <div class="h-3 w-3/4 rounded bg-surface-inset"></div>
+              <div class="h-3 w-1/2 rounded bg-surface-inset"></div>
             </div>
           </div>
           }
-        </div>
-        } @else if (exploreError()) {
-        <!-- Error state with retry -->
-        <div class="flex items-center gap-2 text-sm text-text-secondary" role="alert" lang="it">
-          <span>Impossibile caricare i suggerimenti.</span>
-          <button (click)="retryExplore()"
-            class="underline underline-offset-2 hover:text-text transition-colors motion-reduce:transition-none"
+
+          <!-- Continue where you left off card -->
+          @if (hasExistingHistory()) {
+          <div class="mt-2 mb-6 animate-fade-in-up" role="region" aria-label="Conversazione precedente disponibile"
             lang="it">
-            Riprova
-          </button>
-        </div>
-        } @else if (explorePrompts().length === 0) {
-        <!-- Fallback when region has no prompts -->
-        <p class="text-sm text-text-secondary" lang="it">
-          Scrivi una domanda per iniziare a esplorare {{ currentRegion().name }}.
-        </p>
-        } @else {
-        <!-- Dynamic explore prompts -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          @for (group of explorePrompts(); track group.id) {
-          <div role="group" [attr.aria-labelledby]="'cat-' + group.id">
-            <p [id]="'cat-' + group.id" class="text-xs font-semibold uppercase tracking-wider text-text-secondary mb-3" lang="it">
-              {{ group.label }}
-            </p>
-            <div class="flex flex-wrap gap-2">
-              @for (prompt of group.prompts; track prompt.fullPrompt) {
-              <button (click)="quickPrompt(prompt.fullPrompt)"
-                lang="it"
-                class="px-4 py-2.5 text-sm min-h-[44px] font-medium rounded-full border border-border bg-surface-raised text-text-secondary hover:text-primary hover:border-primary/30 hover:bg-primary-light transition-colors motion-reduce:transition-none">
-                {{ prompt.text }}
-              </button>
-              }
+            <div class="rounded-xl border border-border bg-surface-raised p-4">
+              <div class="flex items-start justify-between gap-3">
+                <div class="flex items-center gap-2.5">
+                  <div
+                    class="w-8 h-8 rounded-full bg-primary-light border border-primary/20 flex items-center justify-center shrink-0">
+                    <svg lucideClock class="w-4 h-4 text-primary" aria-hidden="true"></svg>
+                  </div>
+                  <p class="text-sm font-display font-semibold text-text" lang="it">Riprendi da dove avevi lasciato</p>
+                </div>
+                <button (click)="dismissContinueCard()"
+                  class="p-1.5 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center -mt-1.5 -mr-1.5"
+                  [attr.aria-label]="'Chiudi suggerimento'" lang="it">
+                  <svg lucideX class="w-4 h-4" aria-hidden="true"></svg>
+                </button>
+              </div>
+
+              <div class="mt-3 space-y-1.5 ml-10.5">
+                @for (msg of historyPreview(); track msg.id) {
+                <p class="text-sm text-text-secondary truncate" lang="it">
+                  @if (msg.role === 'user') {
+                  <span class="font-medium text-text">Tu:</span>
+                  } @else {
+                  <span class="font-medium text-primary">ITAL-IA:</span>
+                  }
+                  {{ previewContent(msg) }}
+                </p>
+                }
+              </div>
+
+              <div class="flex flex-wrap gap-2 mt-4 ml-10.5">
+                <button (click)="continueConversation()"
+                  class="px-4 py-2 text-sm min-h-11 font-medium rounded-full bg-primary text-white hover:opacity-90 transition-opacity motion-reduce:transition-none"
+                  lang="it">
+                  Continua conversazione
+                </button>
+                <button (click)="startFresh()"
+                  class="px-4 py-2 text-sm min-h-11 font-medium rounded-full border border-border text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none"
+                  lang="it">
+                  Ricomincia
+                </button>
+              </div>
             </div>
           </div>
           }
-        </div>
-        }
-      </div>
-    </div>
-    } @else {
-    <div class="max-w-3xl mx-auto space-y-4">
-      @for (msg of messages(); track msg.id) {
-      <!-- User bubble -->
-      @if (msg.role === 'user') {
-      <div class="flex justify-end animate-fade-in-up">
-        <div [attr.lang]="msg.lang || null"
-          class="max-w-[80%] rounded-2xl rounded-br-md px-4 py-2.5 bg-primary text-white text-sm leading-relaxed whitespace-pre-wrap">
-          {{ msg.content }}
-        </div>
-      </div>
-      }
-      <!-- Error bubble -->
-      @else if (msg.isError) {
-      <div class="flex justify-start" role="alert" aria-live="assertive">
-        <div
-          class="max-w-[80%] rounded-2xl rounded-bl-md px-4 py-3 bg-danger/10 border border-danger/30 text-danger text-sm leading-relaxed">
-          <div class="flex items-center gap-2">
-            <svg class="w-4 h-4 shrink-0 text-danger" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-              stroke-width="1.5" aria-hidden="true">
-              <path stroke-linecap="round" stroke-linejoin="round"
-                d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" />
-            </svg>
-            <span>{{ msg.content }}</span>
+
+          <!-- Screen reader loading announcement (WCAG 4.1.3) -->
+          <div class="sr-only" role="status" aria-live="polite">
+            @if (exploreLoading()) {
+            Caricamento suggerimenti in corso...
+            }
           </div>
-          <div class="mt-2.5 flex justify-end">
-            <button
-              (click)="retryLastMessage()"
-              [disabled]="isLoading()"
-              class="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-medium rounded-full border border-danger/40 text-danger hover:bg-danger/15 transition-colors motion-reduce:transition-none disabled:opacity-50 disabled:cursor-not-allowed min-h-[44px]"
-              lang="it"
-              aria-label="Riprova ad inviare il messaggio">
-              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round"
-                  d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
-              </svg>
+
+          <!-- Skeleton shimmer while loading -->
+          @if (exploreLoading()) {
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6" aria-hidden="true">
+            @for (i of [1, 2, 3, 4]; track i) {
+            <div>
+              <div class="h-3.5 w-24 rounded shimmer-bg mb-3"></div>
+              <div class="flex flex-wrap gap-2">
+                @for (j of [1, 2, 3]; track j) {
+                <div class="h-11 rounded-full shimmer-bg" [style.width.px]="80 + (j * 28)"></div>
+                }
+              </div>
+            </div>
+            }
+          </div>
+          } @else if (exploreError()) {
+          <!-- Error state with retry -->
+          <div class="flex items-center gap-2 text-sm text-text-secondary" role="alert" lang="it">
+            <span>Impossibile caricare i suggerimenti.</span>
+            <button (click)="retryExplore()"
+              class="underline underline-offset-2 hover:text-text transition-colors motion-reduce:transition-none"
+              lang="it">
               Riprova
             </button>
           </div>
-        </div>
-      </div>
-      }
-      <!-- Assistant bubble with rich content -->
-      @else {
-      <div class="flex justify-start gap-2 animate-fade-in-up">
-        <!-- Avatar -->
-        <div class="w-7 h-7 rounded-full bg-primary-light border border-primary/20 flex items-center justify-center shrink-0 mt-0.5">
-          <span class="text-xs font-display font-bold text-primary">I</span>
-        </div>
-        <div class="max-w-full md:max-w-[90%] min-w-0 rounded-2xl rounded-bl-md px-4 py-2.5 bg-surface-raised border border-border text-text text-sm leading-relaxed">
-
-          <!-- Main text (rendered as markdown) -->
-          @if (msg.content) {
-          <div class="prose-chat" [innerHTML]="msg.content | markdown:msg.id" (click)="onCitationClick($event)"></div>
-          }
-
-          <!-- Content skeleton (pre-generation delay) -->
-          @if (msg.isStreaming && !msg.content) {
-          <div class="space-y-2 py-1" aria-hidden="true">
-            <div class="h-3.5 rounded shimmer-bg" style="width: 100%"></div>
-            <div class="h-3.5 rounded shimmer-bg" style="width: 85%"></div>
-            <div class="h-3.5 rounded shimmer-bg" style="width: 92%"></div>
-            <div class="h-3.5 rounded shimmer-bg" style="width: 60%"></div>
+          } @else if (explorePrompts().length === 0) {
+          <!-- Fallback when region has no prompts -->
+          <p class="text-sm text-text-secondary" lang="it">
+            Scrivi una domanda per iniziare a esplorare {{ currentRegion().name }}.
+          </p>
+          } @else {
+          <!-- Dynamic explore prompts -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            @for (group of explorePrompts(); track group.id) {
+            <div role="group" [attr.aria-labelledby]="'cat-' + group.id">
+              <p [id]="'cat-' + group.id"
+                class="text-xs font-semibold uppercase tracking-wider text-text-secondary mb-3" lang="it">
+                {{ group.label }}
+              </p>
+              <div class="flex flex-wrap gap-2">
+                @for (prompt of group.prompts; track prompt.fullPrompt) {
+                <button (click)="quickPrompt(prompt.fullPrompt)" lang="it"
+                  class="px-4 py-2.5 text-sm min-h-11 font-medium rounded-full border border-border bg-surface-raised text-text-secondary hover:text-primary hover:border-primary/30 hover:bg-primary-light transition-colors motion-reduce:transition-none">
+                  {{ prompt.text }}
+                </button>
+                }
+              </div>
+            </div>
+            }
           </div>
           }
+        </div>
+      </div>
+      } @else {
+      <div class="max-w-3xl mx-auto space-y-4">
+        @for (msg of messages(); track msg.id) {
+        <!-- User bubble -->
+        @if (msg.role === 'user') {
+        <div class="flex justify-end animate-fade-in-up">
+          <div [attr.lang]="msg.lang || null"
+            class="max-w-[80%] rounded-2xl rounded-br-md px-4 py-2.5 bg-primary text-white text-sm leading-relaxed whitespace-pre-wrap">
+            {{ msg.content }}
+          </div>
+        </div>
+        }
+        <!-- Error bubble -->
+        @else if (msg.isError) {
+        <div class="flex justify-start" role="alert" aria-live="assertive">
+          <div
+            class="max-w-[80%] rounded-2xl rounded-bl-md px-4 py-3 bg-danger/10 border border-danger/30 text-danger text-sm leading-relaxed">
+            <div class="flex items-center gap-2">
+              <svg lucideCircleAlert class="w-4 h-4 shrink-0 text-danger" aria-hidden="true"></svg>
+              <span>{{ msg.content }}</span>
+            </div>
+            <div class="mt-2.5 flex justify-end">
+              <button (click)="retryLastMessage()" [disabled]="isLoading()"
+                class="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-medium rounded-full border border-danger/40 text-danger hover:bg-danger/15 transition-colors motion-reduce:transition-none disabled:opacity-50 disabled:cursor-not-allowed min-h-11"
+                lang="it" aria-label="Riprova ad inviare il messaggio">
+                <svg lucideRotateCcw class="w-3.5 h-3.5" aria-hidden="true"></svg>
+                Riprova
+              </button>
+            </div>
+          </div>
+        </div>
+        }
+        <!-- Assistant message — clean full-width text, no container chrome -->
+        @else {
+        <div class="animate-fade-in-up">
+          <div class="min-w-0 px-4 py-2.5 text-text text-sm leading-relaxed">
 
-          <!-- Streaming cursor (shown once text starts arriving) -->
-          @if (msg.isStreaming && msg.content) {
-          <span class="inline-block w-1.5 h-4 bg-primary/70 animate-pulse motion-reduce:animate-none rounded-sm ml-0.5 align-text-bottom"></span>
-          }
+            <!-- Main text (rendered as markdown) -->
+            @if (msg.content) {
+            <div class="prose-chat" [innerHTML]="msg.content | markdown:msg.id" (click)="onCitationClick($event)"></div>
+            }
 
-          <!-- Images -->
-          @if (msg.richContent?.images?.length) {
-          <div class="grid grid-cols-2 gap-2 mt-3">
-            @for (img of msg.richContent!.images!; track img.url) {
-            <div class="relative group">
-              <a [href]="img.url" target="_blank" rel="noopener" class="block overflow-hidden rounded-lg shimmer-bg">
-                <img [src]="img.url" [alt]="img.alt" loading="lazy"
-                  class="w-full h-auto rounded-lg hover:scale-105 transition-transform duration-200 motion-reduce:transition-none motion-reduce:hover:scale-100"
-                  (error)="onImageError($event)">
-              </a>
-              @if (img.alt) {
-              <div class="flex items-center justify-between mt-1 px-1">
-                <p class="text-xs text-text-secondary truncate mr-1">{{ img.alt }}</p>
-                <button (click)="toggleBookmark($event, 'image', img.alt, img.url, '', '', msg.richContent)"
-                  class="bookmark-btn shrink-0 p-2 rounded-md text-text-secondary hover:text-primary transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                  [class.text-primary]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))"
-                  [attr.aria-label]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent)) ? 'Rimuovi ' + img.alt + ' dai preferiti' : 'Salva ' + img.alt + ' nei preferiti'"
-                  [attr.aria-pressed]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))">
-                  @if (isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))) {
-                  <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M5 2h14a1 1 0 0 1 1 1v19.143a.5.5 0 0 1-.766.424L12 18.03l-7.234 4.536A.5.5 0 0 1 4 22.143V3a1 1 0 0 1 1-1Z"/></svg>
-                  } @else {
-                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"/></svg>
-                  }
+            <!-- Typing indicator (three bouncing dots before first token arrives) -->
+            @if (msg.isStreaming && !msg.content) {
+            <div class="flex gap-1.5 items-center py-1" aria-label="ITAL-IA sta scrivendo..." aria-hidden="true">
+              <span
+                class="w-2 h-2 rounded-full bg-primary/60 animate-bounce motion-reduce:animate-none [animation-delay:0ms]"></span>
+              <span
+                class="w-2 h-2 rounded-full bg-primary/60 animate-bounce motion-reduce:animate-none [animation-delay:150ms]"></span>
+              <span
+                class="w-2 h-2 rounded-full bg-primary/60 animate-bounce motion-reduce:animate-none [animation-delay:300ms]"></span>
+            </div>
+            }
+
+            <!-- Streaming cursor (shown once text starts arriving) -->
+            @if (msg.isStreaming && msg.content) {
+            <span
+              class="inline-block w-1.5 h-4 bg-primary/70 animate-pulse motion-reduce:animate-none rounded-sm ml-0.5 align-text-bottom"></span>
+            }
+
+            <!-- Images -->
+            @if (msg.richContent?.images?.length) {
+            <div class="grid grid-cols-2 gap-2 mt-3">
+              @for (img of msg.richContent!.images!; track img.url) {
+              <div class="relative group">
+                <a [href]="img.url" target="_blank" rel="noopener" class="block overflow-hidden rounded-lg shimmer-bg">
+                  <img [src]="img.url" [alt]="img.alt" loading="lazy"
+                    class="w-full h-auto rounded-lg hover:scale-105 transition-transform duration-200 motion-reduce:transition-none motion-reduce:hover:scale-100"
+                    (error)="onImageError($event)">
+                </a>
+                @if (img.alt) {
+                <div class="flex items-center justify-between mt-1 px-1">
+                  <p class="text-xs text-text-secondary truncate mr-1">{{ img.alt }}</p>
+                  <button (click)="toggleBookmark($event, 'image', img.alt, img.url, '', '', msg.richContent)"
+                    class="bookmark-btn shrink-0 p-2 rounded-md text-text-secondary hover:text-primary transition-colors min-h-11 min-w-11 flex items-center justify-center"
+                    [class.text-primary]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))"
+                    [attr.aria-label]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent)) ? 'Rimuovi ' + img.alt + ' dai preferiti' : 'Salva ' + img.alt + ' nei preferiti'"
+                    [attr.aria-pressed]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent))">
+                    <svg lucideBookmark class="w-4 h-4"
+                      [attr.fill]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent)) ? 'currentColor' : 'none'"
+                      [attr.stroke-width]="isItemSaved(img.alt, getItemCategory(img.alt, msg.richContent)) ? '0' : '1.5'"></svg>
+                  </button>
+                </div>
+                }
+              </div>
+              }
+            </div>
+            }
+
+            <!-- Links -->
+            @if (msg.richContent?.links?.length) {
+            <div class="flex flex-wrap gap-1.5 mt-3">
+              @for (link of msg.richContent!.links!; track link.url) {
+              <span class="inline-flex items-center rounded-full bg-primary/10">
+                <a [href]="link.url" target="_blank" rel="noopener"
+                  class="inline-flex items-center gap-1 pl-2.5 pr-1 py-1 text-primary text-xs font-medium hover:bg-primary/20 rounded-l-full transition-colors">
+                  <svg lucideExternalLink class="w-3 h-3" strokeWidth="2" aria-hidden="true"></svg>
+                  {{ link.text }}
+                </a>
+                <button (click)="toggleBookmark($event, 'link', link.text, '', '', link.url, msg.richContent)"
+                  class="bookmark-btn inline-flex items-center justify-center px-2.5 py-1 rounded-r-full hover:bg-primary/20 transition-colors min-h-11"
+                  [class.text-primary]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))"
+                  [attr.aria-label]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent)) ? 'Rimuovi ' + link.text + ' dai preferiti' : 'Salva ' + link.text + ' nei preferiti'"
+                  [attr.aria-pressed]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))">
+                  <svg lucideBookmark class="w-3 h-3"
+                    [class.text-primary]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))"
+                    [class.text-text-secondary]="!isItemSaved(link.text, getItemCategory(link.text, msg.richContent))"
+                    [attr.fill]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent)) ? 'currentColor' : 'none'"
+                    [attr.stroke-width]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent)) ? '0' : '1.5'"></svg>
+                </button>
+              </span>
+              }
+            </div>
+            }
+
+            <!-- Map links -->
+            @if (msg.richContent?.map_links?.length) {
+            <div class="space-y-1.5 mt-3">
+              @for (map of msg.richContent!.map_links!; track map.maps_url) {
+              <div
+                class="flex items-center gap-2 px-3 py-2 rounded-lg bg-surface-raised border border-border hover:border-primary/30 hover:shadow-sm transition-all">
+                <a [href]="map.maps_url" target="_blank" rel="noopener" class="flex items-center gap-2 min-w-0 flex-1">
+                  <svg lucideMapPin class="w-4 h-4 text-primary shrink-0" aria-hidden="true"></svg>
+                  <div class="min-w-0">
+                    <div class="text-xs font-medium text-text truncate">{{ map.place_name }}</div>
+                    <div class="text-xs text-text-secondary truncate">{{ map.address }}</div>
+                  </div>
+                </a>
+                <button (click)="toggleBookmark($event, 'map', map.place_name, '', map.maps_url, '', msg.richContent)"
+                  class="bookmark-btn shrink-0 p-2.5 rounded-md text-text-secondary hover:text-primary transition-colors min-h-11 min-w-11 flex items-center justify-center"
+                  [class.text-primary]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))"
+                  [attr.aria-label]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent)) ? 'Rimuovi ' + map.place_name + ' dai preferiti' : 'Salva ' + map.place_name + ' nei preferiti'"
+                  [attr.aria-pressed]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))">
+                  <svg lucideBookmark class="w-4 h-4"
+                    [attr.fill]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent)) ? 'currentColor' : 'none'"
+                    [attr.stroke-width]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent)) ? '0' : '1.5'"></svg>
                 </button>
               </div>
               }
             </div>
             }
-          </div>
-          }
 
-          <!-- Links -->
-          @if (msg.richContent?.links?.length) {
-          <div class="flex flex-wrap gap-1.5 mt-3">
-            @for (link of msg.richContent!.links!; track link.url) {
-            <span class="inline-flex items-center rounded-full bg-primary/10">
-              <a [href]="link.url" target="_blank" rel="noopener"
-                class="inline-flex items-center gap-1 pl-2.5 pr-1 py-1 text-primary text-xs font-medium hover:bg-primary/20 rounded-l-full transition-colors">
-                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
-                  <path stroke-linecap="round" stroke-linejoin="round"
-                    d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
-                </svg>
-                {{ link.text }}
-              </a>
-              <button (click)="toggleBookmark($event, 'link', link.text, '', '', link.url, msg.richContent)"
-                class="bookmark-btn inline-flex items-center justify-center px-2.5 py-1 rounded-r-full hover:bg-primary/20 transition-colors min-h-[44px]"
-                [class.text-primary]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))"
-                [attr.aria-label]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent)) ? 'Rimuovi ' + link.text + ' dai preferiti' : 'Salva ' + link.text + ' nei preferiti'"
-                [attr.aria-pressed]="isItemSaved(link.text, getItemCategory(link.text, msg.richContent))">
-                @if (isItemSaved(link.text, getItemCategory(link.text, msg.richContent))) {
-                <svg class="w-3 h-3 text-primary" fill="currentColor" viewBox="0 0 24 24"><path d="M5 2h14a1 1 0 0 1 1 1v19.143a.5.5 0 0 1-.766.424L12 18.03l-7.234 4.536A.5.5 0 0 1 4 22.143V3a1 1 0 0 1 1-1Z"/></svg>
-                } @else {
-                <svg class="w-3 h-3 text-text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"/></svg>
+            <!-- Tables -->
+            @if (msg.richContent?.tables?.length) {
+            <div class="space-y-3 mt-3 -mx-4 px-4">
+              @for (table of msg.richContent!.tables!; track table.title) {
+              <div class="overflow-x-auto rounded-lg border border-border table-scroll">
+                @if (table.title) {
+                <div class="px-3 py-1.5 bg-surface-inset text-xs font-semibold text-text">{{ table.title }}</div>
                 }
-              </button>
-            </span>
-            }
-          </div>
-          }
-
-          <!-- Map links -->
-          @if (msg.richContent?.map_links?.length) {
-          <div class="space-y-1.5 mt-3">
-            @for (map of msg.richContent!.map_links!; track map.maps_url) {
-            <div class="flex items-center gap-2 px-3 py-2 rounded-lg bg-surface-raised border border-border hover:border-primary/30 hover:shadow-sm transition-all">
-              <a [href]="map.maps_url" target="_blank" rel="noopener"
-                class="flex items-center gap-2 min-w-0 flex-1">
-                <svg class="w-4 h-4 text-primary shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                  stroke-width="1.5">
-                  <path stroke-linecap="round" stroke-linejoin="round"
-                    d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
-                  <path stroke-linecap="round" stroke-linejoin="round"
-                    d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
-                </svg>
-                <div class="min-w-0">
-                  <div class="text-xs font-medium text-text truncate">{{ map.place_name }}</div>
-                  <div class="text-xs text-text-secondary truncate">{{ map.address }}</div>
-                </div>
-              </a>
-              <button (click)="toggleBookmark($event, 'map', map.place_name, '', map.maps_url, '', msg.richContent)"
-                class="bookmark-btn shrink-0 p-2.5 rounded-md text-text-secondary hover:text-primary transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                [class.text-primary]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))"
-                [attr.aria-label]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent)) ? 'Rimuovi ' + map.place_name + ' dai preferiti' : 'Salva ' + map.place_name + ' nei preferiti'"
-                [attr.aria-pressed]="isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))">
-                @if (isItemSaved(map.place_name, getItemCategory(map.place_name, msg.richContent))) {
-                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M5 2h14a1 1 0 0 1 1 1v19.143a.5.5 0 0 1-.766.424L12 18.03l-7.234 4.536A.5.5 0 0 1 4 22.143V3a1 1 0 0 1 1-1Z"/></svg>
-                } @else {
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"/></svg>
-                }
-              </button>
+                <table class="w-full text-xs">
+                  <thead>
+                    <tr class="bg-surface-inset/60">
+                      @for (header of table.headers; track header) {
+                      <th class="px-3 py-1.5 text-left font-medium text-text-secondary">{{ header }}</th>
+                      }
+                    </tr>
+                  </thead>
+                  <tbody>
+                    @for (row of table.rows; track $index) {
+                    <tr class="border-t border-border" [class]="$index % 2 === 1 ? 'bg-surface-inset/30' : ''">
+                      @for (cell of row; track $index) {
+                      <td class="px-3 py-1.5 text-text">{{ cell }}</td>
+                      }
+                    </tr>
+                    }
+                  </tbody>
+                </table>
+              </div>
+              }
             </div>
             }
-          </div>
-          }
 
-          <!-- Tables -->
-          @if (msg.richContent?.tables?.length) {
-          <div class="space-y-3 mt-3 -mx-4 px-4">
-            @for (table of msg.richContent!.tables!; track table.title) {
-            <div class="overflow-x-auto rounded-lg border border-border table-scroll">
-              @if (table.title) {
-              <div class="px-3 py-1.5 bg-surface-inset text-xs font-semibold text-text">{{ table.title }}</div>
-              }
-              <table class="w-full text-xs">
-                <thead>
-                  <tr class="bg-surface-inset/60">
-                    @for (header of table.headers; track header) {
-                    <th class="px-3 py-1.5 text-left font-medium text-text-secondary">{{ header }}</th>
-                    }
-                  </tr>
-                </thead>
-                <tbody>
-                  @for (row of table.rows; track $index) {
-                  <tr class="border-t border-border" [class]="$index % 2 === 1 ? 'bg-surface-inset/30' : ''">
-                    @for (cell of row; track $index) {
-                    <td class="px-3 py-1.5 text-text">{{ cell }}</td>
-                    }
-                  </tr>
-                  }
-                </tbody>
-              </table>
+            <!-- Sources -->
+            @if (msg.richContent?.sources?.length && !msg.isStreaming) {
+            <div class="mt-3 pt-2 border-t border-border-muted">
+              <div class="text-xs text-text-secondary mb-1.5" lang="it">Fonti</div>
+              <ol class="space-y-1 list-none" role="list" aria-label="Fonti citate">
+                @for (source of msg.richContent!.sources!; track source.url) {
+                <li [id]="'source-' + msg.id + '-' + ($index + 1)" class="group scroll-mt-4 rounded-md">
+                  <a [href]="source.url" target="_blank" rel="noopener"
+                    class="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-surface-inset text-xs text-text-secondary hover:text-primary hover:bg-primary/10 transition-colors"
+                    [attr.title]="source.title">
+                    <span
+                      class="inline-flex items-center justify-center w-4 h-4 rounded-full bg-primary/10 text-primary text-[10px] font-semibold shrink-0"
+                      aria-hidden="true">{{ $index + 1 }}</span>
+                    <svg lucideFileText class="w-2.5 h-2.5 shrink-0" strokeWidth="2" aria-hidden="true"></svg>
+                    <span class="truncate">{{ source.title }}</span>
+                  </a>
+                </li>
+                }
+              </ol>
             </div>
             }
+
           </div>
-          }
+        </div>
 
-          <!-- Sources -->
-          @if (msg.richContent?.sources?.length && !msg.isStreaming) {
-          <div class="mt-3 pt-2 border-t border-border-muted">
-            <div class="text-xs text-text-secondary mb-1.5" lang="it">Fonti</div>
-            <ol class="space-y-1 list-none" role="list" aria-label="Fonti citate">
-              @for (source of msg.richContent!.sources!; track source.url) {
-              <li [id]="'source-' + msg.id + '-' + ($index + 1)" class="group scroll-mt-4 rounded-md">
-                <a [href]="source.url" target="_blank" rel="noopener"
-                  class="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-surface-inset text-xs text-text-secondary hover:text-primary hover:bg-primary/10 transition-colors"
-                  [attr.title]="source.title">
-                  <span class="inline-flex items-center justify-center w-4 h-4 rounded-full bg-primary/10 text-primary text-[10px] font-semibold shrink-0" aria-hidden="true">{{ $index + 1 }}</span>
-                  <svg class="w-2.5 h-2.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round"
-                      d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
-                  </svg>
-                  <span class="truncate">{{ source.title }}</span>
-                </a>
-              </li>
-              }
-            </ol>
+        <!-- Follow-up suggestion chips (last assistant message only) -->
+        @if (msg.suggestions?.length && $last && !msg.isStreaming) {
+        <div class="flex justify-start gap-2 mt-1 px-4">
+          <div class="flex flex-wrap gap-2 animate-chips-in" role="group" aria-label="Suggested follow-up questions"
+            lang="it">
+            @for (suggestion of msg.suggestions; track suggestion) {
+            <button (click)="quickPrompt(suggestion)"
+              class="px-3.5 py-2 text-[13px] min-h-11 max-w-full rounded-full border border-primary/20 bg-primary-light text-primary font-medium hover:border-primary/40 hover:bg-primary/15 transition-colors motion-reduce:transition-none text-left leading-snug">
+              {{ suggestion }}
+            </button>
+            }
           </div>
-          }
-
         </div>
+        }
+        }
+        }
       </div>
-
-      <!-- Follow-up suggestion chips (last assistant message only) -->
-      @if (msg.suggestions?.length && $last && !msg.isStreaming) {
-      <div class="flex justify-start gap-2 mt-1 md:ml-9">
-        <div class="flex flex-wrap gap-2 animate-chips-in" role="group" aria-label="Suggested follow-up questions" lang="it">
-          @for (suggestion of msg.suggestions; track suggestion) {
-          <button (click)="quickPrompt(suggestion)"
-            class="px-3.5 py-2 text-[13px] min-h-[44px] max-w-full rounded-full border border-primary/20 bg-primary-light text-primary font-medium hover:border-primary/40 hover:bg-primary/15 transition-colors motion-reduce:transition-none text-left leading-snug">
-            {{ suggestion }}
-          </button>
-          }
-        </div>
-      </div>
-      }
-      }
       }
     </div>
-    }
+    <!-- Gradient fade — softens the edge between chat content and the input bar -->
+    <div class="pointer-events-none absolute bottom-0 inset-x-0 h-20 bg-linear-to-t from-surface to-transparent">
+    </div>
   </div>
 
   <!-- Screen reader announcements -->
@@ -397,25 +401,19 @@
   </div>
 
   <!-- Region context indicator + Input bar (desktop only) -->
-  <div class="hidden md:block">
+  <div class="hidden md:block bg-surface/80 backdrop-blur-md">
     <!-- Region context indicator -->
     <div class="px-4 md:px-8">
       <div class="max-w-3xl mx-auto flex items-center gap-2 flex-wrap">
-        <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-surface-inset border border-border text-xs text-text-secondary">
-          <svg class="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-            <path stroke-linecap="round" stroke-linejoin="round"
-              d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
-            <path stroke-linecap="round" stroke-linejoin="round"
-              d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
-          </svg>
+        <span
+          class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-surface-inset border border-border text-xs text-text-secondary">
+          <svg lucideMapPin class="w-3 h-3 shrink-0" aria-hidden="true"></svg>
           {{ currentRegion().name }}
         </span>
         @if (!currentRegionHasKB()) {
-        <span class="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-warning/10 border border-warning/30 text-xs text-warning">
-          <svg class="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-            <path stroke-linecap="round" stroke-linejoin="round"
-              d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
-          </svg>
+        <span
+          class="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-warning/10 border border-warning/30 text-xs text-warning">
+          <svg lucideTriangleAlert class="w-3 h-3 shrink-0" aria-hidden="true"></svg>
           <span lang="it">Knowledge base in arrivo</span>
         </span>
         }
@@ -425,11 +423,8 @@
     <!-- Desktop input bar -->
     <div class="px-4 py-3 md:px-8">
       <div class="max-w-3xl mx-auto">
-        <app-chat-input #desktopChatInput
-          [userInput]="userInput()"
-          [isLoading]="isLoading()"
-          (send)="onChatInputSend($event)"
-          (inputChange)="onInputChange($event)" />
+        <app-chat-input #desktopChatInput [userInput]="userInput()" [isLoading]="isLoading()"
+          (send)="onChatInputSend($event)" (inputChange)="onInputChange($event)" />
       </div>
     </div>
   </div>

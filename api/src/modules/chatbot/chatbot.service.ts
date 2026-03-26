@@ -22,6 +22,33 @@ function toRetrievedChunks(results: SearchResult[]) {
   }));
 }
 
+function buildRequestDatetime(): string {
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('it-IT', {
+    timeZone: 'Europe/Rome',
+    weekday: 'long',
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+  const timeStr = now.toLocaleTimeString('it-IT', {
+    timeZone: 'Europe/Rome',
+    hour: '2-digit',
+    minute: '2-digit',
+  });
+  const hour = parseInt(
+    new Date().toLocaleString('en-US', { timeZone: 'Europe/Rome', hour: 'numeric', hour12: false }),
+    10,
+  );
+  let fascia: string;
+  if (hour >= 6 && hour < 12) fascia = 'mattina';
+  else if (hour >= 12 && hour < 14) fascia = 'mezzogiorno';
+  else if (hour >= 14 && hour < 19) fascia = 'pomeriggio';
+  else if (hour >= 19 && hour < 23) fascia = 'sera';
+  else fascia = 'notte';
+  return `${dateStr}, ore ${timeStr} (${fascia})`;
+}
+
 @Injectable()
 export class ChatbotService {
   private readonly logger = new Logger(ChatbotService.name);
@@ -36,6 +63,8 @@ export class ChatbotService {
       const { b } = await import('../../../baml_client');
       const region = request.region ?? DEFAULT_REGION;
 
+      const requestDatetime = buildRequestDatetime();
+
       const [searchResults, tripContext] = await Promise.all([
         this.qdrantService.search(request.user_question, 5, request.region),
         userId ? this.getUserTripContext(userId) : Promise.resolve(null),
@@ -48,6 +77,7 @@ export class ChatbotService {
         request.conversation_history,
         tripContext,
         region,
+        requestDatetime,
       );
 
       for await (const event of stream) {

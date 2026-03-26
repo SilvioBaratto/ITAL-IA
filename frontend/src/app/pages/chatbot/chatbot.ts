@@ -1,6 +1,7 @@
 import {
   Component,
   signal,
+  computed,
   inject,
   viewChild,
   ElementRef,
@@ -9,7 +10,6 @@ import {
   OnInit,
   OnDestroy,
   effect,
-  untracked,
 } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ChatService } from '../../services/chat.service';
@@ -19,14 +19,44 @@ import { ExploreService } from '../../services/explore.service';
 import { SavedItemsService } from '../../services/saved-items.service';
 import { ToastService } from '../../services/toast.service';
 import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
+import { ThemeService } from '../../services/theme.service';
 import { ChatMessage, RichContent } from '../../models/chat.model';
 import { SavedItemCategory } from '../../models/saved-item.model';
 import { MarkdownPipe } from '../../shared/pipes/markdown.pipe';
 import { ChatInputComponent } from '../../shared/chat-input/chat-input';
+import {
+  LucidePlus,
+  LucideTriangleAlert,
+  LucideClock,
+  LucideX,
+  LucideCircleAlert,
+  LucideRotateCcw,
+  LucideBookmark,
+  LucideExternalLink,
+  LucideMapPin,
+  LucideFileText,
+  LucideSun,
+  LucideMoon,
+} from '@lucide/angular';
 
 @Component({
   selector: 'app-chatbot',
-  imports: [MarkdownPipe, ChatInputComponent],
+  imports: [
+    MarkdownPipe,
+    ChatInputComponent,
+    LucidePlus,
+    LucideTriangleAlert,
+    LucideClock,
+    LucideX,
+    LucideCircleAlert,
+    LucideRotateCcw,
+    LucideBookmark,
+    LucideExternalLink,
+    LucideMapPin,
+    LucideFileText,
+    LucideSun,
+    LucideMoon,
+  ],
   templateUrl: './chatbot.html',
   styleUrl: './chatbot.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -41,6 +71,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   private readonly toastService = inject(ToastService);
   private readonly destroyRef = inject(DestroyRef);
   private readonly bridge = inject(MobileChatBridgeService);
+  readonly themeService = inject(ThemeService);
   private readonly scrollContainer = viewChild<ElementRef<HTMLElement>>('scrollContainer');
   private readonly desktopChatInput = viewChild<ChatInputComponent>('desktopChatInput');
 
@@ -48,42 +79,35 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   isLoading = signal(false);
   userInput = signal('');
   lastCompletedSummary = signal('');
-  hasExistingHistory = signal(false);
-  historyPreview = signal<ChatMessage[]>([]);
+  private readonly cardDismissed = signal(false);
+
+  readonly historyLoading = this.chatHistoryService.loading;
+
+  readonly hasExistingHistory = computed(
+    () =>
+      !this.chatHistoryService.loading() &&
+      this.chatHistoryService.storedMessages().length > 0 &&
+      this.messages().length === 0 &&
+      !this.cardDismissed(),
+  );
+
+  readonly historyPreview = computed(() =>
+    this.chatHistoryService.storedMessages().slice(-2),
+  );
+
   readonly currentRegion = this.regionService.selectedRegion;
   readonly currentRegionHasKB = this.regionService.selectedRegionHasKB;
   private pendingLang: string | undefined;
-  private previousRegionId: string | null = null;
 
-  /** Load/save chat history on region change or "New chat" clear */
+  /** Reset state and reload history from the backend on every region change. */
   private readonly historyEffect = effect(() => {
     const region = this.regionService.selectedRegion();
-    this.chatHistoryService.clearRequested(); // track clear requests
-
-    // Save messages for previous region on region switch (skip if history card was showing)
-    if (this.previousRegionId && this.previousRegionId !== region.id) {
-      const prevMessages = untracked(() => this.messages());
-      if (prevMessages.length > 0) {
-        this.chatHistoryService.saveMessages(this.previousRegionId, prevMessages);
-      }
-    }
-
-    // Check for existing history — show continue card instead of auto-loading
-    const stored = this.chatHistoryService.getMessages(region.id);
-    if (stored.length > 0) {
-      this.hasExistingHistory.set(true);
-      this.historyPreview.set(stored.slice(-2));
-      this.messages.set([]);
-    } else {
-      this.hasExistingHistory.set(false);
-      this.historyPreview.set([]);
-      this.messages.set([]);
-    }
-
+    this.messages.set([]);
+    this.cardDismissed.set(false);
     this.isLoading.set(false);
     this.bridge.isLoading.set(false);
     this.lastCompletedSummary.set('');
-    this.previousRegionId = region.id;
+    void this.chatHistoryService.loadForRegion(region.id);
   });
 
   readonly explorePrompts = this.exploreService.prompts;
@@ -91,52 +115,39 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   readonly exploreError = this.exploreService.error;
 
   ngOnInit() {
-    // Register mobile chat input callbacks with the bridge service
     this.bridge.register({
       send: (text) => this.onMobileSend(text),
       inputChange: (text) => this.userInput.set(text),
     });
     this.bridge.showInput.set(true);
-    // Hydrate localStorage from backend for the current region
-    void this.chatHistoryService.syncFromBackend(this.regionService.selectedRegion().id);
   }
 
   ngOnDestroy() {
-    // Flush current messages — skip if empty to avoid overwriting stored history
-    const currentMessages = this.messages();
-    if (currentMessages.length > 0) {
-      this.chatHistoryService.saveMessages(
-        this.regionService.selectedRegion().id,
-        currentMessages,
-      );
-    }
     this.bridge.unregister();
     this.bridge.showInput.set(false);
   }
 
   onNewChat() {
+    this.messages.set([]);
+    this.cardDismissed.set(false);
     this.chatHistoryService.clearHistory(this.regionService.selectedRegion().id);
+    void this.chatHistoryService.loadForRegion(this.regionService.selectedRegion().id);
   }
 
   continueConversation() {
-    const stored = this.chatHistoryService.getMessages(this.regionService.selectedRegion().id);
-    this.messages.set(stored);
-    this.hasExistingHistory.set(false);
-    this.historyPreview.set([]);
+    this.messages.set(this.chatHistoryService.storedMessages());
     this.scrollToBottom();
     this.focusAfterCardDismiss();
   }
 
   startFresh() {
-    this.hasExistingHistory.set(false);
-    this.historyPreview.set([]);
+    this.cardDismissed.set(true);
     this.chatHistoryService.clearHistory(this.regionService.selectedRegion().id);
     this.focusAfterCardDismiss();
   }
 
   dismissContinueCard() {
-    this.hasExistingHistory.set(false);
-    this.historyPreview.set([]);
+    this.cardDismissed.set(true);
     this.focusAfterCardDismiss();
   }
 
@@ -161,7 +172,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     this.syncMobileInput(fullPrompt);
     this.pendingLang = lang;
     this.sendMessage(fullPrompt);
-    // Move focus to a valid target after prompt buttons are destroyed (WCAG 2.4.3)
     setTimeout(() => {
       const desktopInput = this.desktopChatInput();
       if (desktopInput) {
@@ -210,9 +220,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     this.isLoading.set(true);
     this.bridge.isLoading.set(true);
 
-    // Persist user message to localStorage and backend
     const regionId = this.regionService.selectedRegion().id;
-    this.chatHistoryService.saveMessages(regionId, this.messages());
     void this.chatHistoryService.ensureConversation(regionId).then((convId) => {
       if (convId) {
         const userMessages = this.messages().filter((m) => m.role === 'user');
@@ -277,8 +285,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
               };
             }),
           );
-          // Debounced save during streaming
-          this.chatHistoryService.saveMessages(regionId, this.messages());
           this.scrollToBottom();
         },
         error: (err: Error) => {
@@ -309,7 +315,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
             );
           }
 
-          // Compute follow-up suggestions from explore data
           const suggestions = this.computeSuggestions(question);
           if (suggestions.length) {
             this.messages.update((msgs) =>
@@ -317,7 +322,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
                 m.id === assistantId ? { ...m, suggestions } : m,
               ),
             );
-            // Announce to screen readers (WCAG 4.1.3)
             this.lastCompletedSummary.update(
               (prev) =>
                 prev + ` ${suggestions.length} suggerimenti di follow-up disponibili.`,
@@ -326,8 +330,7 @@ export class ChatbotComponent implements OnInit, OnDestroy {
 
           this.isLoading.set(false);
           this.bridge.isLoading.set(false);
-          // Final save after streaming completes
-          this.chatHistoryService.saveMessages(regionId, this.messages());
+
           // Persist assistant message to backend
           const completedMsg = this.messages().find((m) => m.id === assistantId);
           if (completedMsg?.content && !completedMsg.isError) {
@@ -384,7 +387,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     if (!sourceEl) return;
 
     sourceEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-    // Trigger highlight class for visual feedback
     sourceEl.classList.add('citation-target-active');
     setTimeout(() => sourceEl.classList.remove('citation-target-active'), 1500);
   }
@@ -423,10 +425,9 @@ export class ChatbotComponent implements OnInit, OnDestroy {
       website: type === 'link' ? website : undefined,
     };
 
-    // Trigger scale animation on the button
     const btn = (event.currentTarget as HTMLElement);
     btn.classList.remove('bookmark-pop');
-    void btn.offsetWidth; // force reflow
+    void btn.offsetWidth;
     btn.classList.add('bookmark-pop');
 
     if (saved) {
@@ -469,7 +470,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
         (w) => w.length > 3 && !ChatbotComponent.STOP_WORDS_IT.has(w),
       );
 
-    // Score each category by keyword overlap with its prompts
     let bestCategory: (typeof categories)[0] | null = null;
     let bestScore = 0;
 
@@ -486,12 +486,10 @@ export class ChatbotComponent implements OnInit, OnDestroy {
       }
     }
 
-    // If no strong match, pick a random category for variety
     if (!bestCategory || bestScore < 2) {
       bestCategory = categories[Math.floor(Math.random() * categories.length)];
     }
 
-    // Pick up to 3 prompts, excluding the one matching the user's question
     const available = bestCategory.prompts.filter(
       (p) => p.fullPrompt.toLowerCase() !== questionLower,
     );
@@ -510,8 +508,6 @@ export class ChatbotComponent implements OnInit, OnDestroy {
   }
 
   private scrollToBottom() {
-    // Suppress nav hide/show while the programmatic scroll settles so the
-    // bottom tab bar doesn't vanish on every AI streaming chunk.
     this.bridge.suppressNavAutoHide();
     setTimeout(() => {
       const el = this.scrollContainer()?.nativeElement;

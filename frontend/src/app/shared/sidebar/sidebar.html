@@ -17,9 +17,7 @@
     <button (click)="closeSidebar.emit()"
       class="p-1.5 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors"
       aria-label="Close menu">
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-      </svg>
+      <svg lucideX class="w-4 h-4" aria-hidden="true"></svg>
     </button>
   </div>
 
@@ -31,11 +29,9 @@
   <!-- New Chat -->
   <div class="px-3 pt-3">
     <button (click)="onNewChat()"
-      class="flex items-center gap-2.5 w-full px-2.5 py-2 rounded-md text-sm font-medium text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px]"
+      class="flex items-center gap-2.5 w-full px-2.5 py-2 rounded-md text-sm font-medium text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11"
       aria-label="Start a new chat">
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
-      </svg>
+      <svg lucidePlus class="w-4 h-4" aria-hidden="true"></svg>
       <span>New chat</span>
     </button>
   </div>
@@ -49,22 +45,13 @@
       (click)="onNavClick()">
       @switch (item.icon) {
       @case ('chat') {
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round"
-          d="M8.625 12a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H8.25m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0H12m4.125 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm0 0h-.375M21 12c0 4.556-4.03 8.25-9 8.25a9.764 9.764 0 0 1-2.555-.337A5.972 5.972 0 0 1 5.41 20.97a5.969 5.969 0 0 1-.474-.065 4.48 4.48 0 0 0 .978-2.025c.09-.457-.133-.901-.467-1.226C3.93 16.178 3 14.189 3 12c0-4.556 4.03-8.25 9-8.25s9 3.694 9 8.25Z" />
-      </svg>
+      <svg lucideMessageCircle class="w-4 h-4" aria-hidden="true"></svg>
       }
       @case ('map') {
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round"
-          d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
-      </svg>
+      <svg lucideMap class="w-4 h-4" aria-hidden="true"></svg>
       }
       @case ('bookmark') {
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round"
-          d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z" />
-      </svg>
+      <svg lucideBookmark class="w-4 h-4" aria-hidden="true"></svg>
       }
       }
       <span>{{ item.name }}</span>
@@ -76,44 +63,30 @@
   <div class="px-3 py-3 border-t border-border space-y-0.5">
     <!-- Profile -->
     <a routerLink="/profile" routerLinkActive="bg-primary-light text-primary"
-      class="flex items-center gap-2.5 px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px]"
+      class="flex items-center gap-2.5 px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11"
       (click)="onNavClick()">
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round"
-          d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
-      </svg>
+      <svg lucideUser class="w-4 h-4" aria-hidden="true"></svg>
       <span>Profilo</span>
     </a>
 
     <!-- Theme toggle -->
     <button (click)="themeService.toggleTheme()"
-      class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-[44px]"
+      class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11"
       [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
       [attr.aria-pressed]="themeService.isDark()">
       @if (themeService.isDark()) {
-        <!-- Sun icon — shown in dark mode to switch to light -->
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round"
-            d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z" />
-        </svg>
-        <span>Modalità chiara</span>
+      <svg lucideSun class="w-4 h-4" aria-hidden="true"></svg>
+      <span>Modalità chiara</span>
       } @else {
-        <!-- Moon icon — shown in light mode to switch to dark -->
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round"
-            d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" />
-        </svg>
-        <span>Modalità scura</span>
+      <svg lucideMoon class="w-4 h-4" aria-hidden="true"></svg>
+      <span>Modalità scura</span>
       }
     </button>
 
     <!-- Logout -->
     <button (click)="onLogout()"
       class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors">
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-        <path stroke-linecap="round" stroke-linejoin="round"
-          d="M15.75 9V5.25A2.25 2.25 0 0 0 13.5 3h-6a2.25 2.25 0 0 0-2.25 2.25v13.5A2.25 2.25 0 0 0 7.5 21h6a2.25 2.25 0 0 0 2.25-2.25V15m3 0 3-3m0 0-3-3m3 3H9" />
-      </svg>
+      <svg lucideLogOut class="w-4 h-4" aria-hidden="true"></svg>
       <span>Sign out</span>
     </button>
   </div>

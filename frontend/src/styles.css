@@ -62,6 +62,19 @@
   --color-info: #3b82f6;
 }
 
+/* Hide scrollbars globally — scroll still works, track is just invisible */
+@utility scrollbar-hidden {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+* {
+  @apply scrollbar-hidden;
+}
+
 /* Base styles */
 html {
   -webkit-font-smoothing: antialiased;

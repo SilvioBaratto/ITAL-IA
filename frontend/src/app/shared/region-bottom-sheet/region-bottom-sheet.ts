@@ -13,6 +13,7 @@ import {
 } from '@angular/core';
 import { RegionService } from '../../services/region.service';
 import { Region, RegionGroup } from '../../models/region.model';
+import { LucideX, LucideCheck } from '@lucide/angular';
 
 interface RegionGroupDisplay {
   key: RegionGroup;
@@ -30,6 +31,7 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
 
 @Component({
   selector: 'app-region-bottom-sheet',
+  imports: [LucideX, LucideCheck],
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: {
     '(document:keydown.escape)': 'onEscape()',
@@ -41,7 +43,8 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
         class="fixed inset-0 z-50 bg-black/30 transition-opacity motion-reduce:transition-none"
         [class.animate-fade-in]="isOpen()"
         (click)="close()"
-        aria-hidden="true"></div>
+        aria-hidden="true"
+      ></div>
 
       <!-- Sheet -->
       <div
@@ -53,8 +56,8 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
         (keydown)="onSheetKeydown($event)"
         (touchstart)="onTouchStart($event)"
         (touchmove)="onTouchMove($event)"
-        (touchend)="onTouchEnd()">
-
+        (touchend)="onTouchEnd()"
+      >
         <!-- Handle -->
         <div class="flex justify-center pt-3 pb-1">
           <div class="w-10 h-1 rounded-full bg-border"></div>
@@ -67,11 +70,10 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
             #closeBtn
             type="button"
             (click)="close()"
-            class="flex items-center justify-center min-h-[44px] min-w-[44px] -mr-2 rounded-full text-text-secondary hover:text-text hover:bg-surface-inset transition-colors"
-            aria-label="Close region selector">
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-            </svg>
+            class="flex items-center justify-center min-h-11 min-w-11 -mr-2 rounded-full text-text-secondary hover:text-text hover:bg-surface-inset transition-colors"
+            aria-label="Close region selector"
+          >
+            <svg lucideX class="w-5 h-5" aria-hidden="true"></svg>
           </button>
         </div>
 
@@ -91,7 +93,8 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
             (keydown)="onKeydown($event)"
             class="w-full px-3 py-2.5 text-sm bg-surface-inset border border-border-muted rounded-xl text-text placeholder:text-text-tertiary focus:outline-none focus:border-primary"
             aria-label="Cerca regione"
-            autocomplete="off" />
+            autocomplete="off"
+          />
         </div>
 
         <!-- Regions list -->
@@ -99,12 +102,15 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
           id="sheet-region-listbox"
           role="listbox"
           aria-label="Regioni italiane"
-          class="flex-1 overflow-y-auto overscroll-contain px-2 pb-safe">
+          class="flex-1 overflow-y-auto overscroll-contain px-2 pb-safe"
+        >
           @for (group of filteredGroups(); track group.key) {
             <div role="group" [attr.aria-labelledby]="'sheet-group-' + group.key">
               <div class="px-2 pt-3 pb-1" role="presentation">
-                <span [id]="'sheet-group-' + group.key"
-                  class="text-xs font-semibold uppercase tracking-wider text-text-secondary">
+                <span
+                  [id]="'sheet-group-' + group.key"
+                  class="text-xs font-semibold uppercase tracking-wider text-text-secondary"
+                >
                   {{ group.label }}
                 </span>
               </div>
@@ -115,16 +121,18 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
                   tabindex="-1"
                   [id]="'sheet-region-' + region.id"
                   [attr.aria-selected]="region.id === selectedRegion().id"
-                  class="w-full flex items-center gap-2.5 px-3 py-3 text-sm rounded-xl transition-colors active:bg-surface-inset min-h-[44px]"
+                  class="w-full flex items-center gap-2.5 px-3 py-3 text-sm rounded-xl transition-colors active:bg-surface-inset min-h-11"
                   [class.bg-primary-light]="region.id === selectedRegion().id"
                   [class.ring-1]="flatIndex(region) === activeIndex()"
                   [class.ring-primary]="flatIndex(region) === activeIndex()"
-                  (click)="selectRegion(region)">
+                  (click)="selectRegion(region)"
+                >
                   <span
                     class="flex-1 text-left"
                     [class.text-primary]="region.id === selectedRegion().id"
                     [class.font-medium]="region.id === selectedRegion().id"
-                    [class.text-text]="region.id !== selectedRegion().id">
+                    [class.text-text]="region.id !== selectedRegion().id"
+                  >
                     {{ region.name }}
                   </span>
                   @if (!region.hasKB) {
@@ -133,11 +141,12 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
                     </span>
                   }
                   @if (region.id === selectedRegion().id) {
-                    <svg class="w-4 h-4 text-primary shrink-0" fill="none"
-                      stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
-                      <path stroke-linecap="round" stroke-linejoin="round"
-                        d="m4.5 12.75 6 6 9-13.5" />
-                    </svg>
+                    <svg
+                      lucideCheck
+                      class="w-4 h-4 text-primary shrink-0"
+                      strokeWidth="2"
+                      aria-hidden="true"
+                    ></svg>
                   }
                 </button>
               }
@@ -162,13 +171,21 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
       }
 
       @keyframes fade-in {
-        from { opacity: 0; }
-        to { opacity: 1; }
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
       }
 
       @keyframes slide-up {
-        from { transform: translateY(100%); }
-        to { transform: translateY(0); }
+        from {
+          transform: translateY(100%);
+        }
+        to {
+          transform: translateY(0);
+        }
       }
     }
   `,
@@ -214,27 +231,21 @@ export class RegionBottomSheetComponent {
     const query = this.searchQuery().toLowerCase();
     const allRegions = this.regionService.regions();
 
-    return GROUP_ORDER
-      .map(key => ({
-        key,
-        label: GROUP_LABELS[key],
-        regions: allRegions.filter(
-          r => r.group === key && (!query || r.name.toLowerCase().includes(query)),
-        ),
-      }))
-      .filter(g => g.regions.length > 0);
+    return GROUP_ORDER.map((key) => ({
+      key,
+      label: GROUP_LABELS[key],
+      regions: allRegions.filter(
+        (r) => r.group === key && (!query || r.name.toLowerCase().includes(query)),
+      ),
+    })).filter((g) => g.regions.length > 0);
   });
 
-  readonly flatFilteredRegions = computed(() =>
-    this.filteredGroups().flatMap(g => g.regions),
-  );
+  readonly flatFilteredRegions = computed(() => this.filteredGroups().flatMap((g) => g.regions));
 
   readonly activeDescendantId = computed(() => {
     const idx = this.activeIndex();
     const regions = this.flatFilteredRegions();
-    return idx >= 0 && idx < regions.length
-      ? 'sheet-region-' + regions[idx].id
-      : null;
+    return idx >= 0 && idx < regions.length ? 'sheet-region-' + regions[idx].id : null;
   });
 
   close() {
@@ -269,14 +280,14 @@ export class RegionBottomSheetComponent {
       case 'ArrowDown':
         event.preventDefault();
         if (len > 0) {
-          this.activeIndex.update(i => (i + 1) % len);
+          this.activeIndex.update((i) => (i + 1) % len);
           this.scrollActiveIntoView();
         }
         break;
       case 'ArrowUp':
         event.preventDefault();
         if (len > 0) {
-          this.activeIndex.update(i => (i <= 0 ? len - 1 : i - 1));
+          this.activeIndex.update((i) => (i <= 0 ? len - 1 : i - 1));
           this.scrollActiveIntoView();
         }
         break;
