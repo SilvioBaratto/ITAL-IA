@@ -1,6 +1,6 @@
 import { Injectable, Logger, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../../prisma/prisma.service';
-import { SavedItemCategory } from '@generated/prisma';
+import { SavedItemCategory } from '../../../generated/prisma/client';
 import { CreateSavedItemDto, ListSavedItemsQueryDto, CheckSavedItemQueryDto } from './dto/saved-item.dto';
 import { PoiService } from '../poi/poi.service';
 
@@ -48,7 +48,8 @@ export class SavedItemsService {
     // Best-effort: link to canonical POI without blocking the response
     this.linkPoiAsync(item.id, dto.name, dto.region);
 
-    return item;
+    const { regionId, ...rest } = item;
+    return { ...rest, region: regionId };
   }
 
   private linkPoiAsync(savedItemId: string, name: string, regionId: string): void {
@@ -82,7 +83,7 @@ export class SavedItemsService {
     const limit = query.limit ?? 20;
     const offset = query.offset ?? 0;
 
-    const [data, total] = await this.prisma.$transaction([
+    const [rows, total] = await this.prisma.$transaction([
       this.prisma.savedItem.findMany({
         where,
         orderBy: { savedAt: 'desc' },
@@ -92,6 +93,7 @@ export class SavedItemsService {
       this.prisma.savedItem.count({ where }),
     ]);
 
+    const data = rows.map(({ regionId, ...rest }) => ({ ...rest, region: regionId }));
     return { data, total, limit, offset };
   }
 

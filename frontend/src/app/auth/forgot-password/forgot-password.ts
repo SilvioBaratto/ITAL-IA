@@ -2,10 +2,11 @@ import { Component, signal, inject, ChangeDetectionStrategy } from '@angular/cor
 import { ReactiveFormsModule, FormBuilder, Validators } from '@angular/forms';
 import { RouterLink } from '@angular/router';
 import { AuthService } from '../../services/auth.service';
+import { LucideMail } from '@lucide/angular';
 
 @Component({
   selector: 'app-forgot-password',
-  imports: [ReactiveFormsModule, RouterLink],
+  imports: [ReactiveFormsModule, RouterLink, LucideMail],
   templateUrl: './forgot-password.html',
   styleUrl: './forgot-password.css',
   changeDetection: ChangeDetectionStrategy.OnPush,

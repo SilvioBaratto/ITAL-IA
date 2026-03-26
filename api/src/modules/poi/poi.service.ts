@@ -1,6 +1,6 @@
 import { Injectable, Logger, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../../prisma/prisma.service';
-import { PoiCategory } from '@generated/prisma';
+import { PoiCategory } from '../../../generated/prisma/client';
 import { PoiQueryDto } from './dto/poi-query.dto';
 
 @Injectable()

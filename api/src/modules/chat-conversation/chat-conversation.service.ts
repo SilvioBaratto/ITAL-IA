@@ -1,6 +1,6 @@
 import { Injectable, Logger, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../../prisma/prisma.service';
-import { ChatMessageRole } from '@generated/prisma';
+import { ChatMessageRole } from '../../../generated/prisma/client';
 import {
   CreateConversationDto,
   AppendMessageDto,
