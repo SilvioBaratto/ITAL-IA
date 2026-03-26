@@ -1,15 +1,16 @@
-# ITAL-IA — Discover Italy's Regions
+# ITAL-IA
 
-An AI-powered platform for discovering Italy's regions — culture, events, food, spritz, and hidden gems. Chat with a context-aware assistant backed by a curated knowledge base for each region.
+**Live:** [italia.silviobaratto.com](https://italia.silviobaratto.com)
 
-**Starting with:** Friuli Venezia Giulia
+A chatbot that knows about Italian regions. You ask it about food, events, places to visit, or local culture, and it answers using a scraped knowledge base for that region. Responses stream in real time via SSE.
 
-## Features
+Currently covers Friuli Venezia Giulia. More regions to come.
 
-- **AI Chatbot** -- RAG-powered assistant with knowledge of regional culture, food, events, and places. Streams responses in real time via SSE.
-- **Regional Knowledge Base** -- Curated, web-scraped content organized by category (culture, cities, food & wine, events, nature, practical info).
-- **Authentication** -- Supabase Auth with JWT validation, route guards, and automatic token refresh.
-- **Mobile-First** -- Responsive design tested on desktop and mobile viewports.
+## What it does
+
+- Chat with a RAG assistant that pulls from a per-region knowledge base (web-scraped, chunked, stored in Qdrant)
+- Supabase Auth handles login, JWT validation, token refresh
+- Works on mobile and desktop (tested with Playwright on both viewports)
 
 ## Tech Stack
 
@@ -19,7 +20,7 @@ An AI-powered platform for discovering Italy's regions — culture, events, food
 | Frontend       | Angular 21, Signals, Tailwind CSS 4    |
 | Database       | Supabase (PostgreSQL)                  |
 | Vector Search  | Qdrant (`italia-kb` collection)        |
-| AI/LLM         | BAML (Claude Haiku), OpenAI embeddings |
+| AI/LLM         | BAML (GPT-5 Mini), OpenAI embeddings   |
 | Infrastructure | Docker, Vercel, GitHub Actions CI/CD   |
 
 ## Getting Started
@@ -100,48 +101,72 @@ npx prisma migrate deploy
 
 ```
 italia/
-├── api/                    # NestJS backend
+├── api/                           # NestJS backend
 │   ├── src/
-│   │   ├── modules/        # Feature modules
-│   │   │   ├── auth/       #   Supabase JWT authentication
-│   │   │   ├── chatbot/    #   RAG pipeline + SSE streaming
-│   │   │   ├── itinerary/  #   Trip/day/activity CRUD (dormant)
-│   │   │   ├── qdrant/     #   Vector similarity search
-│   │   │   └── health/     #   Health check endpoint
-│   │   ├── prisma/         # Global database service
-│   │   └── common/         # Guards, filters, interceptors, decorators
-│   ├── prisma/             # Schema + migrations
-│   └── baml_src/           # LLM function definitions
-├── frontend/               # Angular SPA
+│   │   ├── modules/
+│   │   │   ├── auth/              # Supabase JWT guard (global), /auth/me, account deletion
+│   │   │   ├── chatbot/           # RAG pipeline + SSE streaming
+│   │   │   ├── chat-conversation/ # Conversation CRUD (messages, titles)
+│   │   │   ├── region/            # Region list endpoint (cached)
+│   │   │   ├── poi/               # Points of interest lookup
+│   │   │   ├── saved-items/       # Bookmarks with async POI linking
+│   │   │   ├── qdrant/            # Vector similarity search wrapper
+│   │   │   ├── health/            # Health check
+│   │   │   └── test/              # In-memory CRUD for testing
+│   │   ├── prisma/                # Global PrismaService (PrismaPg adapter for Supabase)
+│   │   └── common/                # @Public(), @CurrentUser(), exception filters, logging
+│   ├── prisma/schema.prisma       # Region, PointOfInterest, SavedItem + chat models
+│   ├── baml_src/                  # StreamRAGChat prompt + LLM client definitions
+│   ├── scripts/                   # KB ingestion: chunk-pages.ts, upload-to-qdrant.ts
+│   └── serverless.ts              # Vercel entry point (singleton Express across cold starts)
+├── frontend/                      # Angular SPA
 │   ├── src/app/
-│   │   ├── pages/          # Chatbot view
-│   │   ├── services/       # Auth, Chat services
-│   │   ├── guards/         # Route protection
-│   │   ├── interceptors/   # JWT injection + 401 handling
-│   │   └── shared/         # Layout, sidebar, reusable components
-│   └── e2e/                # Playwright tests
-├── kb/                     # Knowledge base content
-│   ├── links.csv           # Source URLs by category
-│   ├── scrape.ts           # Web scraper (Jina API)
-│   └── scraped/            # Raw markdown per category
-└── docker-compose.yml
+│   │   ├── pages/
+│   │   │   ├── chatbot/           # Main chat page (streaming, bookmarks, follow-up suggestions)
+│   │   │   ├── saved/             # Saved items with category filters, detail pane/bottom sheet
+│   │   │   ├── profile/           # User info, account deletion
+│   │   │   └── not-found/         # 404
+│   │   ├── services/              # auth, chat (SSE), chat-history, conversation, region,
+│   │   │                          # explore, saved-items, theme, toast, mobile-chat-bridge
+│   │   ├── guards/                # authGuard, guestGuard
+│   │   ├── interceptors/          # Bearer token injection, 401 refresh + retry
+│   │   ├── models/                # TypeScript interfaces (chat, conversation, region, saved-item)
+│   │   └── shared/                # layout, sidebar, bottom-tab-bar, chat-input, region-selector,
+│   │                              # region-bottom-sheet, inline-edit, toast, markdown pipe
+│   ├── e2e/                       # Playwright tests (desktop + mobile)
+│   └── assets/explore/            # Per-region quick-prompt JSON files
+├── kb/                            # Offline KB pipeline (not committed)
+│   ├── links.csv                  # Source URLs by category
+│   ├── scrape.ts                  # Web scraper (Jina API)
+│   ├── scraped/                   # Raw markdown per category
+│   └── chunked/                   # BAML-processed JSON chunks
+└── docker-compose.yml             # api:8000 + frontend:4200 (nginx proxy)
 ```
 
-### Backend Pipeline
+### How the chat works
 
-All routes are prefixed with `/api/v1` and protected by Supabase JWT authentication (opt-out via `@Public()` decorator).
+All routes sit behind `/api/v1` and require a Supabase JWT unless marked `@Public()`.
 
-**Middleware stack:** Helmet &rarr; CORS &rarr; ThrottlerGuard (100 req/60s) &rarr; ZodValidationPipe &rarr; Exception filters &rarr; Response transform
+Request flow: Helmet -> CORS -> ThrottlerGuard (100 req/60s) -> SupabaseAuthGuard -> ZodValidationPipe -> route handler -> exception filters
 
-**Chat flow:** User query &rarr; OpenAI embedding &rarr; Qdrant similarity search (`italia-kb`) &rarr; BAML `StreamRAGChat()` (Claude Haiku, parameterized by region) &rarr; SSE stream to client
+Chat flow: user query -> OpenAI embedding -> Qdrant cosine search (`italia-kb`, top 5, score >= 0.75) -> BAML `StreamRAGChat()` (GPT-5 Mini, parameterized by region) -> SSE stream to client
 
-### Knowledge Base Pipeline
+The frontend reads the SSE stream with a raw `fetch` + `ReadableStream` (not HttpClient). On 401 it refreshes the token and retries once.
+
+### Knowledge base ingestion
+
+Offline, two-step pipeline:
 
 ```
-kb/links.csv → scrape.ts → kb/scraped/{category}/*.md → chunk-pages.ts → kb/chunked/ → upload-to-qdrant.ts → Qdrant (italia-kb)
+kb/links.csv -> scrape.ts -> kb/scraped/{category}/*.md
+  -> scripts/chunk-pages.ts -> kb/chunked/all-chunks.json
+  -> scripts/upload-to-qdrant.ts -> OpenAI embedding (ada-002, batches of 50)
+  -> Qdrant upsert (italia-kb, 1536-dim cosine, region-filterable)
 ```
 
-Each vector payload includes a `region` field for future multi-region filtering.
+### Database
+
+Three main models in Prisma: `Region` (20 Italian regions with `hasKb` flag), `PointOfInterest` (canonical places linked to a region), and `SavedItem` (user bookmarks with best-effort POI linking). Chat conversations and messages are stored separately for history persistence.
 
 ## Development
 
@@ -182,7 +207,7 @@ npx ts-node -r tsconfig-paths/register scripts/upload-to-qdrant.ts
 
 ## Deployment
 
-The application deploys to **Vercel** via GitHub Actions. Pushes to `main` trigger automatic deployments for both the API and frontend.
+Deploys to Vercel via GitHub Actions. Pushing to `main` deploys both the API and frontend automatically.
 
 ## License
 

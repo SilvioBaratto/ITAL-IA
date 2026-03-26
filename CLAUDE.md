@@ -2,103 +2,134 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Project Overview
+## Project overview
 
-Full-stack Italy regional discovery app (ITAL-IA): **NestJS 11** backend, **Angular 21** frontend, **Supabase** (PostgreSQL + Auth), **Qdrant** vector DB, and **BAML** for LLM integration. Covers all Italian regions — first region with KB content is Friuli Venezia Giulia. No local database — uses hosted Supabase.
+Full-stack Italy regional discovery chatbot. NestJS 11 backend, Angular 21 frontend, Supabase (PostgreSQL + Auth), Qdrant vector DB, BAML for LLM integration. Currently covers Friuli Venezia Giulia. No local database — everything hits hosted Supabase.
 
-## Build & Run Commands
+Live at [italia.silviobaratto.com](https://italia.silviobaratto.com).
+
+## Build and run
 
 ```bash
-# Full stack with Docker
+# Full stack via Docker
 docker compose up -d --build
 
-# Individual services
-cd api && npm run start:dev                       # Backend on :8000
-cd frontend && ng serve                           # Frontend on :4200
-
-# API development
-cd api
-npm install
-npm test                                          # Jest unit tests
-npm run test:watch                                # Watch mode
-npm run test:cov                                  # Coverage report
-npx prisma migrate dev                            # Create and apply migration
-npx prisma migrate deploy                         # Apply migrations (production)
-npx prisma generate                               # Regenerate Prisma client after schema changes
-npx baml-cli generate                             # Regenerate BAML client after .baml changes
-
-# Frontend development
-cd frontend
-npm install
-ng serve                                          # Dev server on :4200
-ng build --configuration=production               # Production build
-npx playwright test                               # E2E tests (desktop + mobile)
+# Or run separately:
+cd api && npm run start:dev          # Backend on :8000
+cd frontend && ng serve              # Frontend on :4200
 ```
 
-## Architecture
+### API commands
 
-### Backend (`api/`)
+```bash
+cd api
+npm test                             # Jest unit tests
+npm run test:watch                   # Watch mode
+npm run test:cov                     # Coverage
+npm run build                        # Production build (nest build)
+npx prisma migrate dev               # Create + apply migration
+npx prisma migrate deploy            # Apply migrations (production)
+npx prisma generate                  # Regenerate Prisma client
+npx prisma studio                    # Visual DB editor
+npx baml-cli generate                # Regenerate BAML client after editing baml_src/
+```
 
-NestJS modular architecture with global middleware stack configured in `main.ts`:
+### Frontend commands
 
-| Layer | Purpose |
-|-------|---------|
-| `src/modules/` | Feature modules: auth, chatbot, itinerary, qdrant, health, test |
-| `src/prisma/` | `@Global()` PrismaModule — shared across all modules |
-| `src/common/` | `@Public()` decorator, exception filters, logging middleware, transform interceptor |
-| `prisma/schema.prisma` | Database models (Trip → TripDay → Activity → Place) |
-| `baml_src/` | LLM function definitions for RAG chat and PDF extraction |
+```bash
+cd frontend
+ng serve                             # Dev server on :4200
+ng build --configuration=production
+npx playwright test                  # E2E tests (desktop + mobile)
+```
 
-**Global middleware** (applied in `main.ts`): Helmet security headers → CORS → `/api/v1` prefix → ZodValidationPipe → HttpExceptionFilter + PrismaClientExceptionFilter → TransformInterceptor → ThrottlerGuard (100 req/60s).
+## Backend architecture (`api/`)
 
-**Authentication**: Supabase JWT. `SupabaseAuthGuard` is global — all routes require auth unless marked with `@Public()`. The guard validates tokens via Supabase API and injects `userId` into the request.
+NestJS modular app. Entry points: `main.ts` (local dev, port 8000) and `serverless.ts` (Vercel, singleton Express cached across cold starts).
 
-**Key modules**:
-- **chatbot**: RAG pipeline — embeds query (OpenAI) → searches Qdrant (`italia-kb`) → fetches user's latest trip for context → calls BAML `StreamRAGChat()` (Claude Haiku 4.5, parameterized by region) → streams SSE response
-- **itinerary**: Full CRUD for trips/days/activities (dormant — hidden from nav, code intact for future use). `uploadPdfAndExtract()` parses PDFs via BAML. Nested routes: `/itineraries/:id/days/:dayId/activities`
-- **qdrant**: Wraps `@qdrant/js-client-rest` for vector similarity search
+### Request pipeline
 
-**Database models** (Prisma): Trip → TripDay → Activity → Place, plus ActivityHighlight, Booking, TravelTip. All user-scoped via `userId`. Cascading deletes enabled. Zod schemas auto-generated from Prisma for DTO validation.
+Helmet -> CORS -> `/api/v1` prefix -> LoggingMiddleware -> ThrottlerGuard (100 req/60s) -> SupabaseAuthGuard (global, bypass with `@Public()`) -> ZodValidationPipe -> route handler -> ZodSerializerInterceptor -> HttpExceptionFilter + PrismaClientExceptionFilter
 
-**Path aliases** in `tsconfig.json`: `@/*` → `src/*`, `@generated/prisma`, `@generated/zod`.
+### Modules
 
-### Frontend (`frontend/`)
+- **auth** — validates Supabase JWT via `supabase.auth.getUser()`, injects `req.user`. `@CurrentUser()` param decorator. Account deletion cascades through Supabase then DB.
+- **chatbot** — the RAG pipeline. Embeds query (OpenAI) -> Qdrant cosine search (top 5, score >= 0.75, `italia-kb` collection) -> fetches user's trip context -> BAML `StreamRAGChat()` (GPT-5 Mini) -> SSE stream. The BAML response is a `RichChatResponse` with text, images, links, map_links, tables, sources, and item_categories.
+- **chat-conversation** — CRUD for conversation persistence (create, list, get, append message, update title, delete).
+- **region** — returns all 20 regions with `hasKb` flag. Cache-Control: 1hr with stale-while-revalidate.
+- **poi** — points of interest lookup, filterable by region and category (13 categories). Cache-Control: 5min.
+- **saved-items** — user bookmarks. Upsert with async best-effort POI linking (case-insensitive name match against PointOfInterest table, non-blocking).
+- **qdrant** — wraps `@qdrant/js-client-rest`. `embed()` calls OpenAI text-embedding-ada-002. `search()` does cosine similarity with optional region filter.
+- **health** — `@Public()`, checks DB with `SELECT 1`.
+- **test** — in-memory CRUD for testing.
 
-Angular 21 with standalone components, signals, and OnPush change detection throughout.
+### Database (Prisma)
 
-| Layer | Purpose |
-|-------|---------|
-| `src/app/pages/` | Page components: chatbot (primary), itinerary (dormant) |
-| `src/app/services/` | AuthService, ChatService, ItineraryService |
-| `src/app/guards/` | `authGuard` (protect routes), `guestGuard` (redirect if logged in) |
-| `src/app/interceptors/` | `authInterceptor` — injects Bearer token, handles 401 refresh |
-| `src/app/shared/` | Layout, sidebar, inline-edit component, markdown pipe |
-| `src/app/models/` | TypeScript interfaces for chat and itinerary data |
-| `src/environments/` | Environment configs (apiUrl, supabase credentials) |
+Models: `Region`, `PointOfInterest`, `SavedItem`, plus `ChatConversation` and `ChatMessage` for history. PrismaService uses the PrismaPg adapter for Supabase connection pooling. Zod schemas auto-generated from Prisma via `prisma-zod-generator` for DTO validation.
 
-**State management**: Signals (`signal()`, `computed()`) — no external state library. Services hold shared state; components use local signals.
+Path aliases in `tsconfig.json`: `@/*` -> `src/*`, `@generated/prisma`, `@generated/zod`.
 
-**Styling**: Tailwind CSS 4.1, mobile-first responsive design.
+### BAML
 
-**Chat streaming**: `ChatService.streamMessage()` uses raw `EventSource` (not HttpClient) to consume SSE from `/api/v1/chat/stream`. Returns `Observable<StreamChunk>`.
+`baml_src/chatbot.baml` defines `StreamRAGChat` — the only LLM function used at runtime. `baml_src/clients.baml` defines LLM clients (GPT-5 Mini is the default for chat). Never edit `baml_client/` — it's auto-generated.
 
-**E2E tests**: Playwright (`e2e/italia.spec.ts`) covering login, chatbot, and mobile responsiveness. Config tests desktop (1280x720) and mobile (Pixel 5).
+## Frontend architecture (`frontend/`)
 
-### Docker Services
+Angular 21 with standalone components, signals, OnPush change detection, zoneless (`provideZonelessChangeDetection`).
 
-| Service | Port | Description |
-|---------|------|-------------|
-| `api` | 8000:8000 | NestJS with hot reload (volume-mounted) |
-| `frontend` | 4200:80 | Angular + nginx (proxies `/api/` to backend) |
+### State management
 
-Database is hosted on Supabase — no local `db` container needed.
+All state lives in signals. No external state library. Services hold shared state (`signal()`), components derive from it (`computed()`). The `SavedItemsService` uses a `Map<string, SavedItem>` with optimistic updates and rollback on error.
 
-### Environment Variables (`api/.env`)
+### Chat streaming
 
-Required: `DATABASE_URL`, `DIRECT_URL` (Supabase pooled/session), `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, `OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, `QDRANT_URL`, `QDRANT_API_KEY`. Optional: `GOOGLE_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `CORS_ORIGINS`.
+`ChatService.streamMessage()` uses raw `fetch` + `ReadableStream` to consume SSE from `/api/v1/chat/stream` (not HttpClient, because HttpClient doesn't support SSE streaming). Returns `Observable<StreamChunk>`. On 401, refreshes token and retries once.
 
-## Skills
+### Key services
 
-| Skill | Path | Purpose |
-|-------|------|---------|
-| Qdrant | `.claude/skills/qdrant.md` | Vector database operations with `@qdrant/js-client-rest` |
+- **auth** — Supabase client wrapper. Signals: `isAuthenticated`, `isInitialized`, `currentUser`. Google OAuth login.
+- **chat-history** — orchestrates conversation persistence. Uses database as primary source of truth (not localStorage).
+- **region** — holds 20 hardcoded regions as initial state, refreshes `hasKb` from API. Persists selected region to localStorage.
+- **explore** — loads per-region quick-prompt JSON from `assets/explore/`. Falls back to `_default.json`.
+- **saved-items** — signal-based store backed by API. Optimistic updates with rollback.
+- **theme** — light/dark/system. Persisted to localStorage, applies `.dark` class to `<html>`.
+- **mobile-chat-bridge** — decouples bottom tab bar from chatbot component. Suppresses nav auto-hide during programmatic scroll.
+
+### Routing
+
+Auth-protected shell (`LayoutComponent`) wraps `/` (chatbot), `/saved`, `/profile`. Guest routes: `/login`, `/auth/forgot-password`, `/auth/update-password`. Catch-all 404.
+
+### Styling
+
+Tailwind CSS v4, mobile-first. The `markdown.pipe.ts` transforms markdown to SafeHtml using `marked`, injecting `[N]` citation patterns as clickable `<sup>` links.
+
+### E2E tests
+
+Playwright in `e2e/`. Tests desktop (1280x720) and mobile (Pixel 5). Run with `npx playwright test`.
+
+## Environment variables (`api/.env`)
+
+Required: `DATABASE_URL`, `DIRECT_URL` (Supabase pooled/session), `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, `OPENAI_API_KEY`, `QDRANT_URL`, `QDRANT_API_KEY`.
+
+Optional: `ANTHROPIC_API_KEY`, `GOOGLE_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `CORS_ORIGINS`.
+
+## Conventions
+
+- Angular: standalone components (don't set `standalone: true`, it's the default), `inject()` not constructor injection, `input()`/`output()` not decorators, native control flow (`@if`, `@for`, `@switch`), `ChangeDetectionStrategy.OnPush` on every component
+- DTOs: `Create<Entity>Dto`, `Update<Entity>Dto`, `<Entity>ResponseDto` pattern, Zod-based via nestjs-zod
+- API routes: all under `/api/v1`, protected by default, opt-out with `@Public()`
+- Frontend npm: use `--legacy-peer-deps` flag
+
+## KB ingestion (offline)
+
+```bash
+npx tsx kb/scrape.ts                                                    # Scrape sources
+cd api && npx ts-node -r tsconfig-paths/register scripts/chunk-pages.ts # Chunk markdown
+npx ts-node -r tsconfig-paths/register scripts/upload-to-qdrant.ts      # Embed + upload
+```
+
+Pipeline: `kb/links.csv` -> scrape -> `kb/scraped/` -> chunk -> `kb/chunked/all-chunks.json` -> OpenAI ada-002 embeddings (batches of 50) -> Qdrant upsert (`italia-kb`, 1536-dim cosine). Each vector has a `region` field for multi-region filtering.
+
+## Deployment
+
+Vercel via GitHub Actions. Pushing to `main` deploys both API and frontend. The API uses `serverless.ts` as entry point (singleton Express app cached across invocations).
