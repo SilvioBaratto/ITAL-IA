@@ -300,3 +300,10 @@ idea/
 # Claude Code
 .claude/
 **/.claude/
+
+# Vercel
+.vercel/
+**/.vercel/
+
+# Script notes
+script.md
