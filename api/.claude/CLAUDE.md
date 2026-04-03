@@ -6,7 +6,7 @@ This file provides guidance to Claude Code when working with this NestJS API.
 
 ```bash
 npm install
-npm run start:dev                # Dev server on :8000
+npm run start:dev                # Dev server on :3005
 npm run start:debug              # Dev with debugger
 npm run build                    # Production build (nest build)
 npm test                         # Jest unit tests
@@ -21,7 +21,7 @@ npx baml-cli generate            # Regenerate BAML client after editing baml_src
 
 ## Architecture
 
-NestJS 11 app with two entry points: `main.ts` (local, port 8000) and `serverless.ts` (Vercel, singleton Express).
+NestJS 11 app with two entry points: `main.ts` (local, port 3005) and `serverless.ts` (Vercel, singleton Express).
 
 ### Request pipeline
 

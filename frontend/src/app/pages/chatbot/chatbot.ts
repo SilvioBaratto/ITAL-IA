@@ -12,13 +12,14 @@ import {
 } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ChatService } from '../../services/chat.service';
+import { GeolocationService } from '../../services/geolocation.service';
 import { RegionService } from '../../services/region.service';
 import { ExploreService } from '../../services/explore.service';
 import { SavedItemsService } from '../../services/saved-items.service';
 import { ToastService } from '../../services/toast.service';
 import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 import { ThemeService } from '../../services/theme.service';
-import { ChatMessage, RichContent } from '../../models/chat.model';
+import { ChatMessage, RichContent, UserLocation } from '../../models/chat.model';
 import { SavedItemCategory } from '../../models/saved-item.model';
 import { MarkdownPipe } from '../../shared/pipes/markdown.pipe';
 import { ChatInputComponent } from '../../shared/chat-input/chat-input';
@@ -33,6 +34,8 @@ import {
   LucideFileText,
   LucideSun,
   LucideMoon,
+  LucideLocate,
+  LucideLoader,
 } from '@lucide/angular';
 
 @Component({
@@ -50,6 +53,8 @@ import {
     LucideFileText,
     LucideSun,
     LucideMoon,
+    LucideLocate,
+    LucideLoader,
   ],
   templateUrl: './chatbot.html',
   styleUrl: './chatbot.css',
@@ -58,6 +63,7 @@ import {
 })
 export class ChatbotComponent implements OnInit, OnDestroy {
   private readonly chatService = inject(ChatService);
+  readonly geoService = inject(GeolocationService);
   private readonly regionService = inject(RegionService);
   private readonly exploreService = inject(ExploreService);
   private readonly savedItemsService = inject(SavedItemsService);
@@ -203,8 +209,13 @@ export class ChatbotComponent implements OnInit, OnDestroy {
 
     const region = this.regionService.selectedRegion().name;
 
+    const pos = this.geoService.position();
+    const userLocation: UserLocation | undefined = pos
+      ? { latitude: pos.latitude, longitude: pos.longitude, accuracy: pos.accuracy }
+      : undefined;
+
     this.chatService
-      .streamMessage(question, history, region)
+      .streamMessage(question, history, region, userLocation)
       .pipe(takeUntilDestroyed(this.destroyRef))
       .subscribe({
         next: (chunk) => {
@@ -275,6 +286,14 @@ export class ChatbotComponent implements OnInit, OnDestroy {
           this.scrollToBottom();
         },
       });
+  }
+
+  async requestLocation(): Promise<void> {
+    try {
+      await this.geoService.getCurrentPosition();
+    } catch {
+      // Error state is tracked via geoService.isDenied()
+    }
   }
 
   retryExplore(): void {

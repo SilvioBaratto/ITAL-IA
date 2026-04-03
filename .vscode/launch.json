@@ -5,9 +5,10 @@
       "name": "API",
       "type": "node-terminal",
       "request": "launch",
-      "command": "npm run start:dev",
+      "command": "npm run start:debug",
       "cwd": "${workspaceFolder}/api",
-      "envFile": "${workspaceFolder}/api/.env"
+      "envFile": "${workspaceFolder}/api/.env",
+      "killBehavior": "forceful"
     }
   ]
 }

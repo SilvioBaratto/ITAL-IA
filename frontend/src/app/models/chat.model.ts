@@ -68,8 +68,15 @@ export interface ChatMessage {
   suggestions?: string[];
 }
 
+export interface UserLocation {
+  latitude: number;
+  longitude: number;
+  accuracy: number;
+}
+
 export interface ChatRequest {
   user_question: string;
   conversation_history: { messages: string[] };
   region?: string;
+  user_location?: UserLocation;
 }

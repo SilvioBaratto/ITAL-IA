@@ -3,7 +3,7 @@ import { Router } from '@angular/router';
 import { Observable } from 'rxjs';
 import { environment } from '../../environments/environment';
 import { AuthService } from './auth.service';
-import { ChatRequest, StreamChunk } from '../models/chat.model';
+import { ChatRequest, StreamChunk, UserLocation } from '../models/chat.model';
 
 @Injectable({
   providedIn: 'root',
@@ -13,13 +13,14 @@ export class ChatService {
   private readonly router = inject(Router);
   private readonly chatEndpoint = `${environment.apiUrl}chat/`;
 
-  streamMessage(question: string, history: string[], region?: string): Observable<StreamChunk> {
+  streamMessage(question: string, history: string[], region?: string, userLocation?: UserLocation): Observable<StreamChunk> {
     return new Observable<StreamChunk>((subscriber) => {
       const controller = new AbortController();
       const body: ChatRequest = {
         user_question: question,
         conversation_history: { messages: history },
         region,
+        user_location: userLocation,
       };
 
       const doFetch = (token: string | null) => {

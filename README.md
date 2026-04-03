@@ -74,7 +74,7 @@ cd api
 npm install
 npx prisma generate
 npx baml-cli generate
-npm run start:dev          # http://localhost:8000
+npm run start:dev          # http://localhost:3005
 
 # Frontend (in a separate terminal)
 cd frontend
@@ -94,8 +94,8 @@ npx prisma migrate deploy
 | Service            | URL                        |
 | ------------------ | -------------------------- |
 | Frontend           | http://localhost:4200      |
-| API                | http://localhost:8000      |
-| API Docs (Swagger) | http://localhost:8000/docs |
+| API                | http://localhost:3005      |
+| API Docs (Swagger) | http://localhost:3005/docs |
 
 ## Architecture
 

@@ -71,6 +71,10 @@ export class ChatbotService {
       ]);
       const contextChunks = toRetrievedChunks(searchResults);
 
+      const userLocationStr = request.user_location
+        ? `Lat ${request.user_location.latitude.toFixed(5)}, Lon ${request.user_location.longitude.toFixed(5)} (precisione: ~${Math.round(request.user_location.accuracy)}m)`
+        : null;
+
       const stream = b.stream.StreamRAGChat(
         request.user_question,
         contextChunks,
@@ -78,6 +82,7 @@ export class ChatbotService {
         tripContext,
         region,
         requestDatetime,
+        userLocationStr,
       );
 
       for await (const event of stream) {

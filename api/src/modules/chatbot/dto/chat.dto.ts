@@ -1,6 +1,13 @@
 import { z } from 'zod';
 import { createZodDto } from 'nestjs-zod';
 
+// User geolocation
+export const UserLocationSchema = z.object({
+  latitude: z.number().min(-90).max(90),
+  longitude: z.number().min(-180).max(180),
+  accuracy: z.number().min(0),
+});
+
 // Request
 export const ChatRequestSchema = z.object({
   user_question: z.string().min(1, 'Question is required').max(2000),
@@ -8,6 +15,7 @@ export const ChatRequestSchema = z.object({
     .object({ messages: z.array(z.string().max(5000)).max(50) })
     .optional(),
   region: z.string().optional(),
+  user_location: UserLocationSchema.optional(),
 });
 
 // Rich response sub-types
