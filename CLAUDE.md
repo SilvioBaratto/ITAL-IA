@@ -15,7 +15,7 @@ Live at [italia.silviobaratto.com](https://italia.silviobaratto.com).
 docker compose up -d --build
 
 # Or run separately:
-cd api && npm run start:dev          # Backend on :8000
+cd api && npm run start:dev          # Backend on :3005
 cd frontend && ng serve              # Frontend on :4200
 ```
 
@@ -45,7 +45,7 @@ npx playwright test                  # E2E tests (desktop + mobile)
 
 ## Backend architecture (`api/`)
 
-NestJS modular app. Entry points: `main.ts` (local dev, port 8000) and `serverless.ts` (Vercel, singleton Express cached across cold starts).
+NestJS modular app. Entry points: `main.ts` (local dev, port 3005) and `serverless.ts` (Vercel, singleton Express cached across cold starts).
 
 ### Request pipeline
 

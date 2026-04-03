@@ -4,7 +4,7 @@
 
 ```bash
 npm install
-npm run start:dev    # http://localhost:8000
+npm run start:dev    # http://localhost:3005
 ```
 
 ## Key Commands

@@ -61,7 +61,7 @@ jobs:
 
           echo "Checking API health..."
           for i in {1..10}; do
-            if curl -s http://localhost:8000/health > /dev/null 2>&1 || curl -s http://localhost:8000/docs > /dev/null 2>&1; then
+            if curl -s http://localhost:3005/health > /dev/null 2>&1 || curl -s http://localhost:3005/docs > /dev/null 2>&1; then
               echo "API is responding"
               break
             fi
@@ -87,7 +87,7 @@ jobs:
 
           echo ""
           echo "=== Testing API /health endpoint ==="
-          curl -v http://localhost:8000/health || (echo "API /health not accessible" && docker compose logs api && exit 1)
+          curl -v http://localhost:3005/health || (echo "API /health not accessible" && docker compose logs api && exit 1)
 
           echo ""
           echo "=== Testing Frontend ==="

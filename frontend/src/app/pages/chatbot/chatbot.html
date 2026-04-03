@@ -3,6 +3,22 @@
   <div class="flex items-center justify-between px-4 h-11 border-b border-border md:hidden">
     <span class="font-display font-bold text-sm text-text">ITAL-IA</span>
     <div class="flex items-center gap-1 -mr-2">
+      @if (geoService.isAvailable() && !geoService.isDenied() && !geoService.hasPosition()) {
+      <button (click)="requestLocation()" [disabled]="geoService.loading()"
+        class="p-2 rounded-md text-text-secondary hover:text-primary hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center disabled:opacity-50"
+        aria-label="Usa la mia posizione">
+        @if (geoService.loading()) {
+        <svg lucideLoader class="w-5 h-5 animate-spin" aria-hidden="true"></svg>
+        } @else {
+        <svg lucideLocate class="w-5 h-5" aria-hidden="true"></svg>
+        }
+      </button>
+      }
+      @if (geoService.hasPosition()) {
+      <span class="p-2 text-success min-h-11 min-w-11 flex items-center justify-center" aria-label="Posizione attiva">
+        <svg lucideLocate class="w-5 h-5" aria-hidden="true"></svg>
+      </span>
+      }
       <button (click)="themeService.toggleTheme()"
         class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
         [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
@@ -353,6 +369,27 @@
           <svg lucideTriangleAlert class="w-3 h-3 shrink-0" aria-hidden="true"></svg>
           <span lang="it">Knowledge base in arrivo</span>
         </span>
+        }
+        @if (geoService.isAvailable() && !geoService.isDenied()) {
+          @if (geoService.hasPosition()) {
+          <span
+            class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-success/10 border border-success/30 text-xs text-success">
+            <svg lucideLocate class="w-3 h-3 shrink-0" aria-hidden="true"></svg>
+            <span lang="it">Posizione attiva</span>
+          </span>
+          } @else {
+          <button (click)="requestLocation()" [disabled]="geoService.loading()"
+            class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-surface-inset border border-border text-xs text-text-secondary hover:text-primary hover:border-primary/30 transition-colors disabled:opacity-50"
+            lang="it" aria-label="Usa la mia posizione">
+            @if (geoService.loading()) {
+            <svg lucideLoader class="w-3 h-3 shrink-0 animate-spin" aria-hidden="true"></svg>
+            <span>Localizzazione...</span>
+            } @else {
+            <svg lucideLocate class="w-3 h-3 shrink-0" aria-hidden="true"></svg>
+            <span>Usa la mia posizione</span>
+            }
+          </button>
+          }
         }
       </div>
     </div>
