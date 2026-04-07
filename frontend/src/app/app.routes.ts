@@ -35,6 +35,21 @@ export const routes: Routes = [
         title: 'Salvati',
       },
       {
+        path: 'italiapedia',
+        loadComponent: () => import('./pages/italiapedia/landing/italiapedia-landing').then((m) => m.ItaliapediaLandingComponent),
+        title: 'Italiapedia',
+      },
+      {
+        path: 'italiapedia/:regionId',
+        loadComponent: () => import('./pages/italiapedia/region/italiapedia-region').then((m) => m.ItaliapediaRegionComponent),
+        title: 'Italiapedia — Regione',
+      },
+      {
+        path: 'italiapedia/:regionId/:poiId',
+        loadComponent: () => import('./pages/italiapedia/poi/italiapedia-poi').then((m) => m.ItaliapediaPoiComponent),
+        title: 'Italiapedia — Punto di Interesse',
+      },
+      {
         path: 'profile',
         loadComponent: () => import('./pages/profile/profile').then((m) => m.ProfilePageComponent),
         title: 'Profilo',

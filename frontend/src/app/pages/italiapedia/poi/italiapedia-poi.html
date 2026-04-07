@@ -1,0 +1,320 @@
+<main class="flex flex-col pb-36 md:pb-24 max-w-2xl mx-auto animate-fade-in-up">
+
+  <!-- ===========================================================
+       LOADING STATE — skeleton shimmer
+       =========================================================== -->
+  @if (loading()) {
+    <div class="flex flex-col gap-6 px-4 py-6 md:px-6 md:py-8" aria-busy="true" aria-label="Caricamento punto di interesse">
+
+      <!-- Breadcrumb skeleton -->
+      <div class="flex items-center gap-2">
+        <div class="h-3 w-20 rounded shimmer-bg"></div>
+        <div class="h-3 w-3 rounded shimmer-bg"></div>
+        <div class="h-3 w-24 rounded shimmer-bg"></div>
+        <div class="h-3 w-3 rounded shimmer-bg"></div>
+        <div class="h-3 w-32 rounded shimmer-bg"></div>
+      </div>
+
+      <!-- Badge + title skeleton -->
+      <div class="flex flex-col gap-3 mt-1">
+        <div class="h-5 w-20 rounded-full shimmer-bg"></div>
+        <div class="h-8 w-3/4 rounded shimmer-bg"></div>
+        <div class="h-4 w-1/2 rounded shimmer-bg"></div>
+      </div>
+
+      <!-- Image skeleton -->
+      <div class="w-full h-56 md:h-72 rounded-xl shimmer-bg"></div>
+
+      <!-- Description card skeleton -->
+      <div class="rounded-xl border border-border p-5 flex flex-col gap-3 shimmer-bg">
+        <div class="h-5 w-28 rounded shimmer-bg"></div>
+        <div class="h-4 w-full rounded shimmer-bg"></div>
+        <div class="h-4 w-5/6 rounded shimmer-bg"></div>
+        <div class="h-4 w-4/6 rounded shimmer-bg"></div>
+      </div>
+
+      <!-- Action buttons skeleton -->
+      <div class="flex gap-3">
+        <div class="h-11 w-32 rounded-xl shimmer-bg"></div>
+        <div class="h-11 w-28 rounded-xl shimmer-bg"></div>
+        <div class="h-11 w-24 rounded-xl shimmer-bg"></div>
+      </div>
+
+    </div>
+  }
+
+  <!-- ===========================================================
+       ERROR STATE
+       =========================================================== -->
+  @else if (error()) {
+    <div class="flex flex-col items-center gap-4 px-4 py-16 text-center" role="alert">
+      <p class="text-text-secondary text-sm">Impossibile caricare il punto di interesse.</p>
+      <button
+        (click)="retry()"
+        class="inline-flex items-center gap-2 bg-primary text-white rounded-lg px-4 py-2 text-sm font-medium
+               hover:bg-primary-hover transition-colors focus-visible:outline-primary min-h-11"
+        type="button"
+      >
+        Riprova
+      </button>
+    </div>
+  }
+
+  <!-- ===========================================================
+       MAIN CONTENT
+       =========================================================== -->
+  @else if (poi(); as poi) {
+
+    <div class="flex flex-col gap-6 px-4 py-6 md:px-6 md:py-8">
+
+      <!-- Breadcrumb -->
+      <app-breadcrumb [crumbs]="breadcrumbs()" />
+
+      <!-- ==========================================================
+           BADGE + TITLE + ADDRESS
+           ========================================================== -->
+      <div class="flex flex-col gap-2">
+
+        @if (badgeConfig(); as badge) {
+          <span
+            class="self-start text-xs font-medium px-2.5 py-1 rounded-full"
+            [class]="badge.classes"
+          >
+            {{ badge.label }}
+          </span>
+        }
+
+        <h1 class="font-display font-bold text-2xl md:text-3xl tracking-tight text-text leading-tight">
+          {{ poi.name }}
+        </h1>
+
+        @if (poi.address) {
+          <p class="text-text-secondary text-sm flex items-center gap-1">
+            <svg
+              lucideMapPin
+              class="w-3.5 h-3.5 shrink-0 text-text-tertiary"
+              aria-hidden="true"
+            ></svg>
+            <span>{{ poi.address }}</span>
+          </p>
+        }
+
+      </div>
+
+      <!-- ==========================================================
+           COVER IMAGE
+           ========================================================== -->
+      @if (poi.imageUrl && !imageError()) {
+        <div class="relative w-full h-56 md:h-72 rounded-xl overflow-hidden bg-surface-inset">
+
+          <!-- Shimmer shown while image loads -->
+          @if (imageLoading()) {
+            <div class="absolute inset-0 shimmer-bg" aria-hidden="true"></div>
+          }
+
+          <img
+            [src]="poi.imageUrl"
+            [alt]="poi.name"
+            loading="lazy"
+            (load)="onImageLoad()"
+            (error)="onImageError()"
+            class="w-full h-full object-cover"
+            [class.opacity-0]="imageLoading()"
+          />
+        </div>
+      }
+
+      <!-- ==========================================================
+           ACTION BUTTONS (desktop — hidden on mobile, replaced by sticky bar)
+           ========================================================== -->
+      <div class="hidden md:flex gap-3 flex-wrap" aria-label="Azioni">
+
+        @if (poi.mapsUrl) {
+          <a
+            [href]="poi.mapsUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Apri su Google Maps (nuova finestra)"
+            class="inline-flex items-center gap-2 bg-accent hover:bg-accent-hover text-white rounded-xl px-4 py-2.5 text-sm font-medium
+                   transition-colors motion-reduce:transition-none focus-visible:outline-accent min-h-11"
+          >
+            <svg lucideMapPin class="w-4 h-4 shrink-0" aria-hidden="true"></svg>
+            Apri in Maps
+          </a>
+        }
+
+        @if (poi.websiteUrl) {
+          <a
+            [href]="poi.websiteUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Visita il sito web (nuova finestra)"
+            class="inline-flex items-center gap-2 bg-surface-raised border border-border hover:bg-surface-inset rounded-xl px-4 py-2.5 text-sm font-medium text-text
+                   transition-colors motion-reduce:transition-none focus-visible:outline-primary min-h-11"
+          >
+            <svg lucideExternalLink class="w-4 h-4 shrink-0" aria-hidden="true"></svg>
+            Sito web
+          </a>
+        }
+
+        <button
+          type="button"
+          (click)="toggleSave()"
+          class="inline-flex items-center gap-2 bg-surface-raised border border-border hover:bg-surface-inset rounded-xl px-4 py-2.5 text-sm font-medium text-text
+                 transition-colors motion-reduce:transition-none focus-visible:outline-primary min-h-11"
+          [attr.aria-label]="isSaved() ? 'Rimuovi dai salvati' : 'Salva'"
+          [attr.aria-pressed]="isSaved()"
+        >
+          @if (isSaved()) {
+            <svg lucideBookmarkCheck class="w-4 h-4 shrink-0 text-primary" aria-hidden="true"></svg>
+            Salvato
+          } @else {
+            <svg lucideBookmark class="w-4 h-4 shrink-0" aria-hidden="true"></svg>
+            Salva
+          }
+        </button>
+
+      </div>
+
+      <!-- ==========================================================
+           DESCRIPTION CARD
+           ========================================================== -->
+      @if (poi.description) {
+        <section
+          class="bg-surface-raised border border-border rounded-xl p-5 flex flex-col gap-3"
+          aria-label="Descrizione"
+        >
+          <h2 class="font-display font-semibold text-base text-text">Descrizione</h2>
+          <p class="text-sm text-text-secondary leading-relaxed">{{ poi.description }}</p>
+        </section>
+      }
+
+      <!-- ==========================================================
+           DETAILS / INFOBOX CARD
+           ========================================================== -->
+      @if (poi.address || poi.neighborhood || coordinates()) {
+        <section
+          class="bg-surface-raised border border-border rounded-xl p-5 flex flex-col gap-2"
+          aria-label="Dettagli"
+        >
+          <h2 class="font-display font-semibold text-base text-text mb-1">Dettagli</h2>
+
+          <dl class="divide-y divide-border-muted">
+
+            @if (poi.address) {
+              <div class="flex justify-between items-baseline py-2.5 gap-4">
+                <dt class="text-xs font-medium text-text-tertiary shrink-0">Indirizzo</dt>
+                <dd class="text-sm text-text text-right">{{ poi.address }}</dd>
+              </div>
+            }
+
+            @if (poi.neighborhood) {
+              <div class="flex justify-between items-baseline py-2.5 gap-4">
+                <dt class="text-xs font-medium text-text-tertiary shrink-0">Quartiere</dt>
+                <dd class="text-sm text-text text-right">{{ poi.neighborhood }}</dd>
+              </div>
+            }
+
+            @if (coordinates()) {
+              <div class="flex justify-between items-baseline py-2.5 gap-4">
+                <dt class="text-xs font-medium text-text-tertiary shrink-0">Coordinate</dt>
+                <dd class="font-mono text-xs text-text-secondary text-right">{{ coordinates() }}</dd>
+              </div>
+            }
+
+          </dl>
+        </section>
+      }
+
+      <!-- ==========================================================
+           CHAT CTA CARD
+           ========================================================== -->
+      <section
+        class="bg-primary-light border border-primary/20 rounded-xl p-5 flex flex-col gap-3"
+        aria-label="Chiedi alla chat"
+      >
+        <h2 class="font-display font-semibold text-base text-primary">Chiedi alla chat</h2>
+        <p class="text-sm text-text-secondary italic">"{{ chatPrompt() }}"</p>
+        <button
+          type="button"
+          (click)="openInChat()"
+          class="self-start inline-flex items-center gap-2 bg-primary hover:bg-primary-hover text-white rounded-xl px-4 py-2.5 text-sm font-medium
+                 transition-colors motion-reduce:transition-none focus-visible:outline-primary min-h-11"
+        >
+          Apri in chat →
+        </button>
+      </section>
+
+      <!-- ==========================================================
+           RELATED POIs
+           ========================================================== -->
+      @if (showRelated()) {
+        <section aria-label="Simili nella stessa area">
+          <h2 class="font-display font-semibold text-base text-text mb-3">
+            Simili in {{ region()?.name }}
+          </h2>
+          <div
+            appHorizontalScroll
+            class="flex gap-3 overflow-x-auto pb-2 scrollbar-hidden scrollbar-on-hover snap-x snap-mandatory"
+            role="region"
+            aria-label="Punti di interesse simili"
+            tabindex="0"
+          >
+            @for (related of relatedPois(); track related.id) {
+              <div class="snap-start shrink-0 w-44">
+                <app-poi-card [poi]="related" />
+              </div>
+            }
+          </div>
+        </section>
+      }
+
+    </div>
+
+  }
+
+</main>
+
+<!-- ================================================================
+     MOBILE STICKY BOTTOM BAR — Maps + Save buttons above tab bar
+     ================================================================ -->
+@if (poi(); as poi) {
+  <div
+    class="md:hidden fixed inset-x-0 bg-surface-raised/80 backdrop-blur-md border-t border-border/40 px-4 py-2 flex gap-3"
+    style="bottom: calc(var(--spacing-13, 3.25rem) + env(safe-area-inset-bottom, 0px))"
+    aria-label="Azioni rapide"
+  >
+
+    @if (poi.mapsUrl) {
+      <a
+        [href]="poi.mapsUrl"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Apri su Google Maps (nuova finestra)"
+        class="flex-1 inline-flex items-center justify-center gap-2 bg-accent hover:bg-accent-hover text-white rounded-xl px-4 py-2.5 text-sm font-medium
+               transition-colors motion-reduce:transition-none focus-visible:outline-accent min-h-11"
+      >
+        <svg lucideMapPin class="w-4 h-4 shrink-0" aria-hidden="true"></svg>
+        Maps
+      </a>
+    }
+
+    <button
+      type="button"
+      (click)="toggleSave()"
+      class="flex-1 inline-flex items-center justify-center gap-2 bg-surface-raised border border-border hover:bg-surface-inset rounded-xl px-4 py-2.5 text-sm font-medium text-text
+             transition-colors motion-reduce:transition-none focus-visible:outline-primary min-h-11"
+      [attr.aria-label]="isSaved() ? 'Rimuovi dai salvati' : 'Salva'"
+      [attr.aria-pressed]="isSaved()"
+    >
+      @if (isSaved()) {
+        <svg lucideBookmarkCheck class="w-4 h-4 shrink-0 text-primary" aria-hidden="true"></svg>
+        Salvato
+      } @else {
+        <svg lucideBookmark class="w-4 h-4 shrink-0" aria-hidden="true"></svg>
+        Salva
+      }
+    </button>
+
+  </div>
+}

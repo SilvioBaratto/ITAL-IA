@@ -75,23 +75,45 @@
   @apply scrollbar-hidden;
 }
 
-/* Base styles */
-html {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  touch-action: manipulation;
+/* Show a thin scrollbar on hover for horizontal scroll containers on desktop */
+@utility scrollbar-on-hover {
+  @media (pointer: fine) {
+    &:hover {
+      scrollbar-width: thin;
+      &::-webkit-scrollbar {
+        display: block;
+        height: 6px;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: var(--color-border);
+        border-radius: 3px;
+      }
+      &::-webkit-scrollbar-track {
+        background: transparent;
+      }
+    }
+  }
 }
 
-/* Prevent iOS auto-zoom on form inputs (triggers below 16px) */
-input, textarea, select {
-  font-size: 16px;
-}
+/* Base styles — placed in @layer base so Tailwind utilities can override */
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    touch-action: manipulation;
+  }
 
-*:focus-visible {
-  outline: 2px solid var(--color-primary);
-  outline-offset: 2px;
-  border-radius: 4px;
+  /* Prevent iOS auto-zoom on form inputs (triggers below 16px) */
+  input, textarea, select {
+    font-size: 16px;
+  }
+
+  *:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
 }
 
 /* Animations — only when user has no motion preference */
@@ -147,4 +169,25 @@ input, textarea, select {
 /* iOS safe area insets */
 .pb-safe {
   padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* Shimmer skeleton loading — global utility */
+.shimmer-bg {
+  background: linear-gradient(90deg, var(--color-surface-inset) 25%, var(--color-border) 50%, var(--color-surface-inset) 75%);
+  background-size: 200% 100%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .shimmer-bg {
+    animation: shimmer 1.5s infinite;
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: 200% 0;
+    }
+    100% {
+      background-position: -200% 0;
+    }
+  }
 }

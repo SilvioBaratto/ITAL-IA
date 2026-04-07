@@ -1,0 +1,238 @@
+<main class="flex flex-col pb-24 max-w-4xl mx-auto animate-fade-in-up">
+
+  <!-- =====================================================================
+       LOADING STATE — full-page skeleton
+       ===================================================================== -->
+  @if (loading()) {
+    <div class="flex flex-col gap-6 px-4 py-6 md:px-8 md:py-8" aria-busy="true" aria-label="Caricamento regione">
+
+      <!-- Breadcrumb skeleton -->
+      <div class="flex items-center gap-2">
+        <div class="h-3 w-20 rounded shimmer-bg"></div>
+        <div class="h-3 w-3 rounded shimmer-bg"></div>
+        <div class="h-3 w-32 rounded shimmer-bg"></div>
+      </div>
+
+      <!-- Header skeleton -->
+      <div class="bg-gradient-to-br from-primary/5 to-surface rounded-2xl p-6 md:p-8 border border-border/60">
+        <div class="flex flex-col gap-4">
+          <div class="h-8 w-56 rounded shimmer-bg"></div>
+          <div class="h-4 w-80 rounded shimmer-bg"></div>
+          <div class="h-4 w-64 rounded shimmer-bg"></div>
+          <div class="flex gap-3 mt-2">
+            <div class="h-7 w-24 rounded-full shimmer-bg"></div>
+            <div class="h-7 w-24 rounded-full shimmer-bg"></div>
+          </div>
+          <div class="h-10 w-48 rounded-lg shimmer-bg mt-2"></div>
+        </div>
+      </div>
+
+      <!-- Filter pills skeleton -->
+      <div class="flex gap-2 overflow-x-auto pb-1">
+        @for (i of [1, 2, 3, 4, 5]; track i) {
+          <div class="h-8 w-20 rounded-full shrink-0 shimmer-bg"></div>
+        }
+      </div>
+
+      <!-- Grid skeleton -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        @for (i of [1, 2, 3, 4, 5, 6]; track i) {
+          <div class="h-36 rounded-2xl shimmer-bg"></div>
+        }
+      </div>
+    </div>
+  }
+
+  <!-- =====================================================================
+       ERROR STATE
+       ===================================================================== -->
+  @else if (error()) {
+    <div class="flex flex-col items-center gap-4 px-4 py-16 text-center" role="alert">
+      <p class="text-text-secondary text-sm">Si è verificato un errore nel caricamento dei dati.</p>
+      <button
+        (click)="retry()"
+        class="inline-flex items-center gap-2 bg-primary text-white rounded-lg px-4 py-2 text-sm font-medium
+               hover:bg-primary-hover transition-colors focus-visible:outline-primary min-h-11"
+        type="button"
+      >
+        Riprova
+      </button>
+    </div>
+  }
+
+  <!-- =====================================================================
+       MAIN CONTENT
+       ===================================================================== -->
+  @else if (region(); as region) {
+
+    <!-- Breadcrumb -->
+    <div class="px-4 pt-6 md:px-8 md:pt-8">
+      <app-breadcrumb [crumbs]="breadcrumbs()" />
+    </div>
+
+    <!-- ===================================================================
+         REGION HEADER
+         =================================================================== -->
+    <section
+      class="mx-4 mt-4 md:mx-8 bg-gradient-to-br from-primary/5 to-surface rounded-2xl p-6 md:p-8 border border-border/60"
+      aria-labelledby="region-title"
+    >
+      <div class="flex flex-col gap-4">
+
+        <div class="flex flex-col gap-2">
+          <h1
+            id="region-title"
+            class="font-display font-bold text-2xl md:text-3xl tracking-tight text-text"
+          >
+            {{ region.name }}
+          </h1>
+          <p class="text-text-secondary text-sm md:text-base mt-2 leading-relaxed max-w-prose">
+            Scopri i luoghi più belli, le tradizioni locali e le eccellenze di
+            {{ region.name }}: musei, ristoranti, parchi, monumenti e molto altro
+            raccolti in un'unica guida.
+          </p>
+        </div>
+
+        <!-- Stats strip -->
+        <div class="flex items-center gap-3 mt-1" aria-label="Statistiche della regione">
+          <span class="inline-flex items-center gap-1.5 text-xs font-medium bg-surface-inset border border-border/60 rounded-full px-3 py-1 text-text-secondary">
+            <span aria-hidden="true">📍</span>
+            {{ totalPoiCount() }} luoghi
+          </span>
+          @if (categoryCount() > 0) {
+            <span class="inline-flex items-center gap-1.5 text-xs font-medium bg-surface-inset border border-border/60 rounded-full px-3 py-1 text-text-secondary">
+              <span aria-hidden="true">🗂️</span>
+              {{ categoryCount() }} categorie
+            </span>
+          }
+        </div>
+
+        <!-- Chat CTA -->
+        <div>
+          <button
+            (click)="navigateToChat()"
+            class="inline-flex items-center gap-2 bg-primary text-white rounded-lg px-4 py-2 text-sm font-medium
+                   hover:bg-primary-hover transition-colors focus-visible:outline-primary min-h-11"
+            type="button"
+          >
+            Chatta su questa regione
+          </button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===================================================================
+         STICKY CATEGORY FILTER PILLS
+         =================================================================== -->
+    <div
+      class="sticky top-0 z-10 bg-surface/80 backdrop-blur-md border-b border-border/40 mt-6 motion-reduce:transition-none"
+      role="group"
+      aria-label="Filtra per categoria"
+      (keydown)="onFilterKeydown($event)"
+    >
+      <div appHorizontalScroll class="flex items-center gap-2 overflow-x-auto px-4 py-3 scrollbar-hidden scrollbar-on-hover">
+        @for (pill of filterPills(); track pill.filter) {
+          <button
+            (click)="setFilter(pill.filter)"
+            [attr.aria-pressed]="isFilterActive(pill.filter)"
+            [class]="isFilterActive(pill.filter)
+              ? 'bg-primary border-primary text-white shrink-0 inline-flex items-center gap-1.5 border rounded-full px-3 py-1 text-xs font-medium transition-colors min-h-8'
+              : 'bg-surface-raised border-border text-text-secondary hover:bg-surface-inset shrink-0 inline-flex items-center gap-1.5 border rounded-full px-3 py-1 text-xs font-medium transition-colors min-h-8'"
+            type="button"
+          >
+            {{ pill.label }}
+            <span
+              [class]="isFilterActive(pill.filter)
+                ? 'text-white/70 font-mono text-[10px]'
+                : 'text-text-tertiary font-mono text-[10px]'"
+            >{{ pill.count }}</span>
+          </button>
+        }
+      </div>
+    </div>
+
+    <!-- Visually hidden live region: announces filter result count to screen readers -->
+    <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+      {{ filteredResultsAnnouncement() }}
+    </div>
+
+    <!-- ===================================================================
+         POI GRID — grouped by category
+         =================================================================== -->
+    <div class="px-4 md:px-8 mt-6 flex flex-col gap-8">
+
+      @if (categorySections().length === 0) {
+        <!-- Empty state -->
+        <div class="flex flex-col items-center gap-3 py-16 text-center" role="status">
+          <p class="text-text-secondary text-sm">Nessun punto di interesse trovato.</p>
+        </div>
+      } @else {
+        @for (section of categorySections(); track section.category; let first = $first) {
+          <section
+            [id]="'cat-' + section.category"
+            [attr.aria-label]="section.label"
+          >
+            <!-- Section heading -->
+            <h2
+              [class]="first
+                ? 'font-display font-semibold text-base uppercase tracking-wider text-text-secondary mb-4'
+                : 'font-display font-semibold text-base uppercase tracking-wider text-text-secondary mb-4 border-t border-border-muted pt-6'"
+            >
+              {{ section.label }}
+            </h2>
+
+            <!-- POI grid -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              @for (poi of visiblePois(section); track poi.id) {
+                <app-poi-card [poi]="poi" />
+              }
+            </div>
+
+            <!-- Mobile "show more" — only when there are hidden items -->
+            @if (!isCategoryExpanded(section.category) && hiddenCount(section) > 0) {
+              <div class="mt-3 flex justify-center md:hidden">
+                <button
+                  (click)="toggleCategory(section.category)"
+                  class="text-sm text-primary font-medium hover:text-primary-hover transition-colors focus-visible:outline-primary min-h-11 px-4"
+                  type="button"
+                  [attr.aria-expanded]="false"
+                  [attr.aria-controls]="'cat-' + section.category"
+                >
+                  Mostra tutti ({{ hiddenCount(section) }})
+                </button>
+              </div>
+            }
+          </section>
+        }
+      }
+
+    </div>
+
+    <!-- ===================================================================
+         RELATED REGIONS
+         =================================================================== -->
+    @if (relatedRegions().length > 0) {
+      <section class="px-4 md:px-8 mt-10 mb-6" aria-label="Altre regioni della stessa area">
+        <h2 class="font-display font-semibold text-base md:text-lg text-text mb-4">
+          Altre regioni
+        </h2>
+        <div
+          appHorizontalScroll
+          class="flex gap-3 overflow-x-auto pb-2 snap-x snap-mandatory scrollbar-hidden scrollbar-on-hover"
+          role="region"
+          aria-label="Altre regioni della stessa area"
+          tabindex="0"
+        >
+          @for (related of relatedRegions(); track related.id) {
+            <div class="snap-start shrink-0">
+              <app-region-card [region]="related" />
+            </div>
+          }
+        </div>
+      </section>
+    }
+
+  }
+
+</main>

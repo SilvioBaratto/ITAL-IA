@@ -13,6 +13,7 @@ import { QdrantModule } from './modules/qdrant/qdrant.module';
 import { SavedItemsModule } from './modules/saved-items/saved-items.module';
 import { RegionModule } from './modules/region/region.module';
 import { PoiModule } from './modules/poi/poi.module';
+import { ComuneModule } from './modules/comune/comune.module';
 import { SupabaseAuthGuard } from './modules/auth/auth.guard';
 
 @Module({
@@ -44,6 +45,7 @@ import { SupabaseAuthGuard } from './modules/auth/auth.guard';
     SavedItemsModule,
     RegionModule,
     PoiModule,
+    ComuneModule,
   ],
   providers: [
     {

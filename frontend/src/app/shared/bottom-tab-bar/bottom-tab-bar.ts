@@ -9,6 +9,7 @@ import {
   LucideChevronDown,
   LucideMessageCircle,
   LucideBookmark,
+  LucideCompass,
 } from '@lucide/angular';
 
 @Component({
@@ -22,6 +23,7 @@ import {
     LucideChevronDown,
     LucideMessageCircle,
     LucideBookmark,
+    LucideCompass,
   ],
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: { class: 'block md:hidden' },
@@ -67,6 +69,16 @@ import {
       >
         <svg lucideMessageCircle class="w-5 h-5" aria-hidden="true"></svg>
         <span class="text-[10px] font-medium">Chat</span>
+      </a>
+
+      <!-- Esplora tab -->
+      <a
+        routerLink="/italiapedia"
+        routerLinkActive="text-primary"
+        class="flex-1 flex flex-col items-center justify-center gap-0.5 py-2 min-h-13 text-text-secondary transition-colors active:bg-surface-inset"
+      >
+        <svg lucideCompass class="w-5 h-5" aria-hidden="true"></svg>
+        <span class="text-[10px] font-medium">Esplora</span>
       </a>
 
       <!-- Saved tab -->
