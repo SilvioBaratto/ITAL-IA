@@ -8,7 +8,7 @@
   <app-sidebar [isOpen]="isSidebarOpen()" [isMobile]="isMobile()" (closeSidebar)="closeSidebar()"></app-sidebar>
 
   <!-- Main content -->
-  <main #mainContent id="main-content" tabindex="-1" [attr.aria-label]="currentPageTitle()" class="md:pl-64 flex-1 md:h-dvh flex flex-col min-h-0 focus:outline-none">
+  <main #mainContent id="main-content" tabindex="-1" [attr.aria-label]="currentPageTitle()" class="md:pl-64 flex-1 md:h-dvh flex flex-col min-h-0 focus:outline-none focus-visible:outline-none">
     <router-outlet></router-outlet>
   </main>
 

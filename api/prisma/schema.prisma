@@ -39,6 +39,13 @@ enum PoiCategory {
   EVENT_VENUE
   WINERY
   EXPERIENCE_SITE
+  SAGRA
+  BEACH
+  AGRITURISMO
+  FESTIVAL
+  DANCE
+  STREET_FOOD
+  PUB
 
   @@map("poi_category")
 }
@@ -67,6 +74,7 @@ model Region {
 
   pointsOfInterest  PointOfInterest[]
   savedItems        SavedItem[]
+  comuni            Comune[]
 
   @@map("regions")
 }
@@ -93,6 +101,7 @@ model PointOfInterest {
 
   @@unique([name, regionId, category])
   @@index([regionId])
+  @@index([category, regionId])
   @@map("points_of_interest")
 }
 
@@ -118,4 +127,21 @@ model SavedItem {
   @@index([userId, regionId])
   @@index([userId, category])
   @@map("saved_items")
+}
+
+/// Italian municipality with geographic coordinates
+model Comune {
+  id        String  @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name      String  @db.VarChar(200)
+  province  String  @db.VarChar(5)
+  regionId  String  @map("region_id") @db.VarChar(50)
+  latitude  Decimal @db.Decimal(10, 7)
+  longitude Decimal @db.Decimal(10, 7)
+
+  region Region @relation(fields: [regionId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+
+  @@unique([name, regionId])
+  @@index([regionId])
+  @@index([province, regionId])
+  @@map("comuni")
 }

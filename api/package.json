@@ -22,7 +22,8 @@
     "prisma:migrate:reset": "npx prisma migrate reset",
     "prisma:studio": "npx prisma studio",
     "postinstall": "npx prisma generate || true",
-    "seed:friuli": "ts-node -r tsconfig-paths/register scripts/seed-friuli.ts"
+    "seed:friuli": "ts-node -r tsconfig-paths/register scripts/seed-friuli.ts",
+    "seed:comuni": "ts-node -r tsconfig-paths/register scripts/seed-comuni.ts"
   },
   "dependencies": {
     "@boundaryml/baml": "^0.220.0",

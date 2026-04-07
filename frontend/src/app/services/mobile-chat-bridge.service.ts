@@ -14,6 +14,9 @@ export class MobileChatBridgeService {
   /** Incremented to request a chat reset (e.g. from sidebar "New chat" button). */
   readonly resetRequested = signal(0);
 
+  /** Pre-filled prompt set by other pages (e.g. POI detail "Chiedi alla chat"). Consumed once by ChatbotComponent on init. */
+  readonly pendingPrompt = signal('');
+
   /**
    * True while a programmatic scroll (e.g. chat auto-scroll after AI response)
    * is in progress. BottomTabBarComponent reads this to ignore scroll events

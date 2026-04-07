@@ -10,6 +10,7 @@ import {
   LucideMessageCircle,
   LucideMap,
   LucideBookmark,
+  LucideBookOpen,
   LucideUser,
   LucideSun,
   LucideMoon,
@@ -19,7 +20,7 @@ import {
 interface NavItem {
   name: string;
   route: string;
-  icon: 'chat' | 'map' | 'bookmark';
+  icon: 'chat' | 'map' | 'bookmark' | 'book-open';
 }
 
 @Component({
@@ -33,6 +34,7 @@ interface NavItem {
     LucideMessageCircle,
     LucideMap,
     LucideBookmark,
+    LucideBookOpen,
     LucideUser,
     LucideSun,
     LucideMoon,
@@ -55,6 +57,7 @@ export class SidebarComponent {
 
   navItems: NavItem[] = [
     { name: 'Chat', route: '/', icon: 'chat' },
+    { name: 'Italiapedia', route: '/italiapedia', icon: 'book-open' },
     { name: 'Salvati', route: '/saved', icon: 'bookmark' },
   ];
 

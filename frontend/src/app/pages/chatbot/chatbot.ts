@@ -111,6 +111,12 @@ export class ChatbotComponent implements OnInit, OnDestroy {
       inputChange: (text) => this.userInput.set(text),
     });
     this.bridge.showInput.set(true);
+
+    const pending = this.bridge.pendingPrompt();
+    if (pending) {
+      this.bridge.pendingPrompt.set('');
+      setTimeout(() => this.quickPrompt(pending), 0);
+    }
   }
 
   ngOnDestroy() {
