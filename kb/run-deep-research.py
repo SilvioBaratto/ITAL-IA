@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 """
-Automate deep research prompts via Claude Code CLI in YOLO mode.
+Automate deep research prompts via Claude Code or GitHub Copilot CLI in YOLO mode.
 Reads exact prompts from deep-research-prompt.md, substitutes region/date.
 
 Usage:
-  python run-deep-research.py                          # All regions, all categories
+  python run-deep-research.py                          # All regions, all categories (claude)
   python run-deep-research.py --region piemonte        # Single region
   python run-deep-research.py --region piemonte --category RESTAURANT  # Single combo
-  python run-deep-research.py --model haiku            # Use a specific Claude model
+  python run-deep-research.py --model haiku            # Use a specific model
   python run-deep-research.py --dry-run                # Print commands without running
 
-Per-comune mode (reads comuni.csv, one Claude call per comune):
+Pick provider:
+  python run-deep-research.py --provider claude   ...  # Claude Code CLI (default)
+  python run-deep-research.py --provider copilot  ...  # GitHub Copilot CLI
+                                                       # requires COPILOT_GITHUB_TOKEN,
+                                                       # GH_TOKEN, or GITHUB_TOKEN
+
+Per-comune mode (reads comuni.csv, one call per comune):
   python run-deep-research.py --per-comune --region friuli-venezia-giulia --category RESTAURANT
   python run-deep-research.py --per-comune --region friuli-venezia-giulia --category RESTAURANT --comune "Trieste,Udine"
 """
@@ -210,23 +216,61 @@ def slugify(name: str) -> str:
     return slug
 
 
-def run_claude(prompt: str, working_dir: str, dry_run: bool = False, model: str | None = None) -> bool:
-    cmd = [
-        "claude",
-        "-p", prompt,
-        "--dangerously-skip-permissions",
-    ]
-    if model:
-        cmd.extend(["--model", model])
+COPILOT_TOKEN_VARS = ("COPILOT_GITHUB_TOKEN", "GH_TOKEN", "GITHUB_TOKEN")
+
+
+def build_agent_cmd(provider: str, prompt: str, working_dir: str,
+                    model: str | None) -> list[str]:
+    """Build the subprocess command for the selected agent CLI."""
+    if provider == "claude":
+        cmd = ["claude", "-p", prompt, "--dangerously-skip-permissions"]
+        if model:
+            cmd.extend(["--model", model])
+        return cmd
+
+    if provider == "copilot":
+        # --allow-all-tools    : skip every per-tool approval prompt
+        # --no-ask-user        : never pause to ask the user a question
+        # --allow-all-paths    : don't prompt for file-write path approvals
+        # --add-dir            : widen the allowed-paths list to the repo root,
+        #                        so the agent can write under kb/
+        cmd = [
+            "copilot",
+            "-p", prompt,
+            "--allow-all-tools",
+            "--no-ask-user",
+            "--allow-all-paths",
+            "--add-dir", working_dir,
+        ]
+        if model:
+            cmd.extend(["--model", model])
+        return cmd
+
+    raise ValueError(f"Unknown provider: {provider}")
+
+
+def build_agent_env(provider: str) -> dict[str, str]:
+    """Build the environment dict for the selected agent CLI."""
+    if provider == "claude":
+        # Strip ANTHROPIC_API_KEY so claude uses the Max subscription, not API credits
+        return {k: v for k, v in os.environ.items() if k != "ANTHROPIC_API_KEY"}
+    # copilot: preserve environment (GH_TOKEN / COPILOT_GITHUB_TOKEN / GITHUB_TOKEN
+    # are read from here in headless mode)
+    return os.environ.copy()
+
+
+def run_agent(provider: str, prompt: str, working_dir: str,
+              dry_run: bool = False, model: str | None = None) -> bool:
+    cmd = build_agent_cmd(provider, prompt, working_dir, model)
 
     if dry_run:
         model_str = f" --model {model}" if model else ""
-        print(f"  [DRY RUN] Would run: claude -p '<{len(prompt)} chars>' --dangerously-skip-permissions{model_str}")
+        flags = " ".join(cmd[3:])  # everything after "<cli> -p <prompt>"
+        print(f"  [DRY RUN] Would run: {cmd[0]} -p '<{len(prompt)} chars>' {flags}{model_str}")
         print(f"  First 200 chars: {prompt[:200]}...")
         return True
 
-    # Strip ANTHROPIC_API_KEY so claude uses the Max subscription, not API credits
-    env = {k: v for k, v in os.environ.items() if k != "ANTHROPIC_API_KEY"}
+    env = build_agent_env(provider)
 
     try:
         result = subprocess.run(
@@ -246,7 +290,12 @@ def run_claude(prompt: str, working_dir: str, dry_run: bool = False, model: str 
         print("    ERROR: Timed out after 10 minutes")
         return False
     except FileNotFoundError:
-        print("    ERROR: 'claude' CLI not found. Is Claude Code installed?")
+        cli_name = cmd[0]
+        install_hint = {
+            "claude": "Is Claude Code installed?",
+            "copilot": "Install with: brew install copilot-cli  (or  npm i -g @github/copilot)",
+        }.get(provider, "")
+        print(f"    ERROR: '{cli_name}' CLI not found. {install_hint}")
         sys.exit(1)
 
 
@@ -290,10 +339,14 @@ class RateLimiter:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Run deep research prompts via Claude Code")
+    parser = argparse.ArgumentParser(description="Run deep research prompts via Claude Code or GitHub Copilot CLI")
+    parser.add_argument("--provider", choices=["claude", "copilot"], default="claude",
+                        help="Agent CLI to use (default: claude)")
     parser.add_argument("--region", help="Single region ID (e.g. piemonte)")
     parser.add_argument("--category", help="Single category (e.g. RESTAURANT)")
-    parser.add_argument("--model", help="Claude model to use (e.g. haiku, sonnet, opus)")
+    parser.add_argument("--model",
+                        help="Model to use. Claude: haiku/sonnet/opus. "
+                             "Copilot: gpt-5.2, claude-sonnet-4.6, claude-haiku-4.5, gpt-5.3-codex, ...")
     parser.add_argument("--per-comune", action="store_true",
                         help="Run one prompt per comune (reads comuni.csv). Requires --region.")
     parser.add_argument("--comune", help="Comma-separated comune names to filter (e.g. 'Trieste,Udine')")
@@ -342,6 +395,14 @@ def main():
     regions_to_run = {args.region: REGIONS[args.region]} if args.region else REGIONS
     categories_to_run = [args.category] if args.category else list(prompts.keys())
     model = args.model
+    provider = args.provider
+
+    # Copilot headless preflight: one of these env vars must be set
+    if provider == "copilot" and not args.dry_run:
+        if not any(os.environ.get(v) for v in COPILOT_TOKEN_VARS):
+            print(f"ERROR: Copilot requires one of {', '.join(COPILOT_TOKEN_VARS)} "
+                  f"to be set in the environment for headless use.")
+            sys.exit(1)
 
     succeeded = 0
     failed = 0
@@ -370,6 +431,7 @@ def main():
 
         print(f"Deep Research Runner (per-comune mode)")
         print(f"  Prompt file: {prompt_file}")
+        print(f"  Provider: {provider}")
         print(f"  Region: {region_name} ({region_id})")
         print(f"  Comuni: {len(comuni)} | Categories: {len(categories_to_run)} | Total: {total}")
         print(f"  Model: {model or 'default'}")
@@ -410,7 +472,7 @@ def main():
                 )
 
                 limiter.before_call()
-                ok = run_claude(prompt, working_dir, dry_run=args.dry_run, model=model)
+                ok = run_agent(provider, prompt, working_dir, dry_run=args.dry_run, model=model)
                 if ok:
                     succeeded += 1
                     print(f"    Done")
@@ -420,7 +482,7 @@ def main():
                     retry = limiter.after_failure() if not args.dry_run else False
                     if retry:
                         print(f"    Retrying {comune['name']}...")
-                        ok = run_claude(prompt, working_dir, dry_run=args.dry_run, model=model)
+                        ok = run_agent(provider, prompt, working_dir, dry_run=args.dry_run, model=model)
                         if ok:
                             succeeded += 1
                             print(f"    Done (retry)")
@@ -449,6 +511,7 @@ def main():
 
         print(f"Deep Research Runner")
         print(f"  Prompt file: {prompt_file}")
+        print(f"  Provider: {provider}")
         print(f"  Categories found: {len(prompts)} ({', '.join(prompts.keys())})")
         print(f"  Regions: {len(regions_to_run)} | Categories: {len(categories_to_run)} | Total: {total}")
         print(f"  Model: {model or 'default'}")
@@ -475,7 +538,7 @@ def main():
                 prompt = adapt_prompt(prompts[category_id], region_id, region_name, today, save_path)
 
                 limiter.before_call()
-                ok = run_claude(prompt, working_dir, dry_run=args.dry_run, model=model)
+                ok = run_agent(provider, prompt, working_dir, dry_run=args.dry_run, model=model)
                 if ok:
                     succeeded += 1
                     print(f"  Done")
@@ -485,7 +548,7 @@ def main():
                     retry = limiter.after_failure() if not args.dry_run else False
                     if retry:
                         print(f"  Retrying {region_name}/{category_id}...")
-                        ok = run_claude(prompt, working_dir, dry_run=args.dry_run, model=model)
+                        ok = run_agent(provider, prompt, working_dir, dry_run=args.dry_run, model=model)
                         if ok:
                             succeeded += 1
                             print(f"  Done (retry)")
