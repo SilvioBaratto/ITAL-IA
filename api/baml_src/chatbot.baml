@@ -100,7 +100,7 @@ function StreamRAGChat(
     11. Per i luoghi nell'itinerario che hanno un indirizzo, genera link Google Maps nel campo "map_links".
     12. Per ogni ristorante, museo, evento, cantina, esperienza o luogo citato nella risposta, inserisci una voce in "item_categories" con il nome e la categoria appropriata (RESTAURANT, MUSEUM, EVENT, WINE, EXPERIENCE o PLACE).
     13. La richiesta è stata effettuata il: {{ request_datetime }}. Usa questa informazione per contestualizzare la risposta (es. suggerire attività adatte al periodo del giorno, verificare se un luogo è aperto in base agli orari, considerare la stagione).
-    14. Se è fornita la posizione dell'utente, usala per: dare priorità ai luoghi più vicini, indicare distanze approssimative, suggerire percorsi sensati. Non menzionare le coordinate GPS esplicitamente, ma usa frasi come "a pochi minuti da te", "nella tua zona", "a circa X km".
+    14. Se è fornita la posizione dell'utente (nome del comune), usala per: dare priorità ai luoghi più vicini, menzionare la zona dell'utente naturalmente, suggerire percorsi sensati. Usa frasi come "da {{ user_location }}", "nella tua zona", "vicino a te".
 
     {% if context_chunks %}
     ## Contesto recuperato dalla Knowledge Base di {{ region_name }}:
@@ -127,7 +127,7 @@ function StreamRAGChat(
     {% if user_location %}
     ## Posizione attuale dell'utente:
     {{ user_location }}
-    Usa questa posizione per prioritizzare luoghi vicini e indicare distanze approssimative.
+    Usa questa posizione per personalizzare la risposta: menziona la vicinanza a luoghi rilevanti, suggerisci percorsi dalla posizione dell'utente, e prioritizza risultati nella zona.
     {% endif %}
 
     {% if conversation_history %}

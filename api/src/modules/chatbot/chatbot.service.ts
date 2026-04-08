@@ -71,9 +71,11 @@ export class ChatbotService {
       ]);
       const contextChunks = toRetrievedChunks(searchResults);
 
-      const userLocationStr = request.user_location
-        ? `Lat ${request.user_location.latitude.toFixed(5)}, Lon ${request.user_location.longitude.toFixed(5)} (precisione: ~${Math.round(request.user_location.accuracy)}m)`
-        : null;
+      const userLocationStr = request.comune_name
+        ? `L'utente si trova a ${request.comune_name}`
+        : request.user_location
+          ? `Lat ${request.user_location.latitude.toFixed(5)}, Lon ${request.user_location.longitude.toFixed(5)} (precisione: ~${Math.round(request.user_location.accuracy)}m)`
+          : null;
 
       const stream = b.stream.StreamRAGChat(
         request.user_question,

@@ -79,4 +79,5 @@ export interface ChatRequest {
   conversation_history: { messages: string[] };
   region?: string;
   user_location?: UserLocation;
+  comune_name?: string;
 }
