@@ -13,7 +13,7 @@ export class ChatService {
   private readonly router = inject(Router);
   private readonly chatEndpoint = `${environment.apiUrl}chat/`;
 
-  streamMessage(question: string, history: string[], region?: string, userLocation?: UserLocation): Observable<StreamChunk> {
+  streamMessage(question: string, history: string[], region?: string, userLocation?: UserLocation, comuneName?: string): Observable<StreamChunk> {
     return new Observable<StreamChunk>((subscriber) => {
       const controller = new AbortController();
       const body: ChatRequest = {
@@ -21,6 +21,7 @@ export class ChatService {
         conversation_history: { messages: history },
         region,
         user_location: userLocation,
+        comune_name: comuneName,
       };
 
       const doFetch = (token: string | null) => {

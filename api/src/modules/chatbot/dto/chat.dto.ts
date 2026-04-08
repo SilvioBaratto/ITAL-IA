@@ -16,6 +16,7 @@ export const ChatRequestSchema = z.object({
     .optional(),
   region: z.string().optional(),
   user_location: UserLocationSchema.optional(),
+  comune_name: z.string().max(200).optional(),
 });
 
 // Rich response sub-types

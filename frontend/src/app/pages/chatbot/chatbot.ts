@@ -219,9 +219,10 @@ export class ChatbotComponent implements OnInit, OnDestroy {
     const userLocation: UserLocation | undefined = pos
       ? { latitude: pos.latitude, longitude: pos.longitude, accuracy: pos.accuracy }
       : undefined;
+    const comuneName = this.geoService.comuneName() ?? undefined;
 
     this.chatService
-      .streamMessage(question, history, region, userLocation)
+      .streamMessage(question, history, region, userLocation, comuneName)
       .pipe(takeUntilDestroyed(this.destroyRef))
       .subscribe({
         next: (chunk) => {

@@ -1,4 +1,6 @@
-import { Injectable, signal, computed } from '@angular/core';
+import { Injectable, inject, signal, computed } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { environment } from '../../environments/environment';
 
 export interface GeoPosition {
   latitude: number;
@@ -9,10 +11,20 @@ export interface GeoPosition {
 
 export type GeoPermissionState = 'prompt' | 'granted' | 'denied' | 'unavailable';
 
+interface NearestComuneResponse {
+  name: string;
+  province: string;
+  regionId: string;
+  distance_km: number;
+}
+
 @Injectable({ providedIn: 'root' })
 export class GeolocationService {
+  private readonly http = inject(HttpClient);
+
   readonly position = signal<GeoPosition | null>(null);
   readonly loading = signal(false);
+  readonly comuneName = signal<string | null>(null);
   readonly permissionState = signal<GeoPermissionState>(
     typeof navigator !== 'undefined' && 'geolocation' in navigator ? 'prompt' : 'unavailable',
   );
@@ -20,6 +32,7 @@ export class GeolocationService {
   readonly hasPosition = computed(() => this.position() !== null);
   readonly isAvailable = computed(() => this.permissionState() !== 'unavailable');
   readonly isDenied = computed(() => this.permissionState() === 'denied');
+  readonly displayLocation = computed(() => this.comuneName() ?? (this.hasPosition() ? 'Posizione attiva' : null));
 
   constructor() {
     this.initPermissionListener();
@@ -46,6 +59,7 @@ export class GeolocationService {
           this.position.set(geoPos);
           this.permissionState.set('granted');
           this.loading.set(false);
+          this.resolveComune(geoPos.latitude, geoPos.longitude);
           resolve(geoPos);
         },
         (err) => {
@@ -56,6 +70,17 @@ export class GeolocationService {
         { enableHighAccuracy: false, timeout: 10_000, maximumAge: 300_000, ...options },
       );
     });
+  }
+
+  private resolveComune(lat: number, lng: number): void {
+    this.http
+      .get<NearestComuneResponse>(`${environment.apiUrl}comuni/nearest`, {
+        params: { latitude: lat.toString(), longitude: lng.toString() },
+      })
+      .subscribe({
+        next: (result) => this.comuneName.set(result.name),
+        error: () => this.comuneName.set(null),
+      });
   }
 
   private async initPermissionListener(): Promise<void> {
