@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>ITAL-IA — Discover Italy's Regions</title>
   <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="preconnect" href="https://fonts.bunny.net">
   <link href="https://fonts.bunny.net/css?family=bricolage-grotesque:400,600,800|dm-sans:400,500,600|jetbrains-mono:400" rel="stylesheet">
@@ -47,6 +47,31 @@
       var t=localStorage.getItem('italia-theme');
       var d=t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme:dark)').matches);
       if(d)document.documentElement.classList.add('dark');
+    })();
+  </script>
+  <script>
+    // iOS Safari ignores `user-scalable=no` on the viewport meta tag,
+    // so pinch-to-zoom and double-tap-zoom both still fire by default.
+    // The only reliable way to block them on iOS is to preventDefault
+    // on the proprietary `gesturestart`/`gesturechange` events (pinch)
+    // and track double-taps manually. We also block Ctrl+wheel zoom in
+    // embedded desktop browsers for consistency.
+    (function(){
+      var stop=function(e){ e.preventDefault(); };
+      document.addEventListener('gesturestart', stop, { passive: false });
+      document.addEventListener('gesturechange', stop, { passive: false });
+      document.addEventListener('gestureend', stop, { passive: false });
+      // Double-tap zoom guard (iOS treats two taps within 300 ms as zoom)
+      var lastTouchEnd = 0;
+      document.addEventListener('touchend', function(e){
+        var now = Date.now();
+        if (now - lastTouchEnd <= 300) { e.preventDefault(); }
+        lastTouchEnd = now;
+      }, { passive: false });
+      // Ctrl/Cmd+wheel zoom (desktop Chrome embedded webviews)
+      document.addEventListener('wheel', function(e){
+        if (e.ctrlKey || e.metaKey) e.preventDefault();
+      }, { passive: false });
     })();
   </script>
 </head>

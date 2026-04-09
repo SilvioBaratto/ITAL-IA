@@ -30,6 +30,8 @@ import { HorizontalScrollDirective } from '../../../shared/utils/horizontal-scro
   templateUrl: './italiapedia-poi.html',
   styleUrl: './italiapedia-poi.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  // Own the scroll container — see italiapedia-landing.ts for rationale.
+  host: { style: 'flex:1; min-height:0; display:block; overflow-y:auto' },
   imports: [
     BreadcrumbComponent,
     PoiCardComponent,
