@@ -17,7 +17,15 @@ describe('QdrantService', () => {
               const env: Record<string, string> = {
                 QDRANT_URL: 'http://localhost:6333',
                 QDRANT_API_KEY: 'test-key',
-                OPENAI_API_KEY: 'test-openai-key',
+                QDRANT_COLLECTION_NAME: 'italia-kb',
+                QDRANT_SCORE_THRESHOLD: '0.75',
+                QDRANT_SEARCH_LIMIT: '5',
+                AZURE_OPENAI_EMBEDDINGS_ENDPOINT:
+                  'https://westeurope.api.cognitive.microsoft.com/',
+                AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT: 'text-embedding-3-large',
+                AZURE_OPENAI_EMBEDDINGS_API_VERSION: '2024-02-01',
+                AZURE_OPENAI_EMBEDDINGS_API_KEY: 'test-azure-key',
+                AZURE_OPENAI_EMBEDDINGS_DIM: '3072',
               };
               return env[key];
             }),
@@ -28,8 +36,8 @@ describe('QdrantService', () => {
 
     service = module.get(QdrantService);
 
-    // Mock embed to avoid real OpenAI calls
-    jest.spyOn(service, 'embed').mockResolvedValue(new Array(1536).fill(0));
+    // Mock embed to avoid real Azure OpenAI calls
+    jest.spyOn(service, 'embed').mockResolvedValue(new Array(3072).fill(0));
 
     // Mock the internal Qdrant client search
     mockSearch = jest.fn().mockResolvedValue([

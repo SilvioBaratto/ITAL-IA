@@ -27,9 +27,9 @@ export class PoiController {
   @Get('stats')
   @Public()
   @Header('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400')
-  @ApiOperation({ summary: 'POI counts grouped by category, optionally filtered by regionId' })
+  @ApiOperation({ summary: 'POI counts grouped by category, optionally filtered by regionId and/or comuneId' })
   async getStats(@Query() query: PoiStatsQueryDto) {
-    return this.poiService.getStats(query.regionId);
+    return this.poiService.getStats(query.regionId, query.comuneId);
   }
 
   @Get(':id')

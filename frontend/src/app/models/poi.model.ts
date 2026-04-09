@@ -25,19 +25,22 @@ export type PoiCategory =
 export interface PointOfInterest {
   id: string;
   name: string;
-  regionId: string;
+  comuneId: string;
   category: PoiCategory;
   address: string | null;
-  neighborhood: string | null;
-  latitude: number | null;
-  longitude: number | null;
   websiteUrl: string | null;
   mapsUrl: string | null;
   imageUrl: string | null;
   description: string | null;
   createdAt: string;
   updatedAt: string;
-  region?: { id: string; name: string; group: string };
+  comune?: {
+    id: string;
+    name: string;
+    province: string;
+    regionId?: string;
+    region?: { id: string; name: string; group: string };
+  };
 }
 
 export interface PaginatedPoiResponse {

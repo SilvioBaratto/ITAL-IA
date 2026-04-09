@@ -10,24 +10,29 @@ const RegionSummarySchema = z.object({
   group: z.nativeEnum(RegionGroup),
 });
 
+const ComuneSummarySchema = z.object({
+  id: z.string().uuid(),
+  name: z.string(),
+  province: z.string(),
+  regionId: z.string().optional(),
+  region: RegionSummarySchema.optional(),
+});
+
 // ── Response DTOs ───────────────────────────────────────────────────────────
 
 export const PoiResponseSchema = z.object({
   id: z.string().uuid(),
   name: z.string(),
-  regionId: z.string(),
+  comuneId: z.string().uuid(),
   category: z.nativeEnum(PoiCategory),
   address: z.string().nullable(),
-  neighborhood: z.string().nullable(),
-  latitude: z.any().nullable(),
-  longitude: z.any().nullable(),
   websiteUrl: z.string().nullable(),
   mapsUrl: z.string().nullable(),
   imageUrl: z.string().nullable(),
   description: z.string().nullable(),
   createdAt: z.date(),
   updatedAt: z.date(),
-  region: RegionSummarySchema.optional(),
+  comune: ComuneSummarySchema.optional(),
 });
 
 export const PaginatedPoiResponseSchema = z.object({

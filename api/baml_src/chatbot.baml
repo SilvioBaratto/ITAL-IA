@@ -68,6 +68,53 @@ class RichChatResponse {
   item_categories ItemCategoryMap[] @description("Category for each named item in the response. Use RESTAURANT for ristoranti/bar/osterie, MUSEUM for musei/gallerie/fondazioni, EVENT for eventi/festival/sagre, WINE for cantine/vini/enoteche, EXPERIENCE for tour/esperienze/attività/degustazioni, PLACE as default.")
 }
 
+// ---------------------------------------------------------------------------
+// Tests
+// ---------------------------------------------------------------------------
+
+test TriesteCoffeeRAG {
+  functions [StreamRAGChat]
+  args {
+    user_question "Dove posso bere un buon caffè a Trieste?"
+    context_chunks [
+      {
+        text "Il Caffè degli Specchi è uno dei locali più iconici di Trieste, affacciato direttamente su Piazza Unità d'Italia, la più grande piazza d'Europa aperta sul mare. Fondato nel 1839, conserva gli arredi originali con specchi che moltiplicano l'atmosfera elegante della sala. Il caffè triestino si beve in piedi al banco, seguendo la tradizione locale: si ordina un 'nero' (espresso), un 'capo' (macchiato caldo) o un 'capo in B' (macchiato in bicchiere). La torrefazione utilizza miscele pregiate di arabica brasiliana ed etiope. È un punto di ritrovo storico per intellettuali e politici triestini sin dall'Ottocento."
+        page_title "Caffè degli Specchi — Piazza Unità d'Italia, Trieste"
+        section_title "Storia e tradizione del caffè triestino"
+        source_url "https://www.caffedeglispecchi.it/"
+        links "[{\"text\": \"Prenota un tavolo\", \"url\": \"https://www.caffedeglispecchi.it/prenotazioni\"}, {\"text\": \"Menu e bevande\", \"url\": \"https://www.caffedeglispecchi.it/menu\"}]"
+        addresses "Piazza Unità d'Italia, 7, 34121 Trieste TS"
+        image_urls "https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?w=800,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800"
+        opening_hours "Lunedì–Venerdì 07:30–23:00, Sabato–Domenica 08:00–23:30"
+        prices "Caffè al banco €1.10, Tavolino €2.50"
+        relevance_score 0.94
+      }
+      {
+        text "Il Caffè San Marco in Via Cesare Battisti è considerato uno dei caffè letterari più belli d'Europa. Inaugurato nel 1914, fu frequentato da Umberto Saba, Italo Svevo e James Joyce durante il suo soggiorno triestino. L'arredamento Liberty originale — con soffitti affrescati, pannelli in legno intagliato e lampade in ottone — è rimasto intatto. Oltre al classico espresso triestino, propone una selezione di tè pregiati e dolci fatti in casa. Una piccola libreria all'interno vende opere di autori legati a Trieste. Le serate culturali con letture e presentazioni di libri sono frequenti."
+        page_title "Caffè San Marco — Via Cesare Battisti 18, Trieste"
+        section_title "Il caffè letterario di Joyce e Svevo"
+        source_url "https://www.caffesanmarco.com/"
+        links "[{\"text\": \"Pagina ufficiale Caffè San Marco\", \"url\": \"https://www.caffesanmarco.com/\"}, {\"text\": \"Evento: Trieste caffè letterari\", \"url\": \"https://www.turismofvg.it/trieste/caffe-letterari\"}]"
+        addresses "Via Cesare Battisti, 18, 34121 Trieste TS"
+        image_urls "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=800,https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=800"
+        opening_hours "Martedì–Domenica 08:00–21:00, lunedì chiuso"
+        prices "Espresso €1.20, Cappuccino €1.80"
+        relevance_score 0.91
+      }
+    ]
+    conversation_history {
+      messages [
+        "Utente: Ciao! Sono a Trieste per il weekend.",
+        "Assistente: Benvenuto a Trieste! La città ha molto da offrire — dalle sue piazze storiche al Porto Vecchio, passando per la tradizione del caffè. Come posso aiutarti?"
+      ]
+    }
+    trip_context null
+    region_name "Friuli Venezia Giulia"
+    request_datetime "2026-04-09T10:30:00+02:00"
+    user_location "Trieste"
+  }
+}
+
 // Streaming RAG chat function
 function StreamRAGChat(
   user_question: string,
@@ -78,7 +125,7 @@ function StreamRAGChat(
   request_datetime: string,
   user_location: string?
 ) -> RichChatResponse {
-  client GPT5Mini
+  client AzureFoundry
 
   prompt #"
     {{ _.role("system") }}

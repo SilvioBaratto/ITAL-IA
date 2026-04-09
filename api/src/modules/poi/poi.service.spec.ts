@@ -39,13 +39,13 @@ describe('PoiService', () => {
     });
 
     it('should return paginated envelope { data, total, limit, offset }', async () => {
-      const result = await service.findAll({ limit: 20, offset: 0 });
+      const result = await service.findAll({ limit: 20, offset: 0, order: 'default' });
 
       expect(result).toEqual({ data: mockPois, total: 1, limit: 20, offset: 0 });
     });
 
     it('should call findMany with take, skip, and region include', async () => {
-      await service.findAll({ limit: 10, offset: 5 });
+      await service.findAll({ limit: 10, offset: 5, order: 'default' });
 
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith({
         where: {},
@@ -57,7 +57,7 @@ describe('PoiService', () => {
     });
 
     it('should filter by regionId', async () => {
-      await service.findAll({ regionId: 'friuli-venezia-giulia', limit: 20, offset: 0 });
+      await service.findAll({ regionId: 'friuli-venezia-giulia', limit: 20, offset: 0, order: 'default' });
 
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith(
         expect.objectContaining({
@@ -67,7 +67,7 @@ describe('PoiService', () => {
     });
 
     it('should filter by category', async () => {
-      await service.findAll({ category: 'MUSEUM', limit: 20, offset: 0 });
+      await service.findAll({ category: 'MUSEUM', limit: 20, offset: 0, order: 'default' });
 
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith(
         expect.objectContaining({
@@ -77,7 +77,7 @@ describe('PoiService', () => {
     });
 
     it('should use same where for findMany and count', async () => {
-      await service.findAll({ regionId: 'friuli-venezia-giulia', category: 'RESTAURANT', limit: 20, offset: 0 });
+      await service.findAll({ regionId: 'friuli-venezia-giulia', category: 'RESTAURANT', limit: 20, offset: 0, order: 'default' });
 
       const expectedWhere = { regionId: 'friuli-venezia-giulia', category: 'RESTAURANT' };
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith(
