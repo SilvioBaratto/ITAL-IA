@@ -42,6 +42,12 @@ export interface RegionGroupEntry {
   selector: 'app-italiapedia-landing',
   templateUrl: './italiapedia-landing.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  // Match the chatbot layout contract: the page host is a flex child of
+  // the layout's main element (`flex-1 flex flex-col min-h-0`), so it
+  // must itself own its scrolling. Without this the host grows to its
+  // content height, overflows the `h-dvh overflow-hidden` layout root
+  // on mobile, and scroll is dead.
+  host: { style: 'flex:1; min-height:0; display:block; overflow-y:auto' },
   imports: [
     RouterLink,
     RegionCardComponent,

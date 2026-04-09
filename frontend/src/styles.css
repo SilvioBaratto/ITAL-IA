@@ -104,9 +104,16 @@
     touch-action: manipulation;
   }
 
-  /* Prevent iOS auto-zoom on form inputs (triggers below 16px) */
-  input, textarea, select {
-    font-size: 16px;
+  /* Prevent iOS auto-zoom on form inputs (triggers below 16px). The
+     `!important` is load-bearing: several inputs in the app use
+     Tailwind utilities like `text-sm` or `text-xs` for visual density
+     (chat input, combobox, region selector). Without !important those
+     utilities win the cascade and iOS re-enables the focus-zoom. This
+     only applies on mobile widths so desktop density stays intact. */
+  @media (max-width: 767px) {
+    input, textarea, select {
+      font-size: 16px !important;
+    }
   }
 
   *:focus-visible {

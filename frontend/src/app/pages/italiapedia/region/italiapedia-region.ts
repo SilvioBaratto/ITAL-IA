@@ -64,6 +64,11 @@ function haversineKm(
   selector: 'app-italiapedia-region',
   templateUrl: './italiapedia-region.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  // Own the scroll container on this page — see the comment in
+  // italiapedia-landing.ts for the rationale. The sticky filter bar
+  // inside `italiapedia-region.html` uses this host as its scroll
+  // ancestor, so positioning stays correct on mobile.
+  host: { style: 'flex:1; min-height:0; display:block; overflow-y:auto' },
   imports: [
     BreadcrumbComponent,
     PoiCardComponent,
