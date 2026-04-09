@@ -1,0 +1,136 @@
+## Moimacco
+
+Moimacco (_Muimans_ in friulano) è un piccolo comune di circa 1.567 abitanti situato nella provincia di Udine, nel Friuli-Venezia Giulia, a breve distanza da Cividale del Friuli. Il territorio comunale comprende la frazione di Bottenicco. Nonostante le sue dimensioni contenute, Moimacco possiede un patrimonio di architettura sacra di notevole interesse storico e artistico, con edifici religiosi che abbracciano un arco cronologico dall'alto Medioevo all'Ottocento. Le sue chiese testimoniano le stratificazioni culturali tipiche del Friuli orientale: incursioni ungare, invasioni turche, terremoti e guerre hanno segnato nel tempo la fisionomia di questi edifici, che pure hanno conservato affreschi medievali, sculture lignee e tele di pregio. Il patrono del comune è Santa Maria Assunta, celebrata il 15 agosto. Le parrocchie fanno parte della forania del Friuli Orientale dell'Arcidiocesi di Udine.
+
+---
+
+### Chiesa parrocchiale di Santa Maria Assunta
+
+**Comune:** Moimacco  
+**Indirizzo:** Via della Chiesa  
+**Stile architettonico:** Eclettico storicista di fine Ottocento  
+**Epoca di costruzione:** 1883–1894 (su fondamenta di un edificio risalente al IX secolo)  
+**Consacrazione:** 1895  
+**Arcidiocesi:** Udine – Forania del Friuli Orientale
+
+La chiesa parrocchiale di Santa Maria Assunta è l'edificio di culto principale di Moimacco. Le sue radici affondano nel IX secolo, quando sul sito sorse presumibilmente un primo oratorio. Del complesso originario si conserva il nucleo della torre campanaria, sulla quale è murata una lapide con la data **1557**, anno di costruzione della cella campanaria. Nel **1883** fu posta la prima pietra della nuova parrocchiale, più grande e funzionale rispetto alla preesistente: i lavori furono portati a compimento nel **1894** e la chiesa venne consacrata l'anno successivo. Nel **1911** il campanile fu completato con la costruzione della parte terminale. Il terremoto del **1976** causò danni significativi all'edificio, che fu restaurato tra il **1987 e il 1988** su progetto dell'architetto Varnero Vanelli di Palma di Montechiaro. In quegli stessi anni, in ossequio alle norme liturgiche postconciliari, furono introdotti l'ambone e il nuovo altare rivolto verso l'assemblea.
+
+**Architettura:** La facciata a salienti, orientata a occidente, è divisa in tre corpi corrispondenti alle tre navate interne. Ciascun corpo presenta un portale d'ingresso architravato e una finestra rettangolare; solo il corpo centrale è coronato da un timpano triangolare. Il campanile a base quadrata ha la cella campanaria con trifore su ogni lato, sormontata da una cupola su tamburo con lanterna.
+
+L'interno è a tre navate divise da pilastri con lesene corinzie e archi a tutto sesto. La navata centrale è coperta da volta a botte, quelle laterali da volta a crociera. Il presbiterio, sopraelevato di due gradini, è introdotto dall'arco santo e chiuso da una parete piatta.
+
+**Opere d'arte:**
+- **_Sacra Famiglia con Sant'Elena e due incappucciati della Confraternita dei Battuti_**, tela di **Francesco Chiarottini** (1749–1787), pittore friulano tra i più raffinati del Settecento, già conservata nella sottostante chiesa di San Giovanni Battista in Malina e trasferita nella parrocchiale in epoca moderna. L'opera, ben impaginata e calibrata nell'uso del colore, è considerata uno dei suoi lavori più riusciti nel territorio cividalese.
+- **Statua della Madonna del Rosario**, eseguita a Venezia nel **1779**, di alta qualità artigianale.
+- **_Via Crucis_**, ciclo pittorico realizzato nel Novecento da **Guido Tavagnacco** (1920–1990), pittore nato a Moimacco che ha lasciato numerose opere nel territorio comunale.
+- **Due confessionali del XVIII secolo**, provenienti dalla bottega del celebre intagliatore cividalese **Matteo Deganutti**, esempi raffinati di falegnameria artistica barocca friulana.
+
+**Sito web:** [Chiese Italiane – CEI](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68547)
+
+---
+
+### Chiesa di San Giovanni Battista in Malina
+
+**Comune:** Moimacco (località Malina, nel centro storico del paese)  
+**Coordinate:** 46°05′34.8″N, 13°22′05.23″E  
+**Stile architettonico:** Romanico, con successive stratificazioni medievali e post-medievali  
+**Epoca di costruzione:** VIII–XII secolo (prima attestazione documentale: XIV secolo)  
+**Arcidiocesi:** Udine
+
+La chiesa di San Giovanni Battista in Malina è uno degli edifici religiosi più antichi e suggestivi dell'intero territorio cividalese. La sua origine è dibattuta dagli storici, ma la struttura muraria rimanda a un arco cronologico compreso tra l'VIII e il XII secolo; le prime attestazioni documentali sicure risalgono però al **XIV secolo**.
+
+Il piccolo edificio ad aula rettangolare, con travatura a vista, monofora campanaria sul colmo della facciata e presbiterio con copertura **conica in ardesia**, racconta in modo eloquente la storia sismica e militare del Friuli medievale. Il **terremoto del 25 gennaio 1348** – quello stesso che danneggiò la Basilica di Aquileia e rase al suolo torri e palazzi a Cividale, Gemona e Udine – colpì anche questa chiesa: fu allora che venne aggiunta l'**abside circolare** con muratura di rinforzo, realizzata con le pietre recuperate dai torrioni cividalesi crollati. L'invasione turca del **1477**, la guerra austro-veneziana del **1500** e il devastante sisma del **26 marzo 1511** imposero ulteriori modifiche: apertura di nuove finestre, rifacimento del tetto, ricostruzione della monofora campanaria. Nel **1572** il complesso degli interventi post-sismici fu coronato dalla riconsacrazione dell'edificio.
+
+Tra la fine del Seicento e il Settecento vennero eseguiti nuovi lavori documentati da una data incisa sull'architrave dell'ingresso principale: **1701**. Nel **1742** furono autorizzati lavori più estesi – un'apertura semicircolare sopra la porta laterale, finestre rettangolari, rinnovo del pavimento e del tetto – e nel **1764** la chiesa fu nuovamente riconsacrata. Alla fine dell'Ottocento, durante un'epidemia di **colera**, l'edificio fu adibito a lazzaretto; durante la **Prima Guerra Mondiale** (1915–1918) fu occupato dalle truppe italiane come dormitorio, mentre nell'invasione austro-ungarica del 1918 furono requisite le campane. Il terremoto del **1976** rese necessari interventi sulla copertura, sulle fondazioni e sui muri perimetrali. Nell'ultimo scorcio del XX secolo, nuovi restauri hanno permesso di riportare alla luce gli affreschi trecenteschi dell'abside, di fatto il tesoro più prezioso dell'edificio.
+
+**Opere d'arte:**
+
+- **Ciclo di affreschi tardotrecenteschi** (fine del XIV secolo): scoperti e restaurati nei lavori dell'ultimo decennio del Novecento, questi affreschi costituiscono uno dei più significativi episodi della pittura popolare medievale nel Friuli orientale. La loro realizzazione si inserisce nel contesto del rinnovamento pittorico portato in Friuli dall'arrivo di **Vitale da Bologna** a Udine a partire dal 1348. I soggetti sono:
+  - Nel **catino absidale**: _Cristo benedicente in mandorla_ con il **Tetramorfo** (i simboli dei quattro Evangelisti: il leone per Marco, il bue per Luca, l'aquila per Giovanni, l'angelo per Matteo).
+  - Nell'**emiciclo absidale**: i _Dodici Apostoli_.
+  - Sull'**arco trionfale**: l'_Annunciazione di Maria_ con l'Angelo recante il giglio e la Vergine; il _Sacrificio di Caino e Abele_ (Caino offre spighe vuote, Abele spighe turgide).
+  - Nel **clipeo centrale** soprastante: la _Madonna dell'Umiltà_, con la Vergine seduta a terra che regge il Bambino.
+- **Altarolo con statua lignea di San Giovanni Battista** (seconda metà del XVI o inizio XVII secolo), con ai lati, dipinte, la Vergine e l'Annunciante in stile rinascimentale del tardo Cinquecento.
+- L'**altare ligneo della Vergine incoronata in trono col Bambino** (XV secolo), con le statue di San Giovanni Battista e San Gervasio già presenti in questa chiesa, è stato trasferito al **Museo Archeologico Nazionale di Cividale del Friuli**, dove è tuttora conservato.
+
+**Sito web:** [BeWeB – CEI](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68549/)
+
+---
+
+### Chiesa di San Donato in Valle
+
+**Comune:** Moimacco (località Valle / Orzano)  
+**Coordinate:** 46°05′08.88″N, 13°21′14.47″E  
+**Stile architettonico:** Primitivo romanico, con rifacimento secentesco  
+**Epoca di costruzione:** XIII secolo (ricostruzione nel 1633)  
+**Consacrazione:** 1635 (da parte di Eusebio Caimo, vescovo di Lubiana)  
+**Arcidiocesi:** Udine
+
+Solitaria e suggestiva, immersa nella vegetazione della valle del torrente Malina, la chiesa di San Donato è uno dei luoghi sacri più carichi di memoria storica del territorio moimacchese. Secondo lo storico cividalese Sturolo, in questo luogo fu ritrovata la **testa di San Donato**, martire del IV secolo e patrono di Cividale del Friuli. Sul luogo del ritrovamento, a partire dal **XIII secolo**, vennero edificati un oratorio e un **romitorio**, che divennero rapidamente meta di pellegrinaggi e rifugio per le popolazioni locali durante le incursioni nemiche. La presenza di eremiti è documentata fino al **XVI secolo**.
+
+L'aspetto attuale risale al **Seicento**: sotto il cornicione dell'abside è incisa la data **1633**. L'anno successivo, nel **1635**, la chiesa venne consacrata da **Eusebio Caimo**, allora vescovo di Lubiana. La facciata è dominata da un'**alta monofora campanaria** che conferisce all'edificio un profilo verticale inconfondibile.
+
+Il portale d'ingresso in bronzo è una delle opere più notevoli dell'edificio: le formelle che lo decorano raffigurano le **Storie di San Donato** e sono opera dello scultore locale **Guido Tavagnacco** (1920–1990), artista che ha lasciato un'impronta significativa su molti edifici sacri e civili di Moimacco.
+
+L'interno, un'ampia aula rettangolare con travi a vista, è essenziale e spoglio. Durante i restauri del **1980** sono emersi **lacerti di affreschi tardo-romanici** sull'arco absidale, raffiguranti _Caino e Abele_ – lo stesso soggetto che compare anche nella chiesa di San Giovanni Battista in Malina, a testimonianza di una comune tradizione iconografica locale. Originariamente la chiesa conservava la grande tela di **Francesco Chiarottini** con la _Sacra Famiglia, Sant'Elena e due incappucciati della Confraternita dei Battuti_, poi trasferita nella parrocchiale di Santa Maria Assunta.
+
+**Sito web:** [BeWeB – CEI](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68548/)
+
+---
+
+### Oratorio dell'Immacolata
+
+**Comune:** Moimacco (adiacente al Centro Civico Guido Tavagnacco)  
+**Stile architettonico:** Non determinato con certezza; strutture integre  
+**Arcidiocesi:** Udine
+
+L'oratorio dell'Immacolata si trova nel centro di Moimacco, adiacente all'ex Casa Tavagnacco, oggi sede della pinacoteca civica. Si tratta di un piccolo edificio devozionale di tipo privato o semi-pubblico, le cui strutture sono giunte intatte fino ai giorni nostri. La sua presenza nel tessuto del paese testimonia la devozione mariana diffusa nella comunità moimacchese, in coerenza con il titolo patronale di Santa Maria Assunta. Non è documentato un programma decorativo di particolare rilievo artistico all'interno.
+
+---
+
+### Chiesa parrocchiale di San Giusto Martire (Bottenicco)
+
+**Comune:** Moimacco, frazione di Bottenicco  
+**Stile architettonico:** Neoclassico semplificato  
+**Epoca di costruzione:** 1869  
+**Campanile:** XVII secolo (preesistente)  
+**Arcidiocesi:** Udine
+
+Nella frazione di **Bottenicco**, unico aggregato del territorio comunale di Moimacco oltre al capoluogo, si trova la parrocchiale dedicata a **San Giusto Martire**. È un edificio semplice a navata rettangolare, costruito nel **1869**, con un impianto tipico delle chiese rurali friulane dell'Ottocento: facciata lineare, interno spoglio, copertura a capanna. A differenza degli edifici sacri del capoluogo, non conserva opere pittoriche di rilievo all'interno, ma si distingue per il campanile di **epoca secentesca** (XVII secolo), più antico dell'edificio attuale, probabilmente residuo di una precedente struttura religiosa sul medesimo sito.
+
+La frazione di Bottenicco è nota soprattutto per la **Villa De Claricini-Dornpacher**, sede dell'omonima Fondazione culturale dedicata allo studio del Medioevo cividalese. Nell'adiacente cappella nobiliare (vedi voce successiva) si trovano le opere di maggiore interesse artistico del territorio bottenicchese.
+
+---
+
+### Cappella nobiliare della Santa Croce (Villa De Claricini-Dornpacher)
+
+**Comune:** Moimacco, frazione di Bottenicco  
+**Stile architettonico:** Barocco-veneto di committenza aristocratica  
+**Epoca di costruzione:** Fine del XVII secolo (contestuale alla villa)  
+**Arcidiocesi:** Udine
+
+Annessa alla **Villa De Claricini-Dornpacher** – maestoso edificio secentesco dalla severa architettura, con giardino all'italiana ornato di vasi, statue e vasche d'acqua –, la cappella nobiliare intitolata alla **Santa Croce** costituisce un episodio di particolare interesse per la storia della pittura friulana di committenza aristocratica a cavallo tra Seicento e Settecento.
+
+All'interno si conservano due grandi tele di soggetto scritturale:
+- **_Sposalizio della Vergine_**
+- **_Circoncisione_**
+
+Entrambe sono copie di composizioni ideate per Venzone da **Giovanni Antonio de Sacchis detto il Pordenone** nel XVI secolo, poi riprese da **Pomponio Amalteo** nel duomo di Udine e in quello di San Daniele del Friuli. La versione presente in questa cappella fu eseguita alla fine del XVII secolo dal pittore venzonese **Lucilio Candido**, che replicò lo stesso soggetto anche nel duomo di Maniago. Si tratta quindi di opere di grande interesse storico-documentario, poiché testimoniano la circolazione dei modelli iconografici pordenoniani nell'aristocrazia friulana del Seicento e il ruolo di Candido come mediatore di quella tradizione pittorica.
+
+La villa nel suo complesso ospita una ricca biblioteca storica, mobili di pregio (tra cui alcuni pezzi realizzati dall'intagliatore cividalese **Matteo Deganutti** nel XVIII secolo), e una collezione di ritratti e opere d'arte minore. La villa è aperta al pubblico su richiesta.
+
+**Sito web:** [Fondazione De Claricini-Dornpacher](https://it.wikipedia.org/wiki/Fondazione_De_Claricini-Dornpacher)
+
+---
+
+## Fonti
+
+- Wikipedia, _Moimacco_, https://it.wikipedia.org/wiki/Moimacco
+- Wikipedia, _Chiesa di Santa Maria Assunta (Moimacco)_, https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Moimacco)
+- Wikipedia, _Chiesa di San Donato in Valle_, https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_in_Valle
+- Wikipedia, _Chiesa di San Giovanni Battista in Malina_, https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_in_Malina
+- Conferenza Episcopale Italiana – BeWeB, _Chiesa di San Giovanni Battista in Malina_, https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68549/
+- Conferenza Episcopale Italiana – BeWeB, _Chiesa di San Donato in Valle_, https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68548/
+- Conferenza Episcopale Italiana – Chiese Italiane, _Chiesa di Santa Maria Assunta_, https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68547
+- Natisone.it – Guida Artistica del Friuli Venezia Giulia (a cura di Giuseppe Bergamini), Associazione fra le Pro Loco del FVG, https://www.natisone.it/0_archivio_messe/messe2001/messe133.htm
+- Bruno Fachin Editore, _Friuli Venezia Giulia – Guida storico artistica naturalistica_, 2004, p. 204, ISBN 88-85289-69-X

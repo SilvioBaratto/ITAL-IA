@@ -13,21 +13,27 @@ Usage:
 Pick provider:
   python run-deep-research.py --provider claude   ...  # Claude Code CLI (default)
   python run-deep-research.py --provider copilot  ...  # GitHub Copilot CLI
-                                                       # requires COPILOT_GITHUB_TOKEN,
-                                                       # GH_TOKEN, or GITHUB_TOKEN
+                                                       # uses your existing interactive
+                                                       # `copilot` login — no token needed
 
 Per-comune mode (reads comuni.csv, one call per comune):
   python run-deep-research.py --per-comune --region friuli-venezia-giulia --category RESTAURANT
   python run-deep-research.py --per-comune --region friuli-venezia-giulia --category RESTAURANT --comune "Trieste,Udine"
+
+Parallel execution (spawn N copilot/claude subprocesses concurrently):
+  python run-deep-research.py --per-comune --region friuli-venezia-giulia --category RESTAURANT --workers 4
 """
 
 import csv
 import os
+import shutil
 import subprocess
 import sys
 import re
+import threading
 import time
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 from pathlib import Path
 
@@ -216,7 +222,26 @@ def slugify(name: str) -> str:
     return slug
 
 
-COPILOT_TOKEN_VARS = ("COPILOT_GITHUB_TOKEN", "GH_TOKEN", "GITHUB_TOKEN")
+def resolve_copilot_node_entry() -> tuple[str, str] | None:
+    """Find copilot's npm-loader.js so we can bypass the .cmd shim on Windows.
+
+    `copilot.cmd` re-passes args through cmd.exe (`%*`), which silently mangles
+    long prompts (>~2KB) on Windows: copilot loses --allow-all and --model
+    flags and falls back to defaults. Invoking `node npm-loader.js` directly
+    lets CreateProcess pass argv verbatim with no shell re-parsing.
+    """
+    if os.name != "nt":
+        return None
+    cmd_shim = shutil.which("copilot")
+    if not cmd_shim or not cmd_shim.lower().endswith(".cmd"):
+        return None
+    loader = Path(cmd_shim).parent / "node_modules" / "@github" / "copilot" / "npm-loader.js"
+    if not loader.exists():
+        return None
+    node_exe = shutil.which("node")
+    if not node_exe:
+        return None
+    return (node_exe, str(loader))
 
 
 def build_agent_cmd(provider: str, prompt: str, working_dir: str,
@@ -229,19 +254,27 @@ def build_agent_cmd(provider: str, prompt: str, working_dir: str,
         return cmd
 
     if provider == "copilot":
-        # --allow-all-tools    : skip every per-tool approval prompt
-        # --no-ask-user        : never pause to ask the user a question
-        # --allow-all-paths    : don't prompt for file-write path approvals
-        # --add-dir            : widen the allowed-paths list to the repo root,
-        #                        so the agent can write under kb/
-        cmd = [
-            "copilot",
+        # --allow-all  : equivalent to --allow-all-tools + --allow-all-paths
+        #                + --allow-all-urls. The URL piece is critical for deep
+        #                research; without it web fetches are denied silently.
+        # --no-ask-user: never pause to ask the user a question
+        # --add-dir    : widen the allowed-paths list to the repo root, so the
+        #                agent can write under kb/
+        # On Windows, prefer invoking node + npm-loader.js directly to avoid
+        # cmd.exe arg-mangling on long prompts. See resolve_copilot_node_entry.
+        node_entry = resolve_copilot_node_entry()
+        if node_entry:
+            node_exe, loader_js = node_entry
+            cmd = [node_exe, loader_js]
+        else:
+            cmd = [shutil.which("copilot") or "copilot"]
+
+        cmd.extend([
             "-p", prompt,
-            "--allow-all-tools",
+            "--allow-all",
             "--no-ask-user",
-            "--allow-all-paths",
             "--add-dir", working_dir,
-        ]
+        ])
         if model:
             cmd.extend(["--model", model])
         return cmd
@@ -254,8 +287,7 @@ def build_agent_env(provider: str) -> dict[str, str]:
     if provider == "claude":
         # Strip ANTHROPIC_API_KEY so claude uses the Max subscription, not API credits
         return {k: v for k, v in os.environ.items() if k != "ANTHROPIC_API_KEY"}
-    # copilot: preserve environment (GH_TOKEN / COPILOT_GITHUB_TOKEN / GITHUB_TOKEN
-    # are read from here in headless mode)
+    # copilot: rely on the user's existing interactive `copilot` login
     return os.environ.copy()
 
 
@@ -264,9 +296,12 @@ def run_agent(provider: str, prompt: str, working_dir: str,
     cmd = build_agent_cmd(provider, prompt, working_dir, model)
 
     if dry_run:
-        model_str = f" --model {model}" if model else ""
-        flags = " ".join(cmd[3:])  # everything after "<cli> -p <prompt>"
-        print(f"  [DRY RUN] Would run: {cmd[0]} -p '<{len(prompt)} chars>' {flags}{model_str}")
+        # Find -p so we slice correctly for both `[cli, -p, ...]` and
+        # `[node, loader, -p, ...]` (Windows bypass form).
+        p_idx = cmd.index("-p")
+        launcher = " ".join(cmd[:p_idx])
+        flags = " ".join(cmd[p_idx + 2:])
+        print(f"  [DRY RUN] Would run: {launcher} -p '<{len(prompt)} chars>' {flags}")
         print(f"  First 200 chars: {prompt[:200]}...")
         return True
 
@@ -276,9 +311,12 @@ def run_agent(provider: str, prompt: str, working_dir: str,
         result = subprocess.run(
             cmd,
             cwd=working_dir,
-            timeout=600,  # 10 min max per prompt
+            timeout=1200,  # 20 min max per prompt — gpt-5.2/sonnet-4.6 deep
+                           # research on big touristic comuni can take >10 min
             capture_output=True,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             env=env,
         )
         if result.returncode != 0:
@@ -287,15 +325,14 @@ def run_agent(provider: str, prompt: str, working_dir: str,
             return False
         return True
     except subprocess.TimeoutExpired:
-        print("    ERROR: Timed out after 10 minutes")
+        print("    ERROR: Timed out after 20 minutes")
         return False
     except FileNotFoundError:
-        cli_name = cmd[0]
         install_hint = {
-            "claude": "Is Claude Code installed?",
-            "copilot": "Install with: brew install copilot-cli  (or  npm i -g @github/copilot)",
+            "claude": "Is Claude Code installed and on PATH?",
+            "copilot": "Install with: npm i -g @github/copilot",
         }.get(provider, "")
-        print(f"    ERROR: '{cli_name}' CLI not found. {install_hint}")
+        print(f"    ERROR: '{provider}' CLI not found. {install_hint}")
         sys.exit(1)
 
 
@@ -339,6 +376,11 @@ class RateLimiter:
 
 
 def main():
+    # Line-buffer + UTF-8 stdout/stderr so progress prints flush in real time
+    # and accented Italian / arrow characters don't crash on Windows cp1252.
+    sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)  # type: ignore[attr-defined]
+    sys.stderr.reconfigure(encoding="utf-8", line_buffering=True)  # type: ignore[attr-defined]
+
     parser = argparse.ArgumentParser(description="Run deep research prompts via Claude Code or GitHub Copilot CLI")
     parser.add_argument("--provider", choices=["claude", "copilot"], default="claude",
                         help="Agent CLI to use (default: claude)")
@@ -350,6 +392,11 @@ def main():
     parser.add_argument("--per-comune", action="store_true",
                         help="Run one prompt per comune (reads comuni.csv). Requires --region.")
     parser.add_argument("--comune", help="Comma-separated comune names to filter (e.g. 'Trieste,Udine')")
+    parser.add_argument("--workers", type=int, default=1,
+                        help="Max categories to process concurrently in per-comune mode "
+                             "(default: 1 = sequential). Each category gets its own thread "
+                             "that processes comuni sequentially, preserving the rate limiter "
+                             "(delay, backoff, circuit breaker) per category.")
     parser.add_argument("--dry-run", action="store_true", help="Print commands without running")
     parser.add_argument("--refetch", action="store_true",
                         help="Re-fetch even if output already exists (default: skip existing)")
@@ -397,13 +444,6 @@ def main():
     model = args.model
     provider = args.provider
 
-    # Copilot headless preflight: one of these env vars must be set
-    if provider == "copilot" and not args.dry_run:
-        if not any(os.environ.get(v) for v in COPILOT_TOKEN_VARS):
-            print(f"ERROR: Copilot requires one of {', '.join(COPILOT_TOKEN_VARS)} "
-                  f"to be set in the environment for headless use.")
-            sys.exit(1)
-
     succeeded = 0
     failed = 0
     skipped = 0
@@ -435,33 +475,52 @@ def main():
         print(f"  Region: {region_name} ({region_id})")
         print(f"  Comuni: {len(comuni)} | Categories: {len(categories_to_run)} | Total: {total}")
         print(f"  Model: {model or 'default'}")
+        print(f"  Workers: {args.workers} (max concurrent categories)")
         print(f"  Date: {today}")
         print(f"  Working dir: {working_dir}")
         print(f"  Skip existing: {skip_existing}")
         print(f"  Output: kb/{region_id}/{{CATEGORY}}/knowledge.md (merged)")
         print()
 
-        # Process each category, iterating over comuni within it
-        limiter = RateLimiter()
+        # Lock for serializing progress prints across category worker threads
+        print_lock = threading.Lock()
+
+        def _log(msg: str) -> None:
+            with print_lock:
+                print(msg)
+
+        # Pre-create all .comuni/ directories so category threads never race
+        # each other on mkdir.
         for category_id in categories_to_run:
+            (KB_DIR / region_id / category_id / ".comuni").mkdir(parents=True, exist_ok=True)
+
+        all_names = [c["name"] for c in all_comuni]
+
+        def process_category(category_id: str) -> tuple[str, int, int, int]:
+            """Process all comuni for one category sequentially inside a single
+            thread. Each category thread owns its own RateLimiter so the
+            delay/backoff/circuit-breaker state is independent per category.
+
+            Returns (category_id, succeeded, failed, skipped).
+            """
             category_dir = KB_DIR / region_id / category_id
             comuni_dir = category_dir / ".comuni"
-            comuni_dir.mkdir(parents=True, exist_ok=True)
 
-            print(f"=== {category_id} ===")
+            limiter = RateLimiter()
+            cat_s = cat_f = cat_sk = 0
 
-            i = 0
-            for comune in comuni:
-                i += 1
+            _log(f"[{category_id}] === starting ({len(comuni)} comuni) ===")
+
+            for i, comune in enumerate(comuni, start=1):
                 comune_slug = slugify(comune["name"])
                 out_path = comuni_dir / f"{comune_slug}.md"
 
                 if skip_existing and out_path.exists() and out_path.stat().st_size > 50:
-                    print(f"  [{i}/{len(comuni)}] SKIP {comune['name']} (exists)")
-                    skipped += 1
+                    _log(f"[{category_id}] [{i}/{len(comuni)}] SKIP {comune['name']} (exists)")
+                    cat_sk += 1
                     continue
 
-                print(f"  [{i}/{len(comuni)}] {comune['name']} ({comune['province']})")
+                _log(f"[{category_id}] [{i}/{len(comuni)}] {comune['name']} ({comune['province']})")
 
                 save_path = f"kb/{region_id}/{category_id}/.comuni/{comune_slug}.md"
                 prompt = adapt_prompt_per_comune(
@@ -474,36 +533,47 @@ def main():
                 limiter.before_call()
                 ok = run_agent(provider, prompt, working_dir, dry_run=args.dry_run, model=model)
                 if ok:
-                    succeeded += 1
-                    print(f"    Done")
+                    cat_s += 1
+                    _log(f"[{category_id}]     Done {comune['name']}")
                     if not args.dry_run:
                         limiter.after_success()
                 else:
                     retry = limiter.after_failure() if not args.dry_run else False
                     if retry:
-                        print(f"    Retrying {comune['name']}...")
+                        _log(f"[{category_id}]     Retrying {comune['name']}...")
                         ok = run_agent(provider, prompt, working_dir, dry_run=args.dry_run, model=model)
                         if ok:
-                            succeeded += 1
-                            print(f"    Done (retry)")
+                            cat_s += 1
+                            _log(f"[{category_id}]     Done (retry) {comune['name']}")
                             limiter.after_success()
                         else:
-                            failed += 1
-                            print(f"    Failed (retry)")
+                            cat_f += 1
+                            _log(f"[{category_id}]     Failed (retry) {comune['name']}")
                     else:
-                        failed += 1
-                        print(f"    Failed")
+                        cat_f += 1
+                        _log(f"[{category_id}]     Failed {comune['name']}")
 
-            # Merge all comune files into knowledge.md
-            # Use all_comuni order so the merged file covers the full region,
-            # even if we only ran a subset with --comune
-            all_names = [c["name"] for c in all_comuni]
+            # Merge this category's .comuni/*.md into its knowledge.md
             if not args.dry_run:
-                print(f"\n  Merging into kb/{region_id}/{category_id}/knowledge.md ...")
+                _log(f"[{category_id}] Merging into kb/{region_id}/{category_id}/knowledge.md ...")
                 merge_comune_files(category_dir, region_name, category_id, all_names)
             else:
-                print(f"\n  [DRY RUN] Would merge .comuni/*.md → knowledge.md")
-            print()
+                _log(f"[{category_id}] [DRY RUN] Would merge .comuni/*.md → knowledge.md")
+
+            _log(f"[{category_id}] === done ({cat_s} ok / {cat_f} fail / {cat_sk} skip) ===")
+            return (category_id, cat_s, cat_f, cat_sk)
+
+        with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
+            futures = [executor.submit(process_category, cid) for cid in categories_to_run]
+            for future in as_completed(futures):
+                try:
+                    _, s, f, sk = future.result()
+                    succeeded += s
+                    failed += f
+                    skipped += sk
+                except Exception as e:
+                    _log(f"ERROR in category thread: {e}")
+                    failed += 1
 
     # --- Standard region mode ---
     else:

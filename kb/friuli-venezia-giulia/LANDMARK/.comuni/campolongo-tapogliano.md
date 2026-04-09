@@ -1,0 +1,117 @@
+## Campolongo Tapogliano
+
+Campolongo Tapogliano (_Cjamplunc Tapoian_ in friulano) è un piccolo comune sparso della Bassa Friulana, sorto il 1° gennaio 2009 dalla fusione dei comuni di Campolongo al Torre e Tapogliano, con sede municipale nel capoluogo Campolongo al Torre. Il territorio si estende su circa 11 km² nella pianura friulana, a poca distanza dal fiume Torre, al confine con la provincia di Gorizia. Con circa 1.100 abitanti distribuiti nelle frazioni di Campolongo al Torre, Tapogliano, Cavenzano e San Leonardo, il comune è uno dei centri minori della provincia di Udine.
+
+Nonostante le dimensioni ridotte, il comune custodisce un patrimonio storico-architettonico di tutto rispetto: ville nobiliari di straordinaria qualità artistica, chiese parrocchiali tardobarocche e memorie di un passato segnato dal dominio veneziano, dall'epoca asburgica e dalle vicende delle due guerre mondiali. Il nome "Campolongo" compare per la prima volta in un documento del 1327, dal quale emerge che la zona era abitata da coloni soggetti al Patriarcato di Aquileia. Dal 1420 al 1797 (Pace di Campoformio) il territorio fu sotto la Repubblica di Venezia, e il Leone di San Marco — presente ancora oggi nello stemma comunale — testimonia questo legame secolare. Tapogliano, la cui fondazione risalirebbe al 181 a.C. in coincidenza con la fondazione di Aquileia, passò attraverso vicende analoghe, con domini veneziani, asburgici e le soppressioni fasciste del 1928, prima di riacquistare l'autonomia nel 1947 e di fondersi definitivamente nel 2009.
+
+---
+
+### Villa Pace
+
+**Frazione:** Tapogliano — Via XXIV Maggio, 1
+
+Villa Pace è il monumento civile più importante del territorio comunale e uno dei più significativi esempi di architettura residenziale nobiliare della Bassa Friulana. La villa dominicale sorge isolata al centro di un parco chiuso da muri in pietra, affiancata da due barchesse; quella orientale è probabilmente quanto resta del primitivo impianto risalente alla fine del XVI secolo.
+
+L'aspetto attuale della villa è il risultato di due distinti interventi costruttivi. Il primo risale alla seconda metà del Seicento, quando fu committente Carlo Maria Pace von Friedensberg, Feldmaresciallo dell'imperatore Leopoldo I d'Asburgo e protagonista delle guerre contro i Turchi: partecipò alla liberazione di Vienna (1683), alla liberazione di Budapest (1686) e alla decisiva battaglia di Zenta (1697). Per questi meriti militari il conte Carlo Maria ottenne il titolo di libero barone dell'impero e l'onore di poter inserire l'aquila bicipite imperiale nel proprio stemma di famiglia. A questa fase appartiene la struttura cubica chiusa da quattro torri angolari, soluzione tipologica comune ad altre ville friulane seicentesche come la Villa Colloredo a Susans e la villa Coronini a Vipacco.
+
+Il secondo e più raffinato intervento si deve a un altro Carlo Maria Pace — agronomo illustre, commendatore dell'Ordine di Santo Stefano e ciambellano dell'imperatore — che a metà del Settecento trasformò la villa secondo il gusto rococò. Nel 1747 questo Carlo Maria sposò Giuliana di Edling, dama di corte prediletta dall'imperatrice Maria Teresa d'Austria, e contestualmente avviò una profonda ristrutturazione conclusa attorno al 1751. A questa fase appartiene il celebre **scalone ellissoidale**, considerato dal critico d'arte Cristoph Ulmer «il più bello del Friuli», e il monumentale **salone a doppia altezza** con soffitto affrescato. Il grande dipinto del soffitto, datato 1751, raffigura _La gloria della giustizia e la pace_ come metafora della gloria familiare: un tempo attribuito ad Antonio Guardi, è oggi ritenuto opera dello Scajaro, allievo di Giambattista Tiepolo, secondo l'analisi di Pavanello. Particolarmente preziose sono anche le pitture murali recentemente riscoperte in una sala del piano nobile, che raffigurano un paesaggio agreste e i porti di Tolone e Marsiglia (tratte dalle incisioni di G. dell'Acqua da dipinti di Joseph Vernet), a memento del fatto che Carlo Maria fu tra i primi nobili friulani a investire nel Lloyd Triestino.
+
+Oggi Villa Pace è aperta al pubblico e propone visite guidate, soggiorni e degustazioni dei vini dell'azienda agricola Perusini, cui appartiene, accogliendo anche matrimoni ed eventi culturali nel rispetto dei suoi valori storico-architettonici.
+
+- **Sito web:** [villapace.eu](https://villapace.eu)
+
+---
+
+### Villa Marcotti-Chiozza (Municipio)
+
+**Frazione:** Campolongo al Torre — Sede del Comune
+
+Villa Marcotti è un elegante edificio in stile veneto costruito nel 1723, espressione della cultura architettonica che il dominio della Serenissima aveva diffuso in tutta la Bassa Friulana durante i secoli di governo veneziano (1420–1797). La villa, che porta il nome della famiglia Marcotti e poi dei Chiozza che ne divennero proprietari, presenta le caratteristiche formali delle ville di campagna veneto-friulane del primo Settecento: proporzioni armoniose, facciate intonacate con aperture rilevate e un'impostazione signorile che si inserisce dignitosamente nel tessuto del capoluogo.
+
+Oggi l'edificio ospita il Municipio di Campolongo Tapogliano e non è accessibile come dimora storica, ma rimane uno dei simboli dell'identità del comune e un ottimo esempio di come l'architettura civile veneziana abbia plasmato il paesaggio rurale friulano. La facciata è visibile dall'esterno e costituisce uno dei punti di riferimento visivi del capoluogo.
+
+---
+
+### Villa Antonini-Brunner-Krcivoy
+
+**Frazione:** Cavenzano
+
+Tra le ville private presenti nel territorio comunale, Villa Antonini-Brunner-Krcivoy a Cavenzano rappresenta un ulteriore esempio del gusto nobiliare che nel corso del XVIII e XIX secolo diede forma alle residenze delle famiglie patrizie e borghesi della pianura friulana. Come spesso accade in questo tipo di architetture della Bassa Friulana, la villa ha attraversato mani di più famiglie nel tempo — riflesso delle vicende storiche della regione, dalla fine della Repubblica Veneziana al Risorgimento, dall'unificazione italiana alle guerre mondiali — assumendo denominazioni composite che ne raccontano la successione proprietaria.
+
+Attualmente di proprietà privata, la villa è ammirata per le sue architetture affascinanti già dall'esterno, come segnalato dalla stessa promozione turistica regionale.
+
+---
+
+### Villa Rustici Squarcial
+
+**Frazione:** Cavenzano
+
+Altra dimora nobiliare presente nella frazione di Cavenzano, Villa Rustici Squarcial testimonia la densità di patrimonio architettonico privato concentrata in questo piccolo comune. Come la vicina Villa Antonini-Brunner-Krcivoy, anche questa villa porta nel nome doppio la traccia delle successive appartenenze familiari che ne hanno segnato la storia tra Sette e Novecento. Visibile dall'esterno, si inserisce nel paesaggio agrario della Bassa Friulana come espressione del modello insediativo delle élite locali, che costruivano le proprie residenze di campagna immerse nei campi e nei vigneti del territorio.
+
+---
+
+### Chiesa Parrocchiale di San Giorgio Martire
+
+**Frazione:** Campolongo al Torre — Piazza Indipendenza
+
+La chiesa parrocchiale di San Giorgio Martire è il principale edificio di culto di Campolongo al Torre e uno dei più significativi della Bassa Friulana per la qualità della sua architettura tardobarocca. La presenza di una chiesa in questo luogo è attestata fin dal 1362, ma l'edificio attuale è il risultato di una lunga campagna costruttiva avviata alla fine del XVII secolo: la vecchia chiesa fu demolita nel 1696 e subito si diede inizio alla costruzione della nuova, iniziando dal presbiterio. I lavori si interruppero e ripresero soltanto nel 1715, per concludersi nel 1734.
+
+La chiesa fu solennemente consacrata il 28 aprile **1736** dal patriarca di Aquileia Daniele Dolfin, una cerimonia di grande rilievo per una piccola comunità rurale della pianura. Tra il 1755 e il 1770 fu poi edificato il campanile, che si affianca alla facciata completandone il profilo verticale.
+
+Architettonicamente, la **facciata a capanna**, rivolta a sud-est e intonacata, è tripartita da quattro lesene tuscaniche che sorreggono il timpano triangolare. Oltre al portale maggiore sovrastato da una finestra rettangolare, sono presenti quattro nicchie. L'interno a navata unica conserva pregevoli opere d'arte: un **dipinto su tela del 1633** di Gasparo Cordobense e una **pala raffigurante San Luigi**, eseguita nel 1752. Nel 1800 fu ricostruita la sacrestia e nel 1865 fu realizzato il ciclo di affreschi del soffitto della navata. San Giorgio Martire è il patrono del comune.
+
+---
+
+### Chiesa Parrocchiale di San Martino Vescovo
+
+**Frazione:** Tapogliano
+
+La chiesa di San Martino Vescovo è la parrocchiale della frazione di Tapogliano e il principale polo religioso della zona meridionale del comune. Dedicata a San Martino di Tours — patrono del paese — l'edificio ha origini antiche, radicate nella storia di Tapogliano come insediamento tra i più antichi della Bassa Friulana. La chiesa, rifatta e ampliata in epoca barocca secondo le modalità tipiche delle parrocchie rurali friulane, svetta con il proprio campanile a caratterizzare la silhouette del piccolo centro abitato. Come la parrocchiale di Campolongo, essa afferisce all'Arcidiocesi di Gorizia, riflesso dell'appartenenza storica di questo territorio alla sfera culturale e religiosa goriziana.
+
+---
+
+### Oratorio di Santa Margherita da Cortona
+
+**Frazione:** Tapogliano
+
+All'interno del tessuto urbano di Tapogliano si trova questo piccolo oratorio dedicato a Santa Margherita da Cortona, terziaria francescana del XIII secolo canonizzata nel 1728. La presenza di un oratorio votivo all'interno di un villaggio di dimensioni così ridotte testimonia la vivace devozione popolare che caratterizzava le comunità rurali friulane in età moderna. Gli oratori erano spesso fondati o mantenuti da famiglie nobili o abbienti del luogo — con funzione devozionale privata aperta alla comunità — e rappresentano una componente fondamentale del paesaggio religioso della pianura veneto-friulana.
+
+---
+
+### Chiesa di Santa Maria Assunta
+
+**Frazione:** Cavenzano
+
+La chiesa di Santa Maria Assunta è il luogo di culto della frazione di Cavenzano, polo religioso di una comunità che pur piccola ha mantenuto nel tempo una propria identità devozionale autonoma. L'edificio, come molte chiese minori della Bassa Friulana, è stato oggetto di rimaneggiamenti tra il XVII e XIX secolo, pur conservando le radici in fondazioni medievali. Il titolo dell'Assunzione mariana è tra i più diffusi nella religiosità popolare friulana, legato alla ricorrenza del 15 agosto che tradizionalmente coincideva con importanti feste di villaggio e mercati stagionali.
+
+---
+
+### Il Fiume Torre e il Paesaggio Storico
+
+**Comune:** Campolongo Tapogliano
+
+Sebbene non si tratti di un monumento in senso stretto, il **fiume Torre** (in friulano _Tor_) ha avuto un ruolo determinante nella storia del territorio comunale. Tapogliano sorge infatti nei pressi di un antico guado del Torre, che per secoli ha rappresentato un punto di passaggio strategico per il commercio e gli spostamenti nella pianura friulana tra il Tagliamento e l'Isonzo. La posizione di guado spiega l'antichità dell'insediamento di Tapogliano, la cui fondazione viene tradizionalmente fatta risalire al 181 a.C., anno della fondazione di Aquileia, a suggerire un ruolo nell'articolato sistema viario romano della X Regio.
+
+Il nome stesso "Campolongo al Torre" richiama esplicitamente il fiume come elemento identitario del luogo. Oggi il Torre — torrente a regime torrentizio con le caratteristiche greti ghiaiosi tipici dei fiumi prealpini friulani — scorre a poca distanza dal territorio comunale e offre ambienti naturali di pregio che si integrano con la visita ai monumenti storici del comune.
+
+---
+
+### Stemma e Identità Civica del Comune
+
+**Sede:** Campolongo Tapogliano
+
+Lo stemma del comune di Campolongo Tapogliano, adottato nel 2009 in occasione della fusione, è di per sé un documento storico che sintetizza le identità delle due comunità fuse. Il campo azzurro reca il **Leone di San Marco** dorato — eredità della lunghissima dominazione veneziana (1420–1797) — sorretto da una pianura verde, con sullo sfondo una **muraglia merlata** (elemento del vecchio stemma di Tapogliano, che alludeva alle antiche strutture difensive del paese) e la chioma di un **pino marittimo** (dal vecchio stemma di Campolongo al Torre). In alto a sinistra splende una **stella a cinque punte** dorata, anch'essa proveniente dall'araldica tapoglianese. Il risultato è un emblema che racconta sette secoli di storia adriatica e friulana in un unico campo araldico.
+
+---
+
+## Fonti
+
+- Wikipedia — _Campolongo Tapogliano_: [it.wikipedia.org/wiki/Campolongo_Tapogliano](https://it.wikipedia.org/wiki/Campolongo_Tapogliano)
+- Wikipedia — _Villa Pace (Campolongo Tapogliano)_: [it.wikipedia.org/wiki/Villa_Pace_(Campolongo_Tapogliano)](https://it.wikipedia.org/wiki/Villa_Pace_\(Campolongo_Tapogliano\))
+- Wikipedia — _Campolongo al Torre_: [it.wikipedia.org/wiki/Campolongo_al_Torre](https://it.wikipedia.org/wiki/Campolongo_al_Torre)
+- Wikipedia — _Tapogliano_: [it.wikipedia.org/wiki/Tapogliano](https://it.wikipedia.org/wiki/Tapogliano)
+- Wikipedia — _Chiesa di San Giorgio Martire (Campolongo Tapogliano)_: [it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_Martire_(Campolongo_Tapogliano)](https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_Martire_\(Campolongo_Tapogliano\))
+- Turismo FVG — _Campolongo Tapogliano_: [turismofvg.it/localita/campolongo-tapogliano](https://www.turismofvg.it/localita/campolongo-tapogliano)
+- Villa Pace — Sito ufficiale: [villapace.eu](https://villapace.eu)
+- Le chiese delle diocesi italiane (CEI) — _Parrocchia di San Giorgio Martire_: [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78550)
+- Viaggio in Friuli Venezia Giulia — _Chiesa di San Giorgio martire, Campolongo al Torre_: [viaggioinfriuliveneziagiulia.it](http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?id=6372,0,0,1,0,0)

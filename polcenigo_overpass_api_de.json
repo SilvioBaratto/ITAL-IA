@@ -1,0 +1,177 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-08T09:22:30Z",
+    "timestamp_areas_base": "2026-04-07T20:08:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2029817839,
+  "lat": 46.0304724,
+  "lon": 12.5017103,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizzeria Al Vecchio Caffè"
+  }
+},
+{
+  "type": "node",
+  "id": 3893393975,
+  "lat": 46.0308295,
+  "lon": 12.5017121,
+  "tags": {
+    "addr:city": "Polcenigo",
+    "addr:housenumber": "11",
+    "addr:postcode": "33070",
+    "addr:street": "Piazza Plebiscito",
+    "amenity": "cafe",
+    "indoor_seating": "yes",
+    "name": "Locanda Fullini-Zaia",
+    "outdoor_seating": "veranda"
+  }
+},
+{
+  "type": "node",
+  "id": 3893395936,
+  "lat": 46.0501865,
+  "lon": 12.4949812,
+  "tags": {
+    "addr:city": "Polcenigo",
+    "addr:housenumber": "13",
+    "addr:postcode": "33070",
+    "addr:street": "Via Marchesini",
+    "amenity": "cafe",
+    "name": "Osteria Nuvolone"
+  }
+},
+{
+  "type": "node",
+  "id": 3893401671,
+  "lat": 46.0306229,
+  "lon": 12.5019181,
+  "tags": {
+    "addr:city": "Polcenigo",
+    "addr:housenumber": "20",
+    "addr:postcode": "33070",
+    "addr:street": "Piazza Plebiscito",
+    "amenity": "ice_cream",
+    "name": "La Gelateria in Borc"
+  }
+},
+{
+  "type": "node",
+  "id": 4331923490,
+  "lat": 46.0255491,
+  "lon": 12.5126048,
+  "tags": {
+    "amenity": "cafe",
+    "name": "bar pascon"
+  }
+},
+{
+  "type": "node",
+  "id": 4454788416,
+  "lat": 46.0395158,
+  "lon": 12.4970315,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Via Sorgente",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Al Bus",
+    "outdoor_seating": "patio"
+  }
+},
+{
+  "type": "node",
+  "id": 6257687708,
+  "lat": 46.0239159,
+  "lon": 12.5111646,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Via Due Muri",
+    "amenity": "bar",
+    "name": "Bar Nuovo"
+  }
+},
+{
+  "type": "node",
+  "id": 11524844365,
+  "lat": 46.0384636,
+  "lon": 12.4963769,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Ristorante da Genio",
+    "website": "https://www.ristorantedagenio.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13359556450,
+  "lat": 46.0299292,
+  "lon": 12.5022566,
+  "tags": {
+    "amenity": "pub",
+    "indoor_seating": "yes",
+    "name": "The Drunk Whale",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 36063651,
+  "center": {
+    "lat": 46.0106272,
+    "lon": 12.5202433
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "height": "8 m",
+    "it:fvg:ctrn:code": "4AED",
+    "it:fvg:ctrn:revision": "1A0",
+    "name": "Trattoria Pizzeria Stella"
+  }
+},
+{
+  "type": "way",
+  "id": 36065316,
+  "center": {
+    "lat": 46.0287445,
+    "lon": 12.5063401
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "height": "11 m",
+    "it:fvg:ctrn:code": "4AED",
+    "it:fvg:ctrn:revision": "1A0",
+    "name": "Cial de Brent"
+  }
+},
+{
+  "type": "way",
+  "id": 238301632,
+  "center": {
+    "lat": 46.0452041,
+    "lon": 12.4907633
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional,pizza",
+    "height": "9 m",
+    "it:fvg:ctrn:code": "4AED",
+    "it:fvg:ctrn:revision": "1A0",
+    "name": "Al Faro"
+  }
+}
+
+  ]
+}

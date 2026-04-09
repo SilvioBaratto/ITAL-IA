@@ -1,0 +1,152 @@
+## Manzano
+
+Manzano (_Manzan_ in friulano) è un comune di circa 6.275 abitanti della provincia di Udine, situato sulle prime alture del Friuli orientale lungo le sponde del fiume Natisone, al confine con i Colli Orientali del Friuli. Il territorio comunale comprende le frazioni di Case, Manzinello, Oleis, Rosazzo, San Lorenzo, San Nicolò, Sdricca e Soleschiano.
+
+Il patrimonio sacro del comune è di straordinaria rilevanza storica e artistica: il cuore pulsante è costituito dall'abbazia di Rosazzo, uno dei complessi monastici più antichi e importanti dell'intera regione, fondato nel IX secolo sui colli che dominano la pianura friulana. Attorno all'abbazia gravitano diverse chiese parrocchiali e filiali sparse nelle frazioni, alcune di origine medievale, che testimoniano la capillare presenza della fede cristiana in questo lembo di Friuli sin dall'alto Medioevo. L'architettura sacra manzanese spazia dallo stile romanico dell'abbazia al barocco delle chiese ricostruite nel Seicento-Settecento, fino agli inserti neogotici ottocenteschi, riflettendo le trasformazioni culturali e artistiche avvenute nel corso di oltre mille anni di storia.
+
+---
+
+### Abbazia di Rosazzo e Chiesa abbaziale di San Pietro Apostolo (frazione Rosazzo)
+
+**Coordinate:** 46°00′29″N 13°25′17″E  
+**Stile architettonico:** romanico, con successive stratificazioni rinascimentali e barocche  
+**Epoca di costruzione:** IX–XI secolo (primo impianto); XVI–XIX secolo (rifacimenti)  
+**Sito web:** [www.abbaziadirosazzo.it](http://www.abbaziadirosazzo.it)
+
+L'abbazia di Rosazzo è il monumento più importante del comune di Manzano e uno dei complessi monastici di maggior pregio storico e artistico dell'intero Friuli-Venezia Giulia. Sorge su un colle panoramico nella frazione di Rosazzo, in posizione dominante sui Colli Orientali del Friuli, immersa tra i vigneti del celebre terroir friulano.
+
+Le origini dell'abbazia si perdono nella leggenda: secondo la tradizione, nel IX secolo un eremita di nome Alemanno si stabilì sul colle erigendovi un piccolo oratorio che col tempo si trasformò in un vero e proprio monastero, denominato *monasterium rosarum*. Il primo nucleo documentato era affidato ai canonici agostiniani. Nel **1070** fu consacrata la chiesa abbaziale dedicata a San Pietro Apostolo. Intorno al **1090**, grazie al patriarca Ulrico di Eppenstein, l'abbazia fu elevata al rango monastico e affidata ai **monaci benedettini** provenienti dall'abbazia di Millstatt in Carinzia. Sotto la regola benedettina, durata oltre trecento anni, il complesso raggiunse l'apice del proprio potere e prestigio, estendendo la propria influenza dal Collio all'Istria, fino a Tarvisio. Nel **1245** papa Innocenzo IV dichiarò l'abbazia direttamente soggetta alla Santa Sede, concedendo all'abate privilegi di natura vescovile e civile.
+
+Il declino iniziò nel **1391** quando il monastero fu affidato *in commendam*, prima all'arcivescovo di Ravenna, poi ai veneziani che nel 1420 avevano invaso tutto il Friuli. Nel **1509** un incendio devastò gravemente il complesso. A partire dal **1522**, con l'arrivo dei **domenicani** e sotto l'impulso dell'abate commendatario Giovanni Matteo Giberti, ebbe inizio la rinascita: l'architetto cividalese Venceslao Boiani guidò i lavori di ricostruzione e ristrutturazione dell'intero complesso nel corso del Cinquecento. Nel **1823** il vescovo Emanuele Lodi trasformò l'abbazia in residenza estiva dei vescovi di Udine, ai quali fu concesso il titolo nobiliare di Marchese di Rosazzo. Dopo il grave terremoto del 1976, l'arcivescovo Alfredo Battisti promosse un vasto restauro; oggi il monastero ospita un centro culturale di alto livello.
+
+**La chiesa abbaziale di San Pietro Apostolo** è il fulcro architettonico del complesso. L'edificio risponde ai canoni dell'**architettura romanica**: la facciata a salienti presenta un paramento omogeneo in blocchi di pietra a vista, animato unicamente dal portale d'ingresso, dal rosone sovrastante e da due bifore ai lati. L'interno si sviluppa su una pianta a **tre navate**. I segni delle successive ricostruzioni (dal Cinquecento all'Ottocento) sono leggibili in vari elementi strutturali e decorativi.
+
+**Opere d'arte:**
+- **Affreschi di Francesco India** (detto il *Moro* o *Torbido*), eseguiti nel **1535**: si tratta del ciclo decorativo più importante della chiesa, che ricopre le pareti delle navate con scene sacre di grande qualità pittorica, riconducibili alla cultura figurativa rinascimentale veneto-friulana.
+- **Altari laterali** della seconda metà del Settecento, opera degli scultori udinesi **Giovanni e Giuseppe Mattiussi**, ricchi di statue coeve di raffinata fattura.
+- Lacerti di affreschi staccati provenienti da chiese distrutte della zona, tra cui quelli della chiesa di Sant'Antonio di Padova in località Sant'Eliseo di Pers, qui conservati.
+
+Il complesso abbaziale comprende anche:
+- Il **chiostro**, ampio e armonioso, con arcate che si affacciano sul giardino interno, risalente nella forma attuale al XVI secolo.
+- La **cappella della Crocifissione**, adiacente alla chiesa, con ulteriori decorazioni pittoriche.
+- Giardini pensili e un belvedere panoramico sui Colli Orientali.
+
+L'abbazia è sede di importanti eventi culturali, convegni e concerti; la sua biblioteca e l'archivio storico sono risorse preziose per la ricerca storica sulla regione friulana.
+
+---
+
+### Chiesa di Santa Maria Assunta (Manzano capoluogo)
+
+**Coordinate:** 45°59′33″N 13°22′53″E  
+**Stile architettonico:** tardo barocco con elementi neoclassici  
+**Epoca di costruzione:** XVIII secolo; consacrata nel 1821
+
+La chiesa di Santa Maria Assunta è la **parrocchiale del capoluogo di Manzano**, appartenente all'arcidiocesi di Udine e alla forania del Friuli Orientale. La storia di un luogo di culto su questo sito risale probabilmente al **X secolo**, quando fu edificata una primitiva chiesa. Questo edificio fu ampliato o ricostruito nel **1436** e sottoposto a un rifacimento nel **1582**. L'attuale parrocchiale fu costruita ex novo nel **XVIII secolo** e solennemente consacrata nel **1821**.
+
+La facciata, restaurata nel 2011, è ornata sopra il portale principale da una raffigurazione dell'*Assunta*, eseguita a encausto nel **1946** dal pittore **Luigi Diamante**, artista friulano che lavorò in diverse chiese della zona.
+
+**Opere d'arte:**
+- **Altar maggiore** realizzato nel **1897** dai fratelli Paron, impreziosito dalle statue di due angeli e del Redentore, opere dello scultore **Temistocle Santi**, cui si devono anche le statue dei Santi Giovanni Evangelista e Giuseppe.
+- **Altari laterali settecenteschi** provenienti dalla soppressa chiesa dei Barnabiti di Udine, pezzi di notevole pregio che attestano la circolazione di arredi ecclesiastici tra le chiese friulane in seguito alle soppressioni napoleoniche e post-unitarie.
+- **Affreschi del soffitto** dipinti nel **1921** dal pittore gemonese **Giuseppe Barazzutti**, con composizioni di soggetto sacro che decorano l'intera volta della navata.
+- **Crocifissione**, affresco eseguito nel **1959** da **Giovanni Pittini** da Tarcento, nella zona presbiteriale.
+
+La chiesa rappresenta il centro della vita religiosa del capoluogo ed è il principale punto di riferimento della comunità manzanese.
+
+---
+
+### Chiesa di Santa Margherita (frazione Manzinello)
+
+**Coordinate:** 45°59′02″N 13°20′40″E  
+**Stile architettonico:** tardo barocco (ricostruzione settecentesca)  
+**Epoca di costruzione:** prima del 1400 (primo edificio); XVIII secolo (edificio attuale)  
+**Sito web BeWeB:** [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68526/)
+
+La chiesa di Santa Margherita sorge nella frazione di Manzinello e costituisce la parrocchiale di questa piccola comunità, dipendente dalla forania del Friuli Orientale nell'arcidiocesi di Udine. Un luogo di culto dedicato a Santa Margherita di Antiochia è documentato su questo sito già **prima del 1400**, quando era servita da un curato dipendente dalla parrocchia di Pavia di Udine. In quel periodo un artigiano tirolese di nome Antonio di Simone realizzò per la chiesa una preziosa **ancona lignea dorata** raffigurante la *Vergine tra i santi Margherita, Pietro, Stefano, Rocco e Sebastiano*, opera che andò purtroppo distrutta con l'edificio originario.
+
+L'attuale chiesa fu ricostruita nel **XVIII secolo**. La facciata e l'interno accolgono un patrimonio artistico di notevole interesse, nonostante le modeste dimensioni dell'edificio.
+
+**Opere d'arte:**
+- **Affresco nella lunetta** attribuito a **Giovanni Fantoni** (1920), raffigurante la *Crocifissione*, di buona qualità pittorica novecentesca.
+- **Lacerto di affresco staccato** del **XV secolo**, opera di ignoto pittore friulano, raffigurante *Sant'Antonio abate con maialino, Santa Elisabetta e San Giacomo*: testimonianza preziosa della pittura tardogotica locale, appeso su pannello lungo la parete destra.
+- **Altare di Sant'Antonio abate**, donato da Antonietta Morelli de Rossi, con pala raffigurante il santo con la caratteristica "Tau" e il maialino recante una campanella.
+- **Tela con San Filippo Neri** con breviario e scritta *Una sola regola: la carità – 1863*, proveniente dalla soppressa chiesa dei Filippini di Udine: un ulteriore esempio della dispersione degli arredi ecclesiastici dopo le soppressioni dell'Ottocento.
+- **Stalli lignei del coro**, di fattura artigianale locale.
+
+La chiesa è un esempio significativo di come piccole comunità rurali friulane abbiano conservato nel tempo un patrimonio artistico stratificato, frutto di donazioni, trasferimenti e committenze locali.
+
+---
+
+### Chiesa dei Santi Ermacora e Fortunato (frazione Soleschiano)
+
+**Coordinate:** 45°58′16″N 13°21′13″E  
+**Stile architettonico:** barocco  
+**Epoca di costruzione:** XII secolo (primo impianto); completamento attuale 1684  
+**Sito web BeWeB:** [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68528/)
+
+La chiesa dei Santi Ermacora e Fortunato si trova nella frazione di Soleschiano ed è filiale della parrocchiale di San Lorenzo, altra frazione del comune di Manzano. La sua dedicazione ai santi **Ermacora e Fortunato** — i protomartiri e patroni dell'arcidiocesi di Udine — è assai significativa e riflette la profonda radice aquileiese della fede cristiana nel Friuli orientale: Ermacora, primo vescovo di Aquileia, e il suo diacono Fortunato sono figure fondanti dell'identità religiosa dell'intera regione.
+
+Le origini della chiesa risalgono al **XII secolo**, quando fu fondata da monaci benedettini, probabilmente in connessione con l'abbazia di Rosazzo che all'epoca esercitava la propria influenza su gran parte del territorio circostante. La chiesa è citata in un testamento del **1463**, a conferma della sua vitalità nel tardo Medioevo. Il **terremoto del 1511** — il devastante sisma che colpì tutto il Friuli orientale — causò gravi danni all'edificio, che fu prontamente ristrutturato. Nel corso del **XVII secolo** la chiesa fu oggetto di un importante rifacimento integrale, conclusosi nel **1684**, che le conferì l'aspetto barocco attuale. Nel **1946** il pittore **Luigi Diamante** eseguì la decorazione della facciata. Il restauro del **1990** ha contribuito al consolidamento e alla valorizzazione dell'edificio.
+
+La chiesa rappresenta un nodo importante nella rete di luoghi di culto delle frazioni di Manzano, testimoniando la continuità insediativa e devozionale di Soleschiano dal Medioevo ad oggi.
+
+---
+
+### Chiesa dei Santi Giovanni Battista e Nicolò Vescovo (frazione Oleis)
+
+**Coordinate:** 46°01′05″N 13°23′36″E  
+**Stile architettonico:** neogotico  
+**Epoca di costruzione:** 1888–1890; consacrata il 3 luglio 1902  
+**Progettista:** don Leonardo Piva (Udine)
+
+La chiesa dei Santi Giovanni Battista e Nicolò Vescovo è la **parrocchiale della frazione di Oleis**, parte della forania del Friuli Orientale nell'arcidiocesi di Udine. La storia del culto cristiano a Oleis è molto più antica dell'edificio attuale: nel Medioevo sorgeva nel villaggio una **chiesetta dedicata a Ognissanti**, distrutta all'inizio del XVI secolo. Nel **1605** la comunità, su iniziativa dei nobili Girolamo Leonardo e Adriano Maseri, provvide a ricostruire il luogo di culto.
+
+Alla fine del XIX secolo questo secondo edificio era ormai fatiscente e insufficiente per i bisogni della popolazione cresciuta. Si decise pertanto di demolirlo e di erigere una nuova parrocchiale. I lavori furono condotti tra il **1888** e il **1890** su progetto di **don Leonardo Piva** di Udine, costruttore apprezzato di chiese nel Friuli dell'epoca. La consacrazione fu impartita il **3 luglio 1902** dall'arcivescovo di Udine **Pietro Zamburlini**. La sacrestia fu ampliata nel **1924**, e successivi restauri si svolsero nel biennio 1976–77, tra il 1989 e il 1992, e intorno al 2010.
+
+L'edificio è un buon esempio di **architettura neogottica** di fine Ottocento applicata a una parrocchiale rurale friulana: l'adozione del neogotico, stile di grande diffusione nell'edilizia religiosa italiana del secondo Ottocento, risponde alla volontà di evocare la grandiosità delle cattedrali medievali in un contesto di villaggio. Il campanile affiancato alla chiesa completa la composizione d'insieme.
+
+La chiesa merita attenzione anche per il ricordo storico legato alla frazione: nei campi di Oleis fu operativo tra il **1915** e il **1917** il **campo di aviazione di Oleis**, uno dei più importanti della Grande Guerra per il fronte del Friuli.
+
+---
+
+### Cappella della Crocifissione — Complesso abbaziale di Rosazzo (frazione Rosazzo)
+
+**Localizzazione:** all'interno del complesso abbaziale di Rosazzo, adiacente alla chiesa di San Pietro Apostolo  
+**Stile architettonico:** rinascimentale-manierista  
+**Epoca di costruzione:** XVI secolo
+
+Integrata nel complesso dell'abbazia di Rosazzo, la cappella della Crocifissione è un ambiente di raccoglimento di dimensioni ridotte ma di grande intensità spirituale e artistica. Posta a fianco della chiesa abbaziale di San Pietro, è raggiungibile dall'interno del chiostro o attraverso un passaggio diretto dalla navata laterale della chiesa.
+
+La cappella fu realizzata nel corso del XVI secolo durante i lavori di ricostruzione e ampliamento del complesso abbaziale promossi dall'abate commendatario Giovanni Matteo Giberti. La decorazione pittorica interna, coerente con quella della chiesa abbaziale, contribuisce a fare del complesso di Rosazzo nel suo insieme uno degli esempi più significativi della pittura cinquecentesca applicata all'architettura religiosa nel Friuli orientale.
+
+La cappella è aperta ai visitatori in occasione delle visite guidate all'abbazia e degli eventi culturali organizzati dal centro culturale abbaziale.
+
+---
+
+### Chiostro dell'Abbazia di Rosazzo (frazione Rosazzo)
+
+**Localizzazione:** complesso abbaziale di Rosazzo, Piazza Abbazia 5  
+**Stile architettonico:** rinascimentale (XVI secolo)
+
+Il **chiostro** dell'abbazia di Rosazzo è una delle parti più armoniose e meglio conservate del complesso monastico. Realizzato nel corso del Cinquecento durante la ricostruzione guidata dall'architetto cividalese Venceslao Boiani, presenta un'elegante serie di **arcate a tutto sesto** sostenute da colonne, che si aprono su un giardino centrale. I muri del chiostro recano affreschi e decorazioni di varia epoca che testimoniano la lunga vita monastica del complesso.
+
+Il chiostro è oggi utilizzato come spazio per eventi culturali, convegni, concerti e manifestazioni legate all'attività del centro culturale abbaziale. La sua atmosfera raccolta e la bellezza del contesto paesaggistico dei Colli Orientali del Friuli ne fanno uno dei luoghi di spiritualità e cultura più apprezzati della regione.
+
+---
+
+## Fonti
+
+- Wikipedia, *Manzano (Friuli-Venezia Giulia)* — [it.wikipedia.org/wiki/Manzano_(Friuli-Venezia_Giulia)](https://it.wikipedia.org/wiki/Manzano_(Friuli-Venezia_Giulia))
+- Wikipedia, *Abbazia di Rosazzo* — [it.wikipedia.org/wiki/Abbazia_di_Rosazzo](https://it.wikipedia.org/wiki/Abbazia_di_Rosazzo)
+- Wikipedia, *Chiesa abbaziale di San Pietro Apostolo (Manzano)* — [it.wikipedia.org/wiki/Chiesa_di_San_Pietro_Apostolo_(Manzano)](https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_Apostolo_(Manzano))
+- Wikipedia, *Chiesa di Santa Maria Assunta (Manzano)* — [it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Manzano)](https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Manzano))
+- Wikipedia, *Chiesa di Santa Margherita (Manzinello)* — [it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_(Manzinello)](https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_(Manzinello))
+- Wikipedia, *Chiesa dei Santi Ermacora e Fortunato (Manzano)* — [it.wikipedia.org/wiki/Chiesa_dei_Santi_Ermacora_e_Fortunato_(Manzano)](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Ermacora_e_Fortunato_(Manzano))
+- Wikipedia, *Chiesa dei Santi Giovanni Battista e Nicolò Vescovo* — [it.wikipedia.org/wiki/Chiesa_dei_Santi_Giovanni_Battista_e_Nicolò_Vescovo](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Giovanni_Battista_e_Nicol%C3%B2_Vescovo)
+- Sito ufficiale Abbazia di Rosazzo — [www.abbaziadirosazzo.it](http://www.abbaziadirosazzo.it)
+- BeWeB — Beni Ecclesiastici in Web, Conferenza Episcopale Italiana — [www.beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it)
+- *Friuli Venezia Giulia — Guida storico artistica naturalistica*, Bruno Fachin Editore, 2004, ISBN 88-85289-69-X
+- Giuseppe Bergamini (a cura di), *L'abbazia di Rosazzo in Monumenti storici del Friuli*, Udine 2006
+- Michela Cadau, *L'abbazia di Rosazzo; possessi fondiari e potere signorile nel Cinquecento*, Casamassima, Udine 1989
+- Wilhelm Baum, *Rosazzo*, in *Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol* (Germania Benedictina III/3), Eos Verlag, 2002
+- Comune di Manzano, sito istituzionale — [www.comune.manzano.ud.it](https://www.comune.manzano.ud.it)

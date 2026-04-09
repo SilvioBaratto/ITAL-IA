@@ -1,0 +1,98 @@
+## Gonars
+
+Gonars (_Gonârs_ in friulano) è un comune di circa 4.500 abitanti nella Bassa Friulana, in provincia di Udine, situato nella pianura a poca distanza da Palmanova. Comune agricolo e artigianale — celebre per la tradizione calzaturiera — Gonars non vanta musei o gallerie d'arte nel senso istituzionale del termine. Tuttavia la sua identità culturale è profondamente segnata da una delle pagine più buie della storia italiana del Novecento: l'esistenza, tra il 1942 e il 1943, di un campo di concentramento fascista dove furono internati e morirono oltre cinquecento civili sloveni e croati. Attorno a questa memoria si è sviluppata nel tempo una rete di luoghi commemorativi che costituiscono oggi il principale patrimonio storico-culturale visitabile del comune. Accanto a questi luoghi della memoria, il territorio conserva testimonianze di antichità romane e longobarde — conservate in parte *in situ* e in parte presso istituzioni esterne — e un insieme di chiese di interesse storico-artistico.
+
+---
+
+### Sacrario Memoriale del Campo di Concentramento — Cimitero Comunale
+
+**Località:** Gonars (capoluogo) — Cimitero civico, via del Cimitero n. 32  
+**Tipologia:** Monumento commemorativo / sacrario ossario
+
+Il Sacrario Memoriale, situato all'interno del cimitero comunale di Gonars, è il principale luogo della memoria del paese e uno dei siti commemorativi più significativi del Friuli Venezia Giulia per ciò che riguarda la persecuzione fascista. Venne realizzato nel dicembre del 1973 su iniziativa della Repubblica Federativa Socialista di Jugoslavia, su progetto dello scultore serbo **Miodrag Živković** dell'Accademia di Arti Applicate di Belgrado.
+
+Il monumento assume la forma di un grande fiore stilizzato: la struttura è composta da elementi in lamiera di **acciaio inossidabile** che si dispongono a corona, al cui interno si trovano due cripte circolari con nicchie per urne cinerarie. La soluzione formale, austera e al tempo stesso evocativa, si inscrive nel linguaggio della scultura monumentale della Jugoslavia socialista degli anni Settanta, con una forte tensione simbolica.
+
+Le cripte accolgono le spoglie di **471 persone**: 410 riesumate dal cimitero di Gonars, le restanti provenienti da Palmanova (deceduti nell'ospedale militare adiacente al campo), da Visco e da Padova, dove esistevano altri campi di internamento per civili jugoslavi. Sono tumulati nel sacrario anche due partigiani jugoslavi fucilati dai tedeschi a Chiusaforte, in Valcanale.
+
+#### Contesto storico
+
+Il campo di concentramento di Gonars fu costruito nell'autunno del 1941 dal regime fascista, su un terreno lungo la via Napoleonica (SS 252 di Palmanova), appena fuori dall'abitato. Era articolato in due recinti distinti — campo A e campo B (suddiviso in settori Alfa, Beta e Gamma) — circondati da filo spinato, torrette di guardia con mitragliatrici e potenti fari. Inizialmente concepito per prigionieri di guerra russi, dal 1942 divenne uno dei principali luoghi di internamento per civili rastrellati nella Provincia di Lubiana e nei territori della Jugoslavia occupata, in applicazione della **Circolare 3C** del generale Mario Roatta.
+
+Nell'estate del 1942 il campo ospitava oltre 6.000 internati — ben il doppio della sua capienza — in condizioni igieniche precarie e con alimentazione insufficiente. Tra i detenuti figuravano intellettuali, insegnanti, studenti, operai e artigiani sloveni, considerati dal regime potenziali oppositori. Nell'autunno-inverno 1942-43, con il trasferimento di donne, anziani e bambini provenienti dall'immensa struttura di Arbe (isola di Rab), la mortalità raggiunse livelli drammatici: almeno **500 persone** morirono di malattie e denutrizione, tra cui almeno 70 bambini nati e morti nel campo. Dopo l'8 settembre 1943 il campo fu occupato dalle truppe tedesche e poi definitivamente smantellato. I materiali delle baracche furono in parte utilizzati dalla comunità locale per altre costruzioni.
+
+Il Sacrario funge da monito contro la guerra, contro il fascismo e contro ogni ideologia razzista. Ogni anno, in occasione del **Giorno della Memoria** (27 gennaio) e della **Commemorazione dei Defunti** (2 novembre), il Comune di Gonars organizza cerimonie commemorative a cui partecipano autorità e delegazioni provenienti da Slovenia, Croazia e Serbia.
+
+**Accesso:** Libero, durante gli orari di apertura del cimitero comunale.
+
+---
+
+### Parco della Memoria — Area dell'ex Campo di Concentramento
+
+**Località:** Gonars (capoluogo) — lungo la via Napoleonica (SS 252 di Palmanova)  
+**Anno di inaugurazione:** 2009  
+**Tipologia:** Parco commemorativo / spazio espositivo all'aperto
+
+Inaugurato alla fine del 2009 per iniziativa del Comune di Gonars, il **Parco della Memoria** sorge nel luogo esatto dove si trovavano le baracche del campo di concentramento fascista, oggi completamente scomparse. Del campo non è rimasto alcun manufatto fisico: la struttura fu smantellata dalla comunità locale subito dopo la guerra, e i materiali riutilizzati a fini civili.
+
+Il parco è concepito come spazio di riflessione e di trasmissione della memoria. Al suo interno sono collocate **riproduzioni di opere realizzate dagli stessi internati** durante la detenzione: tra i prigionieri vi erano pittori, incisori e artisti che, spesso clandestinamente, documentarono la propria condizione. Questa dimensione artistica è particolarmente significativa: il campo di Gonars ospitò una concentrazione inusuale di intellettuali e creativi — tra cui il pittore sloveno **Nikolaj Pirnat** e il poeta **France Balantič** — le cui opere costituiscono una testimonianza visiva e letteraria di rara intensità.
+
+Il progetto del Parco si inserisce nel più ampio **"The Gonars Memorial"**, promosso nel 2005 dal Comune con il finanziamento della Commissione Europea, che comprendeva anche la realizzazione di un documentario storico a cura della ricercatrice **Alessandra Kersevan** e del regista Stefano Raspa.
+
+**Accesso:** Libero.
+
+---
+
+### Monumento all'Aviazione
+
+**Località:** Gonars (capoluogo), area del centro urbano  
+**Anno di realizzazione:** 1968  
+**Tipologia:** Monumento pubblico / opera d'arte commemorativa
+
+Gonars ospitò durante la **Prima guerra mondiale** un campo di aviazione militare che fu base operativa per importanti azioni belliche italiane contro il territorio austro-ungarico. A memoria di quell'esperienza, nel 1968 fu realizzato un imponente **bassorilievo in bronzo** ad opera dell'artista friulano **Gigi Di Luca**.
+
+Il monumento ricorda in modo specifico l'azione del 18 febbraio 1916 del Maggiore pilota **Oreste Salomone**, unico superstite dell'equipaggio del suo bombardiere Caproni Ca.33, che riuscì a effettuare un atterraggio di emergenza nel campo di aviazione di Gonars. La presenza del campo ospitò, tra l'altro, la **4ª Squadriglia per l'artiglieria** (poi 44ª Squadriglia) dal 5 ottobre 1915, e la **3ª Squadriglia per l'artiglieria** (poi 43ª Squadriglia) dal febbraio 1916. L'opera di Di Luca rappresenta un esempio della scultura monumentale friulana del secondo dopoguerra, con un linguaggio formale di tradizione novecentista.
+
+**Accesso:** Opera all'aperto, visibile liberamente.
+
+---
+
+### Reperti Storici presso la Scuola Secondaria "T. Marzuttini"
+
+**Località:** Gonars (capoluogo)  
+**Tipologia:** Piccola collezione storica / deposito di interesse locale
+
+La Scuola secondaria di primo grado intitolata a **T. Marzuttini** conserva alcune **urne cinerarie di età romana** rinvenute nel territorio gonarese. Si tratta di una delle poche testimonianze materiali dell'insediamento romano nella Bassa Friulana rimaste nel comune stesso: la maggior parte dei reperti antichi trovati a Gonars e dintorni — tra cui oggetti in selce del Mesolitico, materiali dell'Età del Bronzo, reperti longobardi come punte di lancia e frammenti di armature — sono stati trasferiti e sono oggi conservati presso i **Civici Musei di Udine** (Civici Musei e Gallerie di Storia e Arte, Piazza Libertà, Udine).
+
+Di particolare interesse storico è la **spatha longobarda** rinvenuta a Gonars, risalente presumibilmente alla seconda metà del VII secolo, nonché il sarcofago scoperto nel 1968 tra Gonars e Fauglis, riconducibile al VIII secolo, che conteneva i resti di due defunti longobardi e una **croce in bronzo** — ritenuta forse matrice di una capsella del tesoro del Duomo di Cividale — che oggi si trova anch'essa fuori dal territorio comunale.
+
+Non si tratta di un museo strutturato né di una raccolta aperta al pubblico in senso istituzionale, ma di un deposito di interesse didattico e storico-locale, consultabile su richiesta tramite la scuola o il Comune.
+
+---
+
+### Nota sulle Chiese di Interesse Storico-Artistico
+
+Gonars e le sue frazioni conservano alcune chiese di interesse storico che, pur non essendo musei, costituiscono parte integrante del patrimonio artistico locale:
+
+- **Chiesa di San Canciano Martire** (Gonars capoluogo): chiesa parrocchiale dedicata al santo patrono del comune, la cui festa si celebra il 30 maggio. L'edificio attuale è di impianto settecentesco.
+- **Chiesa di San Giorgio Martire** (Gonars): seconda chiesa del capoluogo, di interesse storico locale.
+- **Chiesa di San Michele Arcangelo** (Ontagnano): situata nella frazione di Ontagnano, documentata visivamente come uno degli elementi architettonici più caratteristici del paesaggio della Bassa Friulana.
+
+Nessuna di queste chiese è dotata di un museo parrocchiale strutturato o di una raccolta espositiva aperta al pubblico in orari regolari.
+
+---
+
+### Osservazione conclusiva
+
+Gonars non dispone di un museo civico, di una galleria d'arte o di uno spazio espositivo permanente nel senso istituzionale pieno. La sua offerta culturale si concentra sui **luoghi della memoria storica** legati al campo di concentramento fascista della Seconda guerra mondiale — il Sacrario Memoriale e il Parco della Memoria — che rappresentano tuttavia realtà di primaria importanza nella cartografia della memoria collettiva del Friuli Venezia Giulia e dell'intera Italia. Chi visita Gonars lo fa principalmente per comprendere e onorare questa pagina di storia, in un territorio che ha scelto consapevolmente di non dimenticare.
+
+---
+
+## Fonti
+
+- Wikipedia italiana, voce *Gonars* (consultata aprile 2026): [https://it.wikipedia.org/wiki/Gonars](https://it.wikipedia.org/wiki/Gonars)
+- Wikipedia italiana, voce *Campo di concentramento di Gonars* (consultata aprile 2026): [https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Gonars](https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Gonars)
+- Turismo FVG, scheda su Gonars: [https://www.turismofvg.it/localita/gonars](https://www.turismofvg.it/localita/gonars)
+- Kersevan, Alessandra. *Un campo di concentramento fascista. Gonars 1942–1943*. Udine, 2003 (più edizioni).
+- Pahor Verri, Nadja. *Oltre il filo: storia del campo di internamento di Gonars, 1941–1943*. Gonars: Comune di Gonars, 1993 (2ª ed. 1996).
+- Comune di Gonars, sito istituzionale: [https://www.comune.gonars.ud.it](https://www.comune.gonars.ud.it)
