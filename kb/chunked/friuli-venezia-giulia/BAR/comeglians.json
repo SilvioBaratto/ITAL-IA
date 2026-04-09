@@ -1,0 +1,74 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/comeglians.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Comeglians",
+  "province": "UD",
+  "page_title": "Comeglians",
+  "page_summary": "Guida ai principali bar e punti colazione del comune di Comeglians: bar storici di paese, una pasticceria per la colazione, il bar di un albergo tradizionale e la particolare offerta mattutina dell'albergo diffuso nelle frazioni.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/comeglians.md",
+  "processed_at": "2026-04-09T12:05:32.196Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/comeglians__0",
+      "text": "### Bar Pasticceria Alle Corriere\n\n**Indirizzo:** Via Roma 30, 33023 Comeglians (UD)  \n**Telefono:** 0433 60279\n\nIl *Bar Pasticceria Alle Corriere* è il principale punto di riferimento per la colazione e il caffè nel centro del paese. Il nome richiama la vecchia corriera che un tempo collegava Comeglians con i paesi vicini della val Degano, e conserva ancora oggi quella funzione di punto d'incontro e snodo della vita quotidiana locale. Qui si possono trovare dolci e pasticcini artigianali, oltre all'immancabile caffè e al cappuccino del mattino. L'atmosfera è quella del bar di paese per eccellenza: frequentato dai residenti di ogni fascia d'età, con il bancone sempre animato nelle ore di punta della mattinata e nei momenti successivi alla messa domenicale. In stagione si trovano anche prodotti locali della pasticceria tradizionale carnica, come i *crostoli* fritti e qualche preparazione casalinga con le marmellate di frutti di bosco della zona.",
+      "metadata": {
+        "section_title": "Bar Pasticceria Alle Corriere",
+        "links": [],
+        "addresses": [
+          "Via Roma 30, 33023 Comeglians (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/comeglians__1",
+      "text": "### Bar Centrale\n\n**Indirizzo:** Via Roma 33, 33023 Comeglians (UD)  \n**Telefono:** 0433 60021\n\nIl *Bar Centrale* è gestito dalla famiglia De Marchi ed è uno di quei locali multifunzione tipici dei piccoli borghi di montagna: bar, tabaccheria e rivendita di giornali e riviste, tutto sotto lo stesso tetto. Nonostante le piccole dimensioni, svolge un ruolo cruciale nella vita sociale di Comeglians, rappresentando uno dei pochi luoghi fisici dove la comunità si ritrova con regolarità. Il caffè è servito al bancone secondo la tradizione friulana, e all'ora dell'aperitivo non è raro trovare qualche avventore con un bicchiere di vino bianco locale o con il classico spritz. La rivendita di giornali lo rende meta mattutina dei pensionati del paese, che vi si fermano per scambiare le ultime notizie e commentare il meteo delle vette circostanti.",
+      "metadata": {
+        "section_title": "Bar Centrale",
+        "links": [],
+        "addresses": [
+          "Via Roma 33, 33023 Comeglians (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/comeglians__2",
+      "text": "### Albergo Alle Alpi — bar e colazione\n\n**Indirizzo:** Via Roma 38, 33023 Comeglians (UD)  \n**Telefono:** 0433 60552  \n**Sito web:** [www.albergoallealpi.com](https://www.albergoallealpi.com)\n\nImmerso in un edificio storico risalente al Settecento, l'*Albergo Alle Alpi* è una delle strutture ricettive più radicate nel tessuto storico di Comeglians. L'hotel, a conduzione familiare, offre ai propri ospiti la colazione nella sala interna, con pane, marmellate artigianali e prodotti tipici della Carnia. Anche i non-ospiti possono talvolta fermarsi per un caffè o per l'aperitivo serale, quando la struttura ospita escursionisti e turisti di passaggio tra le valli carniche. L'ambiente richiama le atmosfere delle locande alpine ottocentesche, con arredi in legno, soffitti a volta e una cura per i dettagli che rispecchia la tradizione dell'ospitalità montana friulana. La sua posizione lungo Via Roma lo rende facilmente raggiungibile a piedi dal centro del paese.",
+      "metadata": {
+        "section_title": "Albergo Alle Alpi — bar e colazione",
+        "links": [
+          {
+            "text": "www.albergoallealpi.com",
+            "url": "https://www.albergoallealpi.com"
+          }
+        ],
+        "addresses": [
+          "Via Roma 38, 33023 Comeglians (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/comeglians__3",
+      "text": "### Albergo Diffuso Comeglians — colazione diffusa tra le frazioni\n\n**Indirizzo:** Frazione Povolaro 36, 33023 Comeglians (UD)  \n**Telefono:** 340 4237026\n\nL'*Albergo Diffuso Comeglians* è un esempio interessante di turismo integrato nel tessuto rurale: le camere sono distribuite in diverse case e frazioni del comune, secondo il modello dell'albergo diffuso tipico del Friuli montano, e la colazione viene servita in modo altrettanto distribuito tra gli spazi a disposizione. Non si tratta di un bar aperto al pubblico generico nel senso stretto del termine, ma per chi soggiorna nella struttura il momento della prima colazione diventa un'occasione per immergersi nella vita autentica delle frazioni di Comeglians, con prodotti locali come formaggi freschi, salumi carnici e marmellate preparate in casa. La struttura è particolarmente apprezzata da chi cerca un turismo lento e un contatto diretto con la comunità locale.",
+      "metadata": {
+        "section_title": "Albergo Diffuso Comeglians — colazione diffusa tra le frazioni",
+        "links": [],
+        "addresses": [
+          "Frazione Povolaro 36, 33023 Comeglians (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

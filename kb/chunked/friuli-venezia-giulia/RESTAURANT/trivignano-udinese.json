@@ -1,0 +1,39 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/trivignano-udinese.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Trivignano Udinese",
+  "province": "UD",
+  "page_title": "Trivignano Udinese",
+  "page_summary": "Guida ai locali di ristorazione presenti a Trivignano Udinese: una pizzeria/fast food da asporto nel capoluogo e un pub a Clauiano con servizio bar e snack.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/trivignano-udinese.md",
+  "processed_at": "2026-04-09T14:03:59.622Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/trivignano-udinese__0",
+      "text": "### Velox Pizza\n\n**Indirizzo:** Via Udine 19, Trivignano Udinese (CAP 33050)  \n**Telefono:** +39 0432 999663  \n**Tipologia:** Fast food / Pizzeria da asporto\n\nL'unico esercizio di ristorazione rapida chiaramente localizzato nel capoluogo comunale è **Velox Pizza**, un locale di fast food che propone pizza e kebab principalmente in formula da asporto. Gestito dalla ditta Toni & Hava sas, il locale serve la comunità locale con un'offerta orientata alla praticità e ai prezzi accessibili. Non si tratta di un ristorante tradizionale né di un locale con valenza gastronomica particolare, ma rappresenta il principale punto di riferimento per un pasto veloce all'interno del territorio comunale.\n\n**Fascia di prezzo:** economica (€)\n",
+      "metadata": {
+        "section_title": "Velox Pizza",
+        "links": [],
+        "addresses": [
+          "Via Udine 19, Trivignano Udinese (CAP 33050)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "economica (€)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/trivignano-udinese__1",
+      "text": "### Harley Pub – Clauiano\n\n**Localizzazione:** Clauiano, frazione di Trivignano Udinese (coordinate OSM: 45.9300, 13.3324)  \n**Tipologia:** Pub / Bar serale\n\nNelle vicinanze della pittoresca frazione di Clauiano si segnala la presenza di un **pub** noto localmente, frequentato principalmente da residenti della zona. Il locale propone un'atmosfera informale con birre alla spina e bibite, e in alcune occasioni può ospitare piccola ristorazione da bar o stuzzichini. La sua posizione nei pressi del borgo medievale lo rende un punto di sosta per chi visita Clauiano nel pomeriggio o in serata. Non dispone di un menu ristorativo strutturato.\n\n**Fascia di prezzo:** economica (€)\n",
+      "metadata": {
+        "section_title": "Harley Pub – Clauiano",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "economica (€)"
+      }
+    }
+  ]
+}

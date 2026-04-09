@@ -1,0 +1,30 @@
+{
+  "comune_name": "Flaibano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/flaibano.md",
+  "extracted_at": "2026-04-09T10:48:05.450Z",
+  "pois": [
+    {
+      "name": "Sala Espositiva \"L'Arteria\"",
+      "address": "Via Indipendenza, Flaibano (UD)",
+      "website_url": "http://www.comune.flaibano.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sala%20Espositiva%20%22L'Arteria%22%2C%20Via%20Indipendenza%2C%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "La sala espositiva \"L'Arteria\" è l'unico spazio permanente dedicato alle mostre nel comune di Flaibano. Ospitata nell'edificio che comprende anche la Biblioteca Civica e il punto informazioni turistiche, accoglie regolarmente mostre temporanee incentrate sul territorio, la cultura friulana e artisti locali. L'offerta spazia dalla fotografia alle arti visive, valorizzando il patrimonio naturale e storico del Friuli centrale. Pur non disponendo di collezioni permanenti, rappresenta un nodo culturale attivo e radicato nella comunità.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/flaibano.md"
+    },
+    {
+      "name": "Biblioteca Civica di Flaibano",
+      "address": "Via Indipendenza 27, Flaibano (UD)",
+      "website_url": "http://www.comune.flaibano.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20di%20Flaibano%2C%20Via%20Indipendenza%2027%2C%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "La Biblioteca Civica di Flaibano rappresenta il principale presidio culturale del comune, pur non essendo un museo in senso stretto. Conserva materiali documentari sulla storia locale e partecipa al sistema bibliotecario provinciale e ad attività culturali del territorio. Si affianca alla sala espositiva \"L'Arteria\" per promuovere la memoria e la consultazione, offrendo un servizio culturale alla comunità e ai visitatori.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/flaibano.md"
+    }
+  ]
+}

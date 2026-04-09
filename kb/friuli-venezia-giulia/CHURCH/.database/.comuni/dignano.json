@@ -1,0 +1,30 @@
+{
+  "comune_name": "Dignano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dignano.md",
+  "extracted_at": "2026-04-09T10:24:14.670Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Sebastiano Martire",
+      "address": "Via Udine, Dignano",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68394",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Sebastiano%20Martire%2C%20Via%20Udine%2C%20Dignano",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Sebastiano Martire fu costruita nel Settecento su progetto di Domenico Schiavi, rappresentando uno degli esempi più raffinati di architettura neoclassica religiosa nel Friuli pedemontano. L'edificio si distingue per il pronao tetrastilo in facciata, un interno a tre navate con decorazioni ad affresco e un pregevole altare laterale con statue settecentesche di santi. La chiesa è stata più volte restaurata, in particolare dopo il terremoto del 1976, e conserva importanti opere d'arte di artisti friulani.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dignano.md"
+    },
+    {
+      "name": "Pieve dei Santi Pietro e Paolo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20dei%20Santi%20Pietro%20e%20Paolo%2C%20Dignano",
+      "image_url": null,
+      "description": "La Pieve dei Santi Pietro e Paolo, situata presso il cimitero, è uno dei più antichi luoghi di culto del Friuli, con origini documentate dall’VIII secolo. L'attuale struttura risale al primissimo Cinquecento e conserva tracce di architettura gotica e affreschi rinascimentali di Giovanni Pietro da Spilimbergo. Impreziosiscono l’interno anche lacerti di pittura gotica e affreschi settecenteschi di Giuseppe Buzzi, rendendo la pieve un importante palinsesto della storia artistica e religiosa locale.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dignano.md"
+    }
+  ]
+}

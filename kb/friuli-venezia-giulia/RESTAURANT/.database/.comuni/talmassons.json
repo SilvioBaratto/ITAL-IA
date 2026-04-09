@@ -1,0 +1,63 @@
+{
+  "comune_name": "Talmassons",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/talmassons.md",
+  "extracted_at": "2026-04-09T11:20:30.962Z",
+  "pois": [
+    {
+      "name": "Agriturismo Pituello",
+      "address": "Talmassons (UD) – Via Sant'Antonio",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Pituello%2C%20Talmassons%20(UD)%20%E2%80%93%20Via%20Sant'Antonio",
+      "image_url": null,
+      "description": "L'Agriturismo Pituello è un cascinale ristrutturato immerso nella campagna friulana e rappresenta un punto di riferimento gastronomico a Talmassons. Offre piatti della tradizione locale preparati con prodotti biologici di produzione propria, come gnocchi fatti a mano, frico e formaggi tipici. L'atmosfera è rustica e familiare, ideale per pranzi di gruppo o cerimonie, e la struttura comprende anche camere e vendita diretta di vini e salumi. Le recensioni lodano in particolare la qualità dei primi piatti e dei dolci artigianali.",
+      "comune_name": "Talmassons",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/talmassons.md"
+    },
+    {
+      "name": "Pizzeria al Platano",
+      "address": "Flumignano, Talmassons (UD) – Via Mangilli, 7",
+      "website_url": "https://www.facebook.com/alplatano.ufficiale",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20al%20Platano%2C%20Flumignano%2C%20Talmassons%20(UD)%20%E2%80%93%20Via%20Mangilli%2C%207",
+      "image_url": null,
+      "description": "Situata nella frazione di Flumignano, la Pizzeria al Platano è un locale polivalente che funge sia da pizzeria sia da bar e ristorante. Offre un'ampia scelta di pizze, kebab e piatti italiani in un ambiente informale e accogliente, con tavoli all'aperto e accessibilità per disabili. È molto frequentata dalla comunità locale per colazioni, cene informali e pizze d'asporto. La popolarità del locale è confermata da migliaia di seguaci sui social.",
+      "comune_name": "Talmassons",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/talmassons.md"
+    },
+    {
+      "name": "New Bomber Sant'Andrat",
+      "address": "Sant'Andrat del Cormor, Talmassons (UD) – Via Cavour, 28",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=New%20Bomber%20Sant'Andrat%2C%20Sant'Andrat%20del%20Cormor%2C%20Talmassons%20(UD)%20%E2%80%93%20Via%20Cavour%2C%2028",
+      "image_url": null,
+      "description": "Il New Bomber è un bar-pub con cucina ubicato nella frazione di Sant'Andrat del Cormor, pensato per serate informali in compagnia. Propone piatti italiani e americani, con un'atmosfera rilassata e la possibilità di sedere all'esterno. La clientela è principalmente giovane e il locale è punto di ritrovo serale per la zona, con orari estesi nei fine settimana.",
+      "comune_name": "Talmassons",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/talmassons.md"
+    },
+    {
+      "name": "Mondelli Stable",
+      "address": "Talmassons (UD) – Via Cormor, 33",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mondelli%20Stable%2C%20Talmassons%20(UD)%20%E2%80%93%20Via%20Cormor%2C%2033",
+      "image_url": null,
+      "description": "Il Mondelli Stable è un locale ristorativo situato lungo Via Cormor, ricavato probabilmente da una ex stalla in stile rurale tipico friulano. Le informazioni disponibili sono limitate, ma rappresenta un punto di riferimento gastronomico per la comunità, immerso in un contesto naturalistico vicino alle risorgive del Cormor.",
+      "comune_name": "Talmassons",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/talmassons.md"
+    },
+    {
+      "name": "Ai Granatieri",
+      "address": "Talmassons (UD) – Strada Statale 252 di Palmanova",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Granatieri%2C%20Talmassons%20(UD)%20%E2%80%93%20Strada%20Statale%20252%20di%20Palmanova",
+      "image_url": null,
+      "description": "Il ristorante Ai Granatieri si trova lungo la principale arteria stradale di Talmassons, la SS 252 di Palmanova. Deve il nome ai reparti d'élite dell'esercito italiano e funge da punto di ristoro sia per la clientela locale sia per chi si trova di passaggio. Le informazioni su menu e orari sono scarse e si consiglia di contattare direttamente il locale per dettagli aggiornati.",
+      "comune_name": "Talmassons",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/talmassons.md"
+    }
+  ]
+}

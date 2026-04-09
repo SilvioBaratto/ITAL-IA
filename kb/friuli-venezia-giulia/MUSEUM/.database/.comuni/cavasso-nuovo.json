@@ -1,0 +1,30 @@
+{
+  "comune_name": "Cavasso Nuovo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavasso-nuovo.md",
+  "extracted_at": "2026-04-09T10:44:34.164Z",
+  "pois": [
+    {
+      "name": "Palazzo dei Conti Polcenigo-Fanna — \"Il Palazat\"",
+      "address": "Piazza del Municipio, 33092 Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20dei%20Conti%20Polcenigo-Fanna%20%E2%80%94%20%22Il%20Palazat%22%2C%20Piazza%20del%20Municipio%2C%2033092%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "Il Palazat è un imponente palazzo signorile eretto tra il 1562 e il 1594 per volere dei Conti Polcenigo-Fanna, caratterizzato da elementi architettonici tra il rinascimentale e il medievale. Restaurato dopo i gravi danni subiti dal sisma del 1976, oggi ospita le sale municipali e parti a uso museale. L'interno conserva pregiati affreschi mitologici settecenteschi e offre una testimonianza storica sulla vita comunitaria di Cavasso Nuovo. L'accesso agli spazi storici è generalmente possibile negli orari di apertura del Comune.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Museo dell'Emigrazione — Sezione di Cavasso Nuovo (Rete Museale \"Diogene Penzi\")",
+      "address": "Palazzo dei Conti Polcenigo-Fanna, Piazza del Municipio, 33092 Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20dell'Emigrazione%20%E2%80%94%20Sezione%20di%20Cavasso%20Nuovo%20(Rete%20Museale%20%22Diogene%20Penzi%22)%2C%20Palazzo%20dei%20Conti%20Polcenigo-Fanna%2C%20Piazza%20del%20Municipio%2C%2033092%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "Questa sezione del Museo dell'Emigrazione fa parte della rete museale \"Diogene Penzi\" e documenta il fenomeno migratorio friulano attraverso un percorso espositivo articolato in dodici sezioni tematiche. La collezione raccoglie oltre mille tra lettere, foto, documenti e oggetti legati all'emigrazione, offrendo testimonianze storiche e sociolinguistiche sulle esperienze dei friulani all'estero. Il museo valorizza la memoria locale e promuove lo studio dei flussi migratori tra Ottocento e Novecento, con ingresso generalmente libero o a contributo volontario.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavasso-nuovo.md"
+    }
+  ]
+}

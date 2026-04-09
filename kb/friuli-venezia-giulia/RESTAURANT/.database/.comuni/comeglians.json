@@ -1,0 +1,63 @@
+{
+  "comune_name": "Comeglians",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/comeglians.md",
+  "extracted_at": "2026-04-09T10:59:32.212Z",
+  "pois": [
+    {
+      "name": "Ristorante Borgo Nomplan",
+      "address": null,
+      "website_url": "https://www.borgonomplan.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Borgo%20Nomplan%2C%20Comeglians",
+      "image_url": null,
+      "description": "Situato all'interno della Dolomiti Village tra i boschi, il Ristorante Borgo Nomplan propone la cucina carnichese in chiave moderna, con ingredienti freschi e locali. È conosciuto per la qualità delle carni e la reinterpretazione creativa dei piatti tradizionali friulani. L'ambiente caldo e montano con vista panoramica e la selezione di vini friulani rendono l'esperienza unica e memorabile.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/comeglians.md"
+    },
+    {
+      "name": "Pizzeria Tomasin",
+      "address": "Via Statale 1, 33023 Comeglians",
+      "website_url": "https://www.pizzeriaintomasin.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Tomasin%2C%20Via%20Statale%201%2C%2033023%20Comeglians",
+      "image_url": null,
+      "description": "La Pizzeria Tomasin è una storica istituzione locale, nota anche come 'Al Boschetto' agli inizi del XIX secolo. Offre pizze al forno a legna e piatti del giorno ispirati alla cucina friulana, il tutto in un ambiente accogliente di stile montano. Gestita dalla famiglia Filaferro dal 2019, è apprezzata per il servizio familiare, i prezzi contenuti e la qualità della pasta fresca.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/comeglians.md"
+    },
+    {
+      "name": "Tal Mieç",
+      "address": "Frazione Tualis, 40, 33023 Comeglians",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tal%20Mie%C3%A7%2C%20Frazione%20Tualis%2C%2040%2C%2033023%20Comeglians",
+      "image_url": null,
+      "description": "Tal Mieç è un'osteria tipica di montagna situata nella frazione di Tualis. Gestita dalla signora Patrizia, offre piatti genuini della tradizione carnichese come polenta, ragù, formaggi e carni preparate secondo ricette tramandate. L'atmosfera è rustica e accogliente, ideale per escursionisti e amanti della cucina casalinga, e dispone anche di camere per il pernottamento.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/comeglians.md"
+    },
+    {
+      "name": "Al Cral",
+      "address": "Frazione Trava, 76, 33029 Trava (parte del territorio comunale di Lauco/Comeglians)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cral%2C%20Frazione%20Trava%2C%2076%2C%2033029%20Trava%20(parte%20del%20territorio%20comunale%20di%20Lauco%2FComeglians)",
+      "image_url": null,
+      "description": "Al Cral è una popolare osteria situata nella zona di Trava, apprezzata per i piatti tipici carnichesi e friulani serviti in un ambiente informale e accogliente. Considerato uno dei migliori indirizzi della Carnia per gustare la cucina locale, si distingue per la convivialità e l'attenzione agli ingredienti del territorio.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/comeglians.md"
+    },
+    {
+      "name": "Albergo Ristorante Alle Alpi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Alle%20Alpi%2C%20Comeglians",
+      "image_url": null,
+      "description": "Albergo Ristorante Alle Alpi unisce ospitalità e cucina all'interno di una storica struttura nel centro di Comeglians. Il ristorante propone specialità carnichesi e friulane, preparate secondo tradizione e adatte agli amanti dei sapori di montagna. La struttura offre anche camere per il pernottamento in una cornice autentica.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/comeglians.md"
+    }
+  ]
+}

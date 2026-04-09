@@ -1,0 +1,228 @@
+{
+  "comune_name": "Latisana",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md",
+  "extracted_at": "2026-04-09T10:17:05.820Z",
+  "pois": [
+    {
+      "name": "Caffetteria Pasticceria Garibaldi",
+      "address": "Piazza Giuseppe Garibaldi, 14 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffetteria%20Pasticceria%20Garibaldi%2C%20Piazza%20Giuseppe%20Garibaldi%2C%2014%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Affacciata sulla piazza principale, la Caffetteria Pasticceria Garibaldi è il cuore pulsante della vita sociale di Latisana, aperta ogni giorno dalle prime ore del mattino fino alla sera. Offre colazioni classiche italiane, aperitivi serali e specialità come pancakes, frullati e pasticceria artigianale. Il dehors estivo è ideale per osservare la vita cittadina e il locale vanta una frequentazione variegata e una buona reputazione online.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Caffè Olimpico",
+      "address": "Piazza Indipendenza, 61 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Olimpico%2C%20Piazza%20Indipendenza%2C%2061%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Il Caffè Olimpico si trova nel cuore di Latisana su Piazza Indipendenza e rappresenta un punto di riferimento per la vita cittadina. Offre colazioni, caffè espresso e aperitivi ed è frequentato soprattutto dalla clientela locale, con un ambiente semplice e accogliente. La posizione centrale lo rende ideale per una pausa durante la spesa o le attività quotidiane in centro.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar Ristorante Il Stusighin",
+      "address": "Piazza Indipendenza, 42 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Il%20Stusighin%2C%20Piazza%20Indipendenza%2C%2042%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Il Stusighin è un bar dall'identità vivace e familiare, situato sulla principale piazza del centro. Offre dalla colazione ai piatti semplici di cucina italiana, con specialità come la coda di rospo. È apprezzato per la vastità di frequenza e l'ambiente confortevole, con posti all’aperto che permettono di prolungare la sosta nelle serate miti.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar Friuli",
+      "address": "Piazza Indipendenza, 20 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Friuli%2C%20Piazza%20Indipendenza%2C%2020%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Bar Friuli svolge la funzione di bar di quartiere, dove ci si ritrova tra latisanesi e il friulano si mescola all’italiano nelle conversazioni. È ideale per un caffè veloce o un’ombra di vino bianco nel pomeriggio, incarnando il tipico locale ibrido tra bar, osteria e ritrovo, comune nella Bassa Friulana.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Osteria Alla Chiacchiera",
+      "address": "Via Codroipo, 18 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alla%20Chiacchiera%2C%20Via%20Codroipo%2C%2018%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "L’Osteria Alla Chiacchiera vanta la valutazione più alta tra i locali del comune. Il nome riflette l’ambiente cordiale e rilassato, adatto a chi vuole fermarsi per colazione e conversare. Tra le specialità spicca la mozzarella fresca, a conferma dell'attenzione alla qualità dei prodotti. La sede è nel quartiere nord di Latisana.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Gambrinus",
+      "address": "Via Vendramin, 35 – Latisana",
+      "website_url": "https://www.facebook.com/gambrinuslatisana",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gambrinus%2C%20Via%20Vendramin%2C%2035%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Gambrinus è un locale storico che nel tempo si è trasformato in un bar versatile, adatto sia alla colazione che all’aperitivo serale. La sua clientela abituale di quartiere lo rende un punto saldo della vita locale. Con una presenza segnalata anche su Facebook, il locale si distingue per la sua tradizione e affezione cittadina.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "GROOVE – Aperitivo e Serata",
+      "address": "Via Sottopovolo, 57 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=GROOVE%20%E2%80%93%20Aperitivo%20e%20Serata%2C%20Via%20Sottopovolo%2C%2057%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "GROOVE è il locale di riferimento per l’aperitivo e la vita notturna a Latisana. È aperto dalle 17:30 fino a notte fonda, proponendo cocktail, spritz e musica in un’atmosfera giovane e piacevole. Si distingue per l’energia serale e la posizione nel quartiere sud del paese.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar Ivano",
+      "address": "Via Tisanella, 105 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ivano%2C%20Via%20Tisanella%2C%20105%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Bar Ivano è un classico bar di prossimità, frequentato dai residenti del quartiere che preferiscono non raggiungere il centro. Offre un ambiente semplice e ricco di storia locale, dove la familiarità tra clienti e gestori è parte integrante dell’esperienza.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "G&G (Bar in Piazza Duomo)",
+      "address": "Piazza Duomo, 6 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=G%26G%20(Bar%20in%20Piazza%20Duomo)%2C%20Piazza%20Duomo%2C%206%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Situato vicino al Duomo di San Giovanni Battista, G&G è un bar classico da centro con doppia vocazione: colazione mattutina e aperitivo serale. È punto di ritrovo per fedeli dopo la messa e per chi frequenta il centro storico.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Locanda Alla Stazione",
+      "address": "Viale Stazione, 42 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Alla%20Stazione%2C%20Viale%20Stazione%2C%2042%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "La Locanda Alla Stazione è un locale storico che serve pendolari e viaggiatori della ferrovia Venezia-Trieste. Offre antipasti, panini e vini in un ambiente vivace con posti all'aperto. È il punto di ritrovo per un caffè o un aperitivo al termine della giornata lavorativa.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Group Garruzzo (Bar Stazione)",
+      "address": "Viale Stazione, 128 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Group%20Garruzzo%20(Bar%20Stazione)%2C%20Viale%20Stazione%2C%20128%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Il bar del Gruppo Garruzzo si trova nei pressi della stazione e serve principalmente lavoratori e pendolari. Apre presto e propone caffè veloci, giornali e snack mattutini, con una struttura probabilmente articolata in più spazi di somministrazione.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar Rossi",
+      "address": "Via Crosere, 31 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Rossi%2C%20Via%20Crosere%2C%2031%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Bar Rossi, a conduzione familiare, serve la frazione di Crosere e rappresenta il centro aggregativo per lavoratori, anziani e famiglie dell’area nordoccidentale del comune. È tipico bar di quartiere, semplice e con funzione sociale.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Al Buon Bicchiere",
+      "address": "Piazza Caduti della Julia, 16 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Buon%20Bicchiere%2C%20Piazza%20Caduti%20della%20Julia%2C%2016%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Al Buon Bicchiere è un locale che unisce le funzioni di bar, pub e ristorante con attenzione alla qualità e accessibilità. Propone colazione, brunch e cucina italiana, rivolgendosi a una clientela giovane e moderna. Situato in una piazza storica, offre una colazione lunga nel weekend.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Hotel Ristorante Bar Centrale",
+      "address": "Piazza Santo Spirito, 10 – Latisana",
+      "website_url": "https://www.paginegialle.it/hotelcentralelatisana",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20Bar%20Centrale%2C%20Piazza%20Santo%20Spirito%2C%2010%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "L'Hotel Centrale dispone di un bar con ampia apertura, integrato nell’offerta alberghiera insieme al ristorante e all’area benessere. La posizione centrale lo rende ideale per colazioni abbondanti o digestivi serali, accessibile anche a chi non soggiorna in hotel.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "King Pub Latisana",
+      "address": "Piazza Garibaldi Giuseppe, 12 – Latisana",
+      "website_url": "https://it-it.facebook.com/pages/category/Fast-Food-Restaurant/King-Pub-Latisana-626574191181529",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=King%20Pub%20Latisana%2C%20Piazza%20Garibaldi%20Giuseppe%2C%2012%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "King Pub è uno dei locali principali per aperitivi e after-dinner in Piazza Garibaldi. Offre birre, cocktail, panini e stuzzichini, attirando una clientela giovane e universitaria. L’atmosfera informale e l’apertura fino a tarda sera animano la piazza nel weekend.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Dixie Pub",
+      "address": "Via Sottopovolo, 36 – Latisana",
+      "website_url": "https://www.facebook.com/Dixie-Pub-Latisana-517862255057999",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dixie%20Pub%2C%20Via%20Sottopovolo%2C%2036%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Dixie Pub è il locale notturno di Latisana, con apertura serale prolungata. Offre pizze, birre, tavoli all’aperto e parcheggio, con una formula da pub-pizzeria in stile americano ma anima italiana. Frequentato da giovani e gruppi di amici che vogliono prolungare la serata.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Birrificio 620 Passi",
+      "address": "Via Lignano Nord, 132 – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birrificio%20620%20Passi%2C%20Via%20Lignano%20Nord%2C%20132%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "Il Birrificio 620 Passi è un birrificio artigianale che produce birre locali nella zona periferica del comune. Dispone di uno spazio di mescita dove degustare i suoi prodotti e rappresenta una delle più recenti realtà brassicole friulane.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Ristorante Bar La Bricola",
+      "address": "Viale Aprilia Marittima, 45 – Località Amasor, Darsena Centrale – Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Bar%20La%20Bricola%2C%20Viale%20Aprilia%20Marittima%2C%2045%20%E2%80%93%20Localit%C3%A0%20Amasor%2C%20Darsena%20Centrale%20%E2%80%93%20Latisana",
+      "image_url": null,
+      "description": "La Bricola si trova nella darsena centrale di Aprilia Marittima, immersa nel porto turistico. Offre servizio bar e ristorante, con colazioni vista motoscafi, aperitivi serali e una clientela mista di diportisti, residenti e turisti. Il nome è un omaggio alla cultura lagunare del Friuli.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar La Piazzetta – Aprilia Marittima",
+      "address": "Piazzetta dell'Imbarcadero, 21 – Aprilia Marittima (Latisana)",
+      "website_url": "https://www.paginegialle.it/bar-la-piazzetta-aprilia-marittima-latisana-ud",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20La%20Piazzetta%20%E2%80%93%20Aprilia%20Marittima%2C%20Piazzetta%20dell'Imbarcadero%2C%2021%20%E2%80%93%20Aprilia%20Marittima%20(Latisana)",
+      "image_url": null,
+      "description": "Bar La Piazzetta è il locale simbolo di Aprilia Marittima, affacciato sulla darsena e ideale per colazione, pranzo e aperitivo. Offre brioche fresche, club sandwich, cocktail, primi piatti e gelati artigianali. La terrazza sulla darsena ne fa un punto di ritrovo piacevole per turisti e residenti.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar da Poianella",
+      "address": "Via Lignano Sabbiadoro, 41 – Pertegada (Latisana)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20da%20Poianella%2C%20Via%20Lignano%20Sabbiadoro%2C%2041%20%E2%80%93%20Pertegada%20(Latisana)",
+      "image_url": null,
+      "description": "Bar da Poianella, a gestione familiare, è il tipico punto di sosta per chi va verso il mare o lavora nella zona. È apprezzato per la qualità e continuità del servizio, frequentato da camionisti, lavoratori e famiglie di Pertegada.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/latisana.md"
+    }
+  ]
+}

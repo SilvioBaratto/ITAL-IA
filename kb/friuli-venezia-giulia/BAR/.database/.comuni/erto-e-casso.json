@@ -1,0 +1,41 @@
+{
+  "comune_name": "Erto e Casso",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/erto-e-casso.md",
+  "extracted_at": "2026-04-09T10:13:07.427Z",
+  "pois": [
+    {
+      "name": "Ristorante Caffè Stella",
+      "address": "Via IX Ottobre, 1963/13 — Erto (33080)",
+      "website_url": "http://ristorantepizzeriastella.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Caff%C3%A8%20Stella%2C%20Via%20IX%20Ottobre%2C%201963%2F13%20%E2%80%94%20Erto%20(33080)",
+      "image_url": null,
+      "description": "Il Caffè Stella è il locale più longevo e rappresentativo di Erto e Casso, in attività dal 1936 e situato nel cuore del paese. Funziona sia come trattoria-pizzeria che come bar, offrendo colazioni, caffè, aperitivi con vista sulle Dolomiti e dolci fatti in casa. L'ambiente familiare e ricco di storia accoglie tanto abitanti quanto turisti, con una cucina genuina dove la distinzione tra pubblico e privato si confonde grazie alla filosofia accogliente dei gestori.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Bar Trattoria Julia",
+      "address": "Via IX Ottobre, 32 — Erto (33080)",
+      "website_url": "https://www.facebook.com/trattoriaJulia",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Julia%2C%20Via%20IX%20Ottobre%2C%2032%20%E2%80%94%20Erto%20(33080)",
+      "image_url": null,
+      "description": "La Trattoria Julia è un bar-trattoria di paese, punto di ritrovo fondamentale per la comunità di Erto e Casso. Aperto dal mattino per colazioni semplici e conviviali, offre piatti friulani e italiani, con attenzione a esigenze alimentari particolari e possibilità di tavoli all'aperto. Il locale è accessibile e viene apprezzato per l'atmosfera familiare, rappresentando una meta abituale per abitanti, lavoratori e turisti in ogni stagione.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Bar K2",
+      "address": "Via Camillo Benso Conte di Cavour 85 — Erto e Casso (33080)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20K2%2C%20Via%20Camillo%20Benso%20Conte%20di%20Cavour%2085%20%E2%80%94%20Erto%20e%20Casso%20(33080)",
+      "image_url": null,
+      "description": "Il Bar K2 è un piccolo bar e caffè situato a Erto e Casso, punto di riferimento per la vita sociale del paese. Esempio di locale montano, offre uno spazio essenziale di incontro per la comunità, in un contesto dove ogni esercizio pubblico è prezioso. Pur avendo poche informazioni disponibili online, il Bar K2 continua a svolgere una funzione importante nel tessuto quotidiano di questo piccolo centro dolomitico.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/erto-e-casso.md"
+    }
+  ]
+}

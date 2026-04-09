@@ -1,0 +1,52 @@
+{
+  "comune_name": "Capriva del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/capriva-del-friuli.md",
+  "extracted_at": "2026-04-09T10:37:08.798Z",
+  "pois": [
+    {
+      "name": "Castello di Spessa",
+      "address": null,
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Spessa%2C%20Capriva%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Castello di Spessa è il principale monumento di Capriva del Friuli, caratterizzato da origini romane e da una struttura medievale risalente al XIII secolo. La residenza, ristrutturata in stile eclettico a fine Ottocento dall'architetto Ruggero Berlam, vanta ambienti storici, un giardino con un pozzo medievale, una fontana in pietra e un bunker sotterraneo della Seconda Guerra Mondiale. Nel corso dei secoli ha ospitato figure illustri come Giacomo Casanova e Lorenzo Da Ponte, e oggi è un elegante resort agrituristico con azienda vitivinicola e campo da golf. L'insieme architettonico e il paesaggio circostante offrono una testimonianza significativa della storia e dell'arte del Collio goriziano.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale del Santissimo Nome di Maria",
+      "address": "Via Buonarroti, Capriva del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20del%20Santissimo%20Nome%20di%20Maria%2C%20Via%20Buonarroti%2C%20Capriva%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa parrocchiale del Santissimo Nome di Maria è il principale luogo di culto di Capriva del Friuli, costruita tra il 1871 e il 1882 su progetto di Ruggero Berlam. L'edificio attuale rappresenta un notevole esempio di architettura religiosa eclettica nella zona, ma la sua storia risale a tempi longobardi. All'interno si trovano pregiati altari barocchi e una fonte battesimale del XVI secolo, retaggi degli antichi luoghi di culto presenti sul sito. La chiesa occupa una posizione centrale nel borgo e appartiene al decanato di Cormons dell'Arcidiocesi di Gorizia.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Capriva%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa della Santissima Trinità, risalente al XVIII secolo, è il secondo edificio sacro di rilievo a Capriva del Friuli. Pur di dimensioni più contenute rispetto alla parrocchiale, presenta un raffinato altare settecentesco, rappresentativo dello stile barocco friulano dell'epoca. È una testimonianza autentica della devozione popolare e della tradizione liturgica del territorio.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Il Paesaggio Viticolo del Collio come Patrimonio Storico-Culturale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Paesaggio%20Viticolo%20del%20Collio%20come%20Patrimonio%20Storico-Culturale%2C%20Capriva%20del%20Friuli",
+      "image_url": null,
+      "description": "Il paesaggio viticolo del Collio attorno a Capriva del Friuli è un patrimonio storico e culturale di eccezionale valore, modellato da secoli di tradizione vinicola. Le colline, caratterizzate dalla tipica 'ponca' e punteggiate da filari ordinati, rappresentano un monumento vivo della storia rurale locale. Fra queste vigne si trova anche la storica Villa Russiz, simbolo di eccellenza enologica e di impegno sociale, contribuendo alla forte identità del paesaggio agricolo caprivese.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/capriva-del-friuli.md"
+    }
+  ]
+}

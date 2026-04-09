@@ -1,0 +1,63 @@
+{
+  "comune_name": "Cimolais",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cimolais.md",
+  "extracted_at": "2026-04-09T10:58:23.194Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Triestin",
+      "address": "Via Vittorio Emanuele II, 30 - 33080 Cimolais (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Triestin%2C%20Via%20Vittorio%20Emanuele%20II%2C%2030%20-%2033080%20Cimolais%20(PN)",
+      "image_url": null,
+      "description": "Questa trattoria di paese rappresenta l'essenza della cucina friulana montana, proponendo ogni giorno piatti diversi basati su ingredienti stagionali senza menu scritto. Tra le specialità figurano tagliatelle fatte a mano, polenta in più consistenze, gnocchi di ricotta, frico croccante e porchetta affettata fresca. L'atmosfera familiare e la gestione calorosa del titolare e della moglie creano un ambiente accogliente, mentre i prezzi sono contenuti e le porzioni particolarmente generose. È una tappa essenziale per assaporare la cucina di montagna autentica e genuina.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cimolais.md"
+    },
+    {
+      "name": "Agriturismo Passo Sant'Osvaldo",
+      "address": "Località Passo Sant'Osvaldo, SR251, 43 - 33080 Cimolais (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Passo%20Sant'Osvaldo%2C%20Localit%C3%A0%20Passo%20Sant'Osvaldo%2C%20SR251%2C%2043%20-%2033080%20Cimolais%20(PN)",
+      "image_url": null,
+      "description": "Situato lungo la strada tra Erto, Casso e Cimolais, questo agriturismo è una meta ideale per escursionisti e turisti in cerca di cucina montana genuina. La struttura produce molti ingredienti internamente e propone piatti abbondanti come gnocchi di ricotta con burro fuso e ricotta affumicata, canederli e un frico molto curato, oltre a tagliatelle fresche con ragù di selvaggina. L'area è dotata di spazi interni ed esterni con vista sulle montagne, e offre un eccellente rapporto qualità-prezzo. È presente anche una piccola bottega di prodotti tipici.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cimolais.md"
+    },
+    {
+      "name": "Osteria di Mezzo",
+      "address": "Località Pian Pinedo, 3 - 33080 Cimolais (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20di%20Mezzo%2C%20Localit%C3%A0%20Pian%20Pinedo%2C%203%20-%2033080%20Cimolais%20(PN)",
+      "image_url": null,
+      "description": "Questa osteria rustica, nota anche come Osteria Pian Pinedo, si distingue per la cucina friulana tradizionale con qualche tocco contemporaneo, focalizzata su gnocchi, ravioli tipici come i cjarsòns e ragù di cacciagione. L'ambiente semplice ma curato offre un'atmosfera da vera taverna di montagna, attenta alla selezione di vini regionali e grappe locali. Le porzioni generose, la qualità delle materie prime e i prezzi contenuti la rendono una scelta molto apprezzata.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cimolais.md"
+    },
+    {
+      "name": "Albergo Ristorante Margherita",
+      "address": "Via Roma, 7 - 33080 Cimolais (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Margherita%2C%20Via%20Roma%2C%207%20-%2033080%20Cimolais%20(PN)",
+      "image_url": null,
+      "description": "Fondato nel 1969 e gestito dalla famiglia Protti, questo albergo-ristorante è un punto di riferimento storico della ristorazione a Cimolais. La cucina affonda le radici nella tradizione friulana, offrendo piatti semplici ma raffinati in un contesto accogliente e tipicamente alpino. Ideale per chi desidera unire pernottamento e buona tavola in un ambiente di montagna genuino, gode di una solida reputazione per autenticità e dedizione culinaria.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cimolais.md"
+    },
+    {
+      "name": "Osteria Val Montanaia",
+      "address": "Zona Industriale Pinedo, 3 - 33080 Cimolais (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Val%20Montanaia%2C%20Zona%20Industriale%20Pinedo%2C%203%20-%2033080%20Cimolais%20(PN)",
+      "image_url": null,
+      "description": "Questa osteria offre una proposta di cucina friulana tradizionale nel territorio di Cimolais, situata nella zona di Pian Pinedo. Le informazioni dettagliate sul menù e sulle specialità sono limitate, ma resta un punto di riferimento locale per gustare la gastronomia tipica di montagna. Si consiglia di contattare direttamente la struttura per aggiornamenti su orari e disponibilità.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cimolais.md"
+    }
+  ]
+}

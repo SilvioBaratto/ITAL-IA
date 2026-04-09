@@ -1,0 +1,46 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/bordano.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Bordano",
+  "province": "UD",
+  "page_title": "Bordano",
+  "page_summary": "Guida ai principali bar del comune di Bordano: il bar del paese radicato nella vita sociale e l'area ristoro stagionale della Butterfly Arc, punto di riferimento per visitatori e residenti.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/bordano.md",
+  "processed_at": "2026-04-09T11:58:34.951Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/bordano__0",
+      "text": "### Bar Fabbro\n\n**Via Cartine, Bordano (UD) — CAP 33010**\n\nIl Bar Fabbro è il punto di riferimento per la socialità quotidiana del capoluogo comunale. Situato in Via Cartine, è il classico bar di paese del Friuli montano: un locale multifunzione che copre le ore del mattino con colazione e caffè, la pausa di metà mattina dei lavoratori locali, e il dopocena dei residenti. L'insegna porta il cognome di una famiglia del luogo, come spesso accade negli esercizi più radicati dei borghi prealpini, dove il bar è quasi un'estensione dell'abitazione privata e la gestione si tramanda con continuità generazionale.\n\nNon si tratta di un locale che cerca visibilità turistica: il bancone è quello su cui si appoggiano le borse della spesa, dove si parla del tempo, dei cantieri e delle sagre del circondario. Il caffè è quello della tradizione friulana — corto, caldo, servito senza cerimoniali. Chi arriva da fuori per visitare la Butterfly Arc o percorrere i sentieri verso il Monte San Simeone trova nel Bar Fabbro un luogo autentico in cui fermarsi prima o dopo l'escursione, lontano dai circuiti del turismo organizzato.\n",
+      "metadata": {
+        "section_title": "Bar Fabbro",
+        "links": [],
+        "addresses": [
+          "Via Cartine, Bordano (UD) — CAP 33010"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/bordano__1",
+      "text": "### Area Ristoro — Butterfly Arc (ex Casa delle Farfalle)\n\n**Via Schiavons, Bordano (UD) — CAP 33010**\n**Sito web:** [www.butterflyarc.it](https://www.butterflyarc.it)\n\nStrettamente parlando non è un bar autonomo, ma l'area ristoro della Butterfly Arc — la struttura che ha sostituito e ampliato la storica Casa delle Farfalle di Bordano — merita menzione in questo contesto, perché rappresenta l'unico punto in cui caffè, bevande fredde, gelati e snack vengono serviti a un pubblico ampio e variegato all'interno del territorio comunale. Durante la stagione di apertura (primavera-estate), il flusso di visitatori che giunge da tutta la regione e dalle province limitrofe trasforma questa area ristoro nel luogo più frequentato del comune per una sosta con qualcosa di caldo o fresco in mano.\n\nIl servizio è pensato per i visitatori del parco: caffè al banco, bevande in lattina o bottiglia, gelati confezionati e snack da asporto. Non è un'esperienza gastronomica memorabile, ma nel contesto di un comune di settecento anime è un presidio importante, soprattutto nei fine settimana di punta quando le famiglie arrivano numerose per la visita alla grande serra tropicale con le sue farfalle esotiche. La struttura dispone anche di aree pic nic attrezzate, sia all'aperto sia coperte, dove è possibile consumare pranzi al sacco o merende portate da casa.\n",
+      "metadata": {
+        "section_title": "Area Ristoro — Butterfly Arc (ex Casa delle Farfalle)",
+        "links": [
+          {
+            "text": "www.butterflyarc.it",
+            "url": "https://www.butterflyarc.it"
+          }
+        ],
+        "addresses": [
+          "Via Schiavons, Bordano (UD) — CAP 33010"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

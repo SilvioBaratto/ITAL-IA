@@ -1,0 +1,41 @@
+{
+  "comune_name": "Bordano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bordano.md",
+  "extracted_at": "2026-04-09T10:19:52.015Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Sant'Antonio Abate — Bordano capoluogo",
+      "address": "Via Roma 26, 33010 Bordano (UD)",
+      "website_url": "https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-pedemontana-1673/cp-di-osoppo-1718/bordano-252/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Sant'Antonio%20Abate%20%E2%80%94%20Bordano%20capoluogo%2C%20Via%20Roma%2026%2C%2033010%20Bordano%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Bordano, dedicata a Sant'Antonio Abate, è stata ricostruita negli anni Ottanta dopo le devastazioni del sisma del 1976 che aveva lasciato solo il campanile originario. L'edificio attuale presenta un'architettura moderna e funzionale, rispettosa dei principi liturgici del Concilio Vaticano II, e ospita alcune opere donate dalla comunità. Il luogo è al centro della vita spirituale locale, con una storia che affonda le radici nell'epoca medievale. La distinzione tra la denominazione ufficiale parrocchiale e il patrono titolare riflette la complessità delle tradizioni religiose del borgo.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bordano.md"
+    },
+    {
+      "name": "Chiesa di San Martino — Interneppo (frazione di Bordano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20%E2%80%94%20Interneppo%20(frazione%20di%20Bordano)%2C%20Bordano",
+      "image_url": null,
+      "description": "La chiesa di San Martino si trova nella frazione di Interneppo ed è dedicata a San Martino di Tours, patrono locale. Completamente ricostruita dopo il terremoto del 1976 su progetto dell'architetto Pevere, è stata inaugurata nel 1990. A fianco della nuova chiesa svetta il campanile ottocentesco in tufo, unica testimonianza dell’edificio sacro precedente, restaurato dopo il sisma. La chiesa è punto di riferimento per la vita religiosa e sociale della comunità, che vi celebra ogni anno la festa di San Martino.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bordano.md"
+    },
+    {
+      "name": "Cappella di San Simeone — Monte San Simeone (a quota ca. 1.215 m s.l.m.)",
+      "address": null,
+      "website_url": "https://www.prolocobordano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Simeone%20%E2%80%94%20Monte%20San%20Simeone%20(a%20quota%20ca.%201.215%20m%20s.l.m.)%2C%20Bordano",
+      "image_url": null,
+      "description": "Situata sul pianoro del Monte San Simeone a circa 1.215 metri di quota, la cappella di San Simeone è il luogo di culto più antico di Bordano e una delle strutture religiose d'altura più significative della Carnia friulana. Edificata nel Medioevo, ha mantenuto la sua semplicità rurale nonostante restauri successivi, ed è immersa in uno scenario naturalistico di grande bellezza. Ogni anno vi si celebra la Sagra di San Simeone, che richiama fedeli e appassionati della montagna per la messa e festeggiamenti comunitari, sottolineando il valore simbolico e identitario della cappella per la zona.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bordano.md"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "comune_name": "Villa Santina",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villa-santina.md",
+  "extracted_at": "2026-04-09T11:24:30.950Z",
+  "pois": [
+    {
+      "name": "Ristorante Al Fogolar",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Fogolar%2C%20Villa%20Santina",
+      "image_url": null,
+      "description": "Il Ristorante Al Fogolar è situato nella parte alta del borgo di Villa Santina e offre cucina tradizionale carnica in un ambiente rustico e familiare. Sono proposti grandi classici montani come i cjarsòns fatti in casa, il frico croccante e quello morbido con patate, oltre a polenta, funghi locali e formaggi d'alpeggio. Il locale dispone di posti all'aperto durante la bella stagione ed è rinomato per la sua autenticità e accoglienza.",
+      "comune_name": "Villa Santina",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villa-santina.md"
+    },
+    {
+      "name": "Vecchia Osteria Cimenti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vecchia%20Osteria%20Cimenti%2C%20Villa%20Santina",
+      "image_url": null,
+      "description": "La Vecchia Osteria Cimenti è un punto di riferimento storico per la cucina locale, con una gestione familiare che valorizza ingredienti stagionali e ricette di montagna. Frequentata dai residenti, propone zuppe, salumi tipici, pasta fresca e formaggi in un contesto conviviale e autentico di osteria di paese.",
+      "comune_name": "Villa Santina",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villa-santina.md"
+    },
+    {
+      "name": "Alla Pineta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Pineta%2C%20Villa%20Santina",
+      "image_url": null,
+      "description": "Alla Pineta si trova ai margini di Villa Santina, immerso nel verde delle pinete tipiche della zona. È apprezzato per la cucina semplice e abbondante, che propone sia grigliate di carne sia piatti classici della tradizione carnica come polenta con selvaggina e funghi. L'atmosfera tranquilla e la posizione nel verde lo rendono ideale per chi desidera rilassarsi dopo le escursioni.",
+      "comune_name": "Villa Santina",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villa-santina.md"
+    },
+    {
+      "name": "Albergo Ristorante Alla Frasca Verde",
+      "address": "Villa Santina, UD 33029",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Alla%20Frasca%20Verde%2C%20Villa%20Santina%2C%20UD%2033029",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Alla Frasca Verde unisce l'accoglienza di una struttura ricettiva di montagna con la cucina tradizionale carnica, servendo piatti tipici come cjarsòns, frico e zuppe d'orzo. L'ambiente è semplice e familiare, ideale per escursionisti e visitatori che vogliono scoprire la cucina autentica della Carnia. La struttura dispone anche di sei camere ed è uno dei locali storici del paese.",
+      "comune_name": "Villa Santina",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villa-santina.md"
+    },
+    {
+      "name": "Osteria Alpi Gortane",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alpi%20Gortane%2C%20Villa%20Santina",
+      "image_url": null,
+      "description": "L'Osteria Alpi Gortane si distingue per il suo marcato carattere montanaro e una cucina legata alla tradizione dei masi d'alpeggio. Il locale propone piatti rustici come la minestra di fagioli con cotiche, polenta e luganega, trota di torrente e salumi artigianali. Frequentata soprattutto da residenti e amanti della montagna, racconta l'identità culinaria della Carnia attraverso i suoi sapori autentici.",
+      "comune_name": "Villa Santina",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villa-santina.md"
+    }
+  ]
+}

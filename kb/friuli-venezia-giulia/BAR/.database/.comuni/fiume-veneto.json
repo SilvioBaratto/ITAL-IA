@@ -1,0 +1,118 @@
+{
+  "comune_name": "Fiume Veneto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md",
+  "extracted_at": "2026-04-09T10:13:37.054Z",
+  "pois": [
+    {
+      "name": "Finalmente Snack Bar Tabaccheria — Cimpello",
+      "address": "Piazza San Tommaso, 23/B – 33080 Cimpello (frazione di Fiume Veneto)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Finalmente%20Snack%20Bar%20Tabaccheria%20%E2%80%94%20Cimpello%2C%20Piazza%20San%20Tommaso%2C%2023%2FB%20%E2%80%93%2033080%20Cimpello%20(frazione%20di%20Fiume%20Veneto)",
+      "image_url": null,
+      "description": "Questo bar multifunzionale, nel cuore della frazione di Cimpello, funge da punto di aggregazione locale offrendo servizio di bar, tabaccheria, edicola e ricevitoria. È molto apprezzato per la colazione con ampia scelta di brioche e caffè di qualità, oltre a un animato buffet aperitivo serale. Locale accogliente e gestito con cordialità, è anche punto di riferimento per le scommesse sportive e le dirette delle partite.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Moca Caffè Food Cocktail",
+      "address": "Viale Repubblica, 94 – 33080 Fiume Veneto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Moca%20Caff%C3%A8%20Food%20Cocktail%2C%20Viale%20Repubblica%2C%2094%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Locale versatile situato su uno degli assi commerciali principali, aperto dalla colazione fino a notte inoltrata. Propone servizi di bar, colazioni, cocktail e aperitivi in un'atmosfera conviviale, completando l'offerta con cucina italiana per pranzo e cena. Adatto a chi cerca un punto di ritrovo a qualsiasi ora, offre un ambiente dinamico e accogliente.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Ristorante San Marco — Bar e Colazioni",
+      "address": "Via Pontebbana, 38 – 33080 Fiume Veneto (PN)",
+      "website_url": "https://www.ristorantesanmarcopn.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20San%20Marco%20%E2%80%94%20Bar%20e%20Colazioni%2C%20Via%20Pontebbana%2C%2038%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Storico locale lungo la via principale del comune, con doppia identità di ristorante e bar. Famoso per le aperture anticipate, soprattutto per colazioni mattutine e servizio bar, si distingue anche per l'atmosfera rilassata del fine settimana e il servizio serale. Offre cucina tradizionale di pesce e carne e un comodo servizio da asporto.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Bar El Sueno — Sulla Pontebbana e a Cimpello",
+      "address": "Via Pontebbana, 1 – 33080 Fiume Veneto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20El%20Sueno%20%E2%80%94%20Sulla%20Pontebbana%20e%20a%20Cimpello%2C%20Via%20Pontebbana%2C%201%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Bar con più sedi sul territorio comunale, una delle quali affianca una stazione di servizio. Offre servizio di bar tipicamente frequentato da viaggiatori, camionisti e residenti, mettendo a disposizione tavoli all’aperto e spazi accessibili. È un locale semplice, funzionale, adatto a soste rapide e spuntini senza pretese.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Bar Sport — Via Molino",
+      "address": "Via Molino, 1 – 33080 Fiume Veneto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Sport%20%E2%80%94%20Via%20Molino%2C%20Via%20Molino%2C%201%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Classico bar di quartiere, a gestione familiare e multiculturale, offre un ambiente accogliente e informale con una varia proposta di servizi: scommesse, totocalcio e ricariche. È apprezzato dai clienti abituali per la sua semplicità, la tranquillità e l’affidabilità della gestione, ideale per una pausa rilassata o una merenda.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Pashà Snack Bar — Due Sedi in Comune",
+      "address": "Via Battini, 2 – 33080 Fiume Veneto (PN)",
+      "website_url": "https://pashagroup.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pash%C3%A0%20Snack%20Bar%20%E2%80%94%20Due%20Sedi%20in%20Comune%2C%20Via%20Battini%2C%202%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Bar aperto 24 ore al giorno, 7 giorni su 7, con due sedi in città. Ideale per chi lavora su turni o necessita di uno snack a orari inconsueti, offre una gamma di panini, stuzzichini, caffè e bibite in un formato rapido e pratico. È il punto di riferimento per chi cerca un locale sempre disponibile e accessibile.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Birreria Mondial",
+      "address": "Via Piave, 6 – 33080 Fiume Veneto (PN)",
+      "website_url": "https://www.facebook.com/birreriamondial",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birreria%20Mondial%2C%20Via%20Piave%2C%206%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Ritrovo di riferimento per gli appassionati di birra con vasta scelta di birre artigianali alla spina e in bottiglia. Dispone di tavoli all'aperto per la bella stagione e interni accoglienti; è molto apprezzato per la professionalità del personale e la qualità dell’offerta. Prezzi nella media alta, ambiente informale e vivace.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Caffelatte",
+      "address": "Via Pontebbana, 25/I – 33080 Fiume Veneto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffelatte%2C%20Via%20Pontebbana%2C%2025%2FI%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Bar dall’atmosfera familiare e rilassata, dedicato soprattutto alla colazione e alle pause quotidiane. Offre anche cucina italiana e pranzi leggeri, con la particolarità di una gestione attenta e disponibile anche tramite WhatsApp. Ideale per chi cerca un contesto informale, tra bar e pub.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Bar dell'EX-L Hotel",
+      "address": "Piazza Guglielmo Marconi, 34 – 33080 Fiume Veneto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20dell'EX-L%20Hotel%2C%20Piazza%20Guglielmo%20Marconi%2C%2034%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Bar interno a un hotel in posizione centrale con servizio colazioni, aperitivi e colazione a buffet principalmente per ospiti ma accessibile anche esternamente. Ambiente business e funzionale, particolarmente frequentato da chi si trova in città per lavoro o fiere.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Bar presso L'Ultimo Mulino",
+      "address": "Via Molino, 45 – 33080 Fiume Veneto (PN)",
+      "website_url": "https://www.lultimomulino.info",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20presso%20L'Ultimo%20Mulino%2C%20Via%20Molino%2C%2045%20%E2%80%93%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Bar interno a una struttura alberghiera di charme immersa nella campagna locale, rivolto sia agli ospiti dell’hotel che ai clienti del ristorante. Offre un contesto raffinato e tranquillo, adatto per un aperitivo con vista sulla natura, rappresentando un’alternativa più elegante ai bar del paese.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fiume-veneto.md"
+    }
+  ]
+}

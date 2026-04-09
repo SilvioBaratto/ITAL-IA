@@ -1,0 +1,30 @@
+{
+  "comune_name": "Grimacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grimacco.md",
+  "extracted_at": "2026-04-09T11:04:26.920Z",
+  "pois": [
+    {
+      "name": "Trattoria alla Cascata",
+      "address": "Frazione Clodig, 28, 33040 Grimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Cascata%2C%20Frazione%20Clodig%2C%2028%2C%2033040%20Grimacco%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria alla Cascata è un ristorante storico a gestione familiare attivo da quasi cinquant’anni, situato accanto a una suggestiva cascata naturale. Offre cucina tipica della Carnia e delle Valli del Natisone, con specialità stagionali come funghi, selvaggina, gnocchi di susine e pasta al forno di castagne, servite in generose porzioni. L'atmosfera è rustica e accogliente, valorizzata da un grande camino e dalla posizione immersa nella natura. Il menu è disponibile solo sabato e domenica, con prenotazione anticipata obbligatoria.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grimacco.md"
+    },
+    {
+      "name": "Trattoria alla Posta",
+      "address": "Frazione Clodig, 22, 33040 Grimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Posta%2C%20Frazione%20Clodig%2C%2022%2C%2033040%20Grimacco%20(UD)",
+      "image_url": null,
+      "description": "Gestita dalla signora Maria, la Trattoria alla Posta è apprezzata per la sua cucina casalinga di alta qualità, fedele alle tradizioni delle Valli del Natisone. Tra i piatti distintivi spiccano crespelle ai funghi, gnocchi fatti in casa e antipasti genuini, preparati con ingredienti locali e di stagione. Nota per l’atmosfera autentica e accogliente, la trattoria ha ricevuto ottime valutazioni da clienti e fa parte della rete \"Invito a Pranzo\". È consigliata la prenotazione, soprattutto nei periodi di maggiore affluenza.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grimacco.md"
+    }
+  ]
+}

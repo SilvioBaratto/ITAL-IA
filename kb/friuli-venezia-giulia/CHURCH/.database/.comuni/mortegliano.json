@@ -1,0 +1,74 @@
+{
+  "comune_name": "Mortegliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md",
+  "extracted_at": "2026-04-09T10:31:08.257Z",
+  "pois": [
+    {
+      "name": "Duomo Arcipretale dei Santi Pietro e Paolo",
+      "address": "Piazza San Paolo",
+      "website_url": "http://www.comune.mortegliano.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20Arcipretale%20dei%20Santi%20Pietro%20e%20Paolo%2C%20Piazza%20San%20Paolo",
+      "image_url": null,
+      "description": "Il duomo di Mortegliano è un'imponente chiesa neogotica ed eclettica costruita tra il 1864 e il 1954, sita nel cuore storico del paese. Si distingue per la pianta ottagonale ineguale e per le ricche decorazioni interne, tra cui la celebre Pala di Giovanni Martini, il più grande altare ligneo del Friuli. Il duomo ospita inoltre notevoli opere d'arte, fonti battesimali, altari marmorei e vetrate istoriate. È il fulcro spirituale di Mortegliano e affiancato dal campanile più alto d'Italia.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Campanile del Duomo dei Santi Pietro e Paolo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Campanile%20del%20Duomo%20dei%20Santi%20Pietro%20e%20Paolo%2C%20Mortegliano",
+      "image_url": null,
+      "description": "Il campanile del duomo, costruito tra il 1955 e il 1959 su progetto di Pietro Zanini, è il campanile più alto d'Italia con i suoi 113,20 metri. Opera di rilievo dell'architettura sacra del Novecento, si caratterizza per la struttura in calcestruzzo a vista e pianta ottagonale, armonizzandosi con il duomo adiacente. Simbolo della comunità morteglianese, è sormontato da una statua dorata della Madonna visibile da lontano nella pianura friulana.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Mortegliano",
+      "image_url": null,
+      "description": "Edificata nel XVII secolo in piazza Verdi, la chiesa della Santissima Trinità rappresentò per secoli il principale luogo di culto di Mortegliano fino alla costruzione del duomo. L'edificio in stile barocco friulano ha ospitato importanti opere e arredi sacri, oggi in gran parte trasferiti al duomo. Rimane attiva come luogo di culto sussidiario della parrocchia.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Cappella / Oratorio di San Nicolò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20%2F%20Oratorio%20di%20San%20Nicol%C3%B2%2C%20Mortegliano",
+      "image_url": null,
+      "description": "L'oratorio di San Nicolò, attestato nelle fonti storiche e legato ai primi nuclei longobardi di Mortegliano, era un piccolo edificio di culto medievale dedicato a san Nicola di Bari. Della struttura originaria non restano testimonianze significative, ma l’area mantiene un valore storico-topografico per la sua antica funzione ecclesiastica e la stratificazione insediativa del territorio.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Paolo Apostolo – Lavariano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Paolo%20Apostolo%20%E2%80%93%20Lavariano%2C%20Mortegliano",
+      "image_url": null,
+      "description": "Situata nella frazione di Lavariano, questa chiesa parrocchiale è dedicata a San Paolo Apostolo e fu costruita nel XVIII secolo sul sito di un precedente edificio medievale. Ampliata nel 1914 con presbiterio e sagrestia, presenta uno stile barocco friulano sobrio. Rappresenta un importante punto di riferimento religioso e sociale per la comunità di Lavariano.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Chiese e luoghi di culto nella frazione di Chiasiellis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiese%20e%20luoghi%20di%20culto%20nella%20frazione%20di%20Chiasiellis%2C%20Mortegliano",
+      "image_url": null,
+      "description": "Chiasiellis, frazione occidentale di Mortegliano, dispone di un oratorio o cappella che tradizionalmente funge da riferimento spirituale locale. Le informazioni su architettura e opere d’arte sono limitate e non si segnalano elementi di particolare rilievo storico-artistico. L’edificio svolge un ruolo sussidiario nell’ambito della parrocchia arcipretale di Mortegliano.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mortegliano.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Gonars",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gonars.md",
+  "extracted_at": "2026-04-09T10:27:26.646Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Canciano Martire — Gonars (capoluogo)",
+      "address": "Piazza della Chiesa, Gonars",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68465/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Canciano%20Martire%20%E2%80%94%20Gonars%20(capoluogo)%2C%20Piazza%20della%20Chiesa%2C%20Gonars",
+      "image_url": null,
+      "description": "La chiesa di San Canciano Martire è la parrocchiale del capoluogo di Gonars e vanta origini antichissime, con la prima testimonianza risalente al 1031. L'attuale edificio, progettato da Giacomo Della Mea e costruito tra il 1963 e il 1972, presenta una caratteristica pianta circolare e una copertura a nido d'ape. L'opera rappresenta un esempio di architettura religiosa contemporanea friulana, con elementi interni suddivisi su due livelli e una preziosa pietra confinaria settecentesca conservata nel cortile della canonica.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gonars.md"
+    },
+    {
+      "name": "Chiesa di San Giorgio Martire — Fauglis",
+      "address": "Via IV Novembre, Fauglis",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68466/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%20Martire%20%E2%80%94%20Fauglis%2C%20Via%20IV%20Novembre%2C%20Fauglis",
+      "image_url": null,
+      "description": "La chiesa di San Giorgio Martire è la parrocchiale della frazione di Fauglis e fu costruita tra il 1854 e il 1868 su progetto dell'architetto Andrea Scala. L'edificio costituisce un sobrio esempio di neoclassicismo ecclesiastico rurale ottocentesco e si distingue per la sua facciata ordinata e il campanile aggiunto agli inizi del Novecento. Ha mantenuto intatto il suo impianto storico, rappresentando l'edilizia sacra tipica delle comunità agricole della Bassa Friulana.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gonars.md"
+    },
+    {
+      "name": "Chiesa di San Michele Arcangelo — Ontagnano",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68467/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Ontagnano%2C%20Gonars",
+      "image_url": null,
+      "description": "La chiesa di San Michele Arcangelo è la parrocchiale della frazione di Ontagnano e fu più volte ricostruita nel corso dei secoli, fino all'attuale edificio sorto tra il 1954 e il 1955 per opera dell'architetto Celso del Frate. Presenta elementi di stile neoclassico e barocco reinterpretati secondo la sensibilità del dopoguerra, offrendo una struttura solida e adatta alla comunità rurale. È anche memoria della storia religiosa locale, in passato affiancata da una sinagoga oggi non più esistente.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gonars.md"
+    }
+  ]
+}

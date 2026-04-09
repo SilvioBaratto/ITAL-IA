@@ -1,0 +1,52 @@
+{
+  "comune_name": "Fiumicello Villa V",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiumicello-villa-v.md",
+  "extracted_at": "2026-04-09T10:47:55.216Z",
+  "pois": [
+    {
+      "name": "Villa Ciardi (già Villa Baciocchi) — Villa Vicentina",
+      "address": "Località Villa Ciardi, Villa Vicentina, 33059 Fiumicello Villa Vicentina (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Ciardi%20(gi%C3%A0%20Villa%20Baciocchi)%20%E2%80%94%20Villa%20Vicentina%2C%20Localit%C3%A0%20Villa%20Ciardi%2C%20Villa%20Vicentina%2C%2033059%20Fiumicello%20Villa%20Vicentina%20(UD)",
+      "image_url": null,
+      "description": "Villa Ciardi è il principale monumento storico di Fiumicello Villa Vicentina e fu residenza estiva di Elisa Bonaparte Baciocchi, sorella di Napoleone. Ospitò anche Louis Pasteur, che qui condusse ricerche fondamentali sulla malattia del baco da seta. Pur non essendo aperta al pubblico come museo, è visibile dall'esterno ed è parte degli itinerari napoleonici locali. L'edificio, di proprietà privata, rappresenta una testimonianza culturale di rilievo per la regione.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Cappella Baciocchi — Villa Vicentina",
+      "address": "A circa 300 metri da Villa Ciardi, Villa Vicentina, 33059 Fiumicello Villa Vicentina (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Baciocchi%20%E2%80%94%20Villa%20Vicentina%2C%20A%20circa%20300%20metri%20da%20Villa%20Ciardi%2C%20Villa%20Vicentina%2C%2033059%20Fiumicello%20Villa%20Vicentina%20(UD)",
+      "image_url": null,
+      "description": "La Cappella Baciocchi, costruita da Elisa Napoleona Baciocchi, combina elementi neogotici e neoclassici in un contesto di grande fascino. Destinata a ospitare le spoglie del figlio Benedetto Napoleone, si distingue per l'architettura raffinata e il legame con la famiglia Bonaparte. La cappella è generalmente visibile solo dall'esterno e viene inclusa negli itinerari di interesse napoleonico della zona.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Villa Asiola — Villa Vicentina",
+      "address": "Località Villa Asiola, Villa Vicentina, 33059 Fiumicello Villa Vicentina (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Asiola%20%E2%80%94%20Villa%20Vicentina%2C%20Localit%C3%A0%20Villa%20Asiola%2C%20Villa%20Vicentina%2C%2033059%20Fiumicello%20Villa%20Vicentina%20(UD)",
+      "image_url": null,
+      "description": "Villa Asiola è una delle strutture più antiche dell'area, documentata fin dal 1174, ed è appartenuta alla famiglia Baciocchi. Pur non essendo visitabile come museo e rimanendo di proprietà privata, la villa offre importanti spunti per la comprensione delle stratificazioni storiche locali, attraversando epoche che vanno dal patriarcato di Aquileia ai Bonaparte.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Riserva Naturale Regionale della Foce dell'Isonzo — Isola della Cona",
+      "address": "Isola della Cona e sponde del basso Isonzo, 33059 Fiumicello Villa Vicentina (UD)",
+      "website_url": "http://www.riservafoceisonzo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Riserva%20Naturale%20Regionale%20della%20Foce%20dell'Isonzo%20%E2%80%94%20Isola%20della%20Cona%2C%20Isola%20della%20Cona%20e%20sponde%20del%20basso%20Isonzo%2C%2033059%20Fiumicello%20Villa%20Vicentina%20(UD)",
+      "image_url": null,
+      "description": "La Riserva Naturale Regionale della Foce dell'Isonzo, riconosciuta a livello internazionale, offre attività di educazione ambientale e scientifica di primo piano, con un'enorme varietà di specie di uccelli. Pur non essendo un museo tradizionale, è un punto di riferimento per il monitoraggio della fauna, il birdwatching e la divulgazione scientifica nel territorio comunale. Qui si svolge ogni anno il Festival AESON, dedicato alle arti nella natura.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiumicello-villa-v.md"
+    }
+  ]
+}

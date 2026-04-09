@@ -1,0 +1,63 @@
+{
+  "comune_name": "Fogliano Redipuglia",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fogliano-redipuglia.md",
+  "extracted_at": "2026-04-09T10:26:12.744Z",
+  "pois": [
+    {
+      "name": "Chiesa di Santa Maria in Monte — Fogliano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20in%20Monte%20%E2%80%94%20Fogliano%2C%20Fogliano%20Redipuglia",
+      "image_url": null,
+      "description": "La Chiesa di Santa Maria in Monte, situata sulle pendici del Carso, fu fondata nel 1521 per sciogliere un voto di guerra. L'edificio conserva tre importanti cicli di affreschi cinquecenteschi, uno dei quali realizzato da Giacomo Secante, allievo del Pordenone. Rappresenta un raro esempio di stratificazione artistica tra tardogotico e manierismo veneto nel territorio isontino. La posizione panoramica e la storia legata alle vicende belliche ne fanno ancora oggi una meta di devozione popolare.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Chiesa di Sant'Elisabetta d'Ungheria — Fogliano",
+      "address": "Via Redipuglia",
+      "website_url": "http://www.pmap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7500009",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Elisabetta%20d'Ungheria%20%E2%80%94%20Fogliano%2C%20Via%20Redipuglia",
+      "image_url": null,
+      "description": "La chiesa di Sant'Elisabetta d'Ungheria è la parrocchiale principale di Fogliano, costruita tra il 1896 e il 1900 su progetto di Giovanni Calzoni. Di stile eclettico con influenze neoclassiche, custodisce il prestigioso organo Pietro Nacchini del 1730, il più antico della provincia di Gorizia, oltre ad altri importanti arredi sacri e statue gotiche. L'edificio ha subito ampliamenti e restauri significativi ed è punto di riferimento religioso e storico per la comunità locale.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Apostolo — Redipuglia",
+      "address": "Via Paolini",
+      "website_url": "http://www.pmap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7500010",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20%E2%80%94%20Redipuglia%2C%20Via%20Paolini",
+      "image_url": null,
+      "description": "La chiesa di San Giacomo Apostolo, ricostruita nel 1924–1925 dopo la distruzione bellica, è la parrocchiale di Redipuglia e presenta stile neoromanico. L'interno ospita un significativo altare in pietra di Vicenza, un crocifisso ligneo di artista veneziano e un bassorilievo di San Giacomo inserito in mosaico dorato. L'edificio riflette le memorie delle guerre mondiali, rinnovandosi con ampliamenti nel dopoguerra e mantenendo un forte legame con la storia locale.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Chiesa di Sant'Agata — Polazzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Agata%20%E2%80%94%20Polazzo%2C%20Fogliano%20Redipuglia",
+      "image_url": null,
+      "description": "La chiesa di Sant'Agata, situata nella frazione di Polazzo, risale al rinascimento rurale del XVI secolo e costituisce il centro religioso della comunità. Gravemente danneggiata durante la Prima Guerra Mondiale, fu successivamente ricostruita, mantenendo vivo il culto di Sant'Agata, celebrato il 5 febbraio. La scarsità di documentazione deriva dagli eventi bellici, ma il luogo resta fondamentale per la devozione locale e la memoria storica.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Cappella Votiva del Sacrario Militare di Redipuglia — Redipuglia",
+      "address": null,
+      "website_url": "https://sacrarioredipuglia.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Votiva%20del%20Sacrario%20Militare%20di%20Redipuglia%20%E2%80%94%20Redipuglia%2C%20Fogliano%20Redipuglia",
+      "image_url": null,
+      "description": "La Cappella Votiva, cuore religioso del Sacrario Militare di Redipuglia, si trova sull'ultimo gradone della monumentale scalinata che ospita i resti di oltre 100.000 caduti della Prima Guerra Mondiale. Progettata da Giovanni Greppi e Giannino Castiglioni, la cappella accoglie oggetti personali dei soldati e una statua dell'Assunta Regina della Pace, simbolo di riconciliazione e memoria. Rappresenta uno spazio di raccoglimento spirituale e commemorazione internazionale.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fogliano-redipuglia.md"
+    }
+  ]
+}

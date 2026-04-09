@@ -1,0 +1,151 @@
+{
+  "comune_name": "Latisana",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md",
+  "extracted_at": "2026-04-09T10:28:35.824Z",
+  "pois": [
+    {
+      "name": "Duomo Abbaziale di San Giovanni Battista",
+      "address": "Latisana (capoluogo) — Piazza Duomo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20Abbaziale%20di%20San%20Giovanni%20Battista%2C%20Latisana%20(capoluogo)%20%E2%80%94%20Piazza%20Duomo",
+      "image_url": null,
+      "description": "La chiesa principale di Latisana, eretta nell'alto Medioevo e profondamente rimaneggiata nel Cinquecento e nel Settecento, custodisce elementi tardoromanici, gotico-rinascimentali e neoclassici. Presenta una navata unica rettangolare con sei cappelle, altari di marmi policromi e un maestoso campanile alto 51 metri costruito nel 1923. All'interno si trovano opere d'arte di Paolo Veronese, Giovanni Battista Grassi e altri artisti di rilievo, oltre a un pregevole organo settecentesco. Il duomo fu danneggiato durante le guerre mondiali e in seguito restaurato.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio (con ex Monastero delle Terziarie Francescane)",
+      "address": "Latisana (capoluogo) — Via Vendramin",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20(con%20ex%20Monastero%20delle%20Terziarie%20Francescane)%2C%20Latisana%20(capoluogo)%20%E2%80%94%20Via%20Vendramin",
+      "image_url": null,
+      "description": "Questa chiesa, legata all'ex monastero delle Terziarie Francescane fondato nel 1685, presenta uno stile barocco-settecentesco con facciata arricchita da statue e un campanile con cupola a cipolla. L'interno ospita tre altari di marmo policromo e numerose opere d'arte di pregio, tra cui pale attribuite a Mattia Bortoloni e alla bottega di Jacopo Tintoretto. Il complesso mantiene ancora oggi tracce della sua originaria funzione monastica.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Tempio Gaspari (Cappella funebre)",
+      "address": "Latisana (capoluogo) — Via Vendramin / Giardino Rossetti",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempio%20Gaspari%20(Cappella%20funebre)%2C%20Latisana%20(capoluogo)%20%E2%80%94%20Via%20Vendramin%20%2F%20Giardino%20Rossetti",
+      "image_url": null,
+      "description": "Costruita nel 1866 dall'architetto Andrea Scala per la famiglia Gaspari, questa cappella funebre in stile neoclassico si distingue per la pianta a croce greca, il pronao tetrastilo e la cupola emisferica. All'interno si trova un monumento funebre con statue di Luigi Minisini e la pala del Redentore di Ferdinando Bassi. La cripta ospita le spoglie dei Gaspari, benefattori cittadini e promotori del giardino botanico di Latisana.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di Santa Croce (scomparsa)",
+      "address": "Latisana (capoluogo) — attuale Piazza Indipendenza",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Croce%20(scomparsa)%2C%20Latisana%20(capoluogo)%20%E2%80%94%20attuale%20Piazza%20Indipendenza",
+      "image_url": null,
+      "description": "Considerata la chiesa più antica di Latisana, sorgeva al centro del castrum medievale nell'odierna Piazza Indipendenza. Citata in documenti del XIV secolo, custodiva una preziosa reliquia della Vera Croce. Scomparsa tra Settecento e Ottocento in seguito a trasformazioni urbanistiche, la sua memoria è tramandata da atti storici e acquerelli d'epoca.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maddalena (Latisanotta)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maddalena%20(Latisanotta)%2C%20Latisana",
+      "image_url": null,
+      "description": "Situata nella frazione di Latisanotta, oggi quartiere del capoluogo, questa chiesa parrocchiale è dedicata a Santa Maria Maddalena. Ha subito diversi ampliamenti e ristrutturazioni nel Novecento, mantenendo un ruolo centrale nella vita religiosa locale e servendo anche la vicina cappella della Madonna della Strada.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa della Madonna della Strada (Crosere)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Madonna%20della%20Strada%20(Crosere)%2C%20Latisana",
+      "image_url": null,
+      "description": "Costruita nel 1961 nel quartiere Crosere su progetto di Enor Milocco, è dedicata alla Madonna della Strada e collegata alla parrocchia di Latisanotta. L'aula rettangolare accoglie mosaici e sculture lignee dell'artista gardenese Ferdinando Perathoner, mentre la facciata si distingue per una decorazione musiva realizzata dai mosaicisti di Spilimbergo.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di Sant'Anna (Paludo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Anna%20(Paludo)%2C%20Latisana",
+      "image_url": null,
+      "description": "Inaugurata nel 1958 nel quartiere di Paludo, la chiesa fu costruita su progetto di Luigi Zatti e Raffaele Costantini, seguendo linee razionaliste geometriche. L'interno ospita decorazioni e statue lignee offerte dai fedeli, tra cui Sant'Anna, Madonna e Sacro Cuore, e piccole formelle bronzee della Via Crucis. L'edificio è stato successivamente ristrutturato e ampliato.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Cappella dell'Ospedale Civile (Sabbionera)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20dell'Ospedale%20Civile%20(Sabbionera)%2C%20Latisana",
+      "image_url": null,
+      "description": "Parte integrante del complesso ospedaliero di Sabbionera, la cappella fu inaugurata nel 1963 e presenta una cella quadrata con volta a quattro spioventi. Custodisce numerose opere d'arte, tra cui sculture lignee di Celso Costantini e Ferdinand Stuflesser, una tela mariana cinquecentesca e una statua bronzea di Padre Pio all’esterno, realizzata nel 1996 da Lionello Galasso.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa dei Santi Filippo e Giacomo Apostoli (Gorgo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Filippo%20e%20Giacomo%20Apostoli%20(Gorgo)%2C%20Latisana",
+      "image_url": null,
+      "description": "Costruita tra il 1928 e il 1949 nella frazione di Gorgo, la chiesa parrocchiale segue il modello neogotico e fu restaurata in tempi recenti. Presenta una facciata articolata con portale, rosone e decorazioni in mattoni rossi, mentre l'interno, con cappelle laterali e presbiterio rialzato, si distingue per l'ampia decorazione figurativa e la pavimentazione bicroma.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa dello Spirito Santo (Pertegada)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dello%20Spirito%20Santo%20(Pertegada)%2C%20Latisana",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Pertegada, costruita nel 1933 in stile neo-romanico, presenta una struttura a tre navate in mattoni faccia a vista. Il campanile, risalente al 1904, si erge autonomo rispetto all'edificio. L'interno è scandito da pilastri in mattoni e semicolonne corinzie, con navate laterali concluse da altari.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di San Giuseppe Sposo della Beata Vergine Maria (Bevazzana)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giuseppe%20Sposo%20della%20Beata%20Vergine%20Maria%20(Bevazzana)%2C%20Latisana",
+      "image_url": null,
+      "description": "Edificata nel 1949 e benedetta nel 1950, questa chiesa sorge nella frazione lagunare di Bevazzana. La facciata si caratterizza per il setto in travertino decorato a mosaico, mentre l'interno a capriate presenta decorazioni di santi e un'abside cromatica. Il campaniletto a monovela completa la composizione architettonica.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine delle Grazie (Sabbionera)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20delle%20Grazie%20(Sabbionera)%2C%20Latisana",
+      "image_url": null,
+      "description": "Questa chiesa mariana situata nel quartiere di Sabbionera è considerata un punto di riferimento religioso per Latisana. Il titolo delle Grazie evoca la tradizione dei santuari d’intercessione friulani, con una presenza rilevante nella storia devozionale locale.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria del Mare (già Bevazzana, ora Lignano Sabbiadoro)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20del%20Mare%20(gi%C3%A0%20Bevazzana%2C%20ora%20Lignano%20Sabbiadoro)%2C%20Latisana",
+      "image_url": null,
+      "description": "Originariamente eretta nel XV secolo nella frazione di Bevazzana, questa chiesa fu smontata e ricostruita nel 1965–1966 nella pineta di Lignano Sabbiadoro per salvarla dalle inondazioni. Conserva affreschi mariani quattrocenteschi, una pietra d’altare paleocristiana e una rara protome romana raffigurante la Medusa, a testimonianza della sua importanza storica e artistica.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/latisana.md"
+    }
+  ]
+}

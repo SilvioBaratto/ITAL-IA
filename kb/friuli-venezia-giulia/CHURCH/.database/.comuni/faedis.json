@@ -1,0 +1,173 @@
+{
+  "comune_name": "Faedis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md",
+  "extracted_at": "2026-04-09T10:25:26.354Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di Santa Maria Assunta — Faedis",
+      "address": null,
+      "website_url": "http://www.comune.faedis.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Faedis%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria Assunta è il principale luogo di culto di Faedis e sorge su un sito con probabili origini romane. L'attuale edificio neoromanico-neoclassico fu consacrato nel 1934 e incorpora 918 quintali di marmo proveniente dalla Basilica di San Pietro in Vaticano, donati dalla Santa Sede, conferendole un valore unico nell'architettura religiosa friulana. All'interno si conservano arredi di varie epoche, tra cui un altare ligneo rinascimentale originario di San Pietro degli Slavi.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Pietro degli Slavi — Faedis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pietro%20degli%20Slavi%20%E2%80%94%20Faedis%2C%20Faedis",
+      "image_url": null,
+      "description": "Situata nell'omonimo borgo antico di Faedis, la chiesa di San Pietro degli Slavi risale alla fine del Duecento e rappresenta uno dei più importanti monumenti religiosi locali per antichità e significato storico. Un tempo conservava un pregiato altare ligneo rinascimentale, ora trasferito nella chiesa parrocchiale per motivi di sicurezza. L'edificio testimonia la presenza storica della comunità slavofona nelle Prealpi Giulie.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesetta di Santa Maria di Colvillano — Faedis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Santa%20Maria%20di%20Colvillano%20%E2%80%94%20Faedis%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesetta di Santa Maria di Colvillano si trova in posizione panoramica sull'omonimo colle e secondo la tradizione potrebbe risalire al X secolo, con documentazione scritta dal 1300. L'edificio conserva alcuni affreschi del XVI secolo, residuo degli arredi sacri originari, vittime di numerosi furti negli anni. Il suo isolamento contribuisce al fascino spirituale e alla vulnerabilità del sito.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa della Madonna di Zucco — Faedis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Madonna%20di%20Zucco%20%E2%80%94%20Faedis%2C%20Faedis",
+      "image_url": null,
+      "description": "Considerata il santuario di Faedis, la chiesa della Madonna di Zucco sorge in posizione impervia sul colle dei Castelli ed è raggiungibile solo tramite un antico sentiero. Originata da una cappella castellana, l'attuale edificio risale al XVI secolo ma presenta importanti rimaneggiamenti barocchi interni. Il luogo è noto per l'affresco del XV secolo della Madonna Lactans e l’impegno dell’Associazione Alpini locale nella sua conservazione.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Rocco — Faedis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%20%E2%80%94%20Faedis%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesa di San Rocco, situata su un colle vicino al centro di Faedis, fu fondata tra l’XI e il XII secolo in epoca castellana e ampliata nel Trecento. Originariamente dedicata a San Giorgio, cambiò intitolazione in San Rocco nel XVI secolo durante la diffusione del culto antipestilenziale, diventando sede dell’omonima confraternita. L’edificio ha mantenuto nel tempo un carattere di ritiro eremitico.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maddalena in rupis — Faedis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maddalena%20in%20rupis%20%E2%80%94%20Faedis%2C%20Faedis",
+      "image_url": null,
+      "description": "Immersa in un bosco isolato, la chiesa di Santa Maria Maddalena \"in rupis\" risale alla prima metà del XIV secolo e sorge su una roccia, come suggerisce il toponimo latino. È tra gli edifici sacri più suggestivi e poco accessibili del territorio, luogo di quiete legato al culto penitenziale della Maddalena. Si pensa sia stata costruita vicino a un antico fortilizio preesistente.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di Sant'Elena — Canal di Grivò e frazioni",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Elena%20%E2%80%94%20Canal%20di%20Griv%C3%B2%20e%20frazioni%2C%20Faedis",
+      "image_url": null,
+      "description": "Edificata tra il 1470 e il 1472, la chiesa di Sant'Elena è uno degli esempi più interessanti di architettura gotica del comune, realizzata grazie alla collaborazione di varie comunità locali. L’edificio interamente in pietra è caratterizzato da un ampio portico e da un’abside gotica di particolare pregio. All'interno spicca un altare ligneo barocco che crea un suggestivo contrasto con la struttura gotica.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Martino — Raschiacco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20%E2%80%94%20Raschiacco%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesa di San Martino, nella frazione di Raschiacco, è uno degli edifici religiosi più antichi del territorio, forse fondata in epoca longobarda e menzionata dal 1328. L’edificio, con successivi rifacimenti medievali e moderni, conserva arredi antichi che testimoniano la tradizione artistica friulana. Costituisce una preziosa testimonianza della continuità del culto cristiano nelle valli prealpine.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Michele Arcangelo — Campeglio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Campeglio%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesa di San Michele Arcangelo a Campeglio ha origini molto antiche, probabilmente longobarde, ma l'attuale edificio è frutto della ricostruzione successiva al terremoto del 1976. L'interno è impreziosito da un grande mosaico di San Michele Arcangelo, realizzato da Arrigo Poz e dai mosaicisti della scuola di Spilimbergo, che collega la chiesa contemporanea alla tradizione artistica friulana.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Rocco in Canale — Valle di Soffumbergo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%20in%20Canale%20%E2%80%94%20Valle%20di%20Soffumbergo%2C%20Faedis",
+      "image_url": null,
+      "description": "Questa piccola chiesa gotica della metà del Quattrocento si trova nella frazione di Valle di Soffumbergo, in connessione storica con il vicino Castello di Soffumbergo. L’edificio, a pianta semplice e con abside a crociera, riflette la sobrietà dell’architettura religiosa rurale friulana. Reintitolata a San Rocco tra XVI e XVII secolo, testimonia il culto antipestilenziale tipico del periodo.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa dei Santi Giovanni e Paolo — Colloredo di Soffumbergo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Giovanni%20e%20Paolo%20%E2%80%94%20Colloredo%20di%20Soffumbergo%2C%20Faedis",
+      "image_url": null,
+      "description": "Costruita intorno al 1420 nel borgo di Colloredo di Soffumbergo, questa chiesa si presenta come un interessante esempio della transizione dal sistema castellano a quello parrocchiale. All’interno sono conservati arredi di valore devozionale, specchio della storia e del radicamento religioso dei piccoli insediamenti locali. L’edificio mostra uno stile a cavallo tra il tardo gotico e i primi influssi rinascimentali.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Pietro — Valle",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pietro%20%E2%80%94%20Valle%2C%20Faedis",
+      "image_url": null,
+      "description": "Consacrata nel 1756, la chiesa di San Pietro sorge nella frazione di Valle e rispondeva al bisogno degli abitanti di un luogo di culto più accessibile rispetto alla vecchia chiesa di San Lorenzo. L’edificio, sobrio e di stile barocco friulano, incarna le caratteristiche tipiche dell’architettura religiosa locale settecentesca.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Lorenzo — Ronchis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Lorenzo%20%E2%80%94%20Ronchis%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesa di San Lorenzo, costruita nel 1374, fa parte del complesso architettonico di Ronchis assieme a Villa Freschi e Villa Partistagno. L'edificio conserva il suo carattere gotico originario e testimonia l'importanza del patronato nobiliare nella costruzione di chiese rurali friulane durante il XIV secolo.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Cappella di San Carlo Borromeo (o Santa Croce) — Villa Freschi, Ronchis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Carlo%20Borromeo%20(o%20Santa%20Croce)%20%E2%80%94%20Villa%20Freschi%2C%20Ronchis%2C%20Faedis",
+      "image_url": null,
+      "description": "Situata all'interno del complesso di Villa Freschi, la cappella di San Carlo Borromeo, detta anche Santa Croce, è una cappella gentilizia di impianto barocco risalente al XV secolo. Accessibile dal viale alberato della villa, rappresenta un tipico esempio di architettura civile-religiosa friulana e riflette la devozione aristocratica della Controriforma.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Battista — Canebola",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Canebola%2C%20Faedis",
+      "image_url": null,
+      "description": "La chiesa di San Giovanni Battista a Canebola fu fondata a metà del XV secolo e ha subito numerose distruzioni e ricostruzioni, l’ultima delle quali dopo il terremoto del 1976. L’attuale edificio contemporaneo testimonia l’impegno della comunità nella ricostruzione e la volontà di preservare i luoghi di culto come simbolo di identità e memoria collettiva.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/faedis.md"
+    }
+  ]
+}

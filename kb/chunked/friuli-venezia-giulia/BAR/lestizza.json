@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/lestizza.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Lestizza",
+  "province": "UD",
+  "page_title": "Lestizza",
+  "page_summary": "Guida ai principali bar del comune di Lestizza: il Bar Corallo nel capoluogo e il Bar Saccomano Claudio nella frazione di Nespoledo, entrambi punti di riferimento per la socialità locale.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/lestizza.md",
+  "processed_at": "2026-04-09T12:15:20.859Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/lestizza__0",
+      "text": "### Bar Corallo\n\n**Lestizza (loc. Lestizza capoluogo) — Via San Giovanni, 33050 Lestizza (UD)**\nTelefono: 333 6995099\n\nIl Bar Corallo è uno dei punti di riferimento del capoluogo comunale di Lestizza. Situato in Via San Giovanni, nel cuore del paese, è il classico bar di paese friulano dove ci si ferma la mattina per un caffè espresso o un cappuccino fumante prima di andare al lavoro, si scambia due chiacchiere durante la pausa di metà giornata, e nel pomeriggio si prende uno spritz o un amaro in compagnia. Come molti bar di paese della bassa friulana, il Corallo svolge una funzione aggregativa fondamentale per la comunità di Lestizza, che non dispone di un tessuto commerciale particolarmente vasto. Il locale è raggiungibile anche tramite WhatsApp al numero indicato, segnale di una gestione al passo coi tempi pur nel contesto di un piccolo comune rurale. Ideale per chi vuole vivere la socialità autentica della pianura friulana, lontano dai circuiti turistici.",
+      "metadata": {
+        "section_title": "Bar Corallo",
+        "links": [],
+        "addresses": [
+          "Lestizza (loc. Lestizza capoluogo) — Via San Giovanni, 33050 Lestizza (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/lestizza__1",
+      "text": "### Bar Saccomano Claudio\n\n**Nespoledo (frazione di Lestizza) — Via Vittorio Veneto, 3, 33050 Lestizza (UD)**\nTelefono: 0432 764023\n\nNella frazione di Nespoledo, che insieme a Galleriano, Sclaunicco, Santa Maria di Sclaunicco e Villacaccia compone il tessuto comunale di Lestizza, si trova il bar gestito da Claudio Saccomano. Censito come \"Bar e Caffè\" nelle directory commerciali, rappresenta il presidio di socialità della piccola frazione. In questi locali tipici della campagna friulana, la colazione è un momento semplice e sincero: un caffè preparato con cura, magari accompagnato da qualcosa di dolce proveniente da una pasticceria di paese. Il bar di frazione è anche spesso un punto informale di aggregazione serale, dove i residenti si ritrovano per un bicchiere di vino o una birra dopo la giornata lavorativa. Via Vittorio Veneto è la strada principale di Nespoledo, che scorre attraverso la pianura verdeggiante caratteristica di questa parte del Friuli.",
+      "metadata": {
+        "section_title": "Bar Saccomano Claudio",
+        "links": [],
+        "addresses": [
+          "Nespoledo (frazione di Lestizza) — Via Vittorio Veneto, 3, 33050 Lestizza (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

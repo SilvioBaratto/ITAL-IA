@@ -1,0 +1,74 @@
+{
+  "comune_name": "Cervignano del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md",
+  "extracted_at": "2026-04-09T10:44:56.702Z",
+  "pois": [
+    {
+      "name": "Antiquarium San Michele Arcangelo",
+      "address": "Piazza Marconi – alla base del campanile della Chiesa di San Michele Arcangelo, 33052 Cervignano del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antiquarium%20San%20Michele%20Arcangelo%2C%20Piazza%20Marconi%20%E2%80%93%20alla%20base%20del%20campanile%20della%20Chiesa%20di%20San%20Michele%20Arcangelo%2C%2033052%20Cervignano%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "L'Antiquarium si trova al piano terra del campanile romanico della Chiesa madre di San Michele Arcangelo e ospita reperti rinvenuti dagli scavi nella zona. Tra questi spicca una tazza con residui di vino che testimonia antichissime tradizioni enologiche, oltre a ceramiche, monete e frammenti lapidei. Il percorso include materiali dal periodo longobardo e medievale e l'Antiquarium svolge anche attività didattica per le scuole. L'ingresso è gratuito.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa madre di San Michele Arcangelo e Cripta Archeologica",
+      "address": "Piazza Marconi, 33052 Cervignano del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20madre%20di%20San%20Michele%20Arcangelo%20e%20Cripta%20Archeologica%2C%20Piazza%20Marconi%2C%2033052%20Cervignano%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di San Michele Arcangelo è l'edificio sacro più antico di Cervignano, costruita nel 1780 sui resti di un'abbazia benedettina medievale. Al suo interno si trovano affreschi restaurati di Sebastiano Santi e tre opere di Giuseppe Zigaina, mentre nella cripta archeologica sono visitabili reperti romani e resti medievali. Ai piedi del campanile si trova un raro mosaico pavimentale di epoca longobarda.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Girolamo – Lapidario a cielo aperto",
+      "address": "Via San Girolamo, 1, 33052 Cervignano del Friuli (UD)",
+      "website_url": "https://www.archeocartafvg.it/portfolio-articoli/cervignano-ud-chiesa-san-girolamo-reperti-romani-reimpiego/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Girolamo%20%E2%80%93%20Lapidario%20a%20cielo%20aperto%2C%20Via%20San%20Girolamo%2C%201%2C%2033052%20Cervignano%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di San Girolamo, ampliata nel XX secolo, ospita numerosi reperti lapidei di epoca romana provenienti da Aquileia, trasformandosi in un lapidario a cielo aperto. Tra le testimonianze ci sono frammenti di altari funerari, sarcofagi e capitelli, che offrono un'importante finestra sulla romanità della Bassa Friulana. L'accesso ai reperti è possibile in occasione delle funzioni o contattando la parrocchia locale.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Casa del Pittore Giuseppe Zigaina",
+      "address": "Cervignano del Friuli (UD) — indirizzo esatto da confermare",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20del%20Pittore%20Giuseppe%20Zigaina%2C%20Cervignano%20del%20Friuli%20(UD)%20%E2%80%94%20indirizzo%20esatto%20da%20confermare",
+      "image_url": null,
+      "description": "La Casa del pittore Giuseppe Zigaina è un importante esempio di architettura razionalista realizzato da Giancarlo De Carlo tra il 1957 e il 1959. Recentemente acquisita dalla Regione Friuli Venezia Giulia, diventerà uno spazio dedicato alla memoria, alla ricerca e all'esposizione legato all'opera di Zigaina. L'edificio rappresenta il legame tra storia, arte e cultura friulana del XX secolo, ma non è ancora aperto come istituzione museale permanente.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Villa e Parco Chiozza (Scodovacca)",
+      "address": "Scodovacca, 33052 Cervignano del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20e%20Parco%20Chiozza%20(Scodovacca)%2C%20Scodovacca%2C%2033052%20Cervignano%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Villa Chiozza fu la residenza dello scienziato Luigi Chiozza e ospitò nel 1870 Louis Pasteur. Le sale della villa erano adibite a laboratorio scientifico e il parco, progettato come un giardino all’inglese, è ricco di essenze arboree e scorci paesaggistici. Oggi la villa ospita la sede regionale di Turismo FVG e il parco è accessibile al pubblico durante gli orari degli uffici.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Villa Bresciani-Attems-Auersperg e Cappella di Santa Croce",
+      "address": "Via Trieste, 33052 Cervignano del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Bresciani-Attems-Auersperg%20e%20Cappella%20di%20Santa%20Croce%2C%20Via%20Trieste%2C%2033052%20Cervignano%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "La Villa Bresciani-Attems-Auersperg è un palazzo nobiliare settecentesco che colpisce per la scalinata in pietra bianca e il parco circostante. La Cappella di Santa Croce annessa ospita un monumentale Crocifisso ligneo del XII secolo, restaurato e impreziosito da una crocetta bizantina rinvenuta durante il restauro. La cappella è visitabile su richiesta, mentre la villa non è aperta al pubblico.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cervignano-del-friuli.md"
+    }
+  ]
+}

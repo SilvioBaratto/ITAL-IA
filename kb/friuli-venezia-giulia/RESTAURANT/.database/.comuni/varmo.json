@@ -1,0 +1,30 @@
+{
+  "comune_name": "Varmo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/varmo.md",
+  "extracted_at": "2026-04-09T11:24:18.090Z",
+  "pois": [
+    {
+      "name": "Ristorante La Ferrata",
+      "address": "Varmo (UD) — CAP 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Ferrata%2C%20Varmo%20(UD)%20%E2%80%94%20CAP%2033030",
+      "image_url": null,
+      "description": "Il Ristorante La Ferrata è il principale riferimento gastronomico di Varmo, immerso nella campagna e dotato di un ampio giardino. Propone una cucina tipica locale con predilezione per grigliate miste di carne, pesce e pizze con impasti curati e ingredienti di qualità. L’atmosfera è familiare e informale, adatta a famiglie e gruppi, con servizi come parcheggio, catering e organizzazione eventi. Il locale è inoltre noto per le sue serate a tema dedicate ai prodotti della tradizione friulana.",
+      "comune_name": "Varmo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/varmo.md"
+    },
+    {
+      "name": "Locanda Vil di Var",
+      "address": "Via Robbiani A., 7 — 33030 Varmo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Vil%20di%20Var%2C%20Via%20Robbiani%20A.%2C%207%20%E2%80%94%2033030%20Varmo%20(UD)",
+      "image_url": null,
+      "description": "La Locanda Vil di Var offre un ambiente informale e accogliente con cucina italiana e impostazione tipica locale. Situata nel centro di Varmo, dispone di tavoli all'aperto e parcheggio interno, ed è frequentata soprattutto da residenti e lavoratori. Il suo nome richiama l'identità friulana e il locale si distingue per un’atmosfera genuina e prezzi economici, coerente con il carattere semplice del territorio.",
+      "comune_name": "Varmo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/varmo.md"
+    }
+  ]
+}

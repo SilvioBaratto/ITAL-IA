@@ -1,0 +1,118 @@
+{
+  "comune_name": "Campolongo Tapogliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md",
+  "extracted_at": "2026-04-09T10:36:49.438Z",
+  "pois": [
+    {
+      "name": "Villa Pace",
+      "address": "Tapogliano — Via XXIV Maggio, 1",
+      "website_url": "https://villapace.eu",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Pace%2C%20Tapogliano%20%E2%80%94%20Via%20XXIV%20Maggio%2C%201",
+      "image_url": null,
+      "description": "Villa Pace è il più importante monumento civile del comune e rappresenta un pregevole esempio di architettura residenziale nobiliare della Bassa Friulana. Risalente in origine al XVI secolo, fu ampliata nel Seicento sotto il conte Carlo Maria Pace von Friedensberg e poi trasformata in stile rococò nel Settecento. Caratteristica per lo scenografico scalone ellissoidale e gli affreschi del salone a doppia altezza, la villa è oggi visitabile e sede di eventi, visite guidate e degustazioni.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Villa Marcotti-Chiozza (Municipio)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Marcotti-Chiozza%20(Municipio)%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Costruita nel 1723, Villa Marcotti-Chiozza è un elegante edificio in stile veneto che riflette la cultura architettonica diffusa dalla Serenissima nella Bassa Friulana. Oggi ospita il Municipio di Campolongo Tapogliano ed è riconoscibile per la sua facciata armoniosa, diventando uno dei simboli visivi del capoluogo, pur non essendo accessibile come dimora storica.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Villa Antonini-Brunner-Krcivoy",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Antonini-Brunner-Krcivoy%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Villa Antonini-Brunner-Krcivoy a Cavenzano è una residenza privata che testimonia la presenza e la successione di famiglie nobili e borghesi in Friuli tra XVIII e XIX secolo. L’edificio colpisce per le architetture che si possono ammirare dall’esterno ed è citato tra gli esempi di dimore storiche locali, anche se non visitabile.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Villa Rustici Squarcial",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Rustici%20Squarcial%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Villa Rustici Squarcial, nella frazione di Cavenzano, è un’altra importante dimora nobiliare privata che si distingue per la sua posizione nel paesaggio agrario friulano. L’edificio riflette le trasformazioni storiche delle proprietà locali tra Sette e Novecento ed è caratteristico dell’insediamento delle élite rurali della zona, anche se visibile solo dall’esterno.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Giorgio Martire",
+      "address": "Campolongo al Torre — Piazza Indipendenza",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giorgio%20Martire%2C%20Campolongo%20al%20Torre%20%E2%80%94%20Piazza%20Indipendenza",
+      "image_url": null,
+      "description": "Principale chiesa di Campolongo al Torre, è uno degli edifici religiosi più notevoli della Bassa Friulana per l’architettura tardobarocca. Costruita tra XVII e XVIII secolo, fu consacrata nel 1736 e completata dal campanile nel Settecento. L’interno conserva opere d’arte di pregio come il dipinto di Gasparo Cordobense (1633) e una pala del 1752, oltre a affreschi ottocenteschi; San Giorgio è il patrono del comune.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Tapogliano, dedicata a San Martino di Tours, è il principale luogo di culto della frazione e vanta origini antiche. L’attuale edificio, ricostruito e ampliato in epoca barocca, è caratterizzato dal campanile che spicca nella sagoma del paese. È legata storicamente all’Arcidiocesi di Gorizia, testimoniando la storia religiosa locale.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Oratorio di Santa Margherita da Cortona",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20Santa%20Margherita%20da%20Cortona%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Questo piccolo oratorio, dedicato a Santa Margherita da Cortona, si trova nell’abitato di Tapogliano e riflette la viva devozione popolare della comunità rurale friulana. Fondato probabilmente da famiglie nobili locali, serviva come luogo di preghiera e testimonia l’importanza degli oratori nel paesaggio religioso della regione.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Assunta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria Assunta è il fulcro religioso della frazione di Cavenzano e ha mantenuto nel tempo una propria autonomia devozionale. L’edificio, con radici medievali, è stato rimaneggiato tra XVII e XIX secolo ed è dedicato a una delle figure mariane più sentite nella tradizione friulana, legata anche alle antiche feste di villaggio.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Il Fiume Torre e il Paesaggio Storico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Fiume%20Torre%20e%20il%20Paesaggio%20Storico%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Il fiume Torre, pur non essendo un monumento tradizionale, ha giocato un ruolo fondamentale nella storia del territorio di Campolongo Tapogliano, favorendo insediamenti e commerci fin dall’epoca romana. Il paesaggio fluviale, con le sue caratteristiche naturali tipiche dei corsi d’acqua friulani, integra oggi l’esperienza della visita ai punti di interesse storici del comune.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Stemma e Identità Civica del Comune",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Stemma%20e%20Identit%C3%A0%20Civica%20del%20Comune%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Lo stemma comunale adottato nel 2009 sintetizza le radici storiche di Campolongo Tapogliano, combinando il Leone di San Marco, la muraglia merlata e un pino marittimo, simboli dei due comuni originari e della dominazione veneziana. L’araldica dello stemma racconta sette secoli di storia locale in una composizione ricca di riferimenti identitari.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/campolongo-tapogliano.md"
+    }
+  ]
+}

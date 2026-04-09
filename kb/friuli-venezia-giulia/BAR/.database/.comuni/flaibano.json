@@ -1,0 +1,19 @@
+{
+  "comune_name": "Flaibano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/flaibano.md",
+  "extracted_at": "2026-04-09T10:13:58.939Z",
+  "pois": [
+    {
+      "name": "Bar Pizzeria da Amato",
+      "address": "Piazza Monumento, 24 – 33030 Flaibano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Pizzeria%20da%20Amato%2C%20Piazza%20Monumento%2C%2024%20%E2%80%93%2033030%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "Il Bar Pizzeria da Amato è il principale punto di ritrovo a Flaibano, situato sulla piazza centrale del paese. Offre servizio di bar con colazioni a base di caffè espresso e brioche, e diventa pizzeria la sera, molto apprezzata dalle famiglie locali. Il locale risponde alle esigenze della comunità, proponendo spritz e vini bianchi all’aperitivo, ed è un luogo centrale nella vita sociale rurale del paese friulano.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/flaibano.md"
+    }
+  ]
+}

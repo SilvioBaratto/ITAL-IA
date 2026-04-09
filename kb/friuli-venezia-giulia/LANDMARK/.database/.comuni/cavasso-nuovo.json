@@ -1,0 +1,52 @@
+{
+  "comune_name": "Cavasso Nuovo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cavasso-nuovo.md",
+  "extracted_at": "2026-04-09T10:38:14.531Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Bartolomeo Apostolo",
+      "address": null,
+      "website_url": "https://www.diocesi.concordia-pordenone.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Bartolomeo%20Apostolo%2C%20Cavasso%20Nuovo",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Bartolomeo Apostolo è il principale luogo di culto di Cavasso Nuovo e rappresenta una testimonianza della continuità religiosa e culturale del territorio. L'edificio, di origine medievale, presenta elementi gotici, barocchi e neoclassici, ed è stato restaurato dopo i danni subiti dal terremoto del 1976. All'interno ospita opere pittoriche dei secoli XVII e XVIII e una notevole pala d'altare dedicata al martirio del santo.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Borgo Storico e Nucleo Antico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Storico%20e%20Nucleo%20Antico%2C%20Cavasso%20Nuovo",
+      "image_url": null,
+      "description": "Il nucleo storico di Cavasso Nuovo offre un esempio autentico di borgo rurale friulano con case a ballatoio, portali in pietra e antiche logge. Nonostante le ferite del terremoto del 1976, il centro conserva la tipica architettura locale e i percorsi lastricati sette-ottocenteschi. Una visita permette di comprendere la tradizione edilizia e il paesaggio urbano dei piccoli centri friulani lontani dal turismo di massa.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Oratorio di Sant'Antonio (o Edicola Sacra di Sant'Antonio Abate)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20Sant'Antonio%20(o%20Edicola%20Sacra%20di%20Sant'Antonio%20Abate)%2C%20Cavasso%20Nuovo",
+      "image_url": null,
+      "description": "Posto alle periferie di Cavasso Nuovo, l'Oratorio di Sant'Antonio Abate è una piccola cappella votiva rurale, luogo di profonda devozione popolare friulana. L'edificio, semplice e raccolto, presenta decorazioni interne dedicate alla vita del santo e riflette la tradizione delle architetture religiose minori costruite dalle comunità per sciogliere voti o commemorare eventi. È testimonianza significativa della cultura e memoria collettiva locale.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Paesaggio della Val Cosa e Tracciati Storici",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Paesaggio%20della%20Val%20Cosa%20e%20Tracciati%20Storici%2C%20Cavasso%20Nuovo",
+      "image_url": null,
+      "description": "Il territorio di Cavasso Nuovo nella Val Cosa offre un paesaggio rurale plasmato nei secoli da attività agricole e dalla presenza di antiche mulattiere. Questi percorsi storici testimoniano la tradizione della transumanza, il lavoro agricolo e la vita delle comunità locali. Visitare la valle consente di immergersi in un paesaggio culturale autentico del Friuli prealpino lontano dai grandi flussi turistici.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cavasso-nuovo.md"
+    }
+  ]
+}

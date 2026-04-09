@@ -1,0 +1,19 @@
+{
+  "comune_name": "Magnano in Riviera",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/magnano-in-riviera.md",
+  "extracted_at": "2026-04-09T10:50:04.219Z",
+  "pois": [
+    {
+      "name": "Biblioteca Civica di Magnano in Riviera",
+      "address": "Piazza F. Urli 30, 33010 Magnano in Riviera (UD) — presso la sede comunale",
+      "website_url": "https://www.comune.magnanoinriviera.ud.it/vivere-il-comune/luoghi/biblioteca-civica/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20di%20Magnano%20in%20Riviera%2C%20Piazza%20F.%20Urli%2030%2C%2033010%20Magnano%20in%20Riviera%20(UD)%20%E2%80%94%20presso%20la%20sede%20comunale",
+      "image_url": null,
+      "description": "La Biblioteca Civica di Magnano in Riviera rappresenta il principale presidio culturale del comune e aderisce al Sistema Bibliotecario del Friuli. Offre un patrimonio librario che include testi di storia regionale, opere in friulano e documentazione sulla memoria locale legata, tra l'altro, al terremoto del 1976. La biblioteca riveste anche un ruolo di centro di documentazione storico-culturale e offre servizi di prestito e consultazione aperti ai cittadini.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/magnano-in-riviera.md"
+    }
+  ]
+}

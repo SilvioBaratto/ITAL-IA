@@ -1,0 +1,63 @@
+{
+  "comune_name": "Lestizza",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lestizza.md",
+  "extracted_at": "2026-04-09T11:04:59.073Z",
+  "pois": [
+    {
+      "name": "Agriturismo Ai Colonos",
+      "address": "Via Giovanni da Udine, 8 | Villacaccia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Ai%20Colonos%2C%20Via%20Giovanni%20da%20Udine%2C%208%20%7C%20Villacaccia",
+      "image_url": null,
+      "description": "Agriturismo Ai Colonos è una rinomata azienda agricola biologica a Villacaccia, nota per l'esperienza culinaria dedicata alla filiera corta e qualità certificata. La cucina si concentra su piatti friulani realizzati con ingredienti biologici aziendali, tra cui frico tradizionale con Montasio biologico e carne di produzione propria. L'atmosfera genuina e accogliente è accompagnata da prezzi contenuti e un forte legame con il territorio. Il locale è molto apprezzato per la sua autenticità e per il menu che varia secondo la stagione.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lestizza.md"
+    },
+    {
+      "name": "Trattoria Dal Bolognese (Dal Bolognes)",
+      "address": "Via Nespoledo, 27 | Villacaccia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Dal%20Bolognese%20(Dal%20Bolognes)%2C%20Via%20Nespoledo%2C%2027%20%7C%20Villacaccia",
+      "image_url": null,
+      "description": "La Trattoria Dal Bolognese è una storica trattoria di Villacaccia, celebre per le sue specialità che uniscono cucina friulana ed emiliana. Il piatto distintivo è la pasta fresca fatta in casa, in particolare i ravioli al tartufo, oltre a gnocchi, pappardelle e secondi di carne selezionata. L'ambiente è sobrio e autentico, con prezzi accessibili e una solida reputazione basata su numerose recensioni positive. Ideale per chi cerca qualità e tradizione in un contesto familiare.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lestizza.md"
+    },
+    {
+      "name": "Trattoria Da Gino",
+      "address": "Via San Giovanni Battista, 13/C",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Gino%2C%20Via%20San%20Giovanni%20Battista%2C%2013%2FC",
+      "image_url": null,
+      "description": "La Trattoria Da Gino incarna la tradizione popolare friulana con una gestione familiare e solo una ventina di coperti. Offre il tipico menu operai a prezzo fisso estremamente contenuto, comprendente un primo, un secondo e porzioni abbondanti di piatti semplici e genuini che rispettano la stagionalità. Il locale è apprezzato per l'atmosfera sincera e la cucina autentica, frequentato da operai e viaggiatori in cerca di sapori locali.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lestizza.md"
+    },
+    {
+      "name": "Agriturismo Al Cjar",
+      "address": "Via Santa Maria, 27",
+      "website_url": "www.agriturismoalcjar.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Cjar%2C%20Via%20Santa%20Maria%2C%2027",
+      "image_url": null,
+      "description": "Agriturismo Al Cjar propone una cucina friulana e biologica in un ambiente familiare e accogliente, fedele al significato del suo nome che in friulano vuol dire \"casa\". Particolarmente apprezzato per il frico tradizionale e piatti vegetariani e vegani, utilizza esclusivamente materie prime certificate provenienti dall'azienda stessa. Il locale si distingue per l'attenzione alla qualità, i dolci artigianali e una reputazione di livello su TripAdvisor.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lestizza.md"
+    },
+    {
+      "name": "Benvenuti Alla Cavalleria",
+      "address": "Piazza San Valentino, 1",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Benvenuti%20Alla%20Cavalleria%2C%20Piazza%20San%20Valentino%2C%201",
+      "image_url": null,
+      "description": "Benvenuti Alla Cavalleria è un bar-ristorante informale situato nel centro di Lestizza, noto per la cucina semplice e genuina in perfetto stile friulano. Il locale offre un'atmosfera conviviale e senza pretese, preferito dalla clientela locale per i suoi piatti autentici preparati secondo tradizione. È il posto ideale per una pausa rilassata con un forte senso di appartenenza alla comunità del paese.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lestizza.md"
+    }
+  ]
+}

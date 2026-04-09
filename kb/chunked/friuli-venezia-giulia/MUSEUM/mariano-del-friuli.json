@@ -1,0 +1,74 @@
+{
+  "source_file": "friuli-venezia-giulia/MUSEUM/.comuni/mariano-del-friuli.md",
+  "region": "friuli-venezia-giulia",
+  "category": "MUSEUM",
+  "comune_name": "Mariano del Friuli",
+  "province": "GO",
+  "page_title": "Mariano del Friuli",
+  "page_summary": "In questo file sono descritte le risorse culturali e il patrimonio ecclesiastico del comune di Mariano del Friuli relative alla categoria MUSEUM, fra cui la Biblioteca Comunale e alcune chiese rilevanti, pur in assenza di istituzioni museali formali.",
+  "source_url": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mariano-del-friuli.md",
+  "processed_at": "2026-04-09T13:16:26.958Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/mariano-del-friuli__0",
+      "text": "### Biblioteca Comunale di Mariano del Friuli\n\n**Sede principale:** Via Manzoni 54, 34070 Mariano del Friuli (GO)\n**Sede distaccata (Centro Lettura):** Frazione Corona\n\nLa Biblioteca Comunale rappresenta il principale presidio culturale pubblico del comune. Pur non essendo un museo in senso stretto, la biblioteca svolge funzioni di archivio della memoria locale: conserva documentazione storica sulla comunità marianita, pubblicazioni locali, materiali relativi alla storia del territorio isontino e fondi donati da privati cittadini. Il Centro Lettura attivo nella frazione di Corona estende i servizi bibliotecari a tutta la popolazione comunale. La biblioteca organizza saltuariamente mostre temporanee, presentazioni di libri ed eventi culturali legati alla storia locale.\n\n**Contatti:** Comune di Mariano del Friuli, tel. 0481 69026\n**Sito web:** [www.comune.marianodelfriuli.go.it](http://www.comune.marianodelfriuli.go.it)",
+      "metadata": {
+        "section_title": "Biblioteca Comunale di Mariano del Friuli",
+        "links": [
+          {
+            "text": "www.comune.marianodelfriuli.go.it",
+            "url": "http://www.comune.marianodelfriuli.go.it"
+          }
+        ],
+        "addresses": [
+          "Via Manzoni 54, 34070 Mariano del Friuli (GO)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/mariano-del-friuli__1",
+      "text": "#### Chiesa di San Gottardo (Mariano del Friuli)\n\n**Ubicazione:** Piazza della Chiesa, Mariano del Friuli\n\nLa chiesa parrocchiale dedicata a San Gottardo Vescovo è il principale edificio di culto del comune e il fulcro della vita religiosa e culturale di Mariano del Friuli. La festa patronale si celebra ogni anno il 5 maggio. L'edificio conserva arredi sacri, dipinti votivi e opere di arte sacra che documentano la devozione locale nel corso dei secoli. La chiesa è testimone silenziosa delle vicende storiche del territorio, segnato dalle invasioni turche nel Quattrocento e dai conflitti tra Veneziani, Austriaci e Francesi nei secoli successivi.",
+      "metadata": {
+        "section_title": "Chiesa di San Gottardo (Mariano del Friuli)",
+        "links": [],
+        "addresses": [
+          "Piazza della Chiesa, Mariano del Friuli"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/mariano-del-friuli__2",
+      "text": "#### Chiesetta della Santissima Trinità (Mariano del Friuli)\n\n**Ubicazione:** Mariano del Friuli\n\nPiccolo oratorio votivo che appartiene alla tipologia diffusissima delle cappelle rurali friulane, erette spesso per devozione popolare o ex voto a seguito di eventi traumatici — pestilenze, battaglie, carestie. Pur non accessibile con continuità, rappresenta un frammento significativo della religiosità rurale della pianura goriziana.",
+      "metadata": {
+        "section_title": "Chiesetta della Santissima Trinità (Mariano del Friuli)",
+        "links": [],
+        "addresses": [
+          "Mariano del Friuli"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/mariano-del-friuli__3",
+      "text": "#### Chiesa dei Santi Maria e Zenone (Frazione Corona)\n\n**Ubicazione:** Frazione Corona, Mariano del Friuli\n\nLa chiesa parrocchiale della frazione di Corona è dedicata ai Santi Maria e Zenone. Custodisce opere di arte sacra di interesse locale e rappresenta il centro identitario della piccola comunità di Corona. Come per molte chiese rurali del Friuli, la sua architettura rispecchia le stratificazioni storiche del territorio isontino, con elementi che testimoniano le diverse dominazioni e influenze culturali che hanno caratterizzato la regione nel corso dei secoli.",
+      "metadata": {
+        "section_title": "Chiesa dei Santi Maria e Zenone (Frazione Corona)",
+        "links": [],
+        "addresses": [
+          "Frazione Corona, Mariano del Friuli"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/vivaro.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Vivaro",
+  "province": "PN",
+  "page_title": "Vivaro",
+  "page_summary": "Guida ai principali ristoranti del comune di Vivaro: un agriturismo rurale con cucina friulana e una pizzeria storica nel capoluogo.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vivaro.md",
+  "processed_at": "2026-04-09T14:06:04.117Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/vivaro__0",
+      "text": "### Agriturismo Lupo Alberto\n\n**Indirizzo:** Via Macillis, 2 – 33099 Vivaro (PN)\n**Telefono:** +39 0427 976088\n**Sito web:** [agriturismolupoalberto.it](http://agriturismolupoalberto.it)\n\nL'Agriturismo Lupo Alberto è la principale destinazione gastronomica del comune di Vivaro e uno dei pochi indirizzi dove poter sedersi a tavola e gustare i piatti della tradizione friulana in una cornice di vera campagna pordenonese. La struttura sorge immersa nel verde, con vigneti e orti che circondano la casa rurale, e l'atmosfera che si respira è quella calda e genuina di un agriturismo familiare gestito con passione.\n\nIl locale è caratterizzato dalla presenza del tradizionale **fogolar friulano**, il grande camino rustico che nelle fredde giornate invernali diventa il centro della vita conviviale, attorno al quale si raccolgono ospiti e famiglia. Questa scelta non è puramente decorativa: il fogolar è parte integrante dell'identità culturale friulana, il simbolo del focolare domestico attorno a cui si sono costruite generazioni di famiglie in questa regione.\n\nIl menù ruota attorno alla stagionalità e alle produzioni proprie dell'azienda agricola annessa. Tra i **piatti signature** spiccano:\n\n- Il **frico con polenta**, nella sua versione tradizionale a base di Montasio fuso con patate, croccante fuori e morbido dentro, accompagnato dalla polenta gialla friulana;\n- Le **grigliate di carne** provenienti da allevamenti di fiducia della zona, proposte con contorni freschi dell'orto;\n- Gli **asparagi freschi** durante la stagione primaverile, coltivati direttamente nell'azienda e serviti in diverse preparazioni — dalle zuppe ai contorni, fino ai secondi;\n- Paste fatte in casa e zuppe stagionali che cambiano a seconda della disponibilità degli ingredienti freschi.\n\nIn cantina, Lupo Alberto propone vini prodotti dai propri vigneti, che comprendono varietà friulane e venete come **Ribolla Gialla**, **Pinot Grigio**, **Chardonnay**, **Prosecco**, **Pinot Nero** e **Cabernet Franc** — una piccola produzione vinicola che consente agli ospiti di accompagnare il pasto con etichette nate sullo stesso terroir in cui si trovano seduti.\n\nL'agriturismo offre anche **camere per il pernottamento** (singole a 40 €, doppie a 80 €, colazione inclusa), rendendolo una base comoda per chi vuole esplorare l'area di Maniago, Spilimbergo e le Dolomiti Friulane. Per i bambini è disponibile un'area giochi nel giardino esterno.\n\nDa non dimenticare le **confetture artigianali di produzione propria**, realizzate con frutta di stagione raccolta nell'azienda: un ottimo souvenir gastronomico da portare a casa.\n\n**Fascia di prezzo:** €/€€ – cucina tipica a prezzi popolari, adatta a famiglie\n**Ideale per:** pranzi domenicali in famiglia, gruppi, eventi privati, soggiorni agriturismo",
+      "metadata": {
+        "section_title": "Agriturismo Lupo Alberto",
+        "links": [
+          {
+            "text": "agriturismolupoalberto.it",
+            "url": "http://agriturismolupoalberto.it"
+          }
+        ],
+        "addresses": [
+          "Via Macillis, 2 – 33099 Vivaro (PN)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€/€€ – cucina tipica a prezzi popolari, adatta a famiglie"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/vivaro__1",
+      "text": "### Pizzeria Da Paolino\n\n**Indirizzo:** Via Roma, 4 – 33099 Vivaro (PN)\n**Telefono:** +39 0427 97147\n\nLa Pizzeria Da Paolino è il locale di riferimento per i vivarini che cercano una pizza o una cena informale nel centro del paese. Situata lungo Via Roma, la strada principale del capoluogo, è un indirizzo radicato nella vita quotidiana del borgo: uno di quei posti dove i residenti si incontrano per una pizza in settimana o nel fine settimana, senza cerimonie.\n\nL'offerta è quella classica di una pizzeria di paese friulana: pizze cotte in forno, piatti semplici della tradizione locale, ambiente familiare. Non è un locale di tendenza né aspira a esserlo — è piuttosto un presidio della socialità paesana, quel tipo di locale che in Friuli si chiama semplicemente \"la pizzeria\" e che rappresenta un punto fermo per la comunità locale.\n\n**Fascia di prezzo:** € – economico, adatto a cene informali e famiglie\n**Ideale per:** pizza in compagnia, cene casual tra amici",
+      "metadata": {
+        "section_title": "Pizzeria Da Paolino",
+        "links": [],
+        "addresses": [
+          "Via Roma, 4 – 33099 Vivaro (PN)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ – economico, adatto a cene informali e famiglie"
+      }
+    }
+  ]
+}

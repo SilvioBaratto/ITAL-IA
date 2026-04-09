@@ -1,0 +1,19 @@
+{
+  "comune_name": "Dogna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dogna.md",
+  "extracted_at": "2026-04-09T10:24:23.169Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Leonardo Abate",
+      "address": "Via Roma 54, Dogna (UD)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68396",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Leonardo%20Abate%2C%20Via%20Roma%2054%2C%20Dogna%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Leonardo Abate è il principale luogo di culto di Dogna e rappresenta il punto di riferimento storico-artistico del paese. Ricostruita tra il 1948 e il 1949 su progetto dell'architetto Leone Morandini, si caratterizza per la pianta a croce greca, il tiburio centrale e un portico su colonne lapidee. L'interno, decorato con marmi e pitture, riflette la sobria modernità dell'architettura religiosa friulana del secondo dopoguerra. Danneggiata dal terremoto del 1976, fu restaurata negli anni Ottanta e testimonia la resilienza della comunità locale.",
+      "comune_name": "Dogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dogna.md"
+    }
+  ]
+}

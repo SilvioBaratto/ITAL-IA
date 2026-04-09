@@ -1,0 +1,107 @@
+{
+  "comune_name": "Aquileia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md",
+  "extracted_at": "2026-04-09T10:53:21.213Z",
+  "pois": [
+    {
+      "name": "Locanda Aquila Nera",
+      "address": "Piazza Garibaldi 5, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Aquila%20Nera%2C%20Piazza%20Garibaldi%205%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Locanda Aquila Nera è il ristorante più storico di Aquileia, noto per la sua cucina friulana autentica servita in un ambiente informale e d'atmosfera. Specializzato in piatti locali come cjarsons e tagliolini con prosciutto San Daniele, offre anche pizze di qualità e opzioni vegetariane e senza glutine. È il punto di riferimento per chi cerca sapori genuini e tradizionali a prezzi accessibili.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Trattoria al Morar",
+      "address": "Località Beligna 66, 33051 Aquileia (UD)",
+      "website_url": "https://landing.trattoriamorar.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Morar%2C%20Localit%C3%A0%20Beligna%2066%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Trattoria al Morar è un locale di lunga tradizione a pochi minuti dal centro, apprezzato per la genuinità della cucina friulana e di mare. Il menu spazia tra gnocchi fatti in casa, frittura di calamari, seppia in umido e pesce fresco del giorno, riflettendo la cura per gli ingredienti locali e la stagionalità. L'ambiente è accogliente, ideale sia per famiglie che per appassionati di cucina tipica.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Bar Cjapitul",
+      "address": "Piazza Capitolo 9, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Cjapitul%2C%20Piazza%20Capitolo%209%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Bar Cjapitul si trova accanto alla Basilica di Santa Maria Assunta e offre un'esperienza conviviale con tavoli all'aperto sulla piazza storica. Propone piatti semplici e tradizionali come la pasta frico e bruschette, ideali per un rapido assaggio dei sapori friulani in un'atmosfera informale. Perfetto per chi desidera una pausa rilassata nel cuore della città.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Alla Frasca",
+      "address": "Via San Zilli 50, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Frasca%2C%20Via%20San%20Zilli%2050%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Alla Frasca è un ristorante familiare immerso nella tranquillità, celebre per la carne alla griglia su fuoco di legna. L'atmosfera rustica, arricchita da un giardino vivace e un tocco contadino, rende il locale accogliente e autentico. Costine di maiale, salsicce e strudel sono le specialità che spiccano, accompagnate da eccellenti vini della casa.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Ristorante Corallo",
+      "address": "Via Beligna 3, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Corallo%2C%20Via%20Beligna%203%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Corallo è rinomato per la sua cucina di mare che valorizza il pesce freschissimo della costa adriatica friulana. Offre piatti signature come spaghetti allo scoglio, pasticcio di pesce, risotto ai frutti di mare e cozze particolarmente apprezzate. L'ambiente è romantico e il servizio si distingue per attenzione e premura verso gli ospiti.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Albergo Ristorante Pizzeria Alla Basilica",
+      "address": "Via della Stazione 2, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Pizzeria%20Alla%20Basilica%2C%20Via%20della%20Stazione%202%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Situato nel centro di Aquileia, Albergo Ristorante Pizzeria Alla Basilica unisce ospitalità alberghiera e cucina tipica in un'unica struttura. Il locale offre piatti friulani e zuppe di pesce, pizze di qualità e dolci artigianali, con un servizio familiare noto per la cordialità. Rappresenta una scelta pratica anche per soggiornare vicino ai principali monumenti della città.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Ristorante Ai Due Leoni",
+      "address": "Via Statale Aquileia-Grado, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Ai%20Due%20Leoni%2C%20Via%20Statale%20Aquileia-Grado%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Ai Due Leoni si distingue per il concetto \"dal pescatore al consumatore\", servendo pesce freschissimo grazie alla gestione della cooperativa di pescatori locale. Il menu abbonda di specialità di mare come spaghetti alle vongole, risotto ai frutti di mare, seppie in umido e grigliate miste. L'ampia sala lo rende adatto a pranzi e cene in compagnia, soprattutto nella stagione turistica.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Antica Aquileia Ristorante e Pizzeria",
+      "address": "Via Bertrando di San Genies 2, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Aquileia%20Ristorante%20e%20Pizzeria%2C%20Via%20Bertrando%20di%20San%20Genies%202%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Antica Aquileia è una ristorante-pizzeria ideale per gruppi e famiglie, situato vicino agli scavi archeologici della città. Il locale dispone di ampi spazi e offre un menu vario che include pizze, piatti mediterranei, specialità friulane e opzioni vegetariane e senza glutine. L'atmosfera è informale e il servizio si adatta a esigenze diversificate.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    },
+    {
+      "name": "Savial Ristorante",
+      "address": "Piazza Duca d'Aosta, 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Savial%20Ristorante%2C%20Piazza%20Duca%20d'Aosta%2C%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Savial è un ristorante specializzato in pesce fresco, situato in posizione panoramica vicino alla chiesa principale. Propone classici della cucina adriatica come cozze marinara e orata alla griglia, valorizzando la freschezza delle materie prime. L'ambiente, con possibilità di mangiare all'aperto, è ideale per chi desidera gustare piatti di mare immersi nell'atmosfera della piazza.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aquileia.md"
+    }
+  ]
+}

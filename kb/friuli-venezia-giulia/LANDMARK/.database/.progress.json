@@ -1,0 +1,174 @@
+{
+  "aiello-del-friuli": {
+    "processed_at": "2026-04-09T10:31:42.471Z",
+    "poi_count": 10
+  },
+  "amaro": {
+    "processed_at": "2026-04-09T10:31:42.471Z",
+    "poi_count": 10
+  },
+  "ampezzo": {
+    "processed_at": "2026-04-09T10:32:14.744Z",
+    "poi_count": 12
+  },
+  "andreis": {
+    "processed_at": "2026-04-09T10:32:14.744Z",
+    "poi_count": 13
+  },
+  "aquileia": {
+    "processed_at": "2026-04-09T10:32:42.271Z",
+    "poi_count": 25
+  },
+  "arba": {
+    "processed_at": "2026-04-09T10:32:42.274Z",
+    "poi_count": 4
+  },
+  "arta-terme": {
+    "processed_at": "2026-04-09T10:33:01.261Z",
+    "poi_count": 10
+  },
+  "artegna": {
+    "processed_at": "2026-04-09T10:33:01.263Z",
+    "poi_count": 9
+  },
+  "attimis": {
+    "processed_at": "2026-04-09T10:33:26.546Z",
+    "poi_count": 12
+  },
+  "aviano": {
+    "processed_at": "2026-04-09T10:33:26.549Z",
+    "poi_count": 22
+  },
+  "azzano-decimo": {
+    "processed_at": "2026-04-09T10:34:03.353Z",
+    "poi_count": 18
+  },
+  "bagnaria-arsa": {
+    "processed_at": "2026-04-09T10:34:03.355Z",
+    "poi_count": 13
+  },
+  "barcis": {
+    "processed_at": "2026-04-09T10:34:40.759Z",
+    "poi_count": 15
+  },
+  "basiliano": {
+    "processed_at": "2026-04-09T10:34:40.761Z",
+    "poi_count": 17
+  },
+  "bertiolo": {
+    "processed_at": "2026-04-09T10:34:59.720Z",
+    "poi_count": 8
+  },
+  "bicinicco": {
+    "processed_at": "2026-04-09T10:34:59.721Z",
+    "poi_count": 5
+  },
+  "brugnera": {
+    "processed_at": "2026-04-09T10:35:23.856Z",
+    "poi_count": 9
+  },
+  "budoia": {
+    "processed_at": "2026-04-09T10:35:42.003Z",
+    "poi_count": 10
+  },
+  "buja": {
+    "processed_at": "2026-04-09T10:35:42.004Z",
+    "poi_count": 7
+  },
+  "buttrio": {
+    "processed_at": "2026-04-09T10:36:13.398Z",
+    "poi_count": 16
+  },
+  "camino-al-tagliamento": {
+    "processed_at": "2026-04-09T10:36:13.399Z",
+    "poi_count": 14
+  },
+  "campoformido": {
+    "processed_at": "2026-04-09T10:36:49.436Z",
+    "poi_count": 20
+  },
+  "campolongo-tapogliano": {
+    "processed_at": "2026-04-09T10:36:49.439Z",
+    "poi_count": 10
+  },
+  "caneva": {
+    "processed_at": "2026-04-09T10:37:08.794Z",
+    "poi_count": 10
+  },
+  "capriva-del-friuli": {
+    "processed_at": "2026-04-09T10:37:08.799Z",
+    "poi_count": 4
+  },
+  "carlino": {
+    "processed_at": "2026-04-09T10:37:23.374Z",
+    "poi_count": 2
+  },
+  "casarsa-della-delizia": {
+    "processed_at": "2026-04-09T10:37:23.375Z",
+    "poi_count": 11
+  },
+  "cassacco": {
+    "processed_at": "2026-04-09T10:37:42.149Z",
+    "poi_count": 8
+  },
+  "castelnovo-del-friuli": {
+    "processed_at": "2026-04-09T10:37:42.150Z",
+    "poi_count": 7
+  },
+  "castions-di-strada": {
+    "processed_at": "2026-04-09T10:38:14.531Z",
+    "poi_count": 18
+  },
+  "cavasso-nuovo": {
+    "processed_at": "2026-04-09T10:38:14.531Z",
+    "poi_count": 4
+  },
+  "cavazzo-carnico": {
+    "processed_at": "2026-04-09T10:38:38.274Z",
+    "poi_count": 8
+  },
+  "cercivento": {
+    "processed_at": "2026-04-09T10:38:38.276Z",
+    "poi_count": 10
+  },
+  "cervignano-del-friuli": {
+    "processed_at": "2026-04-09T10:39:10.510Z",
+    "poi_count": 17
+  },
+  "chions": {
+    "processed_at": "2026-04-09T10:39:10.510Z",
+    "poi_count": 11
+  },
+  "chiopris-viscone": {
+    "processed_at": "2026-04-09T10:39:42.635Z",
+    "poi_count": 5
+  },
+  "chiusaforte": {
+    "processed_at": "2026-04-09T10:39:42.636Z",
+    "poi_count": 14
+  },
+  "cimolais": {
+    "processed_at": "2026-04-09T10:40:17.854Z",
+    "poi_count": 9
+  },
+  "cividale-del-friuli": {
+    "processed_at": "2026-04-09T10:40:17.856Z",
+    "poi_count": 20
+  },
+  "clauzetto": {
+    "processed_at": "2026-04-09T10:41:03.417Z",
+    "poi_count": 10
+  },
+  "codroipo": {
+    "processed_at": "2026-04-09T10:41:03.419Z",
+    "poi_count": 25
+  },
+  "colloredo-di-monte-a": {
+    "processed_at": "2026-04-09T10:41:30.304Z",
+    "poi_count": 10
+  },
+  "comeglians": {
+    "processed_at": "2026-04-09T10:41:30.307Z",
+    "poi_count": 9
+  }
+}

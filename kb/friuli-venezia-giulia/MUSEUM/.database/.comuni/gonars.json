@@ -1,0 +1,52 @@
+{
+  "comune_name": "Gonars",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gonars.md",
+  "extracted_at": "2026-04-09T10:48:55.362Z",
+  "pois": [
+    {
+      "name": "Sacrario Memoriale del Campo di Concentramento — Cimitero Comunale",
+      "address": "Gonars (capoluogo) — Cimitero civico, via del Cimitero n. 32",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sacrario%20Memoriale%20del%20Campo%20di%20Concentramento%20%E2%80%94%20Cimitero%20Comunale%2C%20Gonars%20(capoluogo)%20%E2%80%94%20Cimitero%20civico%2C%20via%20del%20Cimitero%20n.%2032",
+      "image_url": null,
+      "description": "Il Sacrario Memoriale si trova all'interno del cimitero comunale di Gonars ed è il principale luogo della memoria legato al campo di concentramento fascista attivo tra il 1942 e il 1943. Realizzato nel 1973 su progetto dello scultore Miodrag Živković, il monumento ha la forma di un grande fiore stilizzato e custodisce le urne di 471 persone, fra cui civili sloveni e croati internati nel campo. Ogni anno ospita cerimonie commemorative internazionali, rappresentando un importante monito contro la guerra e il fascismo.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gonars.md"
+    },
+    {
+      "name": "Parco della Memoria — Area dell'ex Campo di Concentramento",
+      "address": "Gonars (capoluogo) — lungo la via Napoleonica (SS 252 di Palmanova)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20della%20Memoria%20%E2%80%94%20Area%20dell'ex%20Campo%20di%20Concentramento%2C%20Gonars%20(capoluogo)%20%E2%80%94%20lungo%20la%20via%20Napoleonica%20(SS%20252%20di%20Palmanova)",
+      "image_url": null,
+      "description": "Il Parco della Memoria è stato inaugurato nel 2009 nel luogo esatto dove sorgeva il campo di concentramento di Gonars, ora totalmente scomparso. Questo spazio commemorativo ospita riproduzioni di opere realizzate dagli internati, tra cui pittori e poeti che documentarono la propria esperienza. Il parco nasce all'interno del progetto \"The Gonars Memorial\" e rappresenta un luogo di riflessione e trasmissione della memoria storica locale.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gonars.md"
+    },
+    {
+      "name": "Monumento all'Aviazione",
+      "address": "Gonars (capoluogo), area del centro urbano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20all'Aviazione%2C%20Gonars%20(capoluogo)%2C%20area%20del%20centro%20urbano",
+      "image_url": null,
+      "description": "Il Monumento all'Aviazione, realizzato nel 1968 dall'artista Gigi Di Luca, commemora il campo di aviazione militare attivo durante la Prima guerra mondiale a Gonars. L'opera, un bassorilievo in bronzo, ricorda una coraggiosa azione del Maggiore Oreste Salomone nel febbraio 1916 e celebra la presenza delle squadriglie militari nella zona. È un esempio della scultura monumentale friulana del dopoguerra ed è liberamente visibile all'aperto.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gonars.md"
+    },
+    {
+      "name": "Reperti Storici presso la Scuola Secondaria \"T. Marzuttini\"",
+      "address": "Gonars (capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Reperti%20Storici%20presso%20la%20Scuola%20Secondaria%20%22T.%20Marzuttini%22%2C%20Gonars%20(capoluogo)",
+      "image_url": null,
+      "description": "La scuola secondaria \"T. Marzuttini\" di Gonars conserva alcune urne cinerarie di età romana rinvenute nel territorio comunale, oltre a reperti longobardi e medievali di particolare interesse. La raccolta non è un museo strutturato né aperto al pubblico regolarmente, ma rappresenta un deposito di valore didattico e storico, accessibile su richiesta tramite la scuola o il Comune.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gonars.md"
+    }
+  ]
+}

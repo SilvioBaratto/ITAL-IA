@@ -1,0 +1,63 @@
+{
+  "comune_name": "Martignacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/martignacco.md",
+  "extracted_at": "2026-04-09T10:50:46.164Z",
+  "pois": [
+    {
+      "name": "Villa del Torso Totis (Faugnacco)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20del%20Torso%20Totis%20(Faugnacco)%2C%20Martignacco",
+      "image_url": null,
+      "description": "Villa del Torso Totis è la più importante dimora storica di Martignacco, edificata tra XVII e XVIII secolo dalla famiglia del Torso e successivamente appartenente ai Totis. La villa presenta elementi tipici delle residenze aristocratiche friulane, con una facciata imponente, barchesse laterali e un parco all'italiana. Gli interni conservano, secondo le fonti, affreschi e arredi d’epoca; la proprietà è privata e non regolarmente aperta al pubblico. L'insieme architettonico è sottoposto a vincolo dalla Soprintendenza ai Beni Architettonici e Paesaggistici del Friuli Venezia Giulia.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/martignacco.md"
+    },
+    {
+      "name": "Villa di Prampero (Ceresetto)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20di%20Prampero%20(Ceresetto)%2C%20Martignacco",
+      "image_url": null,
+      "description": "Situata nella frazione di Ceresetto, la Villa di Prampero rappresenta un esempio di architettura signorile friulana del XVIII secolo, storica residenza dell'antica famiglia nobiliare Prampero. La villa si distingue per il corpo centrale con loggia e le corti rurali annesse, combinando funzioni residenziali e di controllo agricolo. La proprietà è privata e l’archivio familiare originale si trova presso l’Archivio di Stato di Udine.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/martignacco.md"
+    },
+    {
+      "name": "Villa Deciani (Martignacco)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Deciani%20(Martignacco)%2C%20Martignacco",
+      "image_url": null,
+      "description": "Villa Deciani è una dimora storica nel comune di Martignacco appartenente all’omonima famiglia, importante nella storia locale tra il XVIII e il XIX secolo. L’edificio riflette le caratteristiche architettoniche dell’aristocrazia friulana di quel periodo e contribuisce al patrimonio paesaggistico e culturale del territorio. Non svolge funzioni museali né risulta abitualmente aperta al pubblico.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/martignacco.md"
+    },
+    {
+      "name": "Biblioteca Civica Elsa Buiese",
+      "address": "Via Delser, Martignacco (UD)",
+      "website_url": "https://www.comune.martignacco.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20Elsa%20Buiese%2C%20Via%20Delser%2C%20Martignacco%20(UD)",
+      "image_url": null,
+      "description": "La Biblioteca Civica Elsa Buiese è il principale istituto culturale pubblico di Martignacco, dedicato a Elsa Buiese. Pur non essendo un museo, la biblioteca conserva la memoria locale e svolge un importante ruolo di animazione culturale, organizzando mostre, presentazioni di libri e varie iniziative. È il centro di riferimento per la consultazione di materiali sulla storia e la cultura del comune.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/martignacco.md"
+    },
+    {
+      "name": "Fiera di Udine (Frazione Torreano)",
+      "address": "Via Cotonificio 96, Torreano di Martignacco (UD)",
+      "website_url": "http://www.udineexpo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fiera%20di%20Udine%20(Frazione%20Torreano)%2C%20Via%20Cotonificio%2096%2C%20Torreano%20di%20Martignacco%20(UD)",
+      "image_url": null,
+      "description": "La Fiera di Udine, situata nella frazione di Torreano, è uno dei principali poli fieristici regionali e ospita regolarmente esposizioni, manifestazioni culturali e rassegne legate a arte, artigianato e tradizioni friulane. Sebbene non sia un museo, rappresenta un centro attivo per eventi culturali e mostre temporanee, contribuendo alla vivacità culturale di Martignacco e dintorni.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/martignacco.md"
+    }
+  ]
+}

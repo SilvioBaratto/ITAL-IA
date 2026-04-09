@@ -1,0 +1,52 @@
+{
+  "comune_name": "Buja",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buja.md",
+  "extracted_at": "2026-04-09T10:43:14.813Z",
+  "pois": [
+    {
+      "name": "Pieve Arcipretale di San Lorenzo — Monte di Buja",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20Arcipretale%20di%20San%20Lorenzo%20%E2%80%94%20Monte%20di%20Buja%2C%20Buja",
+      "image_url": null,
+      "description": "La Pieve Arcipretale di San Lorenzo è il più antico e importante edificio monumentale di Buja, situato sulla sommità del colle più elevato del territorio. Ospita resti di una basilica paleocristiana del V secolo e un ciclo di dieci affreschi gotici mariani, considerato il più esteso del Friuli medievale. Restaurata dopo i danni subiti dal terremoto del 1976, è accessibile durante le funzioni religiose o su richiesta.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buja.md"
+    },
+    {
+      "name": "Santuario della Madonna — Frazione Madonna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20%E2%80%94%20Frazione%20Madonna%2C%20Buja",
+      "image_url": null,
+      "description": "Il Santuario della Madonna, situato nell'omonima frazione di Buja, è noto per la devozione locale nata da una leggenda di apparizione mariana. All'interno si conserva una pregevole statua lignea della Madonna con Bambino, scolpita nel 1481 da Domenico da Tolmezzo, figura centrale del Quattrocento friulano. Il santuario fu ricostruito dopo il 1976 e l'accesso è libero durante le ore di culto.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buja.md"
+    },
+    {
+      "name": "Duomo di Santo Stefano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Santo%20Stefano%2C%20Buja",
+      "image_url": null,
+      "description": "Il Duomo di Santo Stefano è la chiesa parrocchiale principale di Buja, realizzato in stile neogotico tra il 1889 e il 1898 e ricostruito dopo il terremoto del 1976 mantenendo l'aspetto originario. L'edificio conserva opere d'arte di rilievo come l'altare maggiore barocco, una Madonna del Rosario del 1639, stalli lignei artistici e vetrate absidali realizzate da artisti locali. L'accesso è libero durante le ore di culto e su richiesta alla parrocchia.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buja.md"
+    },
+    {
+      "name": "Chiesa con Mosaici della Scuola di Spilimbergo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20con%20Mosaici%20della%20Scuola%20di%20Spilimbergo%2C%20Buja",
+      "image_url": null,
+      "description": "Questa chiesa, costruita nel 1942 in stile romanico a tre navate, si distingue per i mosaici realizzati dalla Scuola Mosaicisti del Friuli di Spilimbergo su cartoni di Fred Pittino. Gli interni ospitano inoltre una Via Crucis scolpita in Pietra Piasentina da Max Piccini. L'edificio rappresenta una commistione tra architettura religiosa moderna e lavorazioni artistiche regionali d'eccellenza.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buja.md"
+    }
+  ]
+}

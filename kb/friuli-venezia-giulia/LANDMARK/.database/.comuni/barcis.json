@@ -1,0 +1,173 @@
+{
+  "comune_name": "Barcis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md",
+  "extracted_at": "2026-04-09T10:34:40.757Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Giovanni Battista",
+      "address": "Barcis — Via Piave",
+      "website_url": "http://www.barcis.fvg.it/Chiese-e-devozione.31.0.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giovanni%20Battista%2C%20Barcis%20%E2%80%94%20Via%20Piave",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giovanni Battista è il principale luogo di culto di Barcis, con origini nel XVI secolo e struttura attuale settecentesca ampliata nel 1866. L'interno a navata unica ospita un altare maggiore barocco, opere marmoree e affreschi di soggetto religioso. La chiesa è il cuore spirituale della comunità e sede delle più sentite celebrazioni locali, in particolare la festa patronale del 24 giugno.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Palazzo Centi",
+      "address": "Barcis — centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Centi%2C%20Barcis%20%E2%80%94%20centro%20storico",
+      "image_url": null,
+      "description": "Palazzo Centi è l'edificio civile di maggior pregio storico e architettonico di Barcis, costruito nel XVII secolo. Sintetizza elementi rustici tipici della Valcellina e quelli veneziani, con una facciata caratteristica a doppio loggiato e sobrietà ornamentale. È una testimonianza significativa dello sviluppo sociale ed economico del paese tra Cinque e Seicento.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Cappella di San Daniele del Monte",
+      "address": "Barcis — monte omonimo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Daniele%20del%20Monte%2C%20Barcis%20%E2%80%94%20monte%20omonimo",
+      "image_url": null,
+      "description": "La Cappella di San Daniele del Monte, risalente al XIII secolo, è tra i siti storici più antichi e simbolici di Barcis, meta di pellegrinaggi e oggetto di antichissima devozione. Gravemente danneggiata da un fulmine nel 1806, oggi ne restano i ruderi che mantengono vivo il ricordo della spiritualità e identità locali. Il sito è tappa di un itinerario storico-devozionale tra i luoghi di culto della Valcellina.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Chiesetta di San Giorgio (Roppe)",
+      "address": "Barcis — frazione di Roppe",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Giorgio%20(Roppe)%2C%20Barcis%20%E2%80%94%20frazione%20di%20Roppe",
+      "image_url": null,
+      "description": "La Chiesetta di San Giorgio si trova nella frazione di Roppe, su un sito di fondamentale importanza per la storia ecclesiastica locale. Costruita nel XVIII secolo sul luogo dell'antica pieve, sostituisce una struttura ancor più antica risalente all'VIII secolo, distrutta nel 1392 da una frana. Rappresenta un forte elemento di memoria e identità religiosa della vallata.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Chiesetta di San Francesco (Ribe)",
+      "address": "Barcis — frazione di Ribe",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Francesco%20(Ribe)%2C%20Barcis%20%E2%80%94%20frazione%20di%20Ribe",
+      "image_url": null,
+      "description": "Situata nella frazione di Ribe, la Chiesetta di San Francesco è un piccolo edificio devozionale del XVIII secolo, costruito dagli abitanti come gesto votivo per invocare protezione contro i lupi e le avversità della vita alpina. È un esempio della profonda religiosità popolare e del legame spirituale con il territorio montano friulano.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Chiesetta degli Alpini (Cuol)",
+      "address": "Barcis — località Cuol",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20degli%20Alpini%20(Cuol)%2C%20Barcis%20%E2%80%94%20localit%C3%A0%20Cuol",
+      "image_url": null,
+      "description": "La Chiesetta degli Alpini in località Cuol è un luogo commemorativo dedicato alla memoria della Grande Guerra, a testimonianza del profondo legame tra gli alpini e la comunità locale. Eretta nel XX secolo, serve ancora oggi come punto di raccolta per le associazioni alpine e simbolo della resistenza durante i fatti del 1917.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Diga di Barcis e Lago Aprilis (Lago di Barcis)",
+      "address": "Barcis — sul torrente Cellina",
+      "website_url": "https://www.comune.barcis.pn.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Diga%20di%20Barcis%20e%20Lago%20Aprilis%20(Lago%20di%20Barcis)%2C%20Barcis%20%E2%80%94%20sul%20torrente%20Cellina",
+      "image_url": null,
+      "description": "La diga di Barcis, realizzata tra il 1952 e il 1954, ha creato il suggestivo lago di Barcis, noto anche come Lago Aprilis, che caratterizza la vallata con le sue splendide acque color verde smeraldo e turchese. Punto panoramico e centro per sport acquatici, la diga è ancora percorribile a piedi e rappresenta una delle opere di ingegneria idraulica più importanti del Friuli postbellico.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Riserva Naturale Forra del Cellina",
+      "address": "Barcis / Montereale Valcellina",
+      "website_url": "http://www.riservaforracellina.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Riserva%20Naturale%20Forra%20del%20Cellina%2C%20Barcis%20%2F%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La Riserva Naturale Forra del Cellina è un'area protetta di straordinaria bellezza che si estende tra Barcis e Montereale Valcellina, famosa per il suo profondo canyon scavato dal torrente Cellina nelle rocce dolomitiche. Ospita una ricca biodiversità e habitat incontaminati, offrendo scenari suggestivi e opportunità di esplorazione naturalistica uniche.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Vecchia Strada della Valcellina",
+      "address": "Barcis / Montereale Valcellina",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vecchia%20Strada%20della%20Valcellina%2C%20Barcis%20%2F%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La Vecchia Strada della Valcellina, inaugurata nel 1906 e dismessa nel 1992, è un esempio notevole di ingegneria stradale, famosa per il percorso panoramico sospeso sopra la forra del Cellina. Oggi il tratto tra Ponte Antoi e la diga storica è visitabile a piedi e offre un'esperienza spettacolare tra gallerie, ponti e paesaggi naturali.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Ponte Tibetano sul Cellina",
+      "address": "Barcis — ingresso alla Forra del Cellina",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ponte%20Tibetano%20sul%20Cellina%2C%20Barcis%20%E2%80%94%20ingresso%20alla%20Forra%20del%20Cellina",
+      "image_url": null,
+      "description": "Il ponte tibetano sul Cellina, lungo 55 metri, permette di attraversare la forra su una spettacolare passerella sospesa. Offre un punto di vista unico su pareti rocciose, vegetazione rupestre e fauna locale, diventando una delle principali attrazioni per gli appassionati di escursionismo e natura della zona.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Grotta Bus de la Volpe",
+      "address": "Barcis — lungo la Vecchia Strada della Valcellina",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20Bus%20de%20la%20Volpe%2C%20Barcis%20%E2%80%94%20lungo%20la%20Vecchia%20Strada%20della%20Valcellina",
+      "image_url": null,
+      "description": "La Grotta Bus de la Volpe è una cavità naturale nella forra del Cellina, situata vicino alla Vecchia Strada della Valcellina. Il suo ingresso nella roccia calcarea, scenario frequente per la fauna selvatica, è parte di un percorso escursionistico che valorizza uno dei punti più spettacolari dell’area.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Meridiana dell'\"Aquila Nera\"",
+      "address": "Barcis — centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Meridiana%20dell'%22Aquila%20Nera%22%2C%20Barcis%20%E2%80%94%20centro%20storico",
+      "image_url": null,
+      "description": "La Meridiana dell'\"Aquila Nera\" è un raffinato affresco realizzato da Pierino Sam sulla facciata dell’antica osteria che raffigura un'aquila e simboli gnomonici. Rappresenta un raro esempio di arte pubblica nel centro di Barcis e richiama il forte legame tra comunità e territorio montano.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Parco Regionale del Prescudin (Foresta Regionale)",
+      "address": "Barcis — area nord-est del territorio comunale",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Regionale%20del%20Prescudin%20(Foresta%20Regionale)%2C%20Barcis%20%E2%80%94%20area%20nord-est%20del%20territorio%20comunale",
+      "image_url": null,
+      "description": "La Foresta Regionale del Prescudin si estende nel settore nord-est del comune, ai piedi del monte Raut, ed è caratterizzata da ampi boschi di abeti, faggi e larici. È un’area di notevole biodiversità, percorsa da sentieri escursionistici, ideale per chi cerca immersione nella natura e osservazione della fauna alpina.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Sito del Meteorite di Barcis",
+      "address": "Barcis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20del%20Meteorite%20di%20Barcis%2C%20Barcis",
+      "image_url": null,
+      "description": "Il Sito del Meteorite di Barcis ricorda il ritrovamento nel 1953 di una rara pallasite, una tipologia di meteorite pietroso-ferrosa di grande valore scientifico. Questo evento assume rilievo nel contesto naturalistico della zona, arricchendo le curiosità storiche e geologiche del territorio.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    },
+    {
+      "name": "Sentiero degli Alpini e Luoghi della Grande Guerra",
+      "address": "Barcis — versanti nord e ovest",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sentiero%20degli%20Alpini%20e%20Luoghi%20della%20Grande%20Guerra%2C%20Barcis%20%E2%80%94%20versanti%20nord%20e%20ovest",
+      "image_url": null,
+      "description": "Il Sentiero degli Alpini ripercorre i luoghi del fronte della Prima Guerra Mondiale lungo i versanti di Barcis, teatro di duri combattimenti nel novembre 1917. Il percorso attraversa postazioni storiche, camminamenti e punti panoramici che permettono di cogliere il significato memoriale e paesaggistico di questa area.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/barcis.md"
+    }
+  ]
+}

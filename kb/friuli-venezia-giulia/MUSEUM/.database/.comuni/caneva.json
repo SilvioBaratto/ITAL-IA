@@ -1,0 +1,52 @@
+{
+  "comune_name": "Caneva",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/caneva.md",
+  "extracted_at": "2026-04-09T10:43:53.486Z",
+  "pois": [
+    {
+      "name": "Museo del Minatore \"Arduino Martinuzzo\" — Fratta",
+      "address": "Frazione Fratta, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Minatore%20%22Arduino%20Martinuzzo%22%20%E2%80%94%20Fratta%2C%20Frazione%20Fratta%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "Il Museo del Minatore \"Arduino Martinuzzo\" racconta la storia dell'emigrazione dei minatori di Caneva, in particolare verso il Belgio nel corso del Novecento. Conserva attrezzature, fotografie, lettere e oggetti che documentano la dura vita dei minatori e le tragedie, come la catastrofe di Marcinelle. Allestito nella frazione di Fratta, è gestito dalla comunità e visitabile su prenotazione o durante eventi.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/caneva.md"
+    },
+    {
+      "name": "Museo del Ciclismo \"Toni Pessot\"",
+      "address": "Comune di Caneva (PN) — 33070",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Ciclismo%20%22Toni%20Pessot%22%2C%20Comune%20di%20Caneva%20(PN)%20%E2%80%94%2033070",
+      "image_url": null,
+      "description": "Il Museo del Ciclismo di Caneva, dedicato a Toni Pessot, conserva biciclette d'epoca, maglie, trofei, fotografie e documenti sulle gare ciclistiche locali. Il museo funge anche da archivio della memoria sportiva locale e testimonia la viva tradizione ciclistica della zona. L'apertura è legata a eventi e manifestazioni, con informazioni reperibili presso il Comune.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/caneva.md"
+    },
+    {
+      "name": "Parco Archeologico del Palù di Livenza — Sito UNESCO",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Archeologico%20del%20Pal%C3%B9%20di%20Livenza%20%E2%80%94%20Sito%20UNESCO%2C%20Caneva",
+      "image_url": null,
+      "description": "Il Parco Archeologico del Palù di Livenza è uno dei principali siti palafitticoli del Neolitico in Europa ed è Patrimonio UNESCO. Situato tra Caneva e Polcenigo, offre percorsi naturalistici attraverso una zona ricca di biodiversità e storia antichissima. Sebbene non abbia un museo fisico, il sito è accessibile e valorizzato per le sue risorse archeologiche e ambientali.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/caneva.md"
+    },
+    {
+      "name": "Villa De Marchi – Barbieri – Frova – Corner – Posocco (Villa Frova) — Stevenà",
+      "address": "Stevenà di Caneva (PN) — 33070",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20De%20Marchi%20%E2%80%93%20Barbieri%20%E2%80%93%20Frova%20%E2%80%93%20Corner%20%E2%80%93%20Posocco%20(Villa%20Frova)%20%E2%80%94%20Steven%C3%A0%2C%20Steven%C3%A0%20di%20Caneva%20(PN)%20%E2%80%94%2033070",
+      "image_url": null,
+      "description": "Villa Frova, raffinata residenza ottocentesca nella frazione di Stevenà, è oggi uno spazio culturale multifunzionale di proprietà comunale. È sede di mostre, incontri, eventi e rappresenta il polo culturale del territorio. L'edificio, tutelato per il suo valore storico, ospita iniziative culturali stagionali organizzate dal Comune di Caneva.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/caneva.md"
+    }
+  ]
+}

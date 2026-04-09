@@ -1,0 +1,63 @@
+{
+  "comune_name": "Dignano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dignano.md",
+  "extracted_at": "2026-04-09T10:46:52.568Z",
+  "pois": [
+    {
+      "name": "Pieve dei Santi Pietro e Paolo – Dignano (frazione Vidulis)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20dei%20Santi%20Pietro%20e%20Paolo%20%E2%80%93%20Dignano%20(frazione%20Vidulis)%2C%20Dignano",
+      "image_url": null,
+      "description": "La pieve dei Santi Pietro e Paolo, documentata già nell'VIII secolo e ricostruita nel Cinquecento, è una delle chiese più antiche del Friuli. È rinomata per il ciclo di affreschi rinascimentali di Giovanni Pietro da Spilimbergo, che raffigurano Evangelisti e Dottori della Chiesa, e per le opere settecentesche di Giuseppe Buzzi dedicate alla Passione di Cristo. Oggi funge da cappella cimiteriale ed è visitabile su richiesta alla parrocchia.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dignano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Sebastiano Martire – Dignano",
+      "address": "Via Udine, Dignano (UD)",
+      "website_url": "http://www.comune.dignano.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Sebastiano%20Martire%20%E2%80%93%20Dignano%2C%20Via%20Udine%2C%20Dignano%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Sebastiano Martire è un notevole esempio di architettura neoclassica friulana, con origine nel XV secolo e successive ricostruzioni fino all’Ottocento. La facciata si distingue per un elegante pronao tetrastilo con colonne doriche e un campanile a base quadrata. All’interno si conservano un altare settecentesco di Giacomo Pischiutti, sculture di Gian Giacomo Contiero e dipinti cinquecenteschi su un altarolo di Bernardino Blaceo.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dignano.md"
+    },
+    {
+      "name": "Casa Pirona – Dignano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Pirona%20%E2%80%93%20Dignano%2C%20Dignano",
+      "image_url": null,
+      "description": "Casa Pirona è la dimora natale dell’abate Jacopo Pirona, linguista ottocentesco autore del primo grande dizionario friulano. Pur non essendo allestita come museo e non visitabile internamente, rappresenta un luogo simbolo della cultura e della memoria linguistica friulana. È riconoscibile dall’esterno nel centro storico del paese.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dignano.md"
+    },
+    {
+      "name": "Casa Pirona-Bisaro – Dignano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Pirona-Bisaro%20%E2%80%93%20Dignano%2C%20Dignano",
+      "image_url": null,
+      "description": "La Casa Pirona-Bisaro, risalente al Cinquecento, è uno dei rari esempi di casa carnica nel medio Friuli, con una facciata decorata da quattro archi in tufo. All’interno conserva due affreschi settecenteschi di pregio, che testimoniano il valore culturale delle famiglie proprietarie. L’edificio, pur essendo privato e non visitabile, è considerato un significativo monumento civile locale.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dignano.md"
+    },
+    {
+      "name": "Le Filande di Dignano – Dignano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Filande%20di%20Dignano%20%E2%80%93%20Dignano%2C%20Dignano",
+      "image_url": null,
+      "description": "Le Filande di Dignano, due edifici storici destinati alla lavorazione della seta, rappresentano la memoria dell’antica tradizione sericola friulana tra XVIII e XIX secolo. Pur non essendo oggi strutture museali o aperte al pubblico, rimangono un importante elemento del patrimonio industriale locale e sono visibili nel paesaggio del comune.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dignano.md"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "comune_name": "Cordenons",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md",
+  "extracted_at": "2026-04-09T10:23:38.292Z",
+  "pois": [
+    {
+      "name": "Duomo di Santa Maria Maggiore",
+      "address": "Cordenons (centro, Piazza della Vittoria)",
+      "website_url": "http://www.pordenonewithlove.it/it/cosa-fare/cultura/architetture/chiesa-di-santa-maria-maggiore-di-cordenons",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Santa%20Maria%20Maggiore%2C%20Cordenons%20(centro%2C%20Piazza%20della%20Vittoria)",
+      "image_url": null,
+      "description": "Il duomo di Santa Maria Maggiore è la chiesa madre di Cordenons, situata sulla piazza principale e riconoscibile dall'alto campanile sormontato da un angelo dorato. L'interno, a navata unica di stile neoclassico, ospita opere importanti tra cui la Pietà di Giuseppe Bernardi, tele di Gasparo Narvesa e Michelangelo Grigoletti e statue di Luigi De Paoli. La chiesa custodisce anche affreschi di Pierino Sam e il campanile con tre campane fuse dalla Fonderia De Poli.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Apostolo",
+      "address": "Cordenons (frazione San Giacomo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%2C%20Cordenons%20(frazione%20San%20Giacomo)",
+      "image_url": null,
+      "description": "Situata nella frazione di San Giacomo, questa chiesa rurale presenta origini medievali e conserva affreschi del XV secolo, attribuiti forse a Girolamo del Zocco. Gli affreschi emersi durante restauri recenti la collocano tra i principali esempi di arte sacra rurale del Friuli occidentale. Rimane un punto di riferimento religioso vivo per la comunità locale.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Battista",
+      "address": "Cordenons (frazione San Giovanni)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Battista%2C%20Cordenons%20(frazione%20San%20Giovanni)",
+      "image_url": null,
+      "description": "La chiesa di San Giovanni Battista si trova nell'omonima frazione e presenta una storia stratificata testimoniata da restauri e reperti del passato. Di particolare pregio è la statua dipinta del 1515 di Giovanni Antonio Pilacorte, insieme a un'acquasantiera coeva di qualità. L'edificio potrebbe aver svolto in passato la funzione di lazzaretto o ospizio, ed ospita anche un antico cippo di epoca franca.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio Abate",
+      "address": "Cordenons (frazione Pasch)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20Abate%2C%20Cordenons%20(frazione%20Pasch)",
+      "image_url": null,
+      "description": "La chiesa di Sant'Antonio Abate serve la piccola frazione di Pasch e riflette una sobria architettura rurale tipica della pianura friulana. Dedicata al santo protettore degli animali e delle comunità agricole, rappresenta l'espressione della devozione contadina locale, senza particolari ornamenti ma integrata nel paesaggio.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    },
+    {
+      "name": "Chiesa antica di San Pietro Apostolo",
+      "address": "Cordenons (frazione Sclavons)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20antica%20di%20San%20Pietro%20Apostolo%2C%20Cordenons%20(frazione%20Sclavons)",
+      "image_url": null,
+      "description": "Situata nella frazione di Sclavons, questa chiesa è una delle più antiche del territorio cordenonese e dedicata al patrono maggiore del comune. L'edificio, di origini medievali, ha svolto per secoli il ruolo di principale punto di riferimento religioso della frazione e mantiene ancora il carattere di testimonianza della storica comunità rurale.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    },
+    {
+      "name": "Chiesa nuova di San Pietro Apostolo",
+      "address": "Cordenons (frazione Sclavons)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20nuova%20di%20San%20Pietro%20Apostolo%2C%20Cordenons%20(frazione%20Sclavons)",
+      "image_url": null,
+      "description": "La chiesa nuova di San Pietro Apostolo a Sclavons è stata edificata recentemente per far fronte alle esigenze di una comunità in crescita. In linea con la tradizione friulana del Novecento, rappresenta l'evoluzione della devozione locale e testimonia il rafforzamento dell'identità comunitaria nella frazione.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    },
+    {
+      "name": "Chiesa di Santa Giovanna d'Arco",
+      "address": "Cordenons (frazione Villa d'Arco)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Giovanna%20d'Arco%2C%20Cordenons%20(frazione%20Villa%20d'Arco)",
+      "image_url": null,
+      "description": "Costruita nel 1928 per un voto collettivo dei contadini della frazione di Villa d'Arco, questa chiesa presenta un eclettismo architettonico che fonde elementi gotici e romanici. L'interno è arricchito da dipinti realizzati a fresca negli ultimi decenni e ospita un antico organo proveniente dalla pieve di Torre di Pordenone, rendendola un luogo di culto unico e ricco di storia comunitaria.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cordenons.md"
+    }
+  ]
+}

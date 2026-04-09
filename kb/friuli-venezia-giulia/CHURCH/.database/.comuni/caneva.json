@@ -1,0 +1,85 @@
+{
+  "comune_name": "Caneva",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md",
+  "extracted_at": "2026-04-09T10:21:02.126Z",
+  "pois": [
+    {
+      "name": "Chiesa Arcipretale di San Tommaso Apostolo — Caneva (capoluogo)",
+      "address": "Piazza Martiri Garibaldini 5, 33070 Caneva (PN)",
+      "website_url": "https://www.upcanevese.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Arcipretale%20di%20San%20Tommaso%20Apostolo%20%E2%80%94%20Caneva%20(capoluogo)%2C%20Piazza%20Martiri%20Garibaldini%205%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La chiesa arcipretale di San Tommaso Apostolo è il principale luogo di culto di Caneva e la parrocchia più antica del territorio, con origini che risalgono al XII secolo. L'attuale edificio neoclassico fu costruito tra il 1822 e il 1831 e consacrato nel 1855, e conserva importanti opere d'arte, tra cui un trittico di Francesco da Milano del 1512 e sculture di Enrico Chiaradia. Il campanile fu progettato da Giuseppe Vido. La chiesa testimonia il legame tra la committenza locale e alcuni dei maggiori artisti attivi nella zona tra Cinquecento e Ottocento.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    },
+    {
+      "name": "Antica Pieve di Santa Lucia / Cappella di San Salvatore — Castello di Caneva",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Pieve%20di%20Santa%20Lucia%20%2F%20Cappella%20di%20San%20Salvatore%20%E2%80%94%20Castello%20di%20Caneva%2C%20Caneva",
+      "image_url": null,
+      "description": "L'Antica Pieve di Santa Lucia, situata nell'area del Castello di Caneva, rappresenta il più antico insediamento religioso locale, documentato già nel 1249 come chiesa matrice. Dopo la decadenza del castello, perse la funzione parrocchiale e oggi è conosciuta come Cappella di San Salvatore. L'edificio superstite, risalente al tardo XVI secolo, conserva una torre campanaria ricavata da una struttura difensiva medievale ed è parte dei resti del complesso castellano di Caneva.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    },
+    {
+      "name": "Santuario della Madonna del Persego — Stevenà",
+      "address": "Stevenà, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20del%20Persego%20%E2%80%94%20Steven%C3%A0%2C%20Steven%C3%A0%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "Il Santuario della Madonna del Persego si trova a Stevenà ed è uno dei luoghi di devozione mariana più caratteristici del canevese. Legato a una leggenda locale secondo cui un evento miracoloso accadde presso un pesco, il santuario è meta di pellegrinaggio e luogo significativo per la comunità. La struttura ha carattere semplice e devozionale e mantiene un forte legame con la parrocchia di San Marco Evangelista di Stevenà.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Marco Evangelista — Stevenà",
+      "address": "Piazza San Marco 1, 33070 Stevenà di Caneva (PN)",
+      "website_url": "https://www.upcanevese.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Marco%20Evangelista%20%E2%80%94%20Steven%C3%A0%2C%20Piazza%20San%20Marco%201%2C%2033070%20Steven%C3%A0%20di%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Marco Evangelista a Stevenà ha origini antiche e la sua comunità parrocchiale venne eretta nel 1849. L'attuale edificio, consacrato nel 1867, è di stile eclettico ottocentesco tipico delle chiese rurali venete e friulane. All'interno si trova una cappella dedicata alla Beata Vergine del Carmine; la chiesa riflette la storia delle diverse appartenenze ecclesiastiche del territorio.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Immacolata — Sarone",
+      "address": "Piazza Vittoria 15, 33070 Sarone di Caneva (PN)",
+      "website_url": "https://www.upcanevese.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Immacolata%20%E2%80%94%20Sarone%2C%20Piazza%20Vittoria%2015%2C%2033070%20Sarone%20di%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La parrocchiale di Sarone si trova nell'area più settentrionale di Caneva e ha radici antichissime come pieve matrice per i paesi vicini. L'attuale chiesa, consacrata nel 1929, fonde elementi tardo-ottocenteschi e neoclassici, con una facciata a capanna e un altare ligneo settecentesco di pregio. All'interno sono conservate opere di autori come Eugenio Moretti Larese e una pala di Francesco da Milano, segno della vitalità artistica locale.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Assunta — Fratta",
+      "address": "Piazza XXX Ottobre 1, 33070 Fratta di Caneva (PN)",
+      "website_url": "https://www.upcanevese.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Fratta%2C%20Piazza%20XXX%20Ottobre%201%2C%2033070%20Fratta%20di%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria Assunta a Fratta sorge lungo un'importante via storica ed era originariamente una cappella dipendente dalla pieve di Sarone. L'attuale struttura ha subìto vari interventi dal Quattrocento all'Ottocento e presenta un campanile costruito nel 1944-45. Nell'abside si trova una preziosa tela di Francesco da Milano del 1520, mentre la chiesa custodisce anche una riproduzione della Grotta di Lourdes, segno di devozione popolare.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale dell'Annunciazione e del Santissimo Redentore — Fiaschetti",
+      "address": "Via Luigi Cadorna 14, 33070 Fiaschetti di Caneva (PN)",
+      "website_url": "https://www.upcanevese.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20dell'Annunciazione%20e%20del%20Santissimo%20Redentore%20%E2%80%94%20Fiaschetti%2C%20Via%20Luigi%20Cadorna%2014%2C%2033070%20Fiaschetti%20di%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Fiaschetti è la più recente del comune di Caneva, eretta parrocchia indipendente solo nel 1949 a seguito della crescita della comunità. L'edificio, di sobria architettura novecentesca, è dedicato sia all'Annunciazione che al Santissimo Redentore, una doppia titolazione che riflette la fusione di devozioni locali. Pur priva di opere di rilievo regionale, rappresenta un vitale centro spirituale per la frazione.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/caneva.md"
+    }
+  ]
+}

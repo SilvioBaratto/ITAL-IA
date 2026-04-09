@@ -1,0 +1,41 @@
+{
+  "comune_name": "Fontanafredda",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fontanafredda.md",
+  "extracted_at": "2026-04-09T10:48:16.601Z",
+  "pois": [
+    {
+      "name": "Biblioteca Comunale di Fontanafredda",
+      "address": "Vigonovo (frazione sede comunale), comune di Fontanafredda",
+      "website_url": "https://fontanafredda.infoteca.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Comunale%20di%20Fontanafredda%2C%20Vigonovo%20(frazione%20sede%20comunale)%2C%20comune%20di%20Fontanafredda",
+      "image_url": null,
+      "description": "La Biblioteca Comunale di Fontanafredda è il principale presidio culturale del territorio e svolge una funzione di conservazione e promozione della memoria locale. Ospita circa 20.000 documenti, una sezione per bambini, DVD e materiale di riferimento enciclopedico e offre postazioni internet e una sala studio. È anche un centro vitale per la vita culturale locale, con numerosi eventi, laboratori e collaborazioni con le associazioni del territorio.",
+      "comune_name": "Fontanafredda",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fontanafredda.md"
+    },
+    {
+      "name": "Ca' Anselmi – Sede della Pro Loco e centro culturale",
+      "address": "Via Grigoletti 11, Fontanafredda (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca'%20Anselmi%20%E2%80%93%20Sede%20della%20Pro%20Loco%20e%20centro%20culturale%2C%20Via%20Grigoletti%2011%2C%20Fontanafredda%20(PN)",
+      "image_url": null,
+      "description": "Ca' Anselmi è un edificio storico restaurato che ospita la Pro Loco Fontanafredda APS e altre realtà associative. Pur non essendo un museo, rappresenta il principale polo culturale del comune, promuovendo il patrimonio locale tramite mostre, eventi e manifestazioni dedicate alla storia e alle tradizioni di Fontanafredda.",
+      "comune_name": "Fontanafredda",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fontanafredda.md"
+    },
+    {
+      "name": "Sala ex Latteria Turnaria – Ranzano",
+      "address": "Via Verdi 1, frazione Ranzano, Fontanafredda (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sala%20ex%20Latteria%20Turnaria%20%E2%80%93%20Ranzano%2C%20Via%20Verdi%201%2C%20frazione%20Ranzano%2C%20Fontanafredda%20(PN)",
+      "image_url": null,
+      "description": "La sala della ex latteria turnaria di Ranzano è un esempio di riconversione di patrimonio rurale in spazio comunitario. In passato sede di una storica cooperativa per la lavorazione del latte, oggi l'edificio ospita eventi, mostre e incontri che testimoniano la civiltà agricola e cooperativa della zona.",
+      "comune_name": "Fontanafredda",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fontanafredda.md"
+    }
+  ]
+}

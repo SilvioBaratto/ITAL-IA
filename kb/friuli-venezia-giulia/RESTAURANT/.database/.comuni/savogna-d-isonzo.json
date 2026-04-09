@@ -1,0 +1,19 @@
+{
+  "comune_name": "Savogna D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/savogna-d-isonzo.md",
+  "extracted_at": "2026-04-09T11:19:24.258Z",
+  "pois": [
+    {
+      "name": "Lokanda Devetak 1870",
+      "address": "Via Brežiči 22, 34070 Savogna d'Isonzo (GO)",
+      "website_url": "https://www.devetak.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lokanda%20Devetak%201870%2C%20Via%20Bre%C5%BEi%C4%8Di%2022%2C%2034070%20Savogna%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "La Lokanda Devetak 1870, situata nella frazione di San Michele del Carso, è un ristorante storico a gestione familiare dal 1870, punto di riferimento della cucina carsica con forti richiami sloveni e austro-ungarici. La cucina privilegia ingredienti a km zero e stagionali, con piatti che valorizzano le materie prime del territorio come asparagi, tartufo, e agnello del Carso. Il locale è noto anche per la sua carta dei vini regionale e per aver ricevuto la Stella Verde Michelin, oltre a riconoscimenti da Slow Food e Falstaff. L'atmosfera è autentica e accogliente, offrendo anche un’osteria e camere per il pernottamento.",
+      "comune_name": "Savogna D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/savogna-d-isonzo.md"
+    }
+  ]
+}

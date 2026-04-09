@@ -1,0 +1,19 @@
+{
+  "comune_name": "Bicinicco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bicinicco.md",
+  "extracted_at": "2026-04-09T10:02:37.540Z",
+  "pois": [
+    {
+      "name": "L&S S.n.c. di Cocetta Stefania e Paul Luca",
+      "address": "Via Roma, 38 – 33050 Bicinicco (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Questo bar sulla via principale di Bicinicco rappresenta il centro della vita sociale locale, frequentato soprattutto da residenti e abituali del paese. Gestito dalla famiglia Paul e Cocetta, propone colazioni tradizionali con caffè espresso, cappuccino e brioches, e la sera offre spritz, birra e amari locali in un ambiente familiare e autentico. Non è orientato a turisti o clientela di passaggio, ma incarna l'autenticità della socialità friulana. Il bancone è un punto di incontro fondamentale, luogo di chiacchiere e gesti di amicizia tipici della comunità.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bicinicco.md"
+    }
+  ]
+}

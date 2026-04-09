@@ -1,0 +1,184 @@
+{
+  "comune_name": "Tricesimo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md",
+  "extracted_at": "2026-04-09T11:22:19.926Z",
+  "pois": [
+    {
+      "name": "Albergo Ristorante Boschetti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Boschetti%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Il Ristorante Boschetti rappresenta il locale di riferimento storico di Tricesimo, situato direttamente sulla centrale Piazza Garibaldi. Offre una cucina friulana tradizionale, con frico, minestre di fagioli, secondi di carne brasata o alla griglia e polenta con formaggi locali. L'ambiente classico e accogliente richiama le locande di montagna, mentre la carta dei vini privilegia le principali etichette DOC regionali. Adatto sia a professionisti che a famiglie, propone una fascia di prezzo media tra 25 e 40 euro a persona esclusi i vini.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Al Bottegón",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Botteg%C3%B3n%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Storico locale nel centro di Tricesimo, Al Bottegón funziona sia come albergo che ristorante con una posizione centrale sulla piazza principale. La cucina è tipicamente friulana e regionale, con una discreta selezione di pizze la sera. L'atmosfera è semplice e genuina, in linea con la tradizione delle trattorie friulane, e rappresenta un punto di aggregazione per residenti e visitatori. La fascia di prezzo è medio-bassa.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Al Cjariesâr",
+      "address": "Via Gorizia 13",
+      "website_url": "https://www.alcjariesar-tricesimo.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cjaries%C3%A2r%2C%20Via%20Gorizia%2013",
+      "image_url": null,
+      "description": "Al Cjariesâr è un ristorante e pizzeria molto apprezzato a Tricesimo, noto per la sua cucina friulana tradizionale e le pizze di qualità. Il menu segue la stagionalità delle materie prime locali, offre impasti alternativi e opzioni senza glutine ed è curato nei dettagli, con un'attenzione particolare anche ai vegetariani e vegani. L'ambiente è accogliente e raffinato senza essere formale, con personale esperto e una selezione di vini friulani e birre artigianali. Fascia di prezzo media (20–35 € circa).",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Da Miculan",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Miculan%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Da Miculan è un ristorante tipico situato nel centro di Tricesimo che propone una cucina casalinga friulana. I piatti richiamano la tradizione contadina udinese, come minestre robuste, carni in umido, baccalà alla friulana e diverse versioni di frico. Il locale, dal carattere famigliare e spartano, è particolarmente frequentato dai residenti. Fascia di prezzo bassa-media.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Gasthaus Heinz",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gasthaus%20Heinz%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Il Gasthaus Heinz è una locanda dal nome e dalla vocazione mitteleuropea, che unisce la tradizione friulana a quella asburgica. Il menu include piatti tipici come canederli, wurstel, zuppe e stufati di derivazione centro-europea, accanto ai classici friulani. È un locale che riflette la stratificazione culturale della zona pedemontana.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Pizzeria Friuli",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Friuli%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Pizzeria Friuli è un locale informale specializzato in pizze al piatto, situato nel centro di Tricesimo. L'ambiente è accogliente e frequentato soprattutto da famiglie e gruppi di amici. La pizza viene cotta con forno tradizionale, e il locale rappresenta un punto di riferimento per le serate in paese. Fascia di prezzo bassa.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Pizzeria Saccon",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Saccon%2C%20Tricesimo",
+      "image_url": null,
+      "description": "La Pizzeria Saccon si trova nella zona est del centro di Tricesimo e offre pizze e probabilmente un menu semplice di ristorazione. Il nome richiama le radici locali del proprietario. Presenta una fascia di prezzo bassa.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Pizzeria Ristorante Moby Dick",
+      "address": "Via Michelangelo Buonarroti 30 — CAP 33019",
+      "website_url": "http://www.pizzeriamobydick.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ristorante%20Moby%20Dick%2C%20Via%20Michelangelo%20Buonarroti%2030%20%E2%80%94%20CAP%2033019",
+      "image_url": null,
+      "description": "La Pizzeria Ristorante Moby Dick è un locale molto conosciuto a Tricesimo, situato nella zona sud, che propone sia pizze classiche sia una vasta selezione di impasti alternativi inclusi quelli senza glutine, anche da asporto. Il ristorante offre inoltre piatti di carne e pesce alla griglia insieme a specialità locali. Gli spazi sono ampi e climatizzati, con veranda estiva e parcheggio riservato. Recensioni online elogiano la qualità, la varietà del menu e il rapporto qualità-prezzo. Fascia di prezzo bassa-media.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Ristorante Belvedere",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Belvedere%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Situato nella zona collinare ovest di Tricesimo, il Ristorante Belvedere propone cucina italiana e friulana in un contesto panoramico e immerso nel verde. È un locale ideale per cene tranquille o gite fuori porta, offrendo piatti della tradizione regionale in un ambiente rilassato e meno urbano. Fascia di prezzo media.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Ostaria dal Borc",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostaria%20dal%20Borc%2C%20Tricesimo",
+      "image_url": null,
+      "description": "L'Ostaria dal Borc, nel cuore della Piazza Garibaldi, è una tipica osteria-bar friulana dove si possono gustare vini locali, cicchetti, affettati e piatti del giorno. Più che un ristorante classico, conserva la tradizione delle frasche friulane, diventando punto di ritrovo per aperitivi, spuntini e incontri conviviali nel centro di Tricesimo.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Osteria Ai Cuei di Barêt",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ai%20Cuei%20di%20Bar%C3%AAt%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Situata probabilmente nelle vicinanze della frazione di Leonacco a nord di Tricesimo, l'Osteria Ai Cuei di Barêt è immersa in un contesto rurale ed è frequentata da chi cerca la cucina friulana autentica e i vini del territorio. Propone i classici dell'osteria friulana come affettati, zuppe, frico e polenta, in un ambiente semplice e tradizionale.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Ostarie dal Palût",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostarie%20dal%20Pal%C3%BBt%2C%20Tricesimo",
+      "image_url": null,
+      "description": "L'Ostarie dal Palût si trova nella zona sud di Tricesimo, in un'area storicamente paludosa, e propone cucina tradizionale friulana in un ambiente rustico. È il luogo ideale per chi cerca le tipicità friulane in una cornice semplice e informale, legata al paesaggio tipico della bassa friulana.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Borgo Cesari",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Cesari%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Borgo Cesari è un ristorante situato nella parte meridionale del comune di Tricesimo, evocando l'atmosfera dei grandi casali rurali friulani. Il menu valorizza soprattutto i prodotti della campagna, come salumi nostrani, formaggi locali, ortaggi di stagione e carni allevate in zona. L'ambientazione è probabilmente agreste e tranquilla.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "A Modo Mio Pizzeria Gastronomia",
+      "address": "Via Pozzuolo — CAP 33019",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=A%20Modo%20Mio%20Pizzeria%20Gastronomia%2C%20Via%20Pozzuolo%20%E2%80%94%20CAP%2033019",
+      "image_url": null,
+      "description": "A Modo Mio è una pizzeria-gastronomia nella zona sud di Tricesimo, specializzata in pizza e gastronomia da asporto o da consumare in loco. Il locale si distingue per l'approccio personalizzato alla cucina, pensato per adattarsi alle esigenze dei clienti della zona. La posizione lungo Via Pozzuolo lo rende facilmente accessibile ai residenti.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Paulone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Paulone%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Il Ristorante Paulone si trova nella zona est di Tricesimo, verso le colline e la frazione di Morena. È un locale di quartiere o di campagna a conduzione familiare, dove si servono piatti tipici della cucina friulana in un'atmosfera rilassata e informale, frequentato soprattutto dalla clientela locale.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    },
+    {
+      "name": "Pizzeria Autogrill",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Autogrill%2C%20Tricesimo",
+      "image_url": null,
+      "description": "Pizzeria Autogrill è situata lungo la SS13 Pontebbana, principale arteria di passaggio di Tricesimo, e offre pizze e piatti veloci pensati per viaggiatori, pendolari e turisti. Si tratta di un luogo pratico per soste brevi, apprezzato per la rapidità del servizio e l'offerta adatta a chi è in viaggio.",
+      "comune_name": "Tricesimo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tricesimo.md"
+    }
+  ]
+}

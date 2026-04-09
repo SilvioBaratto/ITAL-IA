@@ -1,0 +1,52 @@
+{
+  "comune_name": "Claut",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/claut.md",
+  "extracted_at": "2026-04-09T10:45:30.596Z",
+  "pois": [
+    {
+      "name": "Museo della Casa Clautana — Centro Visite del Parco Naturale Dolomiti Friulane",
+      "address": "Via G. Giordani, 33080 Claut (PN)",
+      "website_url": "https://www.parcodolomitifriulane.it/centro-visite/centro-visite-di-claut-pn/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Casa%20Clautana%20%E2%80%94%20Centro%20Visite%20del%20Parco%20Naturale%20Dolomiti%20Friulane%2C%20Via%20G.%20Giordani%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Museo della Casa Clautana è il principale polo culturale di Claut e uno dei più significativi musei etnografici delle Dolomiti Friulane. Incentrato sulla figura della donna clautana, il museo documenta la vita quotidiana, il lavoro manuale e la pratica del commercio ambulante che caratterizzava la comunità locale. L'allestimento, trasferito nel Centro Visite del Parco Naturale Dolomiti Friulane, offre oggetti originali, ricostruzioni degli ambienti tradizionali e pannelli didattici, con ingresso gratuito e periodiche giornate aperte con artigiani.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/claut.md"
+    },
+    {
+      "name": "Ciasa da Fum — L'abitazione tradizionale del Seicento",
+      "address": "Claut, frazione centrale (a poche centinaia di metri dal Centro Visite), 33080 Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ciasa%20da%20Fum%20%E2%80%94%20L'abitazione%20tradizionale%20del%20Seicento%2C%20Claut%2C%20frazione%20centrale%20(a%20poche%20centinaia%20di%20metri%20dal%20Centro%20Visite)%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "La Ciasa da Fum, originale del XVII secolo, rappresenta un esempio autentico di abitazione tradizionale clautana. Caratterizzata dall'assenza di un camino e da un focolare centrale o laterale, l'edificio testimonia l'architettura vernacolara adattata alle risorse locali e al clima. Restaurata con criteri conservativi, è visitabile in abbinamento al Museo della Casa Clautana, offrendo la possibilità di osservare utensili e ambienti tipici di una vita alpina di sussistenza dignitosa.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/claut.md"
+    },
+    {
+      "name": "Mostra Permanente \"Memorie della Grande Guerra in Valcellina\"",
+      "address": "Piano terra del Centro Visite del Parco di Claut, Via G. Giordani, 33080 Claut (PN)",
+      "website_url": "https://www.parcodolomitifriulane.it/centro-visite/centro-visite-di-claut-pn/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mostra%20Permanente%20%22Memorie%20della%20Grande%20Guerra%20in%20Valcellina%22%2C%20Piano%20terra%20del%20Centro%20Visite%20del%20Parco%20di%20Claut%2C%20Via%20G.%20Giordani%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Questa esposizione permanente è dedicata alla Prima Guerra Mondiale in Valcellina, con particolare riferimento alla ritirata di Caporetto e ai suoi effetti sul territorio clautano. Attraverso immagini, reperti e il \"Diario di Giuseppina\", il percorso offre uno sguardo sulla prospettiva civile e femminile del conflitto. È presente una ricostruzione della Strada degli Alpini, itinerario storico-escursionistico, e l'ingresso è compreso nella visita al Centro Visite.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/claut.md"
+    },
+    {
+      "name": "Il Parco delle Sculture di Claut",
+      "address": "Territorio comunale di Claut, 33080 Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Parco%20delle%20Sculture%20di%20Claut%2C%20Territorio%20comunale%20di%20Claut%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Parco delle Sculture di Claut è uno spazio all'aperto che integra arte e paesaggio montano, proponendo un percorso didattico che unisce cultura etnografica e ambiente naturale. Inserito tra gli itinerari del Parco Naturale Dolomiti Friulane, il parco espone opere plastiche immersi nel contesto delle Dolomiti, arricchendo la proposta museale locale con un'esperienza che coniuga arte, storia e natura.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/claut.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Flaibano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/flaibano.md",
+  "extracted_at": "2026-04-09T10:26:12.739Z",
+  "pois": [
+    {
+      "name": "Chiesa della Beata Vergine Annunziata — Flaibano",
+      "address": "Piazza Cescutti, 33030 Flaibano (UD)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68427",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20Annunziata%20%E2%80%94%20Flaibano%2C%20Piazza%20Cescutti%2C%2033030%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa della Beata Vergine Annunziata è la parrocchiale del capoluogo di Flaibano e vanta una storia plurisecolare iniziata nel Quattrocento. L'attuale edificio, a navata unica con cappelle laterali, risale ai grandi rifacimenti del 1922-1933, ma conserva importanti opere d’arte come acquasantiere cinquecentesche, un altare marmoreo settecentesco e pannelli pittorici del XVI secolo attribuiti a Bernardino Blaceo. Il portale antico di Pilacorte, datato 1506, rappresenta un raro esempio di architettura sacra rinascimentale locale.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/flaibano.md"
+    },
+    {
+      "name": "Chiesa di Sant'Odorico — San Odorico al Tagliamento (frazione di Flaibano)",
+      "address": "Via della Chiesa 7, 33030 San Odorico al Tagliamento (UD)",
+      "website_url": "https://www.archeocartafvg.it/portfolio-articoli/flaibano-ud-loc-santodorico-al-tagliamento-chiesa-santodorico/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Odorico%20%E2%80%94%20San%20Odorico%20al%20Tagliamento%20(frazione%20di%20Flaibano)%2C%20Via%20della%20Chiesa%207%2C%2033030%20San%20Odorico%20al%20Tagliamento%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di Sant'Odorico, documentata fin dall'anno 1085, sorge su un sito di antiche origini e fu collegata a una canonica abbaziale medievale. L'edificio attuale, in stile neogotico, è frutto del rifacimento tra il 1911 e il 1914 e presenta una facciata a salienti e campanile con guglia. Conserva tracce importanti come un lacerto di affresco medievale e dipinti, un tempo attribuiti a Nicola Grassi, ora conservati a Udine. Rimane un importante punto di riferimento storico-artistico e religioso del territorio.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/flaibano.md"
+    },
+    {
+      "name": "Oratorio di San Giovanni Battista — Località Sottoselva (Flaibano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Localit%C3%A0%20Sottoselva%20(Flaibano)%2C%20Flaibano",
+      "image_url": null,
+      "description": "L'Oratorio di San Giovanni Battista, situato nella località rurale di Sottoselva, custodisce un raro altarolo in pietra datato 1536 e attribuito a Carlo da Carona. L'altare presenta figure dipinte in bassorilievo, una pratica inusuale nella scultura sacra friulana cinquecentesca, che lo rende un prezioso documento per lo studio dell'arte lapidea del territorio. L'oratorio riflette la tradizione architettonica sacra rurale friulana.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/flaibano.md"
+    }
+  ]
+}

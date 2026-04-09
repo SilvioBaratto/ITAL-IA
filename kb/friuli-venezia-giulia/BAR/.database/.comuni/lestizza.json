@@ -1,0 +1,30 @@
+{
+  "comune_name": "Lestizza",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lestizza.md",
+  "extracted_at": "2026-04-09T10:17:13.296Z",
+  "pois": [
+    {
+      "name": "Bar Corallo",
+      "address": "Via San Giovanni, 33050 Lestizza (UD)",
+      "website_url": "https://www.paginegialle.it/lestizza-ud/ristoranti/bar-corallo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Corallo%2C%20Via%20San%20Giovanni%2C%2033050%20Lestizza%20(UD)",
+      "image_url": null,
+      "description": "Il Bar Corallo è un classico bar di paese friulano situato nel cuore di Lestizza, rappresentando uno dei principali punti di riferimento della comunità. Qui si può fare colazione con espresso o cappuccino, ritrovarsi per lo spritz pomeridiano e vivere la socialità autentica lontano dai circuiti turistici. Il locale svolge una fondamentale funzione aggregativa per i residenti del capoluogo comunale.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lestizza.md"
+    },
+    {
+      "name": "Bar Saccomano Claudio",
+      "address": "Via Vittorio Veneto, 3, 33050 Lestizza (UD)",
+      "website_url": "https://www.paginegialle.it/nespoledo-ud/bar/bar-telefono-saccomano-claudio",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Saccomano%20Claudio%2C%20Via%20Vittorio%20Veneto%2C%203%2C%2033050%20Lestizza%20(UD)",
+      "image_url": null,
+      "description": "Nella frazione di Nespoledo, Bar Saccomano Claudio è il presidio della socialità locale e punto di aggregazione per residenti. Il bar offre colazioni semplici, spesso accompagnate da dolci di paese, e accoglie la comunità anche la sera per un bicchiere di vino o una birra. È il tipico bar rurale friulano, frequentato per momenti di convivialità autentica.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lestizza.md"
+    }
+  ]
+}

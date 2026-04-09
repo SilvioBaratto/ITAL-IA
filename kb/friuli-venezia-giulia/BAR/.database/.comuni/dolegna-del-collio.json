@@ -1,0 +1,41 @@
+{
+  "comune_name": "Dolegna del Collio",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dolegna-del-collio.md",
+  "extracted_at": "2026-04-09T10:12:17.877Z",
+  "pois": [
+    {
+      "name": "Birreria Agricola Cinghiai a Sotet",
+      "address": "Via Pietro Zorutti 17, Dolegna del Collio (GO), 34070",
+      "website_url": "https://www.facebook.com/CinghiaiASotet/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birreria%20Agricola%20Cinghiai%20a%20Sotet%2C%20Via%20Pietro%20Zorutti%2017%2C%20Dolegna%20del%20Collio%20(GO)%2C%2034070",
+      "image_url": null,
+      "description": "Birreria Agricola Cinghiai a Sotet è il punto di riferimento per la socialità informale e l’aperitivo a Dolegna del Collio, con un’atmosfera genuina e dinamica. Offre birre artigianali prodotte con cereali locali, abbinate a taglieri di salumi e formaggi friulani, piatti semplici del territorio e vini del Collio. L’ambiente è adatto a gruppi e famiglie, accessibile anche per persone con disabilità. Nel weekend il locale ospita serate con musica live o DJ set, risultando molto apprezzato sia dai residenti che dai visitatori.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Hostaria Vineria Vencò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hostaria%20Vineria%20Venc%C3%B2%2C%20Dolegna%20del%20Collio",
+      "image_url": null,
+      "description": "Situata nella frazione di Vencò, Hostaria Vineria Vencò è un locale storico che interpreta la tradizione delle hostarie-vinerie friulane. Qui il vino del Collio è protagonista, accompagnato da una cucina semplice e stagionale in un ambiente tipico della zona di confine. Pur non essendo un bar classico, svolge la funzione di ritrovo conviviale per la comunità locale.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "L'Argine a Vencò — Colazione Gourmet",
+      "address": "Località Vencò, Dolegna del Collio (GO), 34070",
+      "website_url": "https://largineavenco.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Argine%20a%20Venc%C3%B2%20%E2%80%94%20Colazione%20Gourmet%2C%20Localit%C3%A0%20Venc%C3%B2%2C%20Dolegna%20del%20Collio%20(GO)%2C%2034070",
+      "image_url": null,
+      "description": "L'Argine a Vencò è un ristorante molto rinomato gestito dalla chef Antonia Klugmann, situato in una suggestiva area rurale con sale luminose e viste sul paesaggio del Collio. Per gli ospiti delle camere, offre ogni mattina una colazione gourmet con prodotti tipici locali, dolci fatti in casa, formaggi e salumi, accompagnati dal caffè. Anche se non è un bar tradizionale, rappresenta un punto di riferimento per chi cerca un’esperienza enogastronomica di alto livello nel Collio.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dolegna-del-collio.md"
+    }
+  ]
+}

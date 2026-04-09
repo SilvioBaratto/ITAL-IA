@@ -1,0 +1,52 @@
+{
+  "comune_name": "Cordovado",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cordovado.md",
+  "extracted_at": "2026-04-09T10:11:26.042Z",
+  "pois": [
+    {
+      "name": "Panifico Caffettera Venturini",
+      "address": "Via Battaglione Gemona, 114 – 33075 Cordovado (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Panifico%20Caffettera%20Venturini%2C%20Via%20Battaglione%20Gemona%2C%20114%20%E2%80%93%2033075%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Il Panifico Caffettera Venturini è il principale punto di riferimento di Cordovado per la colazione, combinando forno artigianale e caffetteria in un unico locale. Il locale è apprezzato per i suoi bomboloni alla crema e una varietà di dolci e pane fresco, ed è accessibile anche a persone con disabilità. Oltre alla colazione, offre anche un piccolo punto vendita alimentare, rendendolo un autentico emporio di quartiere.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cordovado.md"
+    },
+    {
+      "name": "Anamar Cafè",
+      "address": "Piazza Santa Caterina, 2 – 33075 Cordovado (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Anamar%20Caf%C3%A8%2C%20Piazza%20Santa%20Caterina%2C%202%20%E2%80%93%2033075%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Anamar Cafè è il bar di piazza per eccellenza a Cordovado, situato nel cuore del borgo in Piazza Santa Caterina. Questo locale è il principale punto di incontro della comunità locale e dei visitatori, che qui trovano un ambiente informale e autentico. Nei mesi estivi, diventa meta privilegiata per una pausa caffè o uno spritz dopo la visita alle attrazioni storiche del paese.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cordovado.md"
+    },
+    {
+      "name": "Cà Malvani – Bar e Ristorante",
+      "address": "Piazza Cecchini, 8 – 33075 Cordovado (PN)",
+      "website_url": "http://www.camalvani.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%A0%20Malvani%20%E2%80%93%20Bar%20e%20Ristorante%2C%20Piazza%20Cecchini%2C%208%20%E2%80%93%2033075%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Cà Malvani, albergo ristorante a tre stelle, ospita anche una zona bar aperta a tutti, punto di riferimento per chi cerca un locale più strutturato a Cordovado. I tavoli all'aperto offrono la possibilità di gustare un aperitivo o un caffè nella tranquillità della piazza storica. La struttura è accessibile, accetta animali domestici e consente anche ai non ospiti di vivere un momento di socialità in un contesto curato.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cordovado.md"
+    },
+    {
+      "name": "Villa Curtis Vadi – Ristorante con Bar",
+      "address": "Via del Pino, 10/A – 33075 Cordovado (PN)",
+      "website_url": "http://www.villacurtisvadi.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Curtis%20Vadi%20%E2%80%93%20Ristorante%20con%20Bar%2C%20Via%20del%20Pino%2C%2010%2FA%20%E2%80%93%2033075%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Villa Curtis Vadi è una raffinata villa circondata dal verde, nota soprattutto come ristorante, ma che dispone anche di un bar ideale per aperitivi di alto livello. L'atmosfera elegante e il parco attrezzato offrono un'esperienza diversa dai tipici bar di paese, rendendo il luogo perfetto anche per eventi e serate a tema. Il bar è un'opzione ideale per chi desidera un aperitivo in un contesto scenografico e ricercato.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cordovado.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Comeglians",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/comeglians.md",
+  "extracted_at": "2026-04-09T10:23:38.290Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Giorgio Martire (Pieve di San Giorgio) — Runchia / Calgaretto",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Giorgio%20Martire%20(Pieve%20di%20San%20Giorgio)%20%E2%80%94%20Runchia%20%2F%20Calgaretto%2C%20Comeglians",
+      "image_url": null,
+      "description": "Situata su uno sperone roccioso tra Runchia e Calgaretto, la pieve di San Giorgio ha origini medievali e oggi presenta un aspetto settecentesco, con facciata a capanna e interni a volte a vela. L'edificio ingloba resti gotici e custodisce opere d'arte di pregio come un'ara sepolcrale romana del I secolo, una serie di tele e arazzi settecenteschi, mobili lignei artigianali e un organo Zanin. La posizione scenografica, la storia stratificata e le opere conservate la rendono uno dei più significativi monumenti religiosi della Carnia.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/comeglians.md"
+    },
+    {
+      "name": "Chiesa di San Nicolò — Comeglians (centro)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicol%C3%B2%20%E2%80%94%20Comeglians%20(centro)%2C%20Comeglians",
+      "image_url": null,
+      "description": "La chiesa di San Nicolò, nel centro di Comeglians, è l'edificio sacro più antico del comune con origini nel XIII secolo e un caratteristico campanile a vela, tipico dell'architettura rurale carnica. Conserva affreschi medievali e una tela settecentesca attribuita ad Antonio Agostini, testimoniando la ricchezza storica e artistica della comunità. È il cuore religioso e identitario del borgo.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/comeglians.md"
+    },
+    {
+      "name": "Chiesa di San Vincenzo Martire — Tualis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Vincenzo%20Martire%20%E2%80%94%20Tualis%2C%20Comeglians",
+      "image_url": null,
+      "description": "La chiesa di San Vincenzo Martire si trova nella frazione montana di Tualis e si distingue per la sua architettura semplice, tipica della montagna carnica, e per il prezioso patrimonio scultoreo ligneo cinquecentesco. Custodisce due statue di San Vincenzo e San Bernardino realizzate da Michael Parth e una raccolta di ex voto popolari che testimoniano la devozione locale. È un centro spirituale legato anche ad antiche tradizioni rituali della vallata.",
+      "comune_name": "Comeglians",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/comeglians.md"
+    }
+  ]
+}

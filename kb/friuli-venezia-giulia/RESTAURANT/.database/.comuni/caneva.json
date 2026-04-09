@@ -1,0 +1,118 @@
+{
+  "comune_name": "Caneva",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md",
+  "extracted_at": "2026-04-09T10:56:37.514Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Gaiardin",
+      "address": "Località Gaiardin, 3, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Gaiardin%2C%20Localit%C3%A0%20Gaiardin%2C%203%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La Trattoria Al Gaiardin è rinomata per la cucina friulana tradizionale a base di ingredienti locali e selvaggina, preparata dallo storico gestore Checco. Il locale, originariamente una malga, conserva un'atmosfera rustica ed elegante con vista panoramica sulla laguna veneta. Specialità della casa sono i cjarsons, frico con Montasio, stufato di selvaggina e cotolette di capriolo, oltre a dolci particolari come lo spaghettini al caffè. Riconosciuta dall'Accademia Italiana della Cucina, è apprezzata per la qualità eccellente e l'ambiente accogliente.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Pizzeria Ristorante Rover",
+      "address": "Via Cansiglio, 64, 33070 Caneva (PN)",
+      "website_url": "http://www.pizzeriarover.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ristorante%20Rover%2C%20Via%20Cansiglio%2C%2064%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La Pizzeria Ristorante Rover offre un ambiente accogliente con terrazza e giardino panoramico, perfetto per famiglie e gruppi. Le specialità includono pizza cotta in forno a legna con ingredienti di qualità, grigliate di carne friulana, pasta fresca e piatti tipici locali. Il locale è noto per l'ottimo rapporto qualità-prezzo e la posizione panoramica, ricevendo ottime valutazioni su TripAdvisor.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Agriturismo Cortivo Pancotto",
+      "address": "Via Damiano Chiesa, 6, 33070 Caneva (PN)",
+      "website_url": "http://www.cortivopancotto.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Cortivo%20Pancotto%2C%20Via%20Damiano%20Chiesa%2C%206%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "L'Agriturismo Cortivo Pancotto, situato in un borgo restaurato del XVIII secolo, si distingue per la cucina contadina casalinga realizzata con prodotti a km zero della propria azienda agricola. Premiato a livello nazionale per la qualità culinaria, offre piatti di tradizione familiare basati su ricette dei nonni, salumi e formaggi propri e una forte attenzione alla stagionalità. L'atmosfera è autentica e familiare, ideale per chi cerca la vera cucina friulana.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Terrarossa Wine Beer & Food",
+      "address": "Caneva (PN), sulle colline dietro il Castello di Caneva",
+      "website_url": "http://www.terrarossa.restaurant",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Terrarossa%20Wine%20Beer%20%26%20Food%2C%20Caneva%20(PN)%2C%20sulle%20colline%20dietro%20il%20Castello%20di%20Caneva",
+      "image_url": null,
+      "description": "Terrarossa è un ristorante-enoteca immerso tra le colline, gestito da produttori agricoli che servono piatti a km zero realizzati con ingredienti coltivati in azienda. Il locale, curato e panoramico, offre esperienze culinarie abbinate ai vini e alle birre artigianali della casa, proponendo una cucina genuina friulana e stagionale. Atmosfera sofisticata ma accogliente, ideale per eventi intimi e cene rilassate.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Malga Dal Titti - Azienda Agricola Piccinato",
+      "address": "Via Sacile 48, Caneva (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Malga%20Dal%20Titti%20-%20Azienda%20Agricola%20Piccinato%2C%20Via%20Sacile%2048%2C%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "Malga Dal Titti è una piccola azienda agricola di montagna che offre cucina casalinga con prodotti di stagione e ricette tipiche friulane, come frico, stufato, risotti e dolci tradizionali. L'ambiente è alpino e rustico, con uno stile accogliente e famigliare, lontano dal turismo di massa. I clienti possono anche acquistare formaggi e specialità direttamente in loco, vivendo un'autentica esperienza rurale.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Hotel Ristorante Al Castello",
+      "address": "Via Sereno Zat, 1, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20Al%20Castello%2C%20Via%20Sereno%20Zat%2C%201%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "L'Hotel Ristorante Al Castello è una struttura semplice e tradizionale situata nel centro di Caneva, che unisce alloggio e ristorazione. È noto per la cucina casalinga, con un menù variabile in base alla disponibilità degli ingredienti del giorno, e per l'atmosfera di antica osteria friulana. Ideale per chi cerca piatti autentici e accoglienza calorosa senza formalità.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Trattoria Al Fogher (Garatti Ettore & C.)",
+      "address": "Via San Michele, 2, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Fogher%20(Garatti%20Ettore%20%26%20C.)%2C%20Via%20San%20Michele%2C%202%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Al Fogher è una storica osteria friulana dall'atmosfera vintage familiare, apprezzata per la cucina casalinga di carne e pesce. I piatti sono semplici ma abbondanti, preparati con ingredienti genuini e venduti a prezzi molto accessibili. Il locale è noto per il suo ambiente autentico e la clientela locale affezionata.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Ristoro Agrituristico La Genzianella",
+      "address": "Località Gaiardin, 9, 33070 Caneva (PN)",
+      "website_url": "http://www.agriturismolagenzianella.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristoro%20Agrituristico%20La%20Genzianella%2C%20Localit%C3%A0%20Gaiardin%2C%209%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "La Genzianella è un piccolo agriturismo a conduzione familiare, specializzato in piatti friulani semplici e genuini realizzati con i prodotti propri dell'azienda, come coniglio e maiale. L’ambiente è informale e accogliente, particolarmente indicato per chi desidera un'esperienza autentica di cucina rurale. I prezzi sono contenuti e la struttura è molto apprezzata da famiglie e gruppi.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Agriturismo Al Pisoler",
+      "address": "Via Castello 7/A, 33070 Caneva (PN)",
+      "website_url": "http://www.agriturismoalpisoler.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Pisoler%2C%20Via%20Castello%207%2FA%2C%2033070%20Caneva%20(PN)",
+      "image_url": null,
+      "description": "Agriturismo Al Pisoler si trova su una collina panoramica e offre principalmente ospitalità in un casale rustico restaurato, pur essendo stato in passato conosciuto per la cucina casalinga fatta in casa. Attualmente il ristorante non è operativo, ma la struttura mantiene un'atmosfera familiare e una posizione ideale per visitare la zona di Caneva.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    },
+    {
+      "name": "Malga Cercenedo",
+      "address": "Localita Crosetta, Caneva (Proprietà del comune di Cordignano)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Malga%20Cercenedo%2C%20Localita%20Crosetta%2C%20Caneva%20(Propriet%C3%A0%20del%20comune%20di%20Cordignano)",
+      "image_url": null,
+      "description": "Malga Cercenedo è una malga di montagna immersa nei boschi del Cansiglio, conosciuta per la cucina semplice basata su prodotti dell'azienda e piatti genuini della tradizione friulana. L'apertura è stagionale seguendo il ciclo di alpeggio; il contesto rustico e isolato garantisce un'esperienza autentica lontana dal turismo di massa.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/caneva.md"
+    }
+  ]
+}

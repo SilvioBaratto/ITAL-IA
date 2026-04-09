@@ -1,0 +1,96 @@
+{
+  "comune_name": "San Canzian D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md",
+  "extracted_at": "2026-04-09T11:16:41.847Z",
+  "pois": [
+    {
+      "name": "Ostaria da Bepi Meo",
+      "address": "Via Romana, 46 – San Canzian d'Isonzo (GO)",
+      "website_url": "https://www.facebook.com/BepiMeo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostaria%20da%20Bepi%20Meo%2C%20Via%20Romana%2C%2046%20%E2%80%93%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Ostaria da Bepi Meo è un'osteria molto amata a San Canzian d'Isonzo, nota per l'atmosfera familiare e genuina. Qui si servono piatti tipici della cucina friulano-isontina come jota, musetto, polenta fritta e secondi di carne, il tutto in un ambiente accogliente e popolare. Apprezzata per i prezzi contenuti e la convivialità, è punto di riferimento per i locali e i visitatori che cercano una vera esperienza friulana.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "Alla Crociera",
+      "address": "Via San Pietro, 7/9 – San Canzian d'Isonzo (GO)",
+      "website_url": "https://www.hotelallacrocierapacorig.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Crociera%2C%20Via%20San%20Pietro%2C%207%2F9%20%E2%80%93%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Alla Crociera è un ristorante-albergo a gestione familiare situato nel centro di San Canzian d'Isonzo. Offre ristorazione tutti i giorni con cucina tradizionale friulana, specializzata in piatti di carne e stagionali, e servizi aggiuntivi come asporto e consegna a domicilio. È anche punto di soggiorno per chi visita la zona o per chi viaggia per lavoro.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "Locanda ai 2 Fiumi",
+      "address": "Via Grado, 16 – San Canzian d'Isonzo (GO)",
+      "website_url": "https://www.facebook.com/locandaai2fiumi",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20ai%202%20Fiumi%2C%20Via%20Grado%2C%2016%20%E2%80%93%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "La Locanda ai 2 Fiumi si trova lungo la strada che collega San Canzian al mare e offre un ambiente accogliente con parcheggio interno e tavoli all'aperto. Propone cucina mista con piatti tradizionali, pizza e kebab adatti sia ai residenti che ai viaggiatori. La struttura è accessibile anche a persone con disabilità e offre un'atmosfera tranquilla immersa nella campagna friulana.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "Trattoria ai 4 Pioppi",
+      "address": "Via Grado, 24 – San Canzian d'Isonzo (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20ai%204%20Pioppi%2C%20Via%20Grado%2C%2024%20%E2%80%93%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Trattoria ai 4 Pioppi è una tipica trattoria di paese situata lungo Via Grado. Propone piatti della cucina locale serviti in maniera semplice, a prezzi popolari, ideale per pasti informali tra amici o per un pranzo veloce. Frequentata soprattutto dalla clientela del luogo, offre un'autentica esperienza friulana senza fronzoli.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "La Caraffa",
+      "address": "Via Giuseppe Verdi, 25 – Begliano, San Canzian d'Isonzo (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Caraffa%2C%20Via%20Giuseppe%20Verdi%2C%2025%20%E2%80%93%20Begliano%2C%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "La Caraffa è il ristorante di riferimento della frazione di Begliano, rinomato per la convivialità e l'attenzione ai prodotti locali e stagionali. Situato nella zona agricola del comune, è un punto d'incontro per la comunità e propone piatti della tradizione friulano-isontina in un ambiente accogliente.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "Trattoria da Gigi",
+      "address": "Via Giuseppe Verdi, 25 – San Canzian d'Isonzo (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Gigi%2C%20Via%20Giuseppe%20Verdi%2C%2025%20%E2%80%93%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "La Trattoria da Gigi è una trattoria familiare situata in Via Giuseppe Verdi, famosa per la cucina genuina e le porzioni abbondanti. L'atmosfera è semplice e casalinga, particolarmente apprezzata dai lavoratori e dai residenti per i pranzi tradizionali e la continuità nel tempo del locale.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "Buffet Isonzo – Pieris",
+      "address": "Via del Frantoio, 1 – Pieris, San Canzian d'Isonzo (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Buffet%20Isonzo%20%E2%80%93%20Pieris%2C%20Via%20del%20Frantoio%2C%201%20%E2%80%93%20Pieris%2C%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Buffet Isonzo è un bar-trattoria nella frazione di Pieris, noto per la formula tipica isontina e triestina del 'buffet' con piatti caldi pronti come musetto, crauti, wurstel e polenta. Offre pasti veloci ed economici con i sapori tradizionali del territorio, gestito con continuità dalla stessa famiglia di altri locali della zona.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    },
+    {
+      "name": "Bar Buffet Isonzo – San Canzian Capoluogo",
+      "address": "Via Cesare Battisti, 66 – San Canzian d'Isonzo (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Buffet%20Isonzo%20%E2%80%93%20San%20Canzian%20Capoluogo%2C%20Via%20Cesare%20Battisti%2C%2066%20%E2%80%93%20San%20Canzian%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Il Bar Buffet Isonzo nel capoluogo segue la formula del tipico bar di paese che a pranzo diventa una piccola trattoria. Frequentato da operai, artigiani e impiegati, propone piatti caldi tradizionali a prezzi contenuti, rappresentando una soluzione pratica per un pasto rapido e saporito.",
+      "comune_name": "San Canzian D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-canzian-d-isonzo.md"
+    }
+  ]
+}

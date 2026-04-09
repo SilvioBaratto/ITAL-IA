@@ -1,0 +1,173 @@
+{
+  "comune_name": "Lignano Sabbiadoro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md",
+  "extracted_at": "2026-04-09T11:04:59.074Z",
+  "pois": [
+    {
+      "name": "Ristorante Bidin",
+      "address": null,
+      "website_url": "https://www.ristorantebidin.org",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Bidin%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Ristorante storico di Lignano Sabbiadoro dal 1960, Bidin è un’autentica osteria friulana con oltre 350 etichette di vino. La cucina rispecchia la tradizione friulana con piatti come frico, cjarsons, polenta e anguille secondo ricette locali. L'ambiente familiare e accogliente ne fa una meta di riferimento per chi cerca autenticità regionale. La gestione è improntata a competenza e cura dell’ospite.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Ristorante Agosti",
+      "address": null,
+      "website_url": "https://www.ristoranteagosti.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Agosti%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Forte di oltre cinquant’anni di storia, il Ristorante Agosti è un punto fermo per la cucina di pesce tradizionale adriatica. Offre frutti di mare freschi, scampi, gamberi, vongole e anguille lavorati con tecnica raffinata. L’atmosfera conviviale della pergola esterna rende il locale ideale per cene estive e momenti tra amici e familiari.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Balan",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Balan%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Balan, inaugurato nel 2024, propone una cucina moderna e raffinata basata su ingredienti locali, firmata dallo chef Edoardo Zanelli. Il menu degustazione valorizza i sapori adriatici con tecniche attuali, spaziando da capasante scottate a selezione di pesce crudo. L’ambiente è elegante e contemporaneo, ideale per chi cerca un’esperienza gastronomica evoluta ma ancorata al territorio.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Al Cason",
+      "address": null,
+      "website_url": "https://www.turismofvg.it/en/food-and-wine/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cason%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Al Cason è situato in una tipica casone friulana affacciata sul fiume e famosa per la straordinaria cantina con oltre 800 etichette. La cucina propone pesce fresco adriatico in piatti classici e dolci casalinghi tipici friulani. L’atmosfera raffinata e le viste suggestive lo rendono ideale per occasioni speciali.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "The Taste & Al Bancut",
+      "address": null,
+      "website_url": "https://www.thetastealbancut.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Taste%20%26%20Al%20Bancut%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Nato dalla fusione di due locali storici, The Taste & Al Bancut è guidato dallo chef Rudi Santuz, celebre per la cucina di pesce fresco con influenze sia tradizionali che contemporanee. Il menu cambia stagione per valorizzare il mercato locale e l’atmosfera è elegante ma accogliente, adatta a cene romantiche e familiari.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Carbòn Neri Braceria Enoteca",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Carb%C3%B2n%20Neri%20Braceria%20Enoteca%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Carbòn Neri è specializzato in grigliate di carni selezionate e pesce dell’Adriatico, con una ricca carta dei vini orientata su Champagne e etichette friulane. Offre anche opzioni biologiche e sostenibili in un ambiente moderno e accogliente, perfetto sia per pranzi di lavoro sia per cene informali.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Mandi — Parentesi Friulana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mandi%20%E2%80%94%20Parentesi%20Friulana%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Mandi è un’osteria familiare riconosciuta tra i migliori ristoranti di Lignano su TripAdvisor. Propone piatti genuini della tradizione friulana, come frico, pasta con prosciutto di San Daniele e casunziei. L’atmosfera è informale e ospitale, ideale per chi cerca autenticità e calore.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Ricky Hostaria",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ricky%20Hostaria%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Ricky Hostaria è un'osteria contemporanea che unisce tradizione e modernità proponendo cucina stagionale con ingredienti locali. Tra i piatti tipici troviamo sardine fritte, spaghetti al curry con frutti di mare e pesce bianco in salse raffinate. L’ambiente è informale e molto apprezzato dalla clientela locale.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "La Pigna",
+      "address": null,
+      "website_url": "https://www.ristorantelapigna-lignano.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Pigna%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "La Pigna è una trattoria tradizionale evoluta verso una cucina più raffinata ma sempre ancorata ai sapori friulani. Tra le specialità spiccano anguille con soia e porro, fusilloni con burro di acciughe e pesce bianco delicatamente lavorato. L’atmosfera elegante ma rilassata si presta sia a cene romantiche che di lavoro.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Osteria Corso 21",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Corso%2021%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Osteria Corso 21 propone cucina tipica d’osteria friulana con cicchetti, ragù di polpo e pasta fatta in casa. Il locale è informale e caratteristico, con bancone a vini, tavoli in legno e prezzi accessibili, frequentato sia da locali che da turisti.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Pancor — Ristorante Pizzeria",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pancor%20%E2%80%94%20Ristorante%20Pizzeria%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Pancor è noto per la qualità della pizza, preparata con impasto tradizionale e ingredienti freschi, e il panino Pancor che unisce sapori mediterranei. Il menu offre anche calamari fritti e insalate, dando vita a un’atmosfera familiare con prezzi accessibili.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Atmosphera Ristorante Pizzeria",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Atmosphera%20Ristorante%20Pizzeria%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Atmosphera abbina la tradizione della pizzeria italiana a un menu ristorante che include focacce senza glutine e primi con salse di mare e terra. L’ambiente moderno e l’attenzione alle esigenze delle famiglie e dei celiaci ne fanno una meta ideale anche per chi viaggia con bambini.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Tiare dal Gorc — Agriturismo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tiare%20dal%20Gorc%20%E2%80%94%20Agriturismo%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Situato alle spalle di Lignano, Tiare dal Gorc offre esperienze culinarie legate ai prodotti dell’azienda agricola, con colazioni ricche di uova e formaggi locali, miele e verdure dell’orto bio. L’atmosfera rustica è perfetta per famiglie e per chi desidera un contatto autentico con il mondo agricolo.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Mulino del Conte — Agriturismo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mulino%20del%20Conte%20%E2%80%94%20Agriturismo%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Mulino del Conte è un agriturismo storico che offre cucina friulana tradizionale concentrata nei fine settimana, tra cui polenta, frico, casunziei e anguille. L'ambiente rurale e conviviale è adatto a gruppi e famiglie, mantenendo vive le ricette tramandate.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Albafiorita — Agriturismo Colazione",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albafiorita%20%E2%80%94%20Agriturismo%20Colazione%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Albafiorita è specializzato in colazioni fattoria con pasticceria e prodotti lattiero-caseari di propria produzione. Ideale per famiglie e per chi desidera una colazione genuina a base di ingredienti freschi, offre anche lezioni di cucina su prenotazione.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lignano-sabbiadoro.md"
+    }
+  ]
+}

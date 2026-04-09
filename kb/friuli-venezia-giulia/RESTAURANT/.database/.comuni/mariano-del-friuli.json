@@ -1,0 +1,63 @@
+{
+  "comune_name": "Mariano del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mariano-del-friuli.md",
+  "extracted_at": "2026-04-09T11:06:16.228Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Piave",
+      "address": "Via Cormons, 6 – Corona, 34070 Mariano del Friuli (GO)",
+      "website_url": "https://www.trattoriaalpiave.it/?lang=en",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Piave%2C%20Via%20Cormons%2C%206%20%E2%80%93%20Corona%2C%2034070%20Mariano%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Al Piave è un locale storico a Mariano del Friuli che offre un'esperienza autentica della cucina friulana. L'atmosfera è accogliente e familiare, con sale interne collegate da un caminetto in pietra e un gradevole giardino estivo. Il menu valorizza le specialità tipiche come frico, carpaccio di cervo, agnello in umido, costa particolare attenzione ai dolci tradizionali e una ricca selezione di vini regionali. Segnalata dalla Guida Michelin, rappresenta un punto di riferimento per chi cerca la cucina friulana autentica.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mariano-del-friuli.md"
+    },
+    {
+      "name": "Le Dune",
+      "address": "Via Dante, 41 – 34070 Mariano del Friuli (GO)",
+      "website_url": "https://le-dune.it/le-dune-homepage-english/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Dune%2C%20Via%20Dante%2C%2041%20%E2%80%93%2034070%20Mariano%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Le Dune è un ristorante specializzato in cucina di pesce, noto per la freschezza degli ingredienti e l'approccio elegante ma essenziale alla preparazione. Il locale, premiato con 88 punti nella guida Falstaff, propone piatti a base di branzino, orata, rombo e una selezione di cucina italiana e mediterranea più ampia. L'ambiente è raffinato ma accogliente, con servizio attento e una completa carta dei vini. Dal 1992 resta un riferimento per gli amanti del pesce con una fascia di prezzo medio-alta.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mariano-del-friuli.md"
+    },
+    {
+      "name": "Villa de Finetti",
+      "address": "Corona – Mariano del Friuli (GO)",
+      "website_url": "http://www.villadefinetti.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20de%20Finetti%2C%20Corona%20%E2%80%93%20Mariano%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Villa de Finetti, situata nella storica residenza del pittore Gino De Finetti a Corona, offre un'esperienza che unisce cucina friulana, arte e tradizione agricola. Oltre a una selezione di vini prodotti in loco, propone specialità regionali come carni affumicate, formaggi locali e prosciutto di San Daniele. L'ambiente ricco di storia e cultura è arricchito da eventi artistici e dalla presenza di opere d'arte, offrendo un contesto autentico di agriturismo friulano in un'atmosfera elegante e immersiva.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mariano-del-friuli.md"
+    },
+    {
+      "name": "Agriturismo da Villy",
+      "address": "Via Gorizia, 5 – Corona, 34070 Mariano del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20da%20Villy%2C%20Via%20Gorizia%2C%205%20%E2%80%93%20Corona%2C%2034070%20Mariano%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Agriturismo da Villy è un locale informale e accogliente nella frazione di Corona, ideale per chi cerca un'atmosfera familiare e rustica. La specialità della casa sono gli affettati di qualità e i salumi locali, accompagnati da pane fatto in casa e piatti semplici come gli gnocchi al ragù. L'agriturismo punta su prodotti regionali e offre un ambiente adatto a famiglie e gruppi che desiderano vivere la campagna friulana in modo genuino e senza formalità.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mariano-del-friuli.md"
+    },
+    {
+      "name": "La Girandola – Gelateria e Ristorante Pizzeria",
+      "address": "Piazza Municipio, 4 – 34070 Mariano del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Girandola%20%E2%80%93%20Gelateria%20e%20Ristorante%20Pizzeria%2C%20Piazza%20Municipio%2C%204%20%E2%80%93%2034070%20Mariano%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "La Girandola è un locale poliedrico che funge sia da rinomata gelateria artigianale, con oltre 100 gusti, sia da ristorante pizzeria per la comunità locale. Oltre ai gelati, propone anche brioches, granite e frappe, mentre nella sua veste di ristorante offre pizze e piatti della cucina italiana in un ambiente semplice e accogliente. Si distingue per l'ampia scelta di dolci artigianali e per essere un punto di ritrovo per i residenti di Mariano del Friuli.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mariano-del-friuli.md"
+    }
+  ]
+}

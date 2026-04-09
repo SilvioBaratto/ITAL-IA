@@ -1,0 +1,140 @@
+{
+  "comune_name": "Attimis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md",
+  "extracted_at": "2026-04-09T10:33:26.545Z",
+  "pois": [
+    {
+      "name": "Castello Superiore di Attimis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20Superiore%20di%20Attimis%2C%20Attimis",
+      "image_url": null,
+      "description": "Il Castello Superiore di Attimis è la più antica delle due fortezze gemelle che dominano il paese, risalente al XI secolo. Oggi rimangono significativi ruderi visitabili a piedi, parte dell'area tutelata dell'Alta Valle del Torre. Il sito offre una vista panoramica sulla vallata e rappresenta un importante esempio di storia feudale friulana legata al Patriarcato di Aquileia.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Castello Inferiore di Attimis (Castello Nuovo)",
+      "address": "via Porzus (accesso a piedi)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20Inferiore%20di%20Attimis%20(Castello%20Nuovo)%2C%20via%20Porzus%20(accesso%20a%20piedi)",
+      "image_url": null,
+      "description": "Il Castello Inferiore, detto anche Castello Nuovo, fu costruito tra il 1250 e il 1275 come parte della linea difensiva del Patriarcato di Aquileia. Conserva il mastio alto 21 metri, notevole esempio di architettura militare alto-medievale, e i resti della cappella di San Nicola. Pur essendo in rovina, il sito illustra la funzione strategica di segnalazione visiva nella rete medievale difensiva friulana.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Castello di Partistagno",
+      "address": null,
+      "website_url": "https://consorziocastelli.it/icastelli/udine/partistagno",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Partistagno%2C%20Attimis",
+      "image_url": null,
+      "description": "Il Castello di Partistagno è il meglio conservato dei castelli di Attimis, restaurato dopo il sisma del 1976 e accessibile tramite un sentiero seicentesco. La cappella di Sant'Osvaldo conserva cicli di affreschi medievali di grande valore, tra i più importanti del Friuli. Il complesso offre anche un palazzo trecentesco restaurato, immerso in un suggestivo paesaggio collinare.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Villa d'Attimis-Strassoldo-Soffumbergo (Villa Strassoldo)",
+      "address": "Via Roma 32-34, Attimis",
+      "website_url": "https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0600007734",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20d'Attimis-Strassoldo-Soffumbergo%20(Villa%20Strassoldo)%2C%20Via%20Roma%2032-34%2C%20Attimis",
+      "image_url": null,
+      "description": "La Villa d'Attimis-Strassoldo-Soffumbergo è una grande residenza nobiliare edificata tra il XVI e il XIX secolo, situata al centro del paese. L'esterno della villa è arricchito da dettagli architettonici e un elegante parco. All'interno della cappella privata si trova una rara pala del pittore udinese Francesco Floriani; la villa testimonia l'evoluzione dell'aristocrazia friulana dal castello alla residenza nobiliare.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Museo Archeologico Medievale di Attimis",
+      "address": null,
+      "website_url": "http://www.comune.attimis.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Medievale%20di%20Attimis%2C%20Attimis",
+      "image_url": null,
+      "description": "Il Museo Archeologico Medievale di Attimis, situato nel centro del paese, raccoglie e presenta reperti provenienti dai castelli locali e dal Friuli orientale, documentando la vita quotidiana tra il X e il XV secolo. È il punto di partenza ideale per comprendere storicamente il sistema castellano regionale e la realtà medievale del territorio.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo — Attimis",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Attimis%2C%20Attimis",
+      "image_url": null,
+      "description": "La chiesa di Sant'Andrea Apostolo è la parrocchiale principale di Attimis, costruita tra il 1900 e il 1906 in stile eclettista. L'edificio presenta una spazialità interna armoniosa, con tre navate e numerosi dettagli decorativi, mentre la facciata è caratterizzata da tre portali d'accesso. Costituisce il centro liturgico della comunità locale.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Chiesa dei Santi Giovanni Battista e Lucia — Porzûs",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidilto/edificio/68225/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Giovanni%20Battista%20e%20Lucia%20%E2%80%94%20Porz%C3%BBs%2C%20Attimis",
+      "image_url": null,
+      "description": "Situata nella frazione di Porzûs, la chiesa dei Santi Giovanni Battista e Lucia è documentata sin dal 1221. Conserva un'abside gotica quattrocentesca, rara testimonianza di architettura tardogotica nella zona, mentre la navata fu ricostruita nel 1939-1940. È simbolo della comunità di Porzûs, anche per il legame con la storia della Resistenza locale.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Chiesa di San Silvestro Papa e Torre Campanaria — Racchiuso",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68227/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Silvestro%20Papa%20e%20Torre%20Campanaria%20%E2%80%94%20Racchiuso%2C%20Attimis",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Silvestro Papa, nella frazione Racchiuso, custodisce una torre campanaria medievale con iscrizione in friulano del 1448, importante documento storico e linguistico. Nella sacrestia sono conservati preziosi affreschi di Gian Paolo Thanner, compresi angioletti musicanti rilevanti per la storia della musica. L'edificio comprende anche una rara cappella laterale di epoca altomedievale.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Grotte Preistoriche di Racchiuso: \"Çiondar des Pagánis\" e \"Masariât\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotte%20Preistoriche%20di%20Racchiuso%3A%20%22%C3%87iondar%20des%20Pag%C3%A1nis%22%20e%20%22Masari%C3%A2t%22%2C%20Attimis",
+      "image_url": null,
+      "description": "Nella zona boschiva di Racchiuso si trovano le grotte Çiondar des Pagánis e Masariât, siti preistorici che testimoniano insediamenti umani risalenti al Paleolitico e Mesolitico. Queste cavità rappresentano un raro esempio di frequentazione umana antica nelle Prealpi Giulie, ideali per escursioni storiche e naturalistiche.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Monastero delle Clarisse di Partistagno",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastero%20delle%20Clarisse%20di%20Partistagno%2C%20Attimis",
+      "image_url": null,
+      "description": "Il monastero delle Clarisse si trova immerso tra i boschi di Partistagno, vicino al castello omonimo. È un luogo di raccoglimento e spiritualità che testimonia la continuità della vita religiosa in questa zona delle Prealpi friulane. Il sito unisce la dimensione storica medievale al valore contemplativo del paesaggio.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Sacrario e Luoghi della Memoria di Porzûs",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sacrario%20e%20Luoghi%20della%20Memoria%20di%20Porz%C3%BBs%2C%20Attimis",
+      "image_url": null,
+      "description": "Presso le malghe di Porzûs si trova il sacrario dedicato all'eccidio del 1945, tragico episodio della Resistenza friulana in cui furono uccisi diciassette partigiani. Il sito è inserito in percorsi della memoria che permettono di riflettere sulle complesse vicende storiche della zona e di visitare scenari naturali di grande suggestione.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    },
+    {
+      "name": "Villa d'Attems a Pecòl",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20d'Attems%20a%20Pec%C3%B2l%2C%20Attimis",
+      "image_url": null,
+      "description": "La Villa d'Attems a Pecòl, residenza di campagna della famiglia Attems, è un esempio di architettura nobiliare del XVIII-XIX secolo. Benché privata, è parte integrante del paesaggio storico locale e rappresenta la fase finale della presenza della famiglia Attems ad Attimis. La villa si inserisce in un piacevole contesto rurale tipico del pedemonte friulano.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/attimis.md"
+    }
+  ]
+}

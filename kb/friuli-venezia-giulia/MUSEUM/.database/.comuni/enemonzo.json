@@ -1,0 +1,41 @@
+{
+  "comune_name": "Enemonzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/enemonzo.md",
+  "extracted_at": "2026-04-09T10:47:22.323Z",
+  "pois": [
+    {
+      "name": "Pieve Arcipretale dei Santi Ilario e Taziano",
+      "address": "Via della Chiesa, Enemonzo, 33020 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20Arcipretale%20dei%20Santi%20Ilario%20e%20Taziano%2C%20Via%20della%20Chiesa%2C%20Enemonzo%2C%2033020%20UD",
+      "image_url": null,
+      "description": "La pieve arcipretale dei Santi Ilario e Taziano è la principale chiesa di Enemonzo e una delle più antiche della Carnia. Conserva elementi architettonici e artistici che testimoniano secoli di devozione locale, tra cui altari lignei e decorazioni pittoriche tipiche della tradizione carnica. Rappresenta il fulcro della vita religiosa e culturale del comune, custodendo un importante patrimonio storico artistico.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Chiesa di San Giorgio a Colza",
+      "address": "Colza, 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%20a%20Colza%2C%20Colza%2C%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "La chiesa di San Giorgio, situata nella frazione di Colza, è un gioiello artistico del XV secolo e vanta un altare ligneo cinquecentesco attribuito alla bottega di Francesco Floreani e un notevole ciclo di affreschi datato 1513 realizzato da Pietro Fuluto. Questi elementi rendono l'edificio uno dei più significativi esempi di arte rinascimentale friulana nella vallata del Tagliamento. È accessibile in occasione di festività locali e su prenotazione.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Chiesa di San Rocco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%2C%20Enemonzo",
+      "image_url": null,
+      "description": "La cappella di San Rocco si trova su un'altura panoramica tra il Rio Esemon e il fiume Tagliamento. Restaurata negli anni Novanta, offre un contesto paesaggistico suggestivo ed è meta di escursioni e di devozione popolare. La sua posizione isolata la rende uno dei luoghi più caratteristici di Enemonzo.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/enemonzo.md"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "comune_name": "Aiello del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md",
+  "extracted_at": "2026-04-09T10:31:42.470Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Sant'Ulderico",
+      "address": "Aiello del Friuli — Via Marconi (capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Sant'Ulderico%2C%20Aiello%20del%20Friuli%20%E2%80%94%20Via%20Marconi%20(capoluogo)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Sant'Ulderico è il principale edificio di culto di Aiello del Friuli e punto di riferimento spirituale e urbanistico del paese. L'interno ospita opere d'arte sacra e la facciata è decorata secondo lo stile locale. Ogni anno, il 4 luglio, si celebra il patrono con una solenne festa. Il campanile caratterizza lo skyline del borgo e la chiesa è spesso ritratta per la sua sobria eleganza.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Castello di Lontana",
+      "address": "Aiello del Friuli — Via Marconi (capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Lontana%2C%20Aiello%20del%20Friuli%20%E2%80%94%20Via%20Marconi%20(capoluogo)",
+      "image_url": null,
+      "description": "Il Castello di Lontana è la struttura difensiva più antica di Aiello del Friuli, situata vicino alla chiesa parrocchiale. Nel corso dei secoli si è trasformato da presidio militare a residenza e poi a complesso agricolo, rappresentando un esempio di castello rurale friulano. La sua posizione faceva parte di una rete difensiva della Bassa Friulana, e il sito conserva un importante valore storico-architettonico.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Palazzo Strassoldo Frangipane",
+      "address": "Aiello del Friuli — Via Garibaldi (capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Strassoldo%20Frangipane%2C%20Aiello%20del%20Friuli%20%E2%80%94%20Via%20Garibaldi%20(capoluogo)",
+      "image_url": null,
+      "description": "Il Palazzo Strassoldo Frangipane è una storica dimora patrizia della pianura friulana, legata alle famiglie Strassoldo e Frangipane. L'edificio presenta una facciata sobria, elementi del tardo barocco e del neoclassicismo, e un cortile interno. Rappresenta una testimonianza significativa dell’aristocrazia e della storia nobiliare della zona.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Villa De Fin Teuffenbach",
+      "address": "Aiello del Friuli — Viale Vittorio Emanuele II (capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20De%20Fin%20Teuffenbach%2C%20Aiello%20del%20Friuli%20%E2%80%94%20Viale%20Vittorio%20Emanuele%20II%20(capoluogo)",
+      "image_url": null,
+      "description": "Sorta nel XIX secolo lungo il principale viale di Aiello, Villa De Fin Teuffenbach è una villa nobiliare ottocentesca dal carattere eclettico, con richiami neoclassici e romantici. Il nome riflette le influenze delle famiglie locali e dell'aristocrazia austro-tedesca. La residenza è valorizzata da facciate decorate, grandi finestre e un parco pertinenziale.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Villa Strassoldo Sabot",
+      "address": "Aiello del Friuli — Viale Vittorio Emanuele II (capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Strassoldo%20Sabot%2C%20Aiello%20del%20Friuli%20%E2%80%94%20Viale%20Vittorio%20Emanuele%20II%20(capoluogo)",
+      "image_url": null,
+      "description": "Villa Strassoldo Sabot, situata lungo Viale Vittorio Emanuele II, testimonia la presenza storica della famiglia Strassoldo e dei Sabot. La villa riflette le tipiche forme della residenza nobiliare friulana di campagna, con un'architettura sobria e classica. È parte del circuito delle prestigiose ville del comune, che rendono Aiello un museo a cielo aperto.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Villa Peteani Steimberg Attems",
+      "address": "Aiello del Friuli — capoluogo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Peteani%20Steimberg%20Attems%2C%20Aiello%20del%20Friuli%20%E2%80%94%20capoluogo",
+      "image_url": null,
+      "description": "Costruita nel 1795, Villa Peteani Steimberg Attems è una delle più importanti ville storiche di Aiello del Friuli. Porta nel nome le famiglie che vi sono succedute: Peteani, Steimberg e Attems, questi ultimi noti mecenati regionali. Presenta caratteristiche neoclassiche, con proporzioni equilibrate e decorazioni sobrie, rappresentando un esempio emblematico dell’architettura nobiliare settecentesca friulana.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Le Meridiane di Aiello del Friuli — \"Il Paese delle Meridiane\"",
+      "address": "Aiello del Friuli — diffuse su edifici pubblici e privati del centro storico",
+      "website_url": "http://www.ilpaesedellemeridiane.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Meridiane%20di%20Aiello%20del%20Friuli%20%E2%80%94%20%22Il%20Paese%20delle%20Meridiane%22%2C%20Aiello%20del%20Friuli%20%E2%80%94%20diffuse%20su%20edifici%20pubblici%20e%20privati%20del%20centro%20storico",
+      "image_url": null,
+      "description": "Aiello del Friuli è noto come 'Il Paese delle Meridiane' per la straordinaria concentrazione di orologi solari sulle facciate degli edifici del centro storico. Le meridiane, antiche e recenti, sono vere opere di arte pubblica che offrono al visitatore un percorso a cielo aperto sulla misurazione del tempo e la decorazione murale. L'iniziativa, sostenuta anche dal Circolo Navarca, conferisce al borgo un'identità visiva unica nel panorama regionale.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Piazza 24 Maggio e il Municipio",
+      "address": "Aiello del Friuli — capoluogo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza%2024%20Maggio%20e%20il%20Municipio%2C%20Aiello%20del%20Friuli%20%E2%80%94%20capoluogo",
+      "image_url": null,
+      "description": "La Piazza 24 Maggio è il centro civile e amministrativo di Aiello del Friuli, dedicata alla memoria della Grande Guerra. Qui si trova il Municipio e la piazza rappresenta il fulcro della vita pubblica, ospitando mercati, celebrazioni civili e eventi importanti per la comunità. È un luogo simbolico e punto di partenza per esplorare il borgo.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Frazione di Joannis — Nucleo Storico",
+      "address": "Aiello del Friuli — frazione di Joannis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Frazione%20di%20Joannis%20%E2%80%94%20Nucleo%20Storico%2C%20Aiello%20del%20Friuli%20%E2%80%94%20frazione%20di%20Joannis",
+      "image_url": null,
+      "description": "La frazione di Joannis è il secondo nucleo urbano di Aiello del Friuli e conserva edifici rurali tipici della Bassa Friulana, come corti chiuse, case porticate ed edifici agricoli. Il borgo mantiene una struttura insediativa medievale e offre uno spaccato autentico della tradizione rurale friulana e del paesaggio agrario storico.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Monumento ai Caduti e Memoria della Grande Guerra",
+      "address": "Aiello del Friuli — capoluogo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%20e%20Memoria%20della%20Grande%20Guerra%2C%20Aiello%20del%20Friuli%20%E2%80%94%20capoluogo",
+      "image_url": null,
+      "description": "Il Monumento ai Caduti di Aiello del Friuli ricorda le vittime delle guerre del Novecento, in particolare della Grande Guerra che ha segnato profondamente il territorio. È un luogo di memoria collettiva che invita a riflettere sul prezzo pagato dalla comunità aiellese durante i conflitti e sulla storia locale legata al fronte dell’Isonzo.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aiello-del-friuli.md"
+    }
+  ]
+}

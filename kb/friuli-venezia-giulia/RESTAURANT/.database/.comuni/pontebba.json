@@ -1,0 +1,85 @@
+{
+  "comune_name": "Pontebba",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md",
+  "extracted_at": "2026-04-09T11:11:48.373Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Paesello",
+      "address": "Via San Leopoldo 58, 33016 Pontebba (UD)",
+      "website_url": "http://www.trattoriaalpaesello.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Paesello%2C%20Via%20San%20Leopoldo%2058%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Al Paesello è un rinomato locale a conduzione familiare situato nella frazione di San Leopoldo, noto in tutta la Valcanale per la sua cucina friulana autentica e casalinga. L'ambiente intimo è arricchito da un camino in sala e una proposta gastronomica che spazia dal frico della Valcanale (inclusa una speciale variante alla birra) a piatti come polenta e funghi, spezzatino di selvaggina e stinco di maiale con crauti. Il locale offre anche servizi per cerimonie e alloggio in locanda, privilegiando vini friulani di qualità. La fascia di prezzo è media, intorno ai 25–35 euro.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    },
+    {
+      "name": "Bar Pizzeria La Tavernetta",
+      "address": "Via Zardini 16, 33016 Pontebba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Pizzeria%20La%20Tavernetta%2C%20Via%20Zardini%2016%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "La Tavernetta è una storica pizzeria-trattoria di Pontebba, attiva dagli anni Settanta e nota per l'ospitalità familiare. Offre cucina casalinga montana a pranzo e pizze la sera, oltre a piatti tipici come i cjarsons in occasione delle festività locali. L'atmosfera è rustica e accogliente, caratterizzata da una sala riscaldata da una stufa a legna; la fascia di prezzo è bassa-media.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    },
+    {
+      "name": "Ristoro Alle Sette Picche",
+      "address": "Località Aupa, 33016 Pontebba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristoro%20Alle%20Sette%20Picche%2C%20Localit%C3%A0%20Aupa%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "Immerso nella Valle del Gleris, il Ristoro Alle Sette Picche propone una cucina tradizionale della Valcanale con un tocco creativo, valorizzando selvaggina, funghi e prodotti locali. Il locale è noto anche come base per attività outdoor, tra cui sci di fondo e ciaspolate, e dispone di servizi per sportivi. L'atmosfera tranquilla nel verde lo rende ideale per una sosta gastronomica autentica in montagna.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    },
+    {
+      "name": "Ristorante Al Gallo Forcello",
+      "address": "Località Passo di Pramollo, 33016 Pontebba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Gallo%20Forcello%2C%20Localit%C3%A0%20Passo%20di%20Pramollo%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "Situato al Passo di Pramollo, il Ristorante Al Gallo Forcello è una meta ricercata da sciatori ed escursionisti grazie alla sua cucina di montagna friulana e carnico-alpina, con piatti a base di selvaggina, funghi e formaggi locali. Il ristorante gode di una posizione panoramica sulle Alpi ed è aperto principalmente durante le stagioni turistiche di punta.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    },
+    {
+      "name": "La Vecchia Latteria",
+      "address": "Studena Bassa, 38 — Frazione di Studena Bassa, 33016 Pontebba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Vecchia%20Latteria%2C%20Studena%20Bassa%2C%2038%20%E2%80%94%20Frazione%20di%20Studena%20Bassa%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "La Vecchia Latteria, nella frazione di Studena Bassa, omaggia la tradizione casearia locale e propone piatti autentici della Valcanale con particolare attenzione ai formaggi e agli affettati tipici. Il locale si distingue per la qualità riconosciuta da recensori online e rappresenta una sosta genuina per chi percorre la Ciclovia Alpe Adria.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    },
+    {
+      "name": "Kabrio",
+      "address": "Passo di Pramollo, 33016 Pontebba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Kabrio%2C%20Passo%20di%20Pramollo%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "Kabrio si trova nella zona sciistica di Passo Pramollo e offre agli amanti degli sport alpini un menù flessibile con spuntini veloci, birre artigianali e piatti caldi della tradizione locale. Il locale, dal carattere informale e conviviale, è molto apprezzato dagli sportivi per la sua atmosfera energica e la posizione panoramica.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    },
+    {
+      "name": "Patio de Cuba",
+      "address": "Piazza Dante Alighieri 10, 33016 Pontebba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Patio%20de%20Cuba%2C%20Piazza%20Dante%20Alighieri%2010%2C%2033016%20Pontebba%20(UD)",
+      "image_url": null,
+      "description": "Il Patio de Cuba è un bar-ristorante informale situato nella piazza principale di Pontebba, che propone una cucina che fonde specialità locali e influenze internazionali. La posizione centrale e l'ambiente curato lo rendono uno dei locali più vivaci del paese, ideale sia per un pasto veloce che per una serata conviviale.",
+      "comune_name": "Pontebba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pontebba.md"
+    }
+  ]
+}

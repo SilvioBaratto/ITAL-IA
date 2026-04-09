@@ -1,0 +1,30 @@
+{
+  "comune_name": "Pravisdomini",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pravisdomini.md",
+  "extracted_at": "2026-04-09T11:13:35.620Z",
+  "pois": [
+    {
+      "name": "Al Lido",
+      "address": "Via Lido, 31 – Pravisdomini (PN), 33076",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Lido%2C%20Via%20Lido%2C%2031%20%E2%80%93%20Pravisdomini%20(PN)%2C%2033076",
+      "image_url": null,
+      "description": "Il Ristorante Al Lido è il principale locale di ristorazione di Pravisdomini, situato nella zona meridionale lungo Via Lido. Propone una cucina italiana tradizionale con una spiccata specializzazione nelle carni alla griglia, rispecchiando la tradizione delle griglierie friulane e venete. L'atmosfera è informale e familiare, frequentato soprattutto da residenti e lavoratori locali. L'offerta è genuina e semplice, con grigliate, polenta e contorni di stagione, a prezzi contenuti.",
+      "comune_name": "Pravisdomini",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pravisdomini.md"
+    },
+    {
+      "name": "Bar Trattoria Pizzeria (loc. centro)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Pizzeria%20(loc.%20centro)%2C%20Pravisdomini",
+      "image_url": null,
+      "description": "Questo locale nel centro di Pravisdomini unisce le funzioni di bar, trattoria e pizzeria, tipiche della pianura friulana. Serve piatti tradizionali come paste al ragù, minestre, grigliate e pizze, risultando un punto di riferimento per chi cerca pranzi economici e cene semplici. L’offerta riflette la cucina di campagna e i prodotti tipici del territorio, offrendo un ambiente familiare e conviviale.",
+      "comune_name": "Pravisdomini",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pravisdomini.md"
+    }
+  ]
+}

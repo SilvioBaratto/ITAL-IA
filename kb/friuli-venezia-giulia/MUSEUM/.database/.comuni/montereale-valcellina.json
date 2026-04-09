@@ -1,0 +1,41 @@
+{
+  "comune_name": "Montereale Valcellina",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/montereale-valcellina.md",
+  "extracted_at": "2026-04-09T10:51:29.447Z",
+  "pois": [
+    {
+      "name": "Museo Archeologico di Montereale Valcellina – Palazzo Toffoli",
+      "address": "Via Castello, Montereale Valcellina (PN) 33086",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20di%20Montereale%20Valcellina%20%E2%80%93%20Palazzo%20Toffoli%2C%20Via%20Castello%2C%20Montereale%20Valcellina%20(PN)%2033086",
+      "image_url": null,
+      "description": "Il Museo Archeologico di Montereale Valcellina è collocato nello storico Palazzo Toffoli e documenta in modo completo la presenza umana nell’area dalla tarda età del bronzo all’alto medioevo. I reperti esposti illustrano necropoli paleovenete, abitati protostorici e oggetti di notevole pregio come i dolii incisi e numerosi monili metallici. Il percorso copre anche l’epoca romana e la necropoli altomedievale, offrendo visite guidate, attività didattiche e servizi accessibili a tutti.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Museo della Centrale Idroelettrica \"Antonio Pitter\" – Malnisio",
+      "address": "Via Molini, Malnisio, Montereale Valcellina (PN) 33086",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Centrale%20Idroelettrica%20%22Antonio%20Pitter%22%20%E2%80%93%20Malnisio%2C%20Via%20Molini%2C%20Malnisio%2C%20Montereale%20Valcellina%20(PN)%2033086",
+      "image_url": null,
+      "description": "Il Museo della Centrale Idroelettrica 'Antonio Pitter' di Malnisio è un raro esempio di museo industriale sorto in una vera centrale elettrica di inizio Novecento. Celebre per i suoi primati tecnologici, conserva la sala macchine originale con turbine e alternatori, offrendo un’immersione nell’architettura liberty e nella storia dell’energia elettrica italiana. Collegato a eventi come il Malnisio Science Festival, il museo rappresenta un punto di riferimento nella divulgazione scientifica e nella memoria industriale del Friuli Venezia Giulia.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Area Archeologica dell'Acquedotto Romano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Area%20Archeologica%20dell'Acquedotto%20Romano%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "Questa area all’aperto documenta i resti di un acquedotto di epoca romana nel territorio comunale di Montereale Valcellina. Accessibile tramite percorsi naturalistici e storici, il sito conserva murature e canalizzazioni che testimoniano un'antica rete infrastrutturale probabilmente collegata all'insediamento romano di Caelina.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/montereale-valcellina.md"
+    }
+  ]
+}

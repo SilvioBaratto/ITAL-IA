@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/coseano.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Coseano",
+  "province": "UD",
+  "page_title": "Coseano",
+  "page_summary": "Guida ai principali bar del comune di Coseano: il bar di quartiere nella frazione di Cisterna e una pizzeria-bar che funge da punto di ritrovo nelle zone meridionali.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/coseano.md",
+  "processed_at": "2026-04-09T12:06:22.881Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/coseano__0",
+      "text": "### Bar di Cisterna (frazione di Coseano)\n\n**Frazione di Cisterna, Coseano (UD), 33030**\n\nNella frazione di Cisterna, cuore residenziale del comune insieme al capoluogo, è presente un piccolo bar di quartiere che serve la comunità locale. Il locale non ha una presenza online strutturata e le informazioni disponibili su piattaforme di recensione o directory commerciali sono assenti o molto limitate, il che è del tutto comune per esercizi di questo tipo in comuni così piccoli della pianura friulana. Si tratta di un bar di prossimità, frequentato prevalentemente dagli abitanti del luogo: vi ci si va la mattina presto per un caffè espresso prima di andare al lavoro, durante la pausa pranzo, o nel tardo pomeriggio per un aperitivo informale. La vicinanza alla Cassa di Risparmio del Friuli Venezia Giulia e alle scuole (la Scuola Primaria don Ugo Masotti e la Scuola dell'Infanzia di Coseano/Cisterna) ne fa un punto di riferimento per famiglie e lavoratori del territorio. In questi bar di campagna è spesso possibile trovare prodotti da forno locali, tramezzini preparati al momento e qualche dolce della tradizione.",
+      "metadata": {
+        "section_title": "Bar di Cisterna (frazione di Coseano)",
+        "links": [],
+        "addresses": [
+          "Frazione di Cisterna, Coseano (UD), 33030"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/coseano__1",
+      "text": "### Pizzeria-Bar (capoluogo o frazioni meridionali)\n\n**Coseano (UD), 33030**\n\nNella parte più meridionale del territorio comunale è segnalata una pizzeria che, come avviene spesso nei piccoli centri friulani, svolge anche funzione di bar e punto di socializzazione. In questi locali ibridi — tipici della campagna friulana — ci si siede per una pizza la sera, ma ci si ferma anche di giorno per un caffè o un aperitivo. Il locale non risulta dotato di denominazione propria nelle fonti disponibili e non ha un sito web o una presenza documentata sui principali canali digitali. La pizzeria risponde a una doppia esigenza: quella gastronomica serale e quella conviviale quotidiana, diventando uno dei pochi punti di ritrovo nella parte meridionale del comune. Nei fine settimana, specialmente in estate, questi locali si animano con famiglie e gruppi di amici, confermando la loro centralità nella vita sociale delle frazioni minori.",
+      "metadata": {
+        "section_title": "Pizzeria-Bar (capoluogo o frazioni meridionali)",
+        "links": [],
+        "addresses": [
+          "Coseano (UD), 33030"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

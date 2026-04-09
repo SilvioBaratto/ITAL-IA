@@ -1,0 +1,69 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Povoletto",
+  "province": "UD",
+  "page_title": "Povoletto",
+  "page_summary": "Guida ai principali ristoranti e pizzerie del comune di Povoletto: dalle trattorie di frazione alle pizzerie del capoluogo, con focus sulla cucina friulana e sulle offerte locali più radicate nel territorio.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md",
+  "processed_at": "2026-04-09T13:50:12.016Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/povoletto__0",
+      "text": "### Arcadia – Ristorante Pizzeria\n\n**Indirizzo:** Via Udine 13, Povoletto (UD)  \n**Telefono:** +39 0432 679011  \n**Cucina:** Cucina italiana, pizzeria\n\nL'Arcadia è il principale locale di ristorazione del capoluogo di Povoletto. Si tratta di un ristorante-pizzeria di tipologia familiare, con una proposta che spazia tra la cucina italiana tradizionale e le pizze al forno. Situato lungo la via principale che collega il paese a Udine, il locale è frequentato soprattutto dalla clientela locale e dai lavoratori della zona a pranzo, e da famiglie e comitive la sera.\n\nIl menu segue la stagionalità e affianca ai classici piatti friulani (frico, risotti, paste fresche) una proposta più ampia di cucina italiana. La carta delle pizze è generosa, con numerose varianti tra le classiche napoletane e le interpretazioni locali. L'atmosfera è informale e accogliente, tipica della trattoria di paese.\n\n**Fascia di prezzo:** €–€€ (economico, adatto a famiglie)",
+      "metadata": {
+        "section_title": "Arcadia – Ristorante Pizzeria",
+        "links": [],
+        "addresses": [
+          "Via Udine 13, Povoletto (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€–€€ (economico, adatto a famiglie)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/povoletto__1",
+      "text": "### Mamma che Pizza\n\n**Indirizzo:** Via Roma 8, Povoletto (UD)  \n**Telefono:** +39 0432 634114  \n**Cucina:** Pizzeria, asporto\n\nPiccola pizzeria da asporto situata nel cuore del capoluogo comunale, lungo la Via Roma. È il punto di riferimento per chi cerca una pizza veloce e informale, sia da portare via sia da consumare sul posto. Il locale risponde alle esigenze pratiche della comunità locale, con proposte semplici a prezzi accessibili.\n\nNon si tratta di un locale di ristorazione in senso tradizionale, ma di un esercizio di vicinato che soddisfa la domanda quotidiana di un'alternativa veloce alla cucina casalinga. Le pizze sono preparate artigianalmente, con un'offerta che include le classiche margherita e marinara fino a varianti con ingredienti locali.\n\n**Fascia di prezzo:** € (molto economico, pizzeria da asporto)",
+      "metadata": {
+        "section_title": "Mamma che Pizza",
+        "links": [],
+        "addresses": [
+          "Via Roma 8, Povoletto (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (molto economico, pizzeria da asporto)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/povoletto__2",
+      "text": "### Bar Trattoria da Ognibene\n\n**Località:** Siacco, Povoletto (UD)  \n**Cucina:** Cucina casalinga friulana\n\nNella piccola frazione di Siacco, sulle colline di Povoletto, si trova questo locale a conduzione familiare che unisce la funzione di bar di paese con una cucina tradizionale essenziale. Luoghi come questo sono il cuore pulsante delle frazioni minori del Friuli: punti di ritrovo dove si gioca a carte, si commenta la partita, ci si ritrova dopo le attività nei campi.\n\nLa cucina, quando disponibile, è quella della memoria: minestre di orzo e fagioli, paste fatte in casa, secondi di carne secondo la disponibilità giornaliera. Non è un ristorante nel senso formale del termine, ma un presidio di socialità e tradizione gastronomica locale. Si consiglia di verificare gli orari di apertura e la disponibilità dei pasti direttamente contattando il locale.\n\n**Fascia di prezzo:** € (cucina popolare, prezzi da osteria di paese)",
+      "metadata": {
+        "section_title": "Bar Trattoria da Ognibene",
+        "links": [],
+        "addresses": [
+          "Siacco, Povoletto (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (cucina popolare, prezzi da osteria di paese)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/povoletto__3",
+      "text": "### Pizzeria Capriccio\n\n**Località:** Primulacco, Povoletto (UD)  \n**Cucina:** Pizzeria\n\nNella frazione di Primulacco, che si distende sulle colline collinari a sud-est del capoluogo comunale, è attiva questa piccola pizzeria che serve la comunità locale della zona. Come molti locali nelle frazioni minori della campagna friulana, il Capriccio ha una vocazione di servizio di prossimità, con un'offerta essenziale di pizze e piatti del giorno.\n\nLa pizzeria è frequentata soprattutto dai residenti delle frazioni circostanti e rappresenta un punto di aggregazione per la comunità di Primulacco e delle località vicine. Si consiglia di verificare orari e disponibilità prima di recarsi.\n\n**Fascia di prezzo:** € (economico)",
+      "metadata": {
+        "section_title": "Pizzeria Capriccio",
+        "links": [],
+        "addresses": [
+          "Primulacco, Povoletto (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (economico)"
+      }
+    }
+  ]
+}

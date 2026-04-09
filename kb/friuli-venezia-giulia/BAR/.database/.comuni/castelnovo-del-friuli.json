@@ -1,0 +1,19 @@
+{
+  "comune_name": "Castelnovo del Friuli",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castelnovo-del-friuli.md",
+  "extracted_at": "2026-04-09T10:04:05.694Z",
+  "pois": [
+    {
+      "name": "Titti Bar",
+      "address": "Paludea / Franz, Castelnovo del Friuli — Strada Provinciale 62 di Castelnovo, 33090",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Titti Bar è l'unico bar documentato a Castelnovo del Friuli, situato tra le frazioni di Paludea e Franz lungo la Strada Provinciale 62. È un tipico bar di paese friulano, punto di riferimento e ritrovo per l'intera comunità locale, con un'atmosfera autentica e familiare. Qui si fa colazione con brioche e cappuccino, si prende l'aperitivo soprattutto nei giorni di festa, e la cucina propone occasionalmente tramezzini o spuntini freddi. Il locale svolge anche un importante ruolo sociale, essendo l'unico esercizio simile in tutto il territorio comunale.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castelnovo-del-friuli.md"
+    }
+  ]
+}

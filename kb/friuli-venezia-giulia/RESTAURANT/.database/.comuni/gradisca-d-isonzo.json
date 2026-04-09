@@ -1,0 +1,107 @@
+{
+  "comune_name": "Gradisca D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md",
+  "extracted_at": "2026-04-09T11:04:09.660Z",
+  "pois": [
+    {
+      "name": "Ristorante Meja Gourmet",
+      "address": "Via Moisesso 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Meja%20Gourmet%2C%20Via%20Moisesso%203",
+      "image_url": null,
+      "description": "Ristorante Meja Gourmet offre un'esperienza di cucina contemporanea legata alle tradizioni locali, con un menù degustazione studiato per valorizzare ingredienti del territorio e tecniche innovative. L'ambiente è elegante ma accogliente, ideale sia per cene romantiche che per occasioni speciali. Vanta una carta vini selezionata con particolare attenzione alle etichette del Collio e Isonzo, e un servizio di alta qualità. Il locale è molto apprezzato dai clienti, con una valutazione di 4.8 su 5 su TripAdvisor.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "La Ghironda",
+      "address": "Via Marziano Ciotti 47",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ghironda%2C%20Via%20Marziano%20Ciotti%2047",
+      "image_url": null,
+      "description": "La Ghironda è un ristorante noto per l'autentica cucina friulana e l'atmosfera calda e accogliente, con uno stile retrò dominato dal legno. Il menù valorizza ricette tradizionali e stagionali, con piatti come tagliatelle saporite, gnocchi morbidi e caponata tra le specialità. Gestita con passione da Luca e Chiara, la Ghironda è molto apprezzata per l'ospitalità genuina e un prezzo moderato che la rende accessibile a tutti.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Osteria Mulin Vecio",
+      "address": "Via Gorizia 2",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Mulin%20Vecio%2C%20Via%20Gorizia%202",
+      "image_url": null,
+      "description": "Osteria Mulin Vecio, situata in un antico mulino restaurato, è una gemma della cucina friulana dove si possono gustare salumi di alta qualità, minestre tradizionali come jota e orzotto, oltre a piatti robusti come baccalà, gulasch e salsiccia di cragno secondo il giorno della settimana. L'ambiente è informale e conviviale, e il locale si distingue per i prezzi economici e l'autenticità della sua proposta gastronomica regionale.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Albergo Ristorante Al Ponte",
+      "address": "Viale Trieste 124",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Al%20Ponte%2C%20Viale%20Trieste%20124",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Al Ponte è una struttura storica attiva dal 1898, caratterizzata da un'ampia proposta alberghiera e una cucina che fonde tradizione friulana e innovazione. Il ristorante offre piatti semplici ma saporiti sia di terra che di mare, preparati anche con l'influenza della cucina internazionale grazie all'esperienza dello chef. Tra i suoi punti di forza spicca una ricca cantina con oltre 400 etichette regionali e nazionali, oltre a un servizio attento e spazi accoglienti per ogni esigenza.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Da Cris Trattoria Pizzeria",
+      "address": "Piazzale Dell'Unità D'Italia 22",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Cris%20Trattoria%20Pizzeria%2C%20Piazzale%20Dell'Unit%C3%A0%20D'Italia%2022",
+      "image_url": null,
+      "description": "Da Cris è una trattoria pizzeria che offre sia cucina friulana tradizionale sia pizze classiche, con una particolare attenzione alla qualità delle materie prime e ai piatti di pasta e panini gustosi. La gelateria interna è un valore aggiunto, mentre la posizione centrale sulla piazza principale di Gradisca garantisce una vista vivace, con servizio sia all'interno che all'aperto. L'atmosfera cordiale e la fascia di prezzo moderata ne fanno una meta adatta a cene informali e pranzi in famiglia.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Enoteca Regionale La Serenissima",
+      "address": "Via Cesare Battisti 26-30",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Regionale%20La%20Serenissima%2C%20Via%20Cesare%20Battisti%2026-30",
+      "image_url": null,
+      "description": "Enoteca Regionale La Serenissima è un punto di riferimento per la scoperta dei vini friulani, con una vasta selezione di DOC locali disponibili per degustazione e acquisto. Il locale funge anche da centro culturale, ospitando eventi, degustazioni guidate e presentazioni dedicate al meglio della produzione enogastronomica regionale, inclusi salumi e formaggi tipici. L'atmosfera è raffinata e accogliente, ideale per appassionati di vino e gastronomia.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Osteria La Pesa",
+      "address": "Via Carducci 2",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La%20Pesa%2C%20Via%20Carducci%202",
+      "image_url": null,
+      "description": "Osteria La Pesa è una tradizionale osteria di paese, riconosciuta nelle guide regionali e apprezzata per l'autenticità dell'offerta. Propone un menù casalingo basato sulla cucina friulana, con piatti semplici e gustosi realizzati con ingredienti locali. L'atmosfera familiare e i prezzi economici la rendono una scelta ideale per chi cerca una ristorazione genuina e priva di pretese.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Il Maialotto",
+      "address": "Via Giuseppe Garibaldi 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Maialotto%2C%20Via%20Giuseppe%20Garibaldi%203",
+      "image_url": null,
+      "description": "Il Maialotto è un'enoteca-bar elegante e vivace, apprezzata per la ricca selezione di vini di pregio e cocktail creativi. È un locale molto popolare punto di incontro serale, dove spicca la sua atmosfera raffinata con elementi rustici e moderni. Il locale è particolarmente rinomato per la carta dei vini e riceve ottime valutazioni dagli ospiti.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Agriturismo Ai Feudi",
+      "address": "Via Venuti 10",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Ai%20Feudi%2C%20Via%20Venuti%2010",
+      "image_url": null,
+      "description": "Agriturismo Ai Feudi offre una cucina friulana autentica immersa nella natura, con menù basati su ingredienti a km zero e prezzi accessibili. Oltre alla ristorazione propone anche ospitalità in otto camere, permettendo agli ospiti di vivere un'esperienza completa tra tradizione rurale e piatti tipici. L'ambiente tranquillo e la posizione sulla riva destra dell'Isonzo rendono il soggiorno particolarmente rilassante.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gradisca-d-isonzo.md"
+    }
+  ]
+}

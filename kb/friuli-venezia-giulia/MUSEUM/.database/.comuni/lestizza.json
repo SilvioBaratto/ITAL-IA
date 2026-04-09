@@ -1,0 +1,63 @@
+{
+  "comune_name": "Lestizza",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lestizza.md",
+  "extracted_at": "2026-04-09T10:49:55.126Z",
+  "pois": [
+    {
+      "name": "Associazione Culturale Colonos – Centro Culturale \"Ai Colonos\"",
+      "address": "Via Giovanni da Udine, Villacaccia, 33050 Lestizza (UD)",
+      "website_url": "http://colonos.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Associazione%20Culturale%20Colonos%20%E2%80%93%20Centro%20Culturale%20%22Ai%20Colonos%22%2C%20Via%20Giovanni%20da%20Udine%2C%20Villacaccia%2C%2033050%20Lestizza%20(UD)",
+      "image_url": null,
+      "description": "Il centro culturale \"Ai Colonos\" è la principale realtà culturale del territorio lestizzese, ospitato in un complesso rurale restaurato a Villacaccia. Promuove la cultura friulana attraverso mostre d'arte contemporanea, residenze artistiche, convegni e una rassegna annuale dedicata alla lingua e alle tradizioni locali. Alcune iniziative sono aperte al pubblico, mentre altre sono riservate ai soci. Il luogo è riconosciuto per la sua innovazione e per l'intreccio tra memoria storica e arte contemporanea.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lestizza.md"
+    },
+    {
+      "name": "Castelliere protostorico \"Las Rives\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castelliere%20protostorico%20%22Las%20Rives%22%2C%20Lestizza",
+      "image_url": null,
+      "description": "Il castelliere \"Las Rives\" è uno dei principali siti archeologici della pianura friulana, risalente al XIII secolo a.C. e caratterizzato da una cinta a terrapieno romboidale. Vi sono stati condotti scavi che hanno riportato alla luce la più antica struttura abitativa friulana, datata a tremila anni fa. Il sito non è attrezzato come museo all'aperto, ma è accessibile e molto apprezzato da appassionati di archeologia e storia locale.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lestizza.md"
+    },
+    {
+      "name": "Biblioteca Civica di Lestizza",
+      "address": null,
+      "website_url": "http://www.comune.lestizza.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20di%20Lestizza%2C%20Lestizza",
+      "image_url": null,
+      "description": "La Biblioteca Civica di Lestizza, istituita tra gli anni Settanta e Ottanta, è il principale presidio culturale pubblico del comune. Conserva documentazione sulla storia locale e ospita mostre temporanee, conferenze ed eventi culturali legati al patrimonio storico-archeologico. Pur non configurandosi come museo, svolge un ruolo centrale nella promozione della cultura e della memoria collettiva di Lestizza.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lestizza.md"
+    },
+    {
+      "name": "Villa Bellavitis (Villa Busolini-Bellavitis)",
+      "address": "Lestizza capoluogo, 33050 (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Bellavitis%20(Villa%20Busolini-Bellavitis)%2C%20Lestizza%20capoluogo%2C%2033050%20(UD)",
+      "image_url": null,
+      "description": "Villa Bellavitis è un elegante edificio di stile veneto nel capoluogo, restaurato nel primo decennio del 2000. Fu dimora della scrittrice Elena Fabris Bellavitis, figura di rilievo nella letteratura friulana ottocentesca. La villa non è aperta al pubblico come casa-museo, ma rappresenta una testimonianza del legame tra Lestizza e la cultura letteraria regionale.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lestizza.md"
+    },
+    {
+      "name": "Palazzo Fabris e Torre di Garzit",
+      "address": "Piazza San Biagio / Borgo della Chiesa, Lestizza capoluogo, 33050 (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Fabris%20e%20Torre%20di%20Garzit%2C%20Piazza%20San%20Biagio%20%2F%20Borgo%20della%20Chiesa%2C%20Lestizza%20capoluogo%2C%2033050%20(UD)",
+      "image_url": null,
+      "description": "Palazzo Fabris e la Torre di Garzit sono monumenti civili del XV secolo che raccontano la storia e la stratificazione architettonica di Lestizza. Pur non visitabili come musei, costituiscono parte fondamentale del percorso storico del borgo, con dettagli come soffitti decorati e strutture difensive medievali. Sono esempi emblematici del recupero dell'identità rurale e storica locale.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lestizza.md"
+    }
+  ]
+}

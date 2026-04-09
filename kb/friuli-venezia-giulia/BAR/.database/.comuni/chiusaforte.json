@@ -1,0 +1,85 @@
+{
+  "comune_name": "Chiusaforte",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md",
+  "extracted_at": "2026-04-09T10:09:52.289Z",
+  "pois": [
+    {
+      "name": "Bar da Luciana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20da%20Luciana%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Il Bar da Luciana rappresenta il classico caffè di paese, punto di ritrovo mattutino per colazioni con brioche e caffè espresso e frequentato da residenti e viandanti. Gestito in modo familiare, offre un ambiente accogliente e prezzi contenuti nel cuore di Chiusaforte, vicino alla chiesa parrocchiale. È celebre per il caffè forte e ristretto, spesso accompagnato da paste locali, e durante le feste o l'estate si anima con spritz serviti alla maniera carnica.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Bar Pizzeria Da Luisa",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Pizzeria%20Da%20Luisa%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Il Bar Pizzeria Da Luisa unisce la funzione di bar a quella di ristorante informale, servendo colazioni, pizze e piatti caldi. L'atmosfera è familiare e il locale è uno dei principali punti di aggregazione del paese, soprattutto durante l'estate e le festività. Frequentato sia da residenti che da escursionisti e ciclisti, offre un'accoglienza calorosa a chi percorre i sentieri e le vie della valle.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Stazione di Chiusaforte – Cooperativa La Chiusa",
+      "address": "Via Stazione 15, Chiusaforte",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Stazione%20di%20Chiusaforte%20%E2%80%93%20Cooperativa%20La%20Chiusa%2C%20Via%20Stazione%2015%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "La storica stazione ferroviaria, oggi gestita dalla Cooperativa La Chiusa, è stata trasformata in un bar con servizio di piccola ristorazione aperto principalmente da aprile a ottobre. Il locale si distingue per l'atmosfera autentica degli spazi ferroviari e per il dehors con vista sul fiume Fella, ideale per pause caffè e per chi visita i sentieri circostanti. Offre anche prodotti locali e ospita eventi culturali, diventando punto di riferimento sia per viaggiatori sia per la comunità.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Bar el Sole",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20el%20Sole%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Situato nell'area sud-occidentale di Chiusaforte, il Bar el Sole offre piacevoli tavoli all'aperto, particolarmente apprezzati nei mesi estivi. Il locale richiama la ricerca della luce tipica delle valli montane e accoglie sia residenti sia escursionisti diretti alle cascate e sorgenti della zona. È un bar versatile, adatto a colazioni, pause caffè, birre pomeridiane e stuzzichini, con un'atmosfera semplice e familiare.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Bar Funivia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Funivia%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Il Bar Funivia si trova presso gli impianti sciistici di Sella Nevea e rappresenta il tipico bar di montagna dove fare una pausa tra una sciata e l'altra. In inverno è meta di sciatori, mentre in estate diventa punto di appoggio per escursionisti e alpinisti. L'atmosfera è autentica e sportiva, con clienti che condividono storie di montagna davanti a un caffè, una birra artigianale o una grappa locale.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Ai Poli",
+      "address": "Via Carinzia, Sella Nevea, Chiusaforte (frazione)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Poli%2C%20Via%20Carinzia%2C%20Sella%20Nevea%2C%20Chiusaforte%20(frazione)",
+      "image_url": null,
+      "description": "Il bar Ai Poli, situato sulla principale via di Sella Nevea, è un punto di riferimento per sciatori, snowboarder e amanti della montagna. Il suo nome richiama le temperature rigide della zona e l'offerta include bevande calde per scaldarsi nelle giornate di neve, così come aperitivi e birre per concludere un'intensa giornata all'aperto. L'ambiente è informale, ideale per socializzare dopo le attività in quota.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Trattoria Al Fontanon di Goriuda",
+      "address": "Pian della Sega 2, Val Raccolana, Chiusaforte",
+      "website_url": "https://trattoriaalfontanon.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Fontanon%20di%20Goriuda%2C%20Pian%20della%20Sega%202%2C%20Val%20Raccolana%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Situata vicino alla famosa cascata del Fontanon di Goriuda, questa trattoria funge sia da ristorante tradizionale sia da bar per escursionisti. Gestito in modo familiare, il locale offre cucina friulana casalinga e tavoli all'aperto con vista sulle montagne. È anche un punto di sosta ideale per un caffè o un aperitivo prima o dopo le passeggiate nella Val Raccolana, soprattutto durante la stagione turistica primaverile ed estiva.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiusaforte.md"
+    }
+  ]
+}

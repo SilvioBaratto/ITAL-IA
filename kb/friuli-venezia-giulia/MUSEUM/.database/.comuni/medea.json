@@ -1,0 +1,19 @@
+{
+  "comune_name": "Medea",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/medea.md",
+  "extracted_at": "2026-04-09T10:50:46.165Z",
+  "pois": [
+    {
+      "name": "Ara Pacis Mundi",
+      "address": null,
+      "website_url": "http://www.comune.medea.go.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ara%20Pacis%20Mundi%2C%20Medea",
+      "image_url": null,
+      "description": "L'Ara Pacis Mundi è un monumento commemorativo di rilievo nazionale situato sul colle di Medea, dedicato ai caduti di tutte le guerre, specialmente della Seconda guerra mondiale. Progettato dall'architetto Mario Bacciocchi e inaugurato nel 1951, il complesso custodisce un'urna con terre provenienti da oltre 800 cimiteri di guerra e acque di mari teatro di tragedie belliche. Meta di pellegrinaggi civili e cerimonie, rappresenta un simbolo universale di pace e memoria nel Friuli-Venezia Giulia.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/medea.md"
+    }
+  ]
+}

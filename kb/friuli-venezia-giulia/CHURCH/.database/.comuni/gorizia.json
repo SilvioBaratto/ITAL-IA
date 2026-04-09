@@ -1,0 +1,140 @@
+{
+  "comune_name": "Gorizia",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md",
+  "extracted_at": "2026-04-09T10:27:52.934Z",
+  "pois": [
+    {
+      "name": "Cattedrale Metropolitana dei Santi Ilario e Taziano (Duomo)",
+      "address": "Gorizia, piazza della Vittoria (già piazza del Comune)",
+      "website_url": "https://cattedrale.arcidiocesi.gorizia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cattedrale%20Metropolitana%20dei%20Santi%20Ilario%20e%20Taziano%20(Duomo)%2C%20Gorizia%2C%20piazza%20della%20Vittoria%20(gi%C3%A0%20piazza%20del%20Comune)",
+      "image_url": null,
+      "description": "Il Duomo di Gorizia è il principale luogo di culto cattolico della città e sede dell'arcidiocesi, le cui origini risalgono al XIII secolo. L'edificio presenta tracce tardogotiche e fu rinnovato in stile barocco tra il XVII e il XVIII secolo, con una ricostruzione dopo la Prima Guerra Mondiale. La cattedrale conserva importanti opere d’arte di artisti come Giovanni Pacassi, Pietro Baratta, Giuseppe Tominz e Angelo De Putti, tra cui il celebre pulpito, la cappella gotica di Sant’Acazio e un organo storico. Il campanile cinquecentesco e vari elementi artistici completano un complesso di grande valore storico e religioso.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa di Sant'Ignazio",
+      "address": "Gorizia, piazza della Vittoria (ex Travnik)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Ignazio%2C%20Gorizia%2C%20piazza%20della%20Vittoria%20(ex%20Travnik)",
+      "image_url": null,
+      "description": "La chiesa di Sant’Ignazio è uno straordinario esempio di barocco gesuitico nell’Italia nord-orientale, costruita tra il 1654 e il 1724. La facciata fu progettata da Christoph Tausch e ospita statue di illustri santi; all'interno si ammirano affreschi di Lorenzo Bianchini e numerose opere barocche. L’edificio è noto per la sua maestosa navata unica e le sei cappelle laterali decorate, rappresentando una delle principali testimonianze dell’arte e della spiritualità dei gesuiti a Gorizia.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa di Santo Spirito",
+      "address": "Gorizia, centro storico presso il Castello",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santo%20Spirito%2C%20Gorizia%2C%20centro%20storico%20presso%20il%20Castello",
+      "image_url": null,
+      "description": "Eretta tra il 1398 e il 1414, la chiesa di Santo Spirito è uno dei pochi esempi di architettura gotica sopravvissuti a Gorizia. Commissionata dalla famiglia Rabatta, conserva una croce lignea seicentesca e una tela attribuita a Fulvio Griffoni. L’edificio si distingue per la sobria volumetria gotica e la navata unica, mantenendo l’essenzialità dell’epoca medievale.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa dell'Immacolata",
+      "address": "Gorizia, nei pressi del Municipio",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dell'Immacolata%2C%20Gorizia%2C%20nei%20pressi%20del%20Municipio",
+      "image_url": null,
+      "description": "La chiesa dell’Immacolata, costruita tra il 1647 e il 1685 vicino al municipio, rappresenta uno degli esempi più raffinati del barocco goriziano, influenzato sia da Venezia sia da Vienna. Presenta una navata unica impreziosita da stucchi floreali e originariamente da dipinti ovali, e mostra abbellimenti lignei tipici del Seicento. L’edificio ha subito diverse modifiche, ma mantiene ancora oggi il suo carattere elegante e solenne.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Cappella dell'Esaltazione della Croce (Palazzo Cobenzl)",
+      "address": "Gorizia, nel complesso del Palazzo Cobenzl (sede dell'Arcidiocesi dal 1751)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20dell'Esaltazione%20della%20Croce%20(Palazzo%20Cobenzl)%2C%20Gorizia%2C%20nel%20complesso%20del%20Palazzo%20Cobenzl%20(sede%20dell'Arcidiocesi%20dal%201751)",
+      "image_url": null,
+      "description": "Incorporata nel complesso storico del Palazzo Cobenzl, la cappella fu edificata nel 1746 e rinnovata nel 1878. Caratterizzata da una pianta ovale, vanta un altare in marmo bianco e una volta a botte, decorata da lesene e illuminata da una lanterna centrale. L'ambiente, con ingresso sormontato dallo stemma Codelli e balcone, riflette la solennità del tardo barocco con tocchi neoclassici.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa di San Rocco (quartiere San Rocco)",
+      "address": "Gorizia, quartiere San Rocco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%20(quartiere%20San%20Rocco)%2C%20Gorizia%2C%20quartiere%20San%20Rocco",
+      "image_url": null,
+      "description": "Eretta alla fine del XV secolo per la comunità agricola locale, la chiesa di San Rocco fu ampliata nel Seicento dopo un’epidemia di peste. Vanta affreschi di Palma il Giovane e una Via Crucis di Antonio Paroli. Il suo aspetto attuale, con facciata neoclassica progettata da Giovanni Brisco nel 1898, si accompagna a una fontana monumentale e alla presenza di edifici storici vicini come il Seminario Teologico Centrale.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa dei Frati Cappuccini",
+      "address": "Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Frati%20Cappuccini%2C%20Gorizia",
+      "image_url": null,
+      "description": "Fondata nel 1591 e ricostruita dopo i danni della Prima Guerra Mondiale, la chiesa è parte di un convento di grande rilevanza storica. Il complesso, ricostruito nel 1926, si distingue per la sobrietà architettonica e la semplicità decorativa, in linea con la spiritualità cappuccina. Ospita una presenza francescana tuttora attiva nella città.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa dei Santi Vito e Modesto",
+      "address": "Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Vito%20e%20Modesto%2C%20Gorizia",
+      "image_url": null,
+      "description": "Voluta dal barone Gian Vito Del Mestri, questa chiesa fu originariamente costruita a metà del Seicento e rinnovata in stile barocco. Gravemente danneggiata nella Prima Guerra Mondiale, fu ricostruita negli anni Venti e riconsacrata nel 1929. Nella seconda metà del Novecento, l'interno subì modifiche per adeguarsi ai nuovi dettami liturgici postconciliari.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa del Sacro Cuore di Gesù e di Maria",
+      "address": "Gorizia, rione nei pressi della stazione ferroviaria",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20del%20Sacro%20Cuore%20di%20Ges%C3%B9%20e%20di%20Maria%2C%20Gorizia%2C%20rione%20nei%20pressi%20della%20stazione%20ferroviaria",
+      "image_url": null,
+      "description": "Sorta per servire il nuovo quartiere vicino alla stazione ferroviaria, la chiesa fu progettata tra la fine dell’Ottocento e il primo Novecento, con contributi di Emilio Pelican e Max Fabiani, e consacrata nel 1938. Ha tre navate in stile romanico-eclettico e ospita opere pittoriche di Emma Galli e vetrate moderne. La sua storia riflette le vicissitudini della città durante il periodo bellico e la ricostruzione.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa di San Giusto (Ospedale dei Fatebenefratelli)",
+      "address": "Gorizia, complesso dell'ex Villa Locatelli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giusto%20(Ospedale%20dei%20Fatebenefratelli)%2C%20Gorizia%2C%20complesso%20dell'ex%20Villa%20Locatelli",
+      "image_url": null,
+      "description": "La chiesa di San Giusto, consacrata nel 1926, è parte integrante del complesso dell’ex Villa Locatelli, oggi sede ospedaliera gestita dai Fatebenefratelli. Costruito in stile conventuale novecentesco, l’edificio funge da cappella ospedaliera e risponde alle esigenze religiose del personale e dei degenti.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Chiesa di San Mauro (quartiere San Mauro)",
+      "address": "Gorizia, quartiere San Mauro (loc. San Mauro)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Mauro%20(quartiere%20San%20Mauro)%2C%20Gorizia%2C%20quartiere%20San%20Mauro%20(loc.%20San%20Mauro)",
+      "image_url": null,
+      "description": "Le origini della chiesa risalgono almeno al XIV secolo, anche se l’attuale edificio fu ricostruito nel 1930 dopo la distruzione bellica. Ha una facciata a capanna con portico, campanile retrostante, e custodisce preziosi altari marmorei, tele settecentesche e un altorilievo moderno di Silvan Bevčar. Il luogo è punto di riferimento spirituale per il quartiere e conserva elementi artistici storici e moderni.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    },
+    {
+      "name": "Sacrario Militare di Oslavia (frazione Oslavia)",
+      "address": "Gorizia, frazione di Oslavia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sacrario%20Militare%20di%20Oslavia%20(frazione%20Oslavia)%2C%20Gorizia%2C%20frazione%20di%20Oslavia",
+      "image_url": null,
+      "description": "Costruito nel 1938 sull’altura di Oslavia, il Sacrario Militare custodisce le spoglie di oltre 57.000 soldati caduti nelle battaglie dell’Isonzo. L’imponente struttura in pietra, con cappella centrale e altare, è un luogo di memoria e di intensa spiritualità, testimonianza del sacrificio e della storia novecentesca goriziana.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gorizia.md"
+    }
+  ]
+}

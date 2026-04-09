@@ -1,0 +1,41 @@
+{
+  "comune_name": "Doberdò del Lago",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/doberdò-del-lago.md",
+  "extracted_at": "2026-04-09T10:24:14.671Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo",
+      "address": "Via Gorizia, Doberdò del Lago",
+      "website_url": "https://www.parrocchiadoberdo.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%2C%20Via%20Gorizia%2C%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Martino Vescovo è il principale luogo di culto di Doberdò del Lago e rappresenta il simbolo visivo del paese, con la sua facciata in pietra carsica e il campanile slanciato. Ricostruita in stile neoromano nel 1925 dopo le distruzioni della Prima Guerra Mondiale, la chiesa conserva arredi liturgici in pietra d'Istria e pale d'altare di Emma Galli. È una tappa del Cammino di San Martino di Tours e riveste grande importanza per la comunità di lingua slovena locale.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio di Padova (Jamiano / Iamiano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20di%20Padova%20(Jamiano%20%2F%20Iamiano)%2C%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "Situata nella frazione di Jamiano, la Chiesa di Sant'Antonio di Padova è il fulcro spirituale della comunità di lingua slovena locale. L'edificio attuale è una ricostruzione post-bellica di architettura semplice, tipica del Carso goriziano, e svolge un ruolo centrale nella vita del villaggio. La documentazione sulle sue eventuali opere d'arte è scarsa, ma la chiesa mantiene una tradizione religiosa profondamente radicata.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Cappella Ungherese (Visintini / Vižintini)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Ungherese%20(Visintini%20%2F%20Vi%C5%BEintini)%2C%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "La Cappella Ungherese, inaugurata nel 2009 nella località di Visintini, è un memoriale contemporaneo dedicato ai soldati magiari caduti durante la Grande Guerra sulle alture del Doberdò. Realizzata con materiali lapidei locali e caratterizzata da un'iscrizione trilingue, rappresenta un raro esempio di architettura sacra commemorativa nata dalla collaborazione tra comunità italiane, slovene e ungheresi. Oltre alla funzione religiosa, accoglie pellegrinaggi memoriali e testimonia il valore simbolico internazionale del sito.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/doberdò-del-lago.md"
+    }
+  ]
+}

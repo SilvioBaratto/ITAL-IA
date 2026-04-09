@@ -1,0 +1,261 @@
+{
+  "comune_name": "Ronchi dei Legionari",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md",
+  "extracted_at": "2026-04-09T11:15:51.204Z",
+  "pois": [
+    {
+      "name": "Da Boscarol",
+      "address": "Via XXIV Maggio 107, Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Boscarol%2C%20Via%20XXIV%20Maggio%20107%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Da Boscarol è un ristorante e gastronomia molto apprezzato a Ronchi dei Legionari, noto per la sua cucina di pesce fresco e proposte più informali come panini e antipasti. Il menu offre piatti a base di pesce dell’Adriatico, antipasti di mare, grigliate e dolci artigianali come panna cotta e tiramisù. L’ambiente è tranquillo e informale, con posti all’aperto, parcheggio e servizi adatti anche a persone con disabilità.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Osteria Le Love (Le Love Ristorante)",
+      "address": "Viale G. Garibaldi 155, Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Le%20Love%20(Le%20Love%20Ristorante)%2C%20Viale%20G.%20Garibaldi%20155%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Le Love è un’osteria-ristorante di pesce considerata un punto di riferimento per la ristorazione di qualità a Ronchi dei Legionari. Offre un menu ricercato a base di ingredienti freschi e piatti creativi come spaghetti al nero di seppia con burrata e crostini originali. L’atmosfera è elegante e curata, ideale per occasioni speciali o pranzi di lavoro, con un’ampia selezione di vini friulani.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "U Sushi",
+      "address": "Ronchi dei Legionari (GO) – centro urbano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=U%20Sushi%2C%20Ronchi%20dei%20Legionari%20(GO)%20%E2%80%93%20centro%20urbano",
+      "image_url": null,
+      "description": "U Sushi è il ristorante orientale più popolare in città, con un ricco menù di sushi, sashimi, rolls e pietanze giapponesi, asiatiche e cinesi. Molto apprezzato dalla clientela per la qualità e i prezzi competitivi, offre anche dessert artigianali e servizi come tavoli all’aperto e consegna a domicilio. L’atmosfera è informale e il personale cortese.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Spiller Villa del Contado",
+      "address": "Ronchi dei Legionari (GO) – frazioni/zona periferica",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Spiller%20Villa%20del%20Contado%2C%20Ronchi%20dei%20Legionari%20(GO)%20%E2%80%93%20frazioni%2Fzona%20periferica",
+      "image_url": null,
+      "description": "Il ristorante Spiller, noto anche come Villa del Contado, si trova in una villa signorile ed è ideale per eventi, cerimonie e pranzi di lavoro. Propone cucina italiana di qualità con particolare attenzione ai prodotti stagionali e locali in un contesto elegante e raffinato.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Trattoria Barbablù",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Barbabl%C3%B9%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Barbablù è una trattoria tradizionale del territorio, specializzata in piatti di carne e ricette tipiche friulane. L’ambiente è accogliente e informale, ideale per pranzi in famiglia o tra amici, apprezzata per la sua cucina autentica.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Osteria Al Tempo Perso",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Tempo%20Perso%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Osteria Al Tempo Perso offre una cucina di pesce legata alla stagionalità e ai prodotti dell’Adriatico, con un’attenzione particolare alla tradizione locale. Il locale ha una tipica atmosfera da osteria ed è apprezzato per il servizio genuino e la qualità dei piatti.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Ostaria A Le Casete (e variante \"da Bidut\")",
+      "address": "Ronchi dei Legionari / frazioni limitrofe",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostaria%20A%20Le%20Casete%20(e%20variante%20%22da%20Bidut%22)%2C%20Ronchi%20dei%20Legionari%20%2F%20frazioni%20limitrofe",
+      "image_url": null,
+      "description": "Ostaria A Le Casete, compresa la variante 'da Bidut', è una storica osteria friulana a conduzione famigliare, nota per i piatti rustici, carni e salumi abbondanti. Frequentata dalla comunità locale, si distingue per l’atmosfera autentica e i prezzi contenuti.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Trattoria Mariuta",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Mariuta%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Mariuta propone piatti casalinghi della tradizione italiana e friulana, preparati secondo le ricette del territorio. Il locale ha un ambiente familiare ed è apprezzato per la genuinità delle sue preparazioni.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Antica Trattoria della Pasqua",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20della%20Pasqua%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Antica Trattoria della Pasqua è uno dei locali storici di Ronchi dei Legionari, con una cucina radicata nella tradizione friulana e isontina. Propone piatti della cucina casalinga, pasta fresca e carni in un contesto legato alla storia del territorio.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "El Rebechin De Ronchi",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Rebechin%20De%20Ronchi%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "El Rebechin De Ronchi è un’osteria dal carattere popolare e atmosfera semplice, che richiama le vecchie bettole friulane. Qui si gusta una cucina autentica e genuina del territorio, adatta a chi cerca esperienze semplici e tradizionali.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "FOREVER GRILL",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=FOREVER%20GRILL%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "FOREVER GRILL è il locale di riferimento per le carni alla griglia in città, con un’offerta di bistecche, grigliate miste e piatti tipici della grill house. L’ambiente è informale ma curato, perfetto per gli amanti della carne.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Wanda Rei Burger Gourmet",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Wanda%20Rei%20Burger%20Gourmet%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Wanda Rei Burger Gourmet è un locale dedicato agli hamburger creativi e di qualità, con proposte elaborate e ingredienti selezionati. L’ambiente è giovane e dinamico, ideale per pasti veloci e di livello.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Mamma Mia",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mamma%20Mia%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Mamma Mia è una pizzeria tipica che offre pizza al piatto e cucina italiana classica in un ambiente familiare. Adatta a chi cerca una pizzeria dal sapore tradizionale e prezzi contenuti.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Pizzeria Dal Lep",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Dal%20Lep%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Pizzeria Dal Lep è una delle pizzerie storiche della zona, rinomata per la sua pizza al piatto tradizionale. Frequentata da famiglie e giovani, è apprezzata per la qualità e la continuità della sua offerta.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Pizzeria F.lli Gallo",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20F.lli%20Gallo%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Pizzeria F.lli Gallo è una pizzeria di lunga tradizione, gestita dalla famiglia Gallo, che propone pizza artigianale e piatti della cucina italiana classica. È un punto di riferimento nel territorio per la pizza e la cortesia.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Pizzeria Aquila D'Oro",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Aquila%20D'Oro%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "La Pizzeria Aquila D'Oro è conosciuta per la sua offerta classica di pizze a prezzi accessibili. È punto di riferimento locale per chi desidera un pasto semplice e veloce.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Mazzuchin – Azienda Agricola e Agriturismo",
+      "address": "Ronchi dei Legionari / campagna del comune",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mazzuchin%20%E2%80%93%20Azienda%20Agricola%20e%20Agriturismo%2C%20Ronchi%20dei%20Legionari%20%2F%20campagna%20del%20comune",
+      "image_url": null,
+      "description": "L'Agriturismo Mazzuchin è un'azienda agricola che propone cucina contadina friulana con prodotti di propria produzione come ortaggi, salumi e formaggi. È ideale per chi desidera vivere l’atmosfera autentica della campagna friulana e gustare piatti tradizionali.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "La Vinaia dell'Agriturismo ai Dodici",
+      "address": "Ronchi dei Legionari / zona collinare",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Vinaia%20dell'Agriturismo%20ai%20Dodici%2C%20Ronchi%20dei%20Legionari%20%2F%20zona%20collinare",
+      "image_url": null,
+      "description": "La Vinaia dell'Agriturismo ai Dodici è uno spazio enogastronomico dove si possono degustare vini friulani locali abbinati a taglieri, piatti freddi e specialità del territorio. È l’ideale per chi cerca esperienze di degustazione in un contesto rurale.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Tenuta di Blasig",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": "https://www.tenutadiblasig.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tenuta%20di%20Blasig%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Tenuta di Blasig è una storica proprietà vinicola, aperta come enoteca e bar con cucina, dove si possono degustare vini DOC Friuli Isonzo accompagnati da piatti e taglieri. La location è imperdibile per appassionati di vini friulani e cucina tradizionale.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Il Giro del Sole",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Giro%20del%20Sole%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Il Giro del Sole è un ristorante che propone cucina italiana classica in un ambiente accogliente. È adatto a chi desidera un’offerta tradizionale e una piacevole esperienza a tavola.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "La Perla di Salvo",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Perla%20di%20Salvo%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "La Perla di Salvo è specializzata in pesce e frutti di mare, con attenzione particolare alle cozze e ai prodotti del mare Adriatico. È l’ideale per una cena a base di pesce fresco in un contesto informale.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Il Dolcefreddo",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Dolcefreddo%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Il Dolcefreddo è la gelateria artigianale più apprezzata della città, nota per i gusti stravaganti e originali. Offre un’atmosfera piacevole e personale gentile, con orari ampi di apertura.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    },
+    {
+      "name": "Bacer Delicatessen",
+      "address": "Ronchi dei Legionari (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bacer%20Delicatessen%2C%20Ronchi%20dei%20Legionari%20(GO)",
+      "image_url": null,
+      "description": "Bacer Delicatessen è una gastronomia che propone salumi, formaggi e prodotti tipici friulani oltre a preparazioni artigianali. È ideale per acquisti di prodotti locali o per un pasto veloce e di qualità.",
+      "comune_name": "Ronchi dei Legionari",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchi-dei-legionari.md"
+    }
+  ]
+}

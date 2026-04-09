@@ -1,0 +1,30 @@
+{
+  "comune_name": "Arba",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arba.md",
+  "extracted_at": "2026-04-09T10:18:27.227Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Michele Arcangelo — Arba (capoluogo)",
+      "address": "Piazza principale del capoluogo di Arba, provincia di Pordenone (PN), Friuli Venezia Giulia.",
+      "website_url": "https://www.comune.arba.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Arba%20(capoluogo)%2C%20Piazza%20principale%20del%20capoluogo%20di%20Arba%2C%20provincia%20di%20Pordenone%20(PN)%2C%20Friuli%20Venezia%20Giulia.",
+      "image_url": null,
+      "description": "La chiesa di San Michele Arcangelo è la parrocchiale di Arba e sorge nella piazza principale del capoluogo. Edificata tra il 1836 e il 1857 in stile neoclassico, sostituisce una precedente chiesa medievale distrutta dal terremoto del 1812. La facciata a capanna con lesene e il campanile costituiscono elementi caratteristici dell'architettura ottocentesca locale. All’interno si conservano opere di arte sacra devozionale tipiche dei centri minori del Friuli occidentale.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arba.md"
+    },
+    {
+      "name": "Cappella nella frazione di Colle",
+      "address": "Frazione di Colle, comune di Arba (PN).",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20nella%20frazione%20di%20Colle%2C%20Frazione%20di%20Colle%2C%20comune%20di%20Arba%20(PN).",
+      "image_url": null,
+      "description": "Nella frazione di Colle, appartenente al comune di Arba dal 1959, si presume l'esistenza di una cappella o oratorio a servizio della comunità locale, in linea con la tradizione friulana che vede ogni insediamento dotato di un luogo di culto. Tuttavia, non sono disponibili dettagli certi sull'edificio o sulla sua dedica patronale.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arba.md"
+    }
+  ]
+}

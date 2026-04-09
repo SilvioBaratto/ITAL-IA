@@ -1,0 +1,74 @@
+{
+  "comune_name": "Chiusaforte",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md",
+  "extracted_at": "2026-04-09T10:58:00.972Z",
+  "pois": [
+    {
+      "name": "Trattoria F.lli Martina",
+      "address": "Via Roma 38",
+      "website_url": "http://www.albergomartina.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20F.lli%20Martina%2C%20Via%20Roma%2038",
+      "image_url": null,
+      "description": "Storica trattoria fondata nel 1866 e gestita dalla stessa famiglia da cinque generazioni, rappresenta un punto di riferimento della cucina friulana di montagna a Chiusaforte. Offre un’ampia scelta di piatti regionali come pappardelle al ragù di lepre, gnocchi al ragù di cervo, frico con polenta, cjarsons, grigliate di carne e dolci fatti in casa. L’atmosfera è calda e accogliente, con un antico focolare e una fascia di prezzo media.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Rifugio Celso Gilberti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Celso%20Gilberti%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Situato a 1.850 metri a Sella Nevea, il rifugio propone una cucina di montagna reinterpretata in chiave creativa utilizzando ingredienti locali. Il menu offre, tra le altre specialità, polenta con mais Cinquantino, ricotta con funghi di Malga Montasio, canederli, gulasch, strudel e cheesecake. Il locale offre un’atmosfera rilassata con viste spettacolari sulle Alpi Giulie e prezzi medi.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Rifugio Divisione Julia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Divisione%20Julia%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Rifugio tradizionale a Sella Nevea che propone cucina alpina autentica in ambiente genuino e accogliente. Il menu comprende canederli in brodo, gulasch, frico, carne di selvaggina e dolci casalinghi come lo strudel. È la scelta ideale per escursionisti e famiglie, con prezzi accessibili e una proposta semplice e sostanziosa.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Rifugio Alpino Giacomo di Brazza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Alpino%20Giacomo%20di%20Brazza%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Posto sui Piani di Montasio a 1.660 metri, il rifugio offre piatti montanari freschi preparati al momento come frico con polenta e salsiccia, zuppe di funghi, salumi affumicati e trota locale. L’atmosfera è accogliente, con spazi interni curati e un giardino esterno panoramico. È facilmente raggiungibile e apprezzato per la cucina di qualità e i prezzi ragionevoli.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Malga Montasio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Malga%20Montasio%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Azienda agricola con ristorazione sull’altopiano Montasio, rinomata per la produzione e degustazione di formaggi DOP, in particolare il Montasio. Qui si possono assaporare specialità casearie locali accompagnate da salumi e pane, in un contesto montano autentico e riconosciuto dalle principali guide di settore.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Trattoria al Fontanon",
+      "address": "Pian della Sega 2",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Fontanon%2C%20Pian%20della%20Sega%202",
+      "image_url": null,
+      "description": "Situata vicino alla cascata del Fontanone a Goriuda, questa trattoria a conduzione familiare serve autentica cucina friulana di montagna come frico, selvaggina, tagliatelle al ragù, pesce di trota e verdure dell’orto. Prezzi contenuti e ambiente genuino la rendono una meta ideale per escursionisti e amanti dei sapori tradizionali.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiusaforte.md"
+    }
+  ]
+}

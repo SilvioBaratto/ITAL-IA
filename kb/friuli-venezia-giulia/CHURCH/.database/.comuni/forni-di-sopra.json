@@ -1,0 +1,74 @@
+{
+  "comune_name": "Forni di Sopra",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md",
+  "extracted_at": "2026-04-09T10:26:45.239Z",
+  "pois": [
+    {
+      "name": "Chiesa di Santa Maria Assunta — Cella (parrocchiale)",
+      "address": "Frazione Cella, Via Nazionale · Arcidiocesi di Udine",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68445",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Cella%20(parrocchiale)%2C%20Frazione%20Cella%2C%20Via%20Nazionale%20%C2%B7%20Arcidiocesi%20di%20Udine",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria Assunta si trova nella frazione di Cella e rappresenta il principale luogo di culto di Forni di Sopra. L’edificio attuale fu ricostruito in stile neoclassico tra il 1835 e il 1840, e il suo campanile, alto 56 metri, è uno dei più elevati della Carnia. All’interno si conservano importanti opere d’arte, tra cui un affresco di Fred Pittino, un crocifisso ligneo quattrocentesco e un pregiato organo Beniamino Zanin.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Chiesa di San Floriano — Cella",
+      "address": "Frazione Cella, Via Nazionale · Arcidiocesi di Udine · Monumento Nazionale",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68443",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Floriano%20%E2%80%94%20Cella%2C%20Frazione%20Cella%2C%20Via%20Nazionale%20%C2%B7%20Arcidiocesi%20di%20Udine%20%C2%B7%20Monumento%20Nazionale",
+      "image_url": null,
+      "description": "La chiesa di San Floriano, situata anch’essa nella frazione Cella, è il monumento religioso di maggior pregio storico-artistico del comune e fu dichiarata monumento nazionale nel 1905. Si distingue per il rinomato polittico di Andrea Bellunello (1480) e gli affreschi absidali di Gianfrancesco da Tolmezzo (1500). Sottoposta a vari restauri, custodisce un patrimonio pittorico di spicco nel contesto della Carnia.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Apostolo — Vico",
+      "address": "Frazione Vico, Via San Giacomo · Arcidiocesi di Udine",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68444",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20%E2%80%94%20Vico%2C%20Frazione%20Vico%2C%20Via%20San%20Giacomo%20%C2%B7%20Arcidiocesi%20di%20Udine",
+      "image_url": null,
+      "description": "Situata nel cuore della frazione Vico, la chiesa di San Giacomo Apostolo ha origini medievali e fu ricostruita nel 1461. L’edificio presenta caratteristiche architettoniche tardo-medievali con inserti rinascimentali e al suo interno si trovano resti di affreschi di Andrea Bellunello, una pala d'altare settecentesca e cicli decorativi di Giovanni Moro. È filiale della parrocchiale di Cella e conserva un importante patrimonio devozionale locale.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Chiesa dei Santi Vito, Modesto e Crescenzia — Andrazza",
+      "address": "Frazione Andrazza, Via Venezia · Arcidiocesi di Udine",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68442/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Vito%2C%20Modesto%20e%20Crescenzia%20%E2%80%94%20Andrazza%2C%20Frazione%20Andrazza%2C%20Via%20Venezia%20%C2%B7%20Arcidiocesi%20di%20Udine",
+      "image_url": null,
+      "description": "Questa piccola chiesa della frazione Andrazza, dedicata ai santi Vito, Modesto e Crescenzia, è l’unico luogo di culto della borgata. Costruita nel 1637 e ricostruita dopo un incendio nel XVIII secolo, presenta un’architettura alpina semplice e custodisce statue della Beata Vergine Immacolata e del Sacro Cuore. Sopravvissuta agli eventi bellici e ai terremoti, rappresenta un elemento centrale della devozione locale.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Santuario della Madonna della Salute — Forni di Sopra",
+      "address": "Forni di Sopra · Arcidiocesi di Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20della%20Salute%20%E2%80%94%20Forni%20di%20Sopra%2C%20Forni%20di%20Sopra%20%C2%B7%20Arcidiocesi%20di%20Udine",
+      "image_url": null,
+      "description": "Il Santuario della Madonna della Salute è uno dei principali luoghi di culto mariani della comunità di Forni di Sopra. Qui si celebra la festa della Madonna della Salute il 21 novembre, una delle ricorrenze più sentite a livello locale. Il santuario mantiene viva la tradizione mariana e rappresenta un importante punto di riferimento spirituale per fedeli e viaggiatori della Val Tagliamento.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Cappella della Madonna delle Rocce — Rifugio Giaf",
+      "address": "Alta montagna, territorio di Forni di Sopra",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20della%20Madonna%20delle%20Rocce%20%E2%80%94%20Rifugio%20Giaf%2C%20Alta%20montagna%2C%20territorio%20di%20Forni%20di%20Sopra",
+      "image_url": null,
+      "description": "Presso il Rifugio Giaf, in quota, si trova la Cappella della Madonna delle Rocce, caratteristica testimonianza di devozione alpina delle Dolomiti Friulane. La cappella, semplice e immersa in un contesto montano, offre un punto di riferimento spirituale per escursionisti e alpinisti e riflette il forte legame tra popolazione e territorio.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sopra.md"
+    }
+  ]
+}

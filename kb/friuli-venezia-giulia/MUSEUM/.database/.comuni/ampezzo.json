@@ -1,0 +1,41 @@
+{
+  "comune_name": "Ampezzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/ampezzo.md",
+  "extracted_at": "2026-04-09T10:41:44.208Z",
+  "pois": [
+    {
+      "name": "Museo Geologico della Carnia",
+      "address": "Piazza Zona Libera 1944, 33021 Ampezzo (UD)",
+      "website_url": "https://www.museionline.info/musei/museo-geologico-della-carnia",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Geologico%20della%20Carnia%2C%20Piazza%20Zona%20Libera%201944%2C%2033021%20Ampezzo%20(UD)",
+      "image_url": null,
+      "description": "Il Museo Geologico della Carnia espone una ricca collezione di fossili e campioni di rocce che raccontano oltre 400 milioni di anni di storia geologica delle Alpi Carniche. Il percorso museale guida i visitatori attraverso le ere geologiche che hanno plasmato il paesaggio locale, con fossili di ambienti marini e una varietà di rocce tipiche del territorio. Il museo svolge un ruolo fondamentale per comprendere l'influenza della geologia sulla storia, gli insediamenti e le attività tradizionali della Carnia. L'ingresso è gratuito, con orari variabili tra stagione estiva e invernale.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Pinacoteca Marco Davanzo",
+      "address": "Piazza Zona Libera 1944, 33021 Ampezzo (UD)",
+      "website_url": "https://www.museionline.info/musei/pinacoteca-m-davanzo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20Marco%20Davanzo%2C%20Piazza%20Zona%20Libera%201944%2C%2033021%20Ampezzo%20(UD)",
+      "image_url": null,
+      "description": "La Pinacoteca Marco Davanzo custodisce oltre 600 opere del pittore ampezzano Marco Davanzo, che ha documentato con sensibilità paesaggi e scene di vita montanara della Carnia tra fine Ottocento e primo Novecento. Oltre alla mostra permanente e a quella temporanea, il percorso espositivo permette di seguire l'evoluzione artistica del Maestro e include una ricostruzione del suo atelier. Le schede critiche e didascalie rendono la visita accessibile anche ai non specialisti; l'ingresso è gratuito.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Palazzo Angelo Unfer — Mostra Fotografico-Documentaria sulla Resistenza",
+      "address": "Piazza Zona Libera 1944, 33021 Ampezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Angelo%20Unfer%20%E2%80%94%20Mostra%20Fotografico-Documentaria%20sulla%20Resistenza%2C%20Piazza%20Zona%20Libera%201944%2C%2033021%20Ampezzo%20(UD)",
+      "image_url": null,
+      "description": "Il Palazzo Angelo Unfer ospita una mostra fotografico-documentaria dedicata alla Zona Libera della Carnia e dell'Alto Friuli (1944), importante episodio della Resistenza. L'esposizione presenta fotografie, documenti e materiali d'archivio che raccontano la breve esperienza di autogoverno partigiano, le vicende dei protagonisti e la repressione nazifascista. Il luogo è un punto di riferimento per la memoria storica locale, particolarmente visitato da scolaresche e appassionati di storia.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/ampezzo.md"
+    }
+  ]
+}

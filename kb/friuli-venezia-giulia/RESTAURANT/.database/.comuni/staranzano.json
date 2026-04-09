@@ -1,0 +1,30 @@
+{
+  "comune_name": "Staranzano",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/staranzano.md",
+  "extracted_at": "2026-04-09T11:20:06.756Z",
+  "pois": [
+    {
+      "name": "Mamo Express di Massimo Brugnolo",
+      "address": "Via Martiri della Libertà 61, 34079 Staranzano (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mamo%20Express%20di%20Massimo%20Brugnolo%2C%20Via%20Martiri%20della%20Libert%C3%A0%2061%2C%2034079%20Staranzano%20(GO)",
+      "image_url": null,
+      "description": "Mamo Express è una pizzeria da asporto nota a Staranzano per la qualità delle sue pizze e la gestione familiare di Massimo Brugnolo. Il locale, frequentato da famiglie, giovani e lavoratori, offre un servizio rapido e un ambiente informale, e si distingue per l'impasto gustoso e ben lievitato. Pur non offrendo servizio al tavolo tradizionale, è un punto di riferimento sociale e gastronomico nel paese, soprattutto nelle ore di punta.",
+      "comune_name": "Staranzano",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/staranzano.md"
+    },
+    {
+      "name": "Lido di Tognon Paolo",
+      "address": "Via Cesare Battisti 64, 34079 Staranzano (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lido%20di%20Tognon%20Paolo%2C%20Via%20Cesare%20Battisti%2064%2C%2034079%20Staranzano%20(GO)",
+      "image_url": null,
+      "description": "Lido di Tognon Paolo è un bar-paninoteca situato su una delle vie principali di Staranzano, apprezzato dalla comunità locale come punto di ristoro veloce. Il locale propone panini preparati con ingredienti freschi, patatine e bevande, e offre un servizio semplice ed economico. È un esempio tipico di locale conviviale friulano, dove la socialità si accompagna a una cucina leggera e informale.",
+      "comune_name": "Staranzano",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/staranzano.md"
+    }
+  ]
+}

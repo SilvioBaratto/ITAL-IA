@@ -1,0 +1,30 @@
+{
+  "comune_name": "Lauco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lauco.md",
+  "extracted_at": "2026-04-09T11:04:38.897Z",
+  "pois": [
+    {
+      "name": "Osteria al Cral",
+      "address": "Frazione Trava, 76, 33029 Lauco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Cral%2C%20Frazione%20Trava%2C%2076%2C%2033029%20Lauco%20(UD)",
+      "image_url": null,
+      "description": "Osteria al Cral è un punto di riferimento per la cucina carnica autentica, gestito dalla famiglia Durli con lo chef Federico Durli. Il locale offre un'atmosfera accogliente e piatti tradizionali preparati con ingredienti locali, quali il Tris di Tiramisù, la Millefoglie di Polenta Fritta con Merluzzo e i Bocconcini di Cervo con Polenta. Apprezzata per il servizio attento, la qualità della cucina, la partecipazione a '4 Ristoranti' e il rapporto qualità-prezzo vantaggioso, l'osteria propone sia menu fisso a pranzo che piatti alla carta che variano in base alla stagione.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lauco.md"
+    },
+    {
+      "name": "Albergo Ristorante Alla Frasca Verde",
+      "address": "Via Capoluogo 71, 33020 Lauco (UD)",
+      "website_url": "https://www.frascaverde.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Alla%20Frasca%20Verde%2C%20Via%20Capoluogo%2071%2C%2033020%20Lauco%20(UD)",
+      "image_url": null,
+      "description": "Alla Frasca Verde combina le funzioni di albergo, ristorante, pizzeria e wine bar, offrendo un'esperienza completa nel cuore delle Alpi Carniche. Il ristorante propone piatti tipici della Carnia, come i cjarsons, innovando con proposte a base di pesce e ricette contemporanee, il tutto in un ambiente rustico e accogliente a gestione familiare. La struttura, dotata di camere, spa e giardino, rappresenta una meta ideale per soggiorni rilassanti uniti a una cucina autentica e curata. Il rapporto qualità-prezzo è giudicato equilibrato rispetto ai servizi e alla varietà offerta.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lauco.md"
+    }
+  ]
+}

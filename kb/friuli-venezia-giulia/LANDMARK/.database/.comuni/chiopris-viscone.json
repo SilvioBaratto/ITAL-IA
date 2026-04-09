@@ -1,0 +1,63 @@
+{
+  "comune_name": "Chiopris Viscone",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chiopris-viscone.md",
+  "extracted_at": "2026-04-09T10:39:42.631Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Michele Arcangelo — Chiopris",
+      "address": "Via della Chiesa, Chiopris (frazione capoluogo del comune di Chiopris-Viscone), provincia di Udine.",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Chiopris%2C%20Via%20della%20Chiesa%2C%20Chiopris%20(frazione%20capoluogo%20del%20comune%20di%20Chiopris-Viscone)%2C%20provincia%20di%20Udine.",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Michele Arcangelo rappresenta il principale edificio religioso di Chiopris, con una storia attestata già dal 1296 e una radicale ricostruzione nel 1843 che le ha dato l’attuale aspetto neoclassico. All'interno conserva opere di rilievo, come l'altare maggiore di Leonardo Pacassi (1695), pale di Pietro Bainville e affreschi di Giulio Justolin, e testimonia la profonda stratificazione storica e artistica della comunità. È considerata il cuore architettonico e simbolico della frazione per la sua continuità storica e per l’insieme delle opere d’arte custodite.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Chiesa di San Zenone — Viscone",
+      "address": "Piazzale della Chiesa, Viscone (frazione di Chiopris-Viscone), provincia di Udine.",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78565/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Zenone%20%E2%80%94%20Viscone%2C%20Piazzale%20della%20Chiesa%2C%20Viscone%20(frazione%20di%20Chiopris-Viscone)%2C%20provincia%20di%20Udine.",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Zenone, situata nel cuore di Viscone, venne rifatta tra il 1861 e il 1878 in stile neoclassico e ospita importanti affreschi di Giulio Justolin e Lorenzo Bianchini. All'interno si trovano il grande affresco della Madonna con i Santi e l’altare maggiore opera di Giovan Battista Novelli, con statue sette-ottocentesche di rilievo. Il piazzale antistante è al centro delle principali celebrazioni della frazione, come il tradizionale fuoco epifanico pignarûl.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Chiesa della Madonna di Strada in Cimitero — Viscone",
+      "address": "Presso il cimitero di Viscone (frazione di Chiopris-Viscone), provincia di Udine.",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78566/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Madonna%20di%20Strada%20in%20Cimitero%20%E2%80%94%20Viscone%2C%20Presso%20il%20cimitero%20di%20Viscone%20(frazione%20di%20Chiopris-Viscone)%2C%20provincia%20di%20Udine.",
+      "image_url": null,
+      "description": "Accanto al cimitero di Viscone sorge la chiesa della Madonna di Strada, probabilmente fondata nel XIV secolo e nota per la sua particolare bifora campanaria, considerata la più grande del Friuli. L’edificio conserva elementi medievali, seicenteschi e ottocenteschi, come la facciata affrescata e la decorazione interna in stile veneziano. Era probabilmente un antico luogo di sosta per i viaggiatori sulla via romana Aquileia–Cividale e trasmette ancora oggi un’atmosfera raccolta e suggestiva.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Monumento ai Caduti di Tutte le Guerre — Chiopris",
+      "address": "Lungo la strada che collega Chiopris a Viscone, nel comune di Chiopris-Viscone, provincia di Udine.",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%20di%20Tutte%20le%20Guerre%20%E2%80%94%20Chiopris%2C%20Lungo%20la%20strada%20che%20collega%20Chiopris%20a%20Viscone%2C%20nel%20comune%20di%20Chiopris-Viscone%2C%20provincia%20di%20Udine.",
+      "image_url": null,
+      "description": "Il Monumento ai Caduti di Tutte le Guerre è il principale memoriale civile del comune e ricorda i soldati di Chiopris e Viscone caduti nella Prima Guerra Mondiale, molti dei quali combatterono per l’Impero Austro-Ungarico. Inaugurata una nuova lapide commemorativa nel 2014, il monumento rappresenta la complessa memoria storica di questa terra di confine e invita alla riflessione sulla multiforme identità dei friulani orientali.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Tracciato della Via Romana Aquileia–Cividale — Viscone",
+      "address": "Territorio di Viscone (frazione di Chiopris-Viscone), provincia di Udine.",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tracciato%20della%20Via%20Romana%20Aquileia%E2%80%93Cividale%20%E2%80%94%20Viscone%2C%20Territorio%20di%20Viscone%20(frazione%20di%20Chiopris-Viscone)%2C%20provincia%20di%20Udine.",
+      "image_url": null,
+      "description": "Il tracciato della Via Romana Aquileia–Cividale attraversa il territorio di Viscone e rappresenta una delle direttrici storiche più antiche della regione friulana, fondamentale per lo sviluppo della frazione fin dall’epoca romana. Oggi solo parzialmente riconoscibile, questo asse viario testimonia la stratificazione storica del paesaggio e la centralità del territorio nei traffici e negli incontri di diverse civiltà per oltre duemila anni.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chiopris-viscone.md"
+    }
+  ]
+}

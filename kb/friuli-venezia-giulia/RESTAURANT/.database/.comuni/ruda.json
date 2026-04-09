@@ -1,0 +1,118 @@
+{
+  "comune_name": "Ruda",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md",
+  "extracted_at": "2026-04-09T11:16:27.719Z",
+  "pois": [
+    {
+      "name": "Osteria Altran",
+      "address": "Località Cortona 19, 33050 Ruda (UD)",
+      "website_url": "https://osteria-altran.eatbu.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Altran%2C%20Localit%C3%A0%20Cortona%2019%2C%2033050%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "Osteria Altran è un ristorante stellato Michelin, fiore all'occhiello della cucina friulana, situato in una dimora di campagna elegante. Guidato dal 2001 da Guido Lanzellotti con la cucina dello chef Alessio Devidè, propone una cucina creativa che interpreta i piatti tradizionali del territorio. L'ambiente raffinato, le sale tematiche e una cantina di alto livello rendono l'esperienza unica. I menu degustazione e le portate stagionali valorizzano le eccellenze locali, in un'atmosfera calda e curata.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Agriturismo Pelos",
+      "address": "Via Udine 38, 33050 Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Pelos%2C%20Via%20Udine%2038%2C%2033050%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Pelos è un locale a conduzione familiare che combina la tradizione agricola con la ristorazione tipica friulana. Offre una cucina regionale semplice e casalinga, con piatti come tagliatelle al ragù, polenta e specialità della Bassa Friulana, in un ambiente genuino e informale. Il locale è apprezzato per i prezzi accessibili e accoglie sia residenti che viaggiatori, offrendo anche asporto e Wi-Fi.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Da Vittorio",
+      "address": "Via Roma, Ruda (UD) (Ristorante Pizzeria Da Vittorio di Acampora Vittorio & C. S.A.S.)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Da%20Vittorio%2C%20Via%20Roma%2C%20Ruda%20(UD)%20(Ristorante%20Pizzeria%20Da%20Vittorio%20di%20Acampora%20Vittorio%20%26%20C.%20S.A.S.)",
+      "image_url": null,
+      "description": "Situato nel centro di Ruda, il Ristorante Pizzeria Da Vittorio è un punto di riferimento per la vita locale. Propone sia pizze che piatti della tradizione italiana in un ambiente familiare e accogliente, adatto a gruppi e famiglie. Il locale si caratterizza per la sua atmosfera conviviale e la doppia vocazione di ristorante e pizzeria.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Jacky's",
+      "address": "Via Roma 3, 33050 Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Jacky's%2C%20Via%20Roma%203%2C%2033050%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "Jacky's è la pizzeria più frequentata del paese, rinomata per pizze di qualità a prezzi accessibili e una posizione centrale, accanto alla chiesa principale. È apprezzata dai residenti di ogni età e ottiene ottime valutazioni per la cortesia del personale e il servizio, sia al tavolo che da asporto. Le pizze con prosciutto crudo sono particolarmente richieste.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Azienda Agricola Morsut Luca",
+      "address": "Via della Mondina 5, 33050 Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Azienda%20Agricola%20Morsut%20Luca%2C%20Via%20della%20Mondina%205%2C%2033050%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "L'Azienda Agricola Morsut Luca offre una ristorazione autentica a chilometro zero, con cucina italiana semplice a base di ingredienti genuini dell'azienda agricola. Il locale, tranquillo e immerso nella campagna, propone specialità come gnocchi, polenta e antipasti friulani a prezzi popolari. Gli ospiti possono gustare i piatti anche negli spazi all'aperto durante la bella stagione.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Pizzeria al Taglio RUDA",
+      "address": "Via Roma 1, 33050 Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20al%20Taglio%20RUDA%2C%20Via%20Roma%201%2C%2033050%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "La Pizzeria al Taglio RUDA è un locale centrale che serve pizza al taglio, ideale per uno spuntino veloce. Offre varietà di pizze classiche e creative, disponibili sia per il consumo sul posto che da asporto, secondo la tradizione friulana della pizza al taglio, pratica e conveniente.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Pizzeria Happy Days",
+      "address": "Via Gorizia 3, 33050 Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Happy%20Days%2C%20Via%20Gorizia%203%2C%2033050%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Happy Days è una delle pizzerie di riferimento a Ruda, situata in via Gorizia. Propone un'offerta informale a base di pizza, completando il panorama della ristorazione locale. È una scelta per chi ricerca un pasto semplice in un contesto di paese.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Bar Trattoria Commercio (di Altran Ariella)",
+      "address": "Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Commercio%20(di%20Altran%20Ariella)%2C%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "Bar Trattoria Commercio è un locale storico, tipica trattoria di paese dove ci si incontra per pranzi semplici o per giocare a carte dopo cena. La cucina è casalinga e i prezzi sono popolari, mantenendo la funzione aggregativa tradizionale nei piccoli comuni friulani.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Trattoria Da Germana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Germana%2C%20Ruda",
+      "image_url": null,
+      "description": "La Trattoria Da Germana mantiene la tradizione delle trattorie friulane di campagna, con gestione familiare e cucina tipica del territorio. L'atmosfera raccolta e la lunga presenza nel panorama locale ne testimoniano la storicità e il ruolo nella comunità.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    },
+    {
+      "name": "Enobar di Innamico Ruggero",
+      "address": "Ruda (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enobar%20di%20Innamico%20Ruggero%2C%20Ruda%20(UD)",
+      "image_url": null,
+      "description": "L'Enobar di Innamico Ruggero combina la funzione di wine bar a quella di punto ristoro. È un luogo ideale per scoprire i vini locali, grazie alla posizione in una zona vinicola di pregio, e propone anche piccoli assaggi di cucina locale.",
+      "comune_name": "Ruda",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ruda.md"
+    }
+  ]
+}

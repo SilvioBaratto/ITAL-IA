@@ -1,0 +1,85 @@
+{
+  "comune_name": "Colloredo di Monte a",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md",
+  "extracted_at": "2026-04-09T10:59:07.744Z",
+  "pois": [
+    {
+      "name": "Ristorante La Taverna",
+      "address": "Piazza Castello, Colloredo di Monte Albano (UD)",
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g2266067-d743393-Reviews-La_Taverna-Colloredo_di_Monte_Albano_Province_of_Udine_Friuli_Venezia_Giulia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Taverna%2C%20Piazza%20Castello%2C%20Colloredo%20di%20Monte%20Albano%20(UD)",
+      "image_url": null,
+      "description": "Ristorante La Taverna si trova nell'orangerie del castello di Colloredo di Monte Albano, in un ambiente raffinato e immerso nella storia medievale. Propone una cucina friulana moderna attenta alla stagionalità e ai prodotti locali, con specialità come le chiocciole di Colloredo, prosciutto di San Daniele stagionato e primi piatti dal carattere innovativo. Gli interni storici e la terrazza panoramica lo rendono una meta culinaria di rilievo nella regione. Il livello dei prezzi è medio-alto, in linea con la qualità offerta.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Trattoria Da Vico",
+      "address": "Piazza I Maggio 12, Caporiacco",
+      "website_url": "https://www.turismofvg.it/en/tastefvg/trattoria-da-vico",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Vico%2C%20Piazza%20I%20Maggio%2012%2C%20Caporiacco",
+      "image_url": null,
+      "description": "La Trattoria Da Vico, a Caporiacco, è famosa per la sua atmosfera familiare e la cucina friulana autentica, con il tradizionale fogolâr protagonista della sala principale. Specialità sono il frico, gli gnocchi, la pasta fatta in casa e i gamberetti di fiume durante l'evento Ferragosto in Giardino. Il locale è gestito dalla famiglia Presello, offre una selezione di vini propri (Vigne Penasa) e dispone di un ampio giardino estivo e sale per eventi. La fascia di prezzo è bassa-media.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Osteria al Castello",
+      "address": "Piazza Castello, 16",
+      "website_url": "https://www.facebook.com/p/Osteria-al-Castello-100063652053080/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Castello%2C%20Piazza%20Castello%2C%2016",
+      "image_url": null,
+      "description": "Osteria al Castello è un locale storico e letterario situato in centro, vicino al castello di Colloredo di Monte Albano. L'atmosfera è ricca di storia locale, oggettistica d'epoca e arte, risultando un vero e proprio museo vivente dove si possono gustare piatti tipici friulani e vini locali. Frequentata da artisti e poeti, offre ambienti suggestivi per un'esperienza autentica. La fascia di prezzo è bassa-media.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Alle Antiche Scuderie",
+      "address": "Piazza Castello, 9",
+      "website_url": "https://www.letygoeson.it/2021/10/21/ristorante-pizzeria-alle-antiche-scuderie-a-colloredo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Alle%20Antiche%20Scuderie%2C%20Piazza%20Castello%2C%209",
+      "image_url": null,
+      "description": "Alle Antiche Scuderie si trova alla base del castello, nei locali delle antiche stalle, in un contesto unico e affascinante. È apprezzata per le pizze cotte in forno a legna, anche a lievitazione naturale, preparate con ingredienti locali, e per i piatti friulani proposti in chiave moderna. Locale accogliente, ideale per famiglie, gode di ottime recensioni e prezzi contenuti.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Agriturismo Narduzzi",
+      "address": "Via Ippolito Nievo, 65",
+      "website_url": "https://www.tourismfriulicollinare.it/agriturismo-colloredo-di-monte-albano/agriturismo-narduzzi/dove-mangiare-nel-friuli-collinare",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Narduzzi%2C%20Via%20Ippolito%20Nievo%2C%2065",
+      "image_url": null,
+      "description": "Agriturismo Narduzzi propone una cucina contadina genuina fondata sui propri prodotti aziendali, carni e formaggi, in una posizione tranquilla ai piedi del castello. La pasta con ragù e il frico sono i piatti tipici, il tutto preparato con materie prime locali e servito in un ambiente semplice e familiare. Sono presenti uno spaccio aziendale e una sala da pranzo dedicata. La fascia di prezzo è bassa.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Ristorante Trattoria \"Peres\"",
+      "address": "Via Ippolito Nievo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Trattoria%20%22Peres%22%2C%20Via%20Ippolito%20Nievo",
+      "image_url": null,
+      "description": "La Trattoria \"Peres\" offre specialità friulane in un ambiente accogliente e tradizionale. È una delle opzioni storiche del territorio di Colloredo di Monte Albano e propone piatti legati alla cucina locale. Il locale è ideale per chi cerca sapori autentici friulani.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Al Ponte",
+      "address": "Via Lauzzana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Al%20Ponte%2C%20Via%20Lauzzana",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Al Ponte si trova in Via Lauzzana e propone sia piatti tipici friulani che pizze preparate secondo la tradizione. Il locale è conosciuto per l’atmosfera cordiale e la qualità delle proprie offerte, risultando una meta molto apprezzata dai residenti.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/colloredo-di-monte-a.md"
+    }
+  ]
+}

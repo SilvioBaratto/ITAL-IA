@@ -1,0 +1,30 @@
+{
+  "comune_name": "Budoia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/budoia.md",
+  "extracted_at": "2026-04-09T10:02:45.413Z",
+  "pois": [
+    {
+      "name": "Bar da René",
+      "address": "Piazza Umberto I, 19 – 33070 Budoia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situato sulla piazza principale di Budoia, il Bar da René è il punto di riferimento per la socialità del paese e luogo d'incontro durante tutta la giornata. Gestito oggi da Guan Ziping, mantiene un'atmosfera familiare e accogliente, tipica dei borghi rurali friulani. L'offerta comprende colazioni semplici e tradizionali e il locale si anima sia al mattino sia nelle sere d'estate, diventando un momento di aggregazione per la comunità.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/budoia.md"
+    },
+    {
+      "name": "Ema.Tom",
+      "address": "Via Verdi Giuseppe, 9 – 33070 Budoia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Ema.Tom è un bar a gestione familiare situato a breve distanza dal centro di Budoia, condotto dalla famiglia Quaia. Qui l'offerta ruota intorno a colazioni semplici con caffè e prodotti da forno in un contesto di autentica prossimità. Il locale si caratterizza per un'atmosfera informale e il ruolo di punto di ritrovo quotidiano per i residenti del quartiere.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/budoia.md"
+    }
+  ]
+}

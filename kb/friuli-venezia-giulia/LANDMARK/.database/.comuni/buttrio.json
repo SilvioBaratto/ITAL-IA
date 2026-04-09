@@ -1,0 +1,184 @@
+{
+  "comune_name": "Buttrio",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md",
+  "extracted_at": "2026-04-09T10:36:13.395Z",
+  "pois": [
+    {
+      "name": "Castello di Buttrio / Villa Morpurgo (Villa Felluga)",
+      "address": null,
+      "website_url": "https://www.marco-felluga.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Buttrio%20%2F%20Villa%20Morpurgo%20(Villa%20Felluga)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Il Castello di Buttrio, trasformato in Villa Morpurgo e poi Villa Felluga, nasce come maniero difensivo nel X secolo e attraversa una storia complessa di assedi, distruzioni e rifacimenti. Dal Seicento divenuto elegante residenza nobiliare con facciata neoclassica e torri medievali inglobate, il complesso include una cappella e un giardino all'italiana. Oggi simboleggia la stratificazione storica di Buttrio ed è tutelato come bene culturale.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa di Toppo-Florio e Parco Archeo-Botanico",
+      "address": null,
+      "website_url": "https://www.comune.buttrio.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20di%20Toppo-Florio%20e%20Parco%20Archeo-Botanico%2C%20Buttrio",
+      "image_url": null,
+      "description": "Residenza patrizia del XVIII secolo, Villa di Toppo-Florio spicca anche per il suo parco di eccezionale rilevanza archeo-botanica, tra i più importanti d'Italia. La villa è celebre come sede della Fiera Regionale dei Vini di Buttrio, accoglie musei storici e offre una vista unica sul paesaggio collinare circostante, unendo arte, natura e tradizione vitivinicola.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Museo della Civiltà del Vino del Friuli Venezia Giulia",
+      "address": null,
+      "website_url": "https://www.comune.buttrio.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Civilt%C3%A0%20del%20Vino%20del%20Friuli%20Venezia%20Giulia%2C%20Buttrio",
+      "image_url": null,
+      "description": "Situato nella Villa di Toppo-Florio, questo museo espone oltre 3.500 pezzi legati alla storia del vino friulano: strumenti antichi, documenti, bottiglie e materiale didattico presentano la viticoltura regionale dalle origini al presente. Il museo offre una panoramica completa della civiltà del vino locale, arricchita dall'atmosfera delle colline circostanti.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa Bartolini-Caimo-Dragoni-Florio-Danieli",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Bartolini-Caimo-Dragoni-Florio-Danieli%2C%20Buttrio",
+      "image_url": null,
+      "description": "Fondata nel XVII secolo, questa sontuosa villa è caratterizzata da un corpo centrale con due torri laterali e da interni riccamente decorati da Francesco Chiarottini e Giambattista Canal nel Settecento. Ex sede della Fiera Regionale dei Vini, offre uno dei migliori esempi di decorazione pittorica settecentesca nella campagna friulana, recentemente restaurata.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa d'Attimis-Maniago-Marchiò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20d'Attimis-Maniago-Marchi%C3%B2%2C%20Buttrio",
+      "image_url": null,
+      "description": "Documentata dal XVI secolo, questa villa tipica della braida friulana comprende la dimora nobiliare, edifici rurali e la Chiesetta della Santissima Trinità. Il complesso rappresenta un esempio integro di organizzazione padronale rurale e ospita tuttora un'azienda vitivinicola, offrendo un raro esempio di oratorio gentilizio ancora in uso.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa Tellini",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Tellini%2C%20Buttrio",
+      "image_url": null,
+      "description": "Villa ottocentesca immersa tra boschi e vigneti, si distingue per la posizione panoramica e la struttura articolata su più piani. Rappresenta uno degli esempi più significativi di architettura residenziale del XIX secolo nella campagna udinese e testimonia la cultura abitativa borghese rurale dell’epoca.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa Tomasoni-Todone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Tomasoni-Todone%2C%20Buttrio",
+      "image_url": null,
+      "description": "Costruita tra il 1830 e il 1847, questa villa nobiliare friulana con elegante giardino appartiene oggi alla famiglia Todone. Il complesso, arricchito da annessi rustici e un giardino formale tra i più curati del comune, mantiene l’aspetto originario della prima metà dell’Ottocento.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Casa Beltrame-Peruzzi (Caminetto)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Beltrame-Peruzzi%20(Caminetto)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Edificio rurale nobiliare costruito nel 1686, tipico esempio della braida friulana, si sviluppa attorno a un grande cortile centrale nella frazione di Caminetto. Ben conservata, rappresenta uno dei più antichi e autentici documenti architettonici del territorio, offrendo uno spaccato della vita rurale nobile del Seicento.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Assunta",
+      "address": null,
+      "website_url": "https://www.comune.buttrio.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Assunta%2C%20Buttrio",
+      "image_url": null,
+      "description": "Costruita nella prima metà del XVIII secolo, la parrocchiale di Buttrio presenta notevoli altari settecenteschi e una statua lignea del XVI secolo. Il campanile, unico in Italia per il quadrante dell'orologio capovolto, fu edificato tra il 1828 e il 1936 ispirandosi a San Marco di Venezia; l'interno si distingue per i raffinati intagli lignei.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesetta di Santo Stefano Protomartire",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Santo%20Stefano%20Protomartire%2C%20Buttrio",
+      "image_url": null,
+      "description": "Costruita verso la metà del XIV secolo su resti romani e consacrata nel 1366, questa piccola chiesa conserva affreschi cinquecenteschi di scuola popolare e semplici elementi gotici rurali. Rilevanti sono anche gli affreschi esterni degradati e la stratificazione storica del sito, che testimonia la devozione contadina friulana.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesetta dei Santi Gervasio e Protasio (sul Monte)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20dei%20Santi%20Gervasio%20e%20Protasio%20(sul%20Monte)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Posizionata in cima al colle di Buttrio e collegata alla storia del castello medievale, questa chiesetta vanta origini probabilmente anteriori al XIII secolo ed è stata più volte ricostruita nel corso dei secoli. Spicca per la semplice architettura rurale e per la continuità di culto attraverso epoche difficili, oltre alla sua posizione panoramica.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesetta di San Michele Arcangelo (Vicinale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Michele%20Arcangelo%20(Vicinale)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Situata nella frazione di Vicinale, questa chiesa settecentesca sostituisce un edificio attestato dal 1336 e rappresenta un esempio di architettura rustica friulana. All'interno, l'altare ligneo realizzato da Benedetto Montini nel 1879 e il contesto rurale autentico raccontano la storia di una devozione secolare.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Cappella della Natività di Santa Maria — \"delle Zitelle\" (Vicinale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20della%20Nativit%C3%A0%20di%20Santa%20Maria%20%E2%80%94%20%22delle%20Zitelle%22%20(Vicinale)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Questa cappella, nota come \"delle Zitelle\", fu benedetta nel 1674 e restaurata più volte nel corso dei secoli. Conserva una pala d'altare seicentesca e un piccolo campanile a guglia che dona eleganza alla struttura, immersa in un ambiente di intima devozione lungo l’antica via per Cividale.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesetta di San Bartolomeo (Caminetto)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Bartolomeo%20(Caminetto)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Situata nella frazione di Caminetto, la chiesa presenta una pianta rettangolare e conserva elementi di grande valore come le volte a crociera, un affresco seicentesco e una statua lignea della Madonna con Bambino di Giovanni Martini (1530). Il portico settecentesco e i restauri recenti ne valorizzano ulteriormente la raffinatezza artistica.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Apostolo (Camino)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20(Camino)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Testimoniata dal 1329, la chiesa di Camino conserva un interessante ciclo di affreschi medievali e un'architettura tardogotica friulana. Nell'interno si trova una bacheca con reperti archeologici raccolti localmente, che collegano il luogo alle antiche origini insediative della frazione.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    },
+    {
+      "name": "Fontana e Monumento ai Caduti (Piazza principale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fontana%20e%20Monumento%20ai%20Caduti%20(Piazza%20principale)%2C%20Buttrio",
+      "image_url": null,
+      "description": "Nel cuore di Buttrio, la piazza principale ospita una fontana storica e il Monumento ai Caduti, eretto in memoria delle vittime delle due guerre mondiali. Simbolo della memoria civile locale, il monumento rappresenta il punto vitale del borgo e tiene viva la memoria delle tragedie che colpirono la comunità durante i conflitti.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buttrio.md"
+    }
+  ]
+}

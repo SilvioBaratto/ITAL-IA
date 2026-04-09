@@ -1,0 +1,63 @@
+{
+  "comune_name": "Casarsa della Delizia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/casarsa-della-delizia.md",
+  "extracted_at": "2026-04-09T10:44:07.694Z",
+  "pois": [
+    {
+      "name": "Centro Studi Pier Paolo Pasolini – Casa Colussi-Pasolini",
+      "address": "Via Guido Alberto Pasolini (già Via Valvasone), Casarsa della Delizia (PN) 33072",
+      "website_url": "http://www.centrostudipierpaolopasolinicasarsa.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Studi%20Pier%20Paolo%20Pasolini%20%E2%80%93%20Casa%20Colussi-Pasolini%2C%20Via%20Guido%20Alberto%20Pasolini%20(gi%C3%A0%20Via%20Valvasone)%2C%20Casarsa%20della%20Delizia%20(PN)%2033072",
+      "image_url": null,
+      "description": "Il Centro Studi Pier Paolo Pasolini è il principale polo di conservazione, ricerca e divulgazione dell'opera pasoliniana in Italia, situato nella storica casa di famiglia del poeta. Ospita un ricco fondo archivistico dichiarato di rilevante interesse culturale, con manoscritti, corrispondenza, prime edizioni, dipinti e materiali d'arte. Inoltre, offre una casa-museo visitabile, biblioteche specializzate e organizza eventi, convegni e mostre dedicate a Pasolini.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Tomba di Pier Paolo Pasolini",
+      "address": "Cimitero Comunale di Casarsa della Delizia, via Cimitero (ingresso lato sinistro)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tomba%20di%20Pier%20Paolo%20Pasolini%2C%20Cimitero%20Comunale%20di%20Casarsa%20della%20Delizia%2C%20via%20Cimitero%20(ingresso%20lato%20sinistro)",
+      "image_url": null,
+      "description": "La Tomba di Pier Paolo Pasolini, progettata dall'architetto Gino Valle, è un luogo di memoria e pellegrinaggio per appassionati e studiosi. La lapide è caratterizzata da una sobria lastra grigia e da elementi simbolici come l'alloro, sottolineando il legame tra Pasolini e la madre Susanna Colussi, sepolta accanto a lui. Il sito, pur non essendo un museo tradizionale, è considerato uno dei luoghi commemorativi più importanti della regione.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Chiesa di Santa Croce e San Rocco – Ciclo di affreschi cinquecenteschi",
+      "address": "Piazza Cavour, Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Croce%20e%20San%20Rocco%20%E2%80%93%20Ciclo%20di%20affreschi%20cinquecenteschi%2C%20Piazza%20Cavour%2C%20Casarsa%20della%20Delizia%20(PN)",
+      "image_url": null,
+      "description": "Questa antica chiesa parrocchiale custodisce un ciclo di affreschi cinquecenteschi attribuiti a Pomponio Amalteo o al Pordenone, importanti rappresentanti del Rinascimento friulano-veneto. La chiesa ha un forte valore storico per la città ed è legata anche alla memoria di Pasolini, che vi ebbe i funerali nel 1975. All'interno si conserva una lapide del 1529 relativa all'invasione turca del 1499.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Sala Espositiva – Ex Palazzo Municipale (Architettura di Gino Valle)",
+      "address": "Via Roma / Piazza Cavour, Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sala%20Espositiva%20%E2%80%93%20Ex%20Palazzo%20Municipale%20(Architettura%20di%20Gino%20Valle)%2C%20Via%20Roma%20%2F%20Piazza%20Cavour%2C%20Casarsa%20della%20Delizia%20(PN)",
+      "image_url": null,
+      "description": "L'ex palazzo municipale, progettato da Gino Valle, rappresenta un esempio significativo di architettura moderna friulana degli anni Sessanta-Settanta. Attualmente ospita una sala espositiva dedicata a mostre temporanee di arte e cultura, spesso realizzate in collaborazione con il Centro Studi Pasolini e le associazioni locali. L’edificio stesso è testimonianza dell'architettura razionale italiana del dopoguerra.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Biblioteca Civica di Casarsa della Delizia",
+      "address": "via Roma, Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20di%20Casarsa%20della%20Delizia%2C%20via%20Roma%2C%20Casarsa%20della%20Delizia%20(PN)",
+      "image_url": null,
+      "description": "La Biblioteca Civica svolge un'importante funzione di conservazione culturale, offrendo una ricca raccolta di opere e studi su Pier Paolo Pasolini. Pur non essendo un museo nel senso stretto, integra e completa la documentazione del Centro Studi Pasolini e offre servizi di consultazione bibliografica per i cittadini e i ricercatori del territorio.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/casarsa-della-delizia.md"
+    }
+  ]
+}

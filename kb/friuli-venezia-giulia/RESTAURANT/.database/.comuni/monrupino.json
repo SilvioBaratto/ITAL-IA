@@ -1,0 +1,96 @@
+{
+  "comune_name": "Monrupino",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md",
+  "extracted_at": "2026-04-09T11:07:25.469Z",
+  "pois": [
+    {
+      "name": "Ristorante Carso",
+      "address": "Localita' Col-Zolla, 1, Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Carso%2C%20Localita'%20Col-Zolla%2C%201%2C%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "Storico ristorante fondato nel 1835, il Ristorante Carso è un punto di riferimento gastronomico nel cuore del Carso triestino. Offre un ambiente accogliente e familiare, con un bellissimo giardino estivo ombreggiato. Il menu valorizza i prodotti tipici della cucina carsica, con una selezione attenta di ingredienti, taglieri di affettati di selvaggina, zuppe, arrosti e dolci fatti in casa. La cantina è di qualità, con vini delle migliori etichette locali e toscane.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Trattoria Al Castelliere",
+      "address": "Loc. Col, 8, 34016 Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Castelliere%2C%20Loc.%20Col%2C%208%2C%2034016%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "La Trattoria Al Castelliere, nata nel 1968 sotto la Rocca di Monrupino nella frazione di Col, propone una cucina tipica genuina e piatti tradizionali del Carso. L’atmosfera è accogliente e familiare, con un giardino estivo che regala viste suggestive sulla vicina Slovenia. Le specialità includono prosciutto crudo locale, gnocchi, lubianske, rotoli di spinaci e dolci fatti in casa, accompagnati dal vino Terrano della zona.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Ristorante Furlan",
+      "address": "Localita' Col (Zolla), Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Furlan%2C%20Localita'%20Col%20(Zolla)%2C%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "Locale storico con circa 130 anni di attività, il Ristorante Furlan incarna la tradizione carsica unendo ricette classiche e ricerca gastronomica. Il giardino ombreggiato e lo staff cortese rendono il soggiorno piacevole. Il menu spazia dalle crespelle, gnocchi e prosciutto in crosta alle preparazioni di selvaggina e tartare, senza dimenticare la cantina ricca di vini selezionati di Gorizia e Toscana.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Gustin (Ristorante Gustin SNC)",
+      "address": "Localita' Col, 16, 34016 Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gustin%20(Ristorante%20Gustin%20SNC)%2C%20Localita'%20Col%2C%2016%2C%2034016%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "Il Ristorante Gustin, gestito dalla famiglia Gustin, è un locale tradizionale situato nella principale frazione di Col. Offre la tipica cucina del Carso triestino, caratterizzata da piatti genuini e atmosfera autentica, ed è apprezzato per la fedeltà alle ricette locali e la sua storicità.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Albergo Ristorante Krizman",
+      "address": "Localita' Repen, 76, Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Krizman%2C%20Localita'%20Repen%2C%2076%2C%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "Nel cuore del Carso Triestino e noto anche in Slovenia, l'Albergo Ristorante Krizman offre specialità di carne cucinate secondo le ricette tradizionali della zona. In estate è possibile cenare all'aperto e assaporare piatti come pancetta di maiale fritta, jota e capriolo in umido. L'atmosfera è calda e familiare, ideale per scoprire la gastronomia carsica.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Osmiza Volnik (Agriturismo Volnik)",
+      "address": "Via Repen, 151, Monrupino (TS) (località Rupingrande)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osmiza%20Volnik%20(Agriturismo%20Volnik)%2C%20Via%20Repen%2C%20151%2C%20Monrupino%20(TS)%20(localit%C3%A0%20Rupingrande)",
+      "image_url": null,
+      "description": "L'Agriturismo Volnik è una realtà agricola autentica situata a Repen, nota per la produzione diretta di salumi e vino. La spalletta di maiale cotta in crosta di pane è una delle specialità della casa, servita nell'osmiza in un ambiente informale tra vigne e natura carsica. Qui è possibile assaporare prodotti tipici e soggiornare nelle camere dell'agriturismo.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Osmiza Gomizelj Damijana",
+      "address": "Rupingrande, 230, Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osmiza%20Gomizelj%20Damijana%2C%20Rupingrande%2C%20230%2C%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "Osmiza Gomizelj Damijana, immersa nella vegetazione del Carso, propone piatti locali realizzati con ingredienti a km zero e vini della casa. Offre un'esperienza autentica e conviviale, lontana dai circuiti turistici, con possibilità di rilassarsi nell'ampia area esterna ombreggiata.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    },
+    {
+      "name": "Agricola Bizjak (Osmiza Agricola Bizjak)",
+      "address": "Col, 10, Monrupino (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agricola%20Bizjak%20(Osmiza%20Agricola%20Bizjak)%2C%20Col%2C%2010%2C%20Monrupino%20(TS)",
+      "image_url": null,
+      "description": "Agricola Bizjak gestisce un'osmiza dove si possono gustare aperitivi, cicchetti e piatti tipici della cucina carsolina, preparati con prodotti stagionali e locali. Aperta soprattutto nei fine settimana, rappresenta un punto di incontro fra la tradizione contadina e la ristorazione contemporanea e informale del Carso.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monrupino.md"
+    }
+  ]
+}

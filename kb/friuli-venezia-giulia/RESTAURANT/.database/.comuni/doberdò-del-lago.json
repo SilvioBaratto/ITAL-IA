@@ -1,0 +1,85 @@
+{
+  "comune_name": "Doberdò del Lago",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md",
+  "extracted_at": "2026-04-09T11:00:19.418Z",
+  "pois": [
+    {
+      "name": "Da Andrea - Pri Andreju",
+      "address": "Via Trieste, 6 – 34070 Doberdò del Lago (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Andrea%20-%20Pri%20Andreju%2C%20Via%20Trieste%2C%206%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Trattoria storica rinomata per la cucina tradizionale carsolina e triestina, Da Andrea - Pri Andreju offre specialità autentiche in un ambiente caldo e familiare. Famoso per le tagliatelle al ragù di selvaggina, gnocchi di patate e grigliate miste, il menu varia secondo stagione e ingredienti freschi locali. Il servizio attento e le porzioni generose rendono questo ristorante una tappa imperdibile nel territorio carsolino.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Da Barbara Home-restaurant",
+      "address": "Frazione Palchisce, 32 – 34070 Doberdò del Lago (GO)",
+      "website_url": "www.dabarbara.eu",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Barbara%20Home-restaurant%2C%20Frazione%20Palchisce%2C%2032%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Da Barbara è il primo home-restaurant della Friuli-Venezia Giulia e propone un’esperienza culinaria intima nella casa dei proprietari, offrendo una cucina casalinga raffinata. Il menu si ispira ai piatti italiani autentici, con pasta fresca fatta in casa, antipasti curati e pizza dal profumo invitante. L’ospitalità personale distingue questo locale dove la prenotazione anticipata è obbligatoria.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Trattoria Gostilna Miljo",
+      "address": "Località Devetachi, 2 – 34070 Doberdò del Lago (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Gostilna%20Miljo%2C%20Localit%C3%A0%20Devetachi%2C%202%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Trattoria che fonde la cucina balcanica con le tradizioni locali del Carso, nota per le carni grigliate, piatti balcanici come palacinke, agnello cotto sotto peka e Balkan Express. L’ambiente è accogliente, con servizi adatti anche ai disabili, e regala una vista sul paesaggio carsico. Il menu riflette l’anima multiculturale della zona, con prezzi tra economico e medio.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Trattoria Kapriol",
+      "address": "Frazione Ferletti, 65 – 34070 Doberdò del Lago (GO)",
+      "website_url": "www.trattoriakapriol.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Kapriol%2C%20Frazione%20Ferletti%2C%2065%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Trattoria a conduzione familiare che celebra la cucina casalinga friulana e carsolina con particolare attenzione alla semplicità e genuinità. Il locale propone piatti autentici e sapori tradizionali, utilizzando ingredienti di qualità. L’atmosfera è informale e accogliente, ideale per chi cerca la tradizione gastronomica locale a prezzi contenuti.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Agriturismo Dolince",
+      "address": "Via Bratuž – 34070 Doberdò del Lago (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Dolince%2C%20Via%20Bratu%C5%BE%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Agriturismo immerso nella natura carsica che offre piatti tipici friulani e carsolini, con particolare focus su antipasti locali e grigliate miste. Tra le specialità si trovano cotechino, kacamak e vini regionali. L’esperienza culinaria può essere vissuta sia all’interno che all’esterno, in un contesto rilassante e panoramico, ideale per combinare gastronomia e relax.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Agriturismo Pri Cirili",
+      "address": "Via L. Bratuz, 6 – 34070 Doberdò del Lago (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Pri%20Cirili%2C%20Via%20L.%20Bratuz%2C%206%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Agriturismo che propone una cucina radicata nella tradizione friulana, gestita appassionatamente dalla proprietaria con utilizzo di ingredienti locali. L’atmosfera rurale e l’ospitalità rendono Pri Cirili una meta ideale per chi desidera abbinarvi relax e piatti autentici del territorio. L’esperienza qui riflette la vera essenza del turismo rurale sul Carso.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Agriturismo Kovac",
+      "address": "Vicolo Draga, 3 – 34070 Doberdò del Lago (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Kovac%2C%20Vicolo%20Draga%2C%203%20%E2%80%93%2034070%20Doberd%C3%B2%20del%20Lago%20(GO)",
+      "image_url": null,
+      "description": "Agriturismo noto per l’allevamento di ovini e suini e la produzione propria di prosciutto crudo del Carso. Offre menu con primi piatti tradizionali, grigliate e verdure sottolio, accompagnati da vini DOC locali. L’esperienza culinaria qui è genuina, fortemente legata al territorio e proposta in un ambiente autenticamente rurale.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/doberdò-del-lago.md"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "comune_name": "Coseano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/coseano.md",
+  "extracted_at": "2026-04-09T10:24:06.787Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Giacomo Apostolo",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68382/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giacomo%20Apostolo%2C%20Coseano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giacomo è il principale edificio religioso di Coseano, situato nel centro del paese e intitolato al patrono locale. Costruita originariamente nel 1405, fu completamente ricostruita agli inizi del Settecento e presenta una facciata a capanna con una statua quattrocentesca di san Giacomo. L'interno ospita cinque altari, affreschi di Lorenzo Bianchini e Titta Gori e sculture realizzate da Gian Giacomo Contiero, che testimoniano il pregio artistico dell'edificio.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/coseano.md"
+    },
+    {
+      "name": "Chiesa di San Rocco",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68385/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%2C%20Coseano",
+      "image_url": null,
+      "description": "La chiesa di San Rocco è uno degli edifici sacri più antichi e suggestivi del comune, risalente nelle sue forme originarie al XIV secolo e con la facciata attuale datata 1437. Sorge nel centro storico di Coseano e si distingue per il suo stile romanico rurale arricchito da elementi tardogotici e una struttura con travatura lignea a vista. All'interno si conservano un altare ligneo del XVI secolo con statue di Giandomenico Dall'Occhio e una preziosa Madonna, opera della bottega di Giovanni Martini.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/coseano.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68380/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%2C%20Coseano",
+      "image_url": null,
+      "description": "La chiesa di Sant'Andrea è una piccola cappella rurale collocata tra Coseano e Barazzetto, in una zona ricca di storia locale. L'edificio attuale deriva da rifacimenti settecenteschi, come attestato dal portico datato 1709 e dalla facciata riedificata nel 1790, che si integra armoniosamente con il paesaggio campestre. La struttura semplice con aula rettangolare, attraversata da una travatura a vista, riflette i caratteri tipici dell'architettura sacra del Friuli rurale.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/coseano.md"
+    },
+    {
+      "name": "Chiesa di San Bartolomeo (Coseanetto)",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68386/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Bartolomeo%20(Coseanetto)%2C%20Coseano",
+      "image_url": null,
+      "description": "Situata nella frazione di Coseanetto, la chiesa di San Bartolomeo fu ricostruita dopo la Seconda guerra mondiale e restaurata in seguito al terremoto del 1976. L'edificio sorge in posizione elevata e il suo campanile snello è un simbolo del comune. L'interno presenta una navata unica con pavimentazione realizzata da maestri mosaicisti di Spilimbergo e un altare barocco; il campanile conserva tre campane storiche sopravvissute alle requisizioni della Prima Guerra Mondiale.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/coseano.md"
+    },
+    {
+      "name": "Chiesa di San Biagio (Maseris / Maseriis)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Biagio%20(Maseris%20%2F%20Maseriis)%2C%20Coseano",
+      "image_url": null,
+      "description": "La chiesa di San Biagio è l'edificio di culto principale della frazione Maseris, con origini medievali e architettura tipica delle cappelle rurali friulane. Il suo maggiore pregio sono gli affreschi cinquecenteschi di committenza locale, restaurati tra il 2007 e il 2008, che rappresentano una preziosa testimonianza della decorazione religiosa minore in Friuli. Il recente restauro ha valorizzato questo importante esempio di arte sacra del territorio.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/coseano.md"
+    }
+  ]
+}

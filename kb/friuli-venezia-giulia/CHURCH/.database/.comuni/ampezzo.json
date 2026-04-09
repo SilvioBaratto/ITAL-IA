@@ -1,0 +1,41 @@
+{
+  "comune_name": "Ampezzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/ampezzo.md",
+  "extracted_at": "2026-04-09T10:18:00.500Z",
+  "pois": [
+    {
+      "name": "Chiesa della Beata Vergine del Rosario e San Daniele Profeta (Pieve Arcipretale)",
+      "address": "Ampezzo capoluogo — Piazza Zona Libera 1944",
+      "website_url": "https://www.ampezzocarnico.it/2020/07/19/la-chiesa-parrocchiale/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20del%20Rosario%20e%20San%20Daniele%20Profeta%20(Pieve%20Arcipretale)%2C%20Ampezzo%20capoluogo%20%E2%80%94%20Piazza%20Zona%20Libera%201944",
+      "image_url": null,
+      "description": "È la chiesa parrocchiale e principale monumento religioso di Ampezzo, con origini almeno quattrocentesche e ricostruita in forme neoclassiche e barocche tra Settecento e Novecento. Conserva importanti opere d'arte di Nicola Grassi, Giovanni Moro e Marco Davanzo, oltre a numerosi altari lignei e marmorei di pregio. Rappresenta un punto di riferimento storico, artistico e spirituale per la valle, ed è stata più volte restaurata dopo eventi come il terremoto del 1976.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Chiesetta della Santissima Trinità",
+      "address": "Frazione di Oltris",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20della%20Santissima%20Trinit%C3%A0%2C%20Frazione%20di%20Oltris",
+      "image_url": null,
+      "description": "Piccola chiesa rurale situata nel borgo medievale di Oltris, funge da centro devozionale per la comunità locale sin dal XVII secolo. Di particolare rilievo è la Croce in legno d'olivo del Getsemani, reliquia di profondo valore spirituale. Inserita in un contesto alpino autentico, è anche il fulcro delle celebrazioni della sagra di San Giacomo.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Oratorio di San Rocco",
+      "address": "Frazione di Voltois",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Rocco%2C%20Frazione%20di%20Voltois",
+      "image_url": null,
+      "description": "Situato nella frazione di Voltois, questo oratorio alpino è dedicato a San Rocco, protettore contro le pestilenze e molto venerato dalla comunità. Pur senza particolari dettagli architettonici documentati, rappresenta una testimonianza della tradizione di piccoli luoghi di culto tipici dei borghi carnici e ospita la festa patronale annuale ad agosto.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/ampezzo.md"
+    }
+  ]
+}

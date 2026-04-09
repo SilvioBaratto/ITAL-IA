@@ -1,0 +1,30 @@
+{
+  "comune_name": "Coseano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/coseano.md",
+  "extracted_at": "2026-04-09T10:11:59.636Z",
+  "pois": [
+    {
+      "name": "Bar di Cisterna (frazione di Coseano)",
+      "address": "Frazione di Cisterna, Coseano (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20di%20Cisterna%20(frazione%20di%20Coseano)%2C%20Frazione%20di%20Cisterna%2C%20Coseano%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Il Bar di Cisterna è un piccolo bar di quartiere situato nella frazione di Cisterna a Coseano, frequentato soprattutto dagli abitanti locali. È un punto di ritrovo per la comunità, vicino alla banca e alle scuole, ideale per colazioni, caffè veloci o aperitivi informali. L'offerta include prodotti da forno locali, tramezzini preparati al momento e qualche dolce tipico. Il locale non dispone di una presenza online né di informazioni dettagliate su piattaforme di recensioni.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/coseano.md"
+    },
+    {
+      "name": "Pizzeria-Bar (capoluogo o frazioni meridionali)",
+      "address": "Coseano (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria-Bar%20(capoluogo%20o%20frazioni%20meridionali)%2C%20Coseano%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Questa pizzeria-bar si trova nella parte meridionale di Coseano e svolge una duplice funzione: offre pizze alla sera e funge da bar durante il giorno. Il locale rappresenta un punto di socializzazione nelle frazioni minori, accogliendo famiglie e gruppi di amici soprattutto nei fine settimana. È un tipico esempio di locale ibrido della campagna friulana, privo di una denominazione propria e non documentato online. Nel corso della giornata è frequentato per caffè, aperitivi e momenti conviviali.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/coseano.md"
+    }
+  ]
+}

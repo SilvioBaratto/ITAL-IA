@@ -1,0 +1,63 @@
+{
+  "comune_name": "Cimolais",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cimolais.md",
+  "extracted_at": "2026-04-09T10:22:46.182Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Maggiore",
+      "address": "Cimolais, via Vittorio Emanuele / Via 2 Giugno, 1",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Maggiore%2C%20Cimolais%2C%20via%20Vittorio%20Emanuele%20%2F%20Via%202%20Giugno%2C%201",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di Santa Maria Maggiore è il principale luogo di culto di Cimolais e fulcro spirituale del paese, con origini documentate già dal IX secolo. L'edificio attuale, di stile neoclassico ottocentesco, conserva preziose opere lignee del maestro cadorino Giacomo Auregne, affreschi di Giuseppe Modolo e pale d'altare legate alla scuola del Pordenone. È nota per il suo importante ex-voto raffigurante l'incendio di Cimolais e per la stratificazione storica della sua architettura e arte sacra.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cimolais.md"
+    },
+    {
+      "name": "Chiesa di San Floriano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Floriano%2C%20Cimolais",
+      "image_url": null,
+      "description": "Situata nella frazione montana di San Floriano, la chiesa è dedicata al martire patrono dei pompieri e rappresenta il luogo di culto principale della comunità locale. Edificata secondo i canoni dell'architettura religiosa alpina, mostra una struttura semplice con campanile e interni raccolti, tipici delle chiese rurali friulane, spesso decorati da affreschi devozionali che riflettono la tradizione montana e contadina.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cimolais.md"
+    },
+    {
+      "name": "Chiesa di Sant'Osvaldo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Osvaldo%2C%20Cimolais",
+      "image_url": null,
+      "description": "La chiesa di Sant'Osvaldo, dedicata al re martire del Northumbria, è una piccola chiesa votiva nel territorio comunale di Cimolais. La presenza del culto di Osvaldo testimonia i legami devozionali con l'area alpina e le tradizioni friulane, e l'edificio di dimensioni modeste rappresenta la continuità del patrimonio religioso locale e la protezione dei pellegrini e viandanti della zona.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cimolais.md"
+    },
+    {
+      "name": "Chiese delle \"Crosite\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiese%20delle%20%22Crosite%22%2C%20Cimolais",
+      "image_url": null,
+      "description": "Le 'crosite' di Cimolais sono un insieme di edicole votive, capitelli e cappelline devozionali disseminate lungo vie e sentieri, tipiche dell'architettura religiosa popolare friulana. Questi luoghi sacri minori segnano crocevia e punti critici, spesso dedicati alla Madonna o ai santi locali, custodendo tavolette votive e bassorilievi e rappresentando una testimonianza viva della devozione quotidiana della comunità.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cimolais.md"
+    },
+    {
+      "name": "Chiesetta Alpina (Val Cimoliana)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20Alpina%20(Val%20Cimoliana)%2C%20Cimolais",
+      "image_url": null,
+      "description": "La Chiesetta Alpina si trova nell'alta Val Cimoliana, all'interno del Parco naturale delle Dolomiti Friulane. È una cappella alpina eretta da alpinisti, pastori e boscaioli, servendo come punto di preghiera e sosta lungo i sentieri di alta quota. Il luogo sacro riflette la tradizione devozionale di Cimolais, accompagnando la frequentazione umana dei paesaggi dolomitici più remoti.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cimolais.md"
+    }
+  ]
+}

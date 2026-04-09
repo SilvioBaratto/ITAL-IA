@@ -1,0 +1,41 @@
+{
+  "comune_name": "Fogliano Redipuglia",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fogliano-redipuglia.md",
+  "extracted_at": "2026-04-09T10:48:05.451Z",
+  "pois": [
+    {
+      "name": "Sacrario Militare di Redipuglia",
+      "address": "Viale III Armata, Redipuglia, 34070 Fogliano Redipuglia (GO)",
+      "website_url": "https://sacrarioredipuglia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sacrario%20Militare%20di%20Redipuglia%2C%20Viale%20III%20Armata%2C%20Redipuglia%2C%2034070%20Fogliano%20Redipuglia%20(GO)",
+      "image_url": null,
+      "description": "Il Sacrario Militare di Redipuglia è il più grande cimitero militare italiano e uno dei principali sacrari della Grande Guerra a livello mondiale. Custodisce le spoglie di oltre 100.000 caduti della Prima Guerra Mondiale e si distingue per la sua monumentale scalinata di ventidue gradoni, simbolo della memoria nazionale. Ospita la tomba del Duca d'Aosta e di generali caduti, la chiesa votiva Regina Pacis e la Piazza delle Pietre d'Italia. L’accesso è libero e gratuito e il luogo viene utilizzato per cerimonie ufficiali di rilievo nazionale.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Parco della Rimembranza — Colle Sant'Elia (ex Cimitero degli Invitti della 3ª Armata)",
+      "address": null,
+      "website_url": "https://sacrarioredipuglia.it/colle-sant-elia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20della%20Rimembranza%20%E2%80%94%20Colle%20Sant'Elia%20(ex%20Cimitero%20degli%20Invitti%20della%203%C2%AA%20Armata)%2C%20Fogliano%20Redipuglia",
+      "image_url": null,
+      "description": "Sorto dove si trovava il Cimitero degli Invitti della 3ª Armata, il Parco della Rimembranza di Colle Sant’Elia è oggi un museo all’aperto dedicato alla memoria bellica. Qui sentieri, gallerie, trincee e monumenti commemorativi testimoniano le battaglie combattute durante la Prima Guerra Mondiale. La cappella votiva con affreschi di G. Ciotti e il memoriale con una colonna romana rendono il parco un luogo di forte impatto storico ed emotivo. L’accesso è libero e gratuito.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Monte Sei Busi — Museo all'Aperto e Sentieri di Pace",
+      "address": "Via III Armata, 37 — 34070 Fogliano Redipuglia (GO)",
+      "website_url": "https://www.prolocofoglianoredipuglia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monte%20Sei%20Busi%20%E2%80%94%20Museo%20all'Aperto%20e%20Sentieri%20di%20Pace%2C%20Via%20III%20Armata%2C%2037%20%E2%80%94%2034070%20Fogliano%20Redipuglia%20(GO)",
+      "image_url": null,
+      "description": "Il Monte Sei Busi ospita un museo all’aperto dedicato alla Grande Guerra, organizzato dalla Pro Loco di Fogliano Redipuglia sotto il progetto Sentieri di Pace. Il percorso permette di esplorare trincee, camminamenti, caverne e crateri originali, offrendo un’esperienza immersiva nella vita di trincea e negli eventi storici del fronte isontino. Le visite sono libere di giorno, mentre per i gruppi sono disponibili accompagnatori specializzati previa richiesta.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fogliano-redipuglia.md"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forni di Sotto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sotto.md",
+  "extracted_at": "2026-04-09T10:48:37.589Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Lorenzo — Affreschi di Gianfrancesco da Tolmezzo (1492)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Lorenzo%20%E2%80%94%20Affreschi%20di%20Gianfrancesco%20da%20Tolmezzo%20(1492)%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "La Chiesa di San Lorenzo, situata ai margini dell'abitato di Forni di Sotto, conserva uno dei più importanti cicli di affreschi quattrocenteschi della Carnia, realizzati da Gianfrancesco da Tolmezzo nel 1492. L'edificio, con portico esterno e campanile a vela, ospita opere che rappresentano i Dottori della Chiesa, il Martirio di San Lorenzo e varie figure di santi, caratterizzate da influssi veneti e rinascimentali. Pur non essendo un museo nel senso stretto, la chiesa è un riferimento di primaria importanza per la storia dell'arte friulana. L'accesso è generalmente libero durante il giorno.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Pieve di Santa Maria del Rosario — Pieve Matrice della Val Tagliamento",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santa%20Maria%20del%20Rosario%20%E2%80%94%20Pieve%20Matrice%20della%20Val%20Tagliamento%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "La Pieve di Santa Maria del Rosario, situata nella frazione Baselia di Forni di Sotto, è storicamente la pieve matrice della Val Tagliamento e una delle undici antiche pievi della Carnia. L'attuale chiesa, ricostruita negli anni '50 dopo la distruzione del 1944, mantiene un alto valore simbolico e identitario per la comunità, ed è tappa del Cammino delle Pievi. Pur di costruzione moderna, rappresenta un importante punto di riferimento culturale e spirituale della zona.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Sito Archeologico di \"Pra di Got\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Archeologico%20di%20%22Pra%20di%20Got%22%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "Il sito archeologico di 'Pra di Got' a Forni di Sotto ha restituito i resti di una struttura difensiva tardo-romana o altomedievale, testimoniando l'antica presenza umana nella zona. Pur non essendo un'area museale o attrezzata per visite regolari, il sito svolge un ruolo importante nella ricostruzione della storia insediativa dell'Alta Val Tagliamento. I ritrovamenti contribuiscono alla conoscenza delle origini gallo-celtiche e medievali del territorio.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Centro di Cultura Popolare Fornese",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20di%20Cultura%20Popolare%20Fornese%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "Il Centro di Cultura Popolare Fornese si dedica alla raccolta e conservazione della memoria storica e delle tradizioni di Forni di Sotto. Sebbene non abbia una sede museale permanente, promuove la ricerca storica, la tutela delle tradizioni linguistiche e rurali e la pubblicazione di opere rilevanti sulla storia locale. Il suo lavoro svolge un ruolo chiave per mantenere viva l'identità culturale della comunità fornese.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sotto.md"
+    }
+  ]
+}

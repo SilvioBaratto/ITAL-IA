@@ -1,0 +1,250 @@
+{
+  "comune_name": "Codroipo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md",
+  "extracted_at": "2026-04-09T10:11:13.663Z",
+  "pois": [
+    {
+      "name": "Bar Al Giardino dal 1800",
+      "address": "Via Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Al%20Giardino%20dal%201800%2C%20Via%20Isonzo",
+      "image_url": null,
+      "description": "Storico bar del centro di Codroipo, il Bar Al Giardino dal 1800 rappresenta una delle istituzioni locali, con radici che si dichiarano risalenti all'Ottocento. L'atmosfera è quella tradizionale del bar di quartiere italiano, frequentato quotidianamente da clienti abituali. Qui la colazione è semplice e il bancone rimane il fulcro della socialità, mentre l'aperitivo serale anima il locale insieme ai residenti.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Caffè Alpino",
+      "address": "centro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Alpino%2C%20centro",
+      "image_url": null,
+      "description": "Il Caffè Alpino, situato nel centro di Codroipo, è un punto di riferimento per una colazione rapida e una pausa caffè rilassata. La clientela, variegata e affezionata, rispecchia lo spirito autentico dei bar friulani. Qui si serve un espresso curato e una selezione di pasticceria adatta a chi cerca una sosta veloce e di qualità.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Caffè Centrale",
+      "address": "centro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Centrale%2C%20centro",
+      "image_url": null,
+      "description": "Il Caffè Centrale è uno dei locali storici nel cuore della cittadina, vero e proprio punto d'incontro della vita sociale di Codroipo. Il bar di piazza accoglie i clienti dalla mattina alla sera, offrendo panini, piatti caldi e spritz. L'arredamento è semplice e la frequentazione prevalentemente locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Caffè Pezzé",
+      "address": "centro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Pezz%C3%A9%2C%20centro",
+      "image_url": null,
+      "description": "Il Caffè Pezzé rappresenta la tradizione del bar familiare, gestito probabilmente da generazioni, nel pieno centro della città. Si distingue per l'atmosfera conviviale e la colazione vissuta come rito quotidiano, con il caffè servito secondo le richieste della clientela più affezionata.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Caffè Miani",
+      "address": "centro (zona Piazza Garibaldi)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Miani%2C%20centro%20(zona%20Piazza%20Garibaldi)",
+      "image_url": null,
+      "description": "Situato vicino a Piazza Garibaldi, il Caffè Miani è conosciuto per la sua continuità e per l'accoglienza trasversale rivolta a tutte le età. L'aperitivo qui è particolarmente vivace, grazie alla presenza di tavolini all'esterno e all'immancabile spritz con stuzzichino offerto nel rispetto della tradizione friulana.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Bar Moroso",
+      "address": "centro (zona est)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Moroso%2C%20centro%20(zona%20est)",
+      "image_url": null,
+      "description": "Il Bar Moroso è un locale di lunga tradizione, noto per la colazione genuina e per essere punto di riferimento nella zona est del centro. Il nome richiama la gestione familiare, tipica dei bar friulani, e la clientela è formata principalmente da abitanti del quartiere.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Speck & Wine",
+      "address": "Piazza Giuseppe Garibaldi, 100",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Speck%20%26%20Wine%2C%20Piazza%20Giuseppe%20Garibaldi%2C%20100",
+      "image_url": null,
+      "description": "Situato nella centralissima Piazza Garibaldi, Speck & Wine propone una formula che combina bar ed enoteca con particolare attenzione ai vini friulani e ai prodotti tipici come lo speck. L'ambiente è piacevole, ideale per l'aperitivo accompagnato da taglieri di salumi e formaggi, nel cuore pulsante della città.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Enoteca Angolo delle Specialità",
+      "address": "Via Piave, 49",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Angolo%20delle%20Specialit%C3%A0%2C%20Via%20Piave%2C%2049",
+      "image_url": null,
+      "description": "L'Enoteca Angolo delle Specialità unisce l'offerta di bar, enoteca e bottega, con una curata selezione di vini locali e prodotti tipici. Dispone di sedute all'aperto, rendendo il locale accogliente nella bella stagione, ed è indicato per chi cerca una proposta vinicola articolata in un contesto informale e locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Osteria La' di Galas",
+      "address": "Via Roma, 72",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La'%20di%20Galas%2C%20Via%20Roma%2C%2072",
+      "image_url": null,
+      "description": "Osteria-bar a gestione familiare, La' di Galas si trova lungo una delle vie centrali di Codroipo e offre un'atmosfera conviviale e genuina. Frequentata da residenti e ciclisti, propone semplici piatti e una selezione di vini locali, tra cui il Tocai friulano. I tavolini all'aperto sono particolarmente apprezzati nella bella stagione.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Caffè Pablo",
+      "address": "centro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Pablo%2C%20centro",
+      "image_url": null,
+      "description": "Il Caffè Pablo combina un nome internazionale con uno spirito profondamente locale. Situato nel centro cittadino, è noto per la qualità del caffè e per la pasticceria da banco, ideale per colazioni e pause rilassate. La clientela è mista e l'atmosfera resta sempre distesa e accogliente.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Snack Bar di Masotti Anna & C.",
+      "address": "Via Giovanni Battista Candotti",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Bar%20di%20Masotti%20Anna%20%26%20C.%2C%20Via%20Giovanni%20Battista%20Candotti",
+      "image_url": null,
+      "description": "Situato nel centro di Codroipo, lo Snack Bar di Masotti è noto per la formula rapida e conveniente, ideale per una pausa veloce durante la giornata. La gestione familiare assicura un servizio diretto e cordiale, e il locale è frequentato soprattutto da chi lavora nella zona.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Giornale & Caffè",
+      "address": "Viale Francesco Antonio Duodo, 31",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Giornale%20%26%20Caff%C3%A8%2C%20Viale%20Francesco%20Antonio%20Duodo%2C%2031",
+      "image_url": null,
+      "description": "Il Giornale & Caffè integra il servizio di edicola con quello tipico del bar all'italiana. È il luogo dove fermarsi per la colazione, acquistare quotidiani o riviste e scambiare due chiacchiere con i vicini. Il locale rappresenta un punto di riferimento generazionale nella vita del quartiere.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Bar Al Girasole",
+      "address": "Via Latisana, 12",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Al%20Girasole%2C%20Via%20Latisana%2C%2012",
+      "image_url": null,
+      "description": "Il Bar Al Girasole si trova nella zona sud di Codroipo e offre un ambiente familiare con sedute all'aperto, perfette per le giornate calde. È punto di incontro per residenti e viaggiatori di passaggio, con un aperitivo serale animato e una gestione attenta e tradizionale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Alla Fontana",
+      "address": "Via Latisana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Fontana%2C%20Via%20Latisana",
+      "image_url": null,
+      "description": "Alla Fontana è il bar di paese della frazione di Iutizzo, riferimento sociale e unico locale pubblico della piccola comunità. Il locale mantiene un'atmosfera essenziale e accogliente, accogliendo clienti di tutte le età dalla colazione al pomeriggio.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Dolcevita",
+      "address": "Piazza Giardini Pubblici, 1a",
+      "website_url": "https://www.dvpanettone.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dolcevita%2C%20Piazza%20Giardini%20Pubblici%2C%201a",
+      "image_url": null,
+      "description": "Dolcevita è la pasticceria artigianale più rinomata di Codroipo, celebre per i suoi lievitati da ricorrenza come panettone e colomba, premiati anche fuori regione. Il laboratorio offre colazioni raffinate con croissant e dolci da banco di produzione propria, in una posizione verde e centrale. Il sito web permette l'acquisto online dei prodotti.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Gelateria Antartik Codroipo",
+      "address": "Via Friuli, 1",
+      "website_url": "https://m.facebook.com/Antartik-Gelateria-e-Pasticceria-898506590159916/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelateria%20Antartik%20Codroipo%2C%20Via%20Friuli%2C%201",
+      "image_url": null,
+      "description": "La Gelateria Antartik è il punto di riferimento per il gelato artigianale a Codroipo, con una vasta scelta di gusti tradizionali e stagionali. Propone anche pasticceria e servizio da asporto, accogliendo una clientela ampia, da famiglie a coppie. In estate il locale è particolarmente frequentato.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "C'Era Una Volta",
+      "address": "Via Giovanni Battista Candotti, 27",
+      "website_url": "https://www.facebook.com/Gelateria-Cera-Una-Volta-140816642632372/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=C'Era%20Una%20Volta%2C%20Via%20Giovanni%20Battista%20Candotti%2C%2027",
+      "image_url": null,
+      "description": "C'Era Una Volta è una gelateria apprezzata per la qualità artigianale e l'atmosfera evocativa. Offre gelati classici e stagionali, ed è frequentata da famiglie, gruppi di giovani e appassionati del gelato ben fatto. La presenza social testimonia una gestione al passo coi tempi.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Il Gelatiere",
+      "address": "Via Piave, 51",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Gelatiere%2C%20Via%20Piave%2C%2051",
+      "image_url": null,
+      "description": "Il Gelatiere si trova in una delle vie più vivaci del centro ed è noto per il gelato artigianale da asporto. Dispone di tavolini esterni, offrendo così la possibilità di godere il gelato all'aperto durante le passeggiate nel centro.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Bar TORETO",
+      "address": "Via dei Carpini",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20TORETO%2C%20Via%20dei%20Carpini",
+      "image_url": null,
+      "description": "Il Bar TORETO, nella frazione di Goricizza, è un classico bar di paese che funge da punto di ritrovo per la piccola comunità locale. L'atmosfera è semplice e familiare, frequentata principalmente da agricoltori e residenti, con il caffè del mattino come momento centrale della giornata.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Bar alla Terrazza",
+      "address": "Via Giovanni da Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20alla%20Terrazza%2C%20Via%20Giovanni%20da%20Udine",
+      "image_url": null,
+      "description": "Il Bar alla Terrazza, sempre a Goricizza, offre sedute all'aperto che lo rendono particolarmente piacevole nelle belle stagioni. Frequentato dagli abitanti della zona e da chi vi transita per lavoro, rappresenta uno degli ultimi presidi di socialità della frazione.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Da Frusine",
+      "address": "Piazza dei Dogi, 26",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Frusine%2C%20Piazza%20dei%20Dogi%2C%2026",
+      "image_url": null,
+      "description": "Il bar da Frusine si trova nella scenografica Piazza dei Dogi a Passariano, luogo di passaggio per chi visita Villa Manin. È conosciuto come punto di ristoro per residenti e turisti, ideale per un caffè o uno spritz in un contesto di grande fascino storico.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    },
+    {
+      "name": "Locanda Forchir",
+      "address": null,
+      "website_url": "https://www.locandaforchir.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Forchir%2C%20Codroipo",
+      "image_url": null,
+      "description": "La Locanda Forchir, immersa nei vigneti della zona vitifera di Codroipo, unisce la possibilità di degustare vini della cantina Forchir con cicchetti friulani locali. Ospita aperitivi tra i filari e propone esperienze enogastronomiche uniche nel paesaggio friulano, rappresentando una tappa fondamentale per chi vuole conoscere il territorio.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/codroipo.md"
+    }
+  ]
+}

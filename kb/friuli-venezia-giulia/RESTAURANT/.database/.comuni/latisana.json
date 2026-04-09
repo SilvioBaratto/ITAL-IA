@@ -1,0 +1,63 @@
+{
+  "comune_name": "Latisana",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/latisana.md",
+  "extracted_at": "2026-04-09T11:04:38.897Z",
+  "pois": [
+    {
+      "name": "Ristorante Alle Griglie",
+      "address": null,
+      "website_url": "https://allegriglie.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Alle%20Griglie%2C%20Latisana",
+      "image_url": null,
+      "description": "Ristorante Alle Griglie è un locale storico di Latisana, fondato nel 1965 e gestito dalla famiglia Dalla Mora. È rinomato per la cucina friulana tradizionale, con insaccati di alta qualità, carne alla griglia, pasta fresca fatta in casa e pesce dell'Adriatico, accompagnati da una ricca selezione di vini regionali e internazionali. L'ambiente è caldo e accogliente, a gestione familiare, con un eccellente rapporto qualità-prezzo nella fascia media-alta.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/latisana.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Esperia",
+      "address": "Via Zorutti, 43 - Latisana (UD)",
+      "website_url": "https://www.ristoranteesperia.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Esperia%2C%20Via%20Zorutti%2C%2043%20-%20Latisana%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria Esperia, attivo dal 1980 e gestito dai fratelli Apicella, offre un'atmosfera familiare e una cucina che combina tradizione friulana, specialità mediterranee e pizze artigianali. Il locale è noto per l'uso di ingredienti freschi, porzioni abbondanti e piatti preparati secondo ricette consolidate, ideali per famiglie e gruppi. Offre un ambiente curato ma rilassato e prezzi moderati.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/latisana.md"
+    },
+    {
+      "name": "Ristorante Da Roberta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Da%20Roberta%2C%20Latisana",
+      "image_url": null,
+      "description": "Ristorante Da Roberta propone una cucina friulana classica interpretata in chiave moderna, con particolare attenzione alle carni alla griglia e al pesce fresco dell’Adriatico. L’ambiente è elegante e ampio, adatto sia a cene intime che a banchetti e matrimoni, con una fascia di prezzo medio-alta. La selezione di vini e la cura per gli ingredienti rendono il locale una scelta di qualità nella zona di Latisana.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/latisana.md"
+    },
+    {
+      "name": "Gastromania Latisana",
+      "address": null,
+      "website_url": "https://www.gastromanialatisana.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gastromania%20Latisana%2C%20Latisana",
+      "image_url": null,
+      "description": "Gastromania Latisana offre servizi di ristorazione e catering che combinano la gastronomia friulana e molisana in chiave contemporanea. Il locale è apprezzato per l’attenzione al dettaglio, la reinterpretazione dei classici regionali e la cura del servizio, ideale anche per eventi, cene tematiche e celebrazioni private. La cucina richiama i sapori antichi della Friuli e della cucina veneta con un tocco moderno.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/latisana.md"
+    },
+    {
+      "name": "Bar Osteria La Chiacchiera",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Osteria%20La%20Chiacchiera%2C%20Latisana",
+      "image_url": null,
+      "description": "Bar Osteria La Chiacchiera è una tipica osteria friulana che offre piatti tradizionali in un ambiente conviviale e informale. È il luogo perfetto per assaporare cucina locale genuina in un’atmosfera familiare e accessibile a tutti, con prezzi nella fascia bassa-media.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/latisana.md"
+    }
+  ]
+}

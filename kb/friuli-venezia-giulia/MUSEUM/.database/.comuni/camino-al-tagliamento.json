@@ -1,0 +1,41 @@
+{
+  "comune_name": "Camino al Tagliamento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/camino-al-tagliamento.md",
+  "extracted_at": "2026-04-09T10:43:29.598Z",
+  "pois": [
+    {
+      "name": "Villa Colloredo-Mels (Villa Mainardi) — Gorizzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Colloredo-Mels%20(Villa%20Mainardi)%20%E2%80%94%20Gorizzo%2C%20Camino%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Villa Colloredo-Mels, conosciuta oggi come Villa Mainardi, è uno dei principali beni culturali del comune, celebre per essere stata la residenza estiva e luogo di componimento delle opere di Ermes di Colloredo, padre della letteratura friulana. Nel XIX secolo, fu frequentata anche dallo scrittore Ippolito Nievo, che trovò ispirazione nel paesaggio circostante. Nel 2012, la villa è stata uno dei set del film 'La migliore offerta' di Giuseppe Tornatore. L'edificio è di proprietà privata e non visitabile come museo, ma resta meta di pellegrinaggi letterari e culturali.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Villa Savorgnan-Minciotti — Camino al Tagliamento (capoluogo)",
+      "address": "Via Tagliamento, Camino al Tagliamento",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Savorgnan-Minciotti%20%E2%80%94%20Camino%20al%20Tagliamento%20(capoluogo)%2C%20Via%20Tagliamento%2C%20Camino%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Villa Savorgnan-Minciotti è uno degli esempi più rappresentativi di villa veneta del territorio, situata nel nucleo nobiliare del 'Borc dai Siôrs' lungo via Tagliamento. Costruita nel Cinquecento per il conte Anselmo Savorgnan, fu ampliata e modificata nei secoli successivi e vanta interni decorati con stucchi e porte laccate. Pur essendo una proprietà privata non aperta al pubblico, è inclusa nell'Inventario Regionale delle Ville Venete e può essere ammirata dall'esterno.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Mulino di Glaunicco — Glaunicco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mulino%20di%20Glaunicco%20%E2%80%94%20Glaunicco%2C%20Camino%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Il Mulino di Glaunicco, situato sul fiume Varmo, è un sito di memoria storica legato sia alla letteratura che al cinema italiani: citato da Ippolito Nievo e utilizzato come location per il film neorealista 'Gli ultimi' di David Maria Turoldo. In funzione fino al 1967, oggi non è un museo ma rappresenta una tappa significativa del percorso culturale nieviano promosso dal comune, testimoniando la tradizione rurale e culturale della zona.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/camino-al-tagliamento.md"
+    }
+  ]
+}

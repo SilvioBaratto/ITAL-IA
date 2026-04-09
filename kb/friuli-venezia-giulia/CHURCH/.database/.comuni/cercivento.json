@@ -1,0 +1,30 @@
+{
+  "comune_name": "Cercivento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cercivento.md",
+  "extracted_at": "2026-04-09T10:22:05.750Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Martino Vescovo (Pieve di San Martino)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68306",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20Vescovo%20(Pieve%20di%20San%20Martino)%2C%20Cercivento",
+      "image_url": null,
+      "description": "La Chiesa di San Martino Vescovo, nota anche come pieve di San Martino, è il principale edificio di culto di Cercivento e punto centrale della vita religiosa locale. L'edificio, costruito tra il 1685 e il 1698 in stile barocco montano, custodisce opere di pregio come statue di Francesco Bonazza provenienti da Venezia, un raffinato pulpito ligneo e numerosi arredi sacri settecenteschi. La chiesa conserva tracce della sua funzione di pieve storica e testimonia secoli di devozione e rapporti culturali con l'abbazia di Moggio Udinese e la Serenissima. È celebre inoltre per gli interventi artistici interni e il campanile slanciato, simbolo della comunità carnica.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cercivento.md"
+    },
+    {
+      "name": "Percorsi di Arte Sacra Urbana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Percorsi%20di%20Arte%20Sacra%20Urbana%2C%20Cercivento",
+      "image_url": null,
+      "description": "I Percorsi di Arte Sacra Urbana sono un museo diffuso a cielo aperto realizzato dal 2011 su edifici pubblici e privati di Cercivento. Comprendono grandi mosaici biblici, affreschi contemporanei e riproduzioni d'arte sacra, come il Giudizio Universale di Michelangelo, che trasformano il borgo in una meta di pellegrinaggio culturale. Le installazioni, affidate anche alla Scuola Mosaicisti di Spilimbergo, valorizzano la spiritualità del paese con un approccio moderno e partecipativo che coinvolge l'intera comunità.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cercivento.md"
+    }
+  ]
+}

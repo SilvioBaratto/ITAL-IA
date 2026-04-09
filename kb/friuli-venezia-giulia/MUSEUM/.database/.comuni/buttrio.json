@@ -1,0 +1,63 @@
+{
+  "comune_name": "Buttrio",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buttrio.md",
+  "extracted_at": "2026-04-09T10:43:29.593Z",
+  "pois": [
+    {
+      "name": "Museo della Civiltà del Vino del Friuli Venezia Giulia",
+      "address": "Villa di Toppo-Florio, Via Morpurgo, Buttrio (UD)",
+      "website_url": "http://www.comune.buttrio.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Civilt%C3%A0%20del%20Vino%20del%20Friuli%20Venezia%20Giulia%2C%20Villa%20di%20Toppo-Florio%2C%20Via%20Morpurgo%2C%20Buttrio%20(UD)",
+      "image_url": null,
+      "description": "Il Museo della Civiltà del Vino del Friuli Venezia Giulia, ospitato nella Villa di Toppo-Florio, è la principale istituzione museale di Buttrio e uno dei più importanti musei del vino della regione. Presenta una ricca collezione di oltre 3.500 pezzi tra strumenti, documenti, stampe, fotografie ed etichette storiche legate alla produzione vitivinicola friulana. Il percorso espositivo racconta la storia e le tradizioni della viticultura locale, includendo attrezzi d’epoca, curiosità sulle varietà coltivate e testimonianze della cultura materiale contadina. L’accesso al museo coincide principalmente con gli eventi culturali principali, come la Fiera Regionale dei Vini di Buttrio e Calici di Stelle.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa di Toppo-Florio e Parco Archeo-Botanico",
+      "address": "Via Morpurgo, Buttrio (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20di%20Toppo-Florio%20e%20Parco%20Archeo-Botanico%2C%20Via%20Morpurgo%2C%20Buttrio%20(UD)",
+      "image_url": null,
+      "description": "La Villa di Toppo-Florio è il principale edificio monumentale di Buttrio e ospita anche un parco archeo-botanico di rilevanza nazionale. Edificata nel Settecento e ampliata nell’Ottocento, rappresenta un esempio di architettura patrizia friulana con elementi barocchi e neoclassici. Il parco, ricco di specie botaniche rare e tracce di antiche occupazioni umane, offre un percorso che abbina natura e archeologia, essere il fulcro delle principali manifestazioni culturali del paese.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buttrio.md"
+    },
+    {
+      "name": "Castello di Buttrio — Villa Morpurgo-Felluga",
+      "address": "Colle di Buttrio, via al Castello, Buttrio (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Buttrio%20%E2%80%94%20Villa%20Morpurgo-Felluga%2C%20Colle%20di%20Buttrio%2C%20via%20al%20Castello%2C%20Buttrio%20(UD)",
+      "image_url": null,
+      "description": "Il Castello di Buttrio, oggi conosciuto anche come Villa Morpurgo-Felluga, è uno dei simboli storici del comune, risalente originariamente al X secolo. Ricostruito più volte, dal Seicento è stato trasformato in raffinata residenza nobiliare, con tracce evidenti dell’antico impianto difensivo come la torre quadrangolare e cilindrica. Oggi la villa si distingue per l’aspetto neoclassico e il giardino all’italiana, rappresentando un luogo tutelato e restaurato di primaria importanza storica.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buttrio.md"
+    },
+    {
+      "name": "Villa Bartolini-Caimo-Dragoni-Florio-Danieli — Gli Affreschi di Chiarottini e Canal",
+      "address": "Via della Villa, Buttrio (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Bartolini-Caimo-Dragoni-Florio-Danieli%20%E2%80%94%20Gli%20Affreschi%20di%20Chiarottini%20e%20Canal%2C%20Via%20della%20Villa%2C%20Buttrio%20(UD)",
+      "image_url": null,
+      "description": "La Villa Bartolini-Caimo-Dragoni-Florio-Danieli è rinomata per i suoi preziosi affreschi interni realizzati nel Settecento da Francesco Chiarottini e Giambattista Canal, che rendono l’edificio uno dei più importanti esempi di residenza decorata del Friuli orientale. Costruita nel XVII secolo, la villa ha visto successioni di importanti famiglie e oggi resta generalmente chiusa al pubblico, ma è accessibile in occasione di eventi culturali o manifestazioni locali, grazie ai restauri curati dagli attuali proprietari.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buttrio.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Apostolo in Camino — Raccolta Archeologica",
+      "address": "Frazione di Camino, Buttrio (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20in%20Camino%20%E2%80%94%20Raccolta%20Archeologica%2C%20Frazione%20di%20Camino%2C%20Buttrio%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di San Giacomo Apostolo nella frazione di Camino risale probabilmente alla fine del XV secolo e conserva affreschi quattrocenteschi di rilievo. All’interno della chiesa si trova una piccola raccolta archeologica composta da frammenti ceramici e terrecotte rinvenuti durante lavori di restauro, ora esposta permanentemente in una bacheca accessibile ai visitatori durante le aperture. L’edificio rappresenta un’importante testimonianza sia religiosa che storica per il territorio di Buttrio.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/buttrio.md"
+    }
+  ]
+}

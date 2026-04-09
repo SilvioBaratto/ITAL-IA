@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forni Avoltri",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-avoltri.md",
+  "extracted_at": "2026-04-09T10:48:29.112Z",
+  "pois": [
+    {
+      "name": "Collezione Etnografica \"Cemùot chi èrin\" — Come eravamo",
+      "address": "Centro di Forni Avoltri (Avoltri), 33020 Forni Avoltri (UD)",
+      "website_url": "http://www.carniamusei.org/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Collezione%20Etnografica%20%22Cem%C3%B9ot%20chi%20%C3%A8rin%22%20%E2%80%94%20Come%20eravamo%2C%20Centro%20di%20Forni%20Avoltri%20(Avoltri)%2C%2033020%20Forni%20Avoltri%20(UD)",
+      "image_url": null,
+      "description": "La Collezione Etnografica \"Cemùot chi èrin\" documenta la vita e la cultura materiale dei valligiani della Val Degano fra Ottocento e secondo dopoguerra. Espone attrezzi tradizionali, ambienti tipici ricostruiti come la malga e la cucina, e una ricca sezione dedicata alla filatura e tessitura, evidenziando la creatività e l’identità della Carnia. Il museo è parte del circuito Carnia Musei e rappresenta il fulcro della memoria storica locale.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Mostra Permanente \"Forni Avoltri nella Grande Guerra\"",
+      "address": "Centro di Forni Avoltri (Avoltri), 33020 Forni Avoltri (UD)",
+      "website_url": "http://www.carniamusei.org/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mostra%20Permanente%20%22Forni%20Avoltri%20nella%20Grande%20Guerra%22%2C%20Centro%20di%20Forni%20Avoltri%20(Avoltri)%2C%2033020%20Forni%20Avoltri%20(UD)",
+      "image_url": null,
+      "description": "La mostra permanente sulla Grande Guerra racconta l'impatto del conflitto su Forni Avoltri, comune di confine con l'Austria. Espone reperti originali provenienti dalle trincee delle Alpi Carniche, tra cui equipaggiamenti, armi e oggetti quotidiani dei soldati, oltre a una fedele ricostruzione di una stanza di trincea. Ampliata da fotografie e documenti storici, offre un quadro vivido della vita in guerra fra il 1915 e il 1918.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Raccolta Fotografica Gino Del Fabbro",
+      "address": "Centro di Forni Avoltri (Avoltri), 33020 Forni Avoltri (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Raccolta%20Fotografica%20Gino%20Del%20Fabbro%2C%20Centro%20di%20Forni%20Avoltri%20(Avoltri)%2C%2033020%20Forni%20Avoltri%20(UD)",
+      "image_url": null,
+      "description": "Questa raccolta permanente espone fotografie di Gino Del Fabbro, noto documentarista locale, dedicate alla comunità di Forni Avoltri e alla Val Degano. Le immagini ritraggono scene di vita quotidiana, paesaggi e tradizioni montane, fornendo un importante archivio visivo della memoria collettiva. La mostra valorizza la fotografia come strumento di documentazione antropologica in Carnia.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Sezione Geologica — L'Impronta del Tetrapode di Pierabech",
+      "address": "Centro di Forni Avoltri (Avoltri), 33020 Forni Avoltri (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sezione%20Geologica%20%E2%80%94%20L'Impronta%20del%20Tetrapode%20di%20Pierabech%2C%20Centro%20di%20Forni%20Avoltri%20(Avoltri)%2C%2033020%20Forni%20Avoltri%20(UD)",
+      "image_url": null,
+      "description": "La sezione geologica presenta come pezzo principale il calco di un masso rinvenuto a Pierabech con l’impronta fossile di un tetrapode di circa 250 milioni di anni fa, risalente al Permiano. Questo reperto testimonia la storia naturale delle Alpi Carniche e arricchisce la comprensione dell’ambiente preistorico della zona. La collezione sottolinea anche la tradizione estrattiva locale, con riferimenti al marmo rosa \"fior di pesco\".",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-avoltri.md"
+    }
+  ]
+}

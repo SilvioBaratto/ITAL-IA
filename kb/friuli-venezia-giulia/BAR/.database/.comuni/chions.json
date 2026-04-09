@@ -1,0 +1,74 @@
+{
+  "comune_name": "Chions",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md",
+  "extracted_at": "2026-04-09T10:09:33.901Z",
+  "pois": [
+    {
+      "name": "Bar Bambù (Caffè Bambù)",
+      "address": "Via Vittorio Veneto, 10 – 33083 Chions (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Bamb%C3%B9%20(Caff%C3%A8%20Bamb%C3%B9)%2C%20Via%20Vittorio%20Veneto%2C%2010%20%E2%80%93%2033083%20Chions%20(PN)",
+      "image_url": null,
+      "description": "Il Bar Bambù è un punto di riferimento della quotidianità a Villotta di Chions. Situato lungo la via principale della frazione, offre il classico servizio da bar di paese con caffè, brioche, cappuccino e aperitivi. L'atmosfera familiare e informale favorisce la socialità locale, e il locale si distingue per la sua accoglienza tipica dei bar di provincia.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md"
+    },
+    {
+      "name": "Bar Prima Tappa",
+      "address": "Via Vittorio Veneto – 33083 Chions (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Prima%20Tappa%2C%20Via%20Vittorio%20Veneto%20%E2%80%93%2033083%20Chions%20(PN)",
+      "image_url": null,
+      "description": "Il Bar Prima Tappa si trova poco distante dal Bar Bambù e rappresenta il bar di vicinato per eccellenza nella frazione di Villotta. È un luogo di sosta apprezzato dai residenti, aperto per la colazione con caffè e cornetti e per gli aperitivi serali. Il locale offre anche stuzzichini, interpretando fedelmente la tradizione dei bar italiani di paese.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md"
+    },
+    {
+      "name": "Bar alla Pesa",
+      "address": "Via San Giuseppe – 33083 Chions (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20alla%20Pesa%2C%20Via%20San%20Giuseppe%20%E2%80%93%2033083%20Chions%20(PN)",
+      "image_url": null,
+      "description": "Il Bar alla Pesa si trova nella frazione storica di Chions e prende il nome dall'antica pesa pubblica del borgo. Frequentato soprattutto da agricoltori e artigiani, propone un servizio semplice e genuino, con apertura nelle ore mattutine e pomeridiane. Il locale incarna la tradizione dei bar di campagna al servizio della comunità.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md"
+    },
+    {
+      "name": "Snack-Bar Perbacco",
+      "address": "Via San Giorgio – 33083 Chions (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Snack-Bar%20Perbacco%2C%20Via%20San%20Giorgio%20%E2%80%93%2033083%20Chions%20(PN)",
+      "image_url": null,
+      "description": "Lo Snack-Bar Perbacco si trova vicino alla piazza e alla chiesa di San Giorgio Martire nella frazione di Chions. Il locale affianca all'offerta classica da bar anche piatti veloci e spuntini, diventando un punto di riferimento soprattutto nelle ore di pranzo e durante eventi parrocchiali. Il suo spirito goliardico e la posizione centrale ne fanno una tappa abituale per residenti e avventori.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md"
+    },
+    {
+      "name": "Bar di Doi Trattoria",
+      "address": "Piazza don Davide Boz – 33083 Chions (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20di%20Doi%20Trattoria%2C%20Piazza%20don%20Davide%20Boz%20%E2%80%93%2033083%20Chions%20(PN)",
+      "image_url": null,
+      "description": "Situato nella frazione di Basedo, il Bar di Doi Trattoria è un locale polifunzionale che funge sia da bar che da trattoria. Offre un'atmosfera genuina e accogliente, spaziando dalla colazione per i pendolari al pranzo dagli accenti casalinghi. Rappresenta il centro della vita sociale della piccola comunità di Basedo.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md"
+    },
+    {
+      "name": "Pashà Snack Bar",
+      "address": "Via Santa Caterina, 10 – 33083 Chions (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pash%C3%A0%20Snack%20Bar%2C%20Via%20Santa%20Caterina%2C%2010%20%E2%80%93%2033083%20Chions%20(PN)",
+      "image_url": null,
+      "description": "Il Pashà Snack Bar si distingue per gli orari di apertura molto ampi, dalla mattina presto fino all'una di notte, con chiusura il lunedì. L'atmosfera presenta richiami orientali e un arredo più curato rispetto ai classici bar di paese, accogliendo clientela sia mattutina che serale. È uno dei punti di riferimento per chi cerca un locale vivace fino a tarda notte a Chions.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chions.md"
+    }
+  ]
+}

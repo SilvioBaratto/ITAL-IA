@@ -1,0 +1,52 @@
+{
+  "comune_name": "Caneva",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/caneva.md",
+  "extracted_at": "2026-04-09T10:03:28.319Z",
+  "pois": [
+    {
+      "name": "Meskio Bar — Fratta di Caneva",
+      "address": "Piazza Trenta Ottobre / Via Piero della Valentina, Fratta, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Meskio Bar è il principale punto di ritrovo della frazione di Fratta, situato nella piazza centrale del paese. Offre colazioni con caffè e brioche, pause pranzo con tramezzini e toast e, nel pomeriggio, aperitivi tipici friulani come lo spritz sia con Aperol che con Campari. Il locale rappresenta un tipico bar di paese, vivace e informale, dove la socialità è parte integrante dell’esperienza.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/caneva.md"
+    },
+    {
+      "name": "Bar Da Mascagni — Sarone",
+      "address": "Sarone, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Da Mascagni è uno storico bar di paese nella frazione di Sarone, frequentato da residenti di tutte le età. Punto di ritrovo per la comunità locale, è il luogo in cui iniziare la giornata con un caffè o rilassarsi nel pomeriggio con un bicchiere di vino. Il bar svolge anche una funzione sociale, diventando spazio di conversazione e incontro per i saronesi.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/caneva.md"
+    },
+    {
+      "name": "Bar Arnica — Sarone",
+      "address": "Sarone, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Arnica è il secondo bar della frazione di Sarone, situato a breve distanza dal Bar Da Mascagni. L'ambiente richiama le erbe spontanee tipiche del Cansiglio, sottolineando il legame col territorio naturale. Si distingue per l'atmosfera familiare e il forte rapporto di fiducia tra gestore e clienti, tipico dei piccoli centri rurali.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/caneva.md"
+    },
+    {
+      "name": "Monkey Café — Stevenà di Caneva",
+      "address": "Via Stefano De Marchi 8, Stevenà di Caneva, 33070 Caneva (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Monkey Café si trova a Stevenà, lungo la strada per il Cansiglio, e si caratterizza per un’atmosfera più moderna rispetto ai bar tradizionali del comune. È frequentato sia da residenti che da escursionisti e ciclisti di passaggio. Offre caffetteria, bibite e snack, diventando una sosta ideale durante o dopo le attività all’aria aperta.",
+      "comune_name": "Caneva",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/caneva.md"
+    }
+  ]
+}

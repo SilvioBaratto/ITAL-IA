@@ -1,0 +1,85 @@
+{
+  "comune_name": "Zoppola",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md",
+  "extracted_at": "2026-04-09T11:25:13.547Z",
+  "pois": [
+    {
+      "name": "Trattoria Alla Staffa",
+      "address": "Via Pordenone 32, Policreta (frazione di Poincicco) — Zoppola (PN)",
+      "website_url": "https://www.ristoranteallastaffa.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Staffa%2C%20Via%20Pordenone%2032%2C%20Policreta%20(frazione%20di%20Poincicco)%20%E2%80%94%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "La Trattoria Alla Staffa è un locale di riferimento a Policreta, nella frazione di Poincicco, noto per la sua cucina di mare in un contesto tipicamente friulano. Gestita da Mauro e Flavia, propone pesce fresco con menù che seguono il mercato e le stagioni, arricchito da una selezione di vini regionali e dessert fatti in casa. L'ambiente è adatto a ogni momento della giornata, grazie anche alla funzione di bar, e il locale dispone di ampio parcheggio per eventi e ricevimenti.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    },
+    {
+      "name": "Osteria Cevraia",
+      "address": "Via San Marco 91, Cevraia (borgata di Orcenico Inferiore) — Zoppola (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Cevraia%2C%20Via%20San%20Marco%2091%2C%20Cevraia%20(borgata%20di%20Orcenico%20Inferiore)%20%E2%80%94%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Cevraia offre cucina friulana autentica e di stagione in una piccola borgata rurale, con ambiente semplice e familiare frequentato soprattutto da residenti delle campagne. I piatti proposti sono quelli tipici del territorio, dalla polenta ai salumi locali, il frico e i secondi di carne. Il locale punta sull'esperienza conviviale in sala, senza servizio d'asporto, raccontando la tradizione contadina del Friuli occidentale.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    },
+    {
+      "name": "Al Rifugio",
+      "address": "Via Treviso, Orcenico Inferiore — Zoppola (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Rifugio%2C%20Via%20Treviso%2C%20Orcenico%20Inferiore%20%E2%80%94%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "Al Rifugio è una tipica pizzeria-ristorante di paese situata a Orcenico Inferiore, che propone sia cucina regionale friulana che pizze, spesso cotte nel forno a legna. È un punto di aggregazione per occasioni conviviali, come serate informali o compleanni, grazie all'atmosfera semplice e alla versatilità dell'offerta. L'ambiente è informale e adatto a tutta la famiglia.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    },
+    {
+      "name": "Pizzeria Ai Cicheti",
+      "address": "Via Ovoledo, Castions — Zoppola (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ai%20Cicheti%2C%20Via%20Ovoledo%2C%20Castions%20%E2%80%94%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "La Pizzeria Ai Cicheti, situata nella frazione di Castions, è un punto di riferimento per la comunità locale e richiama nel nome la tradizione dei piccoli assaggi conviviali. Il locale rappresenta un centro importante della vita sociale della zona, offrendo un ambiente informale legato alla semplicità e all'accoglienza tipica delle pizzerie di paese nel Friuli rurale.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    },
+    {
+      "name": "Ristorante Pizzeria La Scogliera",
+      "address": "Via Pordenone, Poincicco — Zoppola (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20La%20Scogliera%2C%20Via%20Pordenone%2C%20Poincicco%20%E2%80%94%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria La Scogliera, in posizione strategica a Poincicco, propone un'offerta che spazia dalla pizza ai piatti di pesce e cucina italiana. Il nome richiama i sapori marini, integrandoli con la tradizione friulana e italiana. Il locale è facilmente raggiungibile e costituisce una scelta apprezzata sia per gli abitanti della frazione che dei dintorni.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    },
+    {
+      "name": "Gladius",
+      "address": "Via Risera 1, Zoppola (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gladius%2C%20Via%20Risera%201%2C%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "Il Gladius è un locale serale e notturno di Zoppola che propone pizze e piatti a base di pollo, ideale per giovani e chi cerca un ambiente informale fino a tarda notte. Si distingue per gli orari prolungati nel weekend e la sua funzione di punto di ritrovo per la comunità locale e i comuni vicini.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    },
+    {
+      "name": "Pashà – Osteria",
+      "address": "Via Montello, Cusano — Zoppola (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pash%C3%A0%20%E2%80%93%20Osteria%2C%20Via%20Montello%2C%20Cusano%20%E2%80%94%20Zoppola%20(PN)",
+      "image_url": null,
+      "description": "L'osteria-bar Pashà di Cusano offre un ambiente accogliente in stile osteria friulana, fungendo da punto di aggregazione e presidio sociale nella frazione. Qui si possono trovare piatti caldi a mezzogiorno e un'ampia varietà di proposte tipiche degli ibridi bar-osteria del territorio, il tutto in un clima ospitale e informale.",
+      "comune_name": "Zoppola",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/zoppola.md"
+    }
+  ]
+}

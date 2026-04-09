@@ -1,0 +1,118 @@
+{
+  "comune_name": "Fagagna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md",
+  "extracted_at": "2026-04-09T11:01:36.532Z",
+  "pois": [
+    {
+      "name": "Ristorante San Michele",
+      "address": "Via Castello di Fagagna, 33, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20San%20Michele%2C%20Via%20Castello%20di%20Fagagna%2C%2033%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Situato in un edificio del XIII secolo vicino ai ruderi del castello, il Ristorante San Michele offre una cucina classica con tocchi creativi, guidata dallo chef Giuseppe Fornaca. Il menù unisce tradizione friulana e influenze piemontesi con piatti come coda di vitello con salsa di zucca e cjarsons. Dalla terrazza si gode di un panorama che va dal mare fino alle Alpi Giulie. Il ristorante è premiato dalla Guida Michelin e apprezzato per la qualità e l’atmosfera suggestiva.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Ristorante Al Castello",
+      "address": "Via San Bartolomeo, 18, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Castello%2C%20Via%20San%20Bartolomeo%2C%2018%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Il Ristorante Al Castello, gestito dai fratelli Negrini, è uno storico locale ricavato da una cascina friulana e premiato come 'Locale Storico'. Celebre per la pasta fresca, propone piatti come tagliolini ai tartufi e bistecca di Angus accompagnati da un’ampia selezione di vini. L'ambiente conserva il caratteristico 'Fogolar' friulano e la carta cambia con le stagioni per valorizzare i prodotti locali.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Trattoria Al Norge",
+      "address": "Via Udine, 35, 33034 Fagagna UD",
+      "website_url": "http://www.trattorialnorge.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Norge%2C%20Via%20Udine%2C%2035%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "La Trattoria Al Norge è una storica trattoria di pesce a conduzione familiare, nota per l’eccellenza nel servire pesce fresco da fornitori locali. Offre servizio al tavolo, asporto e consegna a domicilio in un’atmosfera semplice e accogliente. Apprezzata anche per l’accessibilità, è punto di riferimento per chi cerca pesce di qualità nella zona.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Osteria Alla Posta",
+      "address": "Via Umberto I, 18, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alla%20Posta%2C%20Via%20Umberto%20I%2C%2018%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "L'Osteria Alla Posta è un locale storico che racchiude la tradizione friulana in un ambiente conviviale e autentico. Rinomata per i taglieri di salumi e formaggi locali, crostini e piatti a base di carne di maiale, offre i suoi piatti accanto al tradizionale 'fogolar'. Consigliata per chi vuole immergersi nella cucina popolare regionale a prezzi accessibili.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Albergo Baschera Dì e Gnot dal 1806",
+      "address": "Via Umberto I, 6/2, 33034 Fagagna UD",
+      "website_url": "https://www.albergobaschera.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Baschera%20D%C3%AC%20e%20Gnot%20dal%201806%2C%20Via%20Umberto%20I%2C%206%2F2%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Storico albergo dal 1806, Baschera abbina ospitalità a una pizzeria famosa per le sue pizze realizzate con farine biologiche e lievitazione lunga. Gli ingredienti locali selezionati garantiscono alta qualità. Offre anche camere per il soggiorno, rendendolo ideale per chi cerca sia ospitalità che cucina tipica del territorio.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Osteria Spaghetteria La Brente",
+      "address": "Via Maggiore, 77, Madrisio di Fagagna, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Spaghetteria%20La%20Brente%2C%20Via%20Maggiore%2C%2077%2C%20Madrisio%20di%20Fagagna%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "La Brente è un’osteria tradizionale situata nel borgo di Madrisio di Fagagna, celebre per la cucina casereccia e l’atmosfera familiare. Il locale è noto per i formaggi, salumi e una spaghetteria che rispecchia la gastronomia friulana. Le sue specialità includono carbonara locale, antipasti e prosciutto di qualità, proponendo un'esperienza genuina richiestissima.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Casale Cjanor",
+      "address": "Via Casali Lini, 9, 33034 Fagagna UD",
+      "website_url": "https://www.casalecjanor.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casale%20Cjanor%2C%20Via%20Casali%20Lini%2C%209%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Casale Cjanor è un agriturismo a gestione familiare situato in una corte rurale con animali e nidi di cicogne. Specializzato in piatti a base d’oca e cucina friulana, offre anche portate di anatra, suino e verdure di stagione, con opzioni gluten-free. Il locale utilizza il celebre pestat di Fagagna e garantisce un'esperienza gastronomica immersiva nella tradizione locale.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Ristorante Al Mulinar",
+      "address": "Via Spilimbergo, 64, Villalta di Fagagna, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Mulinar%2C%20Via%20Spilimbergo%2C%2064%2C%20Villalta%20di%20Fagagna%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Il Ristorante Al Mulinar, situato a Villalta di Fagagna, propone i classici piatti della tradizione friulana in un ambiente semplice e genuino. Perfetto per chi desidera scoprire i sapori tipici regionali, si trova poco fuori dalla piazza principale del paese.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Ristorante Li di Dolc",
+      "address": "Via Riolo, 34, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Li%20di%20Dolc%2C%20Via%20Riolo%2C%2034%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Il Ristorante Li di Dolc, poco distante dal centro di Fagagna, offre una cucina variegata tra pesce e carne, sempre attenta ai prodotti locali. Propone specialità regionali in un ambiente informale, risultando una tappa consigliata per chi cerca semplicità e genuinità.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    },
+    {
+      "name": "Osteria Ai Turians",
+      "address": "Via Bevilacqua, 99, Villalta di Fagagna, 33034 Fagagna UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ai%20Turians%2C%20Via%20Bevilacqua%2C%2099%2C%20Villalta%20di%20Fagagna%2C%2033034%20Fagagna%20UD",
+      "image_url": null,
+      "description": "Osteria Ai Turians si trova nel borgo di Villalta e preserva una cucina friulana di forte matrice popolare. L’ambiente è semplice e autentico, ideale per chi desidera provare ricette tradizionali realizzate con prodotti locali secondo la cultura regionale.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fagagna.md"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "comune_name": "Cassacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cassacco.md",
+  "extracted_at": "2026-04-09T10:44:14.064Z",
+  "pois": [
+    {
+      "name": "Biblioteca Comunale \"B. Chiurlo\" — presidio culturale del comune",
+      "address": "Via Divisione Julia, Cassacco (UD)",
+      "website_url": "http://www.comune.cassacco.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Comunale%20%22B.%20Chiurlo%22%20%E2%80%94%20presidio%20culturale%20del%20comune%2C%20Via%20Divisione%20Julia%2C%20Cassacco%20(UD)",
+      "image_url": null,
+      "description": "La Biblioteca Comunale \"Bindo Chiurlo\" è il principale presidio culturale di Cassacco e rappresenta un punto di raccolta della memoria storica e documentaria locale. Intitolata allo studioso Bindo Chiurlo, la biblioteca conserva materiali di interesse sul territorio e volumi di storia regionale. Non è un museo, ma svolge un ruolo centrale nella conservazione e valorizzazione delle tradizioni e della cultura friulana per la comunità.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cassacco.md"
+    }
+  ]
+}

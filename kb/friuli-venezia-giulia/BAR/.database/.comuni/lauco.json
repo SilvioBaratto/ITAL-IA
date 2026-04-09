@@ -1,0 +1,19 @@
+{
+  "comune_name": "Lauco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lauco.md",
+  "extracted_at": "2026-04-09T10:17:13.292Z",
+  "pois": [
+    {
+      "name": "Alla Frasca Verde — Bar, Ristorante e Albergo",
+      "address": "Lauco (UD), 33029",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Frasca%20Verde%20%E2%80%94%20Bar%2C%20Ristorante%20e%20Albergo%2C%20Lauco%20(UD)%2C%2033029",
+      "image_url": null,
+      "description": "Alla Frasca Verde è il principale e unico bar presente a Lauco, situato all'interno di un albergo a conduzione familiare che offre anche ristorante. Il locale è molto apprezzato sia dagli abitanti che dai visitatori, con una valutazione di 8,7 su 10 su Booking.com. La colazione, dolce e salata e con prodotti locali, è particolarmente lodata. Il bar svolge anche una funzione aggregativa: è punto di incontro per una pausa caffè, un aperitivo al tramonto o un momento di ristoro dopo le attività all'aperto, in un ambiente caldo, semplice e immerso nella natura.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lauco.md"
+    }
+  ]
+}

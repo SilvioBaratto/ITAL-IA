@@ -1,0 +1,63 @@
+{
+  "comune_name": "Nimis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/nimis.md",
+  "extracted_at": "2026-04-09T10:52:24.992Z",
+  "pois": [
+    {
+      "name": "Grotte di Villanova — Sito naturalistico e paletnologico",
+      "address": "Località Villanova, 33045 Nimis (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotte%20di%20Villanova%20%E2%80%94%20Sito%20naturalistico%20e%20paletnologico%2C%20Localit%C3%A0%20Villanova%2C%2033045%20Nimis%20(UD)",
+      "image_url": null,
+      "description": "Le Grotte di Villanova sono il principale sito naturalistico e paleontologico del comune di Nimis, celebre per il loro sistema carsico ricco di stalattiti e stalagmiti. Frequentate dall'uomo fin dalla preistoria, hanno restituito reperti dell'età del bronzo e sono visitabili tramite percorsi guidati nella stagione primaverile-estiva. L'accesso alle grotte, gestito da operatori locali in collaborazione con il Comune, offre un viaggio affascinante nella storia naturale e umana del territorio.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/nimis.md"
+    },
+    {
+      "name": "Grotte del Pre-Oreak — Cavità carsica a carattere speleo-naturalistico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotte%20del%20Pre-Oreak%20%E2%80%94%20Cavit%C3%A0%20carsica%20a%20carattere%20speleo-naturalistico%2C%20Nimis",
+      "image_url": null,
+      "description": "Le Grotte del Pre-Oreak sono un complesso carsico situato nel settore montano di Nimis, significativo per la speleologia locale e l'esplorazione del paesaggio ipogeo delle Prealpi Giulie. Il sito, meno noto rispetto alle Grotte di Villanova, è frequentato soprattutto da speleologi ed escursionisti e non è attrezzato per il turismo di massa. Può essere inserito in percorsi guidati nella zona montana.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/nimis.md"
+    },
+    {
+      "name": "Castello di Cergneu — Rudere medievale e memoria storica",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Cergneu%20%E2%80%94%20Rudere%20medievale%20e%20memoria%20storica%2C%20Nimis",
+      "image_url": null,
+      "description": "Il Castello di Cergneu, nella frazione omonima, è un rudere medievale che testimonia la presenza di una struttura difensiva legata ai Signori di Cergneu nel periodo del Patriarcato di Aquileia. Restano visibili parti delle mura e bastioni in posizione panoramica sulla valle del Torre. Pur non essendo organizzato come museo, è fruibile per appassionati di storia e escursionisti grazie a pannelli informativi disponibili presso enti locali.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/nimis.md"
+    },
+    {
+      "name": "Patrimonio diffuso di Ramandolo — Paesaggio vitivinicolo DOCG",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Patrimonio%20diffuso%20di%20Ramandolo%20%E2%80%94%20Paesaggio%20vitivinicolo%20DOCG%2C%20Nimis",
+      "image_url": null,
+      "description": "Il paesaggio vitivinicolo di Ramandolo rappresenta un vero e proprio museo all'aperto dedicato alla cultura materiale rurale e alla produzione del celebre vino Ramandolo DOCG. Le cantine storiche della zona offrono degustazioni e visite guidate, permettendo un'immersione nella tradizione enologica locale. Il territorio è noto per i terrazzamenti, le pergole e le tecniche secolari di vinificazione che caratterizzano la zona.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/nimis.md"
+    },
+    {
+      "name": "Biblioteca Comunale di Nimis — Centro culturale e di conservazione",
+      "address": "Comune di Nimis, 33045 Nimis (UD)",
+      "website_url": "https://www.comune.nimis.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Comunale%20di%20Nimis%20%E2%80%94%20Centro%20culturale%20e%20di%20conservazione%2C%20Comune%20di%20Nimis%2C%2033045%20Nimis%20(UD)",
+      "image_url": null,
+      "description": "La Biblioteca Comunale di Nimis è il principale polo culturale della città, con una ricca collezione bibliografica e documentaria locale. Organizza eventi pubblici, letture e incontri culturali in collaborazione con associazioni cittadine. È anche punto di riferimento per studi sulla storia locale, la lingua friulana e la comunità slovena del territorio.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/nimis.md"
+    }
+  ]
+}

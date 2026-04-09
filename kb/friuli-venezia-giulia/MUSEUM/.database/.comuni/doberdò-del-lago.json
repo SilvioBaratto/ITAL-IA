@@ -1,0 +1,19 @@
+{
+  "comune_name": "Doberdò del Lago",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/doberdò-del-lago.md",
+  "extracted_at": "2026-04-09T10:46:52.570Z",
+  "pois": [
+    {
+      "name": "Centro Visite Gradina — Museo della Riserva Naturale dei Laghi di Doberdò e Pietrarossa",
+      "address": null,
+      "website_url": "http://www.parks.it/riserva.laghi.doberdo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Visite%20Gradina%20%E2%80%94%20Museo%20della%20Riserva%20Naturale%20dei%20Laghi%20di%20Doberd%C3%B2%20e%20Pietrarossa%2C%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "Il Centro Visite Gradina è l'unica istituzione museale di Doberdò del Lago, situata sul Monte Castellazzo e affacciata sul lago omonimo. Il museo offre un percorso espositivo che integra storia naturale e umana del Carso, illustrando la geologia carsica, la biodiversità della riserva e le vicende della Grande Guerra. Il percorso didattico si distingue per l'approfondimento della memoria storica, la varietà di habitat illustrati e il racconto della gestione ambientale dell'area protetta. Le informazioni su orari e biglietti sono soggette a variazioni stagionali; si consiglia di consultare il sito prima della visita.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/doberdò-del-lago.md"
+    }
+  ]
+}

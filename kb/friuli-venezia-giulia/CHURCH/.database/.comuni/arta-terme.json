@@ -1,0 +1,74 @@
+{
+  "comune_name": "Arta Terme",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md",
+  "extracted_at": "2026-04-09T10:18:27.229Z",
+  "pois": [
+    {
+      "name": "Chiesa dei Santi Ermacora e Fortunato — Arta Terme (capoluogo)",
+      "address": null,
+      "website_url": "http://www.comune.arta-terme.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Ermacora%20e%20Fortunato%20%E2%80%94%20Arta%20Terme%20(capoluogo)%2C%20Arta%20Terme",
+      "image_url": null,
+      "description": "La chiesa parrocchiale del capoluogo, dedicata ai Santi Ermacora e Fortunato, è il fulcro della vita religiosa di Arta Terme. L'edificio, rinnovato nel tempo, rappresenta un classico esempio di architettura campestre carnica e riflette la profonda tradizione dei protomartiri aquileiesi nell'area. La chiesa svolge un ruolo identitario essenziale per la comunità locale.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Chiesa dello Spirito Santo (Chiusini) — Frazione di Arta Terme (Borgo Chiusini)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dello%20Spirito%20Santo%20(Chiusini)%20%E2%80%94%20Frazione%20di%20Arta%20Terme%20(Borgo%20Chiusini)%2C%20Arta%20Terme",
+      "image_url": null,
+      "description": "La piccola chiesa dello Spirito Santo a Borgo Chiusini, risalente al Trecento, è uno degli edifici sacri più antichi e caratteristici di Arta Terme. Si distingue per il porticato antistante e il raro campanile \"pensile\", unico esempio conservato nella montagna friulana. All'interno sono presenti affreschi del XV secolo, tipici della pittura tardogotica locale.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Chiesa di San Nicolò degli Alzeri — Piano d'Arta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicol%C3%B2%20degli%20Alzeri%20%E2%80%94%20Piano%20d'Arta%2C%20Arta%20Terme",
+      "image_url": null,
+      "description": "Questa chiesa, di origini duecentesche, è uno dei luoghi di culto più antichi del territorio. Sorge nella frazione di Piano d'Arta e mostra elementi romanico-gotici, tra cui un portico e un tipico campanile a vela. La dedicazione a San Nicola di Bari riflette una tradizione radicata e la chiesa si trova in posizione panoramica all'interno della frazione.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Chiesa Arcipretale di Santo Stefano Protomartire — Piano d'Arta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Arcipretale%20di%20Santo%20Stefano%20Protomartire%20%E2%80%94%20Piano%20d'Arta%2C%20Arta%20Terme",
+      "image_url": null,
+      "description": "Costruita nel 1781 in stile neoclassico con pianta ottagonale, questa è la chiesa più imponente di Arta Terme. L'interno, luminoso e ampio, è ornato da affreschi settecenteschi e ospita un pregevole battistero ligneo datato 1649. La chiesa è il principale centro liturgico della zona, segno della vivacità culturale e delle ambizioni architettoniche locali nel Settecento.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Chiesa di San Giorgio — Cabia (frazione di Arta Terme)",
+      "address": null,
+      "website_url": "https://www.fondazionefriuli.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%20%E2%80%94%20Cabia%20(frazione%20di%20Arta%20Terme)%2C%20Arta%20Terme",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giorgio a Cabia, con nucleo medievale e successivi ampliamenti, è celebre per ospitare la prima tela firmata e datata di Nicola Grassi (1710), importante pittore friulano del Settecento. Quest'opera rende la piccola chiesa un punto di riferimento per la storia dell'arte locale e testimonia la diffusione delle committenze religiose nelle aree rurali.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino — Rivalpo e Valle (frazione di Arta Terme)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20%E2%80%94%20Rivalpo%20e%20Valle%20(frazione%20di%20Arta%20Terme)%2C%20Arta%20Terme",
+      "image_url": null,
+      "description": "Collocata tra i piccoli borghi di Rivalpo e Valle, questa chiesa del XV secolo è un esempio tipico di architettura gotica rurale carnica con navata unica e abside poligonale. La dedicazione a San Martino di Tours riflette un antico culto molto diffuso in Carnia e nel Friuli, testimone della radicata tradizione martiniana nel territorio.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/arta-terme.md"
+    }
+  ]
+}

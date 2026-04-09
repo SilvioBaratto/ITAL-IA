@@ -1,0 +1,19 @@
+{
+  "comune_name": "Fiume Veneto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiume-veneto.md",
+  "extracted_at": "2026-04-09T10:47:55.215Z",
+  "pois": [
+    {
+      "name": "Museo Storico Aeronautico Scientifico e Tecnologico delle Forze Armate",
+      "address": "Via delle Risorgive, Bannia — 33080 Fiume Veneto (PN)",
+      "website_url": "http://www.comune.fiumeveneto.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Storico%20Aeronautico%20Scientifico%20e%20Tecnologico%20delle%20Forze%20Armate%2C%20Via%20delle%20Risorgive%2C%20Bannia%20%E2%80%94%2033080%20Fiume%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "Il Museo Storico Aeronautico Scientifico e Tecnologico delle Forze Armate, situato nella frazione di Bannia, è la principale istituzione culturale di Fiume Veneto e una tra le realtà museali militari più originali della regione. Raccoglie velivoli storici, modelli in scala, motori aeronautici, uniformi, strumentazione d'epoca, decorazioni, oltre a materiali relativi alle tecnologie di comunicazione e guerra. Il museo è noto per il suo approccio didattico e scientifico, rivolto a studenti, appassionati e studiosi di storia militare e tecnica, offrendo un percorso espositivo che intreccia innovazione tecnica e contesto storico.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fiume-veneto.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Amaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/amaro.md",
+  "extracted_at": "2026-04-09T10:01:00.554Z",
+  "pois": [
+    {
+      "name": "Bar alla Frasca",
+      "address": "Via Roma, 9 — 33020 Amaro (UD)",
+      "website_url": "https://www.paginegialle.it/bar-alla-frasca-amaro-ud",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar alla Frasca è un bar multifunzionale, punto di riferimento per la comunità di Amaro. Offre servizi come edicola, tabaccheria, ricevitoria del Lotto e pagamenti di bollette, oltre alla tipica accoglienza da bar di paese. La mattina è frequentato dai lavoratori per la colazione, mentre il pomeriggio e la sera diventa luogo di incontro per aperitivi e conversazione. L'ambiente è familiare e autentico, tipico della Carnia.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/amaro.md"
+    },
+    {
+      "name": "Biker'S Bar",
+      "address": "SS52 Carnica, km 5+ — 33020 Amaro (UD)",
+      "website_url": "https://www.paginegialle.it/amaro-ud/biker-s-bar",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situato lungo la Strada Statale 52 Carnica, il Biker'S Bar è pensato per motociclisti e viaggiatori che attraversano la Carnia. Rappresenta una tappa di ristoro e socializzazione, offrendo una pausa caffè, bevande e snack in un ambiente informale e conviviale. La posizione fuori dal centro abitato lo rende facilmente accessibile a chi proviene dai comuni vicini.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/amaro.md"
+    }
+  ]
+}

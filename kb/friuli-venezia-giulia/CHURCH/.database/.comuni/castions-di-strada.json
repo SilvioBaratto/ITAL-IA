@@ -1,0 +1,107 @@
+{
+  "comune_name": "Castions di Strada",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md",
+  "extracted_at": "2026-04-09T10:21:56.230Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Giuseppe",
+      "address": "Piazza Libertà",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68298",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giuseppe%2C%20Piazza%20Libert%C3%A0",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giuseppe Sposo di Maria Vergine è il principale luogo di culto di Castions di Strada, eretta nel 1699 e consacrata nel 1717. Presenta una facciata a capanna in stile tardo barocco e neoclassico, con ricche decorazioni e statue di santi, e un campanile realizzato nel Settecento. L'interno, a navata unica con cappelle laterali e affreschi di artisti friulani, conserva importanti opere pittoriche e scultoree di epoche differenti.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria delle Grazie",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20delle%20Grazie%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria delle Grazie è uno degli edifici sacri più antichi della pianura friulana, con origini risalenti probabilmente all'VIII-IX secolo e struttura attuale di inizio Cinquecento. Sorge in aperta campagna e presenta una semplice facciata con campanile a vela e interno aula unica con abside poligonale e volte a crociera. All'interno si conserva un ciclo di importanti affreschi cinquecenteschi di Gaspare Negro, considerati tra i principali esempi della pittura friulana del XVI secolo.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Chiesa di San Martino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La chiesa di San Martino è il più antico edificio sacro di Castions di Strada tuttora esistente, con origini medievali e struttura principale del Duecento, ricostruita poi nel 1535. Caratterizzata da due aule rettangolari e un tipico campanile a pigna con bifore romaniche, richiama i modelli architettonici friulani. All'interno custodisce statue, una pala d'altare, una tela raffigurante Sant'Antonio da Padova e un crocifisso ligneo, restaurata anche di recente.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Morsano di Strada",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Morsano%20di%20Strada%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Morsano di Strada, dedicata a San Pellegrino, fu costruita agli inizi dell’Ottocento e ampliata nel 1950. Presenta una struttura neoclassica arricchita da decorazioni parietali e absidali, con un campanile a pianta quadrata edificato nel 1908. All’interno si trovano vetrate artistiche di Arrigo Poz, un raro fonte battesimale seicentesco, decorazioni pittoriche pregevoli e la pala di San Pellegrino, unica testimonianza della perduta chiesa omonima.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Cappella del Cimitero di Castions di Strada",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20del%20Cimitero%20di%20Castions%20di%20Strada%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La cappella del cimitero comunale di Castions di Strada è un piccolo edificio di culto di rilievo artistico, impreziosito da una vetrata e una pala d'altare opera di Arrigo Poz. Rappresenta un interessante esempio di committenza religiosa novecentesca nel contesto rurale friulano, collegata agli stessi autori che hanno decorato la parrocchiale di Morsano.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Cappella del Cimitero di Morsano di Strada",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20del%20Cimitero%20di%20Morsano%20di%20Strada%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La cappella del cimitero di Morsano di Strada si caratterizza per un'importante installazione artistica contemporanea realizzata nel 2014 dallo scultore Giovanni Sicuro, detto Minto. L'opera, intitolata 'Porta di Luce', crea un dialogo tra arte sacra contemporanea e memoria collettiva del paese, integrando tradizione devozionale e arte moderna in un contesto rurale cimiteriale.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Colonna dell'Immacolata Concezione",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Colonna%20dell'Immacolata%20Concezione%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La Colonna dell'Immacolata Concezione è una colonna votiva sormontata da una statua e da un baldacchino metallico in stile barocco, situata al principale crocevia di Castions di Strada. Considerata uno dei simboli religiosi del paese, secondo la tradizione avrebbe origini paleocristiane o altomedievali e aveva funzione di protezione per viaggiatori e pellegrini.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Colonna di San Pellegrino (Morsano di Strada)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Colonna%20di%20San%20Pellegrino%20(Morsano%20di%20Strada)%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "La colonna di San Pellegrino, situata nella piazza centrale di Morsano di Strada, è il simbolo identitario della frazione, raffigurante il santo patrono in abito da pellegrino. Questo monumento è strettamente legato alla memoria della chiesa di San Pellegrino, oggi scomparsa, e rappresenta il cuore religioso e civile della comunità.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Ancona della Madonna delle Grazie",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ancona%20della%20Madonna%20delle%20Grazie%2C%20Castions%20di%20Strada",
+      "image_url": null,
+      "description": "L’ancona votiva della Madonna delle Grazie, situata nei pressi della chiesa parrocchiale di San Giuseppe, è una delle edicole religiose più rilevanti di Castions di Strada. Restaurata nel 1985 con mosaici che raffigurano diversi santi e scene devozionali, testimonia la particolare attenzione del territorio alla tradizione religiosa aquileiese.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castions-di-strada.md"
+    }
+  ]
+}

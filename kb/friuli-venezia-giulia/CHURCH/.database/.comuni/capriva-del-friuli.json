@@ -1,0 +1,41 @@
+{
+  "comune_name": "Capriva del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/capriva-del-friuli.md",
+  "extracted_at": "2026-04-09T10:21:02.127Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale del Santissimo Nome di Maria",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20del%20Santissimo%20Nome%20di%20Maria%2C%20Capriva%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa parrocchiale del Santissimo Nome di Maria è il principale luogo di culto di Capriva del Friuli, con origini che risalgono al XII secolo e una ricostruzione ottocentesca in stile neoclassico. L'interno conserva altari barocchi e un fonte battesimale rinascimentale del XVI secolo, elementi che testimoniano le varie fasi storiche attraversate dall’edificio. Il campanile è uno dei simboli visivi del borgo e la chiesa rappresenta il cuore spirituale della comunità, dedicata alla devozione mariana celebrata ogni 12 settembre. L’edificio ha subito restauri dopo i danni della Prima Guerra Mondiale.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Capriva%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa della Santissima Trinità è una piccola chiesa di Capriva del Friuli, probabilmente di origine seicentesca e con un pregevole altare settecentesco che riflette l’abilità decorativa locale dell’epoca barocca. Caratteristica delle architetture religiose rurali friulane, era probabilmente legata a una confraternita laicale e rappresenta un importante esempio di oratorio. L’edificio testimonia la tradizione religiosa e comunitaria del paese.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Cappella/Oratorio di San Giuseppe a Villa Russiz (Russiz Inferiore)",
+      "address": "Via Russiz 4/6, 34070 Capriva del Friuli (GO)",
+      "website_url": "https://www.villarussiz.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%2FOratorio%20di%20San%20Giuseppe%20a%20Villa%20Russiz%20(Russiz%20Inferiore)%2C%20Via%20Russiz%204%2F6%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "La cappella di San Giuseppe, situata nella tenuta di Villa Russiz a Russiz Inferiore, risale al XVI secolo e presenta uno stile rinascimentale-manierista rurale friulano. Al suo interno custodisce il mausoleo del conte de la Tour, figura chiave per la storia della viticoltura friulana e benefattore del territorio. La cappella è parte della villa, oggi sede di fondazione e azienda vinicola, e si distingue per il legame con la memoria storica, la filantropia e la cultura agricola della zona.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/capriva-del-friuli.md"
+    }
+  ]
+}

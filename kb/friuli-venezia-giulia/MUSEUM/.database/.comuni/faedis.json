@@ -1,0 +1,74 @@
+{
+  "comune_name": "Faedis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md",
+  "extracted_at": "2026-04-09T10:47:32.631Z",
+  "pois": [
+    {
+      "name": "Complesso Castellano di Cucagna e Zucco — Sito Archeologico e Parco dei Castelli",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Complesso%20Castellano%20di%20Cucagna%20e%20Zucco%20%E2%80%94%20Sito%20Archeologico%20e%20Parco%20dei%20Castelli%2C%20Faedis",
+      "image_url": null,
+      "description": "Il complesso castellano di Cucagna e Zucco rappresenta il nucleo storico-culturale di Faedis, comprendendo due castelli medievali situati su colli che dominano la valle del Grivò. Il Castello di Cucagna, eretto dopo il 1027, e il Castello di Zucco, del XIII secolo, sono accomunati da origini nobiliari e importanti vicende storiche. Oggi i resti dei manieri sono visitabili tramite sentieri segnalati e fanno parte del progetto del Parco Archeologico della Terra dei Castelli; l’accesso ai percorsi esterni è libero.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md"
+    },
+    {
+      "name": "Castello di Soffumbergo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Soffumbergo%2C%20Faedis",
+      "image_url": null,
+      "description": "Il Castello di Soffumbergo, fondato nell’XI secolo, fu per secoli la residenza estiva del Patriarca di Aquileia, esercitando un ruolo strategico e politico sul territorio circostante. Sebbene oggi permangano solo le fondamenta e pochi ruderi, il sito conserva grande valore evocativo e testimonia l’importanza di Faedis nella rete feudale del Patriarcato. Il castello è accessibile a piedi tramite sentieri collinari ed è visitabile liberamente.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md"
+    },
+    {
+      "name": "Ville Storiche di Faedis — Le Residenze Nobiliari",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ville%20Storiche%20di%20Faedis%20%E2%80%94%20Le%20Residenze%20Nobiliari%2C%20Faedis",
+      "image_url": null,
+      "description": "Le ville storiche di Faedis, come Villa Freschi a Ronchis e Villa Accordini a Campeglio, rappresentano esempi dell’evoluzione architettonica dal periodo medievale a quello nobiliare e veneziano. Queste dimore, arricchite da affreschi e chiesette gentilizie, illustrano il passaggio dalle fortificazioni ai palazzi residenziali e riflettono le influenze culturali del tempo. Le ville non sono musei e non risultano aperte al pubblico, salvo il Palazzo Comunale accessibile durante l’orario degli uffici.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md"
+    },
+    {
+      "name": "Chiese Affrescate del Comune di Faedis — Itinerario d'Arte Sacra",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiese%20Affrescate%20del%20Comune%20di%20Faedis%20%E2%80%94%20Itinerario%20d'Arte%20Sacra%2C%20Faedis",
+      "image_url": null,
+      "description": "Faedis vanta numerose chiese e cappelle medievali disseminate sul territorio comunale, molte delle quali conservano affreschi e arredi di notevole valore artistico. Tra queste si distinguono la Chiesa Parrocchiale di Santa Maria Assunta, la Chiesa di San Pietro degli Slavi, e la Chiesa della Madonna di Zucco. Questi luoghi, spesso raggiungibili tramite sentieri, creano un itinerario diffuso di arte sacra e storia religiosa.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md"
+    },
+    {
+      "name": "Sito Memoriale delle Malghe di Porzûs — Memoria della Resistenza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Memoriale%20delle%20Malghe%20di%20Porz%C3%BBs%20%E2%80%94%20Memoria%20della%20Resistenza%2C%20Faedis",
+      "image_url": null,
+      "description": "Le Malghe di Porzûs sono un luogo simbolo della memoria della Resistenza friulana e dell’eccidio del 1945 che coinvolse le Brigate Osoppo. Il sito, situato in alta quota al confine con la Slovenia, ospita commemorazioni annuali, diventando meta di scolaresche e studiosi. Può essere raggiunto tramite sentieri montani ed è visitabile soprattutto nella bella stagione.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md"
+    },
+    {
+      "name": "Grotta Çondar des Paganis — Sito Preistorico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20%C3%87ondar%20des%20Paganis%20%E2%80%94%20Sito%20Preistorico%2C%20Faedis",
+      "image_url": null,
+      "description": "La Grotta Çondar des Paganis, situata tra i comuni di Faedis e Attimis, è una delle evidenze più antiche della presenza umana nell’area, con reperti risalenti all’Età del Bronzo. Sebbene non attrezzata per visite turistiche, rappresenta un importante sito preistorico locale; i relativi reperti sono conservati presso musei della provincia di Udine.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/faedis.md"
+    }
+  ]
+}

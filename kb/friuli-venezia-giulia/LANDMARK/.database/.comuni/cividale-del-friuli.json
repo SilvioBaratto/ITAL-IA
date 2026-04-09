@@ -1,0 +1,228 @@
+{
+  "comune_name": "Cividale del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md",
+  "extracted_at": "2026-04-09T10:40:17.855Z",
+  "pois": [
+    {
+      "name": "Tempietto Longobardo (Oratorio di Santa Maria in Valle) — Sito UNESCO",
+      "address": "Monastero delle Orsoline, Borgo Brossana, Cividale del Friuli",
+      "website_url": "https://whc.unesco.org/en/list/1318",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempietto%20Longobardo%20(Oratorio%20di%20Santa%20Maria%20in%20Valle)%20%E2%80%94%20Sito%20UNESCO%2C%20Monastero%20delle%20Orsoline%2C%20Borgo%20Brossana%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Tempietto Longobardo è considerato la più importante testimonianza architettonica dell'epoca longobarda a livello mondiale. L'interno sorprende con una ricca decorazione di stucchi e affreschi, tra cui sei figure di Sante in altorilievo eccezionalmente integre. L'edificio, facente parte del sito UNESCO, testimonia la continuità tra arte romana, longobarda e carolingia.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Duomo di Santa Maria Assunta",
+      "address": "Piazza del Duomo, Cividale del Friuli",
+      "website_url": "https://comune.cividale-del-friuli.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Santa%20Maria%20Assunta%2C%20Piazza%20del%20Duomo%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Duomo di Cividale domina la città con il suo maestoso campanile e architettura gotica e rinascimentale. All'interno custodisce opere di altissimo pregio come la Pala di Pellegrino II, il Monumento a Marcantonio di Manzano e numerosi dipinti rinascimentali e barocchi. Ogni 6 gennaio vi si celebra la tradizionale Messa dello Spadone.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Museo Cristiano e Tesoro del Duomo",
+      "address": "Via Condotti 1 / Piazza del Duomo, Cividale del Friuli",
+      "website_url": "http://www.webdiocesi.chiesacattolica.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Cristiano%20e%20Tesoro%20del%20Duomo%2C%20Via%20Condotti%201%20%2F%20Piazza%20del%20Duomo%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Museo Cristiano e Tesoro del Duomo raccoglie straordinarie testimonianze d'arte longobarda e medievale, come l'Altare del duca Ratchis e il Fonte battesimale del patriarca Callisto. L'esposizione include reperti di oreficeria, pittura rinascimentale, tessuti liturgici e la storica cattedra patriarcale. È uno dei nuclei museali più prestigiosi della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Ponte del Diavolo (*Puìnt dal Diàul*)",
+      "address": "Lungonartisone, centro storico di Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ponte%20del%20Diavolo%20(*Pu%C3%ACnt%20dal%20Di%C3%A0ul*)%2C%20Lungonartisone%2C%20centro%20storico%20di%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Simbolo di Cividale, il Ponte del Diavolo è una spettacolare opera d'ingegneria tardogotica costruita in pietra bianca nel XV secolo. Attraversa il fiume Natisone su due archi asimmetrici e si lega a una celebre leggenda locale. Danneggiato e ricostruito più volte, offre una vista mozzafiato sulla gola sottostante.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Palazzo dei Provveditori Veneti (Palazzo Pretorio) — Sede del Museo Archeologico Nazionale",
+      "address": "Piazza Duomo 13, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20dei%20Provveditori%20Veneti%20(Palazzo%20Pretorio)%20%E2%80%94%20Sede%20del%20Museo%20Archeologico%20Nazionale%2C%20Piazza%20Duomo%2013%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Questo sontuoso edificio cinquecentesco, attribuito ad Andrea Palladio, fu sede della residenza veneziana e del potere locale. Caratterizzato da un elegante portico a bugne e ampi saloni, è dal 1990 sede del Museo Archeologico Nazionale. Rappresenta uno degli esempi di architettura civile più rilevanti del Friuli.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Museo Archeologico Nazionale di Cividale del Friuli",
+      "address": "Piazza Duomo 13, Cividale del Friuli",
+      "website_url": "http://www.museoarcheologicocividale.beniculturali.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20di%20Cividale%20del%20Friuli%2C%20Piazza%20Duomo%2013%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Fondato nel 1817, il museo illustra la lunga storia di Cividale dal periodo preromano a quello veneziano attraverso ricche collezioni di reperti, lapidari, necropoli e oggetti d'arte longobarda e carolingia. Ha sede nel prestigioso Palazzo dei Provveditori Veneti e ospita anche una storica biblioteca e archivio.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Area UNESCO del Complesso Episcopale Longobardo",
+      "address": "Area della Piazza del Duomo e Borgo Brossana, Cividale del Friuli",
+      "website_url": "https://whc.unesco.org/en/list/1318",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Area%20UNESCO%20del%20Complesso%20Episcopale%20Longobardo%2C%20Area%20della%20Piazza%20del%20Duomo%20e%20Borgo%20Brossana%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il complesso episcopale longobardo include i resti della basilica paleocristiana, il battistero di San Giovanni Battista e il Palazzo patriarcale. È il nucleo principale del potere religioso e civile longobardo a Cividale e rappresenta un sito di altissima rilevanza, tutelato come patrimonio UNESCO.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Piazza Paolo Diacono e Centro Storico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza%20Paolo%20Diacono%20e%20Centro%20Storico%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Piazza Paolo Diacono e il centro storico costituiscono il cuore vivo di Cividale, circondato da edifici rinascimentali, gotici e medievali. La pavimentazione antica e il dedalo di vie offrono un'atmosfera autentica e raccontano secoli di storia locale tra case nobiliari e architetture religiose.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Ipogeo Celtico",
+      "address": "Via Monastero Maggiore, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ipogeo%20Celtico%2C%20Via%20Monastero%20Maggiore%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "L'Ipogeo Celtico è un misterioso complesso sotterraneo scavato nella roccia, caratterizzato da ambienti rupestri con incisioni di epoche diverse. La sua funzione è ancora oggetto di studio, ma offre un'esperienza suggestiva grazie all'atmosfera raccolta e alla vicinanza con il fiume Natisone.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Francesco e Chiostro",
+      "address": "Largo Boiani, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Francesco%20e%20Chiostro%2C%20Largo%20Boiani%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Edificio medievale di sobrio stile gotico-francescano, la chiesa di San Francesco conserva affreschi trecenteschi e quattrocenteschi e un chiostro monastico tra i meglio preservati del territorio. Oggi sconsacrata, ospita eventi culturali e mostre, mantenendo intatta la suggestione storica.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria dei Battuti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20dei%20Battuti%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Pregevole esempio di architettura religiosa tardo-gotica, la chiesa di Santa Maria dei Battuti custodisce un ciclo di affreschi di scuola friulana e veneta che raffigurano scene della Passione e figure di santi. Fu storicamente legata all’assistenza ai poveri tramite la confraternita dei Battuti.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Martino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Di antica origine altomedievale, la chiesa di San Martino è nota per aver ospitato il celebre Altare del duca Ratchis. Più volte rimaneggiata nei secoli, rappresenta un importante tassello per la comprensione della topografia religiosa longobarda della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Palazzo de Nordis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20de%20Nordis%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Elegante edificio nobiliare tardogotico e rinascimentale, Palazzo de Nordis si distingue per le sue bifore intagliate, portali decorati e facciate in stile veneziano. Ex sede del Museo Archeologico fino al 1990, contribuisce all’identità storica del centro cittadino.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Torre Medievale e Resti delle Mura Urbane",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre%20Medievale%20e%20Resti%20delle%20Mura%20Urbane%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Le torri medievali e i resti delle antiche mura urbane, inseriti nelle strutture abitative odierne, testimoniano la funzione difensiva di Cividale nel Medioevo. Il tessuto urbano preserva calli strette e passaggi storici, rendendo la città un vero monumento diffuso.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Natisone e il Paesaggio Urbano del Borgo di Ponte",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Natisone%20e%20il%20Paesaggio%20Urbano%20del%20Borgo%20di%20Ponte%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il quartiere Borgo di Ponte offre scorci unici sul fiume Natisone, con abitazioni medievali e rinascimentali affacciate sulla gola. Resti di mulini, passerelle e strutture idrauliche testimoniano il ruolo centrale del fiume nella vita economica della città e ne fanno uno dei paesaggi più caratteristici del Friuli.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Monumento a Giulio Cesare e Resti Romani",
+      "address": "Museo Archeologico Nazionale, Piazza Duomo 13, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20a%20Giulio%20Cesare%20e%20Resti%20Romani%2C%20Museo%20Archeologico%20Nazionale%2C%20Piazza%20Duomo%2013%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il monumento e i resti romani di Cividale rievocano la fondazione come Forum Iulii. Mosaici pavimentali, dediche a divinità e reperti vari documentano la prosperità e la vitalità del municipium romano, molti dei quali sono oggi esposti nel Museo Archeologico Nazionale.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Monastero di Santa Maria in Valle",
+      "address": "Borgo Brossana, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastero%20di%20Santa%20Maria%20in%20Valle%2C%20Borgo%20Brossana%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Monastero di Santa Maria in Valle, antica sede benedettina poi delle Orsoline, custodisce il celebre Tempietto Longobardo. L’edificio presenta un suggestivo chiostro medievale e offre un percorso di visita che culmina in spettacolari vedute sul fiume Natisone.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Pala d'Altare di Pellegrino II (Duomo di Santa Maria Assunta)",
+      "address": "Duomo di Santa Maria Assunta, Piazza del Duomo, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pala%20d'Altare%20di%20Pellegrino%20II%20(Duomo%20di%20Santa%20Maria%20Assunta)%2C%20Duomo%20di%20Santa%20Maria%20Assunta%2C%20Piazza%20del%20Duomo%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Capolavoro dell’oreficeria medievale italiana, la Pala di Pellegrino II è realizzata con 123 lastre d’argento dorato sbalzato. Esposta sull’altare maggiore del Duomo, raffigura la Madonna tra arcangeli, santi e personaggi biblici, fondendo stili romanici e bizantini in una composizione unica.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Palazzo Comunale (Loggia)",
+      "address": "Piazza del Duomo, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Comunale%20(Loggia)%2C%20Piazza%20del%20Duomo%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Palazzo Comunale si affaccia sulla Piazza del Duomo e alterna elementi architettonici medievali e rinascimentali. La sua loggia aperta e le numerose iscrizioni storiche testimoniano la centralità della vita politica e amministrativa di Cividale nel corso dei secoli.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Pietro ai Volti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pietro%20ai%20Volti%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Situata lungo un caratteristico sottopassaggio del centro storico, la chiesa di San Pietro ai Volti ospita una pala d'altare di Jacopo Palma il Giovane. L'edificio rappresenta un importante esempio della fitta trama di luoghi di culto di Cividale tardo-medievale.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cividale-del-friuli.md"
+    }
+  ]
+}

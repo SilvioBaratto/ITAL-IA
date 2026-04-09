@@ -1,0 +1,19 @@
+{
+  "comune_name": "Cavasso Nuovo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavasso-nuovo.md",
+  "extracted_at": "2026-04-09T10:21:56.231Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Remigio",
+      "address": "Via Stefanutti",
+      "website_url": "https://www.parrocchiecavassofanna.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Remigio%2C%20Via%20Stefanutti",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Remigio è il principale luogo di culto di Cavasso Nuovo e testimonia una storia documentata fin dal XII secolo. L'attuale edificio, ricostruito in chiave barocco-veneta nel XVIII secolo, conserva opere artistiche significative come un fonte battesimale rinascimentale, un dipinto seicentesco della Madonna del Rosario e bassorilievi novecenteschi di Max Piccini. La chiesa, seriamente danneggiata dal terremoto del 1976, è stata restaurata e rappresenta oggi il fulcro della comunità religiosa locale. Il patrono è san Remigio di Reims, festeggiato il 1° ottobre.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavasso-nuovo.md"
+    }
+  ]
+}

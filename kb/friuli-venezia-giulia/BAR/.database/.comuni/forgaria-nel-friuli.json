@@ -1,0 +1,41 @@
+{
+  "comune_name": "Forgaria nel Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forgaria-nel-friuli.md",
+  "extracted_at": "2026-04-09T10:14:33.547Z",
+  "pois": [
+    {
+      "name": "Bar da Nila",
+      "address": "Frazione: Flagogna (Via Pinzano)  \nComune: Forgaria nel Friuli (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20da%20Nila%2C%20Frazione%3A%20Flagogna%20(Via%20Pinzano)%20%20%0AComune%3A%20Forgaria%20nel%20Friuli%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Il Bar da Nila è un classico bar di paese situato nella frazione di Flagogna, punto di ritrovo per i residenti di Forgaria nel Friuli. Caratterizzato da un'atmosfera familiare e genuina, è il luogo dove la comunità si incontra per caffè, brioche e quattro chiacchiere, fungendo da punto di riferimento sociale per il borgo. Il locale serve principalmente gli abitanti piuttosto che i turisti, mantenendo le tradizioni locali in un contesto informale e accogliente.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Agriturismo Verde Friuli",
+      "address": "Via Mont 6, San Rocco — Forgaria nel Friuli (UD), 33030",
+      "website_url": "https://www.facebook.com/AgriturismoVerdeFriuli",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Verde%20Friuli%2C%20Via%20Mont%206%2C%20San%20Rocco%20%E2%80%94%20Forgaria%20nel%20Friuli%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "L'Agriturismo Verde Friuli offre servizio di bar e colazione nella frazione di San Rocco, oltre all'attività di ristorazione regionale friulana. Con prodotti tipici come salumi e formaggi di produzione propria, accoglie sia abitanti che visitatori in un ambiente autentico e semplice, con atmosfera conviviale tipica degli agriturismi friulani. Il locale dispone anche di posti letto ed è apprezzato per la cucina tradizionale e il servizio attento, risultando punto ideale per una sosta dopo le escursioni nei dintorni.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Ai Glicini",
+      "address": "Via Napoleonica, Ca' Dante — Cornino, Forgaria nel Friuli (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Glicini%2C%20Via%20Napoleonica%2C%20Ca'%20Dante%20%E2%80%94%20Cornino%2C%20Forgaria%20nel%20Friuli%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Ai Glicini, situato nella frazione di Cornino lungo la storica Via Napoleonica, è principalmente un ristorante regionale, ma rappresenta anche un punto di ristoro per chi desidera un caffè o un aperitivo in zona. Pur non essendo un bar in senso stretto, è una tappa apprezzata dai visitatori della Riserva del Lago di Cornino e dai viaggiatori in cerca di un momento di relax a tavola. L'ambiente è semplice e adatto sia a chi cerca una pausa che ai turisti naturalisti.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forgaria-nel-friuli.md"
+    }
+  ]
+}

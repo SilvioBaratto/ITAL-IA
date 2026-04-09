@@ -1,0 +1,85 @@
+{
+  "comune_name": "Porcia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md",
+  "extracted_at": "2026-04-09T11:12:31.685Z",
+  "pois": [
+    {
+      "name": "Osteria Al Feudo",
+      "address": "Via Guglielmo Marconi, 8 – 33080 Porcia (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Feudo%2C%20Via%20Guglielmo%20Marconi%2C%208%20%E2%80%93%2033080%20Porcia%20(PN)",
+      "image_url": null,
+      "description": "Osteria Al Feudo, situata nel centro di Porcia vicino al castello medievale, è una vera osteria di paese con un'atmosfera informale e conviviale. Offre cucina friulano-veneta tradizionale e piatti semplici, accompagnati da vini locali e birre artigianali. È un punto d'incontro per la comunità, anche grazie al maxi schermo per eventi sportivi. I prezzi sono contenuti e il locale è noto per il suo spirito di accoglienza.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    },
+    {
+      "name": "Birrificio di Naon – Naon Pub",
+      "address": "Via Aristide Gabelli, 12/A – 33080 Porcia (PN)",
+      "website_url": "https://birradinaon.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birrificio%20di%20Naon%20%E2%80%93%20Naon%20Pub%2C%20Via%20Aristide%20Gabelli%2C%2012%2FA%20%E2%80%93%2033080%20Porcia%20(PN)",
+      "image_url": null,
+      "description": "Il Birrificio di Naon – Naon Pub è un locale unico a Porcia, che unisce birrificio artigianale, cucina creativa e spazio per eventi culturali. Propone birre prodotte in loco, una cucina che valorizza ingredienti stagionali locali, e opzioni senza glutine, vegane e vegetariane. L'ambiente è giovane, informale e aperto a serate tematiche, come la Polpetta & Birretta. È anche un centro attivo per musica dal vivo, stand-up comedy e incontri culturali.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    },
+    {
+      "name": "Al Platano",
+      "address": "Via Antonio Forniz, 10 – 33080 Porcia (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Platano%2C%20Via%20Antonio%20Forniz%2C%2010%20%E2%80%93%2033080%20Porcia%20(PN)",
+      "image_url": null,
+      "description": "Al Platano è un ristorante-pizzeria con apertura continuata, situato nella zona meridionale di Porcia. Adatto sia alla pausa pranzo di lavoratori che alle cene in famiglia, offre piatti della cucina italiana e una vasta scelta di pizze. Il locale si distingue per la sua versatilità, prezzi accessibili e servizio affidabile tutti i giorni della settimana.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    },
+    {
+      "name": "Pizzeria al Castello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20al%20Castello%2C%20Porcia",
+      "image_url": null,
+      "description": "Pizzeria al Castello si trova nel centro storico di Porcia, vicino al celebre castello medievale. Il locale offre principalmente pizze classiche con alcune varianti locali, in una cornice storica ideale sia per famiglie che gruppi di amici. La posizione centrale la rende una scelta comoda dopo una visita al castello o al Museo Civico.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    },
+    {
+      "name": "FIIN Restaurant",
+      "address": "Via Giacomo Leopardi, 2 – 33080 Porcia (PN)",
+      "website_url": "https://www.fiin.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=FIIN%20Restaurant%2C%20Via%20Giacomo%20Leopardi%2C%202%20%E2%80%93%2033080%20Porcia%20(PN)",
+      "image_url": null,
+      "description": "FIIN Restaurant è il principale riferimento per la cucina giapponese a Porcia, specializzato in sushi e piatti asiatici di alta qualità. Si distingue per l'attenzione alle materie prime freschissime e per un'offerta non basata sulla formula 'all you can eat', puntando piuttosto su un'esperienza gastronomica curata. Il locale offre anche servizio take away e delivery, rappresentando una scelta raffinata per gli amanti della cucina orientale.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    },
+    {
+      "name": "Speedy Pizza",
+      "address": "Via Roveredo, 35 – Porcia (PN), frazione Rondover",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Speedy%20Pizza%2C%20Via%20Roveredo%2C%2035%20%E2%80%93%20Porcia%20(PN)%2C%20frazione%20Rondover",
+      "image_url": null,
+      "description": "Speedy Pizza si trova nella zona nord di Porcia, lungo la strada per Pordenone, ed è specializzata in pizza da asporto e fast food. Il locale risponde alle esigenze di rapidità e praticità, con un menu di pizze e piatti veloci a prezzi economici. È ideale per chi cerca una soluzione rapida per pranzo o cena in una zona residenziale e industriale.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    },
+    {
+      "name": "Break House",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Break%20House%2C%20Porcia",
+      "image_url": null,
+      "description": "Break House è un ristorante situato nella periferia ovest di Porcia, nella zona di Roraipiccolo e Sant'Antonio. Offre cucina italiana in un ambiente informale e accessibile, adatto soprattutto a giovani e residenti della zona. È ideale per una pausa pranzo veloce o una cena informale, con un buon rapporto qualità-prezzo.",
+      "comune_name": "Porcia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porcia.md"
+    }
+  ]
+}

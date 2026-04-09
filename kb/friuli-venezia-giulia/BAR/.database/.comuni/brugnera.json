@@ -1,0 +1,19 @@
+{
+  "comune_name": "Brugnera",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/brugnera.md",
+  "extracted_at": "2026-04-09T10:02:45.411Z",
+  "pois": [
+    {
+      "name": "Jolly Pizza Risto-Bar",
+      "address": "Via Puia, 2/B",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Jolly Pizza Risto-Bar è un locale moderno e accogliente situato nella fascia meridionale del capoluogo, gestito da Marsela Hoxhaj. Propone pizza a lievitazione lunga, impasti alternativi e cucina alla griglia, oltre alla classica offerta di bar per caffè e aperitivi. È un punto di riferimento in zona per una pausa veloce o un pasto informale, offrendo un ambiente versatile adatto a diverse esigenze.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/brugnera.md"
+    }
+  ]
+}

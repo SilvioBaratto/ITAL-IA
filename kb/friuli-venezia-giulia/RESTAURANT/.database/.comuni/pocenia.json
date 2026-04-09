@@ -1,0 +1,63 @@
+{
+  "comune_name": "Pocenia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pocenia.md",
+  "extracted_at": "2026-04-09T11:11:29.124Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Paradiso (località Paradiso di Pocenia)",
+      "address": "Via Sant’Ermacora, 1 – 33050 Paradiso di Pocenia (UD)",
+      "website_url": "http://www.trattoriaparadiso.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Paradiso%20(localit%C3%A0%20Paradiso%20di%20Pocenia)%2C%20Via%20Sant%E2%80%99Ermacora%2C%201%20%E2%80%93%2033050%20Paradiso%20di%20Pocenia%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Al Paradiso è il punto di riferimento gastronomico di Pocenia, gestito dalla stessa famiglia da oltre 50 anni. Propone cucina friulana reinterpretata in chiave contemporanea e si distingue per l’atmosfera calda, l’ambiente elegante con il tipico fogolâr e un servizio curato. Il menu valorizza antipasti, primi e carni della tradizione friulana, spesso con piatti fuori carta legati alla stagionalità e alle materie prime locali.",
+      "comune_name": "Pocenia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pocenia.md"
+    },
+    {
+      "name": "Agriturismo Domenico Fraccaroli B&B / Locanda Fraccaroli (Paradiso di Pocenia)",
+      "address": "Via Sant’Ermacora, 16 – 33050 Pocenia (UD)",
+      "website_url": "http://www.domenicofraccaroli.com/content/agriturismo-e-bed-breakfast-locanda-fraccaroli",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Domenico%20Fraccaroli%20B%26B%20%2F%20Locanda%20Fraccaroli%20(Paradiso%20di%20Pocenia)%2C%20Via%20Sant%E2%80%99Ermacora%2C%2016%20%E2%80%93%2033050%20Pocenia%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Domenico Fraccaroli unisce ospitalità rurale nelle campagne di Pocenia e un dichiarato servizio di ristorazione. Ideale per un’esperienza immersa nel verde con possibilità di degustare piatti locali, offre un approccio informale dove la cena si integra con il soggiorno. Il menù e i dettagli sui piatti sono da verificare contattando direttamente la struttura, che propone spesso anche abbinamenti con prodotti vinicoli del territorio.",
+      "comune_name": "Pocenia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pocenia.md"
+    },
+    {
+      "name": "Antica Locanda Fraccaroli",
+      "address": "Via Ippolito Nievo, 1 – 33050 Pocenia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Locanda%20Fraccaroli%2C%20Via%20Ippolito%20Nievo%2C%201%20%E2%80%93%2033050%20Pocenia%20(UD)",
+      "image_url": null,
+      "description": "Antica Locanda Fraccaroli rappresenta una tipica locanda di campagna con servizio di ristorazione, spesso considerata un’emanazione della Locanda/Agriturismo Fraccaroli. È adatta sia per una sosta gastronomica che per chi cerca ospitalità, in un contesto rurale tranquillo. I dettagli sul menu sono da chiedere direttamente, ma la struttura conferma la presenza della cucina nel proprio servizio.",
+      "comune_name": "Pocenia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pocenia.md"
+    },
+    {
+      "name": "Bar – Trattoria alla Passeggiata (Burlon Luciano)",
+      "address": "Via Bassi, 39 – 33050 Pocenia (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20%E2%80%93%20Trattoria%20alla%20Passeggiata%20(Burlon%20Luciano)%2C%20Via%20Bassi%2C%2039%20%E2%80%93%2033050%20Pocenia%20(UD)",
+      "image_url": null,
+      "description": "Bar – Trattoria alla Passeggiata è una classica trattoria-bar di paese, apprezzata per la sua informalità e le proposte gastronomiche semplici e genuine. È un luogo di ritrovo per gli abitanti e adatto a chi cerca pasti concreti senza cerimonie, con piatti del giorno, carni, panini e taglieri. I menu e gli orari vanno verificati telefonicamente, ma è un punto di riferimento quotidiano della comunità locale.",
+      "comune_name": "Pocenia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pocenia.md"
+    },
+    {
+      "name": "Agriturismo Ai Laghi",
+      "address": "Via Casali Nardon, 1 – 33050 Pocenia (UD)",
+      "website_url": "http://atesi.it/agriturismo.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Ai%20Laghi%2C%20Via%20Casali%20Nardon%2C%201%20%E2%80%93%2033050%20Pocenia%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Ai Laghi è conosciuto come struttura di ospitalità rurale con appartamenti e offre soprattutto il servizio di colazione su richiesta. Pur non avendo una vera ristorazione aperta al pubblico per pranzo o cena, è utile a chi cerca un alloggio a Pocenia con una minima esperienza gastronomica. Il servizio ristorante per pasti principali non è confermato.",
+      "comune_name": "Pocenia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pocenia.md"
+    }
+  ]
+}

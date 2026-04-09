@@ -1,0 +1,107 @@
+{
+  "comune_name": "Brugnera",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md",
+  "extracted_at": "2026-04-09T10:35:23.855Z",
+  "pois": [
+    {
+      "name": "Villa Varda",
+      "address": "San Cassiano di Livenza, frazione di Brugnera — Via Villa Varda, 7",
+      "website_url": "https://www.villavarda.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Varda%2C%20San%20Cassiano%20di%20Livenza%2C%20frazione%20di%20Brugnera%20%E2%80%94%20Via%20Villa%20Varda%2C%207",
+      "image_url": null,
+      "description": "Villa Varda è il più importante monumento di Brugnera, situato in uno scenografico parco di circa 18 ettari lungo il fiume Livenza. La villa ha origini nel XV secolo e combina architettura veneta con un parco all'inglese di notevole pregio botanico. Il complesso comprende cappella, aranciera, mausoleo familiare e altre architetture storiche; è stato restaurato tra il 2016 e il 2017 e funge sia da parco comunale che da location cinematografica.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Palazzo dei Conti di Porcia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20dei%20Conti%20di%20Porcia%2C%20Brugnera",
+      "image_url": null,
+      "description": "Il Palazzo dei Conti di Porcia sorge sui resti di uno dei manieri medievali più antichi della zona e testimonia il potere delle famiglie nobiliari locali. L'edificio, in stile veneto del XVII secolo, fu costruito dopo la distruzione del castello originario nel 1220 ed è un referente storico e visivo fondamentale per il centro di Brugnera. Oggi di proprietà pubblica, non è visitabile all'esterno.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale dei Santi Giacomo e Nicolò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20dei%20Santi%20Giacomo%20e%20Nicol%C3%B2%2C%20Brugnera",
+      "image_url": null,
+      "description": "La chiesa parrocchiale dei Santi Giacomo e Nicolò è il principale luogo di culto di Brugnera, le cui origini sono anteriori al XVI secolo. L'edificio, consacrato nel 1862 dopo il trasferimento della parrocchialità, riveste un ruolo centrale nella vita religiosa della comunità e si distingue per la sua sobria architettura veneto-friulana.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Pieve di San Michele Arcangelo (Maron)",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65471/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20San%20Michele%20Arcangelo%20(Maron)%2C%20Brugnera",
+      "image_url": null,
+      "description": "La pieve di San Michele Arcangelo, costruita tra il 1720 e il 1774, è la chiesa principale della frazione di Maron ed è uno degli edifici sacri più rilevanti del comune. L'interno conserva il fonte battesimale del 1537, altari barocchi e opere d'arte. Il campanile, eretto nel 1790, completa il profilo del luogo, ricco di storia e arte.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Chiesa di Santa Margherita (Tamai)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Margherita%20(Tamai)%2C%20Brugnera",
+      "image_url": null,
+      "description": "La chiesa di Santa Margherita è il principale luogo religioso della frazione di Tamai, con origini medievali e una struttura attuale di epoca moderna. Situata nel cuore del borgo rurale, rappresenta un punto di riferimento spirituale e identitario per la comunità locale, profondamente legata alle tradizioni agricole della zona.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Cappella Mazzoleni in Villa Varda",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Mazzoleni%20in%20Villa%20Varda%2C%20Brugnera",
+      "image_url": null,
+      "description": "Situata nel parco di Villa Varda, la cappella Mazzoleni fu fatta erigere da Fabio Mazzoleni nel 1670 come luogo di sepoltura familiare. Presenta caratteristiche neogotiche dovute a successivi rimaneggiamenti e aggiunge una dimensione spirituale e storica al complesso della villa. È visitabile durante le visite al parco comunale.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Torre Merlata e Ghiacciaia di Villa Varda",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre%20Merlata%20e%20Ghiacciaia%20di%20Villa%20Varda%2C%20Brugnera",
+      "image_url": null,
+      "description": "Nel parco di Villa Varda si trova la ghiacciaia, edificio utilizzato originariamente per la conservazione del ghiaccio e rimaneggiato nel 1932 con l'aggiunta di una torre merlata. Questa struttura, dallo stile pittoresco e romantico, riflette il gusto ottocentesco per i parchi storici ed è visitabile all'interno del percorso comunale di Villa Varda.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Tomba del Generale Federico Morozzo della Rocca (Cimitero di Tamai)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tomba%20del%20Generale%20Federico%20Morozzo%20della%20Rocca%20(Cimitero%20di%20Tamai)%2C%20Brugnera",
+      "image_url": null,
+      "description": "La tomba del generale Federico Morozzo della Rocca, Medaglia d'Oro al Valor Militare, si trova nel cimitero di Tamai. Memoria dell'eroe della Prima Guerra Mondiale e protagonista della difesa del Monte Cengio, il monumento rappresenta un luogo di raccoglimento e memoria storica legato alla Grande Guerra.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    },
+    {
+      "name": "Il Fiume Livenza — Confine Storico e Paesaggio Identitario",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Fiume%20Livenza%20%E2%80%94%20Confine%20Storico%20e%20Paesaggio%20Identitario%2C%20Brugnera",
+      "image_url": null,
+      "description": "Il fiume Livenza è un elemento centrale del paesaggio e della storia di Brugnera, fungendo per secoli da confine politico e culturale tra Trevigiano e Friuli Occidentale. Caratterizzato da rive boscose e scorci naturalistici, il fiume e il suo ponte offrono uno dei panorami simbolo del comune e custodiscono la memoria degli eventi storici che hanno segnato la zona.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/brugnera.md"
+    }
+  ]
+}

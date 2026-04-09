@@ -1,0 +1,85 @@
+{
+  "comune_name": "Sedegliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md",
+  "extracted_at": "2026-04-09T11:19:24.259Z",
+  "pois": [
+    {
+      "name": "Antica Trattoria \"Alle Oche\"",
+      "address": "Via Roma, Sedegliano (UD) — 33039",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20%22Alle%20Oche%22%2C%20Via%20Roma%2C%20Sedegliano%20(UD)%20%E2%80%94%2033039",
+      "image_url": null,
+      "description": "L'Antica Trattoria \"Alle Oche\" rappresenta un punto di riferimento storico di Sedegliano, situata nel centro del paese. Il locale offre una cucina tradizionale friulana genuina, con piatti stagionali come frico con patate e Montasio DOP, musetto con brovada, cjarsons e polenta fatta in casa. L'atmosfera calda e conviviale richiama le trattorie di paese frequentate da famiglie e abitanti locali.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    },
+    {
+      "name": "Ca Dal Pape",
+      "address": "Via Provinciale, 12 — Turrida di Sedegliano (UD), 33039",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca%20Dal%20Pape%2C%20Via%20Provinciale%2C%2012%20%E2%80%94%20Turrida%20di%20Sedegliano%20(UD)%2C%2033039",
+      "image_url": null,
+      "description": "Ca Dal Pape è una storica osteria-ristorante situata sulla via principale della frazione di Turrida. Aperto fin dal mattino, propone una cucina casalinga friulana che privilegia piatti come minestre di fagioli, cjalçons, polenta taragna e arrosti di maiale, accompagnati da vini DOC della regione. Offre sia la tipica atmosfera di bar di paese sia la convivialità della ristorazione tradizionale.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    },
+    {
+      "name": "Ostarie \"Vecjo Friul 1901\"",
+      "address": "Via Battiferro, Rivis di Sedegliano (UD) — 33039",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostarie%20%22Vecjo%20Friul%201901%22%2C%20Via%20Battiferro%2C%20Rivis%20di%20Sedegliano%20(UD)%20%E2%80%94%2033039",
+      "image_url": null,
+      "description": "Fondata nel 1901, l'Ostarie \"Vecjo Friul 1901\" è un'autentica osteria storica che preserva la tradizione gastronomica friulana tramite piatti classici come frico, polenta, cjarsons antichi, goulash e musetto con brovada. L'ambiente custodisce memorie e arredi della civiltà contadina, ponendosi come luogo d'incontro per la comunità e amanti della cucina locale. La cantina offre esclusivamente vini friulani.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    },
+    {
+      "name": "Alle Sorelle",
+      "address": "Via Nazionale, Rivis di Sedegliano (UD) — 33039",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alle%20Sorelle%2C%20Via%20Nazionale%2C%20Rivis%20di%20Sedegliano%20(UD)%20%E2%80%94%2033039",
+      "image_url": null,
+      "description": "Alle Sorelle è una bar-osteria di comunità condotta secondo la tradizione familiare friulana, situata lungo la principale via di Rivis. Il locale offre una cucina stagionale autentica, e rappresenta un punto di riferimento per paesani, lavoratori e gruppi che si ritrovano soprattutto nei fine settimana e durante le sagre. L'atmosfera è informale e accogliente.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    },
+    {
+      "name": "Agriturismo \"La di Mariute\"",
+      "address": "Piazza Camillo Benso Conte di Cavour, Coderno di Sedegliano (UD) — 33039",
+      "website_url": "https://www.ladimariute.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20%22La%20di%20Mariute%22%2C%20Piazza%20Camillo%20Benso%20Conte%20di%20Cavour%2C%20Coderno%20di%20Sedegliano%20(UD)%20%E2%80%94%2033039",
+      "image_url": null,
+      "description": "L'Agriturismo \"La di Mariute\" è un country resort e ristorante situato nel centro di Coderno, noto per la sua ospitalità rurale e per la proposta di cucina friulana autentica. Dispone di spazi per cerimonie, alloggi sia in hotel che nell'edificio rustico originale, e un ristorante che serve frico, polenta, cjarsons e carni locali. Il locale è ideale sia per eventi che per chi cerca un'esperienza gastronomica tipica in campagna.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    },
+    {
+      "name": "Bar Pizzeria \"Da Amo\"",
+      "address": "Via Trieste, Coderno di Sedegliano (UD) — 33039",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Pizzeria%20%22Da%20Amo%22%2C%20Via%20Trieste%2C%20Coderno%20di%20Sedegliano%20(UD)%20%E2%80%94%2033039",
+      "image_url": null,
+      "description": "Il Bar Pizzeria \"Da Amo\" è il locale di quartiere informale di Coderno, dove si possono gustare pizze tradizionali anche con ingredienti friulani come speck e formaggio locale. L'ambiente familiare lo rende il ritrovo per bambini, adulti e gruppi durante il fine settimana. Oltre alla pizzeria, sono offerti birre alla spina e aperitivi, mantenendo una tipica atmosfera conviviale di paese.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    },
+    {
+      "name": "Ca di Poete",
+      "address": "SP39, Grions di Sedegliano (UD) — 33039",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca%20di%20Poete%2C%20SP39%2C%20Grions%20di%20Sedegliano%20(UD)%20%E2%80%94%2033039",
+      "image_url": null,
+      "description": "Ca di Poete è un ristorante-locanda di campagna situato lungo la Strada Provinciale 39 nella frazione di Grions. Il locale propone cucina friulana di campagna, con pasta fatta in casa, arrosti, brasati, torte rustiche e piatti stagionali. L'ambiente rurale e l'architettura tradizionale creano un'atmosfera accogliente e tipica della pianura friulana.",
+      "comune_name": "Sedegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sedegliano.md"
+    }
+  ]
+}

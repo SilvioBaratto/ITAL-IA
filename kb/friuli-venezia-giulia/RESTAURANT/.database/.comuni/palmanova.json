@@ -1,0 +1,129 @@
+{
+  "comune_name": "Palmanova",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md",
+  "extracted_at": "2026-04-09T11:10:31.979Z",
+  "pois": [
+    {
+      "name": "Al Convento",
+      "address": "Via Borgo Aquileia 10, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Convento%2C%20Via%20Borgo%20Aquileia%2010%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Al Convento è un elegante ristorante situato in un edificio storico del XV secolo, dove tradizione friulana e ricerca gastronomica contemporanea si incontrano. Propone piatti tipici realizzati con ingredienti locali, tra cui paste fresche fatte in casa e specialità di pesce dell'Adriatico, accompagnate da una ricca selezione di vini regionali. L'atmosfera raffinata ma accogliente, il servizio cortese e l'opzione di seating all'aperto rendono l'esperienza particolarmente gradevole. I prezzi sono medio-alti, con piatti che variano tra i 15 e i 30 euro.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Osteria Campana d'Oro",
+      "address": "Via Borgo Udine 27, 33057 Palmanova (UD)",
+      "website_url": "http://www.osteriacampanadoro.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Campana%20d'Oro%2C%20Via%20Borgo%20Udine%2027%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria Campana d'Oro, attiva dal 1858, è rinomata per la cucina friulana fatta in casa e la sua atmosfera di locanda storica. Il menu offre specialità di carne e pesce, tra cui i celebri cjarsons e il brodet di pesce, oltre a polenta in diverse varianti. Gestita dalla stessa famiglia da oltre 35 anni, è apprezzata per il servizio informale e caloroso e vanta una valutazione di 4.4 stelle su TripAdvisor.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Osteria al Cappello",
+      "address": "Borgo Udine 44, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Cappello%2C%20Borgo%20Udine%2044%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria al Cappello, nel centro storico di Palmanova, offre un ambiente intimo e accogliente improntato all'autenticità della cucina friulana e italiana. È rinomata per il frico con formaggio Montasio e patate, nonché per il goulash ispirato alle ricette asburgiche. L'atmosfera è famigliare e il servizio rapido e cordiale, con prezzi contenuti adatti a pranzi e cene informali.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Al Gambero Pizzeria Trattoria",
+      "address": "Via Scamozzi 2, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Gambero%20Pizzeria%20Trattoria%2C%20Via%20Scamozzi%202%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Fondata nel 1964, Al Gambero è una pizzeria trattoria che unisce qualità costante e ambiente informale. Il menu spazia dalle pizze cotte in forno tradizionale a primi e secondi di mare e terra, supportati da una selezione di vini curata. L'ampiezza del locale e il servizio efficiente lo rendono ideale sia per la clientela abituale sia per chi è di passaggio; i prezzi sono accessibili e il locale gode di una reputazione consolidata.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Il Melograno — Naturalmente Buono",
+      "address": "Contrada Villachiara 34, 33057 Palmanova (UD)",
+      "website_url": "http://www.ilmelograno.online",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Melograno%20%E2%80%94%20Naturalmente%20Buono%2C%20Contrada%20Villachiara%2034%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Il Melograno è una pizzeria attenta alla sostenibilità, specializzata in impasti a lunga fermentazione e opzioni gluten-free, approvata dall'AIC. Oltre alle circa 50 varianti di pizza, il menu include piatti mediterranei reinterpretati con materie prime locali e naturali. L'atmosfera è moderna e accogliente, ideale anche per chi ha esigenze alimentari particolari.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "La Tavernetta",
+      "address": "Via Cavour 7, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tavernetta%2C%20Via%20Cavour%207%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Dal 1962 La Tavernetta è l'esempio dell'osteria friulana autentica, fondata sulla cucina casalinga, convivialità e atmosfera genuina. Tra i piatti tipici spiccano herring e seppie in umido, norcinerie e formaggi stagionati, serviti in un locale dall'ambiente familiare dominato dal tradizionale fogolâr sempre acceso in inverno. Riconosciuto dal Comitato Friulano Difesa Osterie, resta un punto di riferimento legato alla memoria gastronomica del territorio.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Da Baffo — Ristorante, Braceria e Pizzeria",
+      "address": "Via Borgo Cividale 30, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Baffo%20%E2%80%94%20Ristorante%2C%20Braceria%20e%20Pizzeria%2C%20Via%20Borgo%20Cividale%2030%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Da Baffo offre una ristorazione versatile, specializzata in carne alla brace di alta qualità, pizze cotte in forno tradizionale e piatti di pesce. Le porzioni sono abbondanti e i prezzi corretti, mentre l'ambiente è famigliare e informale. Il locale si adatta bene a diverse esigenze, sia per la clientela locale che per i visitatori, garantendo un servizio attento e cortese.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Ai Due Delfini",
+      "address": "Borgo Aquileia 26, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Ai%20Due%20Delfini%2C%20Borgo%20Aquileia%2026%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Fondata nel 1984, Ai Due Delfini è una pizzeria trattoria attenta alle esigenze nutrizionali, con pizze preparate anche con farine di soia e kamut e cucina flessibile a base di carne e pesce. Il locale, gestito con cura da Nicola e Carmela, dispone anche di camere per gli ospiti, risultando ideale per soggiorni nel centro storico. Apprezzato per l'ambiente informale, ha un ranking di #7 su 31 ristoranti a Palmanova su TripAdvisor.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Caffetteria Torinese",
+      "address": "Piazza Grande 9, 33057 Palmanova (UD)",
+      "website_url": "http://www.caffetteriatorinese.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffetteria%20Torinese%2C%20Piazza%20Grande%209%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Caffetteria Torinese, fondata nel 1938, è stata premiata come Miglior Bar d'Italia ed è oggi famosa per la sua proposta gastronomica di alta qualità che comprende vini selezionati, carni e pesce crudi, formaggi Slow Food e prodotti freschi. Oltre a essere un bar, funziona come enoteca, wine bar e gourmet shop. L'ambiente elegante e la costante ricerca della qualità la distinguono nel panorama locale.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "Le Zagare",
+      "address": "Borgo Udine 21, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Zagare%2C%20Borgo%20Udine%2021%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "Le Zagare è un'enoteca e cicchetteria che abbina una selezione accurata di vini a snack e stuzzichini di qualità, tra cui focacce gourmet, tartine e taglieri di formaggi e salumi. Il locale, accogliente e rustico, offre frico sia da asporto che da consumare sul posto, risultando perfetto per pranzi veloci, aperitivi e spuntini in compagnia. L'orario esteso lo rende un punto di riferimento durante tutta la giornata.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    },
+    {
+      "name": "La Filanda",
+      "address": "Piazza Grande 11, 33057 Palmanova (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Filanda%2C%20Piazza%20Grande%2011%2C%2033057%20Palmanova%20(UD)",
+      "image_url": null,
+      "description": "La Filanda è un raffinato ristorante situato direttamente su Piazza Grande, specializzato in cucina italiana con ingredienti locali di alta qualità. L'ambiente elegante e il servizio attento ne fanno una scelta privilegiata per cene importanti e pranzi di lavoro. Il menu combina sapori tradizionali e rivisitazioni contemporanee, offrendo un'esperienza gastronomica curata nel cuore storico di Palmanova.",
+      "comune_name": "Palmanova",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palmanova.md"
+    }
+  ]
+}

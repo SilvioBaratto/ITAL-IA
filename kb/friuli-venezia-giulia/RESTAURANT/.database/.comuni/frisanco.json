@@ -1,0 +1,30 @@
+{
+  "comune_name": "Frisanco",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/frisanco.md",
+  "extracted_at": "2026-04-09T11:03:29.163Z",
+  "pois": [
+    {
+      "name": "Osteria da Cippi",
+      "address": "Borgo Valdestali 22, 33080 Frisanco (PN)",
+      "website_url": "https://www.osteriadacippi.it/en/home",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Cippi%2C%20Borgo%20Valdestali%2022%2C%2033080%20Frisanco%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria da Cippi è un piccolo e raffinato ristorante immerso nel borgo di Valdestali, riconosciuto dalla Guida Michelin per la sua autentica cucina carnica stagionale. Con soli 8 coperti in uno chalet di montagna, propone un'esperienza gastronomica esclusivamente su prenotazione, focalizzata su ingredienti locali selvaggi e piatti tipici reinterpretati dalla chef Nazzarena Del Fabbro. Il menù degustazione varia secondo stagione e include specialità come la Pitina IGP, gnocchi, cjarsons e formaggi di malga. L'atmosfera è intima e conviviale, per un'immersione profonda nella tradizione culinaria delle valli friulane.",
+      "comune_name": "Frisanco",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/frisanco.md"
+    },
+    {
+      "name": "Albergo Ristorante Lis Aganis",
+      "address": "Borgo Fornasatte 1, Frisanco (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Lis%20Aganis%2C%20Borgo%20Fornasatte%201%2C%20Frisanco%20(PN)",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Lis Aganis, situato nel centro di Frisanco, offre ospitalità in hotel 2 stelle e ristorazione tipica friulana e carnica. Il ristorante è aperto sia agli ospiti della struttura che ai visitatori esterni, con un'atmosfera informale e accogliente ideale per famiglie e gruppi. La posizione è strategica per esplorare le valli circostanti, e la cucina propone piatti della tradizione locale in un contesto accessibile. La struttura dispone anche di giardino, terrazza panoramica e accetta animali domestici.",
+      "comune_name": "Frisanco",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/frisanco.md"
+    }
+  ]
+}

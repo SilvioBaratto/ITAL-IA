@@ -1,0 +1,74 @@
+{
+  "comune_name": "Sesto al Reghena",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md",
+  "extracted_at": "2026-04-09T11:19:39.188Z",
+  "pois": [
+    {
+      "name": "Ristorante Abate Ermanno — Hotel In Sylvis",
+      "address": "Via Foro, Sesto al Reghena (PN), 33079",
+      "website_url": "https://www.hotelinsylvis.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Abate%20Ermanno%20%E2%80%94%20Hotel%20In%20Sylvis%2C%20Via%20Foro%2C%20Sesto%20al%20Reghena%20(PN)%2C%2033079",
+      "image_url": null,
+      "description": "Il Ristorante Abate Ermanno rappresenta l'eccellenza gastronomica di Sesto al Reghena ed è situato all'interno dell'elegante Hotel In Sylvis, vicino all'abbazia medievale. Offre una cucina innovativa firmata dalla Chef Vania Cesco, che reinterpreta le specialità friulane e venete con ingredienti locali e presentazioni gourmet, tra cui orzotto allo sclopit, raviolacci ai carciofi e specialità di pesce. L'ambiente raffinato è ideale per eventi speciali e romantici, e la carta vini include le etichette locali della Cantina Abate Ermanno.",
+      "comune_name": "Sesto al Reghena",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md"
+    },
+    {
+      "name": "Bar Trattoria Centrale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Centrale%2C%20Sesto%20al%20Reghena",
+      "image_url": null,
+      "description": "La Bar Trattoria Centrale è un punto di riferimento nel centro del borgo grazie alla sua cucina regionale friulana semplice e familiare. Il locale offre piatti genuini come pasta fatta in casa, frico con polenta e zuppe casalinghe, il tutto in un'atmosfera autentica e senza fronzoli. È particolarmente frequentato dai residenti e dalle famiglie, soprattutto la domenica a pranzo.",
+      "comune_name": "Sesto al Reghena",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md"
+    },
+    {
+      "name": "Al Grappolo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Grappolo%2C%20Sesto%20al%20Reghena",
+      "image_url": null,
+      "description": "Al Grappolo è un locale nel territorio comunale noto per la cucina italiana e per la pizzeria, ideale per cene informali in famiglia o tra amici. La proposta comprende pizze preparate con ingredienti di qualità e piatti classici in un ambiente conviviale. Il nome richiama il mondo del vino, molto rappresentativo della zona DOC Friuli Grave.",
+      "comune_name": "Sesto al Reghena",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md"
+    },
+    {
+      "name": "Calderon",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Calderon%2C%20Sesto%20al%20Reghena",
+      "image_url": null,
+      "description": "Il Calderon è un ristorante di cucina regionale situato nella frazione di Stalis/Versiola, celebre per i piatti della tradizione friulana come carni grigliate, salumi, pasta fatta in casa e formaggi tipici. Il nome fa riferimento al tradizionale calderone della cucina contadina. È un luogo di incontro importante per la comunità locale e per chi vuole assaporare la cucina rurale del territorio in un ambiente autentico.",
+      "comune_name": "Sesto al Reghena",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md"
+    },
+    {
+      "name": "La Stazione — Ristorante · Pizzeria · Hotel",
+      "address": "Via Stazione 1, Sesto al Reghena (PN) — Frazione Casette/Venchiaredo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Stazione%20%E2%80%94%20Ristorante%20%C2%B7%20Pizzeria%20%C2%B7%20Hotel%2C%20Via%20Stazione%201%2C%20Sesto%20al%20Reghena%20(PN)%20%E2%80%94%20Frazione%20Casette%2FVenchiaredo",
+      "image_url": null,
+      "description": "La Stazione è una struttura polifunzionale accanto alla stazione ferroviaria nella frazione Casette/Venchiaredo, che offre ristorazione, pizzeria e alloggio. Il locale presenta un menù vario composto da pizze, primi e secondi di carne o pesce, il tutto in un contesto informale e accogliente. È storicamente un punto d'incontro per viaggiatori e residenti, e mantiene un ruolo centrale nella vita sociale della frazione.",
+      "comune_name": "Sesto al Reghena",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md"
+    },
+    {
+      "name": "Hostaria al Giardino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hostaria%20al%20Giardino%2C%20Sesto%20al%20Reghena",
+      "image_url": null,
+      "description": "Situata nella frazione di Vissignano, l'Hostaria al Giardino propone cucina regionale friulana in un ambiente immerso nel verde. Spiccano piatti tipici come frico, cjarsons, pasta fresca con ragù e funghi porcini, accompagnati da vini locali della DOC Friuli Grave. Il locale, con spazio esterno ombreggiato, è particolarmente adatto a pranzi domenicali all'insegna della tradizione e della convivialità rurale.",
+      "comune_name": "Sesto al Reghena",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sesto-al-reghena.md"
+    }
+  ]
+}

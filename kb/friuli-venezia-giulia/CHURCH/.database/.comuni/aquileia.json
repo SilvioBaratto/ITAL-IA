@@ -1,0 +1,118 @@
+{
+  "comune_name": "Aquileia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md",
+  "extracted_at": "2026-04-09T10:18:16.317Z",
+  "pois": [
+    {
+      "name": "Basilica Patriarcale di Santa Maria Assunta",
+      "address": null,
+      "website_url": "https://www.basilicadiaquileia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20Patriarcale%20di%20Santa%20Maria%20Assunta%2C%20Aquileia",
+      "image_url": null,
+      "description": "La Basilica Patriarcale di Santa Maria Assunta è il principale monumento religioso di Aquileia e offre uno straordinario esempio di stratificazione architettonica paleocristiana, romanica e gotica. Celebre per il suo vastissimo pavimento musivo del IV secolo, il più grande ciclo di mosaici paleocristiani dell'occidente, la basilica racchiude numerose opere d’arte, tra cui la Cripta degli Affreschi, la Cripta degli Scavi e antichi sarcofagi. Rappresenta uno dei luoghi chiave della storia della Chiesa norditaliana e fa parte del Patrimonio Mondiale UNESCO dal 1998.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Battistero Patriarcale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Battistero%20Patriarcale%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Battistero Patriarcale, situato a nord della basilica, risale al V-VI secolo e presenta una pianta ottagonale, simbolo della resurrezione. All’interno si trova la vasca battesimale originale per immersione, con resti di mosaici antichi. Rappresenta una preziosa testimonianza del rito battesimale tardoantico e sottolinea il ruolo centrale di Aquileia nella diffusione della liturgia cristiana.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Cripta degli Affreschi (Cripta della Basilica Patriarcale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cripta%20degli%20Affreschi%20(Cripta%20della%20Basilica%20Patriarcale)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Situata sotto il presbiterio della basilica, la Cripta degli Affreschi è uno spazio romanico decorato con un ciclo pittorico bizantino del XII secolo. Gli affreschi illustrano le storie dei santi Ermacora e Fortunato e scene della Passione di Cristo, rappresentando una delle più importanti testimonianze della pittura friulana romanica. Il ciclo è rilevante anche per la sua qualità artistica e per i legami iconografici con l'area bizantina.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Cripta degli Scavi (sotto la Basilica Patriarcale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cripta%20degli%20Scavi%20(sotto%20la%20Basilica%20Patriarcale)%2C%20Aquileia",
+      "image_url": null,
+      "description": "La Cripta degli Scavi, accessibile dalle navate della basilica, conserva su diversi livelli i pavimenti musivi delle prime fasi costruttive cristiane, dal III al V secolo. Qui sono visibili mosaici decorativi stratificati che documentano la presenza di luoghi di culto cristiano ad Aquileia già in epoca pre-costantiniana, conferendo alla città un ruolo di primo piano nella storia del cristianesimo occidentale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Aula Teodoriana Sud (Oratorio dei Pagani)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Aula%20Teodoriana%20Sud%20(Oratorio%20dei%20Pagani)%2C%20Aquileia",
+      "image_url": null,
+      "description": "L’Aula Teodoriana Sud, detta anche Oratorio dei Pagani, fu realizzata tra il 313 e il 320 d.C. come parte del doppio complesso basilicale fondato dal vescovo Teodoro. Conserva resti di mosaici coevi alla basilica principale con scene di vita quotidiana e motivi cristiani. Oggi l’edificio è visitabile come parte del sito UNESCO, pur non essendo più usato per il culto.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Cappella dei Pagani (Nartece Teodoriano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20dei%20Pagani%20(Nartece%20Teodoriano)%2C%20Aquileia",
+      "image_url": null,
+      "description": "La Cappella dei Pagani si trova nel nartece che un tempo collegava l’Aula Nord e Sud della basilica teodoriana. Questo spazio era riservato ai catecumeni e penitenti e conserva resti musivi di grande importanza liturgica e iconografica. Il nartece evidenzia la complessa simbologia spaziale e decorativa della liturgia tardoantica cristiana aquileiese.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Mausoleo Paleocristiano di Via Giulia Augusta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mausoleo%20Paleocristiano%20di%20Via%20Giulia%20Augusta%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Mausoleo Paleocristiano di Via Giulia Augusta è parte di un gruppo di monumenti funerari cristiani rinvenuti lungo l’antica necropoli di Aquileia. Questi edifici sepolcrali, datati al IV–V secolo, mostrano il passaggio dall’architettura romana imperiale alle nuove simbologie cristiane, con decorazioni musive e pittoriche di soggetto sacro.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Sepolcreto Cristiano di Beligna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sepolcreto%20Cristiano%20di%20Beligna%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Sepolcreto Cristiano di Beligna, nella frazione omonima, è un importante complesso funerario paleocristiano risalente al IV–VII secolo. L’area ha restituito tombe, sarcofagi, iscrizioni bilingui e oggetti di corredo che provano la vitalità della comunità cristiana aquileiese anche fuori dal centro urbano. Il sito è significativo per tracciare la diffusione precoce del Cristianesimo nel territorio friulano.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Battista (loc. Monastero)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Battista%20(loc.%20Monastero)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Annessa all’ex monastero benedettino sul fiume Natissa, la Chiesa di San Giovanni Battista ha origini medievali ed è stata più volte ristrutturata nel corso dei secoli. Presenta una struttura semplice a navata unica e conserva affreschi murali di epoca antica. Attualmente ospita il Museo Paleocristiano e alcuni ambienti storici sono visitabili nel percorso museale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    },
+    {
+      "name": "Via Sacra e Cappelle Votive lungo la Via Giulia Augusta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Via%20Sacra%20e%20Cappelle%20Votive%20lungo%20la%20Via%20Giulia%20Augusta%2C%20Aquileia",
+      "image_url": null,
+      "description": "Lungo la Via Giulia Augusta, antica strada che unisce la basilica patriarcale al porto sul Natissa, si trovano piccole cappelle votive e cippi funerari di epoca tardoantica e medievale. Queste strutture conservano immagini religiose in affresco o rilievo che testimoniano la continuità del culto e l’importanza del pellegrinaggio ad Aquileia nel corso dei secoli.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aquileia.md"
+    }
+  ]
+}

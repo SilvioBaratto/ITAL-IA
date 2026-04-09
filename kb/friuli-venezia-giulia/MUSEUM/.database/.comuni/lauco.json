@@ -1,0 +1,74 @@
+{
+  "comune_name": "Lauco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md",
+  "extracted_at": "2026-04-09T10:49:42.760Z",
+  "pois": [
+    {
+      "name": "Santuario della Madonna di Trava — Raccolta di ex voto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20di%20Trava%20%E2%80%94%20Raccolta%20di%20ex%20voto%2C%20Lauco",
+      "image_url": null,
+      "description": "Il Santuario della Madonna di Trava, fondato nel 1660, rappresenta uno degli edifici di culto più suggestivi della Carnia. È noto per la raccolta di ex voto, manufatti e dipinti che raccontano la devozione popolare dal XVII al XX secolo. Il percorso verso il santuario è impreziosito da 14 mainette in tufo con affreschi della Via Crucis realizzati da Giovanni Fantoni. L'accesso è libero e il luogo offre un'esperienza etnografica in situ, non organizzata in forma museale.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md"
+    },
+    {
+      "name": "Tombe dei Pàgans — Sito Archeologico di Chiauians",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tombe%20dei%20P%C3%A0gans%20%E2%80%94%20Sito%20Archeologico%20di%20Chiauians%2C%20Lauco",
+      "image_url": null,
+      "description": "Le Tombe dei Pàgans sono tre tombe rupestri scavate nella roccia, datate tra il VI e VII secolo d.C., testimonianza dell'antichità dell'altopiano di Lauco e delle transizioni culturali della Carnia. Il sito archeologico si trova vicino a Chiauians ed è accessibile a piedi, rappresentando una meta d'interesse per appassionati di archeologia e storia locale. Non esistono infrastrutture museali permanenti e l'accesso è gratuito.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Tutti i Santi (Ognissanti)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Tutti%20i%20Santi%20(Ognissanti)%2C%20Lauco",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di Tutti i Santi, edificata nel XVIII secolo, è un punto di riferimento visivo e cultuale per Lauco. Conserva arredi sacri, pale d'altare e sculture lignee di valore storico-artistico, testimoniando la produzione artigianale locale tra Settecento e Ottocento. Pur non essendo un museo, costituisce una custode del patrimonio artistico e devozionale della comunità.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md"
+    },
+    {
+      "name": "Chiesa del Santo Nome di Maria — Trava",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20del%20Santo%20Nome%20di%20Maria%20%E2%80%94%20Trava%2C%20Lauco",
+      "image_url": null,
+      "description": "La Chiesa del Santo Nome di Maria, costruita nel XVI secolo, è il nucleo religioso della frazione di Trava e uno degli edifici più antichi di Lauco. Documenta l'architettura rurale carnica d’età moderna e forma insieme al vicino Palazzo Beorchia il cuore storico della frazione. L'accesso è libero nelle ore di apertura al culto.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md"
+    },
+    {
+      "name": "Palazzo Beorchia — Architettura Signorile Carnica",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Beorchia%20%E2%80%94%20Architettura%20Signorile%20Carnica%2C%20Lauco",
+      "image_url": null,
+      "description": "Edificato nel XVIII secolo, il Palazzo Beorchia rappresenta il più significativo esempio di architettura residenziale signorile nel territorio di Lauco. Caratterizzato da loggiati, portali in pietra e ampi saloni, il palazzo riflette modelli veneti importati nella montagna friulana. Pur non essendo aperto al pubblico come museo, è un importante riferimento per lo studio della società carnica moderna.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md"
+    },
+    {
+      "name": "Via Crucis in Lingua Friulana — Vinaio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Via%20Crucis%20in%20Lingua%20Friulana%20%E2%80%94%20Vinaio%2C%20Lauco",
+      "image_url": null,
+      "description": "La Via Crucis della frazione di Vinaio è un percorso devozionale realizzato interamente in lingua friulana, testimonianza rara dell’identità linguistica e religiosa locale. Si tratta di un documento di arte popolare religiosa e di storia del furlan, accessibile liberamente all'aperto e unico nel suo genere in Carnia.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lauco.md"
+    }
+  ]
+}

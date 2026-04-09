@@ -1,0 +1,129 @@
+{
+  "comune_name": "Chions",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md",
+  "extracted_at": "2026-04-09T10:39:10.510Z",
+  "pois": [
+    {
+      "name": "Torre Sbrojavacca (resti del Castello di Torrate) — Torrate",
+      "address": "via Udine",
+      "website_url": "https://web.archive.org/web/20160305030115/http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_715510461.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre%20Sbrojavacca%20(resti%20del%20Castello%20di%20Torrate)%20%E2%80%94%20Torrate%2C%20via%20Udine",
+      "image_url": null,
+      "description": "La Torre Sbrojavacca è l'unico elemento superstite del Castello di Torrate, antica fortezza militare medievale legata alla signoria degli Sbrojavacca, una delle famiglie più potenti del Friuli. Edificata probabilmente prima del XIII secolo, la torre in mattoni, di forma quadrata e alta circa 20 metri, emerge isolata nel paesaggio pianeggiante, circondata dai resti del fossato originario. È un suggestivo simbolo delle storiche contese feudali e delle trasformazioni architettoniche del territorio.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Centa medievale di Chions — Chions (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centa%20medievale%20di%20Chions%20%E2%80%94%20Chions%20(capoluogo)%2C%20Chions",
+      "image_url": null,
+      "description": "La centa medievale di Chions era un fortilizio rurale tipico del Friuli medioevale, citato già nel 1072 come presidio difensivo per la comunità. Alcune tracce della struttura originaria sono ancora identificabili nell'elevazione del terreno presso la chiesa parrocchiale, e il campanile attuale potrebbe riutilizzare una delle torri dell'antico recinto. La centa testimonia la presenza signorile della famiglia Panigai e la storia difensiva del villaggio.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Chiesa di San Giorgio Martire — Chions (capoluogo)",
+      "address": "Piazza Concordato",
+      "website_url": "http://www.upchions.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%20Martire%20%E2%80%94%20Chions%20(capoluogo)%2C%20Piazza%20Concordato",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giorgio Martire, il più importante edificio sacro del comune, ha origini nel XIII secolo e fu consacrata nel 1538. L'edificio attuale, con facciata ricostruita nel 1921 dall'architetto Antonio Marson, conserva al suo interno un prezioso ciclo di affreschi dal XVI al XVII secolo e una statua ottocentesca della Madonna Ausiliatrice. Il campanile potrebbe derivare da una torre della primitiva centa medioevale.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Oratorio di San Giuseppe — Chions (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Giuseppe%20%E2%80%94%20Chions%20(capoluogo)%2C%20Chions",
+      "image_url": null,
+      "description": "L'Oratorio di San Giuseppe fu costruito alla fine del Settecento dalla famiglia Rambaldini come cappella privata della vicina Villa Cossetti. L'edificio, di dimensioni raccolte, presenta semplici decorazioni murali e un altare in stucco, dominato da una statua lignea di San Giuseppe. Rappresenta un tipico esempio di cappella gentilizia friulana, oggi rilevante luogo di devozione locale.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Villa Cossetti — Chions (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Cossetti%20%E2%80%94%20Chions%20(capoluogo)%2C%20Chions",
+      "image_url": null,
+      "description": "Villa Cossetti è la residenza storica più rappresentativa di Chions, edificata agli inizi del XVIII secolo e successivamente ampliata. La struttura vanta una facciata in stile neoclassico e un impianto con corpo centrale e ali laterali, circondato da rustici destinati all’attività agricola. Appartenuta alle famiglie Rambaldini e Cossetti, fu dimora dell’organista e compositore Giovanni Battista Cossetti.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Villa Sbrojavacca e Parco Sbrojavacca — Villotta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Sbrojavacca%20e%20Parco%20Sbrojavacca%20%E2%80%94%20Villotta%2C%20Chions",
+      "image_url": null,
+      "description": "Villa Sbrojavacca, edificata nella seconda metà del XVII secolo dalla storica famiglia nobiliare, rappresenta uno degli ultimi esempi di architettura signorile del territorio. Gravemente danneggiata durante la Prima Guerra Mondiale e poi restaurata, è circondata da rustici isolati e dal Parco Sbrojavacca, un giardino storico che testimonia l’antico sistema insediativo della pianura friulana.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Chiesa di San Liberale — Villotta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Liberale%20%E2%80%94%20Villotta%2C%20Chions",
+      "image_url": null,
+      "description": "La Chiesa di San Liberale, eretta nel XVI secolo dalla famiglia Sbrojavacca, è uno degli edifici religiosi più significativi di Villotta. L’edificio si distingue per la facciata in laterizio a doppio spiovente con stemma nobiliare e per l’unica navata interna decorata con affreschi. Rappresenta un esempio di patronato nobiliare e di architettura tardogotica friulana.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo — Taiedo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Taiedo%2C%20Chions",
+      "image_url": null,
+      "description": "La Chiesa di Sant'Andrea Apostolo è la parrocchiale storica della frazione di Taiedo, costruita nel 1420 e consacrata l’anno successivo. Legata al giuspatronato della popolazione e del conte Sbrojavacca, ha subito vari rimaneggiamenti e mantiene un ruolo centrale nella vita religiosa e comunitaria di Taiedo. Dal 1986 è unita pastoralmente alla chiesa di San Giuliano Martire di Torrate.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Chiesa di San Giuliano Martire — Torrate",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giuliano%20Martire%20%E2%80%94%20Torrate%2C%20Chions",
+      "image_url": null,
+      "description": "La Chiesa di San Giuliano Martire, costruita nel 1332 e ricostruita nel 1661, è la più antica del territorio comunale secondo le fonti storiche. Un tempo inglobata nel castello degli Sbrojavacca e dipendente dall’Abbazia di Sesto al Reghena, presenta un suggestivo campanile merlato realizzato nel 1934 in stile neomedievale. Rimane un importante luogo di culto, oggi unito alla parrocchia di Taiedo.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Tracce della centuriazione romana — territorio comunale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tracce%20della%20centuriazione%20romana%20%E2%80%94%20territorio%20comunale%2C%20Chions",
+      "image_url": null,
+      "description": "Il territorio di Chions conserva ancora alcune delle tracce più leggibili della centuriazione romana, il reticolo di suddivisioni agrarie e stradali imposto da Roma nell’antico agro di Concordia Sagittaria. Questi antichi confini hanno condizionato l’assetto dei campi e delle strade rurali fino ai giorni nostri, testimoniando una stratificazione storica millenaria del paesaggio locale.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    },
+    {
+      "name": "Vecchia Stazione Ferroviaria di Chions-Azzano Decimo — Villotta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vecchia%20Stazione%20Ferroviaria%20di%20Chions-Azzano%20Decimo%20%E2%80%94%20Villotta%2C%20Chions",
+      "image_url": null,
+      "description": "I fabbricati della vecchia stazione ferroviaria \"Chions-Azzano Decimo\", ormai dismessa, sopravvivono a Villotta quale memoria materiale dell'antica linea San Vito al Tagliamento–Motta di Livenza. Gli edifici in laterizio, tipici dell’architettura ferroviaria di fine Ottocento e primo Novecento, richiamano il periodo di transizione della comunità contadina verso la modernità.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/chions.md"
+    }
+  ]
+}

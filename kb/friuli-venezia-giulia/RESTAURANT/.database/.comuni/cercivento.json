@@ -1,0 +1,52 @@
+{
+  "comune_name": "Cercivento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cercivento.md",
+  "extracted_at": "2026-04-09T10:57:30.560Z",
+  "pois": [
+    {
+      "name": "In Plàit - Libreria con Cucina e B&B",
+      "address": "Via di Sot, 51, Cercivento (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=In%20Pl%C3%A0it%20-%20Libreria%20con%20Cucina%20e%20B%26B%2C%20Via%20di%20Sot%2C%2051%2C%20Cercivento%20(UD)",
+      "image_url": null,
+      "description": "In Plàit è una libreria con cucina e bed & breakfast che fonde la passione per i libri con quella per la cucina locale reinterpretata. Inclusa nella Guida Slow Food dal 2006, offre un ambiente intimo dove i piatti della tradizione carnica vengono rivisitati con attenzione agli ingredienti locali e alle erbe spontanee. Il ristorante è ideale per chi cerca un'esperienza gastronomica autentica legata alla cultura del territorio.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cercivento.md"
+    },
+    {
+      "name": "Baita da Rico",
+      "address": "Monte Zoncolan, Sutrio (UD) - adiacente a Cercivento",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Baita%20da%20Rico%2C%20Monte%20Zoncolan%2C%20Sutrio%20(UD)%20-%20adiacente%20a%20Cercivento",
+      "image_url": null,
+      "description": "Baita da Rico è una storica baita alpina sullo Zoncolan, famosa per la cucina carnica autentica e la gestione familiare che si tramanda da generazioni. I piatti proposti spaziano da tagliatelle fatte in casa ai salumi e formaggi di alpeggio, con la celebre porchetta di Tony Scuf come specialità. L'atmosfera è informale e calorosa, perfetta per famiglie, con una splendida vista sulle valli circostanti; è tra i ristoranti più apprezzati della zona su TripAdvisor.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cercivento.md"
+    },
+    {
+      "name": "Pizzeria Ristorante Bar La Torate",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ristorante%20Bar%20La%20Torate%2C%20Cercivento",
+      "image_url": null,
+      "description": "La Torate è una pizzeria-ristorante-bar che propone specialità di pizze preparate con ingredienti selezionati, oltre a offrire piatti di ristorazione tradizionale. L'ambiente accogliente e la versatilità del locale lo rendono adatto sia per chi vuole provare qualcosa di diverso dalla cucina carnica sia per cene informali in compagnia.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cercivento.md"
+    },
+    {
+      "name": "Mister Zoncolan",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mister%20Zoncolan%2C%20Cercivento",
+      "image_url": null,
+      "description": "Mister Zoncolan è un bar-pizzeria-ristorante con una lunga tradizione familiare, situato nell'area dello Zoncolan vicino a Cercivento. Offre sia piatti tipici della cucina carnica di montagna sia specialità di pesce, rispecchiando la contemporaneità pur mantenendo il legame con la cucina locale di montagna.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cercivento.md"
+    }
+  ]
+}

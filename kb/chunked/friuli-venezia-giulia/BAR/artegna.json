@@ -1,0 +1,55 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/artegna.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Artegna",
+  "province": "UD",
+  "page_title": "Artegna",
+  "page_summary": "Guida ai bar principali di Artegna concentrati lungo Via Villa: Bar \"Da Luciano\", Bar Gardel e White Cat Caffè, ognuno con la propria identità e storia locale.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/artegna.md",
+  "processed_at": "2026-04-09T11:56:29.466Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/artegna__0",
+      "text": "### Bar \"Da Luciano\"\n\n**Indirizzo:** Via Villa, 116 – 33011 Artegna (UD)\n**Telefono:** 0432 987004\n\nIl Bar \"Da Luciano\" è un classico bar di paese che porta nel nome il ricordo del fondatore o del gestore storico del locale, come spesso accade nei piccoli centri del Friuli dove l'identità del bar coincide con quella di chi lo gestisce da anni. Oggi la conduzione è affidata a Monica Maranzana, che mantiene viva una tradizione di ospitalità genuina e familiare. Il locale si trova al civico 116 di Via Villa, cuore pulsante della vita quotidiana arteniese.\n\nDa Luciano è il tipico punto di ritrovo mattutino per i residenti: ci si ferma per un espresso veloce prima di andare al lavoro, oppure ci si siede per una colazione più rilassata nel fine settimana. La proposta è quella classica dei bar friulani — caffè, cappuccino, brioche, succhi e bibite — senza particolari pretese, ma con la qualità che ci si aspetta da un esercizio che conosce bene la propria clientela. L'atmosfera è quella calda e informale del bar di quartiere, dove ci si chiama per nome e le notizie del paese circolano velocemente.",
+      "metadata": {
+        "section_title": "Bar \"Da Luciano\"",
+        "links": [],
+        "addresses": [
+          "Via Villa, 116 – 33011 Artegna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/artegna__1",
+      "text": "### Bar Gardel\n\n**Indirizzo:** Via Villa, 44 – 33011 Artegna (UD)\n**Telefono:** 0432 987110 / 0432 583748\n\nIl Bar Gardel, gestito da Alessia Gardel, occupa una posizione centrale lungo Via Villa, al civico 44. Il cognome Gardel è un cognome tipicamente friulano, e la presenza della titolare nel nome stesso dell'esercizio sottolinea il carattere personale e familiare di questo locale, ben radicato nel tessuto sociale di Artegna.\n\nCon due numeri di telefono attivi — uno fisso e uno che suggerisce una linea alternativa o una seconda sede — il Bar Gardel è probabilmente tra i più frequentati del paese. In un comune di queste dimensioni, il bar diventa facilmente il luogo dove ci si incontra non solo per bere un caffè, ma anche per organizzare eventi locali, raccogliere informazioni e mantenere vivo il senso di comunità. L'orario tipico di questi locali friulani prevede un'apertura mattutina molto anticipata, spesso prima delle sette, per intercettare i lavoratori diretti verso Udine o Gemona, e un servizio che si protrae fino alla sera, con il rito dell'aperitivo accompagnato da qualche stuzzichino locale.",
+      "metadata": {
+        "section_title": "Bar Gardel",
+        "links": [],
+        "addresses": [
+          "Via Villa, 44 – 33011 Artegna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/artegna__2",
+      "text": "### White Cat Caffè\n\n**Indirizzo:** Via Villa, 110 – 33011 Artegna (UD)\n**Telefono / WhatsApp:** 388 0972274\n\nIl White Cat Caffè è il locale più recente e dall'identità più contemporanea tra quelli presenti ad Artegna. Il nome in inglese e l'uso di WhatsApp come canale di contatto principale segnalano una gestione più giovane e attenta alle nuove modalità di comunicazione. Classificato come bar ma con una vocazione anche verso la cucina italiana, il White Cat si distingue dai locali più tradizionali offrendo probabilmente una proposta gastronomica più ampia, che può includere panini, toast, piatti semplici o merende elaborate.\n\nSituato al civico 110 di Via Villa, praticamente adiacente al Bar \"Da Luciano\" (civico 116), il White Cat Caffè riflette un fenomeno comune in molti piccoli comuni friulani: la convivenza di locali tradizionali e di nuovi esercizi che cercano di rispondere a gusti e abitudini in evoluzione, in particolare tra i clienti più giovani. La presenza di foto del locale sulle piattaforme online suggerisce un ambiente curato, probabilmente con un arredamento più moderno rispetto ai classici bar di paese. Da qui si può fare colazione, sorseggiare un caffè o fermarsi per un pranzo veloce.",
+      "metadata": {
+        "section_title": "White Cat Caffè",
+        "links": [],
+        "addresses": [
+          "Via Villa, 110 – 33011 Artegna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

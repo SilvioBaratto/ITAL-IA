@@ -1,0 +1,30 @@
+{
+  "comune_name": "Artegna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/artegna.md",
+  "extracted_at": "2026-04-09T10:42:28.198Z",
+  "pois": [
+    {
+      "name": "Mostra Archeologica Permanente \"Castrum Artenia\"",
+      "address": "Municipio di Artegna, Piazza Marnico, 33011 Artegna (UD)",
+      "website_url": "http://www.comune.artegna.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mostra%20Archeologica%20Permanente%20%22Castrum%20Artenia%22%2C%20Municipio%20di%20Artegna%2C%20Piazza%20Marnico%2C%2033011%20Artegna%20(UD)",
+      "image_url": null,
+      "description": "La Mostra Archeologica Permanente \"Castrum Artenia\", allestita presso il Municipio di Artegna, espone reperti provenienti dagli scavi sul Colle di San Martino e documenta la storia locale dalla preistoria all'età medievale. In particolare, presenta importanti lastre di pietra altomedievali rinvenute nella Chiesa di Santo Stefano, risalenti almeno all'epoca carolingia, oltre a oggetti quotidiani, ceramiche e materiali architettonici. La mostra offre una panoramica completa sulla continuità insediativa e la funzione strategica del *castrum* di Artegna, rappresentando la principale istituzione culturale del paese.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/artegna.md"
+    },
+    {
+      "name": "Castello Savorgnan — Spazio Espositivo e Memoriale del Territorio",
+      "address": "Colle di San Martino, 33011 Artegna (UD)",
+      "website_url": "http://www.comune.artegna.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20Savorgnan%20%E2%80%94%20Spazio%20Espositivo%20e%20Memoriale%20del%20Territorio%2C%20Colle%20di%20San%20Martino%2C%2033011%20Artegna%20(UD)",
+      "image_url": null,
+      "description": "Il Castello Savorgnan, situato sulla sommità del Colle di San Martino, è uno storico fortilizio restaurato che ospita mostre temporanee e permanenti dedicati alla storia del territorio arteniese. Gli spazi espositivi approfondiscono la storia medievale del castello, le dominazioni friulane, la memoria del terremoto del 1976 e la tradizione ceramica locale. Il castello offre anche una vista panoramica e funge da luogo di narrazione storica e culturale per la comunità, oltre a collegarsi al patrimonio artistico delle chiese presenti nel complesso.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/artegna.md"
+    }
+  ]
+}

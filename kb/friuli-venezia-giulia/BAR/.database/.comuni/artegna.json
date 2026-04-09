@@ -1,0 +1,41 @@
+{
+  "comune_name": "Artegna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/artegna.md",
+  "extracted_at": "2026-04-09T10:01:33.092Z",
+  "pois": [
+    {
+      "name": "Bar \"Da Luciano\"",
+      "address": "Via Villa, 116 – 33011 Artegna (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar \"Da Luciano\" è un classico bar di paese situato nel cuore di Artegna e gestito oggi da Monica Maranzana. Il locale offre un ambiente genuino e familiare, tipico dei piccoli centri friulani, diventando punto di ritrovo mattutino per un caffè veloce o una colazione tranquilla nei fine settimana. La proposta è semplice ma di qualità: caffetteria, brioches, succhi e bibite, in un'atmosfera calda dove gli avventori sono accolti da un servizio attento e amichevole.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/artegna.md"
+    },
+    {
+      "name": "Bar Gardel",
+      "address": "Via Villa, 44 – 33011 Artegna (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Gestito da Alessia Gardel, Bar Gardel è uno dei punti di incontro più frequentati di Artegna, situato in posizione centrale lungo Via Villa. Il locale si caratterizza per l'accoglienza personale e il forte radicamento nella comunità locale. Qui si può fare colazione all'alba o fermarsi per l'aperitivo serale con stuzzichini tipici, in un ambiente che favorisce la socialità e l'organizzazione di eventi comunitari.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/artegna.md"
+    },
+    {
+      "name": "White Cat Caffè",
+      "address": "Via Villa, 110 – 33011 Artegna (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "White Cat Caffè è il bar più recente di Artegna, caratterizzato da uno stile moderno e da una gestione giovane e attenta alle nuove esigenze di comunicazione, come evidenziato dall’uso di WhatsApp. Oltre alla caffetteria classica, il locale offre anche proposte gastronomiche semplici e pranzi veloci, distinguendosi dalle formule più tradizionali dei bar vicini. L’ambiente è curato e attrattivo, specialmente per una clientela giovane e dinamica.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/artegna.md"
+    }
+  ]
+}

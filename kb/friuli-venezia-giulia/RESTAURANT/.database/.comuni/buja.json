@@ -1,0 +1,85 @@
+{
+  "comune_name": "Buja",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md",
+  "extracted_at": "2026-04-09T10:55:54.538Z",
+  "pois": [
+    {
+      "name": "I Primi Due - Osteria con Cucina",
+      "address": "Piazzetta Ganzitti 5, Buja",
+      "website_url": "http://iprimidue.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=I%20Primi%20Due%20-%20Osteria%20con%20Cucina%2C%20Piazzetta%20Ganzitti%205%2C%20Buja",
+      "image_url": null,
+      "description": "I Primi Due è un'osteria situata nel cuore di Buja, apprezzata per la sua cucina friulana autentica che unisce tradizione e innovazione. Il locale, guidato dal proprietario Ermes, propone piatti del territorio preparati con ingredienti locali selezionati e offre opzioni vegetariane e senza glutine. La fascia di prezzo è media, l'atmosfera è accogliente e il locale è accessibile anche a persone con disabilità. Le specialità includono cjarsons, frico con patate e carni alla griglia.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    },
+    {
+      "name": "Osteria Miami",
+      "address": "Via San Floreano 34, Buja",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Miami%2C%20Via%20San%20Floreano%2034%2C%20Buja",
+      "image_url": null,
+      "description": "Osteria Miami è un locale dall'atmosfera conviviale che propone cucina friulana tradizionale in un ambiente familiare e informale. Apprezzata sia dai residenti che dai visitatori, l'osteria si distingue per i suoi piatti casalinghi a base di ingredienti locali e stagionali e per un buon rapporto qualità-prezzo. È ideale per chi cerca autenticità e semplicità nel centro di Buja.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    },
+    {
+      "name": "Al Ladin",
+      "address": "Piazza di San Lorenzo 13, Buja",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Ladin%2C%20Piazza%20di%20San%20Lorenzo%2013%2C%20Buja",
+      "image_url": null,
+      "description": "Al Ladin si trova nel borgo storico sulla piazza principale di San Lorenzo e offre una splendida vista sulle Alpi friulane. Il ristorante propone cucina friulana autentica con particolare attenzione alle specialità di carne e piatti di stagione, in un ambiente semplice e genuino che riflette la tradizione locale. È una meta apprezzata sia dai residenti sia dagli ospiti che cercano sapori regionali in una location panoramica.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    },
+    {
+      "name": "Bar Trattoria Pizzeria Quick",
+      "address": "Strada Provinciale Osovana 13, Buja",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Pizzeria%20Quick%2C%20Strada%20Provinciale%20Osovana%2013%2C%20Buja",
+      "image_url": null,
+      "description": "Il Bar Trattoria Pizzeria Quick è un locale versatile che offre pizz​e cotte in forno a legna, piatti rapidi e cucina friulana tradizionale. Con prezzi accessibili e un menu fisso a mezzogiorno, è ideale per pasti informali. Il locale dispone di tavoli esterni, wi-fi gratuito, accesso facilitato e servizi per famiglie, rappresentando una scelta pratica per diverse esigenze.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    },
+    {
+      "name": "Osterie dal Gobo",
+      "address": "Via Collosomano 158, Buja",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osterie%20dal%20Gobo%2C%20Via%20Collosomano%20158%2C%20Buja",
+      "image_url": null,
+      "description": "Osterie dal Gobo è una tipica osteria friulana a gestione familiare, rinomata per la cucina domestica curata dalla proprietaria Cinzia Vidoni. Qui si possono gustare piatti casalinghi come frico con patate e carni preparate secondo ricette tradizionali del territorio. Il locale offre anche la possibilità di soggiorno presso una struttura associata Bed & Breakfast, e accoglie famiglie e animali domestici.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    },
+    {
+      "name": "La Di Copet",
+      "address": "Piazza del Mercato 2, Buja",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Di%20Copet%2C%20Piazza%20del%20Mercato%202%2C%20Buja",
+      "image_url": null,
+      "description": "La Di Copet è un ristorante situato nel centro di Buja che mantiene viva la tradizione della cucina friulana semplice e genuina. Il locale è noto tra la clientela locale per i suoi piatti casalinghi e l'atmosfera autentica, rappresentando una scelta ideale per chi desidera gustare la cucina del territorio in modo informale.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    },
+    {
+      "name": "Da Rita-Molinaro",
+      "address": "Via Sottocostoia 158, Buja",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Rita-Molinaro%2C%20Via%20Sottocostoia%20158%2C%20Buja",
+      "image_url": null,
+      "description": "Da Rita-Molinaro è una trattoria che propone cucina friulana casalinga in un ambiente accogliente e semplice. La struttura valorizza piatti tradizionali preparati con ingredienti locali, offrendo un'esperienza gastronomica autentica radicata nella comunità di Buja.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buja.md"
+    }
+  ]
+}

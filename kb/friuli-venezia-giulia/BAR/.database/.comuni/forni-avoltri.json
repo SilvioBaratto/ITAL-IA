@@ -1,0 +1,96 @@
+{
+  "comune_name": "Forni Avoltri",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md",
+  "extracted_at": "2026-04-09T10:14:33.549Z",
+  "pois": [
+    {
+      "name": "Bar Ristorante Al Biathlon",
+      "address": "SR355 (Strada Regionale della Val Degano), Piani di Luzza, Forni Avoltri — 33020 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Al%20Biathlon%2C%20SR355%20(Strada%20Regionale%20della%20Val%20Degano)%2C%20Piani%20di%20Luzza%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD",
+      "image_url": null,
+      "description": "Il Bar Ristorante Al Biathlon è il punto di riferimento per la zona sportiva di Piani di Luzza, frequentato da sportivi, atleti e spettatori durante eventi di biathlon e sci di fondo. Offre sia servizio bar che ristorante, con piatti tipici della cucina carnica e un'atmosfera informale e montana. È ideale per la colazione prima delle attività invernali o per una pausa rigenerante dopo una gara. Il locale diventa particolarmente animato durante le competizioni internazionali.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Bar Coglians",
+      "address": "Via Corona, Collina (Culino), Forni Avoltri — 33020 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Coglians%2C%20Via%20Corona%2C%20Collina%20(Culino)%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD",
+      "image_url": null,
+      "description": "Situato nella frazione di Collina, il Bar Coglians è un caratteristico bar di paese, essenziale e accogliente, dove residenti e turisti si incontrano per un caffè o un bicchiere nel tipico spirito comunitario alpino. Il locale omaggia il vicino Monte Coglians ed è apprezzato per i prezzi onesti e l’atmosfera conviviale. È frequentato da chi percorre i sentieri della zona e dagli abitanti della frazione.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo al Sole — Bar e Ristorante",
+      "address": "Via Belluno 14, Avoltri, Forni Avoltri — 33020 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20al%20Sole%20%E2%80%94%20Bar%20e%20Ristorante%2C%20Via%20Belluno%2014%2C%20Avoltri%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD",
+      "image_url": null,
+      "description": "L'Albergo al Sole rappresenta il cuore sociale della borgata di Avoltri, offrendo sia bar che ristorante in un ambiente a conduzione familiare aperto tutto il giorno. Il bar è un ritrovo per residenti e turisti, ideale per uno spuntino, una colazione con dolci locali come la gubana o un aperitivo, mentre il ristorante propone cucina carnica tradizionale. L'atmosfera è genuina e informale, tipica degli alberghi di montagna.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Piani di Luzza — Bar e Cucina",
+      "address": "Via di Val Degano, Borgo Ciolos (Borc Cjolos), Avoltri, Forni Avoltri — 33020 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Piani%20di%20Luzza%20%E2%80%94%20Bar%20e%20Cucina%2C%20Via%20di%20Val%20Degano%2C%20Borgo%20Ciolos%20(Borc%20Cjolos)%2C%20Avoltri%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD",
+      "image_url": null,
+      "description": "Albergo storico immerso nella Val Degano, il Piani di Luzza offre un bar interno aperto sia agli ospiti dell'albergo che agli escursionisti di passaggio. Qui è possibile iniziare la giornata con una colazione casalinga e prodotti del territorio, in un'atmosfera autentica tipica della pensione di montagna. Il locale è scelto specialmente da chi pratica sport o esplora le attrazioni naturalistiche della zona.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Miravalle — Bar",
+      "address": "Via di Val Degano, Borgo Ciolos (Borc Cjolos), Avoltri, Forni Avoltri — 33020 UD",
+      "website_url": "https://www.albergomiravalle.org/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Miravalle%20%E2%80%94%20Bar%2C%20Via%20di%20Val%20Degano%2C%20Borgo%20Ciolos%20(Borc%20Cjolos)%2C%20Avoltri%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD",
+      "image_url": null,
+      "description": "L'Albergo Miravalle, situato nella tranquilla Val Degano, dispone di un bar interno che accoglie sciatori, escursionisti e appassionati di montagna. Aperto nelle ore di punta turistiche, il bar è un punto di ritrovo apprezzato nei periodi di alta stagione. L'atmosfera è familiare, con attenzione ai prodotti locali e alla cucina casalinga.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Volaia — Bar",
+      "address": "Via del Leone, Collina (Culino), Forni Avoltri — 33020 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Volaia%20%E2%80%94%20Bar%2C%20Via%20del%20Leone%2C%20Collina%20(Culino)%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD",
+      "image_url": null,
+      "description": "Adiacente al Bar Coglians, l'Albergo Volaia dispone di un bar interno frequentato da ospiti e turisti diretti verso la Val Bordaglia e il Rifugio Tolazzi. Il locale richiama fortemente la natura alpina di confine, con un'ambientazione che fonde influenze italiane e austroungariche. Qui è tipico gustare grappe e amari locali in un’atmosfera genuinamente montana.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Rifugio Edoardo Tolazzi — Punto di Ristoro",
+      "address": "Val Bordaglia, Collina, Forni Avoltri — 33020 UD (a circa 1.350 m s.l.m.)",
+      "website_url": "http://www.rifugiotolazzi.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Edoardo%20Tolazzi%20%E2%80%94%20Punto%20di%20Ristoro%2C%20Val%20Bordaglia%2C%20Collina%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD%20(a%20circa%201.350%20m%20s.l.m.)",
+      "image_url": null,
+      "description": "Il Rifugio Edoardo Tolazzi, a 1.350 metri nella Val Bordaglia, offre un punto di ristoro e bar essenziale per escursionisti e alpinisti. Il bar propone grappa, birra artigianale, polenta, formaggi locali e caffè, in un ambiente tradizionale di legno e pietra tipico delle Alpi Carniche. L'accoglienza è curata dal Consorzio Collina, che rappresenta la comunità locale.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Rifugio Lambertenghi Romanin — Punto di Ristoro d'Alta Quota",
+      "address": "Forcella Carnizza, sopra la Val Bordaglia, Forni Avoltri — 33020 UD (1.955 m s.l.m.)",
+      "website_url": "http://www.lambertenghi.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Lambertenghi%20Romanin%20%E2%80%94%20Punto%20di%20Ristoro%20d'Alta%20Quota%2C%20Forcella%20Carnizza%2C%20sopra%20la%20Val%20Bordaglia%2C%20Forni%20Avoltri%20%E2%80%94%2033020%20UD%20(1.955%20m%20s.l.m.)",
+      "image_url": null,
+      "description": "Posto a quasi 2.000 metri, il Rifugio Lambertenghi Romanin offre un servizio di bar e ristoro d'alta quota, con pasti caldi, caffè, tè e liquori alle erbe alpine. Gestito dal Comune di Forni Avoltri, il rifugio vanta una terrazza panoramica sul Monte Coglians e le Alpi Carniche, ed è punto di partenza per impegnative escursioni, attirando alpinisti italiani e austriaci.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-avoltri.md"
+    }
+  ]
+}

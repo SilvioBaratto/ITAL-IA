@@ -1,0 +1,96 @@
+{
+  "comune_name": "Villesse",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md",
+  "extracted_at": "2026-04-09T11:24:49.399Z",
+  "pois": [
+    {
+      "name": "Trattoria al Ciavedal",
+      "address": "Via Aquileia, 73 – 34070 Villesse (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Ciavedal%2C%20Via%20Aquileia%2C%2073%20%E2%80%93%2034070%20Villesse%20(GO)",
+      "image_url": null,
+      "description": "La Trattoria al Ciavedal è il punto di riferimento a Villesse per chi cerca cucina friulana e isontina genuina in un ambiente semplice e accogliente. Gestita a livello familiare, propone pasta fatta in casa, minestre rustiche come la jota, frico, carne e contorni di stagione, accompagnati da vini locali. Il locale dispone anche di alcune camere, configurandosi come una piccola locanda e offre un buon rapporto qualità-prezzo.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "Rossopomodoro Villesse",
+      "address": "Località Maraniz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": "https://ristoranti.rossopomodoro.it/rossopomodoro-villesse-bf32353ce882",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rossopomodoro%20Villesse%2C%20Localit%C3%A0%20Maraniz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "Rossopomodoro Villesse, situato all'interno del Tiare Shopping, propone specialità della cucina napoletana e in particolare la pizza DOC realizzata con ingredienti selezionati come mozzarella di bufala campana e pomodoro San Marzano DOP. Il ristorante è ideale per gruppi e famiglie, con un'ampia scelta di pizze classiche e piatti napoletani, offrendo qualità costante e un servizio veloce in un contesto informale.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "Roadhouse Restaurant – Tiare Shopping",
+      "address": "Via Cividale / Località Maraunz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": "https://www.roadhouse.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Roadhouse%20Restaurant%20%E2%80%93%20Tiare%20Shopping%2C%20Via%20Cividale%20%2F%20Localit%C3%A0%20Maraunz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "Roadhouse Restaurant porta al Tiare Shopping la tradizione americana delle steakhouse, offrendo tagli di carne alla griglia, hamburger, costine e piatti tipici del grill USA. Il locale si caratterizza per l'atmosfera casual, porzioni abbondanti e prezzi contenuti, risultando ideale per giovani e famiglie. È disponibile sia il servizio al tavolo che il self-service, con opzioni di asporto e consegna.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "KalòS – Taverna Greca",
+      "address": "Localita' Maranuz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Kal%C3%B2S%20%E2%80%93%20Taverna%20Greca%2C%20Localita'%20Maranuz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "KalòS è una taverna greca al Tiare Shopping che propone i sapori classici della cucina ellenica, come souvlaki, gyros, moussaka e dolmadakia, oltre a una vasta selezione di antipasti mediterranei. Il locale è apprezzato per il servizio veloce e la comodità per uno spuntino durante la visita al centro commerciale, offrendo anche asporto a prezzi accessibili.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "Kikko Kaiten Sushi",
+      "address": "Località Maraunz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": "https://kikkokaitensushi.eatbu.com/?lang=it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Kikko%20Kaiten%20Sushi%2C%20Localit%C3%A0%20Maraunz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "Kikko Kaiten Sushi è il ristorante giapponese del Tiare Shopping, con formato a nastro trasportatore che consente ai clienti di scegliere direttamente piatti come sushi, sashimi, maki e altre specialità giapponesi. Il locale è noto per la varietà dell’offerta, la rapidità del servizio e una reputazione consolidata tra i giovani e le famiglie della zona.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "Wiener Haus",
+      "address": "Localita' Maranuz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": "http://www.wienerhaus.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Wiener%20Haus%2C%20Localita'%20Maranuz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "Wiener Haus celebra la cucina viennese e mitteleuropea, offrendo piatti come cotoletta alla viennese, wurstel, crauti, canederli di patate e birre alla spina tedesche o austriache. L'ambiente informale richiama le tradizioni austroungariche del territorio friulano, con servizio di asporto e consegna a domicilio.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "Sciauru & Sapuri",
+      "address": "Località Maraunz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sciauru%20%26%20Sapuri%2C%20Localit%C3%A0%20Maraunz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "Sciauru & Sapuri porta al Tiare Shopping i profumi e i sapori della cucina siciliana e meridionale italiana, come arancini, panelle, caponata, pasta alla Norma e cannoli siciliani. Il locale è ideale per una pausa pranzo veloce e autentica, con opzioni take-away e un'atmosfera informale.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    },
+    {
+      "name": "Poke Sun Rice",
+      "address": "Localita' Maranuz, 2 – 34070 Villesse (GO) *(c/o Tiare Shopping)*",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Poke%20Sun%20Rice%2C%20Localita'%20Maranuz%2C%202%20%E2%80%93%2034070%20Villesse%20(GO)%20*(c%2Fo%20Tiare%20Shopping)*",
+      "image_url": null,
+      "description": "Poke Sun Rice, al Tiare Shopping, propone il poke hawaiano: bowl personalizzabili con riso, pesce crudo marinato, verdure e salse. Il format fast-casual si adatta a chi cerca un pasto veloce e salutare, con possibilità di consegna a domicilio e ampia scelta di ingredienti freschi.",
+      "comune_name": "Villesse",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/villesse.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Basiliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/basiliano.md",
+  "extracted_at": "2026-04-09T10:55:04.619Z",
+  "pois": [
+    {
+      "name": "Hosteria Alla Vecchia Pesa",
+      "address": "Piazza Tre Novembre 2, 33031 Basiliano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hosteria%20Alla%20Vecchia%20Pesa%2C%20Piazza%20Tre%20Novembre%202%2C%2033031%20Basiliano%20(UD)",
+      "image_url": null,
+      "description": "Hosteria Alla Vecchia Pesa è un raffinato ristorante di fine dining situato in un casale d'epoca ristrutturato, con un'atmosfera intima e dettagli storici che evocano il passato del territorio. Qui la cucina friulana viene reinterpretata in chiave moderna utilizzando ingredienti locali di alta qualità, accompagnati da una curata selezione di vini. Il servizio è attento e cordiale, con opzioni anche per vegetariani e piatti tematici. Apprezzata per la qualità della cucina e l'ambiente accogliente, il locale è molto valutato dai clienti e la prenotazione è consigliata.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/basiliano.md"
+    },
+    {
+      "name": "FriulMarangon",
+      "address": "Via Montenero 4, Orgnano di Basiliano, UD 33031",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=FriulMarangon%2C%20Via%20Montenero%204%2C%20Orgnano%20di%20Basiliano%2C%20UD%2033031",
+      "image_url": null,
+      "description": "FriulMarangon è una struttura che unisce ristorante e ospitalità alberghiera in un ambiente tipicamente friulano, immerso nella tranquillità della campagna locale. Il ristorante è specializzato in cucina regionale e carni grigliate alla brace, con ingredienti genuini di provenienza locale e una selezione di vini del territorio. L'atmosfera è informale e calorosa, ideale per famiglie, gruppi e cerimonie, offrendo anche camere confortevoli per il soggiorno degli ospiti.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/basiliano.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Celida",
+      "address": "SS13, 44, 33031 Basiliano UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Celida%2C%20SS13%2C%2044%2C%2033031%20Basiliano%20UD",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Celida è una storica istituzione di Basiliano, recentemente riaperta, che offre piatti tipici friulani, cucina italiana e una pizzeria tradizionale con forno a legna. Il locale dispone di una spaziosa terrazza per aperitivi all'aperto e un ambiente accessibile e accogliente per famiglie e viaggiatori. È noto per la varietà del menù a prezzo fisso a pranzo, la qualità delle pietanze e lo staff cordiale, come confermato dalle numerose recensioni positive.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/basiliano.md"
+    }
+  ]
+}

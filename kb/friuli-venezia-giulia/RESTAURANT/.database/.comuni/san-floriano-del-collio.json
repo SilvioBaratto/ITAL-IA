@@ -1,0 +1,63 @@
+{
+  "comune_name": "San Floriano del Collio",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-floriano-del-collio.md",
+  "extracted_at": "2026-04-09T11:17:24.961Z",
+  "pois": [
+    {
+      "name": "Osteria Gostilna Koršič",
+      "address": "nei pressi del Castello di San Floriano del Collio (indirizzo esatto da verificare contattando il locale)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Gostilna%20Kor%C5%A1i%C4%8D%2C%20nei%20pressi%20del%20Castello%20di%20San%20Floriano%20del%20Collio%20(indirizzo%20esatto%20da%20verificare%20contattando%20il%20locale)",
+      "image_url": null,
+      "description": "Osteria Gostilna Koršič è uno dei locali più apprezzati di San Floriano del Collio, con una tradizione che fonde la cucina italiana e slovena in un ambiente conviviale e senza formalità. Qui si gustano piatti tipici del Collio e specialità della zona isontina, come antipasti di salumi e formaggi locali, pasta fresca fatta a mano, carni cucinate secondo la tradizione e dolci artigianali. L'atmosfera calda e famigliare, la cura del personale e servizi come posti all'aperto, Wi-Fi e accessibilità lo rendono ideale sia per residenti che per visitatori.",
+      "comune_name": "San Floriano del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-floriano-del-collio.md"
+    },
+    {
+      "name": "Ristorante Vogric (Gostilna Vogric)",
+      "address": "Località Uclanzi, 23, San Floriano del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Vogric%20(Gostilna%20Vogric)%2C%20Localit%C3%A0%20Uclanzi%2C%2023%2C%20San%20Floriano%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Ristorante Vogric, noto anche come Gostilna Vogric, si trova nella frazione rurale di Uclanzi ed è rinomato per la sua cucina friulana e del Collio. Il menu varia stagionalmente e si basa su ingredienti del territorio, tra cui pasta fresca e i celebri gnocchi di susine friulani, oltre a antipasti e dolci come il millefoglie della casa. La gestione è attenta alle esigenze della clientela locale, con orari curati e un'ospitalità rustica che attirano sia residenti che enoturisti.",
+      "comune_name": "San Floriano del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-floriano-del-collio.md"
+    },
+    {
+      "name": "Enoteca Castello Formentini (La Bottega del Collio)",
+      "address": "Piazza della Libertà, 3, San Floriano del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Castello%20Formentini%20(La%20Bottega%20del%20Collio)%2C%20Piazza%20della%20Libert%C3%A0%2C%203%2C%20San%20Floriano%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Enoteca Castello Formentini, conosciuta anche come La Bottega del Collio, è un punto di riferimento per chi ama i vini del Collio DOC, situata in pieno centro paese. Oltre a proporre un'ampia selezione di vini locali, offre abbinamenti gastronomici con prodotti tipici come prosciutto crudo, kacamak, pasta fresca e dolci regionali. L'ambiente è informale e accogliente, apprezzato da visitatori e premiato da guide specializzate, con possibilità di degustazione sia all'interno che all'esterno.",
+      "comune_name": "San Floriano del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-floriano-del-collio.md"
+    },
+    {
+      "name": "Trattoria Dvor (DVOR Osteria Enoteca)",
+      "address": "Via Castello, 5, 34070 San Floriano del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Dvor%20(DVOR%20Osteria%20Enoteca)%2C%20Via%20Castello%2C%205%2C%2034070%20San%20Floriano%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "La Trattoria Dvor, anche nota come DVOR Osteria Enoteca, propone un'esperienza gastronomica informale vicina al Castello Formentini, unendo la cucina italiana a una selezione di vini in stile enoteca. Il locale si distingue per la sua doppia identità culturale italiana e slovena e, in passato, ha offerto anche servizio di consegna a domicilio con menu a rotazione. È consigliato verificare gli orari direttamente, poiché le informazioni aggiornate sono limitate.",
+      "comune_name": "San Floriano del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-floriano-del-collio.md"
+    },
+    {
+      "name": "Agriturismo Fattore *(chiuso)*",
+      "address": "Località Sovenza 8",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Fattore%20*(chiuso)*%2C%20Localit%C3%A0%20Sovenza%208",
+      "image_url": null,
+      "description": "Agriturismo Fattore, ora chiuso, si trovava nella frazione di Sovenza ed è stato a lungo un riferimento per la cucina tipica della regione, con un menu che spaziava tra ricette italiane e slovene. Era noto per gli antipasti abbondanti, le carni cotte con la tecnica della peka e i piatti genuini, segnalato da una clientela affezionata e una buona valutazione nelle recensioni online.",
+      "comune_name": "San Floriano del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-floriano-del-collio.md"
+    }
+  ]
+}

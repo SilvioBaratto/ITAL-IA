@@ -1,0 +1,63 @@
+{
+  "comune_name": "Sacile",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sacile.md",
+  "extracted_at": "2026-04-09T11:16:27.724Z",
+  "pois": [
+    {
+      "name": "Porca L'Oca",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Porca%20L'Oca%2C%20Sacile",
+      "image_url": null,
+      "description": "Porca L'Oca è uno dei ristoranti più riconosciuti di Sacile, famoso per la cucina regionale friulana e di mare interpretata con cura e creatività. Segnalato da guide gastronomiche nazionali, il ristorante offre piatti distintivi come ravioli farciti di frutti di mare, antipasti di funghi porcini al cartoccio e coniglio in umido con erbe aromatiche. L'atmosfera è calda e informale, con cucina completamente espressa e una selezione di vini regionali e grappe artigianali. È consigliata la prenotazione.",
+      "comune_name": "Sacile",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sacile.md"
+    },
+    {
+      "name": "Le Contrade",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Contrade%2C%20Sacile",
+      "image_url": null,
+      "description": "Le Contrade è il locale più raffinato di Sacile, ideale per occasioni speciali e conosciuto per la qualità della cucina italiana di territorio con accenti friulani e veneti. Caratterizzato dall'attenzione per le materie prime locali e da una presentazione elegante, propone piatti come filetto di manzo, pasta al ragù di agnello e guanciale al vino rosso. La carta dei vini, ampia e selezionata, riflette la sua anima anche di wine bar. L'ambiente è formale e la prenotazione è fortemente consigliata.",
+      "comune_name": "Sacile",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sacile.md"
+    },
+    {
+      "name": "Cellini",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cellini%2C%20Sacile",
+      "image_url": null,
+      "description": "Cellini è un locale storico affacciato sul fiume Livenza, amato sia dai residenti sia dai visitatori internazionali, in particolare dalla comunità americana di Aviano. È noto principalmente per la pizza ben lievitata con ingredienti freschi e per i piatti di pasta italiani; tra le specialità spiccano il calzone con mozzarella di bufala e la polenta con speck. Il ristorante, adatto anche a famiglie e gruppi, offre un'atmosfera romantica ma informale grazie ai tavoli all'aperto sul fiume.",
+      "comune_name": "Sacile",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sacile.md"
+    },
+    {
+      "name": "Pizzeria Duepuntozero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Duepuntozero%2C%20Sacile",
+      "image_url": null,
+      "description": "Pizzeria Duepuntozero è una pizzeria artigianale focalizzata su ingredienti locali e prodotti di qualità, con una filosofia del \"km corto\". Oltre a pizze come la verdure e la bufala, propone hamburger artigianali e piatti allo spiedo. È apprezzata anche per il servizio cordiale e la clientela internazionale, e offre consegna a domicilio e takeaway. L'apertura è solo serale e il locale è chiuso il lunedì.",
+      "comune_name": "Sacile",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sacile.md"
+    },
+    {
+      "name": "La Piola",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Piola%2C%20Sacile",
+      "image_url": null,
+      "description": "La Piola è un'osteria tradizionale dal carattere popolare, frequentata principalmente da clienti abituali locali. Propone cucina italiana e regionale semplice a prezzi accessibili, con piatti di pasta preparati con cura e in porzioni generose. L'ambiente è informale, ideale per pranzi veloci e cene tra amici o famiglie.",
+      "comune_name": "Sacile",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sacile.md"
+    }
+  ]
+}

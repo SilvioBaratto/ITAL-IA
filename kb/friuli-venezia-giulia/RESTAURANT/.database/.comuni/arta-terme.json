@@ -1,0 +1,107 @@
+{
+  "comune_name": "Arta Terme",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md",
+  "extracted_at": "2026-04-09T10:53:43.387Z",
+  "pois": [
+    {
+      "name": "Al Radici Restaurant",
+      "address": "Arta Terme, parte del complesso Borgo Gortani",
+      "website_url": "https://www.borgogortani.it/en/taste/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Radici%20Restaurant%2C%20Arta%20Terme%2C%20parte%20del%20complesso%20Borgo%20Gortani",
+      "image_url": null,
+      "description": "Al Radici è il ristorante di punta all'interno del nuovo complesso di lusso Borgo Gortani, offrendo una cucina carnica contemporanea rivisitata con ingredienti locali d'eccellenza. L'ambiente elegante e panoramico fa da cornice a piatti homemade, specialità come la pasta fresca, ravioli e dolci artigianali, con il latte delle latterie di Carnia a fare da filo conduttore. La filosofia del locale fonde tradizione e innovazione, mantenendo un livello qualitativo molto alto.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Albergo Ristorante Gardel",
+      "address": "Via Marconi 6/8, 33022 Piano d'Arta Terme (UD)",
+      "website_url": "https://en.gardel.it/home/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Gardel%2C%20Via%20Marconi%206%2F8%2C%2033022%20Piano%20d'Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Albergo Ristorante Gardel è un'istituzione gastronomica di Arta Terme, con cucina carnica autentica e un'atmosfera elegante. Tra le specialità spiccano il fregolz con erbe e ricotta affumicata, i blecs al ragù e i cjarsons secondo la tradizione, oltre a un minestrone complesso e ricco di sapore. Il locale, parte di un hotel con centro benessere, è rinomato per la qualità degli ingredienti, il servizio attento e la colazione abbondante inclusa.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Hotel Park Oasi - Ristorante",
+      "address": "Arta Terme (a 6 minuti a piedi dalle Terme di Arta)",
+      "website_url": "https://hotelparkoasi.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Park%20Oasi%20-%20Ristorante%2C%20Arta%20Terme%20(a%206%20minuti%20a%20piedi%20dalle%20Terme%20di%20Arta)",
+      "image_url": null,
+      "description": "Il ristorante dell'Hotel Park Oasi si distingue per la cucina carnica tradizionale, con menu che seguono la stagionalità e l'eccellenza delle materie prime locali. L'ambiente rilassante, la possibilità di mangiare in giardino o in terrazza e l'integrazione con i servizi dell'hotel—tra cui spa, hammam e camere confortevoli—ne fanno il luogo ideale per unire benessere e gastronomia. Il locale è particolarmente apprezzato per la sua atmosfera familiare e curata.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Pizza Grill & Maccaroni (Hotel Alla Fonte)",
+      "address": "Via Nazionale 38, 33022 Arta Terme (UD)",
+      "website_url": "https://www.pizzagrillemaccaroni.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Grill%20%26%20Maccaroni%20(Hotel%20Alla%20Fonte)%2C%20Via%20Nazionale%2038%2C%2033022%20Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Pizza Grill & Maccaroni porta la pizza napoletana autentica in Carnia, con un impasto a lunga lievitazione e l'utilizzo di pasta Senatore Cappelli. Il locale propone anche grigliate su carbone e offre un ambiente moderno e vivace, accogliendo sia ospiti dell’hotel sia clienti locali. La qualità della pizza, la varietà dei piatti e il rapporto qualità-prezzo sono particolarmente apprezzati.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Bar Ristorante Edelweiss",
+      "address": "Viale Delle Terme, 1 - 33022 Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Edelweiss%2C%20Viale%20Delle%20Terme%2C%201%20-%2033022%20Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Bar Ristorante Edelweiss, aperto dal 1981, è un punto di riferimento locale per cucina friulana tipica e pizze di qualità. Gestito a livello familiare, propone piatti carnici semplici ma genuini, prezzi contenuti e un'atmosfera accogliente e vivace. Apprezzato sia per pranzi veloci sia per cene conviviali, il locale offre posti esterni, asporto, consegna a domicilio e accessibilità per tutti.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Al Comune Rustico - Hotel Ristorante",
+      "address": "Via Fontana 14, 33022 Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Comune%20Rustico%20-%20Hotel%20Ristorante%2C%20Via%20Fontana%2014%2C%2033022%20Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Al Comune Rustico è un piccolo hotel-ristorante che valorizza la cucina casalinga carnica, proponendo piatti come cjarsons preparati freschi e frico con polenta. L’ambiente rustico e autentico e l’ospitalità semplice rendono il locale ideale per chi cerca sapori tradizionali senza eccessi. La posizione strategica vicino alle Terme e la possibilità di noleggiare biciclette lo rendono ottimo per soggiorni all’insegna della genuinità.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Albergo Miramonti - Ristorante",
+      "address": "Via Umberto I, 22 - 33022 Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Miramonti%20-%20Ristorante%2C%20Via%20Umberto%20I%2C%2022%20-%2033022%20Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Gestito dalla famiglia Cimenti, Albergo Miramonti offre una cucina locale che segue la tradizione carnica e le stagioni, utilizzando erbe e funghi dei boschi circostanti. Il locale, accogliente e a dimensione familiare, è aperto principalmente in estate e nei weekend invernali, ed è noto per i suoi piatti homemade e l’attenzione per la qualità. L’atmosfera è autentica e familiare, ideale per chi cerca il vero spirito gastronomico della zona.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Osteria al Cral (Frazione Trava)",
+      "address": "Via Trava 76, Trava, Lauco (UD) - Frazione di Arta Terme",
+      "website_url": "https://www.instagram.com/alcralbarosteria/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Cral%20(Frazione%20Trava)%2C%20Via%20Trava%2076%2C%20Trava%2C%20Lauco%20(UD)%20-%20Frazione%20di%20Arta%20Terme",
+      "image_url": null,
+      "description": "Osteria al Cral, inaugurata nel 2019, è diventata in breve tempo un punto di riferimento per la cucina carnica pura e fatta in casa, tanto da essere protagonista in TV. L’osteria propone pasta fresca, carni grigliate e un menu tradizionale sia a pranzo che a cena, mantenendo prezzi accessibili. L’ambiente è rustico, conviviale e autentico, attrattivo per chi cerca sapori veri e storie di montagna.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Agriturismo Randis",
+      "address": "Via G. Marconi 100, 33022 Arta Terme (UD)",
+      "website_url": "https://www.agriturismorandis.it/home",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Randis%2C%20Via%20G.%20Marconi%20100%2C%2033022%20Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Randis combina turismo rurale, attività come passeggiate a cavallo e una cucina carnica tradizionale e biologica, con prodotti coltivati e preparati in casa. Le specialità includono cjarsòns dolci e salati, crespelle al Montasio e frico, in un contesto naturale e autentico. Particolarmente adatto alle famiglie, offre anche camere confortevoli e numerose attività a contatto con la natura.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arta-terme.md"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "comune_name": "Azzano Decimo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md",
+  "extracted_at": "2026-04-09T10:54:53.211Z",
+  "pois": [
+    {
+      "name": "Ca' Muliner (Albergo Ristorante Ca'Muliner)",
+      "address": "Via Trento 52, 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca'%20Muliner%20(Albergo%20Ristorante%20Ca'Muliner)%2C%20Via%20Trento%2052%2C%2033082%20Azzano%20Decimo%20(PN)",
+      "image_url": null,
+      "description": "Ca' Muliner è una raffinata struttura inserita in edifici storici come una cascina d'epoca, un antico mulino con ruote d'acqua funzionanti e una ex segheria, con un'atmosfera suggestiva e caratteristica. Il ristorante propone cucina friulana tradizionale rivisitata in chiave moderna utilizzando ingredienti stagionali di alta qualità. È noto per piatti come branzino, spaghetti alla carbonara, kacamak e tiramisu, ed è molto apprezzato per l'ambiente elegante, il servizio attento e la qualità complessiva. Ideale anche per eventi e matrimoni, vanta recensioni eccellenti da parte dei clienti.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Jenny Doppia O",
+      "address": "Via Trieste 8, Azzano Decimo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Jenny%20Doppia%20O%2C%20Via%20Trieste%208%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "Jenny Doppia O è un ristorante che fonde cucina italiana tradizionale, attenzione al pesce fresco e arte della pizza napoletana. Si distingue per la varietà delle proposte, la qualità degli ingredienti e l'atmosfera accogliente, con servizi completi che includono personale multilingue, asporto, consegna e tavoli all'aperto. Le specialità sono la pizza con impasto artigianale, frutti di mare freschi e antipasti assortiti, rendendolo un punto di riferimento per chi cerca varietà e qualità.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Trattoria Da Gian",
+      "address": "Via Piagno 42, 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Gian%2C%20Via%20Piagno%2042%2C%2033082%20Azzano%20Decimo%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Da Gian è un'osteria tipica che esprime la tradizione friulana, frequentata da residenti e autotrasportatori, sinonimo di autenticità. Il locale offre un'atmosfera conviviale e genuina, presentando ricette radicate nella cucina regionale. È apprezzata per il suo carattere semplice ma autentico, ideale per chi cerca una vera esperienza di comunità e tradizione locale.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Alla Frasca",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Frasca%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "Alla Frasca è una enoteca e griglieria specializzata in carni alla griglia, carni affumicate e formaggi, con dolci fatti in casa come tiramisu e gelato artigianale. Il locale offre un ambiente informale e conviviale, con una proposta a prezzi accessibili e una forte presenza sui social network. L'ideale per famiglie e gruppi che cercano qualità e semplicità in un'atmosfera rilassata.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Trattoria Di Campagna",
+      "address": "Via Peperate 2, Azzano Decimo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Di%20Campagna%2C%20Via%20Peperate%202%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "Trattoria Di Campagna è una trattoria tradizionale veneto-friulana, celebre per la carne bollita accompagnata dalla tipica salsa pearà. Il locale propone una cucina genuina, legata alle ricette del territorio, con una clientela soddisfatta e una reputazione molto positiva. Si consiglia di verificare l'effettiva apertura prima della visita, data la possibilità di chiusura temporanea.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Pizzeria Aladino",
+      "address": "Via Roma 28, 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Aladino%2C%20Via%20Roma%2028%2C%2033082%20Azzano%20Decimo%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria Aladino è una pizzeria a gestione familiare che affianca la trattoria e si distingue per il forno a legna e l'impiego di ingredienti selezionati. Vengono proposte pizze con salame piccante, mozzarella fresca e pasta fatta in casa, offrendo anche menù fissi a pranzo convenienti. Il locale è apprezzato sia per la qualità che per la freschezza delle preparazioni.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Pizza Jazz",
+      "address": "Piazza Libertà 21, Azzano Decimo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Jazz%2C%20Piazza%20Libert%C3%A0%2021%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "Pizza Jazz è una pizzeria moderna dallo stile informale, riconosciuta per le pizze a crosta sottile e croccante preparate con ingredienti freschi. L'atmosfera è accogliente e vivace, con tavoli all'aperto in piazza e servizi per l'accessibilità. È ideale per cene informali e offre un'ampia scelta di pizze, pasta e prodotti tipici.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Pizza Sprint",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Sprint%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "Pizza Sprint è una pizzeria specializzata in consegna e asporto, nota per le pizze creative come quella alle code di rospo e altre varianti di pesce. Il locale si rivolge a chi desidera gustare una pizza di qualità a casa propria, e gode di una buona reputazione online grazie all'offerta originale e al servizio rapido.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "I Morosetti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=I%20Morosetti%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "I Morosetti è un ristorante italiano particolarmente apprezzato, con una valutazione eccellente su TheFork. Offre menù con opzioni vegetariane e connessione WiFi, risultando adatto a una clientela diversificata. È una scelta affidabile per chi cerca qualità nella cucina italiana e attenzione alle esigenze alimentari diverse.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "HDomus",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=HDomus%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "HDomus è un ristorante con ottima reputazione su TheFork, apprezzato dalla comunità per la qualità dell'offerta. Il locale mette a disposizione la connessione WiFi e si presenta come una delle opzioni più gradite ad Azzano Decimo, risultando ideale sia per lavoro che per una pausa di gusto.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "L'Oliveto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Oliveto%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "L'Oliveto offre una cucina varia con specialità di pizza, carni alla griglia e piatti vegetariani, accompagnati da connessione WiFi. È rinomato per la versatilità del menù e la capacità di soddisfare preferenze culinarie diverse, risultando adatto sia a pranzi che a cene informali.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Trattoria al Cavallino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Cavallino%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Osteria Al Marescial",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Marescial%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Trattoria da Piero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Piero%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Trattoria Giglio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Giglio%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Civico 126",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Civico%20126%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Bar Centrale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Centrale%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "New Taj Mahal Kebab",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=New%20Taj%20Mahal%20Kebab%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Hostaria alla Curva",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hostaria%20alla%20Curva%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Ai Pini",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Pini%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Ristorante Mareinbocca",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Mareinbocca%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Da Vico S.n.c.",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Vico%20S.n.c.%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Colautti Giovanni & C.",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Colautti%20Giovanni%20%26%20C.%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": null,
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/azzano-decimo.md"
+    }
+  ]
+}

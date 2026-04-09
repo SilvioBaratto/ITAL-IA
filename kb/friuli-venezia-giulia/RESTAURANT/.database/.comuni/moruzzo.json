@@ -1,0 +1,85 @@
+{
+  "comune_name": "Moruzzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md",
+  "extracted_at": "2026-04-09T11:08:21.415Z",
+  "pois": [
+    {
+      "name": "Al Tiglio Cucina Naturale",
+      "address": "Via Centa, 8/A, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Tiglio%20Cucina%20Naturale%2C%20Via%20Centa%2C%208%2FA%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "Al Tiglio Cucina Naturale è un ristorante vegano d'eccellenza situato sulle colline di Moruzzo, noto in tutta la regione per la sua cucina esclusivamente vegetale e biologica. L'ambiente, articolato su due piani con una terrazza panoramica mozzafiato, offre una vista suggestiva sulla vallata e, nelle giornate limpide, sul mare. Il menù segue la stagionalità ed è composto da piatti creativi, preparati con ingredienti freschi e locali. Frequentato da curiosi e appassionati, è un punto di riferimento per chi cerca innovazione nel rispetto della tradizione friulana.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Osteria Nuovo Tiglio",
+      "address": "Via Centa, 8, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Nuovo%20Tiglio%2C%20Via%20Centa%2C%208%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria Nuovo Tiglio è una storica osteria di paese che propone cucina friulana autentica in un contesto panoramico sulle colline di Moruzzo. Il locale è apprezzato per i suoi piatti tipici come il frico, i pasticci di stagione e una selezione di affettati e formaggi locali. L'ambiente, raccolto e genuino, consente di immergersi nella tradizione gastronomica friulana in un'atmosfera familiare e accogliente. Le ottime recensioni dei clienti testimoniano la costanza qualitativa di cucina e servizio.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Villa Cecilia Osteria",
+      "address": "Piazza Gruagno, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Cecilia%20Osteria%2C%20Piazza%20Gruagno%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "Villa Cecilia Osteria offre un'esperienza raffinata nel cuore di Moruzzo, unendo eleganza e comfort in una location con ampio giardino e viste panoramiche. La cucina si ispira alla tradizione italiana e mediterranea, con particolare attenzione alle specialità friulane rivisitate in chiave moderna, come prosciutto crudo, mortadella e polenta. L'ambiente curato e il servizio attento rendono il locale ideale per occasioni speciali e cene romantiche.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Osteria Sant'Andrea",
+      "address": "Via Sant'Andrea, 6, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Sant'Andrea%2C%20Via%20Sant'Andrea%2C%206%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "Osteria Sant'Andrea si trova nel borgo medievale di Moruzzo, immerso tra le colline e i vigneti friulani. Recentemente rinnovato sotto una nuova gestione, propone cucina friulana con particolare predilezione per le carni grigliate e piatti di pesce. L'atmosfera rustica, la vicinanza a una rinomata azienda vinicola e il servizio premuroso lo rendono una scelta apprezzata sia dai locali che dai visitatori.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Agriturismo Puppo",
+      "address": "Via Aita, 16, Alnicco, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Puppo%2C%20Via%20Aita%2C%2016%2C%20Alnicco%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Puppo è una realtà familiare immersa nella campagna di Moruzzo, nata da una frasca tradizionale. Celebre per il \"polentino\", polenta servita calda con formaggio stagionato e affettati locali, offre una cucina semplice e genuina ispirata alla tradizione contadina friulana. La struttura dispone di un gradevole patio esterno con vista panoramica e mantiene un'atmosfera accogliente e informale, ideale per chi cerca autenticità rurale.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Agriturismo La Roncolina",
+      "address": "Via Savorgnan di Brazza, 2, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20La%20Roncolina%2C%20Via%20Savorgnan%20di%20Brazza%2C%202%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo La Roncolina sorge nei pressi del Castello di Brazzacco, circondato da ville storiche e colline verdi. Offre ospitalità in camere accoglienti e una cucina friulana autentica servita in un contesto rustico e immerso nella natura. L'agriturismo propone attività ricreative, tra cui passeggiate e tennis, oltre a un ristorante dallo spirito contadino e dalla cucina tradizionale. L'atmosfera richiama quella delle antiche cascine friulane, calda e accogliente.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Al Podere (Martignacco, area contigua)",
+      "address": "Martignacco (UD) (contiguo a Moruzzo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Al%20Podere%20(Martignacco%2C%20area%20contigua)%2C%20Martignacco%20(UD)%20(contiguo%20a%20Moruzzo)",
+      "image_url": null,
+      "description": "Situato appena fuori Moruzzo, Ristorante Pizzeria Al Podere è rinomato per le sue pizze tradizionali e per la cucina friulana proposta in un ambiente ampio e circondato dal verde. Offre specialità come pappardelle al ragù di cacciagione e pizze senza glutine, adattandosi anche a ospiti con intolleranze. Ideale per eventi e cerimonie, il locale è apprezzato sia per la qualità delle portate che per gli ampi spazi interni ed esterni.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moruzzo.md"
+    }
+  ]
+}

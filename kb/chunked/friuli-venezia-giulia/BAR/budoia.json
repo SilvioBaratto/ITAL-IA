@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/budoia.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Budoia",
+  "province": "PN",
+  "page_title": "Budoia",
+  "page_summary": "Guida ai bar del comune di Budoia: il Bar da René nella piazza principale e l'Ema.Tom in via Verdi, entrambi punti centrali della socialità locale.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/budoia.md",
+  "processed_at": "2026-04-09T11:58:44.223Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/budoia__0",
+      "text": "### Bar da René\n\n**Indirizzo:** Piazza Umberto I, 19 – 33070 Budoia (PN)  \n**Telefono:** 0434 654017\n\nIl Bar da René si trova nel cuore del capoluogo comunale, sulla piazza principale, Piazza Umberto I — il punto di riferimento per eccellenza della vita sociale budoiese. È il bar del paese per antonomasia: quello dove ci si ferma al mattino per il primo caffè, dove i più anziani si trovano nelle ore tarde del pomeriggio, dove la comunità si raccoglie nei momenti di aggregazione.\n\nIl locale porta il nome \"da René\", una denominazione familiare che racconta di una gestione di lungo corso e di un rapporto di fiducia con la clientela locale. Oggi è gestito da Guan Ziping, a testimonianza del fatto che anche nelle piccole comunità friulane la migrazione e il ricambio generazionale dei gestori hanno portato nuovi protagonisti alla conduzione di esercizi storicamente radicati nel territorio.\n\nPosizionato in piazza, il bar è naturalmente vocato all'incontro e alla sosta. La colazione è quella tipica dei bar di paese: caffè espresso, cappuccino, qualche cornetto o prodotto da forno. Nei momenti di punta mattutini, è il punto di raccolta per chi inizia la giornata lavorativa. La sera, nelle giornate calde, la piazza diventa il naturale prolungamento del locale, in un'atmosfera raccolta e familiare tipica dei borghi rurali del pordenonese.",
+      "metadata": {
+        "section_title": "Bar da René",
+        "links": [],
+        "addresses": [
+          "Piazza Umberto I, 19 – 33070 Budoia (PN)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/budoia__1",
+      "text": "### Ema.Tom\n\n**Indirizzo:** Via Verdi Giuseppe, 9 – 33070 Budoia (PN)  \n**Telefono:** 0434 318816\n\nL'Ema.Tom è il secondo esercizio da bar presente nel comune di Budoia, situato in Via Giuseppe Verdi, a poca distanza dal centro. Il nome, nella sua forma ibrida e informale, rispecchia una gestione a carattere familiare tipica dei bar di paese: un locale che porta impressa la personalità di chi lo conduce, gestito dalla famiglia Quaia.\n\nAnche questo è un bar di prossimità nel senso più autentico del termine: un posto dove i residenti della zona si fermano nella routine quotidiana, dove le stagioni scandiscono le abitudini di consumo e dove la dimensione relazionale prevale su quella commerciale. La colazione e il caffè rimangono i protagonisti dell'offerta, arricchiti dalla consueta proposta di prodotti da forno e, nelle ore pomeridiane, da qualche proposta per il tempo libero.",
+      "metadata": {
+        "section_title": "Ema.Tom",
+        "links": [],
+        "addresses": [
+          "Via Verdi Giuseppe, 9 – 33070 Budoia (PN)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

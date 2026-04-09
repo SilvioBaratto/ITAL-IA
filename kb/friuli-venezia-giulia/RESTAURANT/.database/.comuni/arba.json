@@ -1,0 +1,52 @@
+{
+  "comune_name": "Arba",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arba.md",
+  "extracted_at": "2026-04-09T10:53:21.215Z",
+  "pois": [
+    {
+      "name": "Osteria Grappolo D'Oro",
+      "address": "Piazza IV Novembre, 14 - Frazione Colle, 33090 Arba (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Grappolo%20D'Oro%2C%20Piazza%20IV%20Novembre%2C%2014%20-%20Frazione%20Colle%2C%2033090%20Arba%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Grappolo D'Oro è una storica osteria di Arba specializzata in cucina friulana, con ambienti accoglienti e caratteristici come il focolare centrale e sale dall'atmosfera tradizionale. Propone piatti tipici come frico, polenta, gnocchi fatti in casa e selvaggina, utilizzando ingredienti locali e di qualità. Il locale offre anche sei camere ristrutturate per soggiorni enogastronomici e servizi come WiFi, parcheggio e personale multilingue. La fascia di prezzo è moderata ed è consigliata la prenotazione nei periodi affollati.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arba.md"
+    },
+    {
+      "name": "La Nuova Bar Pizzeria Trattoria",
+      "address": "Piazza IV Novembre, 3, 33090 Arba (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Nuova%20Bar%20Pizzeria%20Trattoria%2C%20Piazza%20IV%20Novembre%2C%203%2C%2033090%20Arba%20(PN)",
+      "image_url": null,
+      "description": "La Nuova Bar Pizzeria Trattoria si trova nella piazza principale di Arba e offre un ambiente informale ideale per ogni momento della giornata. Il locale propone colazioni, pizze cotte nel forno a legna, e specialità di cucina friulana a prezzi economici, con uno spazio interno accogliente perfetto sia per una pausa rapida che per un pasto completo. L’atmosfera è conviviale e autentica, con una selezione di bevande che include vini locali e birre artigianali.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arba.md"
+    },
+    {
+      "name": "Bar Trattoria Andrea",
+      "address": "Via Maniago, 38 - Località Colle, 33090 Arba (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Andrea%2C%20Via%20Maniago%2C%2038%20-%20Localit%C3%A0%20Colle%2C%2033090%20Arba%20(PN)",
+      "image_url": null,
+      "description": "Bar Trattoria Andrea si trova nella zona di Colle ed è una tipica trattoria friulana con menu stagionale e ingredienti locali. L’atmosfera è semplice e genuina, ideale per residenti e visitatori di passaggio sulla strada Maniago-Spilimbergo. La cucina tradizionale friulana viene proposta a prezzi economici, in un ambiente accogliente che rispecchia la tradizione del territorio.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arba.md"
+    },
+    {
+      "name": "Risto Pub da Koki",
+      "address": "Via V. Emanuele, 34, 33090 Arba (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Risto%20Pub%20da%20Koki%2C%20Via%20V.%20Emanuele%2C%2034%2C%2033090%20Arba%20(PN)",
+      "image_url": null,
+      "description": "Risto Pub da Koki è un locale storico ad Arba dal carattere informale e ristorazione in stile pub, situato in una zona residenziale. Sebbene attualmente sia segnalato come chiuso, è stato un punto di riferimento nella comunità per la sua atmosfera conviviale e il servizio offerto.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/arba.md"
+    }
+  ]
+}

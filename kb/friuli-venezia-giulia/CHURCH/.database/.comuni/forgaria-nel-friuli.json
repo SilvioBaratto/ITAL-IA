@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forgaria nel Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forgaria-nel-friuli.md",
+  "extracted_at": "2026-04-09T10:26:28.246Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Lorenzo Martire — Forgaria nel Friuli (capoluogo)",
+      "address": "Piazza Tre Martiri 15, 33030 Forgaria nel Friuli (UD)",
+      "website_url": "http://www.comune.forgarianelfriuli.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Lorenzo%20Martire%20%E2%80%94%20Forgaria%20nel%20Friuli%20(capoluogo)%2C%20Piazza%20Tre%20Martiri%2015%2C%2033030%20Forgaria%20nel%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Lorenzo Martire rappresenta il principale luogo di culto di Forgaria e affonda le sue radici nell'alto medioevo, con la prima attestazione risalente al 1247. L’attuale edificio di stile neoclassico venne costruito tra il 1837 e il 1840 e consacrato nel 1868, mentre la torre campanaria fu completata nel 1796. Gravemente danneggiata dal terremoto del 1976, la chiesa è stata restaurata e riconsacrata nel 2009; conserva un interno a navata unica con elementi decorativi in stile ottocentesco e un campanile separato in pietra locale.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maddalena — Flagogna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maddalena%20%E2%80%94%20Flagogna%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria Maddalena è il luogo di culto storico della frazione di Flagogna, filiale della pieve di Forgaria e documentata dall’epoca medievale. Gravemente danneggiata dal sisma del 1976, fu restaurata in seguito e mantiene la tipica struttura delle chiesette rurali friulane con navata unica e facciata semplice. La festa patronale si celebra il 22 luglio, giorno liturgico della Maddalena.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Giuliana — Cornino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Giuliana%20%E2%80%94%20Cornino%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "Situata nella frazione di Cornino, la chiesa di Santa Giuliana è un piccolo luogo di culto dedicato alla santa martire venerata dalla comunità locale. Attestata come filiale della pieve di Forgaria già nel Quattrocento, la chiesa odierna sebbene semplice è stata ricostruita dopo il terremoto del 1976. L’edificio presenta una navata unica, facciata a capanna e campanile laterale; la festa patronale ricorre il 16 febbraio (o il 16 agosto localmente).",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Rocco — San Rocco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%20%E2%80%94%20San%20Rocco%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Rocco, della minima frazione omonima, è dedicata al santo protettore contro le pestilenze e risale al periodo medievale come filiale della pieve di Forgaria. L’attuale edificio, risultato della ricostruzione post-terremoto del secondo Novecento, si distingue per la sua semplicità architettonica: facciata lineare, navata unica e una piccola torre campanaria. Il culto del santo è particolarmente sentito e la festa patronale si celebra il 16 agosto.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forgaria-nel-friuli.md"
+    }
+  ]
+}

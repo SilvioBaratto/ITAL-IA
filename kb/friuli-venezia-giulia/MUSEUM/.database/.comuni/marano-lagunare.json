@@ -1,0 +1,41 @@
+{
+  "comune_name": "Marano Lagunare",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/marano-lagunare.md",
+  "extracted_at": "2026-04-09T10:50:34.295Z",
+  "pois": [
+    {
+      "name": "MuLa — Museo Archeologico della Laguna di Marano",
+      "address": "Via Sinodo, 28 – Centro Civico, I piano – 33050 Marano Lagunare (UD)",
+      "website_url": "https://www.museolaguna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=MuLa%20%E2%80%94%20Museo%20Archeologico%20della%20Laguna%20di%20Marano%2C%20Via%20Sinodo%2C%2028%20%E2%80%93%20Centro%20Civico%2C%20I%20piano%20%E2%80%93%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Il MuLa è la principale istituzione culturale di Marano Lagunare e uno dei musei archeologici più interessanti della laguna friulana. Con un percorso espositivo narrativo che attraversa il Neolitico, l’età romana, il Medioevo e l’epoca veneziana, il museo valorizza reperti unici come la spada delle Crociate, anfore romane, ceramiche e oggetti quotidiani della vita lagunare. L’allestimento include strumenti multimediali, accessibilità ampliata e attività didattiche, offrendo una lettura approfondita della storia locale e della stratificazione culturale del territorio.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Palazzo dei Provveditori — Spazio Espositivo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20dei%20Provveditori%20%E2%80%94%20Spazio%20Espositivo%2C%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "Il Palazzo dei Provveditori, edificio storico di impronta veneto-lagunare affacciato sulla piazza principale, ospita una mostra permanente di oggettistica storica legata alla comunità e al periodo veneziano. Pur non essendo un museo strutturato, lo spazio espositivo raccoglie documenti, suppellettili e memorie del borgo, rappresentando una tappa importante per chi desidera conoscere la storia stratificata di Marano Lagunare.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Centro Visite della Riserva Naturale Valle Canal Novo",
+      "address": "Via delle Valli, 2 – 33050 Marano Lagunare (UD)",
+      "website_url": "http://www.parks.it/riserva.valle.canal.novo/index.php",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Visite%20della%20Riserva%20Naturale%20Valle%20Canal%20Novo%2C%20Via%20delle%20Valli%2C%202%20%E2%80%93%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Il Centro Visite della Riserva Naturale Valle Canal Novo svolge una funzione museale naturalistica, dedicata all’ecosistema lagunare di Marano. La struttura, progettata per l’educazione ambientale, offre percorsi didattici, spazi ideali per la birdwatching e approfondimenti sulla storia, la geomorfologia e la fauna della laguna. È particolarmente indicato per le scuole e completa la visita al MuLa offrendo una chiave di lettura ambientale del territorio.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/marano-lagunare.md"
+    }
+  ]
+}

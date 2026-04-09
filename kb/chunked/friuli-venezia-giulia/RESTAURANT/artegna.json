@@ -1,0 +1,79 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Artegna",
+  "province": "UD",
+  "page_title": "Artegna",
+  "page_summary": "Guida ai principali ristoranti del comune di Artegna: locali specializzati in pesce fresco, trattorie friulane, osterie moderne di mare e la pizzeria di riferimento del territorio.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md",
+  "processed_at": "2026-04-09T13:20:41.831Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/artegna__0",
+      "text": "### Albergo Ristorante La'Di Copet\n\n**Indirizzo:** Via Guarnerio d'Artegna, 21  \n**Telefono:** 0432 977390  \n**Valutazione:** 4.5/5 su TripAdvisor (1° su 5 ristoranti in Artegna con 89 recensioni verificate)\n\nLa'Di Copet è il gioiello ristoratero di Artegna, celebre in tutta la provincia di Udine per l'eccellenza assoluta del pesce fresco. Non si tratta di una semplice trattoria, ma di una vera istituzione che combina ospitalità alberghiera con ristorazione d'eccellenza. La specializzazione esclusiva nel pesce fresco distingue questo locale dalla concorrenza regionale: ogni piatto è preparato con ingredienti appena giunti dal mare, con un'attenzione maniacale alla qualità e alla freschezza.\n\nI piatti signature includono branzino impeccabilmente preparato, spigola al forno, orata intera al sale e una variegata proposta di frutti di mare. Le recensioni degli ospiti lodano particolarmente la trasparenza dei prezzi, il rapporto qualità-prezzo eccellente e l'atmosfera intima ma mai provinciale. Il servizio è attento e competente, con personale che conosce ogni dettaglio del menu e sa guidare il cliente verso le scelte migliori del giorno.\n\nL'albergo integrato offre comfort per chi desideri fermarsi nel territorio, con camere semplici ma ben mantenute. Fascia di prezzo: media-alta, con menu fisso intorno ai 30-40 euro a persona per un'esperienza di pesce di qualità.",
+      "metadata": {
+        "section_title": "Albergo Ristorante La'Di Copet",
+        "links": [],
+        "addresses": [
+          "Via Guarnerio d'Artegna, 21"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "media-alta, con menu fisso intorno ai 30-40 euro a persona per un'esperienza di pesce di qualità."
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/artegna__1",
+      "text": "### Albergo Trattoria Al Castello\n\n**Indirizzo:** Via Sottocastello, 26  \n**Telefono:** 0432 987499  \n**Sito web:** www.albergotrattoriaalcastello.com  \n**Valutazione:** 4.5/5 su Restaurant Guru (55 recensioni)\n\nQuesta trattoria incarna l'autenticità della cucina friulana, situata strategicamente alle pendici del Castello Savorgnan che domina Artegna. Al Castello offre un'esperienza radicata nella tradizione, con una proposta culinaria che alterna piatti di pesce fresco (calamari, scampi, pesce del giorno) ai classici della cucina friulana. Le specialità includono cjarsons (i tradizionali ravioli friulani dolce-salati), frico (la frittata di patate e formaggio), e piatti a base di selvaggina quando di stagione.\n\nLa caratteristica distintiva è l'impegno verso l'accessibilità gastronomica, con opzioni vegetariane e piatti senza glutine per chi ha esigenze dietetiche specifiche. La struttura alberghiera integrata (come La'Di Copet) rende il locale una meta ideale per chi visita il territorio e desidera fermarsi per una notte, godendo di cena nel ristorante e colazione al mattino.\n\nChiuso lunedì. Atmosfera accogliente e familiare, perfetta per comitive e famiglie. Fascia di prezzo: media, con menu intorno ai 25-35 euro a persona.",
+      "metadata": {
+        "section_title": "Albergo Trattoria Al Castello",
+        "links": [
+          {
+            "text": "www.albergotrattoriaalcastello.com",
+            "url": "www.albergotrattoriaalcastello.com"
+          }
+        ],
+        "addresses": [
+          "Via Sottocastello, 26"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "media, con menu intorno ai 25-35 euro a persona."
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/artegna__2",
+      "text": "### Osteria del Mare\n\n**Indirizzo:** Via Nazionale, 29/1  \n**Email:** info@osteriadelmare.info  \n**Sito web:** www.osteriadelmareartegna.com\n\nL'Osteria del Mare rappresenta la versione più contemporanea della ristorazione di pesce ad Artegna, pur mantenendo radici solide nella tradizione adriatica. Il locale si ispira alle tecniche di cottura della Riviera Romagnola, con particolare attenzione alla grigliatura e alla preparazione di antipasti di pesce.\n\nLa proposta gastronomica spazia da aperitivi di mare creativi (alici marinate, polpo affumicato, crostacei dell'Adriatico) fino a piatti più strutturati come tagliatelle all'astice e pesce intero grigliato a vista. I dolci sono realizzati in casa, seguendo ricette tradizionali che spaziano dai semifreddi alle crostate, con una predilezione per i sapori che richiamano la stagionalità.\n\nL'ambiente è moderno ma non sterile, con una gestione che predilige la qualità della materia prima e l'onestà dei prezzi. Fascia di prezzo: media-alta, con una media di spesa attorno ai 35-45 euro a persona per un menu completo.",
+      "metadata": {
+        "section_title": "Osteria del Mare",
+        "links": [
+          {
+            "text": "www.osteriadelmareartegna.com",
+            "url": "www.osteriadelmareartegna.com"
+          }
+        ],
+        "addresses": [
+          "Via Nazionale, 29/1"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "media-alta, con una media di spesa attorno ai 35-45 euro a persona per un menu completo."
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/artegna__3",
+      "text": "### Ristorante Pizzeria Al Ledra\n\n**Indirizzo:** Via Nazionale, 65  \n**Telefono:** 0432 987136 / 0432 987542  \n**Valutazione:** 4.3/5 su Restaurant Guru (456 recensioni, 3° su 6 ristoranti in Artegna)  \n**Orari:** Lunedì-Domenica 11:30-15:00, 18:00-23:30  \n**Accessibilità:** Facilmente accessibile ai disabili\n\nAl Ledra è il punto di riferimento locale per chi cerca un'esperienza più casual e versatile rispetto alle trattorie tradizionali. Il forno a legna è il cuore pulsante del locale, dove si preparano pizze con impasto ad alta digeribilità e ingredienti selezionati. Ma la proposta del ristorante va ben oltre: il menu propone piatti di cucina italiana classica, una vasta selezione di pesce fresco (preparato in diverse modalità) e una ricca gamma di piatti della tradizione friulana.\n\nLa versatilità è la forza di Al Ledra: perfetto per una pizza serale informale, adatto anche per cene più strutturate, aperto a pranzo (caratteristica rara nei piccoli comuni). L'alto volume di recensioni (456) testimonia una clientela fedele sia locale che di passaggio. Il servizio è veloce senza sacrificare l'attenzione, e l'ambiente è ben organizzato per accogliere diversi tipi di commensali.\n\nFascia di prezzo: bassa-media, con pizza intorno ai 10-15 euro e piatti di pesce attorno ai 18-28 euro.",
+      "metadata": {
+        "section_title": "Ristorante Pizzeria Al Ledra",
+        "links": [],
+        "addresses": [
+          "Via Nazionale, 65"
+        ],
+        "image_urls": [],
+        "opening_hours": "Lunedì-Domenica 11:30-15:00, 18:00-23:30",
+        "prices": "bassa-media, con pizza intorno ai 10-15 euro e piatti di pesce attorno ai 18-28 euro."
+      }
+    }
+  ]
+}

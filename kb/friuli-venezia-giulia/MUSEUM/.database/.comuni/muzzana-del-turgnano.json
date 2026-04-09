@@ -1,0 +1,41 @@
+{
+  "comune_name": "Muzzana del Turgnano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muzzana-del-turgnano.md",
+  "extracted_at": "2026-04-09T10:52:08.282Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Vitale Martire",
+      "address": "Via Roma, 33055 Muzzana del Turgnano (UD)",
+      "website_url": "http://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-1517391927/forania-della-bassa-friulana-1665/muzzana-del-turgnano-377/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Vitale%20Martire%2C%20Via%20Roma%2C%2033055%20Muzzana%20del%20Turgnano%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Vitale Martire è il principale edificio storico-artistico di Muzzana del Turgnano. Costruita tra il 1757 e il 1768 in stile tardosettecentesco, conserva preziose opere d'arte sacra tra cui un organo a canne Nachini del 1750 e una Via Crucis di Antonio Treleani. La chiesa, restaurata più volte nel corso dei secoli, ospita mosaici e dipinti di rilievo, rendendola un riferimento per la storia religiosa e artistica della Bassa friulana.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Parco degli Orbi — Spazio Commemorativo e Memoriale Storico",
+      "address": null,
+      "website_url": "https://www.comune.muzzanadelturgnano.ud.it/it/turismo-14705/storia-26173/gli-orbi-di-muzzana-26180",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20degli%20Orbi%20%E2%80%94%20Spazio%20Commemorativo%20e%20Memoriale%20Storico%2C%20Muzzana%20del%20Turgnano",
+      "image_url": null,
+      "description": "Il Parco degli Orbi è uno spazio pubblico inaugurato nel 2022 e dedicato alla memoria della tragedia degli Orbi di Muzzana avvenuta nel 1514. Non si tratta di un museo tradizionale, ma di un'area commemorativa con pannelli storici e aree verdi, ideata come luogo di riflessione collettiva e percorso educativo sulla storia locale. È un punto di riferimento per visite scolastiche e itinerari culturali nella Bassa friulana.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Boschi di Muzzana — Patrimonio Naturale e Culturale della Bassa Friulana",
+      "address": null,
+      "website_url": "https://www.boschidimuzzana.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Boschi%20di%20Muzzana%20%E2%80%94%20Patrimonio%20Naturale%20e%20Culturale%20della%20Bassa%20Friulana%2C%20Muzzana%20del%20Turgnano",
+      "image_url": null,
+      "description": "I Boschi di Muzzana rappresentano la più ampia testimonianza di querco-carpineti planiziali della regione e sono considerati un importante patrimonio naturale e culturale. Anche se non sono un museo, vi si trovano percorsi didattici, pannelli esplicativi e una straordinaria biodiversità. Questi boschi sono inseriti nei circuiti escursionistici regionali e testimoniano la memoria ambientale e antropologica della comunità locale.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muzzana-del-turgnano.md"
+    }
+  ]
+}

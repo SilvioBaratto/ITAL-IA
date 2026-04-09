@@ -1,0 +1,118 @@
+{
+  "comune_name": "Budoia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md",
+  "extracted_at": "2026-04-09T10:35:42.002Z",
+  "pois": [
+    {
+      "name": "Pieve di Santa Maria Maggiore — Dardago",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santa%20Maria%20Maggiore%20%E2%80%94%20Dardago%2C%20Budoia",
+      "image_url": null,
+      "description": "La Pieve di Santa Maria Maggiore è il più antico e importante edificio religioso di Budoia, citata per la prima volta nel 1186 e ricostruita tra il 1786 e il 1823 in stile tardo-barocco con influssi neoclassici. All'interno ospita prestigiosi arredi e opere d'arte, tra cui la pala dei Santi Stefano, Rocco e Sebastiano, statue di Antonio Pigatti e affreschi di Gian Carlo Bevilacqua. La torre campanaria, separata dalla chiesa, fu edificata tra il 1854 e il 1863.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Sito Archeologico di San Tomè — Dardago/Valle di San Tomè",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Archeologico%20di%20San%20Tom%C3%A8%20%E2%80%94%20Dardago%2FValle%20di%20San%20Tom%C3%A8%2C%20Budoia",
+      "image_url": null,
+      "description": "La Valle di San Tomè custodisce i resti dei primi insediamenti umani nel territorio, con reperti che vanno dal Neolitico all'età medievale. La zona è famosa per la presenza della Chiesa di San Tomè, risalente al XIV secolo, e per gli affreschi del 1565 attribuiti allo Stefanelli, testimonianza di una lunga continuità abitativa. Le leggende locali legano l'area alle migrazioni durante le invasioni di Attila.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Chiesetta di Santa Lucia in Colle — Santa Lucia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Santa%20Lucia%20in%20Colle%20%E2%80%94%20Santa%20Lucia%2C%20Budoia",
+      "image_url": null,
+      "description": "La Chiesetta di Santa Lucia in Colle, piccolo oratorio del XIV secolo situato sulla collina omonima, ospita un prezioso affresco del Martirio di Santa Lucia attribuito a Gianfrancesco da Tolmezzo. L'edificio è meta di pellegrinaggi e parte dell'itinerario panoramico dei colli di Santa Lucia, offrendo una delle testimonianze medievali più importanti del comprensorio pordenonese.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo — Budoia (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Budoia%20(capoluogo)%2C%20Budoia",
+      "image_url": null,
+      "description": "La Chiesa di Sant'Andrea Apostolo, parrocchiale del capoluogo di Budoia, è dedicata al santo patrono del comune. Edificio di impianto seicentesco-settecentesco, rappresenta il centro della vita religiosa e sociale di Budoia ed è aperta al pubblico, riconoscibile per la sua sagoma sulle colline circostanti.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria — Budoia (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20%E2%80%94%20Budoia%20(capoluogo)%2C%20Budoia",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria, principale edificio di culto del capoluogo, è realizzata in stile neoclassico. Conserva un raffinato altare maggiore in marmo di stile barocco e affreschi realizzati da Gian Carlo Bevilacqua, noto decoratore di chiese tra Friuli e Veneto tra Settecento e Ottocento.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Il Rujal — Dardago (Ecomuseo di Budoia)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Rujal%20%E2%80%94%20Dardago%20(Ecomuseo%20di%20Budoia)%2C%20Budoia",
+      "image_url": null,
+      "description": "Il Rujal è un antico acquedotto comunitario in pietra che convogliava le acque del torrente Artugna verso Dardago, tipico delle tecnologie idrauliche rurali friulane. Restaurato e integrato nell'Ecomuseo di Budoia, il manufatto testimonia la cultura materiale delle comunità collinari della zona.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Ecomuseo di Budoia — Dardago",
+      "address": null,
+      "website_url": "https://www.comune.budoia.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20di%20Budoia%20%E2%80%94%20Dardago%2C%20Budoia",
+      "image_url": null,
+      "description": "L'Ecomuseo di Budoia, con sede a Dardago, valorizza il patrimonio immateriale e materiale locale raccogliendo strumenti, testimonianze e tradizioni delle comunità di Budoia, Dardago e Santa Lucia. È integrato in una rete di sentieri naturalistici ed etnografici che permettono un'esperienza tra storia, natura e cultura.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Museo del Fungo — Budoia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Fungo%20%E2%80%94%20Budoia%2C%20Budoia",
+      "image_url": null,
+      "description": "Il Museo del Fungo di Budoia, terzo museo micologico d'Italia, presenta la biodiversità fungina locale e tecniche di riconoscimento, con approfondimenti sulle specie commestibili e tossiche. È legato alla famosa Festa dei Funghi e dell'Ambiente che si svolge ogni anno a settembre, richiamando visitatori da tutta la regione.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Falesia Raffaele Carlesso — Dardago",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Falesia%20Raffaele%20Carlesso%20%E2%80%94%20Dardago%2C%20Budoia",
+      "image_url": null,
+      "description": "La falesia di arrampicata di Dardago, intitolata all'alpinista Raffaele Carlesso, è uno dei siti di arrampicata più noti del Pordenonese. Comprende vari settori, dai principianti agli esperti, ed è simbolo della tradizione alpinistica locale legata alla figura di Carlesso, pionieristico scalatore dolomitico del Novecento.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    },
+    {
+      "name": "Reperti Longobardi di Dardago",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Reperti%20Longobardi%20di%20Dardago%2C%20Budoia",
+      "image_url": null,
+      "description": "Nel centro storico di Dardago sono stati rinvenuti reperti longobardi tra cui fibule, anelli e scheletri, suggerendo l'esistenza di un antico sito di inumazione. Questi ritrovamenti sottolineano l'importanza storica dell'insediamento, che testimonia la continuità abitativa dall'età preistorica all'Alto Medioevo.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/budoia.md"
+    }
+  ]
+}

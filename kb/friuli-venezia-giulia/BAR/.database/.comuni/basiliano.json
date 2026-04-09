@@ -1,0 +1,41 @@
+{
+  "comune_name": "Basiliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/basiliano.md",
+  "extracted_at": "2026-04-09T10:02:31.690Z",
+  "pois": [
+    {
+      "name": "Bar Al Mattiniero — Basagliapenta",
+      "address": "Piazza S. Valentino, 1 — Basagliapenta, 33031 Basiliano (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Al Mattiniero è il punto di ritrovo mattutino per i residenti di Basagliapenta e delle campagne circostanti, situato nella piazza principale della frazione più settentrionale di Basiliano. Il locale offre un ambiente semplice e familiare, tipico dei bar rurali friulani, con colazioni classiche e aperitivi della domenica. La gestione a conduzione familiare garantisce una presenza costante nella vita della comunità. È il luogo dove iniziare la giornata con un caffè, leggere il giornale e scambiare due parole tra compaesani.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/basiliano.md"
+    },
+    {
+      "name": "Pizza-Snack-Bar — Basiliano capoluogo",
+      "address": "Via Corecian, 66 — 33031 Basiliano (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situato lungo Via Corecian nel centro di Basiliano, questo locale unisce le funzioni di bar, snack-bar e punto pizza gestito dalla famiglia Cavinato-Fiorito. È un punto di riferimento quotidiano per un caffè veloce al mattino o uno spuntino a pranzo, con la pizza al taglio protagonista dell'offerta nelle ore centrali. Il bancone è il fulcro della vita sociale del locale, che offre anche il classico aperitivo serale con spritz e stuzzichini in un'atmosfera conviviale e genuina.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/basiliano.md"
+    },
+    {
+      "name": "Hosteria Alla Vecchia Pesa — Orgnano",
+      "address": "Piazza III Novembre, 2 — Orgnano, 33031 Basiliano (UD)",
+      "website_url": "https://www.facebook.com/hosteriaallavecchiapesa",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situata nella piazza principale di Orgnano, l'Hosteria Alla Vecchia Pesa unisce la tradizione di trattoria-osteria a quella di bar di paese. Qui si può fermarsi per un caffè dopo pranzo, uno spritz nel tardo pomeriggio o una cena tipica friulana, il tutto in un ambiente attento all'accessibilità e alla clientela familiare. Nei periodi delle sagre locali l'atmosfera diventa ancora più conviviale, evidenziando il ruolo del locale come centro della vita sociale della frazione.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/basiliano.md"
+    }
+  ]
+}

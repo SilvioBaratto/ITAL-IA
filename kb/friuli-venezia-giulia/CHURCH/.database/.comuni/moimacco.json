@@ -1,0 +1,74 @@
+{
+  "comune_name": "Moimacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md",
+  "extracted_at": "2026-04-09T10:30:31.853Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di Santa Maria Assunta",
+      "address": "Via della Chiesa",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68547",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20Santa%20Maria%20Assunta%2C%20Via%20della%20Chiesa",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria Assunta è il principale edificio di culto di Moimacco, con origini che risalgono al IX secolo e l’attuale struttura realizzata tra il 1883 e il 1894. È caratterizzata da uno stile eclettico storicista e da una facciata a tre corpi con campanile completo di cupola, danneggiato dal terremoto del 1976 e poi restaurato. All'interno sono conservate opere di pregio come una tela di Francesco Chiarottini, una statua veneziana della Madonna del Rosario e confessionali barocchi di Matteo Deganutti.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Battista in Malina",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68549/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Battista%20in%20Malina%2C%20Moimacco",
+      "image_url": null,
+      "description": "Situata nella località Malina, questa chiesa è uno degli edifici religiosi più antichi dell’area, con struttura risalente tra l’VIII e il XII secolo. Mostra numerosi interventi dovuti a eventi sismici e storici e custodisce un ciclo di affreschi tardotrecenteschi di grande valore, oltre a un altarolo con statua lignea di San Giovanni Battista. L’edificio ha svolto nei secoli diverse funzioni, tra cui quella di lazzaretto e dormitorio militare.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md"
+    },
+    {
+      "name": "Chiesa di San Donato in Valle",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68548/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Donato%20in%20Valle%2C%20Moimacco",
+      "image_url": null,
+      "description": "La chiesa di San Donato, immersa nella valle del torrente Malina, risale al XIII secolo e venne ricostruita nel Seicento. È un luogo di antico pellegrinaggio legato al martire San Donato, con una facciata essenziale caratterizzata dall’alta monofora campanaria. Il portale in bronzo, decorato da formelle dello scultore Guido Tavagnacco, è una delle sue particolarità, e nei restauri sono emersi resti di affreschi tardo-romanici nell’abside.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md"
+    },
+    {
+      "name": "Oratorio dell'Immacolata",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20dell'Immacolata%2C%20Moimacco",
+      "image_url": null,
+      "description": "L’oratorio dell’Immacolata si trova nel centro di Moimacco, accanto all’ex Casa Tavagnacco, ora pinacoteca civica. È un piccolo edificio devozionale privato o semi-pubblico, giunto integro fino ai giorni nostri, testimonianza della diffusa devozione mariana nella comunità. Non sono presenti decorazioni artistiche di rilievo.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Giusto Martire (Bottenicco)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Giusto%20Martire%20(Bottenicco)%2C%20Moimacco",
+      "image_url": null,
+      "description": "La chiesa di San Giusto Martire si trova nella frazione di Bottenicco ed è un semplice edificio a navata rettangolare in stile neoclassico, costruito nel 1869. Il campanile seicentesco preesistente è il principale elemento storico rimasto. La chiesa non conserva opere pittoriche di rilievo ma riflette l’architettura delle tipiche chiese rurali friulane.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md"
+    },
+    {
+      "name": "Cappella nobiliare della Santa Croce (Villa De Claricini-Dornpacher)",
+      "address": null,
+      "website_url": "https://it.wikipedia.org/wiki/Fondazione_De_Claricini-Dornpacher",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20nobiliare%20della%20Santa%20Croce%20(Villa%20De%20Claricini-Dornpacher)%2C%20Moimacco",
+      "image_url": null,
+      "description": "Annessa alla Villa De Claricini-Dornpacher a Bottenicco, la cappella della Santa Croce è un esempio di architettura barocco-veneta della fine del XVII secolo. Al suo interno sono conservate due grandi tele di soggetto sacro, copie realizzate da Lucilio Candido sulla base dei modelli di Pordenone e Amalteo. È significativa per il valore storico-documentario delle opere che testimoniano la circolazione dei modelli pittorici nell’aristocrazia friulana.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moimacco.md"
+    }
+  ]
+}

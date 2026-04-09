@@ -1,0 +1,118 @@
+{
+  "comune_name": "Aviano",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md",
+  "extracted_at": "2026-04-09T10:18:59.961Z",
+  "pois": [
+    {
+      "name": "Duomo di San Zenone",
+      "address": null,
+      "website_url": "http://www.parrocchieaviano.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Zenone%2C%20Aviano",
+      "image_url": null,
+      "description": "Il Duomo di San Zenone rappresenta il principale luogo di culto cattolico di Aviano e fu realizzato su progetto neoclassico di Francesco Riccati tra il 1775 e il 1818, sostituendo una chiesa preesistente. L'edificio, dalla facciata a lesene con timpano e navata luminosa, custodisce nel coro dipinti del XVI e XVII secolo, tra cui uno attribuito alla cerchia di Paolo Veronese. È intitolato a San Zenone di Verona, patrono del comune, e riveste un ruolo centrale nella vita religiosa locale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa delle Sante Maria e Giuliana",
+      "address": "Piazza Castello, Castello d'Aviano",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65449/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20delle%20Sante%20Maria%20e%20Giuliana%2C%20Piazza%20Castello%2C%20Castello%20d'Aviano",
+      "image_url": null,
+      "description": "Situata all’interno della cerchia muraria del castello medievale di Castello d’Aviano, la chiesa fu costruita nel 1583 su progetto attribuito a Vincenzo Scamozzi e consacrata nel 1588. Presenta un elegante stile rinascimentale veneto con elementi manieristici, una facciata a capanna decorata da statue e un campanile merlato. All'interno custodisce opere di pregio, tra cui una pala di Francesco Materassi, una statua della Pietà salisburghese e altre testimonianze d’arte sacra locale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa di Santa Giuliana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Giuliana%2C%20Aviano",
+      "image_url": null,
+      "description": "La chiesa di Santa Giuliana è uno degli edifici sacri più antichi nel territorio avianese, caratterizzata da modeste dimensioni e da importanti cicli di affreschi votivi di impronta romanico-bizantina databili tra l'XI e il XIII secolo. Questi affreschi testimoniano la diffusione di modelli iconografici orientali nel Friuli medievale. Un tempo vi era custodita anche una pala di Gianfrancesco da Tolmezzo, oggi non più presente.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa di San Gregorio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Gregorio%2C%20Aviano",
+      "image_url": null,
+      "description": "Posta nel centro storico di Castello d’Aviano, la chiesa di San Gregorio conserva un importante ciclo di affreschi della Passione di Cristo realizzato nel 1497 da Gianfrancesco da Tolmezzo, principale esponente della pittura friulana del Quattrocento. Gli affreschi sono un esempio significativo della sintesi tra cultura gotica e influenze venete tipica della scuola tolmezzina. La presenza di tali opere d’arte in una piccola chiesa di frazione testimonia la vivacità culturale dell’area nel tardo Quattrocento.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Santuario della Madonna del Monte",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20del%20Monte%2C%20Aviano",
+      "image_url": null,
+      "description": "Il Santuario della Madonna del Monte si trova su un’altura panoramica vicino ad Aviano ed è il principale luogo di pellegrinaggio mariano del comune, legato a una tradizione di apparizione datata 1510. Costruito nel 1615 e ampliato successivamente in stile barocco, l’edificio è pensato per accogliere numerosi pellegrini. Ancora oggi meta di devozione popolare, il santuario riflette la profonda tradizione della Madonna delle alture tipica della regione.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesetta di Santa Caterina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Santa%20Caterina%2C%20Aviano",
+      "image_url": null,
+      "description": "Situata nella frazione di Marsure, la chiesa di Santa Caterina è un piccolo gioiello di arte medievale edificato nel XV secolo. Le sue pareti interne sono interamente decorate da un ciclo di affreschi che illustrano la vita della santa, realizzati con vivacità narrativa e influenze della scuola tolmezzina. Rappresenta un raro esempio di programma decorativo affidato a maestranze locali in un contesto rurale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%2C%20Aviano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Martino di Campagna custodisce importanti opere d'arte, tra cui una tela di Pomponio Amalteo, uno dei maggiori pittori regionali del Cinquecento. L'edificio testimonia la diffusione delle grandi committenze ecclesiastiche anche nelle comunità rurali friulane e conserva inoltre pregevoli opere lignee del XVII secolo.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Giais",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Giais%2C%20Aviano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Giais, di impianto tradizionale, rappresenta il fulcro religioso della frazione e custodisce una pala d'altare barocca attribuita a O. Gortanutti. L’opera riflette il gusto barocco diffuso nella regione nel Seicento, mentre la continuità di culto della chiesa si attesta almeno dal periodo medievale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesetta di San Floriano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Floriano%2C%20Aviano",
+      "image_url": null,
+      "description": "Dedicata a San Floriano, la chiesetta risale al XV secolo e si inserisce nel contesto degli oratori rurali tipici dell’area friulana. Realizzata in stile gotico-tardogotico semplice, presenta caratteristiche architettoniche tradizionali delle cappelle medievali della zona. San Floriano era particolarmente venerato come protettore dei pompieri e dei soldati.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maddalena",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65450/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maddalena%2C%20Aviano",
+      "image_url": null,
+      "description": "Chiesa ottocentesca situata a Villotta di Aviano, la parrocchiale di Santa Maria Maddalena è di particolare significato devozionale per essere legata al Beato Marco d’Aviano, nativo della frazione e figura centrale nella spiritualità cattolica europea. L’edificio ha architettura semplice ma riveste un ruolo importante nella memoria storica locale, con il culto legato al beato e la presenza di una statua commemorativa in piazza ad Aviano.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/aviano.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Carlino",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/carlino.md",
+  "extracted_at": "2026-04-09T10:21:21.001Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Tommaso Becket (chiesa parrocchiale)",
+      "address": "Carlino, via Forip (capoluogo)",
+      "website_url": "http://www.comune.carlino.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Tommaso%20Becket%20(chiesa%20parrocchiale)%2C%20Carlino%2C%20via%20Forip%20(capoluogo)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Carlino, dedicata a San Tommaso Becket, è il principale luogo di culto del comune e risale al XVIII secolo, con uno stile barocco-neoclassico friulano. È nota per custodire una tela d'altare attribuita al pittore Michelangelo Grigoletti, opera di particolare pregio artistico. L'edificio presenta una struttura tipica delle chiese di pianura friulana, con una facciata a capanna, navata unica e torre campanaria addossata. È il centro della vita liturgica della comunità e ospita la festa patronale il 21 dicembre.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/carlino.md"
+    },
+    {
+      "name": "Chiesa dei Santi Gervasio e Protasio",
+      "address": "Carlino, frazione San Gervasio (_Sarvâs_ in friulano), via San Protasio Martire",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Gervasio%20e%20Protasio%2C%20Carlino%2C%20frazione%20San%20Gervasio%20(_Sarv%C3%A2s_%20in%20friulano)%2C%20via%20San%20Protasio%20Martire",
+      "image_url": null,
+      "description": "Situata nella frazione di San Gervasio, la chiesa è dedicata ai santi martiri Gervasio e Protasio di Milano e rappresenta un tipico esempio di architettura rurale friulana di impianto medievale con rifacimenti moderni. L'edificio, di dimensioni contenute, mantiene la funzione di cappella comunitaria e testimonia la continuità del culto cristiano nel territorio. Il suo stile è sobrio e privo di ornamenti monumentali, riflettendo la tradizione delle cappelle rurali della Bassa Friulana.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/carlino.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Ausiliatrice",
+      "address": "Carlino, frazione San Gervasio (_Sarvâs_), via Quattro Novembre, località Zavattina",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Ausiliatrice%2C%20Carlino%2C%20frazione%20San%20Gervasio%20(_Sarv%C3%A2s_)%2C%20via%20Quattro%20Novembre%2C%20localit%C3%A0%20Zavattina",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria Ausiliatrice sorge nella località Zavattina, all'interno della frazione San Gervasio, e risale probabilmente tra la fine dell'Ottocento e la prima metà del Novecento. L'edificio, di gusto neogotico-popolare, è dedicato alla Madonna Ausiliatrice, titolo mariano promosso dai salesiani. Rappresenta un luogo di culto di prossimità per la zona e riflette la tradizione delle cappelle devozionali mariane nelle campagne friulane.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/carlino.md"
+    }
+  ]
+}

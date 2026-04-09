@@ -1,0 +1,52 @@
+{
+  "comune_name": "Coseano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/coseano.md",
+  "extracted_at": "2026-04-09T11:00:05.083Z",
+  "pois": [
+    {
+      "name": "Trattoria Due Più",
+      "address": "Piazza Don Ludovico Bellina 3, nella frazione di Maseris (33030)",
+      "website_url": "https://trattoriaduepiu.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Due%20Pi%C3%B9%2C%20Piazza%20Don%20Ludovico%20Bellina%203%2C%20nella%20frazione%20di%20Maseris%20(33030)",
+      "image_url": null,
+      "description": "Trattoria storica con oltre cinquant'anni di attività, specializzata nella cucina di pesce, in particolare il calamaro fritto, vera specialità locale che ha dato origine a una tradizione a Maseris. Il menù propone assortimenti di pesce fritto, ravioli al branzino, scampi e altre ricette italiane, il tutto in un'atmosfera accogliente e familiare. È considerata una delle migliori trattorie della zona, ideale per chi cerca la genuinità della cucina friulana. La fascia di prezzo è media.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/coseano.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Al Cacciatore",
+      "address": "Via Maggiore 28 nel borgo di Barazzetto di Coseano (33030)",
+      "website_url": "http://www.alcacciatore.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Al%20Cacciatore%2C%20Via%20Maggiore%2028%20nel%20borgo%20di%20Barazzetto%20di%20Coseano%20(33030)",
+      "image_url": null,
+      "description": "Pizzeria con oltre vent'anni di attività, apprezzata per una vasta selezione di oltre 70 pizze, impasti speciali come carbone vegetale o barbabietola e pizze gourmet. Propone anche cucina casalinga con specialità friulane come frico, salsiccia in umido, pane e pasta fatti in casa. L'ambiente è informale e conviviale, perfetto per cene tra amici o in famiglia. La fascia di prezzo è economica-media.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/coseano.md"
+    },
+    {
+      "name": "Agriturismo Al Mulino Del Conte",
+      "address": "Via Tagliamento 268 a Coseano",
+      "website_url": "https://www.facebook.com/p/Mulino-del-Conte-Agriturismo-100083028892252/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Mulino%20Del%20Conte%2C%20Via%20Tagliamento%20268%20a%20Coseano",
+      "image_url": null,
+      "description": "Agriturismo friulano che offre ristorazione tipica in un contesto rurale autentico e accogliente, con fattoria didattica e un'ampia scelta di piatti tradizionali reinterpretati. Tra le specialità il tortone con crema Chantilly e vari primi friulani, con menù servito soprattutto nel weekend. Ideale per famiglie, offre anche camere e vendita prodotti propri. Prezzi medi, atmosfera rustica e familiare.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/coseano.md"
+    },
+    {
+      "name": "Barbablu Cisterna di Coseano",
+      "address": "Via Nazionale 61",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Barbablu%20Cisterna%20di%20Coseano%2C%20Via%20Nazionale%2061",
+      "image_url": null,
+      "description": "Locale che propone cucina tipica del Friuli Venezia Giulia a prezzi moderati, noto per l'ambiente cordiale e il servizio professionale. Si raccomanda di verificare l'apertura chiamando prima, in quanto il locale potrebbe essere permanentemente chiuso dal 2023.",
+      "comune_name": "Coseano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/coseano.md"
+    }
+  ]
+}

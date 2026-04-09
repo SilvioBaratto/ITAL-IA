@@ -1,0 +1,63 @@
+{
+  "comune_name": "Clauzetto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/clauzetto.md",
+  "extracted_at": "2026-04-09T10:10:36.333Z",
+  "pois": [
+    {
+      "name": "Albergo Ristorante Bar Corona",
+      "address": "Via Giovanni Maria Fabricio, 20 – Clauzetto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Bar%20Corona%2C%20Via%20Giovanni%20Maria%20Fabricio%2C%2020%20%E2%80%93%20Clauzetto%20(PN)",
+      "image_url": null,
+      "description": "Il Corona è un classico albergo-ristorante-bar a conduzione familiare, punto di riferimento per la comunità di Clauzetto e per i viaggiatori. Offre servizio bar semplice, dove si può gustare un caffè al mattino, un bicchiere di vino o un aperitivo, in un ambiente genuino e senza pretese. È molto frequentato da escursionisti, visitatori delle attrazioni naturali vicine e ciclisti, restando un luogo di socialità autentica e informale. D'estate il bar si anima di turisti e famiglie in gita.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Ristorante Ai Mulinars",
+      "address": "Via della Val Cosa, 83 – Clauzetto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Ai%20Mulinars%2C%20Via%20della%20Val%20Cosa%2C%2083%20%E2%80%93%20Clauzetto%20(PN)",
+      "image_url": null,
+      "description": "Ai Mulinars è un ristorante tipico della tradizione montana friulana situato nella suggestiva valle del torrente Cosa. Il servizio bar è integrato nella struttura ristorativa: i clienti possono fermarsi per un caffè, un succo o un bicchiere di vino, spesso dopo una camminata nella natura circostante. L'atmosfera è cordiale e familiare, con la conversazione con il gestore che fa parte dell'esperienza.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Ristorante Il Furletto",
+      "address": "Via Pradis di Sotto, 101 – Pradis di Sotto, Clauzetto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Il%20Furletto%2C%20Via%20Pradis%20di%20Sotto%2C%20101%20%E2%80%93%20Pradis%20di%20Sotto%2C%20Clauzetto%20(PN)",
+      "image_url": null,
+      "description": "Il Furletto, situato nella frazione di Pradis di Sotto vicino alle Grotte Verdi, è un ristorante fortemente legato al territorio. Qui è possibile ordinare qualcosa da bere mentre si attende il pranzo, oppure fermarsi per un caffè e una fetta di torta casalinga. La posizione immersa nella natura rende il locale ideale per una sosta rilassante, soprattutto nella bella stagione.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Agriturismo Alle Radici",
+      "address": "Via Pradis di Sotto, 101 – Pradis di Sotto, Clauzetto (PN)",
+      "website_url": "https://alleradici.eatbu.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Alle%20Radici%2C%20Via%20Pradis%20di%20Sotto%2C%20101%20%E2%80%93%20Pradis%20di%20Sotto%2C%20Clauzetto%20(PN)",
+      "image_url": null,
+      "description": "Agriturismo Alle Radici accoglie gli ospiti in un contesto rurale immerso nel verde dell'altopiano di Pradis. Il momento del caffè o dell'aperitivo si vive all'aperto, bevendo vino friulano e degustando salumi e pane fatti in casa. Il locale offre una socialità autentica e stagionale, in armonia con il ritmo della natura montana.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Rifugio Escursionistico Monte Pala",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Escursionistico%20Monte%20Pala%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Il Rifugio Monte Pala è un punto di sosta frequentato da escursionisti e amanti della montagna sull'altopiano di Clauzetto. Offre bevande calde e fredde come caffè, tè e succhi, oltre a pasti semplici, in uno spazio conviviale che favorisce l'incontro tra viaggiatori. In estate il rifugio è vivace, meta di chi percorre i sentieri a piedi o in mountain bike.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/clauzetto.md"
+    }
+  ]
+}

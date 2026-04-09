@@ -1,0 +1,41 @@
+{
+  "comune_name": "Artegna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/artegna.md",
+  "extracted_at": "2026-04-09T10:18:37.757Z",
+  "pois": [
+    {
+      "name": "Pieve di Santa Maria Nascente",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santa%20Maria%20Nascente%2C%20Artegna",
+      "image_url": null,
+      "description": "La Pieve di Santa Maria Nascente è la chiesa principale di Artegna, costruita nel 1829 in stile neoclassico su progetto di Pietro Schiavi. L'interno è riccamente decorato da affreschi realizzati da Sebastiano Santi, Leonardo Rigo e Aurelio Mariani nell'arco di quasi un secolo, oltre a ospitare opere come un dipinto di Luigi Pletti e un crocifisso ligneo del XVI secolo. Situata sul colle di San Martino nel complesso monumentale locale, rappresenta il centro della vita religiosa del paese fin dall'Ottocento.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/artegna.md"
+    },
+    {
+      "name": "Chiesa di San Martino Vescovo",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68221/Chiesa+di+San+Martino+Vescovo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20Vescovo%2C%20Artegna",
+      "image_url": null,
+      "description": "La Chiesa di San Martino Vescovo è l'edificio religioso più antico di Artegna e si trova all'interno del castello dei Savorgnan. Le sue origini risalgono all'altomedioevo e conserva una preziosa lastra marmorea del IX secolo. L'attuale struttura rinascimentale con elementi gotici è il risultato di diverse ricostruzioni, e all'interno si trovano frammenti di un ciclo di affreschi realizzati da Gian Paolo Thanner nel XVI secolo, ricchi di valore storico e artistico. È visitabile come parte del percorso monumentale del colle di San Martino.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/artegna.md"
+    },
+    {
+      "name": "Chiesa di Santo Stefano in Clama",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68223/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santo%20Stefano%20in%20Clama%2C%20Artegna",
+      "image_url": null,
+      "description": "La Chiesa di Santo Stefano in Clama, situata in posizione isolata ai piedi del monte Faet nella borgata Clama, è un rarissimo esempio di stratificazione storica e artistica del Friuli. La struttura attuale risale al XVI secolo ma custodisce lastre altomedievali e tre distinti cicli pittorici databili dall'XI al XV secolo, tra cui affreschi romanici e opere legate alla scuola di Villach e all'influenza artistica alpina e carinziana. I restauri successivi al terremoto del 1976 hanno valorizzato la sua ricchezza iconografica e la testimonianza della continuità del culto cristiano locale.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/artegna.md"
+    }
+  ]
+}

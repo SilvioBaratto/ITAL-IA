@@ -1,0 +1,52 @@
+{
+  "comune_name": "Magnano in Riviera",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/magnano-in-riviera.md",
+  "extracted_at": "2026-04-09T11:05:17.394Z",
+  "pois": [
+    {
+      "name": "Trattoria da Quinto",
+      "address": "Via Julia Augusta, 49 (Bueriis), 33010 Magnano in Riviera (UD)",
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g2533486-d6157862-Reviews-Trattoria_Da_Quinto-Magnano_in_Riviera_Province_of_Udine_Friuli_Venezia_Giulia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Quinto%2C%20Via%20Julia%20Augusta%2C%2049%20(Bueriis)%2C%2033010%20Magnano%20in%20Riviera%20(UD)",
+      "image_url": null,
+      "description": "Storica trattoria a conduzione familiare dal 1930, la Trattoria da Quinto è considerata un'autentica istituzione locale della cucina friulana. Celebre per il frico proposto in oltre 13 varianti e per l'atmosfera calorosa dei due saloni con caminetto, offre anche gnocchi fatti a mano, carni grigliate, funghi di stagione e specialità tradizionali. I prezzi sono accessibili e la clientela prevalentemente locale garantisce autenticità e qualità casalinga.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/magnano-in-riviera.md"
+    },
+    {
+      "name": "Albergo Riviera Pizzeria",
+      "address": "Piazza Ferdinando Urli, 13, 33010 Magnano in Riviera (UD)",
+      "website_url": "http://albergorivieramagnano.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Riviera%20Pizzeria%2C%20Piazza%20Ferdinando%20Urli%2C%2013%2C%2033010%20Magnano%20in%20Riviera%20(UD)",
+      "image_url": null,
+      "description": "Albergo Riviera Pizzeria unisce ospitalità alberghiera e ristorazione tradizionale nel centro di Magnano in Riviera. Il ristorante e la pizzeria con forno a legna propongono piatti locali, pizze sia classiche che speciali, pesce e carne in un ambiente familiare e accogliente. Apprezzato per la cordialità del servizio, offre anche parcheggio gratuito, WiFi e spazi all'aperto; ha ottime valutazioni per la qualità della pizza e i prezzi accessibili.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/magnano-in-riviera.md"
+    },
+    {
+      "name": "Osteria da Gin",
+      "address": "Borgo San Giacomo, 92 (Billerio Alto), 33010 Magnano in Riviera (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Gin%2C%20Borgo%20San%20Giacomo%2C%2092%20(Billerio%20Alto)%2C%2033010%20Magnano%20in%20Riviera%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria da Gin è una piccola osteria familiare nella frazione di Billerio Alto, con una cucina friulana semplice e autentica. Rivolta principalmente ai residenti locali, propone piatti genuini preparati con ingredienti di qualità in un ambiente accogliente e rustico. La sua lunga presenza rappresenta un valore riconosciuto dalla comunità di Magnano in Riviera.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/magnano-in-riviera.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Morena",
+      "address": "Via Nazionale, 5, 33010 Magnano in Riviera (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Morena%2C%20Via%20Nazionale%2C%205%2C%2033010%20Magnano%20in%20Riviera%20(UD)",
+      "image_url": null,
+      "description": "La Pizzeria Morena, situata sulla via principale del paese, offre una soluzione pratica per un pasto rapido senza compromettere la qualità. È una presenza conveniente nella scena gastronomica locale, ideale per la ristorazione quotidiana grazie al suo ambiente accessibile e informale. Le informazioni dettagliate sono limitate.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/magnano-in-riviera.md"
+    }
+  ]
+}

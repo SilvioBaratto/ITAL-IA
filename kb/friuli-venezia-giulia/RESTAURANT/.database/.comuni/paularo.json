@@ -1,0 +1,85 @@
+{
+  "comune_name": "Paularo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md",
+  "extracted_at": "2026-04-09T11:11:12.942Z",
+  "pois": [
+    {
+      "name": "Alla Posta Ristorante Pizzeria",
+      "address": "Via Armando Diaz, 21, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Posta%20Ristorante%20Pizzeria%2C%20Via%20Armando%20Diaz%2C%2021%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Alla Posta è una locanda storica e ristorante celebre a Paularo, con un'atmosfera rustica autentica e gestione familiare da oltre trent'anni. È famoso per i cjarsons homemade, polenta carnica, frico e gnocchi con ricotta affumicata. Nei fine settimana offre anche pizzeria con forno a legna, mantenendo la tradizione locale. Ideale per chi cerca autenticità montana e cucina genuina, vanta il rating più alto tra i ristoranti di Paularo.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    },
+    {
+      "name": "Bar Al Cavallino Ristorante",
+      "address": "Via Guglielmo Marconi, 4, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Al%20Cavallino%20Ristorante%2C%20Via%20Guglielmo%20Marconi%2C%204%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Bar Al Cavallino è un ristorante moderno e tranquillo, rinomato per la qualità della cucina carnica. Propone cjarsons e frico eccellenti, oltre a polenta, ravioli e antipasti freddi preparati con cura. Offre un'esperienza leggermente più raffinata rispetto ad altri locali del paese, mantenendo prezzi onesti e proporzionati alla qualità.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    },
+    {
+      "name": "Pizzeria Al Fogolar",
+      "address": "Via Roma, 52, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Fogolar%2C%20Via%20Roma%2C%2052%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Al Fogolar si distingue per la pizza cotta al forno a legna, con prezzi accessibili. Il menu include pizze classiche e vegetariane, oltre ai cjarsons tradizionali carnici. Il locale è inclusivo, con accesso per disabili, parcheggio gratuito, seggiolini per bambini e opzioni vegetariane, ed è apprezzato per la sua versatilità e genuinità.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    },
+    {
+      "name": "Bar Italia",
+      "address": "Piazza Julia, 4, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Italia%2C%20Piazza%20Julia%2C%204%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Bar Italia è un locale storico in centro a Paularo che offre cucina italiana e carnica. Pur con descrizioni essenziali, rimane punto di riferimento per chi cerca l'atmosfera genuina del paese e sapori locali.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    },
+    {
+      "name": "Trattoria Da Rico",
+      "address": "Via della Pineta, 22, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Rico%2C%20Via%20della%20Pineta%2C%2022%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Da Rico è una trattoria informale e tradizionale immersa nella quiete di Via della Pineta. Specializzata in cucina carnica e piatti tipici locali, offre un ambiente genuino e accogliente, ideale per riscoprire la tradizione montana della Carnia.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    },
+    {
+      "name": "Bar Alla Frasca",
+      "address": "Via Notaio Sartori, 22, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Alla%20Frasca%2C%20Via%20Notaio%20Sartori%2C%2022%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Bar Alla Frasca è una piccola osteria nel centro storico di Paularo, che unisce funzione di bar e locale di ristorazione leggera. Offre snack, bevande e piatti semplici in un ambiente conviviale e informale, frequentato dalla popolazione locale.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    },
+    {
+      "name": "Bar Osteria Al Tabacchino",
+      "address": "Via Notaio Sartori / Via Dierico, 22, 33027 Paularo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Osteria%20Al%20Tabacchino%2C%20Via%20Notaio%20Sartori%20%2F%20Via%20Dierico%2C%2022%2C%2033027%20Paularo%20(UD)",
+      "image_url": null,
+      "description": "Bar Osteria Al Tabacchino è un locale informale nel centro di Paularo, punto di ritrovo per bevande e cucina semplice. Pur essendo principalmente un bar, offre un'esperienza autentica di vita e cultura locale.",
+      "comune_name": "Paularo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paularo.md"
+    }
+  ]
+}

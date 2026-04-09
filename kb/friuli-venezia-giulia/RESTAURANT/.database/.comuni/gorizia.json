@@ -1,0 +1,96 @@
+{
+  "comune_name": "Gorizia",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md",
+  "extracted_at": "2026-04-09T11:04:09.659Z",
+  "pois": [
+    {
+      "name": "Ai Tre Soldi Goriziani",
+      "address": "Corso Italia 38",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Tre%20Soldi%20Goriziani%2C%20Corso%20Italia%2038",
+      "image_url": null,
+      "description": "Ai Tre Soldi Goriziani è un ristorante situato in pieno centro a Gorizia, ospitato in un edificio d'inizio secolo con un curato giardino esterno, perfetto per le serate estive. Propone cucina tipica locale che unisce elementi mitteleuropei, adriatici, istriani e friulani, con attenzione particolare anche a piatti per celiaci. L'atmosfera è accogliente e curata, con una fascia di prezzo media, ideale sia per coppie che incontri di lavoro o famiglia.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "Trattoria Al Piròn",
+      "address": "Via Trieste 15",
+      "website_url": "www.alpiron.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Pir%C3%B2n%2C%20Via%20Trieste%2015",
+      "image_url": null,
+      "description": "Dal 1939 la Trattoria Al Piròn è un punto di riferimento della cucina friulana autentica a Gorizia, gestita ancora oggi dalla famiglia Zigon. Il menu segue un calendario settimanale preciso, con piatti tipici come trippa, gnocchi caserecci, canederli e baccalà, oltre a specialità come jota e seppie in umido. L'atmosfera è semplice e genuina, le porzioni generose e la fascia di prezzo contenuta.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "Trattoria Alla Luna",
+      "address": "Via Oberdan 13",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Luna%2C%20Via%20Oberdan%2013",
+      "image_url": null,
+      "description": "Trattoria storica nel cuore del centro di Gorizia, documentata dal 1876 e gestita dalla famiglia Pintar dal 1956, Alla Luna è famosa per la sua atmosfera conviviale e ricca di memorie storiche. Propone una cucina che rispecchia le tradizioni friulana, slovena, austriaca e balcanica: tra le specialità spiccano gli gnocchi dolci goriziani e una selezione accurata di vini locali. L'ambiente, arredato in legno e ricco di storia, offre una fascia di prezzo media.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "Bio Benessere Supermercato Biologico e Bistrot",
+      "address": "Via Terza Armata 117",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bio%20Benessere%20Supermercato%20Biologico%20e%20Bistrot%2C%20Via%20Terza%20Armata%20117",
+      "image_url": null,
+      "description": "Bio Benessere offre un'esperienza culinaria moderna all'insegna del benessere e del rispetto ambientale, abbinando negozio di prodotti bio, vegani e senza glutine a un bistrot con ristorante vegetariano e vegano. Il menu valorizza ingredienti biologici e piatti creativi, ideale per chi ha necessità alimentari particolari o cerca alternative leggere. Il locale è accogliente, con servizio di asporto e consegna, e offre una fascia di prezzo medio-bassa.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "La Subida (Cormons, nelle vicinanze di Gorizia)",
+      "address": null,
+      "website_url": "www.lasubida.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Subida%20(Cormons%2C%20nelle%20vicinanze%20di%20Gorizia)%2C%20Gorizia",
+      "image_url": null,
+      "description": "La Subida, situata a Cormons vicino a Gorizia, rappresenta un punto di riferimento gastronomico stellato Michelin nella zona del Collio. Ospita la Trattoria al Cacciatore, rinomata per la raffinata interpretazione delle tradizioni friulana, slovena e austro-ungarica, e l'Osteria per esperienze più tradizionali. L'ambiente è rustico ed elegante, immerso nella campagna, con una carta dei vini notevole e una fascia di prezzo elevata, giustificata dalla qualità.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "Pizzeria Al Lampione",
+      "address": "Via Pellico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Lampione%2C%20Via%20Pellico",
+      "image_url": null,
+      "description": "Al Lampione è una pizzeria storica di Gorizia, rinomata per l'impasto realizzato con lievito madre e lunga fermentazione. Offre molte varianti di pasta per la pizza, tra cui quelle integrali e al carbone vegetale, confermando attenzione alle diverse esigenze della clientela.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "Antonio Ferraro Laboratorio Pizza",
+      "address": "Corso Italia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antonio%20Ferraro%20Laboratorio%20Pizza%2C%20Corso%20Italia",
+      "image_url": null,
+      "description": "Antonio Ferraro Laboratorio Pizza nasce dall'esperienza premiata a livello internazionale del suo fondatore. È un locale specializzato in impasti leggeri e abbinamenti creativi, che reinterpretano con inventiva la tradizione della pizza pur mantenendo radici nel territorio.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    },
+    {
+      "name": "La Tarantella",
+      "address": "Corso Italia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tarantella%2C%20Corso%20Italia",
+      "image_url": null,
+      "description": "Storica pizzeria situata in Corso Italia, famosa per la vasta scelta di pizze classiche e speciali. Le pizze Marechiaro e Tirolese sono tra le più apprezzate, confermando La Tarantella come uno dei riferimenti della pizza a Gorizia.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gorizia.md"
+    }
+  ]
+}

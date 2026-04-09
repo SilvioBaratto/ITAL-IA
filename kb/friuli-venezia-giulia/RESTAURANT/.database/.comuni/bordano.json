@@ -1,0 +1,30 @@
+{
+  "comune_name": "Bordano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bordano.md",
+  "extracted_at": "2026-04-09T10:55:36.894Z",
+  "pois": [
+    {
+      "name": "Ristorante Alle Sorgenti",
+      "address": "Viale Udine 4, 33010 Bordano (UD)",
+      "website_url": "https://www.ristoranteallesorgenti.net/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Alle%20Sorgenti%2C%20Viale%20Udine%204%2C%2033010%20Bordano%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Alle Sorgenti si trova nel cuore di Bordano e offre una cucina casalinga autentica tipica della tradizione friulana, con una particolare attenzione alla carne alla brace e ingredienti genuini. L'ambiente è semplice e familiare, con spazi interni accoglienti e un ampio giardino esterno adatto anche a famiglie con bambini. Il menù propone piatti tradizionali, opzioni senza glutine e la possibilità di menù personalizzati, il tutto a prezzi molto accessibili. Il servizio è cordiale e veloce, rendendo il ristorante una scelta ideale sia per residenti che per visitatori alla ricerca di autenticità culinaria.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bordano.md"
+    },
+    {
+      "name": "All'Aldila",
+      "address": "Via Roma 21, 33010 Bordano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=All'Aldila%2C%20Via%20Roma%2021%2C%2033010%20Bordano%20(UD)",
+      "image_url": null,
+      "description": "All'Aldila è un ristorante di Bordano molto apprezzato per la sua autentica cucina friulana, con particolare attenzione a pizza e lasagna, entrambe molto lodate dalla clientela locale. Il locale è noto come \"undercover restaurant\", frequentato soprattutto dai residenti, e si distingue per l’atmosfera accogliente e il servizio disponibile. Adatto sia per cene informali che per occasioni speciali, offre un buon rapporto qualità-prezzo con una fascia economica tra i 20 e i 30 euro a persona. La reputazione online è positiva, con valutazioni elevate su TripAdvisor.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bordano.md"
+    }
+  ]
+}

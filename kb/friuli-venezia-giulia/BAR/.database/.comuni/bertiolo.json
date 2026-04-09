@@ -1,0 +1,74 @@
+{
+  "comune_name": "Bertiolo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md",
+  "extracted_at": "2026-04-09T10:02:31.691Z",
+  "pois": [
+    {
+      "name": "Bar Centrale di Marcello Cagnone",
+      "address": "Via Trieste, 4 — 33032 Bertiolo (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Centrale di Marcello Cagnone è il punto di riferimento di Bertiolo sia per la colazione che per il dopo-cena. Offre caffetteria, enoteca e lounge bar in un ambiente informale ma curato, con una clientela variegata che va dai mattinieri agli amanti delle serate del fine settimana. Nelle ore di punta si anima con aperitivi e vini locali, mentre nei weekend diventa un ritrovo per giovani. L'unico giorno di chiusura è il giovedì.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Caffè Commercio di Collavini Linda",
+      "address": "Piazza Plebiscito, 6 — 33032 Bertiolo (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Caffè Commercio si trova nel centro storico di Bertiolo, in Piazza Plebiscito, ed è uno dei bar più storici e frequentati del paese. Qui si alternano clienti abituali e avventori di passaggio dall'alba fino al tardo pomeriggio, offrendo caffè, vino e altri prodotti tipici della caffetteria di paese. La posizione centrale lo rende un ottimo punto di osservazione sulla vita del borgo, specialmente nei giorni di mercato e durante le feste.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Bar Pizzeria Centrale",
+      "address": "Via Trieste, 4 — 33032 Bertiolo (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Pizzeria Centrale combina la funzione di bar con quella di pizzeria, offrendo una soluzione adatta sia a chi desidera una pausa caffè sia a chi cerca una pizza veloce. È particolarmente indicato per chi viaggia tra Udine e Codroipo e cerca un locale versatile in una posizione comoda. Ideale per spuntini e per una clientela mista di lavoratori, studenti e famiglie.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Abracadà Bar",
+      "address": "Via Trieste, 4 — 33032 Bertiolo (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Abracadà Bar si distingue per il nome vivace e la sua vocazione alla socialità informale, attirando una clientela giovane e dinamica. Il locale copre sia le ore diurne sia il pre-serata, diventando un punto di riferimento per chi cerca un ambiente conviviale in centro paese. Situato in posizione centrale, si adatta alle esigenze di una comunità sempre in movimento.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Bar Primavera – Lant Ennio",
+      "address": "Piazza del Popolo, 1 — Virco, frazione di Bertiolo (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Primavera – Lant Ennio si trova nella tranquilla frazione di Virco e rappresenta un tipico bar rurale friulano. Qui si respira un’atmosfera genuina e di convivialità tra residenti, con pochi tavolini e un servizio semplice. È il luogo dove si ritrovano gli abitanti della frazione per chiacchierare, giocare a carte e condividere momenti della vita quotidiana.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Max Nera – Cavinato Massimo & Fiorito Nerina S.n.c.",
+      "address": "Via Angore, 28 — 33032 Bertiolo (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il locale Max Nera, a gestione familiare, si trova in una zona periferica di Bertiolo. Rientra tra i classici bar di vicinato friulani, offrendo servizi base di caffetteria e fungendo da punto di riferimento per gli abitanti delle aree meno centrali. L’atmosfera è semplice e accogliente, tipica dei piccoli esercizi locali.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bertiolo.md"
+    }
+  ]
+}

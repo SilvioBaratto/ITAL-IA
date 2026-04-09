@@ -1,0 +1,19 @@
+{
+  "comune_name": "Moraro",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moraro.md",
+  "extracted_at": "2026-04-09T10:30:55.178Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di Sant'Andrea Apostolo",
+      "address": "Via Colombo, Moraro",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78658",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20Sant'Andrea%20Apostolo%2C%20Via%20Colombo%2C%20Moraro",
+      "image_url": null,
+      "description": "La Chiesa parrocchiale di Sant'Andrea Apostolo è l'unico edificio di culto storico di Moraro e rappresenta un notevole esempio di barocco rurale settecentesco tipico dell'Isontino. Costruita tra il 1736 e il 1740 sul sito di una cappella medievale, presenta una facciata a capanna con elegante portale scolpito e una caratteristica cupola campanaria. L'interno ospita importanti opere d'arte, tra cui il pregiato altare maggiore in marmo di Carrara, affreschi, pale d'altare settecentesche e un raffinato apparato decorativo. Rilevante dal punto di vista storico e artistico, la chiesa testimonia la centralità religiosa e urbanistica del paese attorno alla \"centa\" di case.",
+      "comune_name": "Moraro",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moraro.md"
+    }
+  ]
+}

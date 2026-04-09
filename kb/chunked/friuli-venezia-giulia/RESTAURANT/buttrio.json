@@ -1,0 +1,81 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/buttrio.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Buttrio",
+  "province": "UD",
+  "page_title": "Buttrio",
+  "page_summary": "Guida ai principali ristoranti del comune di Buttrio: locali Michelin e Bib Gourmand, agriturismi panoramici, osterie storiche e proposte gourmet innovative.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/buttrio.md",
+  "processed_at": "2026-04-09T13:24:25.461Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/buttrio__0",
+      "text": "### Enoteca di Buttrio\n\nUbicata presso Via Cividale 38, Enoteca di Buttrio è un ristorante d'eccellenza inserito nella Guida Michelin e classificato al primo posto tra i ristoranti del comune su TripAdvisor. Originariamente nata come enoteca, la struttura si è evoluta gradualmente in un raffinato ristorante con cucina specializzata nel pesce. La sua menu è interamente focalizzata su specialità ittiche, con quasi tutto il pesce proveniente dal Mare Adriatico e selezionato da fornitori certificati che garantiscono la massima freschezza e qualità. Ogni piatto è presentato in veste tradizionale ma arricchito da una reinterpretazione creativa contemporanea.\n\nL'atmosfera è caratterizzata da una calda accoglienza e da una profonda conoscenza enologica: presso Enoteca di Buttrio è possibile scoprire vini finissimi friulani in un ambiente intimo dove la cultura vinicola regionale si intreccia perfettamente con i sapori del mare. La struttura, ospitata in un edificio storico caratteristico e affascinante, è ideale sia per pranzi veloci che per cene d'affari.\n\nÈ importante notare che il ristorante opera con una formula di tasting menu obbligatoria, con la possibilità di pairing vini. Tutti i commensali devono condividere il medesimo format di menu per garantire la migliore esperienza enogastronomica. La fascia di prezzo è medio-alta, coerente con lo standard di qualità Michelin. È possibile contattare il ristorante al numero +39 0432 674131 o via email a info@enotecadibuttriorestaurant.com. Il sito ufficiale è disponibile all'indirizzo www.enotecadibuttriorestaurant.com.",
+      "metadata": {
+        "section_title": "Enoteca di Buttrio",
+        "links": [],
+        "addresses": [
+          "Via Cividale 38"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "medio-alta"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/buttrio__1",
+      "text": "### Trattoria al Parco\n\nSituata in Via Stretta del Parco 1, la Trattoria al Parco è un altro ristorante di spicco inserito nella Guida Michelin e riconosciuto come Bib Gourmand, distintivo che certifica eccellente qualità del cibo a prezzi giusti. Questo elegante locale è stato costruito interamente in mattoni e pietra, e si distingue per i suoi ampi giardini ombreggiati da alberi centenari, che creano un'atmosfera tranquilla e ospitale, insieme a cantine vinicole adiacenti e sale da pranzo personalizzate e accoglienti.\n\nLa cucina è dominata da una forte tradizione di piatti a base di carni, molti dei quali cucinati al grill utilizzando una caratteristica griglia a legna posta direttamente nella sala da pranzo. Gli antipasti sono realizzati con i migliori salumi e prosciutti locali, mentre il menu completo comprende piatti di pasta, risotti e opzioni di pesce, accompagnati da un'accurata selezione di dessert artigianali. La peculiarità enologica della Trattoria al Parco risiede nella sua produzione vinicola propria: il ristorante possiede la cantina Meroi a Buttrio, i cui vini bianchi e rossi vengono serviti esclusivamente in loco a prezzi molto accessibili, garantendo un eccellente rapporto qualità-prezzo.\n\nLa fascia di prezzo è media-moderata, particolarmente conveniente considerando la qualità della cucina e dell'esperienza complessiva. Per prenotazioni e informazioni, è consigliato contattare il ristorante direttamente tramite il sito www.delparcohotel.eu o visitare la sezione dedicata nella Guida Michelin.",
+      "metadata": {
+        "section_title": "Trattoria al Parco",
+        "links": [],
+        "addresses": [
+          "Via Stretta del Parco 1"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "media-moderata"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/buttrio__2",
+      "text": "### Osteria al Castello di Buttrio\n\nL'Osteria al Castello di Buttrio sorge all'interno della prestigiosa tenuta del Castello di Buttrio, Via del Pozzo 5, una location ricca di charme e storia che risale a tempi antichi. Questo ristorante propone un'esperienza enogastronomica immersiva costruita attorno a un tasting menu raffinato e ben strutturato di sei portate, preceduto da un benvenuto direttamente dalla cucina e concluso da un'elaborata presentazione di dolci artigianali.\n\nLa cucina è ispirata alle tradizioni culinarie delle colline friulane, rivisitate e rese contemporanee, mantenendo però i fondamenti autentici della cultura enologica regionale. Ogni piatto è costruito attorno a prodotti locali di stagione e a carni e specialità curate, come insaccati regionali abbinati a vini selezionati dalla collezione della tenuta. I temi stagionali guidano le proposte del menu, permettendo ai commensali di esplorare abbinamenti di cibi e vini che evolvono durante l'anno in un percorso sensoriale raffinato.\n\nL'esperienza può essere completata con una visita ai vigneti e alle cantine storiche della tenuta, seguita da una degustazione di tre vini selezionati nella splendida cornice del Castello. Durante l'inverno, è possibile cenare vicino al camino, mentre nei mesi più caldi il servizio si sposta su una terrazza panoramica. La fascia di prezzo è media-alta, coerente con la qualità e l'esclusività dell'esperienza. Contatti: +39 0432 673015, email info@castellodibuttrio.it, sito www.castellodibuttrio.it.",
+      "metadata": {
+        "section_title": "Osteria al Castello di Buttrio",
+        "links": [],
+        "addresses": [
+          "Via del Pozzo 5"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "media-alta"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/buttrio__3",
+      "text": "### Le Fucine Gourmet\n\nLe Fucine Gourmet rappresenta una proposta enogastronomica contemporanea e intimista, collocata all'interno della più ampia destinazione alberghiera Le Fucine, un eco-resort ispirato al genius loci locale e alle linee architettoniche degli anni Sessanta. Il ristorante accoglie solo 24 coperti affacciati su una spettacolare cucina a vista di sei metri, dove ogni movimento dello chef è visibile ai commensali, creando un'esperienza immersiva di gastronomia contemporanea.\n\nAlla guida della cucina vi sono il talentuoso chef Andrea Fantini, classe 1982, nativo di Buttrio, insieme al sous chef Maurizio Piani, un giovane talento originario di Collio con pregiate esperienze formative presso Joia di Milano (con Pietro Leemann) e Del Cambio di Torino (con Matteo Baronetto). I due presentano narrazioni gastronomiche che traggono ispirazione dal territorio friulano trascendendo, tuttavia, dalla semplice retorica locale, risultando in una cucina pulita e leggibile che evita gli eccessi per concentrarsi sulla profondità dei sapori.\n\nOgni piatto è costruito a partire da ingredienti riconoscibili, spesso di provenienza locale, che vengono maneggiati con rispetto ma senza reverenza. Il ristorante è aperto da martedì a sabato, esclusivamente a cena, operando con una formula di tasting menu di quattro, sei oppure otto portate. La fascia di prezzo è alta, riflettendo l'eccellenza della proposta culinaria. Maggiori informazioni: www.lefucine.com.",
+      "metadata": {
+        "section_title": "Le Fucine Gourmet",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": "da martedì a sabato, esclusivamente a cena",
+        "prices": "alta"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/buttrio__4",
+      "text": "### Scacciapensieri\n\nScacciapensieri è un agriturismo e ristorante situato presso Via Morpurgo 29, immerso tra i vigneti della collina più alta di Buttrio. Collocato all'interno di un'azienda agricola familiare, il ristorante offre una vista spettacolare dalla terrazza esterna e dalle grandi vetrate: lo sguardo spazia dalle accoglienti colline del territorio fino al mare, visibile in lontananza durante le giornate limpide.\n\nLa cucina è specializzata nella tradizione regionale friulana, con piatti preparati utilizzando i migliori ingredienti locali e di stagione. Le specialità includono il celeberrimo frico, la pasta fresca fatta in casa (in particolare le tagliatelle), e l'arrosto di coniglio accompagnato da verdure dell'orto. L'agriturismo garantisce un'esperienza autentica legata al territorio, con un'atmosfera calda e accogliente.\n\nGli orari di apertura sono: martedì e lunedì chiuso; da mercoledì a venerdì 12:00-13:30 e 19:00-22:00; sabato e domenica 11:00-15:00 e 19:00-22:00. Su TripAdvisor, il ristorante è valutato con 3,9 stelle su 5 e posizionato al sesto posto tra i 18 ristoranti di Buttrio. La fascia di prezzo è economica-moderata, molto accessibile per famiglie e visitatori alla ricerca di autentica cucina contadina friulana. Contatti: +39 0432 674907.",
+      "metadata": {
+        "section_title": "Scacciapensieri",
+        "links": [],
+        "addresses": [
+          "Via Morpurgo 29"
+        ],
+        "image_urls": [],
+        "opening_hours": "martedì e lunedì chiuso; da mercoledì a venerdì 12:00-13:30 e 19:00-22:00; sabato e domenica 11:00-15:00 e 19:00-22:00",
+        "prices": "economica-moderata"
+      }
+    }
+  ]
+}

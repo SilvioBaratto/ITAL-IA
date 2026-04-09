@@ -1,0 +1,74 @@
+{
+  "comune_name": "Grado",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md",
+  "extracted_at": "2026-04-09T10:28:08.598Z",
+  "pois": [
+    {
+      "name": "Basilica Patriarcale di Sant'Eufemia",
+      "address": null,
+      "website_url": "https://www.turismofvg.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20Patriarcale%20di%20Sant'Eufemia%2C%20Grado",
+      "image_url": null,
+      "description": "La Basilica di Sant'Eufemia è il principale monumento di Grado e uno degli esempi più integri di architettura ecclesiastica paleocristiana nell'Italia nord-orientale. Consacrata nel 579 d.C., vanta tre navate con pavimento musivo ricco di motivi simbolici e varie opere d'arte, tra cui il ciborio marmoreo, l'ambone e la statua argentea di Sant'Eufemia. L'interno custodisce anche un lapidario e il Museo del Tesoro con importanti manufatti altomedievali. Sede storica del Patriarcato d'Aquileia, fu dichiarata monumento nazionale nel 1874.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md"
+    },
+    {
+      "name": "Battistero di Sant'Eufemia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Battistero%20di%20Sant'Eufemia%2C%20Grado",
+      "image_url": null,
+      "description": "Il Battistero di Sant'Eufemia, situato accanto alla basilica omonima, risale alla fine del VI secolo e segue una tipologia paleocristiana a pianta ottagonale. All'interno si trova la vasca battesimale a immersione, rivestita di marmo e decorata, con un pavimento musivo che riprende i motivi geometrici della basilica. Rappresenta una testimonianza unica della prassi battesimale tardoantica in Friuli Venezia Giulia.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md"
+    },
+    {
+      "name": "Basilica di Santa Maria delle Grazie",
+      "address": null,
+      "website_url": "https://www.comune.grado.go.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20Santa%20Maria%20delle%20Grazie%2C%20Grado",
+      "image_url": null,
+      "description": "Questa basilica paleocristiana, forse anteriore a Sant'Eufemia, presenta una struttura a tre navate divise da colonne romane di reimpiego e un pregevole pavimento musivo con motivi figurativi e geometrici. All'interno sono custodite reliquie paleocristiane di tradizione aquileiese ed è ancora oggi meta di devozione durante importanti festività locali. Insieme a Sant'Eufemia e al battistero, rappresenta uno dei complessi paleocristiani più rilevanti d'Italia.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md"
+    },
+    {
+      "name": "Oratorio di Sant'Andrea (Oratorio dei Principi)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20Sant'Andrea%20(Oratorio%20dei%20Principi)%2C%20Grado",
+      "image_url": null,
+      "description": "L'Oratorio di Sant'Andrea, tra gli edifici di culto più antichi di Grado, si presenta con una semplice pianta rettangolare e abside a est, tipica degli oratori privati paleocristiani. Il pavimento conserva frammenti musivi e vi sono elementi scultorei di raffinata lavorazione. Probabilmente utilizzato come cappella privata nei secoli medievali, è una rara testimonianza della storia religiosa locale legata al patriarcato.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Battista",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Battista%2C%20Grado",
+      "image_url": null,
+      "description": "Situata nel centro storico di Grado, questa chiesa fu edificata in epoca romanica e trasformata nel corso del Trecento e Quattrocento in stile gotico-veneziano. L'interno a navata unica conserva resti di affreschi e una pala d'altare attribuita all'ambito di Palma il Giovane, mentre la chiesa fu sede della Confraternita dei Battuti. Rappresenta un segno dell'evoluzione religiosa e laica di Grado in epoca medievale.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria degli Angeli (Laguna di Grado)",
+      "address": null,
+      "website_url": "https://www.santuariodibarbana.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20degli%20Angeli%20(Laguna%20di%20Grado)%2C%20Grado",
+      "image_url": null,
+      "description": "Nota come Santuario della Madonna di Barbana, questa chiesa sorge sull'isoletta lagunare di Barbana ed è uno dei più antichi luoghi di pellegrinaggio mariani della regione. Il complesso barocco e romanico ospita la venerata statua lignea della Madonna, circondata da ex voto popolari, e viene animato ogni anno dalla suggestiva processione sull'acqua. Il convento annesso è ancora abitato dagli agostiniani e il santuario è un importante punto di riferimento per la devozione locale.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grado.md"
+    }
+  ]
+}

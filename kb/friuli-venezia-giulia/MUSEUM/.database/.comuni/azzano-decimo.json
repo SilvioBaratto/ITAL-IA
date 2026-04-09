@@ -1,0 +1,30 @@
+{
+  "comune_name": "Azzano Decimo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/azzano-decimo.md",
+  "extracted_at": "2026-04-09T10:42:45.453Z",
+  "pois": [
+    {
+      "name": "Sito Archeologico del Villaggio Neolitico di Fagnigola",
+      "address": null,
+      "website_url": "https://patrimonioculturale.regione.fvg.it/sito-archeologico/?s_id=548788",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Archeologico%20del%20Villaggio%20Neolitico%20di%20Fagnigola%2C%20Azzano%20Decimo",
+      "image_url": null,
+      "description": "Il villaggio neolitico di Fagnigola è uno dei più importanti siti preistorici dell'Italia nordorientale, scoperto nel 1974 e oggetto di numerose campagne di scavo. Qui sono state rinvenute strutture e reperti che testimoniano la presenza di una comunità agricola attiva circa 6.000 anni fa, contribuendo in modo significativo alle conoscenze sul neolitico in Friuli Venezia Giulia. Il sito è situato in area agricola privata, non è organizzato per la visita pubblica e i materiali recuperati sono conservati presso enti scientifici. Per approfondimenti si può consultare la scheda nel portale del Patrimonio Culturale FVG.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Duomo di San Pietro Apostolo — Arte Sacra e Affreschi di Giulio Belluz",
+      "address": "Piazza Libertà, 33082 Azzano Decimo (PN)",
+      "website_url": "http://www.parrocchiaazzanodecimo.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Pietro%20Apostolo%20%E2%80%94%20Arte%20Sacra%20e%20Affreschi%20di%20Giulio%20Belluz%2C%20Piazza%20Libert%C3%A0%2C%2033082%20Azzano%20Decimo%20(PN)",
+      "image_url": null,
+      "description": "Il Duomo arcipretale di San Pietro Apostolo, edificato tra il 1748 e il 1771 in stile neoclassico-barocco, è il principale luogo di culto di Azzano Decimo e un importante scrigno d'arte sacra. L'interno conserva opere dei fratelli Mattiussi, affreschi significativi del pittore locale Giulio Belluz e un ricco apparato decorativo sette-ottocentesco. Il monumentale campanile del duomo, il più alto della provincia, domina il paesaggio locale e costituisce un simbolo della comunità.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/azzano-decimo.md"
+    }
+  ]
+}

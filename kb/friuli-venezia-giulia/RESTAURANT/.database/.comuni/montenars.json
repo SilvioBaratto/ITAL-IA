@@ -1,0 +1,19 @@
+{
+  "comune_name": "Montenars",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montenars.md",
+  "extracted_at": "2026-04-09T11:07:41.242Z",
+  "pois": [
+    {
+      "name": "Agriturismo Al Tulin",
+      "address": "Borgo Isola 51 a Montenars",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Tulin%2C%20Borgo%20Isola%2051%20a%20Montenars",
+      "image_url": null,
+      "description": "Agriturismo Al Tulin è un punto di riferimento gastronomico a Montenars, conosciuto per la cucina tipica friulana realizzata secondo ricette tradizionali di famiglia. Il locale, a conduzione familiare, offre un menu che valorizza prodotti locali come frico di patate, formaggi freschi e affumicati prodotti in loco e taglieri di affettati accompagnati da conserve fatte in casa. L'atmosfera è rustica e autentica, immersa nella natura del borgo, e il rapporto qualità-prezzo è considerato eccellente.",
+      "comune_name": "Montenars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montenars.md"
+    }
+  ]
+}

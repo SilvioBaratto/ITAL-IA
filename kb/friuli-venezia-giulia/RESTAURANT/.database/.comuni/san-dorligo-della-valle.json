@@ -1,0 +1,195 @@
+{
+  "comune_name": "San Dorligo della Valle",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md",
+  "extracted_at": "2026-04-09T11:17:08.273Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Pozzo di Gustini Pierpaolo",
+      "address": "Frazione San Lorenzo / Jezero, 9 — 34018 San Dorligo della Valle",
+      "website_url": "https://trattoriaalpozzodigustinipierpaolo.eatbu.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Pozzo%20di%20Gustini%20Pierpaolo%2C%20Frazione%20San%20Lorenzo%20%2F%20Jezero%2C%209%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Trattoria Al Pozzo di Gustini Pierpaolo è una trattoria autentica a gestione familiare nella frazione di San Lorenzo, nota per la cucina della tradizione locale che integra piatti triestini, istriani e carsolino-sloveni. L’ambiente è intimo e caratteristico, con una forte attenzione al rapporto diretto con la clientela. I prezzi sono economici e la frequentazione è prevalentemente locale, rendendo necessaria la prenotazione telefonica.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Bar Tavola Calda Domio",
+      "address": "Domio / Domjo, 132 — 34018 San Dorligo della Valle",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Tavola%20Calda%20Domio%2C%20Domio%20%2F%20Domjo%2C%20132%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Il Bar Tavola Calda Domio è un locale polifunzionale che svolge la doppia funzione di bar e piccolo ristorante nella frazione residenziale di Domio. Offre panini, stuzzichini, minestre e piatti della cucina regionale a prezzi popolari. L’atmosfera conviviale lo rende un punto di riferimento per i residenti durante la pausa pranzo.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Hotel Ristorante Pesek",
+      "address": "Pesek — 34018 San Dorligo della Valle",
+      "website_url": "http://www.hotelpesek.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20Pesek%2C%20Pesek%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "L’Hotel Ristorante Pesek è un albergo con ristorante noto per la cucina regionale che miscela tradizioni triestine, istriane e slovene. Frequentato sia da locali sia da viaggiatori, si distingue per le sue zuppe, grigliate e piatti stagionali. La posizione strategica presso il confine con la Slovenia lo rende una tappa ideale per chi attraversa il carso.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Pizzeria Birreria Kariš",
+      "address": "Pesek — 34018 San Dorligo della Valle",
+      "website_url": "http://www.hotelpesek.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Birreria%20Kari%C5%A1%2C%20Pesek%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "La Pizzeria Birreria Kariš offre pizze secondo la tradizione italiana con contaminazioni locali e una selezione di birre artigianali italiane e slovene. L’ambiente informale la rende adatta a cene in compagnia, e si trova vicino all’Hotel Pesek nella frazione di confine. Il locale unisce l’identità della birreria con quella della pizzeria di paese.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Casa Rosandra",
+      "address": "Loc. Mattonaia Triestina (Krmenka), 217 — 34018 San Dorligo della Valle",
+      "website_url": "https://casarosandra.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Rosandra%2C%20Loc.%20Mattonaia%20Triestina%20(Krmenka)%2C%20217%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Casa Rosandra è un ristorante-trattoria situato nella località Mattonaia Triestina, apprezzato per la cucina tradizionale triestino-istriana e italiana classica. Il menù include gnocchi fatti in casa, secondi di carne e pesce, e pizze, con attenzione a prodotti a chilometro zero. L’atmosfera è familiare e accogliente, ideale per frequentatori della Val Rosandra.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Agriturismo Zobec",
+      "address": "Bagnoli della Rosandra / Boljunec — 34018 San Dorligo della Valle",
+      "website_url": "https://www.zobec.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Zobec%2C%20Bagnoli%20della%20Rosandra%20%2F%20Boljunec%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "L’Agriturismo Zobec è noto per il suo salmone della Val Rosandra, allevato nelle acque del torrente Rosandra. Aperto da maggio a settembre nelle sere del weekend, offre un’esperienza gastronomica autentica in un contesto naturale di pregio all’interno della riserva della Val Rosandra. L’ambiente è semplice, genuino e profondamente legato al territorio.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Trattoria Sociale Dolina / Zadružna Gostilna Dolina",
+      "address": "Dolina (sede comunale) — 34018 San Dorligo della Valle",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Sociale%20Dolina%20%2F%20Zadru%C5%BEna%20Gostilna%20Dolina%2C%20Dolina%20(sede%20comunale)%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Trattoria Sociale Dolina, con il suo spirito comunitario, propone cucina regionale bilingue in un ambiente sobrio, autentico e accogliente. Il menù spazia dalla jota alle zuppe tradizionali, gnocchi e carni brasate, riflettendo la cultura cooperativistica slovena. Il locale è principalmente frequentato dai residenti e si consiglia la prenotazione.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "L'Isola nella Valle / Otok v Dolini",
+      "address": "34018 San Dorligo della Valle (area valle principale)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Isola%20nella%20Valle%20%2F%20Otok%20v%20Dolini%2C%2034018%20San%20Dorligo%20della%20Valle%20(area%20valle%20principale)",
+      "image_url": null,
+      "description": "L’Isola nella Valle è un bar-ristorante frequentato dai residenti per colazioni, pranzi e cene informali. La cucina offre piatti tradizionali locali, pasta fresca e sandwich, in un’atmosfera conviviale accessibile a tutti. Gli orari estesi e l’accessibilità lo rendono ideale come punto di ritrovo durante tutta la giornata.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Trattoria Senizza",
+      "address": "Zona Domio / Dolina — 34018 San Dorligo della Valle",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Senizza%2C%20Zona%20Domio%20%2F%20Dolina%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "La Trattoria Senizza è un piccolo locale di paese che propone cucina tipica locale, tra cui pasta fatta in casa, zuppe stagionali e carni. Conosciuta principalmente grazie al passaparola, offre un ambiente autentico e prezzi onesti. È molto frequentata dai residenti e ideale per chi cerca un’esperienza genuina e informale.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Pizzeria \"La Tolada\"",
+      "address": "Zona Dolina / Domio — 34018 San Dorligo della Valle",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20%22La%20Tolada%22%2C%20Zona%20Dolina%20%2F%20Domio%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "La Pizzeria La Tolada è una pizzeria di paese nel settore occidentale del comune, con un nome che richiama la tradizione dialettale locale. Probabilmente offre anche primi e secondi piatti oltre alle pizze, seguendo la tipica formula friulano-giuliana. È frequentata per lo più da clientela locale ed è consigliato contattare il locale per dettagli su orari e disponibilità.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Bar Rosandra",
+      "address": "Bagnoli della Rosandra / Boljunec, 322 — 34018 San Dorligo della Valle",
+      "website_url": "https://bar-ristorante-rosandra.eatbu.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Rosandra%2C%20Bagnoli%20della%20Rosandra%20%2F%20Boljunec%2C%20322%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Bar Rosandra, aperto dal 2020, è un locale multifunzionale all’ingresso della Val Rosandra, frequentato da escursionisti e appassionati di outdoor. Offre colazioni, pranzi leggeri e cucina regionale, con area esterna e accessibilità limitata. I prezzi sono contenuti e il locale è aperto tutti i giorni con orari estesi.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Locanda Mario",
+      "address": "Zona San Lorenzo / Pesek — 34018 San Dorligo della Valle",
+      "website_url": "https://www.locandamario.wpeople.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Mario%2C%20Zona%20San%20Lorenzo%20%2F%20Pesek%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "La Locanda Mario è una struttura tradizionale situata tra San Lorenzo e Pesek, che combina alloggio con ristorazione tipica della zona carsica e istriana. L’ambiente è semplice e ospitale, ideale per viaggiatori e residenti. Si consiglia la prenotazione telefonica per informazioni su orari e disponibilità.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Trattoria Leban",
+      "address": "Grozzana / Gročana — 34018 San Dorligo della Valle",
+      "website_url": "http://www.pizzeriatrattorialeban.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Leban%2C%20Grozzana%20%2F%20Gro%C4%8Dana%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Gestita da Monica Dainese, la Trattoria Leban propone un menù ampio che include pizza, cucina tradizionale italiana e slovena, piatti regionali e di pesce. Offre anche servizio bar, asporto e consegna a domicilio, con area esterna e accessibilità per disabili. L’atmosfera è informale e il locale è molto frequentato sia dai residenti sia dai lavoratori della zona.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Trattoria alla Pesa / Gostilna od Pesu",
+      "address": "Grozzana / Gročana — 34018 San Dorligo della Valle",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Pesa%20%2F%20Gostilna%20od%20Pesu%2C%20Grozzana%20%2F%20Gro%C4%8Dana%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "La Trattoria alla Pesa, anche nota come Gostilna od Pesu, è un locale storico della frazione di Grozzana, legato alla tradizione rurale carsolina. Offre piatti tipici semplici in un ambiente autentico che riflette la cultura bilingue del territorio. Il locale dispone di posti interni ed esterni, ed è consigliato informarsi direttamente per orari e dettagli del menù.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Al Tiglio / Pri Lipi",
+      "address": "Zona Grozzana / Basovizza — confine tra San Dorligo e Trieste",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Tiglio%20%2F%20Pri%20Lipi%2C%20Zona%20Grozzana%20%2F%20Basovizza%20%E2%80%94%20confine%20tra%20San%20Dorligo%20e%20Trieste",
+      "image_url": null,
+      "description": "Al Tiglio (Pri Lipi) è un ristorante-pizzeria situato al confine tra Grozzana e Basovizza, che omaggia la tradizione slovena con un’offerta che spazia tra pizza e cucina regionale italiana e slovena. Gli orari di apertura sono ampi e il locale è parte di un complesso ricettivo più ampio della zona.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Zarja",
+      "address": "Zona Grozzana — 34018 San Dorligo della Valle",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Zarja%2C%20Zona%20Grozzana%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "Zarja è un piccolo locale polifunzionale nell’area di Grozzana, a metà tra pub e ristorante, noto per l’atmosfera informale e serale, con posti a sedere sia interni che all’aperto. Servono birra, stuzzichini e piatti tradizionali, risultando un punto di ritrovo per i giovani e residenti specialmente in estate.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    },
+    {
+      "name": "Churrascaria du Brasil",
+      "address": "Loc. Pesek di Grozzana, 2 — 34018 San Dorligo della Valle",
+      "website_url": "https://churrascariadubrasil.eatbu.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Churrascaria%20du%20Brasil%2C%20Loc.%20Pesek%20di%20Grozzana%2C%202%20%E2%80%94%2034018%20San%20Dorligo%20della%20Valle",
+      "image_url": null,
+      "description": "La Churrascaria du Brasil è un ristorante brasiliano specializzato nel tradizionale barbecue churrasco, con numerosi tagli di carne serviti mediante il sistema rodízio. L’ambiente è accogliente e festoso, con serate a tema e intrattenimento. È una destinazione originale per scoprire la vitalità della cultura brasiliana nel cuore del carso triestino.",
+      "comune_name": "San Dorligo della Valle",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-dorligo-della-valle.md"
+    }
+  ]
+}

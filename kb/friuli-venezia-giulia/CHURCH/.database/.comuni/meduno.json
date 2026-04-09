@@ -1,0 +1,85 @@
+{
+  "comune_name": "Meduno",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md",
+  "extracted_at": "2026-04-09T10:30:15.168Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Maggiore",
+      "address": "Piazza della Chiesa, 1 – 33092 Meduno (PN)",
+      "website_url": "https://www.parrocchiedellavalmeduna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Maggiore%2C%20Piazza%20della%20Chiesa%2C%201%20%E2%80%93%2033092%20Meduno%20(PN)",
+      "image_url": null,
+      "description": "Santa Maria Maggiore è la chiesa parrocchiale e principale edificio sacro di Meduno, con origini antiche risalenti perlomeno all'XI-XII secolo. L'edificio attuale, in stile neoclassico, fu costruito tra 1830 e 1834 e ospita rilevanti opere d'arte come la pala di Giambattista Piazzetta e un fonte battesimale rinascimentale di Pilacorte. La chiesa ha subito importanti restauri dopo i danni causati dal terremoto del 1976 e da un incendio nel 2004.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    },
+    {
+      "name": "Chiesa di San Pellegrino",
+      "address": null,
+      "website_url": "https://www.parrocchiedellavalmeduna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pellegrino%2C%20Meduno",
+      "image_url": null,
+      "description": "Situata nella frazione di Navarons, la chiesa di San Pellegrino presenta uno stile barocco-settecentesco con rifacimenti ottocenteschi. Citata già nel 1520, è conosciuta per il suo altare maggiore in marmo di Silvestro Comiz e il caratteristico campanile 'a torre'. L'edificio è legato alle tradizioni religiose della frazione, tra cui la sentita festa della Madonna della Salute.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    },
+    {
+      "name": "Chiesa di San Martino in Castello",
+      "address": null,
+      "website_url": "https://www.parrocchiedellavalmeduna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20in%20Castello%2C%20Meduno",
+      "image_url": null,
+      "description": "La chiesa di San Martino, nella borgata omonima, è il più antico edificio sacro del comune e risale probabilmente al periodo romanico. Alcune parti decorative testimoniano origini altomedievali e l'edificio è caratterizzato da una struttura semplice con cella campanaria a vela aggiunta nel Settecento. Un affresco cinquecentesco realizzato da Pietro da San Vito impreziosisce l’aula interna.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    },
+    {
+      "name": "Chiesa di San Bartolomeo e San Valentino",
+      "address": null,
+      "website_url": "https://www.parrocchiedellavalmeduna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Bartolomeo%20e%20San%20Valentino%2C%20Meduno",
+      "image_url": null,
+      "description": "Situata nella borgata di Ciago, questa chiesa di origini almeno quattrocentesche presenta una struttura rettangolare con elementi di stile tardorinascimentale-barocco. Conserva una pala d'altare raffigurante i Santi Valentino, Floriano e Francesco di Paola, e alcune statue dedicate a santi molto venerati a livello locale. L'edificio testimonia la devozione della comunità verso i protettori di acque e guadi.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Bosco e Santa Rita",
+      "address": null,
+      "website_url": "https://www.parrocchiedellavalmeduna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Bosco%20e%20Santa%20Rita%2C%20Meduno",
+      "image_url": null,
+      "description": "Inaugurata nel dopoguerra grazie al lascito di un cittadino e all'impegno della borgata di Sottomonte-Costa, questa chiesa dallo stile eclettico novecentesco è dedicata a San Giovanni Bosco e Santa Rita. L’edificio è riconoscibile per il frontone con guglie e il campanile ricostruito dopo il terremoto del 1976; ospita la festa parrocchiale dedicata ai santi titolari.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    },
+    {
+      "name": "Oratorio della Santissima Annunziata",
+      "address": null,
+      "website_url": "https://www.parrocchiedellavalmeduna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20della%20Santissima%20Annunziata%2C%20Meduno",
+      "image_url": null,
+      "description": "Censito tra i luoghi di culto del capoluogo, l'oratorio della Santissima Annunziata testimonia la presenza di una diffusa devozione mariana a Meduno. Mancano dettagli sull’epoca e sulle opere d’arte interne, ma la struttura riflette la tradizione friulana degli oratori privati e comunitari accanto alle chiese maggiori.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    },
+    {
+      "name": "Cappella Votiva sulla strada per Campone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Votiva%20sulla%20strada%20per%20Campone%2C%20Meduno",
+      "image_url": null,
+      "description": "Questa piccola cappella di montagna, situata nei pressi di Borgo Cilia a circa 663 m d’altitudine, fu costruita nel secondo dopoguerra per commemorare i caduti e le vicende belliche della Seconda guerra mondiale. Priva di opere d’arte rilevanti, rappresenta una tipica espressione della pietà popolare friulana e delle memorie collettive della valle.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/meduno.md"
+    }
+  ]
+}

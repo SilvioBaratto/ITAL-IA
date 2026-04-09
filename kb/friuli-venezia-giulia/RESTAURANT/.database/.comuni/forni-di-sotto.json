@@ -1,0 +1,41 @@
+{
+  "comune_name": "Forni di Sotto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-di-sotto.md",
+  "extracted_at": "2026-04-09T11:03:29.162Z",
+  "pois": [
+    {
+      "name": "Ristoro Agrituristico La Palote",
+      "address": "Località Miezevie, 33020 Forni di Sotto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristoro%20Agrituristico%20La%20Palote%2C%20Localit%C3%A0%20Miezevie%2C%2033020%20Forni%20di%20Sotto%20(UD)",
+      "image_url": null,
+      "description": "Il Ristoro Agrituristico La Palote è il punto di riferimento per la cucina carnica a Forni di Sotto, apprezzato anche su TripAdvisor per la sua atmosfera intima e familiare. Gestito come una vera azienda agricola con ospitalità, propone menu che seguono la stagionalità, con piatti genuini come gnocchi di patate fatti in casa e costine di maiale al vino rosso. Il locale offre anche proposte vegetariane e funghi di stagione, e le porzioni sono generose. L'ambiente è informale e accogliente, ideale per scoprire i sapori autentici della Carnia.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Trattoria Alla Fontana",
+      "address": "Via Tredolo, 158, 33020 Forni di Sotto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Fontana%2C%20Via%20Tredolo%2C%20158%2C%2033020%20Forni%20di%20Sotto%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Alla Fontana, condotta da Polo Francesco, è un punto d'incontro per gli abitanti di Forni di Sotto, nota per la sua cucina semplice e genuina ispirata alle ricette tradizionali. Propone piatti come gnocchi di patate, polenta, insaccati locali e zuppe di verdure, preparati esclusivamente con ingredienti a km zero. L'ambiente è informale e famigliare, con porzioni abbondanti e prezzi accessibili, ideale per chi cerca l'autenticità della cucina di montagna carnica.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Pizzeria Al Campanile",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Campanile%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "La Pizzeria Al Campanile è rinomata per le sue pizze preparate con ingredienti di qualità e una lievitazione attenta, ma offre anche autentici piatti di cucina locale. Accanto alle pizze si possono gustare pasta fatta in casa come gli spaghetti alla carbonara e il limoncello artigianale servito a fine pasto. L'atmosfera conviviale e tipica di un'osteria di paese la rende un punto di riferimento per chi vuole assaporare la tradizione gastronomica locale in un contesto informale.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-di-sotto.md"
+    }
+  ]
+}

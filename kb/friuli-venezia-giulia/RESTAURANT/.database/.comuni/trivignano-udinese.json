@@ -1,0 +1,19 @@
+{
+  "comune_name": "Trivignano Udinese",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/trivignano-udinese.md",
+  "extracted_at": "2026-04-09T11:23:10.823Z",
+  "pois": [
+    {
+      "name": "Velox Pizza",
+      "address": "Via Udine 19, Trivignano Udinese (CAP 33050)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Velox%20Pizza%2C%20Via%20Udine%2019%2C%20Trivignano%20Udinese%20(CAP%2033050)",
+      "image_url": null,
+      "description": "Velox Pizza è un fast food e pizzeria da asporto situato nel capoluogo di Trivignano Udinese. Gestito dalla ditta Toni & Hava sas, offre principalmente pizze e kebab per una clientela locale, con servizio d’asporto e prezzi accessibili. Rappresenta il principale punto di riferimento per un pasto veloce nel comune, anche se non è un ristorante tradizionale né presenta particolari specialità gastronomiche.",
+      "comune_name": "Trivignano Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/trivignano-udinese.md"
+    }
+  ]
+}

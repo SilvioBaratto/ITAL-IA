@@ -1,0 +1,88 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/faedis.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Faedis",
+  "province": "UD",
+  "page_title": "Faedis",
+  "page_summary": "Guida ai principali bar del comune di Faedis: dai bar di piazza nel centro storico, a trattorie con funzione di caffè, fino ad agriturismi e punti di aggregazione della Pro Loco nelle frazioni.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/faedis.md",
+  "processed_at": "2026-04-09T12:07:32.823Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/faedis__0",
+      "text": "### Bar Borin Adriano\n\n**Indirizzo:** Piazza I Maggio, 23 – 33040 Faedis (UD)  \n**Telefono:** 0432 728000\n\nIl Bar Borin si trova sulla piazza principale del capoluogo, cuore della vita sociale di Faedis. Un bar di paese nel senso più genuino del termine: bancone in legno, macchina del caffè sempre in funzione, qualche tavolino dove i faedesi di ogni età si danno appuntamento per la colazione mattutina o per la pausa di metà giornata. La posizione sulla Piazza I Maggio lo rende il naturale punto di ritrovo degli abitanti, un luogo dove la conversazione scorre naturale tra un caffè e un cornetto. Nei mesi caldi è possibile stare all'aperto, godendo della tranquillità di una piazza di paese senza traffico.",
+      "metadata": {
+        "section_title": "Bar Borin Adriano",
+        "links": [],
+        "addresses": [
+          "Piazza I Maggio, 23 – 33040 Faedis (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/faedis__1",
+      "text": "### La Pergola – Bar di Vicario Annalisa\n\n**Indirizzo:** Piazza I Maggio, 30 – 33040 Faedis (UD)  \n**Telefono:** 0432 476076\n\nA pochi passi dal Bar Borin, sempre sulla piazza principale, si trova La Pergola, gestita da Annalisa Vicario. Il nome richiama già l'elemento caratteristico del locale: una pergola che nella bella stagione crea uno spazio ombreggiato all'aperto dove fermarsi a bere qualcosa con calma. È il classico bar di paese dove si fa colazione con brioche e cappuccino al mattino, si prende il caffè a metà mattina e si chiude la serata con uno spritz o un calice di vino locale. L'atmosfera è familiare e rilassata, tipica della socialità dei piccoli borghi friulani.",
+      "metadata": {
+        "section_title": "La Pergola – Bar di Vicario Annalisa",
+        "links": [],
+        "addresses": [
+          "Piazza I Maggio, 30 – 33040 Faedis (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/faedis__2",
+      "text": "### Bar Trattoria da Marsia\n\n**Indirizzo:** Via Soffumbergo, 117 – 33040 Faedis (UD)  \n**Telefono:** 331 3946438\n\nIl Bar Trattoria da Marsia si trova lungo la strada che conduce verso Soffumbergo, nella parte collinare del comune. È aperto tutti i giorni con orario continuato dalle 06:30 alle 22:30, il che lo rende un punto di riferimento versatile: la colazione al mattino presto, il pranzo, il caffè del pomeriggio, l'aperitivo serale. L'abbinamento bar-trattoria è una formula tipicamente friulana che unisce la funzione del caffè a quella del ristorante, permettendo di passare dalla tazzina di espresso a un pasto completo nello stesso ambiente. Il contesto collinare, tra vigneti e boschi, dà un carattere particolare a questo locale, frequentato sia dai residenti delle frazioni sia da chi percorre le strade panoramiche dei Colli Orientali.",
+      "metadata": {
+        "section_title": "Bar Trattoria da Marsia",
+        "links": [],
+        "addresses": [
+          "Via Soffumbergo, 117 – 33040 Faedis (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": "tutti i giorni con orario continuato dalle 06:30 alle 22:30",
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/faedis__3",
+      "text": "### Azienda Agricola Comelli – L'Uva e le Stelle\n\n**Indirizzo:** Case Colloredo, 8 – 33040 Faedis (UD) (frazione Colloredo di Soffumbergo)  \n**Telefono:** 0432 711 226  \n**Sito web:** [www.comelli.it](https://www.comelli.it)\n\nNon è un bar nel senso stretto del termine, ma l'agriturismo della famiglia Comelli merita una segnalazione nel contesto della cultura del bere e dello stare insieme a Faedis. Fondata nel 1946 da Paolino Comelli sulle colline di Colloredo di Soffumbergo, l'azienda produce oggi vini di qualità nella zona DOC dei Friuli Colli Orientali, con 12 ettari di vigneto coltivati con metodo tradizionale e grande attenzione alla qualità. L'agriturismo \"L'Uva e le Stelle\" offre degustazioni dei vini aziendali — Refosco, bianchi locali, e una piccola produzione di olio d'oliva — in un contesto di straordinaria bellezza paesaggistica, con vista che spazia dalle Prealpi Giulie all'Adriatico. Il pergolato a bordo piscina, aperto da maggio a settembre, è il luogo ideale per un aperitivo al tramonto con i vini del territorio. Le visite e le degustazioni sono su prenotazione.",
+      "metadata": {
+        "section_title": "Azienda Agricola Comelli – L'Uva e le Stelle",
+        "links": [
+          {
+            "text": "www.comelli.it",
+            "url": "https://www.comelli.it"
+          }
+        ],
+        "addresses": [
+          "Case Colloredo, 8 – 33040 Faedis (UD) (frazione Colloredo di Soffumbergo)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/faedis__4",
+      "text": "### Pro Loco Faedis A.P.S. – Bar e ritrovo sociale\n\n**Indirizzo:** Via Soffumbergo, 51 – 33040 Campeglio (UD)  \n**Telefono:** 0432 728739 / 0432 728647\n\nLa Pro Loco di Faedis, con sede nella frazione di Campeglio, svolge anche una funzione di ritrovo e bar comunitario, specialmente in occasione di eventi, sagre e manifestazioni locali. Come accade in molti comuni del Friuli, la Pro Loco anima la vita sociale con eventi legati alle tradizioni enogastronomiche del territorio — sagre del Refosco, feste paesane estive, degustazioni di prodotti tipici — in cui il bicchiere di vino locale o lo spritz diventano il simbolo dell'identità comunitaria. Nei momenti di festa, gli stand della Pro Loco sono il posto dove fermarsi per un bicchiere di Refosco DOC Colli Orientali del Friuli, magari accompagnato da un tagliere di salumi e formaggi friulani.",
+      "metadata": {
+        "section_title": "Pro Loco Faedis A.P.S. – Bar e ritrovo sociale",
+        "links": [],
+        "addresses": [
+          "Via Soffumbergo, 51 – 33040 Campeglio (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

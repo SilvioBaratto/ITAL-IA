@@ -1,0 +1,129 @@
+{
+  "comune_name": "Montereale Valcellina",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md",
+  "extracted_at": "2026-04-09T10:30:55.177Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di Santa Maria Assunta",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65600/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20Santa%20Maria%20Assunta%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria Assunta è il principale edificio di culto di Montereale Valcellina, costruito tra il 1787 e il 1812 in stile neoclassico su progetto di Mario Cortenovis. All'interno si trovano vetrate artistiche raffiguranti le storie della Vergine, opera di Angelo Gonnella, e un prezioso altare maggiore marmoreo proveniente dalla pieve di San Rocco. Ospita ancora oggi le principali celebrazioni religiose del paese, riflettendo la storia secolare della comunità.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Pieve di San Rocco al Cimitero (ex Pieve di Santa Maria)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20San%20Rocco%20al%20Cimitero%20(ex%20Pieve%20di%20Santa%20Maria)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La Pieve di San Rocco al Cimitero, anticamente dedicata a Santa Maria, è il più antico monumento sacro del comune, di origine medievale e poi ridedicata nel XVI secolo a San Rocco. Spicca per il ciclo di affreschi rinascimentali dipinti da Giovanni Maria Zaffoni nel 1557, tra cui storie di Maria e santi, e una pala dell'Assunzione. L'edificio conserva anche un altare ligneo barocco, testimonianza della ricca produzione artistica locale.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Oratorio di San Floriano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Floriano%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "L'Oratorio di San Floriano è un piccolo edificio votivo situato al confine tra il centro abitato e la campagna di Montereale Valcellina, dedicato al santo protettore di chi lavora la terra. All'interno si trova una pala d'altare del pittore seicentesco Gaspare Narvesa, rappresentativa del tardo manierismo locale. L'oratorio rappresenta la connessione simbolica tra la vita rurale e quella comunitaria.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Chiesa della Madonna delle Grazie",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Madonna%20delle%20Grazie%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La chiesa della Madonna delle Grazie è un piccolo edificio di culto situato lungo la strada tra Montereale Valcellina e Grizzo, espressione della devozione mariana popolare del territorio. L'interno conserva un affresco anonimo raffigurante la Madonna in trono col Bambino tra i santi Girolamo e Nicolò, databile tra il XV e il XVI secolo, segnalando la continuità dei culti devozionali della zona.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Chiesa della Madonna della Fradese (Grizzo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Madonna%20della%20Fradese%20(Grizzo)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La chiesa della Madonna della Fradese, situata nella frazione di Grizzo, fu fondata nel XIV secolo dalla Confraternita dei Battuti. Costituisce una delle testimonianze più antiche dell'architettura religiosa laicale locale, legata storicamente alla vita spirituale, assistenziale e liturgica delle comunità rurali medievali. L'edificio ha subito vari rimaneggiamenti ma conserva tracce delle sue origini medievali.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Bartolomeo (Grizzo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Bartolomeo%20(Grizzo)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Bartolomeo, principale luogo di culto della frazione di Grizzo, fu edificata nel XVIII secolo in stile neoclassico tipico dell'area pordenonese. È ancora oggi il centro della vita religiosa della comunità, rappresentando un significativo esempio dell'architettura sacra locale del Settecento.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Oratorio della Madonna della Salute (Malnisio)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20della%20Madonna%20della%20Salute%20(Malnisio)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "L'Oratorio della Madonna della Salute si trova nella frazione di Malnisio ed è dedicato alla Madonna della Salute, oggetto di particolare venerazione locale. È legato a una tradizione secondo cui le coppie di sposi si recano dopo le nozze per affidarsi alla protezione mariana. L'edificio testimonia il radicamento e la vitalità della devozione popolare nel territorio.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Giovanni Battista (Malnisio)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Giovanni%20Battista%20(Malnisio)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giovanni Battista, situata nella frazione di Malnisio, fu ricostruita nel 1914 ma conserva al suo interno opere d'arte di epoche precedenti. Possiede una pala d'altare di Gaspare Narvesa e una tela attribuita a Giovanni Maria Zaffoni, segno della continuità della presenza artistica rinascimentale e barocca nel patrimonio ecclesiastico locale.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Leonardo (San Leonardo Valcellina)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Leonardo%20(San%20Leonardo%20Valcellina)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Leonardo, frazione di San Leonardo Valcellina, ha origini documentate sin dal X secolo; l'edificio attuale, in stile neoclassico, fu consacrato nel 1758. Custodisce opere di Gaspare Narvesa e un affresco di Tiburzio Donadon del 1922, riflettendo la lunga tradizione artistica religiosa del luogo.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Oratorio di San Rocco (San Leonardo Valcellina)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Rocco%20(San%20Leonardo%20Valcellina)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "Questo piccolo oratorio, situato nella frazione di San Leonardo Valcellina, è dedicato a san Rocco, protettore contro le malattie pestilenziali. Rappresenta una tipica espressione della profonda devozione popolare per il santo nel Friuli rurale soggetto alle epidemie.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Oratorio dello Spirito Santo (San Leonardo Valcellina)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20dello%20Spirito%20Santo%20(San%20Leonardo%20Valcellina)%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "L'Oratorio dello Spirito Santo, risalente al XVI secolo e situato vicino al guado sul torrente Cellina, è noto come luogo di preghiera per viandanti e pellegrini fin dal Medioevo. Il percorso per raggiungerlo è segnato da quattordici edicole votive, configurando una suggestiva via crucis immersa nel paesaggio; l'interno è abbellito da affreschi significativi della pittura murale devozionale friulana.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/montereale-valcellina.md"
+    }
+  ]
+}

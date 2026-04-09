@@ -1,0 +1,52 @@
+{
+  "comune_name": "Gradisca D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gradisca-d-isonzo.md",
+  "extracted_at": "2026-04-09T10:27:52.936Z",
+  "pois": [
+    {
+      "name": "Duomo dei Santi Pietro e Paolo",
+      "address": "Via Bergamas — Gradisca d'Isonzo",
+      "website_url": "http://www.parrocchiagradisca.it/SITE/index.php?area=CHIESE&id=1",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20dei%20Santi%20Pietro%20e%20Paolo%2C%20Via%20Bergamas%20%E2%80%94%20Gradisca%20d'Isonzo",
+      "image_url": null,
+      "description": "Il Duomo dei Santi Pietro e Paolo è la principale chiesa di Gradisca d'Isonzo, nota per la sua facciata neoclassica del 1752 opera di Paolo Zuliani e gli interni barocchi riccamente decorati. Rappresenta il centro religioso e storico della città, avendo rivestito il ruolo di cattedrale della breve Diocesi di Gradisca tra il 1788 e il 1791. All'interno si trovano la Cappella di Sant’Anna con stucchi barocchi e la Cappella dei Torriani che custodisce il monumentale sepolcro di Niccolò della Torre del 1557. È dedicato ai patroni cittadini, i santi Pietro e Paolo, festeggiati il 29 giugno.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine Addolorata",
+      "address": "Via Ciotti — Gradisca d'Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20Addolorata%2C%20Via%20Ciotti%20%E2%80%94%20Gradisca%20d'Isonzo",
+      "image_url": null,
+      "description": "La Chiesa della Beata Vergine Addolorata è uno dei luoghi di culto più antichi di Gradisca d'Isonzo, testimone del periodo veneziano della città dal 1473. Situata in fondo a via Ciotti, si caratterizza per una struttura semplice tipica del tardo Quattrocento friulano e funge da riferimento spirituale del quartiere storico. È dedicata alla Madonna dei Sette Dolori, particolarmente venerata nella regione, e rappresenta un importante esempio di architettura religiosa veneta locale.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Chiesa di Santo Spirito",
+      "address": "Piazza Marconi — Gradisca d'Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santo%20Spirito%2C%20Piazza%20Marconi%20%E2%80%94%20Gradisca%20d'Isonzo",
+      "image_url": null,
+      "description": "La Chiesa di Santo Spirito si trova in piazza Marconi ed è caratterizzata dall'architettura barocca seicentesca della zona goriziana. Il suo principale tesoro artistico è una pala d'altare raffigurante la Vergine, eseguita dall’apprezzato pittore ottocentesco Pompeo Randi. La presenza della pala testimonia i vivaci rapporti culturali della Gradisca dell'Ottocento e la trasformazione della città in centro di villeggiatura nobiliare.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Chiesa di San Valeriano",
+      "address": "Gradisca d'Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Valeriano%2C%20Gradisca%20d'Isonzo",
+      "image_url": null,
+      "description": "La Chiesa di San Valeriano è un luogo di culto attivo all’interno della comunità parrocchiale di Gradisca d'Isonzo e rappresenta un importante punto di riferimento spirituale locale. L’edificio, sebbene di dimensioni modeste e di datazione incerta, è noto per la celebrazione dell’Adorazione Eucaristica e fa parte integrante della tradizione religiosa cittadina.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gradisca-d-isonzo.md"
+    }
+  ]
+}

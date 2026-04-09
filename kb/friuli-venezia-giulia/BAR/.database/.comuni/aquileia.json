@@ -1,0 +1,96 @@
+{
+  "comune_name": "Aquileia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md",
+  "extracted_at": "2026-04-09T10:01:10.590Z",
+  "pois": [
+    {
+      "name": "Pasticceria Mosaico",
+      "address": "Piazza Capitolo, 17 — 33051 Aquileia (UD)",
+      "website_url": "https://www.pasticceriamosaico.com",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Pasticceria Mosaico è il locale più completo e distintivo di Aquileia, situato proprio in Piazza Capitolo davanti alla Basilica. Offre colazioni, merende, gelati artigianali e una mini-torrefazione interna con caffè tostato sul posto. La sua specialità è il DolceAqvileia, legato alla storia romana, ma ci sono anche biscotti tipici e confetture locali. Il laboratorio di cioccolato a vista, l'offerta per vegani e celiaci e i corsi di pasticceria rendono il locale unico nel territorio.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Bar Cjapitul",
+      "address": "Piazza Capitolo, 9 — 33051 Aquileia (UD)",
+      "website_url": "https://visitaquileia.com",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Cjapitul si affaccia direttamente sulla piazza monumentale della Basilica e rappresenta il luogo di ritrovo principale per residenti e turisti. L'atmosfera unisce tradizione locale e accoglienza turistica, con un dehors all'aperto molto suggestivo. Propone caffè, spritz, panini e cocktail fino a mezzanotte, diventando il riferimento per l'aperitivo serale nel centro storico.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Caffè Antica Aquileia",
+      "address": "Piazza Fratelli Cervi, 4 — 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Caffè Antica Aquileia è il bar che apre prima di tutti, dalle sei del mattino, e si trova sotto i portici nella via principale del centro. Offre colazioni con brioches fresche e caffetteria, diventando punto di riferimento per lavoratori e turisti. Nel pomeriggio propone aperitivi, snack e vini DOC Aquileia, mantenendo un'atmosfera informale e di quartiere.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Bar Sport",
+      "address": "Via Gemina, 5 — 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Sport, gestito dalla famiglia Moro, è il tipico bar di paese frequentato dagli aquileiesi. Situato nel centro storico, offre caffetteria, brioche del fornaio e aperitivi, diventando il luogo familiare dove la comunità si ritrova quotidianamente. Il locale ha un'atmosfera autentica e senza fronzoli, privilegiando la semplicità e la tradizione locale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Locanda Aquila Nera",
+      "address": "Piazza Garibaldi, 5 — 33051 Aquileia (UD)",
+      "website_url": "https://www.visitaquileia.com",
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Aquila Nera è una locanda storica situata in Piazza Garibaldi, che offre servizio bar accessibile anche ai non ospiti. L'atmosfera è quella di una locanda tradizionale, in cui la colazione e i vini DOC Aquileia sono protagonisti. Il locale conserva memorie storiche legate all'antico simbolo del Patriarcato.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Albergo Ristorante Pizzeria alla Basilica",
+      "address": "Viale Stazione, 2 — 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Albergo alla Basilica dispone di servizio bar, accessibile sia agli ospiti che all'esterno, e offre colazioni ricche dolci e salate. Il locale si trova vicino ai monumenti principali e propone anche pizzeria e piatti friulani, con una sala interna dall'atmosfera rustica e posti all'aperto in estate. È scelto da chi cerca tranquillità pur restando nel centro.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Ristorante Corallo",
+      "address": "Via Beligna, 3 — 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Ristorante Corallo, orientato verso la laguna, offre anche servizio bar e tavoli all'esterno, ideale per una pausa o un aperitivo. Il locale è attento ai servizi, con wifi e accessibilità per disabili, ed è frequentato in particolare nei giorni di apertura del ristorante. L'atmosfera è amichevole e moderna.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    },
+    {
+      "name": "Rusticus Steakhouse",
+      "address": "Via Giovanni Minut, 1 — 33051 Aquileia (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Rusticus Steakhouse offre funzione di bar nelle ore diurne e diventa punto di ritrovo serale con cucina di carne e barbeque estivi. È aperto fino a tarda notte, distinguendosi dai bar tradizionali per vocazione e atmosfera vivace. Ideale per chi cerca una proposta più informale e conviviale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aquileia.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Basiliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/basiliano.md",
+  "extracted_at": "2026-04-09T10:42:54.820Z",
+  "pois": [
+    {
+      "name": "Villa Zamparo – Biblioteca Civica e Centro Culturale «Pre Toni Beline»",
+      "address": "Via Roma, Basiliano (UD)",
+      "website_url": "http://www.comune.basiliano.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Zamparo%20%E2%80%93%20Biblioteca%20Civica%20e%20Centro%20Culturale%20%C2%ABPre%20Toni%20Beline%C2%BB%2C%20Via%20Roma%2C%20Basiliano%20(UD)",
+      "image_url": null,
+      "description": "Villa Zamparo è una villa rurale ottocentesca che ospita la biblioteca civica «Pre Toni Beline» e molte realtà culturali di Basiliano. Sebbene non sia un museo in senso stretto, custodisce raccolte di storia locale, fotografie e materiali d’archivio che documentano la memoria collettiva del comune, comprese testimonianze sulle guerre mondiali e la storia di Pasian Schiavonesco. La villa è il principale punto di aggregazione culturale del territorio, con mostre temporanee, presentazioni e attività didattiche.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/basiliano.md"
+    },
+    {
+      "name": "Monumento ai Caduti di Aurelio Mistruzzi – Patrimonio Scultoreo Pubblico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%20di%20Aurelio%20Mistruzzi%20%E2%80%93%20Patrimonio%20Scultoreo%20Pubblico%2C%20Basiliano",
+      "image_url": null,
+      "description": "Il Monumento ai Caduti in Piazza del Municipio, opera dello scultore Aurelio Mistruzzi, è la principale scultura pubblica di Basiliano e commemora le vittime delle guerre mondiali. Pur non essendo un museo, il monumento è fortemente legato alla memoria storica e artistica del territorio e testimonia il rapporto tra Mistruzzi e il suo paese natale, Villaorba. Non esiste una casa-museo dedicata allo scultore, ma la sua documentazione si trova in parte presso la biblioteca civica.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/basiliano.md"
+    },
+    {
+      "name": "Castelliere di Variano e Colle di San Leonardo – Sito Archeologico e Affreschi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castelliere%20di%20Variano%20e%20Colle%20di%20San%20Leonardo%20%E2%80%93%20Sito%20Archeologico%20e%20Affreschi%2C%20Basiliano",
+      "image_url": null,
+      "description": "Il Castelliere di Variano, situato sul Colle di San Leonardo, è il più importante sito archeologico di Basiliano, con insediamenti che risalgono all’età del bronzo. Sul colle si trova la Chiesetta di San Leonardo, notevole per gli affreschi interni del 1529, rappresentativi della tradizione devozionale friulana. L’area offre inoltre un punto panoramico sulla pianura ed è accessibile liberamente, pur non essendo gestita come museo.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/basiliano.md"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "comune_name": "Buttrio",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buttrio.md",
+  "extracted_at": "2026-04-09T10:02:57.392Z",
+  "pois": [
+    {
+      "name": "Bar Clochiatti",
+      "address": "Via Nazionale, 22 — Buttrio (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Clochiatti è un classico bar di paese friulano, noto per la sua accoglienza e la clientela abituale. È il punto di riferimento mattutino per una brioche fresca e cappuccino generoso, apprezzato soprattutto dai pendolari della Via Nazionale. Il locale offre un'atmosfera informale e familiare, con una selezione di birre che lo rende valido anche per un drink serale. Qui, la pausa caffè è un rito quotidiano che scandisce la vita della comunità di Buttrio.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buttrio.md"
+    },
+    {
+      "name": "Le Fucine Caffè & Bistrot",
+      "address": "Via Nazionale, 54 — Buttrio (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Le Fucine Caffè & Bistrot è il locale più versatile di Buttrio, con una proposta che spazia dalla colazione fino all'aperitivo serale, passando per il pranzo. L'atmosfera richiama il bistrot contemporaneo e i tavoli all'aperto sono particolarmente apprezzati nei mesi caldi. Svolge funzione di bar, wine bar e anche pub, offrendo una selezione di vini locali e assicurando accessibilità ai disabili. È il luogo di ritrovo ideale per chi cerca un ambiente tranquillo e conviviale in paese.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buttrio.md"
+    },
+    {
+      "name": "L'80/20",
+      "address": "Via Nazionale, 8 — Buttrio (UD)",
+      "website_url": "http://lottantaventi.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'80/20 è un locale informale dal carattere giovane, noto sia come cocktail bar che per la sua proposta food con hamburger anche vegetariani. Aperto la sera, è il posto giusto per un drink o aperitivo accompagnato da appetizers e un'ampia scelta di birre. L'atmosfera vivace e i tavoli all'aperto lo rendono una meta preferita dai buttriesi in cerca di un locale alternativo e moderno rispetto ai bar più tradizionali.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buttrio.md"
+    },
+    {
+      "name": "Trattoria Birreria Pizzeria De Cecco",
+      "address": "Via Nazionale, 6 — Buttrio (UD)",
+      "website_url": "https://www.facebook.com/trattoriadececco/",
+      "maps_url": null,
+      "image_url": null,
+      "description": "La De Cecco combina le funzioni di trattoria, birreria e pizzeria in un unico spazio conviviale, fungendo anche da punto di ritrovo per l'aperitivo e il dopocena. Il locale è apprezzato per la carta delle birre, la presenza di tavoli all'aperto e l'accessibilità, risultando una scelta comoda per gruppi e famiglie. Offre un ambiente informale dove pizza, piadine e birre fanno da protagonisti alle serate di Buttrio.",
+      "comune_name": "Buttrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buttrio.md"
+    }
+  ]
+}

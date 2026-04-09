@@ -1,0 +1,151 @@
+{
+  "comune_name": "Remanzacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md",
+  "extracted_at": "2026-04-09T11:15:03.429Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Pessar",
+      "address": "Remanzacco (nelle vicinanze del Museo Gino Tonutti)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Pessar%2C%20Remanzacco%20(nelle%20vicinanze%20del%20Museo%20Gino%20Tonutti)",
+      "image_url": null,
+      "description": "Al Pessar è una delle trattorie più note a Remanzacco, con una clientela fedele e una cucina orientata al pesce fresco e alla tradizione mediterranea. Il locale è apprezzato per l'ambiente accogliente, i posti all'aperto e la qualità del gelato, oltre alla buona selezione di vini della casa. Il servizio è considerato professionale e i prezzi sono giudicati equi per la qualità offerta. Si trova vicino al Museo Gino Tonutti, rendendolo una tappa ideale per i visitatori.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Da Edy",
+      "address": "Via S. Martino, 5/2 – Zona Industriale B, Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Edy%2C%20Via%20S.%20Martino%2C%205%2F2%20%E2%80%93%20Zona%20Industriale%20B%2C%20Remanzacco",
+      "image_url": null,
+      "description": "Da Edy è la pizzeria di riferimento per Remanzacco, famosa per il suo punteggio elevato su Restaurant Guru e la posizione nella zona industriale. La sua offerta serale include pizze, pizza-panini e hamburger, in un ambiente informale adatto a gruppi. Il locale è apprezzato per la qualità delle pizze, il servizio d'asporto e la disponibilità di sedute all'aperto.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Da Bastian",
+      "address": "Via Giacomo Matteotti, 22 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Bastian%2C%20Via%20Giacomo%20Matteotti%2C%2022%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "Da Bastian è un locale polivalente che funge da bar, trattoria e punto di ristoro nel centro di Remanzacco, vicino alla Chiesa di San Giovanni Battista. Frequentato dalla popolazione locale per tutte le fasce orarie, è noto per gli gnocchi fatti in casa e il buon vino. L'atmosfera è vivace e il personale cortese, con una soddisfazione generale confermata dal rating Google di 4.4.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Cibo di Campagna",
+      "address": "Viale del Sole, 152 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cibo%20di%20Campagna%2C%20Viale%20del%20Sole%2C%20152%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "Cibo di Campagna è un ristorante di cucina italiana contemporanea con opzioni vegetariane, noto per hamburger, tagliata di manzo e dolci caserecci. Con una valutazione Google positiva e ampi servizi per famiglie, offre posti all'aperto e parcheggio dedicato. Attualmente il locale risulta temporaneamente chiuso, ma rimane apprezzato per la sua atmosfera giovane e la cortesia.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Ristorante Pizzeria al Cardinale (Cardinale Filippa)",
+      "address": "Strada Statale 54 del Friuli, 55 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20al%20Cardinale%20(Cardinale%20Filippa)%2C%20Strada%20Statale%2054%20del%20Friuli%2C%2055%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "Situato lungo la principale arteria del comune, il Ristorante Pizzeria al Cardinale offre sia un menu di pizzeria che ristorante con cucina italiana e pesce fresco. Il locale è ampio, con servizio veloce e piatti curati, ed è ideale per pranzi o cene in famiglia o tra colleghi. Dispone di posti all'aperto e accetta prenotazioni, offrendo anche servizio di consegna a domicilio.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Ristorante Moulin Rouge",
+      "address": "Viale del Sole – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Moulin%20Rouge%2C%20Viale%20del%20Sole%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "Il Moulin Rouge è un ristorante-pizzeria informale con un ambiente rilassato e una piscina nelle vicinanze, apprezzata soprattutto nei mesi estivi. Offre pizze e piatti italiani, dispone di parcheggio gratuito, strutture di accessibilità e servizio al tavolo. Il locale è ideale per famiglie e gruppi; si consiglia di telefonare per confermare gli orari.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Agriturismo La Pecora Nera",
+      "address": "Via Moimacco, 16 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20La%20Pecora%20Nera%2C%20Via%20Moimacco%2C%2016%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "L'Agriturismo La Pecora Nera propone cucina italiana tradizionale in un contesto rurale, accompagnando i piatti a vini di produzione propria o locale. Il locale è molto apprezzato, con apertura limitata ai weekend, e offre un ambiente autentico perfetto per chi cerca l'esperienza di mangiare in campagna. Accetta prenotazioni, carte di credito e garantisce l'accesso a persone con disabilità.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Agriturismo Fogolar Da Capo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Fogolar%20Da%20Capo%2C%20Remanzacco",
+      "image_url": null,
+      "description": "Il Fogolar Da Capo è un agriturismo che valorizza la cucina friulana con gnocchi, polenta e piatti della tradizione contadina. L'atmosfera richiama le antiche osterie di campagna friulane, risultando accogliente e genuina. Le recensioni su TripAdvisor attestano un'esperienza autentica; si consiglia di contattare il locale per informazioni su orari e disponibilità.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "AL Posto di Conversazione",
+      "address": "Via Guglielmo Marconi, 22 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AL%20Posto%20di%20Conversazione%2C%20Via%20Guglielmo%20Marconi%2C%2022%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "AL Posto di Conversazione era un ristorante di cucina italiana in fascia medio-alta, noto per piatti curati e un menu ben organizzato. Situato vicino alla Chiesa di San Giovanni Battista, il locale godeva di una buona reputazione tra i suoi visitatori e offriva posti all'aperto e prenotazioni. Si consiglia di verificare preventivamente l'operatività.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Ebi Restaurant",
+      "address": "Strada Statale 54 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ebi%20Restaurant%2C%20Strada%20Statale%2054%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "Ebi Restaurant è specializzato in cucina giapponese e sushi, situato lungo la Strada Statale 54. Il locale offre un ambiente curato con bancone bar e rappresenta una risposta alle nuove esigenze gastronomiche della popolazione locale e dei pendolari. Si suggerisce di contattare la struttura per gli orari aggiornati.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "UNIKO Sushi – All You Can Eat",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=UNIKO%20Sushi%20%E2%80%93%20All%20You%20Can%20Eat%2C%20Remanzacco",
+      "image_url": null,
+      "description": "UNIKO Sushi è un ristorante giapponese con formula all-you-can-eat nel territorio di Remanzacco. Si rivolge a chi cerca un'esperienza informale con ampia scelta, seguendo la tendenza diffusa in Italia negli ultimi anni. È consigliato informarsi direttamente presso il locale su orari e prenotazioni.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Villa Serafini – Piscina e Ristorante",
+      "address": "Viale del Sole, 1 – Remanzacco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Serafini%20%E2%80%93%20Piscina%20e%20Ristorante%2C%20Viale%20del%20Sole%2C%201%20%E2%80%93%20Remanzacco",
+      "image_url": null,
+      "description": "Villa Serafini offre servizi di ricettività, ristorazione e piscina in una villa con giardino alle porte di Remanzacco. Aperto tutti i giorni dalle 9 alle 19, è ideale per colazioni, pranzi e merende in famiglia o durante un soggiorno in zona. L'ambiente è tranquillo, curato e dotato di posti a sedere all'aperto.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    },
+    {
+      "name": "Dal 1885 Forno Rurale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dal%201885%20Forno%20Rurale%2C%20Remanzacco",
+      "image_url": null,
+      "description": "Il Forno Rurale, attivo dal 1885, è una storica panetteria-artigianale di Remanzacco che produce pane e dolci tipici friulani. Pur non essendo un ristorante, rappresenta una tappa gastronomica fondamentale per chi è interessato alle specialità locali e ai prodotti tradizionali da forno.",
+      "comune_name": "Remanzacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/remanzacco.md"
+    }
+  ]
+}

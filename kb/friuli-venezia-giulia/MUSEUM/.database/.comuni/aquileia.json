@@ -1,0 +1,140 @@
+{
+  "comune_name": "Aquileia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md",
+  "extracted_at": "2026-04-09T10:42:17.181Z",
+  "pois": [
+    {
+      "name": "Museo Archeologico Nazionale di Aquileia",
+      "address": "Via Roma, 1 — 33051 Aquileia (UD)",
+      "website_url": "https://museoarcheologicoaquileia.cultura.gov.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20di%20Aquileia%2C%20Via%20Roma%2C%201%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Museo Archeologico Nazionale di Aquileia è il principale museo del sito UNESCO cittadino, fondato nel 1882 e ospitato nell'elegante Villa Cassis Faraone. Conserva una delle collezioni più ricche di reperti romani del nord Italia, con otto sezioni tematiche che raccontano la storia di Aquileia dall'età repubblicana alla tarda antichità, e ospita celebri mosaici, manufatti in ambra, vetreria e sculture. Il complesso comprende anche le Gallerie Lapidarie, una sezione navale, i depositi visitabili e un ampio giardino storico.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Museo Paleocristiano di Aquileia",
+      "address": "Piazza Pirano — 33051 Aquileia (UD), località Monastero",
+      "website_url": "https://museoarcheologicoaquileia.cultura.gov.it/museo-paleocristiano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Paleocristiano%20di%20Aquileia%2C%20Piazza%20Pirano%20%E2%80%94%2033051%20Aquileia%20(UD)%2C%20localit%C3%A0%20Monastero",
+      "image_url": null,
+      "description": "Il Museo Paleocristiano di Aquileia, situato nella borgata di Monastero, custodisce preziosi mosaici pavimentali e testimonianze epigrafiche cristiane dal IV al VI secolo in un edificio che ingloba la basilica paleocristiana, un monastero medievale e una rimessa settecentesca. Le sue raccolte illustrano la ricca storia religiosa di Aquileia e permettono di ammirare eccezionali tappeti musivi con iscrizioni latine e greche, oltre a raffinate opere provenienti dalla Basilica della Beligna.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Basilica Patriarcale di Santa Maria Assunta — Complesso Musivo e Monumentale",
+      "address": "Piazza Capitolo, 1 — 33051 Aquileia (UD)",
+      "website_url": "http://www.basilicadiaquileia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20Patriarcale%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Complesso%20Musivo%20e%20Monumentale%2C%20Piazza%20Capitolo%2C%201%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "La Basilica Patriarcale di Santa Maria Assunta è uno dei principali esempi di arte e architettura religiosa in Italia ed è famosa per i suoi vasti mosaici pavimentali del IV secolo, le Aule Teodoriane e le strutture romaniche e gotiche successive. Il complesso comprende la basilica, la Cripta degli Scavi con i mosaici più estesi del primo cristianesimo, la Cripta Affrescata con dipinti altomedievali, il campanile romanico e il battistero ottagonale. Inserita nel patrimonio UNESCO, racconta quasi diciassette secoli di storia religiosa e artistica.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Südhalle (Sala Sud) — Aula Musivata del IV Secolo",
+      "address": "Piazza Capitolo — 33051 Aquileia (UD) (interno al complesso basilicale)",
+      "website_url": "https://www.fondazioneaquileia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=S%C3%BCdhalle%20(Sala%20Sud)%20%E2%80%94%20Aula%20Musivata%20del%20IV%20Secolo%2C%20Piazza%20Capitolo%20%E2%80%94%2033051%20Aquileia%20(UD)%20(interno%20al%20complesso%20basilicale)",
+      "image_url": null,
+      "description": "La Südhalle è una sala paleocristiana del IV secolo situata a sud del battistero della Basilica di Aquileia e nota per il suo prezioso pavimento musivo. Utilizzata probabilmente come ambiente catechetico, conserva raffinati mosaici geometrici che testimoniano la ricchezza della produzione artistica di epoca teodoriana. È accessibile con il biglietto unico del complesso basilicale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Domus di Tito Macro — Area Archeologica",
+      "address": "Via Giulia Augusta — 33051 Aquileia (UD) (Fondo Cossar)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/domus-di-tito-macro",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Domus%20di%20Tito%20Macro%20%E2%80%94%20Area%20Archeologica%2C%20Via%20Giulia%20Augusta%20%E2%80%94%2033051%20Aquileia%20(UD)%20(Fondo%20Cossar)",
+      "image_url": null,
+      "description": "La Domus di Tito Macro è una grande casa romana, la più estesa tra quelle rinvenute ad Aquileia, databile tra il I secolo a.C. e il VI secolo d.C. L’area archeologica permette di ammirare ambienti originali come l’atrio, il giardino con peristilio, i mosaici e numerosi reperti monetali e ornamentali. L’allestimento valorizza la struttura della domus e rende percepibili le proporzioni dell'antica dimora, offrendo un'esperienza museale immersiva.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Area Archeologica del Foro Romano",
+      "address": "Via Sacra / Piazza del Capitolo — 33051 Aquileia (UD)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/foro-romano",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Area%20Archeologica%20del%20Foro%20Romano%2C%20Via%20Sacra%20%2F%20Piazza%20del%20Capitolo%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Foro Romano è il centro della vita pubblica dell'antica Aquileia, dove sono oggi visibili basamenti di colonne e strutture murarie che rievocano l'imponenza dello spazio originario. L’area offre un itinerario didattico tra i resti della basilica civile, delle botteghe e dei portici, con pannelli che aiutano a comprendere la topografia urbana romana. È liberamente accessibile e rappresenta uno dei punti chiave del sito UNESCO cittadino.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Area Archeologica del Porto Fluviale",
+      "address": "Via Sacra — 33051 Aquileia (UD)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/porto-fluviale",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Area%20Archeologica%20del%20Porto%20Fluviale%2C%20Via%20Sacra%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Porto Fluviale di Aquileia conserva resti delle banchine in pietra e magazzini che testimoniano l'importanza commerciale della città romana, crocevia tra il Mediterraneo e il Nord Europa. È uno dei pochi porti fluviali romani visitabili in Italia settentrionale e si caratterizza per la suggestiva atmosfera creata dalle antiche strutture e dalla vicina Via Sacra. Il percorso è arricchito da tombe e monumenti che raccontano la storia delle vie d'acqua e delle rotte mercantili.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Sepolcreto Romano",
+      "address": "Via Sacra — 33051 Aquileia (UD)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/sepolcreto",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sepolcreto%20Romano%2C%20Via%20Sacra%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Sepolcreto Romano è una delle più significative aree funerarie visibili in Italia, con decine di monumenti sepolcrali di epoche diverse distribuiti lungo la Via Sacra. Le stele, gli altari e i mausolei preservano iscrizioni che offrono preziose informazioni sulla società e le tradizioni dell'Aquileia imperiale. L’area è facilmente fruibile tramite percorso pedonale e pannelli didattici bilingui.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Fondo CAL — Area Archeologica",
+      "address": "Via Gemina — 33051 Aquileia (UD)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/fondo-cal",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondo%20CAL%20%E2%80%94%20Area%20Archeologica%2C%20Via%20Gemina%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Fondo CAL è un sito archeologico che rende visibile l’assetto urbanistico di un quartiere residenziale romano ad Aquileia. Vi si conservano resti di domus con pavimenti musivi, tracce della rete stradale e strutture murarie private, illustrati da pannelli esplicativi che facilitano la comprensione delle tecniche costruttive e della vita quotidiana nella città antica.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Fondo Pasqualis Mercati — Area Archeologica",
+      "address": "Via Gemina — 33051 Aquileia (UD)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/fondo-pasqualis-mercati",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondo%20Pasqualis%20Mercati%20%E2%80%94%20Area%20Archeologica%2C%20Via%20Gemina%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Fondo Pasqualis Mercati comprende un’area archeologica residenziale con resti di abitazioni romane, pavimenti a mosaico e piccoli impianti termali privati. Il sito, visitabile grazie ai percorsi attrezzati, documenta la qualità dell’edilizia domestica aquileiese e il livello di comfort raggiunto dalle famiglie benestanti della città antica.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Domus e Palazzo Episcopale — Area Archeologica",
+      "address": "Piazza Capitolo — 33051 Aquileia (UD) (adiacente alla Basilica)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/domus-e-palazzo-episcopale",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Domus%20e%20Palazzo%20Episcopale%20%E2%80%94%20Area%20Archeologica%2C%20Piazza%20Capitolo%20%E2%80%94%2033051%20Aquileia%20(UD)%20(adiacente%20alla%20Basilica)",
+      "image_url": null,
+      "description": "Questa area archeologica, situata accanto alla Basilica Patriarcale, comprende i resti di una domus romana di età imperiale e del successivo palazzo vescovile paleocristiano. Permette di osservare la stratificazione tra residenza privata e sede del potere ecclesiastico di Aquileia, centro nevralgico del cristianesimo occidentale nei primi secoli dopo Cristo.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    },
+    {
+      "name": "Decumano di Aratria Galla — Area Archeologica",
+      "address": "Via Gemina — 33051 Aquileia (UD)",
+      "website_url": "https://www.fondazioneaquileia.it/it/cosa-vedere/decumano-di-aratria-galla",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Decumano%20di%20Aratria%20Galla%20%E2%80%94%20Area%20Archeologica%2C%20Via%20Gemina%20%E2%80%94%2033051%20Aquileia%20(UD)",
+      "image_url": null,
+      "description": "Il Decumano di Aratria Galla è un tratto di strada romana lastricata ben conservata, dedicata a una matrona che finanziò opere pubbliche ad Aquileia. Il percorso mostra elementi originali dell’antica viabilità con marciapiedi, canali e resti edilizi, illustrati da pannelli che testimoniano il ruolo dei privati nello sviluppo urbano romano.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aquileia.md"
+    }
+  ]
+}

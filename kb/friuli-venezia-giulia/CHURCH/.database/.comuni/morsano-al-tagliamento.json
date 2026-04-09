@@ -1,0 +1,96 @@
+{
+  "comune_name": "Morsano al Tagliamento",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md",
+  "extracted_at": "2026-04-09T10:31:08.255Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Martino Vescovo *(parrocchiale del capoluogo)*",
+      "address": "Piazza Moro, Morsano al Tagliamento — centro storico del capoluogo.",
+      "website_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_Vescovo_(Morsano_al_Tagliamento)",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20Vescovo%20*(parrocchiale%20del%20capoluogo)*%2C%20Piazza%20Moro%2C%20Morsano%20al%20Tagliamento%20%E2%80%94%20centro%20storico%20del%20capoluogo.",
+      "image_url": null,
+      "description": "La Chiesa di San Martino Vescovo è la parrocchiale neoclassica di Morsano al Tagliamento, edificata tra il 1760 e il 1763 su progetto di Sebastiano Lotti. All'interno conserva opere di Palma il Giovane e Agostino Pantaleoni, oltre a un altare barocco e un raffinato paliotto di Giovanni Savio. È un importante riferimento artistico e religioso della zona, sede della storica parrocchia dei Santi Martino e Bartolomeo.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Chiesa di San Rocco *(oratorio campestre)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%20*(oratorio%20campestre)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "La Chiesa di San Rocco è un piccolo oratorio rurale risalente agli inizi del XVI secolo, costruito probabilmente come voto contro la peste. L’edificio, situato nella campagna a sud del capoluogo, presenta una facciata semplice protetta da un atrio con dettagli architettonici tipici degli oratori del Rinascimento friulano. La sua conservazione rappresenta una rara testimonianza di devozione campestre nel territorio del basso Tagliamento.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Chiesa di Sant'Osvaldo Re *(frazione di Mussons)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Osvaldo%20Re%20*(frazione%20di%20Mussons)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Situata nella frazione di Mussons, la Chiesa di Sant'Osvaldo Re fu edificata nel XIX secolo sulle basi di un oratorio precedente e completata nell’arco di circa un decennio. Custodisce una pala d'altare dipinta da Antonio Cecchini nel 1722. Il culto di sant'Osvaldo, raro in Friuli, testimonia la persistenza di tradizioni religiose legate ai santi guerrieri e alle comunità longobarde e franche.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Chiesa dei Santi Pietro e Paolo *(Saletto)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Pietro%20e%20Paolo%20*(Saletto)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Questa chiesa si trova nella frazione di Saletto e dà il nome alla località, segno di una fondazione antica. La struttura è stata più volte rimaneggiata, in linea con la storia delle chiese rurali di pianura friulana, frequentemente soggette a danni ambientali. Essa rappresenta il centro religioso della comunità di Saletto, con una dedicazione tipica delle pievi storiche friulane.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Chiesa di San Bartolomeo Apostolo *(Bando)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Bartolomeo%20Apostolo%20*(Bando)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "La chiesa rurale di Bando è dedicata a San Bartolomeo, patrono dei lavoratori agricoli. Situata nell’omonima località, l’edificio si inserisce nel paesaggio tipico della pianura friulana, con chiese isolate che segnano i confini delle comunità. La sua presenza rafforza l’identità religiosa della frazione Saletto-Bando.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Chiesa di San Paolo Apostolo *(frazione di San Paolo)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Paolo%20Apostolo%20*(frazione%20di%20San%20Paolo)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "La Chiesa di San Paolo Apostolo si trova nell’omonima frazione sulla riva del Tagliamento ed è il fulcro religioso locale. La costruzione attuale deriva da interventi successivi e testimonia la rilevanza storica e demografica della frazione, dove la vita religiosa si intrecciava con il lavoro artigianale e agricolo.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Oratorio della Visitazione a Santa Elisabetta *(tra San Paolo e Carbona)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20della%20Visitazione%20a%20Santa%20Elisabetta%20*(tra%20San%20Paolo%20e%20Carbona)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Questo piccolo oratorio rurale, situato tra le località di San Paolo e Carbona, è dedicato alla Visitazione di Maria a Santa Elisabetta. Era tipico dei percorsi agricoli friulani come luogo di sosta e preghiera per viandanti e lavoratori. L’oratorio rappresenta un esempio di cappella viaria caratteristica della devozione diffusa nelle campagne del Friuli preindustriale.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Chiesa di San Pietro *(Bolzano)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pietro%20*(Bolzano)*%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "La Chiesa di San Pietro si trova in località Bolzano, nella parte nord-occidentale del comune. L’edificio, di piccole dimensioni, è associato alla presenza storica della villa della Torre e del mulino ad acqua. La dedicazione a Pietro suggerisce origini medievali e si inserisce nella tradizione delle chiese friulane di antica fondazione.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/morsano-al-tagliamento.md"
+    }
+  ]
+}

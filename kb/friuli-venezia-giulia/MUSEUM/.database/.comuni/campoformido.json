@@ -1,0 +1,63 @@
+{
+  "comune_name": "Campoformido",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campoformido.md",
+  "extracted_at": "2026-04-09T10:43:45.117Z",
+  "pois": [
+    {
+      "name": "Casa di Bertrando Del Torre e Piazza del Trattato (Luogo storico commemorativo)",
+      "address": "Piazza del Trattato, 4 – 33030 Campoformido (UD)",
+      "website_url": "http://www.comune.campoformido.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20di%20Bertrando%20Del%20Torre%20e%20Piazza%20del%20Trattato%20(Luogo%20storico%20commemorativo)%2C%20Piazza%20del%20Trattato%2C%204%20%E2%80%93%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "La Casa di Bertrando Del Torre è il luogo dove si firmò il celebre Trattato di Campoformio nel 1797, evento fondamentale per la storia europea. L'edificio ospita due lapidi commemorative napoleoniche, mentre nella piazza antistante si trova una copia della storica Statua della Pace. Il sito è accessibile liberamente tutto l'anno ed è un simbolo identitario di Campoformido, legato alle origini del suo nome e alla memoria del trattato.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campoformido.md"
+    },
+    {
+      "name": "Necropoli Romana di Basaldella (Sito Archeologico)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Necropoli%20Romana%20di%20Basaldella%20(Sito%20Archeologico)%2C%20Campoformido",
+      "image_url": null,
+      "description": "La Necropoli Romana di Basaldella è uno dei più importanti ritrovamenti archeologici del comune, con circa ottanta sepolture databili tra I secolo a.C. e I secolo d.C. Scoperta vicino alla chiesetta di San Daniele e al torrente Cormor, testimonia la presenza di una vivace comunità rurale in epoca romana. I materiali rinvenuti sono conservati presso musei regionali, e il sito non è attrezzato come museo visitabile.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campoformido.md"
+    },
+    {
+      "name": "Tomba a Tumulo di Basaldella (Testimonianza Preistorica)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tomba%20a%20Tumulo%20di%20Basaldella%20(Testimonianza%20Preistorica)%2C%20Campoformido",
+      "image_url": null,
+      "description": "Nella frazione di Basaldella è presente una tomba a tumulo risalente al X secolo a.C., rappresentando una delle più antiche tracce d'insediamento umano a Campoformido. Alterata nel corso dei secoli, la tomba documenta la continuità storica dell'area dall'età del ferro. Attualmente il tumulo non è organizzato come sito museale né visitabile in forma strutturata.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campoformido.md"
+    },
+    {
+      "name": "Luoghi delle Monomachie Longobarde – Prati di San Canciano (Memoria Storica)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Luoghi%20delle%20Monomachie%20Longobarde%20%E2%80%93%20Prati%20di%20San%20Canciano%20(Memoria%20Storica)%2C%20Campoformido",
+      "image_url": null,
+      "description": "I Prati di San Canciano furono teatro, in epoca longobarda, di monomachie giudiziarie, duelli rituali per la risoluzione delle controversie. Situata nei pressi della chiesetta di San Canciano, l'area conserva il ricordo di queste tradizioni, importanti per la memoria storica locale. Non esiste un sito museale attrezzato, ma il luogo è parte integrante dell'identità storica di Campoformido.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campoformido.md"
+    },
+    {
+      "name": "Aeroporto di Udine-Campoformido e il Patrimonio dell'Aviazione (Sito di Memoria Storica)",
+      "address": "Aeroporto di Udine-Campoformido – Via dell'Aeroporto – 33030 Campoformido (UD)",
+      "website_url": "http://www.aeroclubfriulano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Aeroporto%20di%20Udine-Campoformido%20e%20il%20Patrimonio%20dell'Aviazione%20(Sito%20di%20Memoria%20Storica)%2C%20Aeroporto%20di%20Udine-Campoformido%20%E2%80%93%20Via%20dell'Aeroporto%20%E2%80%93%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "Costruito nel 1913, l'Aeroporto di Udine-Campoformido è tra i più antichi d'Italia e vanta una ricca storia militare e aeronautica. Qui nacque la prima pattuglia acrobatica italiana, progenitrice delle Frecce Tricolori. L'aeroporto conserva strutture storiche e offre attività sportive gestite dall'Aeroclub Friulano, pur non essendo un museo tradizionale.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campoformido.md"
+    }
+  ]
+}

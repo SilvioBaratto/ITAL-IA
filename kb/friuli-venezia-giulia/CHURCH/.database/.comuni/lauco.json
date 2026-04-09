@@ -1,0 +1,63 @@
+{
+  "comune_name": "Lauco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lauco.md",
+  "extracted_at": "2026-04-09T10:28:35.829Z",
+  "pois": [
+    {
+      "name": "Chiesa di Ognissanti — Lauco capoluogo",
+      "address": null,
+      "website_url": "http://www.comune.lauco.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Ognissanti%20%E2%80%94%20Lauco%20capoluogo%2C%20Lauco",
+      "image_url": null,
+      "description": "La Chiesa di Ognissanti è la parrocchiale del capoluogo di Lauco e rappresenta il principale luogo di culto del borgo, con il suo campanile che domina il paesaggio urbano come simbolo architettonico. Caratterizzata da una navata unica e una facciata a capanna in pietra locale, riflette l'architettura religiosa rurale tipica della Carnia fra Medioevo ed età moderna. Vi si celebra la festa di san Rocco, patrono del comune, e la vita liturgica del paese si sviluppa attorno a questo edificio.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lauco.md"
+    },
+    {
+      "name": "Santuario della Madonna di Trava — Trava (frazione di Lauco)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20di%20Trava%20%E2%80%94%20Trava%20(frazione%20di%20Lauco)%2C%20Lauco",
+      "image_url": null,
+      "description": "Il Santuario della Madonna di Trava, fondato nel 1660 e ampliato con il campanile nel 1889, è il luogo di culto mariano più importante di Lauco e uno dei più singolari della Carnia. Sorge su un pianoro boscoso ed è noto per la tradizione dei neonati portati qui per la pratica dei santuari di répit, legata al desiderio di battesimo postumo. L'edificio presenta una semplice architettura votiva in pietra e conserva un'intensa atmosfera di pellegrinaggio popolare con numerosi ex voto e immagini devozionali.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lauco.md"
+    },
+    {
+      "name": "Chiesa di San Leonardo — Trava (frazione di Lauco)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Leonardo%20%E2%80%94%20Trava%20(frazione%20di%20Lauco)%2C%20Lauco",
+      "image_url": null,
+      "description": "La Chiesa di San Leonardo costituisce il nucleo originario della frazione di Trava, attorno al quale si è sviluppato il villaggio. Di probabile origine medievale, mantiene elementi architettonici del periodo e riflette la diffusa devozione a San Leonardo nelle Alpi. L'edificio ha subito restauri nel tempo, ma resta punto di riferimento spirituale e storico per la comunità.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lauco.md"
+    },
+    {
+      "name": "Chiesetta di San Michele — tra Lauco e Trava",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Michele%20%E2%80%94%20tra%20Lauco%20e%20Trava%2C%20Lauco",
+      "image_url": null,
+      "description": "La Chiesetta di San Michele, risalente al XV secolo, è uno degli edifici religiosi più antichi di Lauco, situata tra Lauco e Trava. Si distingue per il campanile a vela e la sobria architettura gotico-alpina in pietra, tipica delle cappelle rurali carniche. Dedicata a San Michele Arcangelo, aveva la funzione simbolica di presidio lungo i percorsi montani, riflettendo antiche credenze protettive delle comunità alpine.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lauco.md"
+    },
+    {
+      "name": "Via Crucis in lingua friulana — Vinaio (frazione di Lauco)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Via%20Crucis%20in%20lingua%20friulana%20%E2%80%94%20Vinaio%20(frazione%20di%20Lauco)%2C%20Lauco",
+      "image_url": null,
+      "description": "Nella frazione di Vinaio si trova una Via Crucis le cui stazioni sono interamente scritte in lingua friulana, espressione genuina della devozione popolare carnica. Questa installazione testimonia il profondo legame tra fede e identità linguistica locale e valorizza la tradizione religiosa della comunità montana in friulano carnico.",
+      "comune_name": "Lauco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lauco.md"
+    }
+  ]
+}

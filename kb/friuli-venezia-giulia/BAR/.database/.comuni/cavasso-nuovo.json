@@ -1,0 +1,30 @@
+{
+  "comune_name": "Cavasso Nuovo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavasso-nuovo.md",
+  "extracted_at": "2026-04-09T10:04:15.010Z",
+  "pois": [
+    {
+      "name": "Bar-Pub Vanich Bar — Orgnese",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Vanich Bar è il locale storico della frazione di Orgnese, punto di aggregazione per eccellenza della comunità locale. L'atmosfera è genuina e semplice, con un bancone, qualche tavolo, la televisione sulle partite e una clientela affezionata. Offre dal caffè mattutino alle birre e liquori serali, svolgendo anche la funzione di pub e luogo di socialità. Giochi da tavolo e carte sono parte integrante dell'esperienza conviviale, rispecchiando la tradizione dei bar di paese friulani.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Bar Friends — Orgnese",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Friends si trova nella frazione di Orgnese e rappresenta un altro importante luogo di incontro per la comunità. Il locale è pensato per favorire la socialità: ottimo per un caffè, un aperitivo, o semplicemente per stare insieme e chiacchierare. Come molti bar della zona, offre caffetteria, bevande alcoliche e analcoliche e snack, con un clima accogliente che lo rende un punto di riferimento per abitanti e amici del paese.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavasso-nuovo.md"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "comune_name": "Manzano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/manzano.md",
+  "extracted_at": "2026-04-09T10:50:23.251Z",
+  "pois": [
+    {
+      "name": "Abbazia di Rosazzo e Fondazione Abbazia di Rosazzo",
+      "address": "Piazza Abbazia, 5 – 33044 Rosazzo (Manzano, UD)",
+      "website_url": "http://www.abbaziadirosazzo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Abbazia%20di%20Rosazzo%20e%20Fondazione%20Abbazia%20di%20Rosazzo%2C%20Piazza%20Abbazia%2C%205%20%E2%80%93%2033044%20Rosazzo%20(Manzano%2C%20UD)",
+      "image_url": null,
+      "description": "L'Abbazia di Rosazzo è il più importante complesso storico e artistico di Manzano, situata su un colle tra vigneti nella frazione di Rosazzo. Fondata in epoca medievale, ospita la chiesa abbaziale di San Pietro Apostolo con affreschi di Francesco India, un chiostro rinascimentale, giardini pensili e spazi monumentali. La Fondazione Abbazia di Rosazzo ne cura la gestione, organizzando eventi culturali, mostre e seminari, e il complesso è visitabile su appuntamento o durante manifestazioni pubbliche.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/manzano.md"
+    },
+    {
+      "name": "Casa natale di Caterina Percoto e Percorso Letterario",
+      "address": null,
+      "website_url": "https://www.comune.manzano.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20natale%20di%20Caterina%20Percoto%20e%20Percorso%20Letterario%2C%20Manzano",
+      "image_url": null,
+      "description": "La casa natale di Caterina Percoto, importante scrittrice dell'Ottocento, si trova nella frazione di San Lorenzo di Soleschiano. L'edificio non è aperto al pubblico come museo, ma è inserito in un percorso turistico-letterario che ripercorre i luoghi legati alla vita e all'opera della Percoto, organizzato periodicamente dal Comune. Il percorso include varie tappe tra frazioni e promuove la memoria letteraria attraverso visite guidate e premi culturali.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/manzano.md"
+    },
+    {
+      "name": "Il Distretto della Sedia e la Memoria Industriale di Manzano",
+      "address": null,
+      "website_url": "http://www.distrettodellasedia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Distretto%20della%20Sedia%20e%20la%20Memoria%20Industriale%20di%20Manzano%2C%20Manzano",
+      "image_url": null,
+      "description": "Manzano è uno dei centri storici del Distretto della Sedia, noto per la produzione di sedie e mobili che ha caratterizzato l'identità economica del Friuli orientale. Pur non disponendo di un museo permanente, il territorio celebra la memoria industriale attraverso eventi tematici, iniziative delle aziende storiche e attività del Distretto della Sedia, che documenta e valorizza il patrimonio produttivo locale.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/manzano.md"
+    },
+    {
+      "name": "Sdricca di Manzano – Memoriale degli Arditi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sdricca%20di%20Manzano%20%E2%80%93%20Memoriale%20degli%20Arditi%2C%20Manzano",
+      "image_url": null,
+      "description": "Sdricca di Manzano è un importante luogo della memoria storica, legato alla nascita del Corpo degli Arditi durante la Prima Guerra Mondiale. La località ospita annualmente rievocazioni storiche, conferenze e iniziative didattiche che commemorano l'evento del 1917, coinvolgendo la comunità locale e appassionati di storia bellica.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/manzano.md"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "comune_name": "Brugnera",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/brugnera.md",
+  "extracted_at": "2026-04-09T10:43:06.928Z",
+  "pois": [
+    {
+      "name": "Villa Varda — Parco e Complesso Architettonico",
+      "address": "Via Villa Varda, 7 — San Cassiano di Livenza (PN)",
+      "website_url": "http://www.comune.brugnera.pn.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Varda%20%E2%80%94%20Parco%20e%20Complesso%20Architettonico%2C%20Via%20Villa%20Varda%2C%207%20%E2%80%94%20San%20Cassiano%20di%20Livenza%20(PN)",
+      "image_url": null,
+      "description": "Villa Varda è una villa veneta risalente al XV secolo, circondata da un parco di circa 18 ettari lungo il fiume Livenza. Il complesso ospita elementi architettonici di pregio come un'aranciera, una cappella gentilizia, una ghiacciaia e un mausoleo e contiene alberi secolari di grande valore botanico. Attualmente di proprietà comunale, il parco è aperto liberamente al pubblico e rappresenta un museo naturalistico all'aperto e il principale sito culturale del territorio. La villa viene talvolta utilizzata per eventi culturali ed è stata location del film 'L'amore necessario' di Fabio Carpi.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/brugnera.md"
+    }
+  ]
+}

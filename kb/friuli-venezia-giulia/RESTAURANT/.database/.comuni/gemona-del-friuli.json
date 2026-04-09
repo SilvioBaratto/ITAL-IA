@@ -1,0 +1,118 @@
+{
+  "comune_name": "Gemona del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md",
+  "extracted_at": "2026-04-09T11:03:50.568Z",
+  "pois": [
+    {
+      "name": "Osteria Intant Bondì",
+      "address": "Via Taboga, 275 - 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.intantbondi.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Intant%20Bond%C3%AC%2C%20Via%20Taboga%2C%20275%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria Intant Bondì, fondata nel 2014, è celebre per la sua ampia offerta di frico nelle sue varianti e per le eccellenti carni grigliate su pietra lavica. L'ambiente è caldo e tradizionale, con elementi rustici come travi a vista e camino, che creano un'atmosfera tipicamente friulana. Il menù comprende anche paste fresche e piatti tradizionali, il tutto a prezzi moderati. È una scelta ideale per chi cerca autenticità e qualità della cucina locale.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Ristorante Pizzeria La Perla",
+      "address": "Via Campagnola, 3 - 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.laperlagemona.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20La%20Perla%2C%20Via%20Campagnola%2C%203%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "La Perla è un ristorante pizzeria luminoso e spazioso, noto per la pizza cotta in forno a legna e una ricca selezione di piatti di pesce. L'ambiente è accogliente e funzionale, adatto anche a gruppi, con sala ampia e parcheggio gratuito. È apprezzato per la varietà e qualità della proposta culinaria e per il servizio cordiale, rappresentando un valido punto di riferimento per la cucina locale varia.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Ristorante Hotel Willy",
+      "address": "Via Bariglaria, 164 - 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.hotelwilly.com/ristorante-willy-a-gemona/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Hotel%20Willy%2C%20Via%20Bariglaria%2C%20164%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Il ristorante di Hotel Willy propone piatti tradizionali friulani, ponendo grande attenzione alla stagionalità e ai prodotti locali. Con molte sale interne e una grande Garden Room, è ideale anche per eventi e celebrazioni. Il negozio interno offre prodotti enogastronomici regionali da acquistare. È una meta apprezzata per cene in famiglia e per esperienze immersive nella cucina friulana.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Trattoria di Pesce Al Gallo",
+      "address": "Via Taboga, 38 - 33013 Gemona del Friuli (UD)",
+      "website_url": "http://trattoriaalgallo.altervista.org",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20di%20Pesce%20Al%20Gallo%2C%20Via%20Taboga%2C%2038%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Al Gallo è specializzata in cucina di pesce, offrendo materie prime freschissime e preparazioni curate. Il menù varia in base alla disponibilità del giorno, includendo branzino, carpacci, scampi e altre specialità di mare. L’atmosfera è informale e accogliente, rendendo il locale una tappa obbligata per gli amanti del pesce anche in una zona lontana dal mare.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Osteria Rive Grande",
+      "address": "Rive Grande, 45 - 33013 Gemona del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Rive%20Grande%2C%20Rive%20Grande%2C%2045%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Fondata da Daniele Turchetti nel 2012, Osteria Rive Grande coniuga cucina innovativa e tradizione friulana, con piatti come frico, polenta e carbonara friulana. Il locale è piccolo, informale e accogliente, ideale per un pasto autentico in ambiente intimo. Il servizio è molto apprezzato, soprattutto dalle famiglie, e i prezzi sono accessibili.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Osteria & Affittacamere 38' Parallelo",
+      "address": "Via Tagliamento, 42 - 33013 Gemona del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20%26%20Affittacamere%2038'%20Parallelo%2C%20Via%20Tagliamento%2C%2042%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Osteria 38' Parallelo è un classico locale gemonese che dal 2012 unisce la buona cucina all’ospitalità, offrendo anche servizio affittacamere. Apprezzato per la qualità dei suoi piatti tradizionali e per l’accoglienza, dispone di parcheggio interno e accessibilità. È la scelta ideale per chi cerca genuinità e atmosfera familiare.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Caffè Al Duomo",
+      "address": "Via Giuseppe Bini, 44 - 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.caffealduomogemona.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Al%20Duomo%2C%20Via%20Giuseppe%20Bini%2C%2044%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Situato nel centro storico, il Caffè Al Duomo unisce caffetteria, pasticceria e ristorazione, permettendo di assaporare piatti della tradizione friulana in un contesto suggestivo. Il locale è ideale per colazioni, brunch e pasti leggeri, con vista sulla Cattedrale. L'atmosfera e la posizione lo rendono perfetto per un’esperienza gastronomica e culturale completa.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Al Fungo",
+      "address": "Via Taboga, 20 - 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.alfungo.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Al%20Fungo%2C%20Via%20Taboga%2C%2020%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Storica pizzeria-ristorante fondata nel 1974 dalla famiglia Castellarin, Al Fungo propone pizze cotte in forno tradizionale e piatti di carne grigliata su pietra lavica. Il menù segue la stagionalità per valorizzare i prodotti migliori. È apprezzato per l’affidabilità e l'esperienza di lunga data nella cucina locale.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Ristorante & Wine Bar Lì da Mame",
+      "address": "Via Bersaglio, 95 - 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.ristorantelidamame.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20%26%20Wine%20Bar%20L%C3%AC%20da%20Mame%2C%20Via%20Bersaglio%2C%2095%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Lì da Mame, aperto nel 2021, propone una cucina italiana contemporanea ispirata alla tradizione friulana, offrendo anche un'eccellente selezione di vini locali e internazionali. Il locale è accogliente, con spazi diversificati e un’atmosfera moderna. È la meta perfetta per chi desidera una cucina raffinata ma radicata nel territorio.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Trattoria La De Mame",
+      "address": "Via Bersaglio, 95 (o Via Taboga, 38, informazioni contrastanti) - 33013 Gemona del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20De%20Mame%2C%20Via%20Bersaglio%2C%2095%20(o%20Via%20Taboga%2C%2038%2C%20informazioni%20contrastanti)%20-%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Trattoria La De Mame è una trattoria storica rinomata per la proposta di cucina friulana autentica e tradizionale. Il locale è particolarmente consigliato a chi desidera gustare piatti locali genuini in un contesto semplice e familiare.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gemona-del-friuli.md"
+    }
+  ]
+}

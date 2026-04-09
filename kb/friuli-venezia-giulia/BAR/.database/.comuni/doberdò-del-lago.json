@@ -1,0 +1,52 @@
+{
+  "comune_name": "Doberdò del Lago",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/doberdò-del-lago.md",
+  "extracted_at": "2026-04-09T10:12:07.599Z",
+  "pois": [
+    {
+      "name": "Bar Peric",
+      "address": "Via Roma / Rimska ulica, 20 — Doberdò del Lago",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Peric%2C%20Via%20Roma%20%2F%20Rimska%20ulica%2C%2020%20%E2%80%94%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "Bar Peric è il principale punto di ritrovo del capoluogo, situato centralmente in Via Roma. Il locale rappresenta il cuore della quotidianità di Doberdò del Lago, con un ambiente semplice e familiare dove si intrecciano conversazioni in italiano e sloveno. È il luogo ideale per un caffè mattutino o un bicchiere di vino bianco locale, punto di aggregazione per notizie, sport e socialità. Non offre menu elaborati, ma la sua forza sta nel ruolo di presidio sociale insostituibile per la comunità.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Bar Gradina",
+      "address": "Via Vallone / Pot v Dol — Doberdò del Lago",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Gradina%2C%20Via%20Vallone%20%2F%20Pot%20v%20Dol%20%E2%80%94%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "Il Bar Gradina si trova lungo la strada verso il fondovalle ed è gestito dalla Società Cooperativa Rogos, richiamando la tradizione cooperativa locale. Il locale funge sia da bar che da punto ristoro e sede di eventi, rispecchiando il carattere multifunzionale delle strutture del Carso. È particolarmente frequentato per il caffè e l'aperitivo dagli abitanti della parte bassa del paese e rappresenta un centro per la vita comunitaria.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Circolo Ricreativo e Bar — Palchisce",
+      "address": "Palchisce / Palkišče — Doberdò del Lago",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Circolo%20Ricreativo%20e%20Bar%20%E2%80%94%20Palchisce%2C%20Palchisce%20%2F%20Palki%C5%A1%C4%8De%20%E2%80%94%20Doberd%C3%B2%20del%20Lago",
+      "image_url": null,
+      "description": "Situato nella frazione di Palchisce, questo circolo ricreativo con bar annesso è il fulcro della socialità locale. Da sempre parte della tradizione dei circoli carsici, il locale è attivo soprattutto nei fine settimana e durante eventi o feste del paese. Qui l'aperitivo si fonde con l’attività associativa e sportiva, mantenendo un ruolo di aggregazione e vitalità per la frazione.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/doberdò-del-lago.md"
+    },
+    {
+      "name": "Trifa Bar",
+      "address": "Via Igo Gruden / Grudnova ulica — Jamiano / Jamlje (Doberdò del Lago)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trifa%20Bar%2C%20Via%20Igo%20Gruden%20%2F%20Grudnova%20ulica%20%E2%80%94%20Jamiano%20%2F%20Jamlje%20(Doberd%C3%B2%20del%20Lago)",
+      "image_url": null,
+      "description": "Il Trifa Bar è il punto di riferimento per la frazione di Jamiano, caratterizzata dalla forte identità slovena. Frequentato da agricoltori, cacciatori e anziani locali, il bar mantiene un’atmosfera di autenticità e relazioni di paese. Gli aperitivi sono spesso a base di vini locali come Vitovska e Malvasia, riflettendo la cultura agricola e familiare della comunità.",
+      "comune_name": "Doberdò del Lago",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/doberdò-del-lago.md"
+    }
+  ]
+}

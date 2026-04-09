@@ -1,0 +1,52 @@
+{
+  "comune_name": "Reana del Rojale",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/reana-del-rojale.md",
+  "extracted_at": "2026-04-09T11:14:38.358Z",
+  "pois": [
+    {
+      "name": "Ristorante Val Rojale",
+      "address": "Via San Martino, 2 – 33010 Reana del Rojale (UD)",
+      "website_url": "http://www.ristorantevalrojale.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Val%20Rojale%2C%20Via%20San%20Martino%2C%202%20%E2%80%93%2033010%20Reana%20del%20Rojale%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Val Rojale è il locale storico più rinomato di Reana del Rojale, attivo dal 1978 e ancora oggi a gestione familiare. Offre un ambiente accogliente in stile trattoria e si distingue per la cucina friulana tradizionale, con specialità di carne alla brace cotta sul tipico fogolar friulano. Il menù include anche antipasti di salumi e formaggi locali, primi piatti tipici e dolci fatti in casa, accompagnati da una curata selezione di vini friulani e italiani.",
+      "comune_name": "Reana del Rojale",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/reana-del-rojale.md"
+    },
+    {
+      "name": "Al Scus",
+      "address": "Via Cattarossi Monsignor, 3 – 33010 Reana del Rojale (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Scus%2C%20Via%20Cattarossi%20Monsignor%2C%203%20%E2%80%93%2033010%20Reana%20del%20Rojale%20(UD)",
+      "image_url": null,
+      "description": "Al Scus è una trattoria tipica friulana situata nel centro storico di Reana del Rojale, nota per l'atmosfera semplice e familiare. Frequentata soprattutto dalla gente del posto, propone piatti genuini legati alla tradizione, come zuppe, carni cucinate con cura e specialità stagionali. È ideale per chi desidera un'esperienza autentica e conviviale, lontana dai percorsi turistici.",
+      "comune_name": "Reana del Rojale",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/reana-del-rojale.md"
+    },
+    {
+      "name": "Mexico Magico",
+      "address": "Via Leonardo da Vinci, 1 – 33010 Reana del Rojale (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mexico%20Magico%2C%20Via%20Leonardo%20da%20Vinci%2C%201%20%E2%80%93%2033010%20Reana%20del%20Rojale%20(UD)",
+      "image_url": null,
+      "description": "Mexico Magico è il ristorante di cucina messicana del comune, offrendo un’alternativa etnica alla tradizione locale con piatti speziati e sapori esotici. Pur con visibilità limitata online, il locale è apprezzato per l’autenticità della cucina e per la qualità delle pietanze. È una scelta consigliata per chi cerca varietà gastronomica in zona e accetta prenotazioni.",
+      "comune_name": "Reana del Rojale",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/reana-del-rojale.md"
+    },
+    {
+      "name": "Agriturismo Dai Minisins",
+      "address": "Via San Martino, 37 – Zompitta, 33010 Reana del Rojale (UD) (frazione di Zompitta)",
+      "website_url": "http://www.minisins.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Dai%20Minisins%2C%20Via%20San%20Martino%2C%2037%20%E2%80%93%20Zompitta%2C%2033010%20Reana%20del%20Rojale%20(UD)%20(frazione%20di%20Zompitta)",
+      "image_url": null,
+      "description": "L'Agriturismo Dai Minisins, immerso tra le colline e i vigneti della frazione Zompitta, è una realtà agricola a conduzione familiare che affianca la ristorazione agrituristica alla fattoria didattica. Il menù segue la stagionalità e valorizza i prodotti aziendali, tra cui erbe spontanee, polenta di mais antico, salumi e formaggi propri, e specialità come il frico e la brovada. Offre anche camere e servizi per cicloturisti, proponendo una genuina esperienza rurale friulana.",
+      "comune_name": "Reana del Rojale",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/reana-del-rojale.md"
+    }
+  ]
+}

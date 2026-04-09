@@ -1,0 +1,85 @@
+{
+  "comune_name": "Mortegliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md",
+  "extracted_at": "2026-04-09T11:08:21.414Z",
+  "pois": [
+    {
+      "name": "Trattoria Albergo Da Nando",
+      "address": "Via Divisione Julia 14",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Albergo%20Da%20Nando%2C%20Via%20Divisione%20Julia%2014",
+      "image_url": null,
+      "description": "Trattoria Albergo Da Nando è un punto di riferimento della ristorazione a Mortegliano, premiata anche dalla guida Michelin. Offre un'esperienza di fine dining con piatti che fondono tradizione italiana e innovazioni contemporanee, utilizzando ingredienti freschi di alta qualità. La cantina è tra le più rinomate in Italia, con circa 120.000 bottiglie, e il ristorante serve specialità come spaghetti alla carbonara, tagliatelle al ragù di cinghiale e bistecca alla fiorentina. L'ambiente è raffinato e la fascia di prezzo medio-alta, mentre l'albergo offre anche camere rustiche e servizi di catering.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    },
+    {
+      "name": "AB Osteria Contemporanea",
+      "address": "Via Aquileia 5 a Lavariano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AB%20Osteria%20Contemporanea%2C%20Via%20Aquileia%205%20a%20Lavariano",
+      "image_url": null,
+      "description": "AB Osteria Contemporanea, guidata dalla chef Anna Barbina e riconosciuta dalla Michelin, propone una cucina friulana contemporanea con spiccate influenze vegetali e tecniche innovative. Il locale si distingue per menu degustazione articolati, presentazioni curate e una selezione di vini naturali provenienti anche da Austria e Slovenia. L'atmosfera è casual e accogliente, in linea con la filosofia di cucina sperimentale ma equilibrata. I prezzi sono medio-alti e il locale è apprezzato per l'accoglienza familiare e la creatività dei piatti.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Trattoria Locanda Ai Tre Amici",
+      "address": "Via Cavour 23 a Mortegliano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Locanda%20Ai%20Tre%20Amici%2C%20Via%20Cavour%2023%20a%20Mortegliano",
+      "image_url": null,
+      "description": "Trattoria Locanda Ai Tre Amici è una storica struttura con quasi settant'anni di attività, premiata come Locale Storico dalla Regione Friuli Venezia Giulia. Offre ospitalità in 28 camere e propone una cucina tradizionale friulana con menu à la carte, puntando su ingredienti freschi e ricette del territorio rivisitate con lievi innovazioni. L'atmosfera familiare e la fascia di prezzo media rendono questo posto adatto sia a chi cerca la qualità culinaria sia a chi vuole godere dell'ospitalità locale.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Agriturismo Al Buttasella",
+      "address": "Via Chiasottis 8 a Lavariano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Buttasella%2C%20Via%20Chiasottis%208%20a%20Lavariano",
+      "image_url": null,
+      "description": "Agriturismo Al Buttasella offre un'autentica esperienza rurale nella pianura friulana, con ristorante guidato dall'agrichef Paolo che valorizza ingredienti aziendali e ortaggi coltivati sul posto. Il locale, immerso nel verde, dispone anche di piscina, fattoria didattica e possibilità di passeggiate a cavallo. Il menu si concentra sulla cucina friulana tipica in un contesto rustico, ideale per chi desidera riscoprire i sapori tradizionali in un ambiente genuino. La fascia di prezzo è media.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    },
+    {
+      "name": "Agriturismo Cason",
+      "address": "Via Divisione Julia, numeri civici 71 o 29, a Mortegliano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Cason%2C%20Via%20Divisione%20Julia%2C%20numeri%20civici%2071%20o%2029%2C%20a%20Mortegliano",
+      "image_url": null,
+      "description": "Agriturismo Cason combina ristorazione locale con la vendita diretta di prodotti agricoli propri. Offre una cucina tradizionale friulana, con specialità come tagliatelle, antipasto friulano e polenta, puntando su ingredienti genuini e una proposta varia per grandi e piccoli gruppi. Oltre al servizio in sala e all'asporto, l'agriturismo permette di acquistare prodotti tipici regionali. L'atmosfera è autentica e il locale è apprezzato per l'accoglienza e la qualità, con prezzi nella fascia media.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    },
+    {
+      "name": "La Mia Pizza (Basi Pizza Artigianali)",
+      "address": "Via Udine 67 a Mortegliano",
+      "website_url": "http://www.lamiapizzamortegliano.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Mia%20Pizza%20(Basi%20Pizza%20Artigianali)%2C%20Via%20Udine%2067%20a%20Mortegliano",
+      "image_url": null,
+      "description": "La Mia Pizza è una pizzeria specializzata in basi artigianali realizzate con farine macinate a pietra, lunga fermentazione e lievito madre vivo. Il locale offre pizze classiche, in teglia, al piatto, focacce in stile romano e basi da asporto confezionate sottovuoto, senza conservanti. Pur orientata al take away, dispone di tavoli esterni e possibilità di cena su prenotazione. L'attenzione alla qualità degli ingredienti distingue questa realtà a conduzione artigianale con una fascia di prezzo economica e ambiente informale.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    },
+    {
+      "name": "La Blave Food",
+      "address": "Via Udine 22 a Mortegliano",
+      "website_url": "http://www.lablavefood.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Blave%20Food%2C%20Via%20Udine%2022%20a%20Mortegliano",
+      "image_url": null,
+      "description": "La Blave Food è una pizzeria-ristorante che unisce un ambiente familiare e informale a un'ampia proposta di pizze e piatti tradizionali. Specializzata in impasti integrali con farine regionali e lunga lievitazione, offre anche menu a prezzo fisso a pranzo e una cucina casalinga accessibile a tutti. Il locale ha uno spazioso giardino interno e posti a sedere sia all'aperto che all'interno, risultando adatto a famiglie e gruppi. I prezzi sono contenuti e l'atmosfera rilassata.",
+      "comune_name": "Mortegliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mortegliano.md"
+    }
+  ]
+}

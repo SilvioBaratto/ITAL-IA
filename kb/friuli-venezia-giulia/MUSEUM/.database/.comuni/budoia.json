@@ -1,0 +1,30 @@
+{
+  "comune_name": "Budoia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/budoia.md",
+  "extracted_at": "2026-04-09T10:43:14.813Z",
+  "pois": [
+    {
+      "name": "Museo del Fungo di Budoia",
+      "address": "Piazza Umberto I, 5 — 33070 Budoia (PN)",
+      "website_url": "http://www.prolocobudoia.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Fungo%20di%20Budoia%2C%20Piazza%20Umberto%20I%2C%205%20%E2%80%94%2033070%20Budoia%20(PN)",
+      "image_url": null,
+      "description": "Il Museo del Fungo di Budoia è una delle realtà museali più importanti d'Italia dedicate alla micologia, noto per l'eccellenza nell'ordine e qualità dell'allestimento. La collezione vanta oltre 270 esemplari fungini riprodotti artigianalmente e disposti in teche secondo criteri tassonomici e pratici, rendendo il percorso educativo accessibile anche ai non esperti. Il museo offre un'esperienza didattica rivolta a visitatori e scuole, e diventa il fulcro della Festa dei Funghi e dell'Ambiente, il principale evento culturale annuale del comune. L'ingresso è a offerta libera e l'apertura è concentrata a settembre o su appuntamento.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/budoia.md"
+    },
+    {
+      "name": "Ecomuseo di Budoia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20di%20Budoia%2C%20Budoia",
+      "image_url": null,
+      "description": "L'Ecomuseo di Budoia è un museo diffuso che valorizza l'intero territorio comunale, con epicentro nella frazione di Dardago. Conserva testimonianze della civiltà contadina e della storia locale, tra cui il Rujal, antico acquedotto simbolo della memoria condivisa. Il percorso integra sentieri naturalistici e documenta insediamenti umani preistorici e medievali, offrendo libero accesso agli itinerari all'aperto e un'esperienza culturale legata al paesaggio e alle tradizioni della zona.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/budoia.md"
+    }
+  ]
+}

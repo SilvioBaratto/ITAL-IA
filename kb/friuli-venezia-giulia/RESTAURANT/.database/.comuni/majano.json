@@ -1,0 +1,96 @@
+{
+  "comune_name": "Majano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md",
+  "extracted_at": "2026-04-09T11:05:36.859Z",
+  "pois": [
+    {
+      "name": "Trattoria Da Gardo",
+      "address": "Via Ponte Ledra, 160 (Frazione Tiveriacco)",
+      "website_url": "http://www.dagardo.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Gardo%2C%20Via%20Ponte%20Ledra%2C%20160%20(Frazione%20Tiveriacco)",
+      "image_url": null,
+      "description": "Trattoria Da Gardo, storica istituzione di Majano dal 1921, propone cucina friulana tradizionale in un ambiente ampio e familiare dotato di parco esterno e aree dedicate ai bambini. Celebre per i suoi piatti casalinghi preparati con ingredienti freschi e stagionali, offre menu à la carte o a prezzo fisso e un servizio cortese. L’atmosfera resta genuina e accogliente grazie alla lunga gestione familiare e ai prezzi accessibili. Il locale è chiuso il sabato.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Albergo Ristorante Pizzeria Dal Asìn",
+      "address": "Via Ciro di Pers, 63",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Pizzeria%20Dal%20As%C3%ACn%2C%20Via%20Ciro%20di%20Pers%2C%2063",
+      "image_url": null,
+      "description": "L’Albergo Ristorante Pizzeria Dal Asìn unisce l’ospitalità alberghiera (1 stella) a una proposta culinaria variegata che spazia dai piatti di mare alle pizze cotte nel forno tradizionale. Situato in centro e dotato di ambiente tranquillo, privilegia ingredienti freschi e stagionali con attenzione alla qualità e alla sostenibilità. È apprezzato per la professionalità del personale di cucina, le camere confortevoli e il servizio WiFi gratuito.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Integraldo Healthy Food",
+      "address": "Via Osoppo, 18 (Frazione Tiveriacco)",
+      "website_url": "http://www.integraldo.bio",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Integraldo%20Healthy%20Food%2C%20Via%20Osoppo%2C%2018%20(Frazione%20Tiveriacco)",
+      "image_url": null,
+      "description": "Integraldo Healthy Food offre cucina naturale legata al benessere, valorizzando ingredienti biologici, pizze a lunga lievitazione e pane prodotto internamente con cereali antichi. Il locale comprende ristorante, pizzeria, panificio e negozio bio e si distingue per menu stagionali, dolci anche vegani e attenzione alle esigenze alimentari moderne. L’atmosfera è accogliente e orientata a chi cerca un’alimentazione sana e sostenibile, pur restando radicata nel territorio.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Trattoria Ai Pioppi",
+      "address": "Via Tiveriacco, 2 (Frazione Tiveriacco)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Ai%20Pioppi%2C%20Via%20Tiveriacco%2C%202%20(Frazione%20Tiveriacco)",
+      "image_url": null,
+      "description": "La Trattoria Ai Pioppi è un’osteria dal carattere rustico e famigliare, conosciuta per il suo menu fisso economico e piatti tipici come spaghetti con ragù di lumache e musèt con brovade. L’atmosfera informale e la condivisione dei tavoli riflettono la semplicità della cucina friulana popolare. Il locale offre servizio di asporto e si distingue per la velocità e cortesia del personale.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Pizzeria Doge",
+      "address": "Via San Daniele, 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Doge%2C%20Via%20San%20Daniele%2C%203",
+      "image_url": null,
+      "description": "La Pizzeria Doge è una pizzeria storica a gestione familiare che propone pizze preparate con impasto tradizionale e cottura nel forno a legna. È apprezzata per la qualità degli ingredienti, la varietà delle pizze e il servizio di asporto. Il locale si distingue per l’atmosfera semplice e autentica e prezzi accessibili, incarnando la tradizione gastronomica locale.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Pizza Italia",
+      "address": "Piazza Italia, 15 – Majano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Italia%2C%20Piazza%20Italia%2C%2015%20%E2%80%93%20Majano",
+      "image_url": null,
+      "description": "Pizza Italia è una moderna pizzeria situata in posizione centrale che offre una vasta selezione di pizze cotte al forno a legna, includendo anche specialità contemporanee e kebab. Il locale si rivolge a chi cerca una soluzione rapida e informale per la ristorazione, mantenendo attenzione alla qualità e all’accoglienza dell’ambiente.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Agriturismo All'Antica Scuderia del Castello",
+      "address": "Via del Castello, 150 (Frazione Susans)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20All'Antica%20Scuderia%20del%20Castello%2C%20Via%20del%20Castello%2C%20150%20(Frazione%20Susans)",
+      "image_url": null,
+      "description": "L’Agriturismo All’Antica Scuderia del Castello offre esperienze culinarie genuine immerse nel contesto agricolo friulano. Qui si gustano piatti tipici realizzati con i prodotti dell’azienda: ortaggi, carni e latticini propri. L’ambiente rustico e autentico restituisce la tradizione della cucina contadina regionale in maniera fedele e senza inutili sofisticazioni.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    },
+    {
+      "name": "Trattoria Bar Poldo",
+      "address": "Via Frazione Comerzo, 76 (Frazione Comerzo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Bar%20Poldo%2C%20Via%20Frazione%20Comerzo%2C%2076%20(Frazione%20Comerzo)",
+      "image_url": null,
+      "description": "La Trattoria Bar Poldo è una classica trattoria di paese situata a Comerzo, conosciuta per la cucina semplice a base di piatti stagionali e per l’atmosfera familiare. È particolarmente frequentata a pranzo da lavoratori locali grazie al servizio veloce e sostanzioso, offrendo un ambiente conviviale tipico dei bar-trattoria di provincia.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/majano.md"
+    }
+  ]
+}

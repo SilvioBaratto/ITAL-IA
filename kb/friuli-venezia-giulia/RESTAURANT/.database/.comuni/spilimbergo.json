@@ -1,0 +1,63 @@
+{
+  "comune_name": "Spilimbergo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/spilimbergo.md",
+  "extracted_at": "2026-04-09T11:20:06.753Z",
+  "pois": [
+    {
+      "name": "Osteria Al Bachero",
+      "address": "Centro storico di Spilimbergo, vicolo laterale di Corso Roma, 33097 Spilimbergo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Bachero%2C%20Centro%20storico%20di%20Spilimbergo%2C%20vicolo%20laterale%20di%20Corso%20Roma%2C%2033097%20Spilimbergo%20(PN)",
+      "image_url": null,
+      "description": "Osteria Al Bachero, fondata nel 1897, è una storica osteria friulana nota per mantenere intatta l'atmosfera e la cucina di un tempo. Il locale, con arredi d'epoca e menu immutato dagli anni '70, è famoso per piatti robusti della tradizione come il baccalà alla friulana, la trippa brasata e lo spezzatino di manzo con polenta. Frequentata da residenti e viaggiatori, è una tappa imprescindibile per chi cerca autenticità gastronomica a Spilimbergo.",
+      "comune_name": "Spilimbergo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/spilimbergo.md"
+    },
+    {
+      "name": "Osteria da Afro",
+      "address": "Spilimbergo, centro storico (nelle vicinanze di Corso Roma), 33097 Spilimbergo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Afro%2C%20Spilimbergo%2C%20centro%20storico%20(nelle%20vicinanze%20di%20Corso%20Roma)%2C%2033097%20Spilimbergo%20(PN)",
+      "image_url": null,
+      "description": "Osteria da Afro è un ristorante apprezzato per la cucina friulana di qualità, situato nel cuore storico di Spilimbergo. L'atmosfera è raccolta e autentica, arricchita da un cortile interno ideale per i pasti all'aperto. Il piatto simbolo è la pasta al tartufo bianco locale, ma anche il risotto, i salumi e i secondi di carne sono preparati con ingredienti scelti. È ideale per chi cerca un'esperienza culinaria friulana raffinata in un ambiente rilassato.",
+      "comune_name": "Spilimbergo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/spilimbergo.md"
+    },
+    {
+      "name": "Enoteca La Torre",
+      "address": "Zona castello / area del centro storico, 33097 Spilimbergo (PN) (coordinate: 46.1109° N, 12.9034° E)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20La%20Torre%2C%20Zona%20castello%20%2F%20area%20del%20centro%20storico%2C%2033097%20Spilimbergo%20(PN)%20(coordinate%3A%2046.1109%C2%B0%20N%2C%2012.9034%C2%B0%20E)",
+      "image_url": null,
+      "description": "Enoteca La Torre è un wine bar con cucina situato nella zona del castello, rinomato per l'atmosfera rustica e la ricca selezione di vini friulani. Il locale offre salumi e formaggi tipici come il prosciutto di San Daniele DOP e il Montasio, oltre a piatti del giorno che comprendono paste e carni alla griglia. Perfetto per un aperitivo prolungato o una cena informale, rappresenta un punto di riferimento per i prodotti locali di qualità.",
+      "comune_name": "Spilimbergo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/spilimbergo.md"
+    },
+    {
+      "name": "Ristorante La Torre (nel Castello)",
+      "address": "Castello di Spilimbergo, 33097 Spilimbergo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Torre%20(nel%20Castello)%2C%20Castello%20di%20Spilimbergo%2C%2033097%20Spilimbergo%20(PN)",
+      "image_url": null,
+      "description": "Situato all'interno del castello medievale di Spilimbergo, il Ristorante La Torre offre un ambiente raffinato e accogliente in una cornice storica unica. La cucina è di stampo friulano tradizionale, con particolare attenzione alla qualità delle materie prime e una selezione curata di vini locali. Ideale per cene speciali, unisce un contesto suggestivo a un ottimo rapporto qualità-prezzo.",
+      "comune_name": "Spilimbergo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/spilimbergo.md"
+    },
+    {
+      "name": "La Perla (Bar Pizzeria)",
+      "address": "A circa 600 m dalla Porta principale, raggiungibile a piedi dal centro, 33097 Spilimbergo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Perla%20(Bar%20Pizzeria)%2C%20A%20circa%20600%20m%20dalla%20Porta%20principale%2C%20raggiungibile%20a%20piedi%20dal%20centro%2C%2033097%20Spilimbergo%20(PN)",
+      "image_url": null,
+      "description": "La Perla è una pizzeria di quartiere semplice ed economica, situata poco fuori dal centro storico di Spilimbergo. Il locale è apprezzato per la cordialità del personale, l'atmosfera informale e la qualità delle pizze preparate con rapidità. Una scelta pratica e affidabile per chi desidera una cena senza fronzoli e a prezzi contenuti.",
+      "comune_name": "Spilimbergo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/spilimbergo.md"
+    }
+  ]
+}

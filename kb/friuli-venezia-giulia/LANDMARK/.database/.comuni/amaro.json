@@ -1,0 +1,118 @@
+{
+  "comune_name": "Amaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md",
+  "extracted_at": "2026-04-09T10:31:42.471Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Nicolò Vescovo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Nicol%C3%B2%20Vescovo%2C%20Amaro",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Nicolò Vescovo è l'edificio religioso principale di Amaro, eretta nel XIX secolo sul sito della vecchia parrocchia medievale. Progettata da Girolamo D'Aronco, presenta uno stile eclettico con influenze neoromaniche e neogotiche. Il campanile domina il profilo del paese, e l'interno custodisce decorazioni e arredi di pregio. Simbolo della devozione locale, è riferimento visivo e storico per la comunità.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Chiesa di San Valentino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Valentino%2C%20Amaro",
+      "image_url": null,
+      "description": "La Chiesa di San Valentino, risalente al XVII secolo, è tra gli edifici sacri più antichi di Amaro e offre un esempio di barocco rurale carnico. All'interno si trova un altare settecentesco di qualità artigianale e una pala d'altare di fine Cinquecento con le raffigurazioni di San Valentino, San Biagio e la Madonna con Bambino. Il doppio culto e l'iconografia testimoniano la ricca stratificazione della devozione popolare friulana.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Chiesetta della Maina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20della%20Maina%2C%20Amaro",
+      "image_url": null,
+      "description": "La Chiesetta della Maina è un piccolo oratorio campestre risalente presumibilmente tra XVII e XVIII secolo, inserito nella tradizione degli edifici votivi diffusi nella Carnia. Rappresenta un tipico esempio di architettura religiosa vernacolare e mantiene vivo il legame con la spiritualità popolare della montagna friulana. Ideale per chi cerca un luogo raccolto e ricco di storia locale.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Fontane Grande (1697)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fontane%20Grande%20(1697)%2C%20Amaro",
+      "image_url": null,
+      "description": "La Fontane Grande, datata 1697, è una fontana monumentale in pietra monolitica situata nel nucleo storico di Amaro. Costituisce una testimonianza diretta della vita pubblica secentesca del paese, punto di raccolta delle acque, luogo di incontro sociale e abbeveratoio. La sua semplicità formale e il valore identitario ne fanno il monumento civile più antico di Amaro.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Via Oscura e gli Edifici Storici del Nucleo Antico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Via%20Oscura%20e%20gli%20Edifici%20Storici%20del%20Nucleo%20Antico%2C%20Amaro",
+      "image_url": null,
+      "description": "Via Oscura attraversa il centro storico di Amaro, fiancheggiata da edifici in pietra e legno che raccontano l'architettura domestica carnica tra XVI e XIX secolo. Logge lignee, portali scolpiti e ballatoi caratterizzano queste abitazioni, resistenti ai terremoti grazie a interventi storici. Passeggiare qui permette di immergersi nella storia locale e nella tradizione edilizia alpina.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Monumento ai Caduti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%2C%20Amaro",
+      "image_url": null,
+      "description": "Il Monumento ai Caduti si trova nell'area centrale pubblica di Amaro ed è dedicato ai cittadini persi nelle guerre mondiali. Collocato in posizione visibile, segue la tradizione dei memoriali friulani con lastra o stele in pietra riportante i nomi dei caduti. Oltre al valore commemorativo, è luogo di memoria collettiva che racconta il peso delle guerre sulla Carnia rurale.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Ritrovamenti Archeologici di Epoca Romana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ritrovamenti%20Archeologici%20di%20Epoca%20Romana%2C%20Amaro",
+      "image_url": null,
+      "description": "Nel territorio di Amaro sono stati rinvenuti oggetti romani, tra cui monete, pietre sepolcrali e reperti in bronzo, ferro e terracotta, risalenti al I–II secolo d.C. Questi ritrovamenti testimoniano la continuità insediativa e il ruolo strategico del paese nel traffico commerciale e militare romano. Pur non essendo esposti in loco, il sito è punto di interesse per comprendere la profondità storica della Carnia.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Statua della Madonna sull'Amariana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Statua%20della%20Madonna%20sull'Amariana%2C%20Amaro",
+      "image_url": null,
+      "description": "Sulla cima del Monte Amariana si trova una statua della Madonna realizzata nel 1958 dallo scultore Max Piccini, luogo di pellegrinaggio religioso e laico. Meta di fedeli e alpinisti, offre eventi mariani e un panorama straordinario sulle Alpi Carniche e la pianura friulana. Il sito incarna la tradizione devozionale montana e l'identità storica del paese.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Cascata del Torrente Favarinis e le Pareti con Megadonti Fossili",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cascata%20del%20Torrente%20Favarinis%20e%20le%20Pareti%20con%20Megadonti%20Fossili%2C%20Amaro",
+      "image_url": null,
+      "description": "La cascata del torrente Favarinis, situata nella frazione di Campiolo, scorre in una forra ricca di pareti calcaree con fossili di megadonti visibili. Il sito unisce bellezza naturalistica e interesse paleontologico, testimonianza dei mari tropicali che un tempo ricoprivano le Alpi Carniche. Immerso in un folto bosco, è facilmente visitabile e affascina anche i non specialisti.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    },
+    {
+      "name": "Mulino Rainis e Laghetto di Cison",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mulino%20Rainis%20e%20Laghetto%20di%20Cison%2C%20Amaro",
+      "image_url": null,
+      "description": "Il Mulino Rainis è tra gli ultimi mulini ad acqua superstiti della Carnia, simbolo dell'economia rurale montana nei secoli passati. Il vicino Laghetto di Cison ospita fauna acquatica ed è attrezzato per la pesca sportiva, luogo ideale per passeggiate familiari. Entrambi rappresentano la connessione tra tradizione, natura e storia in un contesto di quiete alpina.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/amaro.md"
+    }
+  ]
+}

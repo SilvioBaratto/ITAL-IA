@@ -1,0 +1,85 @@
+{
+  "comune_name": "Casarsa della Delizia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md",
+  "extracted_at": "2026-04-09T10:03:56.859Z",
+  "pois": [
+    {
+      "name": "Bar agli Amici",
+      "address": "Piazza Italia, 18 — 33072 Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar agli Amici si affaccia sulla piazza principale di Casarsa e rappresenta il classico bar di paese, punto di incontro per tutte le generazioni. Apprezzato per la sua familiarità e per il servizio costante a pensionati, lavoratori e ragazzi, offre colazioni semplici e aperitivi a base di vini locali e cicchetti. Gestito dalla famiglia Colussi, è un punto fermo della vita quotidiana cittadina senza pretese di originalità.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Caffè Stazione",
+      "address": "Piazza IV Novembre, 9 — 33072 Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Caffè Stazione è il ritrovo per pendolari e viaggiatori, situato di fronte alla stazione ferroviaria di Casarsa. Aperto dalle prime ore dell’alba fino a tarda sera, dispone anche di tavoli all'aperto e offre non solo caffetteria ma anche cucina, brunch e buffet, distinguendosi per la sua praticità e atmosfera accogliente tipica dei bar di transito.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "J. & B.",
+      "address": "Via XXIV Maggio, 1/C — 33072 Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il bar J. & B. si trova nel centro di Casarsa, vicino alla principale area commerciale. Frequentato in particolare da una clientela giovane, offre i servizi classici di un bar di quartiere friulano come colazione, pausa caffè e aperitivi nel pomeriggio. Pur senza dettagli su particolari specialità, il locale è un punto di riferimento per chi vive o lavora nel centro cittadino.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Pashà Snack Bar",
+      "address": "Via Guidalberto Pasolini, 32 — 33072 Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Pashà Snack Bar è noto per la sua apertura 24 ore su 24, una rarità per Casarsa. Situato in una via dedicata alla famiglia Pasolini, offre servizio bar e snack in qualsiasi momento della giornata e della notte. È la scelta ideale per chi cerca un locale sempre accessibile per una pausa, uno spuntino veloce o un caffè fuori orario.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Bar Acli — Frazione Versutta",
+      "address": "Via Versutta, 3 — 33072 Casarsa della Delizia (PN) *(Frazione Versutta)*",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Acli è il centro della vita sociale di Versutta, frazione di Casarsa. Legato storicamente ai circoli cattolici della comunità, offre un ambiente tradizionale dove i residenti si incontrano per prendere un caffè, giocare a carte o discutere di temi locali. È un luogo autentico e fondamentale per gli abitanti della zona, con una clientela principalmente del posto.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Pasticceria da Luciano",
+      "address": "Via XXIV Maggio, 19 — 33072 Casarsa della Delizia (PN)",
+      "website_url": "https://www.facebook.com/PasticceriadaLuciano",
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Pasticceria da Luciano, situata nel cuore del paese, è caffetteria e laboratorio artigianale molto apprezzato a Casarsa. Famosa per le specialità dolciarie locali, come gubana, putizza e brioche, è particolarmente frequentata la domenica mattina dopo la messa. Un vero punto di riferimento per la colazione e la pausa dolce nella tradizione friulana.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Pasticceria Sambucco",
+      "address": "Viale Venezia, 64 — 33072 Casarsa della Delizia (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Pasticceria Sambucco si trova lungo l'asse principale che collega il centro, offrendo sin dalle prime ore della mattina pane fresco, cornetti e dolci artigianali. La clientela affezionata la sceglie per la colazione e per i dolci domenicali, grazie all’ambiente familiare e al servizio attento alle esigenze degli abituali del quartiere.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/casarsa-della-delizia.md"
+    }
+  ]
+}

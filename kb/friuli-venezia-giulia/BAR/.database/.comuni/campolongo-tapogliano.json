@@ -1,0 +1,30 @@
+{
+  "comune_name": "Campolongo Tapogliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campolongo-tapogliano.md",
+  "extracted_at": "2026-04-09T10:03:28.318Z",
+  "pois": [
+    {
+      "name": "Tal Cafe",
+      "address": "Piazza Indipendenza, 10 — Campolongo al Torre (Campolongo Tapogliano, UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Tal Cafe rappresenta il principale punto di aggregazione del paese, situato nel cuore di Campolongo al Torre. Gestito dalla famiglia, offre un ambiente informale e autentico, con colazioni semplici e spritz tipici della tradizione locale. È il luogo dove la comunità si ritrova quotidianamente per un caffè, una brioche o una chiacchierata tra vicini.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Bar Trattoria alla Stella",
+      "address": "Via Cadorna, 11 — Campolongo al Torre (Campolongo Tapogliano, UD)",
+      "website_url": "https://www.facebook.com/Bartrattoriaallastella",
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Trattoria alla Stella è un locale che unisce bar, osteria e ristorante, con accessibilità per persone con disabilità. Offre cucina italiana e mediterranea, con particolare attenzione al pesce nei weekend e un menù fisso a pranzo per i lavoratori della zona. La componente bar permette di passare per un aperitivo o un caffè, ed è molto apprezzata dalla comunità locale.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campolongo-tapogliano.md"
+    }
+  ]
+}

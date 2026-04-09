@@ -1,0 +1,85 @@
+{
+  "comune_name": "Gemona del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md",
+  "extracted_at": "2026-04-09T10:48:55.360Z",
+  "pois": [
+    {
+      "name": "Museo Civico di Palazzo Elti",
+      "address": "Via Bini, 9 – 33013 Gemona del Friuli (UD)",
+      "website_url": "http://www.gemonaweb.it/?page=clt.museo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Civico%20di%20Palazzo%20Elti%2C%20Via%20Bini%2C%209%20%E2%80%93%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Il Museo Civico di Gemona ha sede nello storico Palazzo Elti, edificio nobiliare del XIV-XV secolo restaurato dopo il terremoto del 1976. Presenta un ricco percorso di opere d'arte dal Quattrocento al Novecento, con capolavori di Cima da Conegliano, Pomponio Amalteo e artisti locali come Gaspare Negro e Raimondo D'Aronco. Il museo ospita anche l'Archivio storico e la Biblioteca Glemonense, costituendo un importante polo culturale della città.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Museo della Pieve e Tesoro del Duomo",
+      "address": "Canonica Recalcatis, Via Bini – 33013 Gemona del Friuli (UD)",
+      "website_url": "http://www.anagrafebbcc.chiesacattolica.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Pieve%20e%20Tesoro%20del%20Duomo%2C%20Canonica%20Recalcatis%2C%20Via%20Bini%20%E2%80%93%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Allestito nella canonica trecentesca accanto al Duomo, il museo custodisce il registro battesimale più antico del mondo, un celebre ostensorio rinascimentale di Nicolò Lionello e preziosi antifonari e graduali miniati. Le raccolte includono sculture, dipinti, codici, paramenti liturgici storici e l'archivio plebanale, documentando secoli di storia ecclesiastica gemonese. Il percorso museale è stato riaperto nel 2006 dopo un lungo restauro post-terremoto.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Ecomuseo delle Acque del Gemonese",
+      "address": "Piazza Municipio, 5 – 33013 Gemona del Friuli (UD)",
+      "website_url": "https://www.ecomuseodelleacque.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20delle%20Acque%20del%20Gemonese%2C%20Piazza%20Municipio%2C%205%20%E2%80%93%2033013%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "L'Ecomuseo delle Acque è un museo diffuso dedicato al paesaggio idrico e alle tradizioni del Gemonese. Attraverso percorsi all'aperto e siti storici come il Mulino Cocconi, valorizza mulini, canali, lavatoi e la memoria locale legata all'acqua. Il museo promuove la conoscenza della storia, dell'ambiente e delle attività produttive della piana friulana attraverso itinerari e iniziative sul territorio.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Museo Renato Raffaelli – Santuario di Sant'Antonio",
+      "address": "Santuario di Sant'Antonio – Via Sant'Antonio, Gemona del Friuli (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Renato%20Raffaelli%20%E2%80%93%20Santuario%20di%20Sant'Antonio%2C%20Santuario%20di%20Sant'Antonio%20%E2%80%93%20Via%20Sant'Antonio%2C%20Gemona%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Il museo è ospitato nel Santuario di Sant'Antonio, antico luogo di culto decorato da affreschi di Melchiorre Widmar. È dedicato all'artista gemonese Renato Raffaelli e raccoglie le sue opere pittoriche, inserendole in un contesto di devozione e arte locale. Offre così un percorso tra memoria artistica ed esperienze spirituali del centro storico.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Centro Visite sul Terremoto del 1976 (Mostra Fotografica Permanente)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Visite%20sul%20Terremoto%20del%201976%20(Mostra%20Fotografica%20Permanente)%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Centro visite propone una mostra permanente dedicata al terremoto del 1976 che distrusse Gemona del Friuli. Attraverso un'ampia documentazione fotografica e un laboratorio didattico, racconta gli anni della distruzione, della vita nei prefabbricati e della ricostruzione, trasmettendo la memoria collettiva e il senso civico che caratterizzarono la rinascita della città.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Archivio Storico di Gemona del Friuli",
+      "address": "Via Bini, Gemona del Friuli (UD) *(presso Palazzo Elti / complesso museale)*",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Archivio%20Storico%20di%20Gemona%20del%20Friuli%2C%20Via%20Bini%2C%20Gemona%20del%20Friuli%20(UD)%20*(presso%20Palazzo%20Elti%20%2F%20complesso%20museale)*",
+      "image_url": null,
+      "description": "L'Archivio Storico custodisce preziosi fondi documentari riguardanti la vita amministrativa, religiosa e familiare di Gemona dal Medioevo all'età contemporanea. Ospitato presso il complesso museale di Palazzo Elti, rappresenta una risorsa fondamentale per la ricerca storica e la conservazione della memoria locale, consultabile su richiesta da studiosi e ricercatori.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Biblioteca Glemonense \"don Valentino Baldissera\"",
+      "address": "Via Bini, 9 – 33013 Gemona del Friuli (UD) *(presso il Museo Civico di Palazzo Elti)*",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Glemonense%20%22don%20Valentino%20Baldissera%22%2C%20Via%20Bini%2C%209%20%E2%80%93%2033013%20Gemona%20del%20Friuli%20(UD)%20*(presso%20il%20Museo%20Civico%20di%20Palazzo%20Elti)*",
+      "image_url": null,
+      "description": "La Biblioteca Glemonense, intitolata a don Valentino Baldissera, è la principale biblioteca storica della città. Fa parte del complesso di Palazzo Elti e conserva testi rari, pubblicazioni locali e periodici storici di grande valore. È punto di riferimento per la vita culturale cittadina, ospitando eventi, conferenze e attività di ricerca.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gemona-del-friuli.md"
+    }
+  ]
+}

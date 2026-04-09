@@ -1,0 +1,19 @@
+{
+  "comune_name": "Socchieve",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/socchieve.md",
+  "extracted_at": "2026-04-09T11:19:53.138Z",
+  "pois": [
+    {
+      "name": "La Baita — Viaso di Socchieve",
+      "address": "Via San Giovanni, 28/A — 33020 Viaso di Socchieve (UD)",
+      "website_url": "http://www.labaitadiviaso.altervista.org/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Baita%20%E2%80%94%20Viaso%20di%20Socchieve%2C%20Via%20San%20Giovanni%2C%2028%2FA%20%E2%80%94%2033020%20Viaso%20di%20Socchieve%20(UD)",
+      "image_url": null,
+      "description": "La Baita è un ristorante a gestione familiare situato nella frazione di Viaso, immerso nell'autentica atmosfera rurale della Carnia. Il locale è noto per la cucina semplice ma raffinata dello chef Roberto Mainardis, fortemente legata alla stagionalità e ai prodotti del territorio. Il menù varia in base alla disponibilità locale e offre piatti tipici carnici reinterpretati, come frico di patate con polenta, maltagliati al ragù bianco di coniglio, e dolci tradizionali della zona. Con una sala accogliente e la possibilità di cenare all'aperto, rappresenta un punto di riferimento genuino e apprezzato per residenti e visitatori.",
+      "comune_name": "Socchieve",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/socchieve.md"
+    }
+  ]
+}

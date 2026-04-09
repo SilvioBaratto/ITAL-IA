@@ -1,0 +1,52 @@
+{
+  "comune_name": "Camino al Tagliamento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/camino-al-tagliamento.md",
+  "extracted_at": "2026-04-09T10:03:17.054Z",
+  "pois": [
+    {
+      "name": "Locanda Forchir",
+      "address": null,
+      "website_url": "https://locandaforchir.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Locanda Forchir offre un'esperienza di aperitivo e degustazione immersa tra i vigneti della pianura friulana, a poca distanza dal centro del comune. È un'estensione della cantina Forchir, dove il vino locale è protagonista e accompagna cicchetti e specialità del territorio. L'ambiente è raffinato e orientato alla sostenibilità, con certificazioni SQNPI e FSSC22000. La struttura dispone anche di camere, piscina e sale per eventi privati.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Savorgnan",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Pizzeria Trattoria Savorgnan, situata nella frazione di San Vidotto, rappresenta un punto di ritrovo locale dove i residenti si incontrano per pranzi, cene e per bere un caffè o un bicchiere di vino. Il servizio bar è integrato nell'attività di ristorazione, riflettendo la tradizione friulana dei piccoli centri. Non è presente un sito web ufficiale e si consiglia di verificare gli orari tramite Google Maps.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Ristorante al Mulino",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Ristorante al Mulino si trova nella frazione di Glaunicco e richiama l'atmosfera rurale e tradizionale della pianura friulana. Come le altre trattorie del comune, qui il caffè post-pasto sostituisce spesso il bar cittadino, offrendo momenti conviviali. La cucina si ispira alla tradizione locale, con piatti semplici e ingredienti del territorio.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Trattoria da Bepo",
+      "address": "Via Pomponio Amalteo 2, Bugnins Vecchio, Bugnins, Camino al Tagliamento, 33030",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Trattoria da Bepo, situata nella frazione di Bugnins Vecchio, è un locale storico di gestione familiare, da sempre punto di riferimento per la socialità del paese. Qui l'aperitivo e il caffè accompagnano la cucina, diventando rituali per i residenti e per chi lavora nei campi. L'atmosfera è informale e legata alla tradizione friulana.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/camino-al-tagliamento.md"
+    }
+  ]
+}

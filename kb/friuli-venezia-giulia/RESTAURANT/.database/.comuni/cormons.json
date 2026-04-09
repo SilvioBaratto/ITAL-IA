@@ -1,0 +1,96 @@
+{
+  "comune_name": "Cormons",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md",
+  "extracted_at": "2026-04-09T10:59:53.286Z",
+  "pois": [
+    {
+      "name": "Trattoria al Cacciatore - La Subida (★ Michelin)",
+      "address": "Via Subida 52, 34071 Cormons (GO)",
+      "website_url": "https://www.lasubida.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Cacciatore%20-%20La%20Subida%20(%E2%98%85%20Michelin)%2C%20Via%20Subida%2052%2C%2034071%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "La Trattoria al Cacciatore – La Subida è un'istituzione culinaria a Cormons, guidata dalla famiglia Sirk e insignita di una stella Michelin. Protagonista della cucina friulana reinterpretata in chiave contemporanea, offre paste fatte in casa, carni pregiate e una ricercata selezione di vini locali in un ambiente elegante ma accogliente. Lo chef Alessandro Gavagna porta in tavola creatività e rispetto della tradizione, rendendo il ristorante una meta gastronomica d'eccellenza. Il prezzo è elevato, in linea con la qualità e il prestigio del locale.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Osteria La Preda de la Subida",
+      "address": "Via Subida 53a, 34071 Cormons (GO)",
+      "website_url": "https://www.lasubida.it/en/osteria-la-preda-de-la-subida/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La%20Preda%20de%20la%20Subida%2C%20Via%20Subida%2053a%2C%2034071%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "L'Osteria La Preda de la Subida offre una proposta informale e genuina legata alla tradizione friulana, con piatti semplici ma eseguiti con ingredienti d'eccellenza e una carta dei vini con oltre 150 etichette locali. L'atmosfera è creativa e accogliente, perfetta per degustare antipasti tipici come il Prosciutto d'Osvaldo e il Frico dal cuore morbido o piatti ispirati al territorio. Il prezzo è moderato, rendendo la qualità di La Subida accessibile in uno spazio versatile che è anche wine bar e bottega.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Osteria Caramella",
+      "address": "Via Giacomo Matteotti 1, Cormons (GO)",
+      "website_url": "https://www.osteriacaramella.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Caramella%2C%20Via%20Giacomo%20Matteotti%201%2C%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "Osteria Caramella è una piccola gemma nel cuore del Collio cormontano, famosa per le sue polpette caratteristiche e una cucina che fonde tradizione friulana e mitteleuropea. Il menu offre specialità come Prosciutto d'Osvaldo, cjarsons, frico, gulash e dolci locali come la gubana, in un'atmosfera intima e accogliente. I prodotti sono selezionati con attenzione per qualità e stagionalità, e la fascia di prezzo è accessibile. L'osteria funzione anche da bottega per acquistare tipicità del territorio.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Trattoria Al Giardinetto 1898",
+      "address": "Via Matteotti 54, Cormons (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Giardinetto%201898%2C%20Via%20Matteotti%2054%2C%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "Al Giardinetto 1898 è uno dei ristoranti storici di Cormons, gestito dalla famiglia Zoppolatti da tre generazioni. Propone una cucina tradizionale friulana arricchita da influenze mitteleuropee, con specialità quali pasta fatta in casa, brodo e gnocchi, presentate in chiave creativa ma rispettosa della tradizione. Il locale si distingue per il suo bellissimo giardino estivo e per l'atmosfera calda nei mesi invernali grazie al camino. La fascia di prezzo è media, adeguata alla qualità e all'esperienza offerta.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Alla Pergola",
+      "address": "Via Matteotti 42, Cormons (GO)",
+      "website_url": "https://www.albergoristoranteallapergola.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Pergola%2C%20Via%20Matteotti%2042%2C%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "Alla Pergola unisce albergo, ristorante e pizzeria nel centro di Cormons ed è apprezzata per le specialità di pesce, le pizze cotte nel forno a legna e i piatti preparati con ingredienti freschi locali. L'ambiente offre sia eleganti sale interne sia un attraente giardino per le cene estive. Il ristorante è rinomato per la qualità e la varietà della sua cucina, con una fascia di prezzo media e la possibilità di organizzare banchetti per occasioni speciali.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Osteria all'Unione",
+      "address": "Via Pietro Zorutti 14, Cormons (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20all'Unione%2C%20Via%20Pietro%20Zorutti%2014%2C%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "Osteria all'Unione è un locale storico di Cormons che offre cucina friulana autentica in un'atmosfera familiare e informale, valutata 4.0 su 5 su TripAdvisor. Qui si possono gustare piatti tipici come calamari fritti o grigliati e specialità locali, accompagnati da una selezione di vini del Collio provenienti da piccoli produttori. La gestione è attenta sia alla qualità sia alla sostenibilità, con prezzi accessibili e ambientazione conviviale.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Trattoria Cormontium",
+      "address": "Via Capriva 84, 34071 Cormons (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Cormontium%2C%20Via%20Capriva%2084%2C%2034071%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Cormontium offre una cucina friulana fedele alla tradizione, arricchita da influenze argentine e apprezzata per l'eccezionale rapporto qualità-prezzo con menu pranzo completo a €12,50. I piatti sono genuini e semplici, preparati con ingredienti di qualità e ricette di famiglia, in un'atmosfera autentica e accogliente. Il servizio è cordiale e l'ambiente suggerisce la vera essenza di una trattoria locale.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    },
+    {
+      "name": "Osteria da Marcello",
+      "address": "Via Corona 38, Cormons (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Marcello%2C%20Via%20Corona%2038%2C%20Cormons%20(GO)",
+      "image_url": null,
+      "description": "Osteria da Marcello è una delle osterie più popolari tra i residenti di Cormons, nota per la qualità costante e per il servizio cortese che le ha valso una valutazione di 4.6 su 5 con centinaia di recensioni. Il locale propone piatti di cucina tradizionale in un contesto semplice e accogliente. Il prezzo è economico, ideale per chi cerca un'esperienza autentica senza formalità.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cormons.md"
+    }
+  ]
+}

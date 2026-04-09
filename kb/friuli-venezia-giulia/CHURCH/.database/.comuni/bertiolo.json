@@ -1,0 +1,41 @@
+{
+  "comune_name": "Bertiolo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bertiolo.md",
+  "extracted_at": "2026-04-09T10:19:37.993Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Martino Vescovo",
+      "address": null,
+      "website_url": "http://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-1517391927/forania-del-medio-friuli-1671/cp-di-codroipo-1705/bertiolo-247/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Martino%20Vescovo%2C%20Bertiolo",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Martino Vescovo è il principale luogo di culto di Bertiolo, risalente al XVII secolo e consacrata nel 1702. All'interno conserva preziosi arredi barocchi, notevoli opere d'arte di autore come Pietro Bainville, Odorico Politi e Francesco Pavona, oltre a vetrate artistiche realizzate da Arrigo Poz nel 1990. L'edificio si distingue per una facciata sobria in stile barocco friulano, mentre il suo campanile integra parti medievali. La chiesa ha subito restauri importanti a seguito del terremoto del 1976.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Bertiolo",
+      "image_url": null,
+      "description": "La chiesa della Santissima Trinità è il più antico edificio religioso di Bertiolo, documentato dal 1500 ma con origini ben più remote, come testimonia una campana datata 1287 e resti di strutture del VII secolo. L'edificio sorge forse su un tempio pagano preesistente ed è legato a una lunga tradizione di culto locale. Al suo interno sono visibili frammenti di affresco absidale di epoca romanica e le tracce di una necropoli longobarda scoperta durante restauri moderni, elementi che ne fanno un sito di grande interesse archeologico.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Santuario della Beata Vergine di Screncis",
+      "address": null,
+      "website_url": "https://www.turismofvg.it/Bertiolo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Beata%20Vergine%20di%20Screncis%2C%20Bertiolo",
+      "image_url": null,
+      "description": "Il Santuario della Beata Vergine di Screncis, situato sulla strada per Lonca di Codroipo, rappresenta il centro principale della devozione mariana nella zona. Nato secondo la tradizione da un evento miracoloso, fu ampliato più volte dal XV al XIX secolo, divenendo meta di importanti pellegrinaggi annuali. L'edificio in stile neoclassico raccoglie una semplice immagine della Madonna e conserva testimonianze storiche legate a eventi popolari e a ritrovamenti archeologici effettuati durante lavori ottocenteschi.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bertiolo.md"
+    }
+  ]
+}

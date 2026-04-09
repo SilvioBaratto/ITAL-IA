@@ -1,0 +1,195 @@
+{
+  "comune_name": "Cervignano del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md",
+  "extracted_at": "2026-04-09T10:39:10.505Z",
+  "pois": [
+    {
+      "name": "Chiesa Madre di San Michele Arcangelo (Pieve)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Madre%20di%20San%20Michele%20Arcangelo%20(Pieve)%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "La Chiesa Madre di San Michele Arcangelo sorge nel centro storico di Cervignano sulle rovine dell'antica abbazia benedettina fondata nell'VIII secolo. L'edificio attuale risale al 1780, affiancato da un campanile dell'XI secolo, tra i manufatti più antichi del comune. Gli interni conservano affreschi di Sebastiano Santi e una vasta cripta con reperti romani e resti medievali, mentre ai piedi del campanile fu scoperto un raro mosaico longobardo.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Duomo di San Michele Arcangelo",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78557/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Michele%20Arcangelo%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Costruito tra il 1965 e il 1968 su progetto di Giacomo Della Mea, il Duomo di San Michele Arcangelo rappresenta un notevole esempio di architettura modernista religiosa. All'interno si trovano opere d'arte come il crocifisso in bronzo di Max Piccini e pannelli di Paolo Orlando, oltre a lavori di Giuseppe Zigaina, rendendo il duomo un contenitore d'arte contemporanea d'eccellenza.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Girolamo",
+      "address": null,
+      "website_url": "https://www.archeocartafvg.it/portfolio-articoli/cervignano-ud-chiesa-san-girolamo-reperti-romani-reimpiego/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Girolamo%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "La Chiesa di San Girolamo, ampliata tra il 1924 e il 1933, è celebre per il suo lapidario romano a cielo aperto, con numerosi reperti antichi provenienti da Aquileia e dintorni integrati nelle sue strutture. L'edificio riflette numerose fasi storiche e architettoniche, con elementi medievali, neoromanici e una collezione unica di manufatti romani in situ.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Cappella di Santa Croce",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20Santa%20Croce%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "La Cappella di Santa Croce è una cappella gentilizia di origine medievale appartenente alle famiglie nobili Bresciani–Attems–Auersperg, situata nel parco di villa omonima. All'interno è conservato un monumentale crocifisso ligneo del XII secolo e una preziosa crocetta bizantina, testimonianze di grande valore artistico e spirituale. La cappella è privata e visitabile solo su accordo con i proprietari.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Villa Bresciani-Attems-Auersperg",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Bresciani-Attems-Auersperg%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Questa villa barocca/tardo-rinascimentale rappresenta una residenza di grande rilievo della nobiltà austro-friulana nella Bassa Friulana. Si distingue per la scalinata in pietra bianca, il portale bugnato e il parco circostante, a cui è annessa la storica Cappella di Santa Croce. La proprietà è privata e normalmente non accessibile al pubblico.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Villa De Obizzi Lanzone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20De%20Obizzi%20Lanzone%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Situata nel Borgo Gortani, Villa De Obizzi Lanzone è un autentico esempio di architettura veneta del XVII secolo nel Friuli orientale. Il complesso è caratterizzato dalla loggia tripartita, raffinati dettagli architettonici e un giardino con fontana circolare. Nei dintorni sono stati rinvenuti importanti resti archeologici romani, tra cui tracce di acquedotto, strada e necropoli.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Villa Chiozza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Chiozza%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Villa Chiozza, situata nella frazione di Scodovacca, fu residenza dello scienziato Luigi Chiozza ed è famosa per il suo magnifico parco storico-botanico. Qui soggiornò anche Louis Pasteur, e la villa fu sede di ERSA e della stazione meteorologica locale. Attualmente appartiene alla Regione Friuli-Venezia Giulia.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Piazza Unità d'Italia e Targa della Liberazione",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza%20Unit%C3%A0%20d'Italia%20e%20Targa%20della%20Liberazione%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Cuore civico di Cervignano, la piazza è teatro della storica liberazione dall'Austria nel novembre 1918, seconda solo a Trieste. Sulla facciata dell’ex bar \"Alla Nave\" si trova una targa marmorea che riporta il proclama di indipendenza del Comitato di Salute Pubblica, rendendo questo luogo un simbolo patriottico della Bassa Friulana.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Lapide del Primo Colpo di Cannone — Grande Guerra",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lapide%20del%20Primo%20Colpo%20di%20Cannone%20%E2%80%94%20Grande%20Guerra%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Questa lapide commemorativa, posta presso il piazzale del ponte sull'Ausa, ricorda il primo colpo di cannone sparato contro Cervignano la mattina del 24 maggio 1915, giorno dell'entrata in guerra dell'Italia. Segna uno dei principali eventi bellici e patriottici della città, allora sotto dominio austriaco, e testimonia l’inizio della presenza italiana.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Luoghi della Memoria — Fornace Sarcinelli e Tre Ponti",
+      "address": null,
+      "website_url": "http://www.straginazifasciste.it/?page_id=38&id_strage=165",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Luoghi%20della%20Memoria%20%E2%80%94%20Fornace%20Sarcinelli%20e%20Tre%20Ponti%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "La Fornace Sarcinelli e la località Tre Ponti sono siti commemorativi delle tragiche stragi nazifasciste avvenute il 29 aprile 1945 ad opera delle Waffen-SS in ritirata. Oggi questi luoghi sono mete di pellegrinaggio civile in memoria della Resistenza e delle vittime civili durante la fase conclusiva della Seconda Guerra Mondiale.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Castello di Strassoldo — Castello di Sopra e Castello di Sotto",
+      "address": null,
+      "website_url": "https://www.castellodistrassoldo.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Strassoldo%20%E2%80%94%20Castello%20di%20Sopra%20e%20Castello%20di%20Sotto%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Castello di Strassoldo, costituito dal Castello di Sopra e dal Castello di Sotto, forma uno dei più importanti borghi medievali del Friuli. Datato almeno al VI secolo, il complesso presenta elementi fortificati, bastioni, torri e un ricco patrimonio storico, legato alle vicende della nobiltà locale e degli Asburgo. Le visite guidate sono disponibili per gruppi su prenotazione.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Cappella di Santa Maria in Vineis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20Santa%20Maria%20in%20Vineis%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Attestata dal 1334, la Cappella di Santa Maria in Vineis è circondata da una muraglia a Strassoldo e presenta affreschi medievali di interesse storico-artistico. Conservava un crocifisso del XVII secolo, ora sottoposto a restauro. È un esempio genuino di arte sacra rurale della Bassa Friulana.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Nicolò Vescovo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicol%C3%B2%20Vescovo%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Situata all'interno del Castello di Sopra a Strassoldo, la Chiesa di San Nicolò Vescovo affonda le sue origini tra il X e l'XI secolo. Ricostruita più volte, la chiesa è legata a importanti avvenimenti storici, come le nozze del feldmaresciallo Josef Radetzky. L'edificio mantiene la struttura settecentesca grazie a vari restauri.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Marco Evangelista",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Marco%20Evangelista%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Costruita tra il 1829 e il 1833 nella frazione di Scodovacca, la Chiesa di San Marco Evangelista è un valido esempio di architettura neoclassica ottocentesca nel Friuli. Rappresenta il principale polo religioso della comunità locale.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Zona Archeologica di Borgo Gortani",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Zona%20Archeologica%20di%20Borgo%20Gortani%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Collocata alla periferia sud-est di Cervignano, la zona archeologica di Borgo Gortani include resti di una villa rustica romana, con tracce di acquedotto, strada e necropoli con urne cinerarie risalenti dal I secolo a.C. fino al IV secolo d.C. Il sito non è attrezzato per visite, ma è di grande interesse per lo studio del popolamento romano nella regione.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Mosaico Longobardo al Campanile di San Michele",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mosaico%20Longobardo%20al%20Campanile%20di%20San%20Michele%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Ai piedi del campanile romanico della Chiesa Madre di San Michele Arcangelo si conserva un raro mosaico pavimentale di epoca longobarda, scoperto nel 1915. È una testimonianza significativa della presenza longobarda e delle abilità artigianali raggiunte nella Bassa Friulana in quell’epoca.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Casa del Pittore Zigaina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20del%20Pittore%20Zigaina%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Realizzata tra il 1957 e il 1959 su progetto dell'architetto Giancarlo De Carlo per il pittore Giuseppe Zigaina, questa casa rappresenta un significativo incontro tra avanguardia artistica e architettonica del dopoguerra friulano. È un raro esempio di architettura razionalista nella provincia di Udine.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cervignano-del-friuli.md"
+    }
+  ]
+}

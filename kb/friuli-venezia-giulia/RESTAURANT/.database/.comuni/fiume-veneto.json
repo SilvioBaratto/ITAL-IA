@@ -1,0 +1,173 @@
+{
+  "comune_name": "Fiume Veneto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md",
+  "extracted_at": "2026-04-09T11:02:18.713Z",
+  "pois": [
+    {
+      "name": "Osteria Turlonia",
+      "address": "Corso Italia 5, Praturlone di Fiume Veneto",
+      "website_url": "https://osteriaturlonia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Turlonia%2C%20Corso%20Italia%205%2C%20Praturlone%20di%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Osteria Turlonia, situata nella frazione di Praturlone, è una tipica osteria friulana gestita da Federico Mariutti, membro dell'Alleanza Slow Food. Si distingue per una cucina stagionale che valorizza ingredienti locali e piatti della tradizione come il frico e gli gnocchi di cervo. L'atmosfera intima si accompagna a una ricca carta dei vini regionali, rendendo questo locale ideale per chi vuole scoprire il meglio della gastronomia friulana rivisitata con creatività.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Ristorante San Marco",
+      "address": "Via Pontebbana 38",
+      "website_url": "https://www.ristorantesanmarcopn.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20San%20Marco%2C%20Via%20Pontebbana%2038",
+      "image_url": null,
+      "description": "Il Ristorante San Marco è una storica istituzione locale che offre cucina tradizionale, specialità di carne e pesce, nonché pizze lievitate a lungo con pasta madre per una digeribilità superiore. I piatti variano da grigliate di carne pregiata a autentica paella spagnola e dolci artigianali. L'ambiente è accogliente e familiare, adatto a ogni occasione, dalla cena romantica a pranzi di lavoro.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Ristorante Dal Santo",
+      "address": "Via Nazario Sauro 94, Bannia",
+      "website_url": "https://www.ristorantedalsanto.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Dal%20Santo%2C%20Via%20Nazario%20Sauro%2094%2C%20Bannia",
+      "image_url": null,
+      "description": "Dal 1984 il Ristorante Dal Santo propone un'offerta di pesce fresco selezionato quotidianamente, servito in un ambiente caldo e familiare. Il menu varia a seconda della disponibilità, con antipasti curati, primi tradizionali e pizze appetitose. Dispone di diverse sale, un ampio giardino con animali e location adatta anche per cerimonie, offrendo un servizio attento e parco auto comodo.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "L'Ultimo Mulino Hotel Relais Ristorante",
+      "address": "Via Molino 45, Bannia",
+      "website_url": "https://www.lultimomulino.info/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Ultimo%20Mulino%20Hotel%20Relais%20Ristorante%2C%20Via%20Molino%2045%2C%20Bannia",
+      "image_url": null,
+      "description": "Situato in un mulino d'acqua del XVII secolo elegantemente restaurato, L'Ultimo Mulino offre cucina regionale raffinata in un contesto storico protetto. Il locale propone menù à la carte con attenzione agli ingredienti e possibilità di piatti speciali per esigenze particolari. L'atmosfera è elegante e suggestiva, ideale anche per pernottamenti di charme grazie agli standard di un hotel quattro stelle.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Agriturismo Fossa Mala",
+      "address": "Via Bassi 81",
+      "website_url": "https://fossamala.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Fossa%20Mala%2C%20Via%20Bassi%2081",
+      "image_url": null,
+      "description": "Fossa Mala coniuga la tradizione agricola con l'ospitalità moderna in una villa storica immersa nella zona DOC Grave. L'agriturismo produce vini locali che vengono offerti in abbinamento a piatti friulani autentici, preparati con ingredienti stagionali e a chilometro zero. La struttura dispone di eleganti camere, ampio parco e servizi completi, rendendolo perfetto per soggiorni enogastronomici e di relax.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Ristorante San Marco - Pizzeria Gourmet",
+      "address": "Via Pontebbana 38",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20San%20Marco%20-%20Pizzeria%20Gourmet%2C%20Via%20Pontebbana%2038",
+      "image_url": null,
+      "description": "La sezione pizzeria gourmet del Ristorante San Marco è specializzata in pizze preparate con pasta madre lasciata a lunga lievitazione e ingredienti di alta qualità. L'offerta varia da ricette classiche a combinazioni creative, garantendo impasti leggeri e fragranti. È ideale per una cena informale, per l'asporto o cene in famiglia, con un'attenzione particolare all'arte pizzaiola.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Osteria con Cucina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20con%20Cucina%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Questa osteria locale viene segnalata tra gli esercizi ristorativi di Fiume Veneto e si caratterizza per la proposta di cucina friulana tradizionale. Mancano dettagli specifici su menu e posizione, ma mantiene viva la tradizione tipica delle osterie del territorio.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Ristorante Oriente Wok Sushi",
+      "address": "Via Marcello Benedetto 7",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Oriente%20Wok%20Sushi%2C%20Via%20Marcello%20Benedetto%207",
+      "image_url": null,
+      "description": "Ristorante Oriente Wok Sushi propone cucina asiatica con particolare attenzione a specialità sushi e piatti wok. È un'opzione diversa e interessante per chi cerca sapori internazionali preparati con cura in un contesto locale friulano.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Ristorante Alle Risorgive",
+      "address": "zona di Via Pontebbana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Alle%20Risorgive%2C%20zona%20di%20Via%20Pontebbana",
+      "image_url": null,
+      "description": "Menzoanto tra i ristoranti storici della zona, il Ristorante Alle Risorgive mantiene le tradizioni della cucina friulana. È un punto di riferimento per la ristorazione locale, sebbene manchino informazioni dettagliate su menu e orari.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "La Torre - Ristorante Pizzeria",
+      "address": "Piazza San Tommaso",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Torre%20-%20Ristorante%20Pizzeria%2C%20Piazza%20San%20Tommaso",
+      "image_url": null,
+      "description": "La Torre è una ristorante-pizzeria nota per la selezione attenta di materie prime e la competenza in cucina. Offre piatti tradizionali e pizze speciali, il tutto in un ambiente che combina cordialità e professionalità.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Trattoria al Rifugio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Rifugio%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Storica trattoria di Fiume Veneto, Al Rifugio mantiene viva la tradizione delle trattorie familiari friulane puntando su una cucina schietta e di qualità. Pur senza molti dettagli pubblici, la sua presenza nelle guide testimonia l'apprezzamento locale.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Pizzeria BAR Pulcinella",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20BAR%20Pulcinella%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Pizzeria BAR Pulcinella è un punto di riferimento per la pizza napoletana in stile catena, ma riconosciuta in provincia per la qualità degli impasti e del servizio. Rappresenta una scelta adatta per chi cerca la tradizione pizzaiola partenopea.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Prosit",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Prosit%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Prosit viene citato nelle guide come punto di ristorazione friulana a Fiume Veneto, contribuendo alla varietà dell'offerta gastronomica locale.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Blue Inn - Pizzeria Trattoria",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Blue%20Inn%20-%20Pizzeria%20Trattoria%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Blue Inn è una pizzeria trattoria rinomata per la qualità delle pizze, preparate con ingredienti di prima scelta e verdure fresche. Il locale offre un ambiente accogliente e un servizio attento.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Osteria Montegrappa (Cordenons)",
+      "address": "Piazza della Vittoria 61, Cordenons",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Montegrappa%20(Cordenons)%2C%20Piazza%20della%20Vittoria%2061%2C%20Cordenons",
+      "image_url": null,
+      "description": "Pur trovandosi a Cordenons, Osteria Montegrappa viene apprezzata per l'atmosfera autentica friulana e una cucina tradizionale di qualità. Offre piatti tipici fatti in casa, è ideale per merende con vini selezionati e dispone di una spaziosa sala per cerimonie.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fiume-veneto.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Drenchia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/drenchia.md",
+  "extracted_at": "2026-04-09T10:47:12.730Z",
+  "pois": [
+    {
+      "name": "Casa Rurale del Territorio di Drenchia",
+      "address": "Ex scuola elementare, frazione di Trinco (*Trinko*), comune di Drenchia (UD)",
+      "website_url": "http://www.comune.drenchia.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Rurale%20del%20Territorio%20di%20Drenchia%2C%20Ex%20scuola%20elementare%2C%20frazione%20di%20Trinco%20(*Trinko*)%2C%20comune%20di%20Drenchia%20(UD)",
+      "image_url": null,
+      "description": "La Casa Rurale del Territorio di Drenchia è un museo etnografico che raccoglie oggetti domestici, attrezzi agricoli e cimeli della cultura contadina locale e testimonianze della Prima Guerra Mondiale. Ha sede nell’ex scuola elementare della frazione di Trinco e rappresenta uno dei musei più rappresentativi delle Valli del Natisone e della Slavia veneta. Gestito dall'associazione Pro Drenchia, il museo offre una documentazione viva della comunità bilingue italo-slovena e delle sue tradizioni rurali e storiche. L'accesso è su prenotazione o in occasione di eventi organizzati dalla comunità.",
+      "comune_name": "Drenchia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/drenchia.md"
+    },
+    {
+      "name": "Museo all'Aperto Na Gradu Klabuk — Trincee del Colovrat",
+      "address": "Zona Na Gradu Klabuk, crinale del monte Colovrat, comune di Drenchia (UD)",
+      "website_url": "http://www.comune.drenchia.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20all'Aperto%20Na%20Gradu%20Klabuk%20%E2%80%94%20Trincee%20del%20Colovrat%2C%20Zona%20Na%20Gradu%20Klabuk%2C%20crinale%20del%20monte%20Colovrat%2C%20comune%20di%20Drenchia%20(UD)",
+      "image_url": null,
+      "description": "Il Museo all'Aperto Na Gradu Klabuk è un percorso storico e museale all'aperto sulle alture del crinale del Colovrat, dedicato alle vicende della Prima Guerra Mondiale. Il sito permette di visitare trincee, gallerie e bunker restaurati lungo il sentiero, inseriti in un contesto ambientale suggestivo al confine tra Italia e Slovenia. Il percorso, accessibile tutto l’anno, offre anche monumenti commemorativi e accoglie eventi annuali che valorizzano la memoria locale della Grande Guerra. Il museo fa parte di un più ampio circuito transfrontaliero dedicato alla storia del fronte Caporetto–Natisone–Isonzo.",
+      "comune_name": "Drenchia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/drenchia.md"
+    }
+  ]
+}

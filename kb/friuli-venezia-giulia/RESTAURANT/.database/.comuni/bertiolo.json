@@ -1,0 +1,52 @@
+{
+  "comune_name": "Bertiolo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bertiolo.md",
+  "extracted_at": "2026-04-09T10:55:15.695Z",
+  "pois": [
+    {
+      "name": "Agriturismo Taj Landia",
+      "address": "Via Montello 16, 33032 Bertiolo (UD)",
+      "website_url": "https://www.facebook.com/agriturismotajlandia/?locale=it_IT",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Taj%20Landia%2C%20Via%20Montello%2016%2C%2033032%20Bertiolo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Taj Landia è un ristorante a gestione familiare che punta sulla cucina friulana realizzata con ingredienti dell'azienda agricola di proprietà. Il locale si distingue per l'uso creativo della canapa, impiegata, ad esempio, negli gnocchi e nelle tagliatelle, e offre anche frico con polenta, affettati e formaggi prodotti in casa. L'atmosfera è rustica e accogliente, ideale per chi cerca una genuina esperienza della tradizione contadina friulana e un ottimo rapporto qualità-prezzo.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Agriturismo Al Ranch",
+      "address": "Via Dante Alighieri 8, 33032 Bertiolo (UD)",
+      "website_url": "https://www.unpostoatavola.it/al_ranch/al_ranch.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Ranch%2C%20Via%20Dante%20Alighieri%208%2C%2033032%20Bertiolo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Al Ranch è un punto di riferimento rustico e informale immerso tra le campagne di Bertiolo, con un'atmosfera familiare e rilassata. È rinomato per la griglia mista, il frico nelle sue varianti, e le fettuccine al ragù d'oca, piatti tutti preparati con ingredienti locali e di stagione. Il personale è apprezzato per la cordialità e il locale è ideale per famiglie che vogliono godere della cucina tipica friulana a prezzi accessibili.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Infanti Ezio",
+      "address": "Via Santissima 15/2, 33032 Bertiolo (UD)",
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g2531120-d5986160-Reviews-Infanti_Ezio-Bertiolo_Province_of_Udine_Friuli_Venezia_Giulia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Infanti%20Ezio%2C%20Via%20Santissima%2015%2F2%2C%2033032%20Bertiolo%20(UD)",
+      "image_url": null,
+      "description": "Infanti Ezio è un ristorante italiano molto apprezzato a Bertiolo, noto per la qualità costante dei suoi piatti e per la sua affidabilità nel proporre cucina tradizionale. Il locale è considerato da molti una vera certezza nel panorama gastronomico locale, ideale per chi desidera un'esperienza autentica e senza sorprese, improntata alla tradizione friulana.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Trattoria Agristella (Sterpo, Bertiolo)",
+      "address": "Via Piave 16, 33032 Sterpo, Bertiolo (UD)",
+      "website_url": "https://www.sterpo.it/agristella/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Agristella%20(Sterpo%2C%20Bertiolo)%2C%20Via%20Piave%2016%2C%2033032%20Sterpo%2C%20Bertiolo%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Agristella si trova nella frazione di Sterpo e si distingue per la sua posizione pittoresca lungo il fiume Stella, offrendo un'atmosfera romantica e suggestiva. Il locale propone una cucina friulana autentica, con specialità come i taglierini alla trota di Sterpo, frico con polenta secondo tradizione, brodetto di pesce e una curata selezione di vini locali. L'ambiente è intimo e familiare, perfetto per chi cerca sapori genuini e un buon rapporto qualità-prezzo.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bertiolo.md"
+    }
+  ]
+}

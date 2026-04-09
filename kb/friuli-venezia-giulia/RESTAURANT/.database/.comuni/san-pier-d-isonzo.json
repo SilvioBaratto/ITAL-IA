@@ -1,0 +1,30 @@
+{
+  "comune_name": "San Pier D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pier-d-isonzo.md",
+  "extracted_at": "2026-04-09T11:17:59.412Z",
+  "pois": [
+    {
+      "name": "Trattoria Alle Casate",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alle%20Casate%2C%20San%20Pier%20D%20Isonzo",
+      "image_url": null,
+      "description": "Trattoria Alle Casate è il principale punto di riferimento gastronomico di San Pier d'Isonzo, con una cucina che valorizza la tradizione friulana e bisiaca in un ambiente semplice e accogliente. Il menù si basa su salumi locali, primi piatti come jota e tagliolini al ragù, arrosti, frico con polenta e dolci casalinghi, seguendo le stagioni e la genuinità tipica delle trattorie di campagna. Apprezzata da famiglie e lavoratori locali, offre un'atmosfera informale tipica dei paesi friulani. La selezione dei vini si concentra sulle etichette DOC Friuli Isonzo e Collio.",
+      "comune_name": "San Pier D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pier-d-isonzo.md"
+    },
+    {
+      "name": "Agriturismo Villa del Gelso",
+      "address": "Via San Zanut 51, San Pier d'Isonzo (frazione San Zanut), 34070 GO",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Villa%20del%20Gelso%2C%20Via%20San%20Zanut%2051%2C%20San%20Pier%20d'Isonzo%20(frazione%20San%20Zanut)%2C%2034070%20GO",
+      "image_url": null,
+      "description": "Agriturismo Villa del Gelso, gestito dalla famiglia Gandin nella frazione di San Zanut, propone una ristorazione agrituristica legata a produzioni proprie e ricette tradizionali della Bisiacaria. Il menù valorizza ortaggi, affettati, insaccati, uova fresche e conserve artigianali, con piatti semplici e conviviali provenienti direttamente dall'azienda agricola. L'atmosfera è rurale e autentica, ideale per chi cerca la cucina friulana in un contesto agreste e famigliare lontano dai circuiti turistici.",
+      "comune_name": "San Pier D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pier-d-isonzo.md"
+    }
+  ]
+}

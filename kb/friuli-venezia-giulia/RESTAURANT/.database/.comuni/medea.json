@@ -1,0 +1,52 @@
+{
+  "comune_name": "Medea",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/medea.md",
+  "extracted_at": "2026-04-09T11:06:28.586Z",
+  "pois": [
+    {
+      "name": "Agriturismo Alle Trincee",
+      "address": "Presso Ortofrutticola Medea, Medea",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Alle%20Trincee%2C%20Presso%20Ortofrutticola%20Medea%2C%20Medea",
+      "image_url": null,
+      "description": "Agriturismo Alle Trincee è una recente apertura a Medea, nata nel 2025, che unisce agricoltura, tradizione culinaria friulana e un contesto naturale suggestivo. La maggior parte degli ingredienti utilizzati proviene dall'azienda agricola annessa, garantendo piatti stagionali e genuini come il frico, la polenta, insaccati e formaggi di montagna. L'atmosfera è autentica e rurale, ideale per chi cerca una vera esperienza di cucina friulana immersa nella campagna. I vini serviti sono prodotti nella cantina di proprietà, Terre di Trincea.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/medea.md"
+    },
+    {
+      "name": "Osteria Vinars",
+      "address": "Corso Friuli 46, Medea, Gorizia",
+      "website_url": "https://www.vinibrumat.com/en/the-osteria-vinars/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Vinars%2C%20Corso%20Friuli%2046%2C%20Medea%2C%20Gorizia",
+      "image_url": null,
+      "description": "Osteria Vinars, gestita dalla famiglia Brumat, propone una cucina basata su insaccati artigianali prodotti in casa, come salame, pancetta, lardo e soppressa, e la celebre lingua salmistrata. L'ambiente si ispira al Wabi-Sabi giapponese, con arredi semplici e naturali che creano un'atmosfera sobria. La carta dei vini valorizza le etichette locali ed è apprezzata su TripAdvisor, dove la struttura ha una valutazione di 4.6 su 5. È meta ideale per chi cerca autenticità nei sapori friulani.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/medea.md"
+    },
+    {
+      "name": "Ristorante Al Vecchio Mulino",
+      "address": "Via XXIV Maggio 8, Medea, Gorizia 34076",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Vecchio%20Mulino%2C%20Via%20XXIV%20Maggio%208%2C%20Medea%2C%20Gorizia%2034076",
+      "image_url": null,
+      "description": "Ristorante Al Vecchio Mulino è un punto di riferimento storico a Medea, noto sia per la cucina italiana tradizionale che per la pizzeria. Specialità della casa sono i piatti a base di pesce, che richiamano le ricette adriatiche, oltre alle carni alla griglia cotte a fuoco di legna. L'atmosfera è accogliente e informale, tipica della trattoria di provincia. Su TripAdvisor vanta una valutazione di 4 su 5, con prezzi accessibili.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/medea.md"
+    },
+    {
+      "name": "Ristorante Da Mizzi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Da%20Mizzi%2C%20Medea",
+      "image_url": null,
+      "description": "Ristorante Da Mizzi offre una cucina genuina della tradizione friulana e italiana, rappresentando una delle tre principali realtà ristorative di Medea. Pur limitate le informazioni disponibili, il locale gode di una clientela fedele e staziona tra le proposte più apprezzate in ambito locale. Su TripAdvisor ha una valutazione di 3 su 5.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/medea.md"
+    }
+  ]
+}

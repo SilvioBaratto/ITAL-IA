@@ -1,0 +1,19 @@
+{
+  "comune_name": "Lusevera",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lusevera.md",
+  "extracted_at": "2026-04-09T10:17:52.520Z",
+  "pois": [
+    {
+      "name": "Bar Do - Nova Coop",
+      "address": "Frazione: Lusevera / Bardo, n. 40 — 33010 Lusevera (UD)",
+      "website_url": "https://www.openstreetmap.org/node/2582048200",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Do%20-%20Nova%20Coop%2C%20Frazione%3A%20Lusevera%20%2F%20Bardo%2C%20n.%2040%20%E2%80%94%2033010%20Lusevera%20(UD)",
+      "image_url": null,
+      "description": "Il Bar Do - Nova Coop è il punto di riferimento sociale della comunità di Lusevera, offrendo una combinazione di bar, punto di ristoro e negozio di prossimità. L'atmosfera è calda e informale, tipica dei bar-bottega friulani di montagna, dove si ritrovano abitanti e visitatori per il caffè del mattino, una grappa dopo una passeggiata o un semplice momento di socialità. La cucina propone piatti tradizionali del territorio, semplici e adatti anche agli escursionisti. Questo locale rappresenta il cuore vivo del paese, mantenendo viva la comunità locale.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/lusevera.md"
+    }
+  ]
+}

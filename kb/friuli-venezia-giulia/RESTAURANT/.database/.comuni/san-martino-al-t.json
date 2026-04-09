@@ -1,0 +1,19 @@
+{
+  "comune_name": "San Martino al T",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-martino-al-t.md",
+  "extracted_at": "2026-04-09T11:17:59.411Z",
+  "pois": [
+    {
+      "name": "Il Bosco di Arichis",
+      "address": "Via Richinvelda 1, 33098 San Martino al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Bosco%20di%20Arichis%2C%20Via%20Richinvelda%201%2C%2033098%20San%20Martino%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Il Bosco di Arichis è l'unico esercizio di ristorazione strutturato del comune, situato nel cuore del territorio e attivo come albergo, ristorante e osteria. La cucina unisce sapori tradizionali italiani a influenze iberiche, offrendo un menù che spazia tra piatti friulani e preparazioni internazionali, con una fascia di prezzo media (25–40 € a persona). Il locale, semplice e accogliente, ottiene ottime valutazioni dalla clientela, con una media superiore a 4,6 su 5. È ideale sia per chi desidera una sosta genuina durante escursioni lungo il Tagliamento sia per chi partecipa a eventi locali.",
+      "comune_name": "San Martino al T",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-martino-al-t.md"
+    }
+  ]
+}

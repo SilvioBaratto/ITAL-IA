@@ -1,0 +1,41 @@
+{
+  "comune_name": "Martignacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/martignacco.md",
+  "extracted_at": "2026-04-09T10:29:58.558Z",
+  "pois": [
+    {
+      "name": "Chiesa di Santa Maria Assunta",
+      "address": "Capoluogo di Martignacco — via Cividina",
+      "website_url": "https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-del-friuli-collinare-1669/cp-di-martignacco-1697/martignacco-362/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%2C%20Capoluogo%20di%20Martignacco%20%E2%80%94%20via%20Cividina",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria Assunta è la parrocchiale principale di Martignacco e rappresenta un notevole esempio di architettura religiosa neoromanica dei primi del Novecento. Edificata tra il 1909 e il 1925 per sostituire l'antica parrocchiale, presenta una maestosa facciata in mattoni rossi, ricchi rosoni vetrati e un interno basilicale con tre navate. È arricchita da importanti opere pittoriche e scultoree, tra cui pale d'altare di Giovanni Battista de Rubeis e vetrate istoriate di Alessandro Riccardi.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/martignacco.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maggiore (ex parrocchiale)",
+      "address": "Capoluogo di Martignacco — parte nord del paese",
+      "website_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maggiore_(Martignacco)",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maggiore%20(ex%20parrocchiale)%2C%20Capoluogo%20di%20Martignacco%20%E2%80%94%20parte%20nord%20del%20paese",
+      "image_url": null,
+      "description": "L'antica chiesa di Santa Maria Maggiore è il più significativo monumento storico-religioso di Martignacco, con radici che risalgono almeno al XVI secolo. Dopo essere stata a lungo abbandonata e adibita a fienile, è stata recentemente riconsacrata. L'edificio presenta una pianta a tre navate, facciata affrescata con i patroni e un campanile quattrocentesco; all'interno conservava un ricco patrimonio artistico, parte del quale è stato trasferito nella nuova parrocchiale.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/martignacco.md"
+    },
+    {
+      "name": "Chiesa dei Santi Martino Vescovo e Quirino Martire",
+      "address": "Frazioni di Nogaredo di Prato e Faugnacco — via IV Novembre 40",
+      "website_url": "https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-del-friuli-collinare-1669/cp-di-martignacco-1697/nogaredo-di-prato-faugnacco-363/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Martino%20Vescovo%20e%20Quirino%20Martire%2C%20Frazioni%20di%20Nogaredo%20di%20Prato%20e%20Faugnacco%20%E2%80%94%20via%20IV%20Novembre%2040",
+      "image_url": null,
+      "description": "Situata nelle frazioni meridionali di Nogaredo di Prato e Faugnacco, questa chiesa parrocchiale costituisce il centro spirituale della zona. È dedicata a San Martino Vescovo e a San Quirino Martire, secondo la tradizione friulana che unisce le due figure. L'edificio attuale riflette lo stile delle chiese rurali friulane moderne, realizzate o rinnovate tra Ottocento e Novecento.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/martignacco.md"
+    }
+  ]
+}

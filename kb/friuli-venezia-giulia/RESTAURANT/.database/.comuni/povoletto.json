@@ -1,0 +1,52 @@
+{
+  "comune_name": "Povoletto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md",
+  "extracted_at": "2026-04-09T11:12:44.796Z",
+  "pois": [
+    {
+      "name": "Arcadia – Ristorante Pizzeria",
+      "address": "Via Udine 13, Povoletto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Arcadia%20%E2%80%93%20Ristorante%20Pizzeria%2C%20Via%20Udine%2013%2C%20Povoletto%20(UD)",
+      "image_url": null,
+      "description": "L'Arcadia è il principale ristorante-pizzeria di Povoletto, a conduzione familiare e situato lungo la via principale. Propone cucina italiana tradizionale e pizze al forno, con una carta che spazia dai piatti friulani ai grandi classici nazionali. L'ambiente è informale e accogliente, ideale per famiglie, gruppi e lavoratori della zona. Il locale è noto per le sue pizze generose e per un'offerta stagionale attenta ai prodotti locali.",
+      "comune_name": "Povoletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md"
+    },
+    {
+      "name": "Mamma che Pizza",
+      "address": "Via Roma 8, Povoletto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mamma%20che%20Pizza%2C%20Via%20Roma%208%2C%20Povoletto%20(UD)",
+      "image_url": null,
+      "description": "Mamma che Pizza è una pizzeria da asporto situata nel centro di Povoletto, ideale per chi desidera una pizza veloce e informale. Le pizze, preparate artigianalmente, spaziano dalle classiche a varianti con ingredienti locali. Il locale ha un'impostazione semplice e risponde alle esigenze quotidiane degli abitanti, offrendo un'alternativa economica alla cucina casalinga.",
+      "comune_name": "Povoletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md"
+    },
+    {
+      "name": "Bar Trattoria da Ognibene",
+      "address": "Località: Siacco, Povoletto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20da%20Ognibene%2C%20Localit%C3%A0%3A%20Siacco%2C%20Povoletto%20(UD)",
+      "image_url": null,
+      "description": "Il Bar Trattoria da Ognibene si trova nella frazione di Siacco ed è un punto di riferimento per la comunità, fungendo sia da bar che da trattoria con cucina friulana casalinga. L'atmosfera è quella familiare e autentica dei paesi friulani, dove si servono minestre, paste fatte in casa e secondi piatti semplici secondo la disponibilità del giorno. È il classico locale di aggregazione delle piccole frazioni, con prezzi popolari.",
+      "comune_name": "Povoletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md"
+    },
+    {
+      "name": "Pizzeria Capriccio",
+      "address": "Località: Primulacco, Povoletto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Capriccio%2C%20Localit%C3%A0%3A%20Primulacco%2C%20Povoletto%20(UD)",
+      "image_url": null,
+      "description": "La Pizzeria Capriccio si trova nella frazione di Primulacco ed è un piccolo locale di quartiere apprezzato soprattutto dagli abitanti delle zone rurali circostanti. Propone un'offerta essenziale di pizze e qualche piatto del giorno, mantenendo una forte vocazione di servizio di prossimità. È un punto di aggregazione semplice ma importante per la socialità locale.",
+      "comune_name": "Povoletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/povoletto.md"
+    }
+  ]
+}

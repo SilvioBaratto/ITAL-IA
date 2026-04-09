@@ -1,0 +1,151 @@
+{
+  "comune_name": "Morsano al Tagliamento",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md",
+  "extracted_at": "2026-04-09T11:08:00.533Z",
+  "pois": [
+    {
+      "name": "Al Ponte Osteria Pizzeria",
+      "address": null,
+      "website_url": "https://al-ponte-osteria-pizzeria.wheree.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Ponte%20Osteria%20Pizzeria%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Al Ponte Osteria Pizzeria si distingue come riferimento gastronomico locale con una cucina friulana e italiana e uno speciale forno a legna per pizze dal carattere croccante e leggero. È valutato come il miglior ristorante di Morsano al Tagliamento su TripAdvisor, apprezzato per la qualità degli ingredienti e la varietà del menù, che include anche preparazioni di pasta e calzoni. L'atmosfera familiare rende il locale adatto sia a gruppi che a famiglie, offrendo anche servizio d'asporto.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Osteria al Tagliamento di Driussi Gustavo",
+      "address": "Via Interna 57, 33075 Morsano al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Tagliamento%20di%20Driussi%20Gustavo%2C%20Via%20Interna%2057%2C%2033075%20Morsano%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria al Tagliamento è un locale autentico e accogliente, apprezzato dalla comunità e valutato molto positivamente su Restaurant Guru. Propone cucina tradizionale friulana, ampia scelta di bevande ed è dotata di aree all'aperto e giochi da bar, rendendola ideale per gruppi e compagnie. Il locale offre inoltre consegna a domicilio ed è pet-friendly.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Ristorante da Toni",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20da%20Toni%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Ristorante da Toni è considerato tra i migliori ristoranti del comune per chi cerca un'esperienza autentica di cucina friulana. Il locale è rinomato per la proposta di piatti tradizionali, con particolare attenzione alle specialità a base di oca e agli ingredienti locali stagionali.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Bar Trattoria Re della Griglia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Re%20della%20Griglia%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Bar Trattoria Re della Griglia propone specialità alla griglia e piatti tipici della cucina friulana in un ambiente informale. È una scelta adatta a chi desidera gustare preparazioni semplici e legate al territorio.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Bar Trattoria La Pergola",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20La%20Pergola%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Bar Trattoria La Pergola è una trattoria dal carattere informale che offre piatti della tradizione locale friulana. Rappresenta una valida alternativa per chi cerca un ambiente semplice e familiare.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Trattoria Bellomo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Bellomo%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Trattoria Bellomo mantiene vive le ricette tradizionali friulane, proponendo una cucina radicata nel territorio. L'atmosfera è quella tipica delle trattorie storiche del Comune.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Trattoria da Carmelo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Carmelo%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Trattoria da Carmelo offre una cucina autentica e legata alle tradizioni friulane, dedicandosi alla preparazione di piatti tipici del territorio. L'ambiente richiama la semplicità e l'ospitalità locale.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Osteria La Ferrata",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La%20Ferrata%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Osteria La Ferrata si distingue per la sua atmosfera tipica da osteria tradizionale friulana, offrendo una proposta enogastronomica radicata nella cultura del territorio. È un punto di ritrovo per chi apprezza la convivialità e i sapori locali.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Alla Tavernetta da Aligi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Tavernetta%20da%20Aligi%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Alla Tavernetta da Aligi è un locale che richiama la tipica atmosfera delle tavernette friulane. Propone specialità della tradizione, in un ambiente tradizionalmente accogliente e conviviale.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria Ristorante da Alfonso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ristorante%20da%20Alfonso%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Pizzeria Ristorante da Alfonso combina l'offerta di pizzeria e ristorante, proponendo una varietà di piatti in linea con la tradizione friulana e italiana. È adatta a chi cerca sia pizza che cucina locale in un unico locale.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Trattoria La Braida",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20Braida%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Trattoria La Braida è inserita tra le migliori trattorie di Morsano al Tagliamento, nota per la cucina tradizionale friulana e per la valorizzazione delle ricette tipiche del territorio.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "Trattoria La Vechia Padella",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20Vechia%20Padella%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "Trattoria La Vechia Padella rievoca le tradizioni culinarie friulane proponendo piatti legati alla storia gastronomica locale. Il nome stesso richiama la cucina di una volta, semplice e genuina.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    },
+    {
+      "name": "La Fornace (Fornâs Fattoria Ruspante)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Fornace%20(Forn%C3%A2s%20Fattoria%20Ruspante)%2C%20Morsano%20al%20Tagliamento",
+      "image_url": null,
+      "description": "La Fornace, anche nota come Fornâs Fattoria Ruspante, propone un'esperienza agrituristica con servizio di ristorazione. Qui vengono valorizzati i prodotti locali e le ricette della tradizione friulana in un contesto rurale.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/morsano-al-tagliamento.md"
+    }
+  ]
+}

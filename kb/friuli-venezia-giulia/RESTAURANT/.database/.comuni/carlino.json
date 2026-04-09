@@ -1,0 +1,96 @@
+{
+  "comune_name": "Carlino",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md",
+  "extracted_at": "2026-04-09T10:56:48.129Z",
+  "pois": [
+    {
+      "name": "Centoundici Osteria Futurista",
+      "address": "Piazza San Rocco 35",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centoundici%20Osteria%20Futurista%2C%20Piazza%20San%20Rocco%2035",
+      "image_url": null,
+      "description": "Centoundici Osteria Futurista offre una cucina friulana reinterpretata in chiave contemporanea, con piatti freschi, opzioni vegetariane e senza glutine. L'atmosfera è accogliente e informale, dotata di servizi come Wi-Fi e parcheggio, e il prezzo medio si aggira intorno ai 28 euro. Il locale è apprezzato per la qualità e creatività, con ottime valutazioni su TheFork e Restaurant Guru.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "Alla Risata",
+      "address": "Tra via Marano 94",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Risata%2C%20Tra%20via%20Marano%2094",
+      "image_url": null,
+      "description": "Alla Risata è una trattoria storica a conduzione familiare che occupa il primo posto tra i ristoranti locali su TripAdvisor. La cucina si basa su prodotti tipici della laguna e pesce fresco, con paste e dolci fatti in casa. Il locale è rinomato per la sua autenticità e la ricchezza delle proposte di mare, ed è una tappa obbligatoria per chi cerca cucina lagunare tradizionale.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "Il Gardilin",
+      "address": "Piazza San Rocco 35",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Gardilin%2C%20Piazza%20San%20Rocco%2035",
+      "image_url": null,
+      "description": "Il Gardilin propone una cucina familiare e genuina, con piatti basati sulla freschezza e stagionalità degli ingredienti portati dai pescatori locali. Il pesce viene cucinato in modo creativo, mentre la carne è selezionata con attenzione. Il locale è gestito con grande cortesia e offre un'atmosfera calorosa e accogliente.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "19E89 - Birreria Paninoteca con Cucina Tipica",
+      "address": "Via IV Novembre 34",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=19E89%20-%20Birreria%20Paninoteca%20con%20Cucina%20Tipica%2C%20Via%20IV%20Novembre%2034",
+      "image_url": null,
+      "description": "19E89 è una birreria paninoteca con cucina tipica locale, ideale per chi cerca una cena o aperitivo informale e autentico. Il menu include panini e specialità del territorio, con un'atmosfera moderna e accogliente. Il locale è molto apprezzato dagli abitanti per la qualità delle preparazioni e la genuinità dei prodotti.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "Alla Laguna - Vedova Raddi",
+      "address": "Piazza Garibaldi 1 a Marano Lagunare",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Laguna%20-%20Vedova%20Raddi%2C%20Piazza%20Garibaldi%201%20a%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "Alla Laguna - Vedova Raddi è una trattoria storica che affonda le radici nella tradizione gastronomica lagunare, fondata nel 1938 e gestita per generazioni dalla famiglia Raddi. Offre piatti tipici come anguille, granchi e calamari freschi direttamente dai pescatori. Il locale, affacciato sul porto, è riconosciuto dall'Accademia Italiana della Cucina per l'eccellenza e l'autenticità, con prezzi tra 46 e 65 euro.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "Ai Tre Canai",
+      "address": "Via Udine 36 a Marano Lagunare",
+      "website_url": "https://www.ristoranteaitrecanai.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Tre%20Canai%2C%20Via%20Udine%2036%20a%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "Ai Tre Canai è un ristorante affacciato sulla laguna, guidato dallo chef Giorgio dal Forno, pescatore di lunga esperienza. Il locale si distingue per il piatto signature 'Bisato in speo', anguilla allo spiedo preparata secondo la tradizione friulana. Offre menu per celiaci, una cucina basata sulla freschezza e stagionalità dei prodotti, ed è riconosciuto dall'Accademia Italiana della Cucina. Il prezzo medio va dai 36 ai 45 euro.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "Bar Trattoria alla Nave Mami",
+      "address": "Piazza Marii 9 a Marano Lagunare",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20alla%20Nave%20Mami%2C%20Piazza%20Marii%209%20a%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "Bar Trattoria alla Nave Mami offre cucina a base di prodotti ittici locali freschi, preparati quotidianamente dai pescatori della laguna. Il locale è apprezzato per i piatti di pesce e l'atmosfera accogliente, con recensioni positive su vari portali. È una scelta autentica per chi desidera assaporare il pesce fresco in un ambiente sereno.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    },
+    {
+      "name": "Taverna al Pescatore",
+      "address": "Via San Vito 18 a Marano Lagunare",
+      "website_url": "https://www.tavernaalpescatore.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Taverna%20al%20Pescatore%2C%20Via%20San%20Vito%2018%20a%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "Taverna al Pescatore è una taverna storica a gestione familiare, specializzata in pesce locale fresco preparato secondo la stagionalità. Il locale propone circa 27 piatti e bevande, con specialità di alici crudo e una selezione di vini regionali. L'atmosfera è semplice e legata al paesaggio lagunare, con ottime valutazioni su TripAdvisor e Restaurant Guru.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/carlino.md"
+    }
+  ]
+}

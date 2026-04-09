@@ -1,0 +1,30 @@
+{
+  "comune_name": "Fanna",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fanna.md",
+  "extracted_at": "2026-04-09T10:47:47.136Z",
+  "pois": [
+    {
+      "name": "Biblioteca Civica \"Vittorio Cadel\"",
+      "address": "Piazza V. De Michiel, 1 – 33092 Fanna (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20%22Vittorio%20Cadel%22%2C%20Piazza%20V.%20De%20Michiel%2C%201%20%E2%80%93%2033092%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "La Biblioteca Civica \"Vittorio Cadel\" è il principale centro culturale di Fanna, dedicata a una figura locale di rilievo. Fa parte della rete bibliotecaria provinciale di Pordenone e offre servizi di prestito, consultazione e promozione della lettura per tutte le età. Il suo patrimonio librario valorizza in particolare la storia locale, con testi e documentazione d’archivio, ed è anche sede di incontri culturali e commemorativi legati alla comunità.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fanna.md"
+    },
+    {
+      "name": "Santuario della Madonna di Strada",
+      "address": "Località Madonna di Strada – 33092 Fanna (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20di%20Strada%2C%20Localit%C3%A0%20Madonna%20di%20Strada%20%E2%80%93%2033092%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "Il Santuario della Madonna di Strada, situato nell’omonima località di Fanna, rappresenta il principale monumento storico-artistico del comune. Pur non essendo un museo vero e proprio, conserva elementi architettonici e artistici rilevanti e si distingue come polo devozionale e meta di pellegrinaggi nelle festività mariane. L’edificio testimonia la continuità del culto mariano sin dal Medioevo, immerso in un suggestivo contesto paesaggistico prealpino.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fanna.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Carlino",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/carlino.md",
+  "extracted_at": "2026-04-09T10:37:23.373Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Tommaso Apostolo (detto Becket)",
+      "address": "Piazza della Chiesa, Carlino (UD)",
+      "website_url": "http://www.comune.carlino.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Tommaso%20Apostolo%20(detto%20Becket)%2C%20Piazza%20della%20Chiesa%2C%20Carlino%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di Carlino, dedicata a San Tommaso Apostolo detto Becket, è un esempio di architettura del XVIII secolo con tratti barocchi e neoclassici. L'edificio, a navata unica con cappelle laterali, custodisce una tela attribuita al pittore Michelangelo Grigoletti, importante testimonianza artistica per la comunità locale. Il campanile affianca con imponenza la chiesa, che è punto di riferimento per la vita religiosa e civile del paese. Il patrono san Tommaso viene celebrato ogni 21 dicembre.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/carlino.md"
+    },
+    {
+      "name": "Chiesa dei Santi Gervasio e Protasio — Frazione di San Gervasio",
+      "address": "Via San Gervasio, San Gervasio — Carlino (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Gervasio%20e%20Protasio%20%E2%80%94%20Frazione%20di%20San%20Gervasio%2C%20Via%20San%20Gervasio%2C%20San%20Gervasio%20%E2%80%94%20Carlino%20(UD)",
+      "image_url": null,
+      "description": "Situata nella frazione di San Gervasio, questa chiesa rappresenta il più antico edificio di culto del territorio di Carlino, con origini ipotetiche nel IX secolo e importanti rifacimenti tra il Cinquecento e il Novecento. L’edificio, di stile rurale devozionale, riflette la storia religiosa della comunità, caratterizzata dalla devozione ai santi milanesi Gervasio e Protasio. Raccolta e sobria, la chiesa funge da simbolo di memoria collettiva e spiritualità nei secoli.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/carlino.md"
+    }
+  ]
+}

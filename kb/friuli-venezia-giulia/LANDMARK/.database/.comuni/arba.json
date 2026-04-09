@@ -1,0 +1,52 @@
+{
+  "comune_name": "Arba",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/arba.md",
+  "extracted_at": "2026-04-09T10:32:42.273Z",
+  "pois": [
+    {
+      "name": "Chiesa Arcipretale di San Michele Arcangelo",
+      "address": "Piazza IV Novembre / Via Vittorio Emanuele, 2",
+      "website_url": "https://www.pordenonewithlove.it/it/cosa-fare/cultura/architetture/chiesa-di-s-michele-arcangelo-arba",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Arcipretale%20di%20San%20Michele%20Arcangelo%2C%20Piazza%20IV%20Novembre%20%2F%20Via%20Vittorio%20Emanuele%2C%202",
+      "image_url": null,
+      "description": "La Chiesa Arcipretale di San Michele Arcangelo è il principale monumento di Arba, con origini medievali e una ricostruzione neoclassica tra il 1836 e il 1857. L'edificio, caratterizzato da una facciata sobria e monumentale, si distingue per il campanile in laterizio e un interno ricco di opere d'arte che spaziano dal Settecento al Novecento. La chiesa rappresenta un punto di riferimento visivo e artistico per la vallata ed è rinomata per la sua coerenza stilistica e le numerose testimonianze artistiche.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/arba.md"
+    },
+    {
+      "name": "La Cortina Medievale di Arba",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Cortina%20Medievale%20di%20Arba%2C%20Arba",
+      "image_url": null,
+      "description": "La Cortina Medievale di Arba era una cinta muraria che racchiudeva il nucleo originario del centro storico, attestata già dal 1379 e restaurata nel 1571. Sebbene oggi non sia più visibile, la sua impronta rimane nella planimetria delle vie e nell'allineamento degli edifici, rappresentando un esempio di insediamento medievale friulano 'chiuso'. Una passeggiata nel borgo permette di leggere la logica spaziale dell'antico recinto, che definiva non solo i confini militari ma anche quelli giuridici e comunitari del villaggio.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/arba.md"
+    },
+    {
+      "name": "Tumuli Funerari di Marcisinas",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tumuli%20Funerari%20di%20Marcisinas%2C%20Arba",
+      "image_url": null,
+      "description": "I Tumuli Funerari di Marcisinas, a sud di Arba, risalgono all'Età del Bronzo e sono cumuli di terra posti sopra antiche sepolture. Questi monumenti sono la più antica testimonianza di presenza umana nel territorio e illustrano il popolamento preistorico della zona pedemontana pordenonese. La località è di interesse per chi si dedica all'archeologia preistorica del Friuli, pur non disponendo di strutture museali o didattiche dedicate.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/arba.md"
+    },
+    {
+      "name": "Chiesa di San Gottardo (frazione Colle)",
+      "address": "parte alta della frazione",
+      "website_url": "https://it.wikipedia.org/wiki/Colle_(Arba)",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Gottardo%20(frazione%20Colle)%2C%20parte%20alta%20della%20frazione",
+      "image_url": null,
+      "description": "La Chiesa di San Gottardo, situata nella frazione Colle di Arba, ha origini almeno dal 1441 ed è stata ricostruita nel 1987 dopo il terremoto del Friuli. L'edificio attuale presenta uno stile contemporaneo, risultato della ricostruzione post-sismica, e conserva una pregevole cattedra lignea settecentesca recuperata dalle rovine della chiesa distrutta. La posizione panoramica sulla parte alta di Colle offre vedute suggestive sul Meduna e sui Magredi, aggiungendo valore paesaggistico alla visita.",
+      "comune_name": "Arba",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/arba.md"
+    }
+  ]
+}

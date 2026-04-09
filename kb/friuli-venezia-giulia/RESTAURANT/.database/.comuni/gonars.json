@@ -1,0 +1,96 @@
+{
+  "comune_name": "Gonars",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md",
+  "extracted_at": "2026-04-09T11:03:50.569Z",
+  "pois": [
+    {
+      "name": "La Da Gigiote",
+      "address": "Via Roma 75 a Gonars",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Da%20Gigiote%2C%20Via%20Roma%2075%20a%20Gonars",
+      "image_url": null,
+      "description": "La Da Gigiote è il ristorante più rinomato di Gonars, celebre per la sua specializzazione in carne alla griglia e spesso al primo posto nelle classifiche locali. Il locale, a conduzione familiare, offre antipasti di prodotti genuini e tagli di carne di eccellente provenienza, con le famose patate di Benita e il rosé locale 'Gonars rose'. L'atmosfera è informale e accogliente, ideale per chi cerca la qualità senza fronzoli. È consigliata la prenotazione per la cena data la grande popolarità del posto.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "Civico 30",
+      "address": "Via Trieste 30",
+      "website_url": "https://ristorantecivico30.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Civico%2030%2C%20Via%20Trieste%2030",
+      "image_url": null,
+      "description": "Civico 30 è un ristorante moderno situato in un locale storico risalente al 1809, recentemente rinnovato per offrire un'esperienza elegante e contemporanea. La cucina propone piatti creativi con ingredienti freschi, inclusi menu vegetariani, vegani, di carne e pesce, accompagnati da una selezione di vini curata. Lo chef Riccardo si distingue per le degustazioni guidate di bourbon e whisky. Il servizio è professionale e l'ambiente raffinato, con una valutazione altissima sulle principali piattaforme.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "Trattoria Pola",
+      "address": "Piazza Battisti 8, a Gonars",
+      "website_url": "http://www.trattoriapola.altervista.org/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pola%2C%20Piazza%20Battisti%208%2C%20a%20Gonars",
+      "image_url": null,
+      "description": "Trattoria Pola è una storica trattoria di Gonars apprezzata per la sua atmosfera rustica e conviviale. Il menu valorizza la cucina friulana, con piatti come frico, anguilla di fiume, branzino e spaghetti con pescatrice, il tutto in porzioni generose. Il locale offre tavoli interni ed esterni, parcheggio e accessibilità. È altamente valutata per l'autenticità, la tradizione e il rapporto qualità-prezzo.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "STAPPO Wine&Food",
+      "address": "Via Gorizia 28",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=STAPPO%20Wine%26Food%2C%20Via%20Gorizia%2028",
+      "image_url": null,
+      "description": "STAPPO Wine&Food è un locale versatile che fonde wine bar, pub e ristorante rotisserie, noto per panini di qualità, cucina rotisserie e una selezione attenta di vini, birre e cocktail. Propone cucina italiana e mediterranea, inclusa un'offerta per celiaci, ed è ideale sia per cene informali che per eventi e buffet. L'ambiente è rilassato e il servizio amichevole, con prezzi medi.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "Osteria Li Di Prime",
+      "address": "Via Roma 5",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Li%20Di%20Prime%2C%20Via%20Roma%205",
+      "image_url": null,
+      "description": "Osteria Li Di Prime è un punto di riferimento della tradizione locale, rilanciato di recente con una gestione più contemporanea. È nota per le degustazioni enologiche di vini friulani e una cucina che fonde piatti friulani con un approccio moderno. L'atmosfera è accogliente e sociale, diventando punto d'incontro per la comunità. Ha ottenuto ottime recensioni per ambiente e qualità.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "Bar Trattoria Al Bassanello",
+      "address": "Via Trieste 30",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Al%20Bassanello%2C%20Via%20Trieste%2030",
+      "image_url": null,
+      "description": "Bar Trattoria Al Bassanello è un locale storico e informale che offre colazione, pranzo e cena in uno spirito da vera trattoria di paese. Propone cucina italiana tradizionale e, occasionalmente, piatti bangladesi, in un ambiente semplice e accogliente. È ideale per famiglie e gruppi, con una lunga storia nella comunità locale e offerte adatte anche per asporto.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "DA RENZO Trattoria-Pizzeria",
+      "address": "Via Filippo Corridoni 37",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=DA%20RENZO%20Trattoria-Pizzeria%2C%20Via%20Filippo%20Corridoni%2037",
+      "image_url": null,
+      "description": "DA RENZO è una trattoria-pizzeria famosa per il suo vasto menu di 70 varietà di pizze, preparate in un ambiente informale e accogliente. Oltre alle pizze, offre piatti della tradizione friulana semplici e gustosi, con particolare attenzione a porzioni abbondanti e qualità degli ingredienti. Il locale è ideale per cene tra amici e famiglie, con prezzi accessibili e servizio cordiale.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    },
+    {
+      "name": "Trattoria Levade (Castions di Strada)",
+      "address": "SS 353 Udine-Lignano 64, Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Levade%20(Castions%20di%20Strada)%2C%20SS%20353%20Udine-Lignano%2064%2C%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Levade, anche se si trova a Castions di Strada, è spesso raccomandata tra i ristoranti della zona di Gonars. Dal 1979 si distingue per le carni alla griglia, la pizza e un'atmosfera informale circondata da un ampio parco. Il locale è ideale per famiglie, grazie all'area giochi e al parcheggio, offrendo anche un servizio di rosticceria da asporto.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/gonars.md"
+    }
+  ]
+}

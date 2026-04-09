@@ -1,0 +1,63 @@
+{
+  "comune_name": "Mossa",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mossa.md",
+  "extracted_at": "2026-04-09T11:09:02.995Z",
+  "pois": [
+    {
+      "name": "Trattoria Blanch — Il Faro della Tradizione",
+      "address": "Via Blanchis, 35 - 34070 Mossa (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Blanch%20%E2%80%94%20Il%20Faro%20della%20Tradizione%2C%20Via%20Blanchis%2C%2035%20-%2034070%20Mossa%20(GO)",
+      "image_url": null,
+      "description": "La Trattoria Blanch è un punto di riferimento storico della cucina friulana nel Collio, fondata nel 1904 e gestita dalla stessa famiglia da quattro generazioni. Il locale propone una cucina tradizionale con piatti stagionali, specialità fatte in casa come i famosi blecs cil gjal, paste ripiene, selvaggina e dolci tipici tra cui la rinomata millefoglie. L'ambiente è familiare, con giardino estivo e spazi adatti a eventi privati; l'atmosfera calda e la qualità degli ingredienti rendono questo ristorante un luogo imprescindibile per conoscere la vera cucina rurale locale.",
+      "comune_name": "Mossa",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mossa.md"
+    },
+    {
+      "name": "Vecchie Province — Trattoria \"dal Mic\"",
+      "address": "Via Pietro Zorutti, 18 - 34070 Mossa (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vecchie%20Province%20%E2%80%94%20Trattoria%20%22dal%20Mic%22%2C%20Via%20Pietro%20Zorutti%2C%2018%20-%2034070%20Mossa%20(GO)",
+      "image_url": null,
+      "description": "Vecchie Province, iscritta all'Accademia Italiana della Cucina, è considerata il miglior ristorante di Mossa grazie al suo approccio innovativo alla tradizione regionale. Il ristorante offre un'esperienza \"all you can eat\" con menù carne o pesce composto da una dozzina di piccoli piatti ricercati, tra cui stoccafisso in crema, calamari croccanti e frico friulano. L'atmosfera è informale e accogliente, ideale per famiglie e gruppi, mentre la qualità delle preparazioni e la valorizzazione delle ricette di confine rendono il locale molto apprezzato.",
+      "comune_name": "Mossa",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mossa.md"
+    },
+    {
+      "name": "Osteria Codelli23 — Fusione Triestina e Friulana",
+      "address": "Via dei Codelli, 23 - 34070 Mossa (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Codelli23%20%E2%80%94%20Fusione%20Triestina%20e%20Friulana%2C%20Via%20dei%20Codelli%2C%2023%20-%2034070%20Mossa%20(GO)",
+      "image_url": null,
+      "description": "Osteria Codelli23 si trova nella suggestiva cornice di Villa Codelli e propone una cucina che unisce la tradizione triestina, orientata verso il pesce, con quella friulana, basata sulle carni. L'esperienza gastronomica si completa con una ricca selezione di vini locali del Collio e Carso. L'atmosfera familiare, l'accoglienza calorosa e la cura nella selezione degli ingredienti valorizzano la genuinità della cucina territoriale; la recente riapertura ha portato entusiasmo e qualità, come evidenziano anche le ottime recensioni.",
+      "comune_name": "Mossa",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mossa.md"
+    },
+    {
+      "name": "Azienda Agricola Zorzenon — Agriturismo a Km0",
+      "address": "Via Campi, 5 - 34070 Mossa (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Azienda%20Agricola%20Zorzenon%20%E2%80%94%20Agriturismo%20a%20Km0%2C%20Via%20Campi%2C%205%20-%2034070%20Mossa%20(GO)",
+      "image_url": null,
+      "description": "L'Azienda Agricola Zorzenon incarna lo spirito dell'agriturismo friulano: produce e trasforma in proprio olive, verdure, carni e vini, garantendo una cucina rustica e autentica a Km0. Il menu propone piatti tipici friulani e vini aziendali in un ambiente accessibile, accogliente e adatto anche a gruppi numerosi. Il locale offre anche piatti freddi e consegne a domicilio, mantenendo un forte legame con la tradizione contadina del territorio.",
+      "comune_name": "Mossa",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mossa.md"
+    },
+    {
+      "name": "Capricciò di Mossa — Pizzeria d'Eccellenza",
+      "address": "Via Olivers, 66 - 34070 Mossa (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Capricci%C3%B2%20di%20Mossa%20%E2%80%94%20Pizzeria%20d'Eccellenza%2C%20Via%20Olivers%2C%2066%20-%2034070%20Mossa%20(GO)",
+      "image_url": null,
+      "description": "Capricciò è una pizzeria moderna specializzata nella pizza al taglio, anche d'asporto, situata al centro di Mossa. Le pizze sono celebri per gli impasti leggeri e altamente digeribili, realizzati con ingredienti di qualità superiore e cottura meticolosa. Il locale integra pizzeria, bar e gelateria, offrendo un servizio veloce, un ambiente accogliente e prezzi accessibili, ottenendo riconoscimenti eccellenti sia dai clienti che dalla critica.",
+      "comune_name": "Mossa",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mossa.md"
+    }
+  ]
+}

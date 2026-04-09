@@ -1,0 +1,52 @@
+{
+  "comune_name": "Lignano Sabbiadoro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lignano-sabbiadoro.md",
+  "extracted_at": "2026-04-09T10:49:55.127Z",
+  "pois": [
+    {
+      "name": "Terrazza a Mare — Architettura neo-espressionista come spazio espositivo",
+      "address": "Lungomare Trieste, 33054 Lignano Sabbiadoro (UD) — quartiere Sabbiadoro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Terrazza%20a%20Mare%20%E2%80%94%20Architettura%20neo-espressionista%20come%20spazio%20espositivo%2C%20Lungomare%20Trieste%2C%2033054%20Lignano%20Sabbiadoro%20(UD)%20%E2%80%94%20quartiere%20Sabbiadoro",
+      "image_url": null,
+      "description": "La Terrazza a Mare è il simbolo architettonico di Lignano Sabbiadoro e un esempio di architettura neo-espressionista degli anni '70, progettata da Marcello D'Olivo e Aldo Bernardis. Iconica per la sua struttura a conchiglia e il lungo molo a sbalzo, funge da belvedere e spazio polifunzionale e ha ospitato mostre, rassegne culturali ed eventi pubblici. Attualmente è chiusa per lavori di riqualificazione, ma storicamente è il cuore della vita artistica e sociale cittadina.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria del Mare — Arte sacra medievale e rinascimentale",
+      "address": "Via GETUR, Lignano Pineta, 33054 Lignano Sabbiadoro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20del%20Mare%20%E2%80%94%20Arte%20sacra%20medievale%20e%20rinascimentale%2C%20Via%20GETUR%2C%20Lignano%20Pineta%2C%2033054%20Lignano%20Sabbiadoro%20(UD)",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria del Mare, originaria di Bevazzana e trasferita a Lignano Pineta negli anni '60, custodisce importanti opere di arte sacra dal XV secolo, tra cui affreschi, sculture e reperti paleocristiani. Spiccano una Madonna in pietra attribuita a Pilacorte e un ciclo di affreschi tardogotici nell'abside, oltre a reperti di età romana. È visitabile durante le funzioni religiose e rappresenta il principale scrigno artistico del comune.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Giovanni Bosco — Architettura sacra del secondo Novecento",
+      "address": "Viale Europa, 33054 Lignano Sabbiadoro (UD) — quartiere Sabbiadoro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giovanni%20Bosco%20%E2%80%94%20Architettura%20sacra%20del%20secondo%20Novecento%2C%20Viale%20Europa%2C%2033054%20Lignano%20Sabbiadoro%20(UD)%20%E2%80%94%20quartiere%20Sabbiadoro",
+      "image_url": null,
+      "description": "La chiesa di San Giovanni Bosco è il principale luogo di culto di Lignano Sabbiadoro e rappresenta l'architettura sacra moderna della città. Ricostruita nel dopoguerra e rinnovata tra gli anni '80 e '90, ospita durante l'estate concerti di musica sacra. L'edificio si articola su due livelli, con un'ampia chiesa superiore dedicata alla Madonna dell'Adriatico e una cripta inferiore che conserva l'intitolazione a San Giovanni Bosco.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Lignano Pineta — La Chiocciola di Marcello D'Olivo: patrimonio dell'urbanistica moderna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lignano%20Pineta%20%E2%80%94%20La%20Chiocciola%20di%20Marcello%20D'Olivo%3A%20patrimonio%20dell'urbanistica%20moderna%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Il quartiere Lignano Pineta, progettato dall'architetto Marcello D'Olivo nel 1953, è un esempio unico di urbanistica moderna, celebre per la sua pianta a spirale ispirata alla natura. Realizzato tra il 1953 e il 1955, è considerato un museo a cielo aperto dell'architettura organica italiana, con strade curve immerse nella pineta. Ancora oggi, passeggiare tra le sue vie permette di scoprire l'utopia modernista e la volontà di integrazione tra città e ambiente.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lignano-sabbiadoro.md"
+    }
+  ]
+}

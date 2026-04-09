@@ -1,0 +1,41 @@
+{
+  "comune_name": "Grimacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grimacco.md",
+  "extracted_at": "2026-04-09T10:49:33.895Z",
+  "pois": [
+    {
+      "name": "Museo Etnografico Mario Ruttar — Clodig",
+      "address": "via Clodig, 33040 Grimacco (UD)",
+      "website_url": "http://www.comune.grimacco.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Etnografico%20Mario%20Ruttar%20%E2%80%94%20Clodig%2C%20via%20Clodig%2C%2033040%20Grimacco%20(UD)",
+      "image_url": null,
+      "description": "Il Museo Etnografico Mario Ruttar si trova nell'edificio del municipio di Clodig e raccoglie attrezzi e manufatti che testimoniano le attività rurali e domestiche delle Valli del Cosizza e del Natisone tra XIX e XX secolo. Tra le particolarità figurano oggetti legati al kozolec, tipica struttura rurale slovena, e strumenti per la vita quotidiana montana. Il museo, fortemente legato alla comunità locale, è frutto della collaborazione con circoli culturali che promuovono la ricerca sulla Slavia veneta. La visita è possibile su richiesta al Comune di Grimacco.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grimacco.md"
+    },
+    {
+      "name": "Museo Caseario dell'ex Latteria Sociale — Plataz",
+      "address": "via Clodig, 33040 Grimacco (UD)",
+      "website_url": "http://www.comune.grimacco.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Caseario%20dell'ex%20Latteria%20Sociale%20%E2%80%94%20Plataz%2C%20via%20Clodig%2C%2033040%20Grimacco%20(UD)",
+      "image_url": null,
+      "description": "Situato nell'ex latteria sociale della frazione di Plataz, il Museo Caseario conserva strumenti, documenti e fotografie legati alla produzione di formaggio nelle Valli del Natisone. Offre una panoramica storica e materiale sulla lavorazione del latte e la cooperazione casearia locale, cultura che ha sostenuto per anni l'economia montana. La raccolta illustra anche la produzione tipica di formaggio Latteria e Montasio DOP, testimonianza di un passato comunitario ormai scomparso.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grimacco.md"
+    },
+    {
+      "name": "Stazione di Topolò / Postaja Topolove — Topolò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Stazione%20di%20Topol%C3%B2%20%2F%20Postaja%20Topolove%20%E2%80%94%20Topol%C3%B2%2C%20Grimacco",
+      "image_url": null,
+      "description": "La Stazione di Topolò è un festival internazionale di arte contemporanea che trasforma ogni estate il borgo di Topolò in un laboratorio artistico diffuso. Dal 1994 ospita mostre, installazioni e performance in spazi pubblici e case disabitate, valorizzando il dialogo tra arte, paesaggio e memoria locale. Tra i suoi punti di forza vi è anche un museo en plein air con dodici opere permanenti lungo il sentiero transfrontaliero verso Livek. Il festival ha reso Topolò un riferimento culturale nelle zone rurali del Friuli Venezia Giulia.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grimacco.md"
+    }
+  ]
+}

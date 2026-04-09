@@ -1,0 +1,19 @@
+{
+  "comune_name": "Chiopris Viscone",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiopris-viscone.md",
+  "extracted_at": "2026-04-09T10:09:33.905Z",
+  "pois": [
+    {
+      "name": "Bar Light — Viscone",
+      "address": "Via Palmarina, Viscone (Chiopris-Viscone), 33048 UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Light%20%E2%80%94%20Viscone%2C%20Via%20Palmarina%2C%20Viscone%20(Chiopris-Viscone)%2C%2033048%20UD",
+      "image_url": null,
+      "description": "Il Bar Light di Viscone è l'unico esercizio pubblico censito a Chiopris-Viscone e rappresenta il principale punto di ritrovo per i residenti delle due frazioni del comune. Situato lungo Via Palmarina, svolge la tradizionale funzione sociale del bar di paese: luogo di incontro per un caffè mattutino, partite a carte e conversazioni informali tra vicini. L'atmosfera è autentica e semplice, riflettendo lo stile diretto della pianura friulana, e il locale serve caffè come da tradizione, spesso accompagnato da croissant o panini confezionati nei momenti di maggiore affluenza.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/chiopris-viscone.md"
+    }
+  ]
+}

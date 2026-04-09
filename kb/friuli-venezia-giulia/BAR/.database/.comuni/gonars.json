@@ -1,0 +1,41 @@
+{
+  "comune_name": "Gonars",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/gonars.md",
+  "extracted_at": "2026-04-09T10:16:27.691Z",
+  "pois": [
+    {
+      "name": "Antico Borgo",
+      "address": "Piazza Municipio, 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antico%20Borgo%2C%20Piazza%20Municipio%2C%203",
+      "image_url": null,
+      "description": "Situato nel cuore di Gonars, Antico Borgo si affaccia sulla piazza del Municipio ed è un punto di riferimento per la comunità. Il locale offre la tipica colazione friulana con espresso, brioche e torte fatte in casa in un'atmosfera raccolta e familiare. È il luogo dove i residenti si ritrovano per leggere i giornali locali, giocare a carte e chiacchierare, sia al mattino sia durante l'aperitivo serale con spritz o vino locale accompagnati da stuzzichini semplici.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/gonars.md"
+    },
+    {
+      "name": "Bar Free Time",
+      "address": "Piazza San Rocco, 15",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Free%20Time%2C%20Piazza%20San%20Rocco%2C%2015",
+      "image_url": null,
+      "description": "Il Bar Free Time si trova nella seconda piazza principale di Gonars e unisce le funzioni di bar, pub e locale con cucina italiana. L'ambiente è giovane e informale, frequentato soprattutto dalle nuove generazioni del paese e delle zone vicine. Il locale è aperto dalla colazione fino alla sera, con una proposta che spazia dal caffè del mattino al pranzo veloce e all'aperitivo con birra artigianale o spritz, particolarmente animato il venerdì sera.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/gonars.md"
+    },
+    {
+      "name": "Bar Trattoria al Bassanello",
+      "address": "Via Trieste, 30",
+      "website_url": "https://www.facebook.com/BarTrattoriaAlBassanello",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20al%20Bassanello%2C%20Via%20Trieste%2C%2030",
+      "image_url": null,
+      "description": "Bar Trattoria al Bassanello è un locale storico di Gonars che funge sia da bar che da trattoria, con forte radicamento nella comunità locale. È noto per le sue colazioni, il pranzo della tradizione friulana e l’aperitivo pomeridiano, offrendo piatti tipici come frico, cjarsons, zuppe e carni alla brace. Un elemento distintivo è la vendita delle farine del Molino Moras, legando il locale alle tradizioni alimentari del territorio e alla spesa di qualità.",
+      "comune_name": "Gonars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/gonars.md"
+    }
+  ]
+}

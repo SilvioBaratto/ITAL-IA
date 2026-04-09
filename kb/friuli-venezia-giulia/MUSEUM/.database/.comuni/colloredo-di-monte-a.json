@@ -1,0 +1,85 @@
+{
+  "comune_name": "Colloredo di Monte a",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md",
+  "extracted_at": "2026-04-09T10:45:47.422Z",
+  "pois": [
+    {
+      "name": "Castello di Colloredo di Monte Albano",
+      "address": "Piazza Castello, 7 – 33010 Colloredo di Monte Albano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Colloredo%20di%20Monte%20Albano%2C%20Piazza%20Castello%2C%207%20%E2%80%93%2033010%20Colloredo%20di%20Monte%20Albano%20(UD)",
+      "image_url": null,
+      "description": "Il Castello di Colloredo di Monte Albano è un celebre maniero friulano di origini trecentesche, strettamente legato alla storia letteraria italiana: qui Ippolito Nievo scrisse \"Le confessioni d'un italiano\". Oltre al valore storico, il castello conserva affreschi attribuiti a Giovanni da Udine, allievo di Raffaello. L'edificio, gravemente danneggiato dal terremoto del 1976, è stato restaurato ed oggi è visitabile solo nell'esterno, mentre l'interno apre su richiesta o in occasione di eventi speciali.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Ruderi del Castello di Mels e Torre di Vedetta \"La Torate\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ruderi%20del%20Castello%20di%20Mels%20e%20Torre%20di%20Vedetta%20%22La%20Torate%22%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Il Castello di Mels è il più antico manufatto difensivo di Colloredo di Monte Albano, risalente al 1026 ma oggi ridotto a rudere dopo secoli di abbandono e il terremoto del 1976. Dal 1994 è stata ricostruita la torre di vedetta \"La Torate\", che offre un panorama eccezionale sulle colline friulane. Il sito è liberamente visitabile e rappresenta una significativa testimonianza della storia locale e del processo di ricostruzione post-sisma.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Cappella di Sant'Andrea (Castello di Mels)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20Sant'Andrea%20(Castello%20di%20Mels)%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Ricostruita nel 2009 nell'ambito del recupero del sito castellano di Mels, la cappella di Sant'Andrea ospita il rosone cinquecentesco originale e una pregiata pala d'altare di Gaspare Narvesa. È un raro esempio di arte friulana seicentesca, testimone di un prezioso patrimonio storico-artistico locale. La cappella è visitabile durante eventi o su richiesta al Comune.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Castello di Caporiacco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Caporiacco%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Il castello di Caporiacco, nella frazione omonima, ha una storia tormentata fatta di distruzioni e ricostruzioni dal Medioevo fino alla rinascita post-terremoto del 1976 grazie a un restauro filologico. La residenza, di proprietà privata e non accessibile al pubblico, si distingue per il suo valore architettonico e il ruolo nel paesaggio storico del comune.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Biagio (Colloredo capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Biagio%20(Colloredo%20capoluogo)%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Edificio neogotico realizzato a inizio Novecento, la chiesa parrocchiale di San Biagio custodisce notevoli cicli pittorici di Giuseppe Buzzi e Francesco Barazzutti. L'interno riflette il gusto artistico tardo-ottocentesco friulano, mentre la torre campanaria, originaria del 1866 e poi rialzata, arricchisce il complesso. È visitabile negli orari consueti del culto.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Chiesa di San Biagio di Mels (già chiesa del Castello di Colloredo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Biagio%20di%20Mels%20(gi%C3%A0%20chiesa%20del%20Castello%20di%20Colloredo)%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Questa chiesa, originaria del XIV secolo e ampliata tra Seicento e Settecento, è strettamente legata alla storia del castello di Colloredo e alla famiglia Colloredo Mels. Ospita all'interno pregevoli opere d'arte barocca frutto di commissioni nobiliari e ha subito restauri dopo il terremoto del 1976. È visitabile negli orari consueti del culto.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Chiesa dei Santi Zenone e Maria (Entesano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Zenone%20e%20Maria%20(Entesano)%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Documentata fin dal 1275, la chiesa dei Santi Zenone e Maria sorge poco fuori Entesano, lungo l'antica strada romana Iulia Concordia. Restaurata dopo il terremoto del 1976 e riaperta nel 2015, è uno dei luoghi di culto più antichi della zona, di particolare interesse storico e topografico. La visita è possibile in occasione di cerimonie o aperture speciali.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/colloredo-di-monte-a.md"
+    }
+  ]
+}

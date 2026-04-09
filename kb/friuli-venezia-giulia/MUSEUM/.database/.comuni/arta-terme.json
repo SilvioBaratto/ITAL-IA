@@ -1,0 +1,19 @@
+{
+  "comune_name": "Arta Terme",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/arta-terme.md",
+  "extracted_at": "2026-04-09T10:42:28.197Z",
+  "pois": [
+    {
+      "name": "Stabilimento Termale di Arta Terme — Patrimonio storico e architettura liberty",
+      "address": "Via delle Terme, 33022 Arta Terme (UD)",
+      "website_url": "http://www.comune.arta-terme.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Stabilimento%20Termale%20di%20Arta%20Terme%20%E2%80%94%20Patrimonio%20storico%20e%20architettura%20liberty%2C%20Via%20delle%20Terme%2C%2033022%20Arta%20Terme%20(UD)",
+      "image_url": null,
+      "description": "Lo Stabilimento Termale di Arta Terme non è un museo ma costituisce un significativo luogo di interesse storico e architettonico per il comune. Il complesso attuale, risalente agli inizi del Novecento, si distingue per l'architettura liberty e l'atmosfera delle antiche stazioni termali alpine. Attorno alle terme si sviluppa la tradizione turistica e curativa di Arta Terme, arricchita da elementi ambientali e testimonianze storiche sulla cultura termale friulana.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/arta-terme.md"
+    }
+  ]
+}

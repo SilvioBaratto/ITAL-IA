@@ -1,0 +1,41 @@
+{
+  "comune_name": "Chiopris Viscone",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiopris-viscone.md",
+  "extracted_at": "2026-04-09T10:22:29.329Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Michele Arcangelo — Chiopris",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78564",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Chiopris%2C%20Chiopris%20Viscone",
+      "image_url": null,
+      "description": "Situata nel capoluogo comunale di Chiopris, questa chiesa, originariamente documentata nel 1296, è stata ricostruita in stile neoclassico nel 1843 e arricchita nel corso dei secoli da numerosi restauri e opere d'arte. L'interno ospita affreschi di Giulio Justolin, un pregiato altare maggiore di Leonardo Pacassi e una pala cinquecentesca di Pietro Bainville. Il luogo si distingue per la sua storia plurisecolare e per la ricchezza delle sue opere sacre.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Chiesa di San Zenone — Viscone",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78565/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Zenone%20%E2%80%94%20Viscone%2C%20Chiopris%20Viscone",
+      "image_url": null,
+      "description": "La chiesa di San Zenone, nella frazione di Viscone, fu ricostruita tra il 1861 e il 1878 con un aspetto eclettico che richiama stili neogotici e neoromanici. Al suo interno vi sono affreschi di Lorenzo Bianchini e Giulio Justolin, oltre a un altare maggiore ottocentesco con statue di rilievo, tra cui quella di San Giovanni Nepomuceno. È sede della tradizione locale del pignarûl, evidenziando il ruolo centrale nella cultura e nella vita del paese.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Chiesa della Madonna di Strada in Cimitero — Viscone",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78566/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Madonna%20di%20Strada%20in%20Cimitero%20%E2%80%94%20Viscone%2C%20Chiopris%20Viscone",
+      "image_url": null,
+      "description": "Affacciata sul cimitero di Viscone, questa chiesa vanta origini medievali e una facciata barocco-veneziana con elementi risalenti al XIV secolo. L'edificio si caratterizza per la grande bifora campanaria, considerata la più ampia del Friuli, e per gli interni impreziositi da decorazioni in stucco barocche e una pavimentazione in pietra a scacchiera. Il suo nome richiama la tradizione delle cappelle votive poste lungo le antiche vie di transito.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiopris-viscone.md"
+    }
+  ]
+}

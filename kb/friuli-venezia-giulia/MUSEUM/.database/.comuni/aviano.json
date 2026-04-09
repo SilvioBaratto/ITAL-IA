@@ -1,0 +1,41 @@
+{
+  "comune_name": "Aviano",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aviano.md",
+  "extracted_at": "2026-04-09T10:42:37.172Z",
+  "pois": [
+    {
+      "name": "Lo Scrigno dei Presepi Avianesi – Mostra annuale",
+      "address": "Oratorio parrocchiale di San Zenone, Via Pordenone 2, Aviano (PN)",
+      "website_url": "https://www.prolocoaviano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lo%20Scrigno%20dei%20Presepi%20Avianesi%20%E2%80%93%20Mostra%20annuale%2C%20Oratorio%20parrocchiale%20di%20San%20Zenone%2C%20Via%20Pordenone%202%2C%20Aviano%20(PN)",
+      "image_url": null,
+      "description": "Lo Scrigno dei Presepi Avianesi è una mostra annuale di presepi allestita nell'oratorio parrocchiale di San Zenone, che espone centinaia di opere provenienti da tutto il mondo. L'evento, diventato un appuntamento fisso durante il periodo natalizio, valorizza la tradizione presepiale locale e internazionale, con particolare attenzione alla memoria storica del territorio. L'ingresso è gratuito e sono disponibili visite guidate su prenotazione.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aviano.md"
+    },
+    {
+      "name": "Biblioteca Civica di Aviano",
+      "address": "Viale S. Giorgio, Aviano (PN)",
+      "website_url": "https://www.comune.aviano.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20di%20Aviano%2C%20Viale%20S.%20Giorgio%2C%20Aviano%20(PN)",
+      "image_url": null,
+      "description": "La Biblioteca Civica di Aviano, pur non essendo un museo, è il principale presidio culturale del comune, con raccolte dedicate alla storia locale, alla toponomastica e alle tradizioni friulane. Offre servizi di consultazione e prestito e promuove iniziative culturali, svolgendo un ruolo centrale nella conservazione della memoria storica di Aviano. Fa parte del sistema bibliotecario provinciale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aviano.md"
+    },
+    {
+      "name": "Biblioteca Scientifica del Centro di Riferimento Oncologico (CRO)",
+      "address": "Via Pedemontana Occidentale 12 (Frazione Aviano)",
+      "website_url": "https://www.cro.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Scientifica%20del%20Centro%20di%20Riferimento%20Oncologico%20(CRO)%2C%20Via%20Pedemontana%20Occidentale%2012%20(Frazione%20Aviano)",
+      "image_url": null,
+      "description": "La Biblioteca Scientifica del CRO di Aviano contiene un'importante collezione di riviste e monografie di oncologia e scienze affini, rivolta principalmente al personale sanitario e ai ricercatori. Pur non essendo accessibile al grande pubblico, rappresenta una preziosa risorsa per la comunità scientifica. È parte integrante di uno dei poli di eccellenza nella ricerca oncologica italiana.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aviano.md"
+    }
+  ]
+}

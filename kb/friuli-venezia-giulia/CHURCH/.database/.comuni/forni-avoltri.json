@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forni Avoltri",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-avoltri.md",
+  "extracted_at": "2026-04-09T10:26:45.237Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Lorenzo Martire — Forni Avoltri (capoluogo)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68440",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Lorenzo%20Martire%20%E2%80%94%20Forni%20Avoltri%20(capoluogo)%2C%20Forni%20Avoltri",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Lorenzo Martire, edificata nel 1871 in stile neogotico, rappresenta il principale luogo di culto e il cuore spirituale di Forni Avoltri. Progettata da Girolamo D'Aronco e consacrata nel 1872, la chiesa custodisce opere di pregio come l'altare maggiore barocco di Pochero da Rigolato, confessionali lignei ottocenteschi e statue devozionali. L'edificio si distingue per il suo slanciato campanile e l'eleganza delle decorazioni, mentre la festa patronale di San Lorenzo viene celebrata ogni 10 agosto.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni Battista — Frassenetto",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68441/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Frassenetto%2C%20Forni%20Avoltri",
+      "image_url": null,
+      "description": "La Chiesa di San Giovanni Battista nella frazione di Frassenetto è il luogo di culto storicamente più antico del comune, attestato già dal XIV secolo e ricostruito nel 1740 in stile barocco rurale. Conserva importanti opere d'arte, come un altare maggiore in marmo seicentesco e una pala di Girolamo Turro raffigurante la Beata Vergine con i santi. Per secoli è stata il fulcro della vita religiosa locale, divenendo nuovamente autonoma nel 1958, prima di ritornare filiale di Forni Avoltri.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Chiesa di San Michele Arcangelo — Collina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Collina%2C%20Forni%20Avoltri",
+      "image_url": null,
+      "description": "La chiesa di San Michele Arcangelo si trova nella frazione di Collina, a 1.250 metri di quota, e offre un esempio di architettura alpina con elementi rinascimentali e barocchi. Nota per i due altari lignei cinquecenteschi e per il ciclo di affreschi settecenteschi interni, è un punto di riferimento spirituale per la comunità montana. L'edificio, di origini medievali, si inserisce armoniosamente nel paesaggio alle pendici del Monte Coglians.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Chiesa di San Gottardo — Sigilletto",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68438/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Gottardo%20%E2%80%94%20Sigilletto%2C%20Forni%20Avoltri",
+      "image_url": null,
+      "description": "Situata nella frazione di Sigilletto, la chiesa di San Gottardo presenta uno stile neoclassico rurale e una storia segnata da diverse ricostruzioni, l'ultima delle quali risale agli inizi del Novecento. La facciata a capanna, il campanile a pianta quadrata e l'interno a navata unica caratterizzano l'edificio, che ospita una Via Crucis settecentesca e un affresco devozionale dedicato a San Gottardo. La chiesa è stata oggetto di importanti restauri anche a seguito del terremoto del 1976.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-avoltri.md"
+    }
+  ]
+}

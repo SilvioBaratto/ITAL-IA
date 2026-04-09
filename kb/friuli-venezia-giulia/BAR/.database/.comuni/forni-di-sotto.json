@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forni di Sotto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sotto.md",
+  "extracted_at": "2026-04-09T10:14:58.773Z",
+  "pois": [
+    {
+      "name": "La Cianalote — Bar",
+      "address": "Forni di Sotto, centro paese",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Cianalote%20%E2%80%94%20Bar%2C%20Forni%20di%20Sotto%2C%20centro%20paese",
+      "image_url": null,
+      "description": "La Cianalote è uno dei principali punti di ritrovo di Forni di Sotto per una colazione veloce, un caffè o uno spuntino. Il locale affianca al tradizionale servizio bar la preparazione di pizze e panini, secondo l'usanza dei bar di paese carnici che integrano anche la ristorazione leggera. L'atmosfera è semplice e autentica, un luogo perfetto per sostare durante le escursioni nelle Dolomiti Friulane, incontrando la comunità locale in un contesto senza formalità.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "La Genzianella — Bar",
+      "address": "Forni di Sotto, centro paese",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Genzianella%20%E2%80%94%20Bar%2C%20Forni%20di%20Sotto%2C%20centro%20paese",
+      "image_url": null,
+      "description": "La Genzianella è un classico bar di montagna, punto di incontro quotidiano per abitanti e visitatori. Il suo nome richiama la flora alpina tipica dei dintorni, mentre l'ambiente offre un rifugio accogliente per una pausa dopo le attività all'aperto o per un aperitivo in compagnia. Il locale incarna il ruolo sociale tradizionale dei bar nei piccoli borghi, mantenendo viva la comunità locale.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Alle Fontane — Bar e Ristorante",
+      "address": "Forni di Sotto, centro paese",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alle%20Fontane%20%E2%80%94%20Bar%20e%20Ristorante%2C%20Forni%20di%20Sotto%2C%20centro%20paese",
+      "image_url": null,
+      "description": "Alle Fontane funge contemporaneamente da bar, caffetteria e ristorante, offrendo pizze, cucina italiana e piatti della tradizione carnica. È il luogo ideale per colazioni, pranzi o aperitivi che spesso si trasformano in cena, in un ambiente informale e accogliente. La proposta gastronomica comprende specialità locali come frico, cjalsons e zuppe stagionali, rendendo il locale un punto di riferimento sia per i residenti che per i turisti.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Albergo Diffuso Dolomiti — Accoglienza con Servizi Bar",
+      "address": "Forni di Sotto, piazza centrale (ex sede municipale)",
+      "website_url": "https://www.albergodiffuso-dolomiti.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Diffuso%20Dolomiti%20%E2%80%94%20Accoglienza%20con%20Servizi%20Bar%2C%20Forni%20di%20Sotto%2C%20piazza%20centrale%20(ex%20sede%20municipale)",
+      "image_url": null,
+      "description": "L'Albergo Diffuso Dolomiti offre servizi bar nell'area comune della sua struttura principale, situata nella ex sede municipale al centro del paese. Pensato soprattutto per i turisti, il servizio include la colazione a base di prodotti tipici della Carnia, in un contesto che valorizza accoglienza familiare e relax post-escursione. Oltre a essere il principale hub ricettivo del borgo, gode di un'eccellente reputazione grazie ai riconoscimenti ottenuti da fonti di settore.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sotto.md"
+    }
+  ]
+}

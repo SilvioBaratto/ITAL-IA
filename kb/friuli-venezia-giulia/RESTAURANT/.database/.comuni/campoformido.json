@@ -1,0 +1,96 @@
+{
+  "comune_name": "Campoformido",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md",
+  "extracted_at": "2026-04-09T10:56:13.481Z",
+  "pois": [
+    {
+      "name": "Antica Trattoria al Trattato",
+      "address": "Piazza Trattato, 4 - 33030 Campoformido (UD)",
+      "website_url": "https://altrattato.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20al%20Trattato%2C%20Piazza%20Trattato%2C%204%20-%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "L'Antica Trattoria al Trattato è un locale storico, situato nell'edificio dove venne firmato il celebre Trattato di Campoformio. Qui si gusta una cucina radicata nella tradizione friulana, con piatti di carne e pesce, pasta fresca e dolci artigianali. L'atmosfera rustica e accogliente è permeata di storia, con un servizio gentile e prezzi medi. La trattoria è facilmente accessibile e ideale per chi desidera immergersi nei sapori autentici e nella storia locale.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "AL Nuovo Baffone",
+      "address": "Via Adriatica, 39 - 33030 Campoformido (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AL%20Nuovo%20Baffone%2C%20Via%20Adriatica%2C%2039%20-%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "AL Nuovo Baffone è un ristorante moderno che spicca per la sua cucina italiana con particolare attenzione ai piatti di pesce e alla pizza al forno a legna. Offre un ambiente accogliente, ampie sale e un giardino esterno, con parcheggio privato. Le specialità di pesce e la produzione interna di dolci sono molto apprezzate, mentre l'atmosfera richiama quella delle trattorie venete. I prezzi sono contenuti e la cucina aperta fino a tardi lo rende ideale anche per cene tardive.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "Trattoria Da Rico",
+      "address": "Via Principe di Piemonte, 47 - 33030 Campoformido (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Rico%2C%20Via%20Principe%20di%20Piemonte%2C%2047%20-%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Da Rico è apprezzata per la cucina casalinga, semplice e genuina, con menu variabile ogni giorno in base alle materie prime fresche. L'atmosfera informale e accogliente la rende ideale per chi cerca un'esperienza autentica. Le specialità includono piatti tipici friulani e il calamaro fritto servito solo il sabato, il tutto a prezzi bassi e coerenti con la proposta.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "A le Patrie dal Friul",
+      "address": "Largo Municipio, 24 - 33030 Campoformido (UD)",
+      "website_url": "https://alepatrie.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=A%20le%20Patrie%20dal%20Friul%2C%20Largo%20Municipio%2C%2024%20-%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "A le Patrie dal Friul è un'osteria con cucina che valorizza i sapori territoriali del Friuli attraverso ingredienti locali e filosofia slow-food. La cucina propone una rivisitazione contemporanea della tradizione regionale, con piatti che raccontano la storia del territorio. L'osteria offre anche camere come locanda e si distingue per la qualità delle materie prime e l'atmosfera autentica.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Rispoli (La Corte)",
+      "address": "Via Verdi, 6 - 33030 Campoformido (UD)",
+      "website_url": "https://www.ristorantepizzeriarispoli.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Rispoli%20(La%20Corte)%2C%20Via%20Verdi%2C%206%20-%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Trattoria Rispoli, detta anche La Corte, combina la semplicità della pizzeria con la varietà della trattoria, proponendo pizze cotte a forno a legna, piatti tradizionali di pesce, carne e insalate. Il menu è ampio, con opzioni senza glutine per celiaci e menu a prezzo fisso. L'ambiente è classico e conviviale, ideale per famiglie o gruppi, con prezzi nella fascia media.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "Agriturismo Borg di Sot (Frasca da Franco)",
+      "address": "Via Galileo Galilei, 23 - 33030 Campoformido (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Borg%20di%20Sot%20(Frasca%20da%20Franco)%2C%20Via%20Galileo%20Galilei%2C%2023%20-%2033030%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Borg di Sot, conosciuto come Frasca da Franco, offre un'esperienza immersiva nella cucina friulana, utilizzando ingredienti del fondo aziendale o fornitori locali. L'atmosfera richiama quella della frasca friulana, tipica della tradizione contadina della regione. I prezzi sono contenuti e il locale è ideale per chi cerca autenticità e contatto con l'ambiente agricolo.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "Pizzeria Capriccio",
+      "address": "Campoformido (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Capriccio%2C%20Campoformido%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Capriccio propone pizze classiche e creative, preparate secondo metodi contemporanei e disponibili sia per asporto che per consumo in loco. L'ambiente è semplice e accogliente, ideale per chi cerca qualità e rapidità. I prezzi sono nella fascia bassa e il locale soddisfa chi desidera una pizza senza elaborazioni eccessive.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    },
+    {
+      "name": "El Jalapeno",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Jalapeno%2C%20Campoformido",
+      "image_url": null,
+      "description": "El Jalapeno porta la cucina internazionale a Campoformido con piatti messicani e latinoamericani, offrendo un'alternativa apprezzata alla tradizione locale. Il locale ha una valutazione molto alta su TripAdvisor, con un'atmosfera informale e decorazioni tipiche messicane. È ideale per chi cerca sapori diversi e un ambiente accogliente.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campoformido.md"
+    }
+  ]
+}

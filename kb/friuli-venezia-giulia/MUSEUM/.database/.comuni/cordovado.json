@@ -1,0 +1,107 @@
+{
+  "comune_name": "Cordovado",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md",
+  "extracted_at": "2026-04-09T10:46:18.124Z",
+  "pois": [
+    {
+      "name": "Biblioteca Comunale — Palazzo Cecchini",
+      "address": "Piazza Cecchini, Cordovado (PN)",
+      "website_url": "http://www.comune.cordovado.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Comunale%20%E2%80%94%20Palazzo%20Cecchini%2C%20Piazza%20Cecchini%2C%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "La Biblioteca Comunale di Cordovado ha sede nello storico Palazzo Cecchini, originariamente convento domenicano attivo dal Settecento e trasformato in residenza privata nell’Ottocento dal mecenate Francesco Cecchini. L’edificio spicca per la facciata in stile neomedievale e presenta ambienti interni decorati con affreschi ottocenteschi di gusto eclettico. Oggi la biblioteca è il principale centro culturale del paese, ospitando eventi e attività per la comunità.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Borgo Castello — Patrimonio Architettonico e Artistico",
+      "address": "Borgo Castello, Cordovado (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Castello%20%E2%80%94%20Patrimonio%20Architettonico%20e%20Artistico%2C%20Borgo%20Castello%2C%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Borgo Castello è il cuore medievale di Cordovado, con mura, fossato, due torri portaie e palazzi nobiliari ricchi di testimonianze artistiche. Tra gli elementi notevoli figurano la Torre dell’Orologio, la Torre portaia sud, e i palazzi Bozza-Marrubini, Agricola e Freschi Piccolomini con affreschi settecenteschi di grande valore. Gli spazi esterni sono liberamente visitabili e rappresentano un percorso immersivo tra arte e storia locali.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Pieve di Sant'Andrea — Duomo Antico",
+      "address": "Piazza Duomo (parte meridionale del centro storico), Cordovado (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Sant'Andrea%20%E2%80%94%20Duomo%20Antico%2C%20Piazza%20Duomo%20(parte%20meridionale%20del%20centro%20storico)%2C%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "La Pieve di Sant’Andrea, chiamata Duomo Antico, è la chiesa più antica di Cordovado e uno dei complessi di pittura murale più importanti della zona. L’edificio, di origini paleocristiane e rimaneggiato nel Quattrocento, conserva un ciclo di affreschi che copre varie epoche, opere di artisti come Gianfrancesco da Tolmezzo, Andrea Bellunello e Baldassarre D’Anna. Il luogo è accessibile durante le celebrazioni liturgiche e colpisce per il suo grande valore storico-artistico.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Santuario della Madonna delle Grazie",
+      "address": "Via Santuario, Cordovado (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20delle%20Grazie%2C%20Via%20Santuario%2C%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Il Santuario della Madonna delle Grazie, edificato nel 1603, è un esempio unico di architettura barocca veneziana con pianta ottagonale in Friuli. Riccamente decorato con affreschi, stucchi, dipinti e uno spettacolare soffitto dorato, ospita importanti opere di Antonio Carneo, Andrea dell’Aquila e altri artisti seicenteschi. Il santuario è meta di devozione e visitabile durante le funzioni liturgiche.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea — Duomo Nuovo",
+      "address": "Cordovado (PN), adiacente al centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20%E2%80%94%20Duomo%20Nuovo%2C%20Cordovado%20(PN)%2C%20adiacente%20al%20centro%20storico",
+      "image_url": null,
+      "description": "La nuova chiesa parrocchiale di Sant’Andrea, costruita tra il 1950 e il 1966, ospita importanti opere d’arte contemporanea dell’artista Pino Cesarini, tra cui affreschi, bronzi e il rosone. All’interno sono custodite anche tele preziose trasferite dal Duomo Antico, che testimoniano la continuità del patrimonio artistico locale. L’edificio rappresenta un esempio di valorizzazione dell’arte sacra nel Novecento.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Parco Letterario Ippolito Nievo — Fontane di Venchiaredo",
+      "address": "Località Venchiaredo, in prossimità di Cordovado (comune di Sesto al Reghena)",
+      "website_url": "https://www.parchiletterari.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Letterario%20Ippolito%20Nievo%20%E2%80%94%20Fontane%20di%20Venchiaredo%2C%20Localit%C3%A0%20Venchiaredo%2C%20in%20prossimit%C3%A0%20di%20Cordovado%20(comune%20di%20Sesto%20al%20Reghena)",
+      "image_url": null,
+      "description": "Il Parco Letterario Ippolito Nievo è un originale spazio culturale e naturale che celebra i luoghi del romanzo 'Le confessioni d’un italiano'. Il percorso include le fontane di Venchiaredo, la statua di Nievo, la piazza e altri luoghi legati alla sua infanzia letteraria. È parte della rete nazionale dei Parchi Letterari e invita a esplorare il paesaggio storico e letterario tra Cordovado e Sesto al Reghena.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Palazzo Beccaris-Nonis",
+      "address": "Borgo Nuovo (parte settentrionale del centro storico), Cordovado (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Beccaris-Nonis%2C%20Borgo%20Nuovo%20(parte%20settentrionale%20del%20centro%20storico)%2C%20Cordovado%20(PN)",
+      "image_url": null,
+      "description": "Palazzo Beccaris-Nonis è un edificio cinquecentesco situato nel Borgo Nuovo di Cordovado, caratterizzato da un porticato a tre archi e da una facciata sobria e armoniosa. È stato per secoli abitazione di famiglie influenti nella storia locale. Pur essendo privato e non visitabile all'interno, il palazzo resta un elemento architettonico di spicco del centro storico.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Municipio — ex Pia Casa (Casa Municipale)",
+      "address": "Cordovado (PN), centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Municipio%20%E2%80%94%20ex%20Pia%20Casa%20(Casa%20Municipale)%2C%20Cordovado%20(PN)%2C%20centro%20storico",
+      "image_url": null,
+      "description": "L’attuale Municipio di Cordovado occupa i locali dell’antica Pia Casa, un tempo ospizio per nobili e sede di servizi pubblici fin dal Seicento. All’interno conserva un raro affresco di Madonna allattante realizzato da Giuseppe Moretto. Il palazzo riflette la storia civile e sociale del borgo.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    },
+    {
+      "name": "Ex Base Nike Ercules — Patrimonio Militare del Dopoguerra",
+      "address": "Cordovado e Teglio Veneto (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ex%20Base%20Nike%20Ercules%20%E2%80%94%20Patrimonio%20Militare%20del%20Dopoguerra%2C%20Cordovado%20e%20Teglio%20Veneto%20(PN)",
+      "image_url": null,
+      "description": "La ex base Nike Hercules è uno degli ultimi esempi di architettura militare della Guerra Fredda in Friuli Venezia Giulia, attiva dal 1959 al 2009. Appena acquisita dal comune, comprende bunker, piazzole e strutture storiche, rappresentando un'importante testimonianza di archeologia militare. Il sito è in corso di valorizzazione.",
+      "comune_name": "Cordovado",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordovado.md"
+    }
+  ]
+}

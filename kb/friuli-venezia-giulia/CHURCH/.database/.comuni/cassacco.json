@@ -1,0 +1,63 @@
+{
+  "comune_name": "Cassacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cassacco.md",
+  "extracted_at": "2026-04-09T10:21:34.314Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Giovanni Battista — Cassacco capoluogo",
+      "address": "Piazza Noacco, Cassacco (UD)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68294",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Cassacco%20capoluogo%2C%20Piazza%20Noacco%2C%20Cassacco%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giovanni Battista è il principale luogo di culto del comune e si trova al centro di piazza Noacco. Ricostruita in stile neogotico tra il 1886 e il 1898 su progetto di Angelo Noacco, l'attuale edificio sostituisce una struttura medievale e cinquecentesca ormai inadeguata. Il campanile, ispirato a quello del Duomo di Lucca e particolarmente fotografato, fu costruito nel 1926 grazie all'impegno collettivo degli abitanti. La chiesa è un punto di riferimento storico e architettonico di Cassacco.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa di San Marco Evangelista — frazione di Raspano",
+      "address": "Piazza San Marco, Raspano, Cassacco (UD)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68295",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Marco%20Evangelista%20%E2%80%94%20frazione%20di%20Raspano%2C%20Piazza%20San%20Marco%2C%20Raspano%2C%20Cassacco%20(UD)",
+      "image_url": null,
+      "description": "La chiesa di San Marco Evangelista è la parrocchiale della frazione di Raspano, con origini risalenti al XIV secolo e ampliamenti ottocenteschi. La facciata conserva ancora le tracce dell’impianto medievale e ospita un pregevole mosaico raffigurante il santo titolare. L’edificio fu ampliato tra il 1867 e il 1874, mentre il moderno campanile fu aggiunto nel 1952 su progetto di Arduino Berlam. Danneggiata dal terremoto del 1976, la chiesa è stata successivamente restaurata.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa dei Santi Filippo e Giacomo — frazione di Conoglano",
+      "address": "Conoglano, Cassacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Filippo%20e%20Giacomo%20%E2%80%94%20frazione%20di%20Conoglano%2C%20Conoglano%2C%20Cassacco%20(UD)",
+      "image_url": null,
+      "description": "Situata nella frazione di Conoglano, la Chiesa dei Santi Filippo e Giacomo fu costruita a partire dal 1905 e rappresenta la memoria religiosa della comunità locale. L’edificio, espressione del tardoeclettismo e del primo Novecento, è la chiesa più recente del comune e l’unica tra quelle delle frazioni a non vantare origini medievali. Si distingue per la sua integrazione nella tradizione religiosa e urbanistica locale.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa di San Martino — frazione di Martinazzo",
+      "address": "Martinazzo, Cassacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20%E2%80%94%20frazione%20di%20Martinazzo%2C%20Martinazzo%2C%20Cassacco%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di San Martino si trova nella piccola frazione di Martinazzo e fu edificata nel 1688. È un esempio significativo di barocco rurale friulano, caratterizzato da sobrietà e attenzione alle proporzioni. Rappresenta una delle principali testimonianze seicentesche del patrimonio sacro locale ed è dedicata a San Martino di Tours, figura particolarmente venerata nella regione.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa di San Giusto — frazione di Montegnacco",
+      "address": "Montegnacco, Cassacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giusto%20%E2%80%94%20frazione%20di%20Montegnacco%2C%20Montegnacco%2C%20Cassacco%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di San Giusto, parrocchiale della frazione di Montegnacco, ha origini nel XIII secolo ed è una delle più antiche del comune. L’edificio, di impianto romanico-medievale, ha subito numerosi rifacimenti nei secoli successivi e testimonia la lunga tradizione cristiana del territorio. Fa parte dell’identità storica e artistica di Montegnacco, insieme alla vicina Villa Gallici Deciani.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cassacco.md"
+    }
+  ]
+}

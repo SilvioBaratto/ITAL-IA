@@ -1,0 +1,106 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Ravascletto",
+  "province": "UD",
+  "page_title": "Ravascletto",
+  "page_summary": "Guida ai ristoranti e locali del comune di Ravascletto: dal ristorante d'albergo tipico carnico alla pizzeria del paese, passando per bar di montagna, ristori rurali e strutture ricettive con cucina tradizionale.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md",
+  "processed_at": "2026-04-09T13:53:07.756Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__0",
+      "text": "### Hotel Ristorante La Perla\n\n**Indirizzo:** Via San Spirito 43, 33020 Ravascletto (UD)\n**Telefono:** +39 0433 66039\n**Sito web:** [laperlahotel.eu](https://laperlahotel.eu/)\n**Fascia di prezzo:** €€–€€€\n\nL'Hotel Ristorante La Perla è il punto di riferimento per l'ospitalità e la ristorazione a Ravascletto. Struttura classificata a 4 stelle, si trova a soli 200 metri dagli impianti di risalita dello Zoncolan, in posizione ideale sia per gli sciatori in inverno sia per gli escursionisti e i cicloturisti in estate. Il ristorante interno è aperto sia agli ospiti dell'albergo sia ai clienti esterni, e propone una cucina che attinge a piene mani dalla tradizione carnica: il frico con patate è uno dei piatti più richiesti, così come i cjarsons fatti in casa, la minestra di orzo e fagioli, e i secondi a base di selvaggina o carne di montagna. Il menù cambia seguendo la stagionalità dei prodotti locali.\n\nL'atmosfera è quella accogliente e familiare tipica dei rifugi di montagna friulani: ambienti in legno, calore domestico, porzioni generose. La struttura dispone anche di un bar attrezzato, aperto ai passanti. Particolarmente apprezzata la colazione abbondante con prodotti locali. Per i soggiorni è sempre consigliata la prenotazione, specialmente nei weekend invernali quando Zoncolan è al massimo dell'affluenza.",
+      "metadata": {
+        "section_title": "Hotel Ristorante La Perla",
+        "links": [
+          {
+            "text": "laperlahotel.eu",
+            "url": "https://laperlahotel.eu/"
+          }
+        ],
+        "addresses": [
+          "Via San Spirito 43, 33020 Ravascletto (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€€–€€€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__1",
+      "text": "### Pizzeria Pace Alpina\n\n**Telefono:** +39 0433 616984\n**Posizione:** Centro di Ravascletto (capoluogo)\n**Fascia di prezzo:** €–€€\n\nLa Pizzeria Pace Alpina è un locale che combina la funzione di punto di ristoro con quella di struttura ricettiva, situato nel cuore del capoluogo. L'insegna suggerisce un ambiente schiettamente di montagna, con la vocazione a servire tanto i turisti di passaggio quanto i residenti. La cucina spazia dalla pizza — presenza quasi inevitabile in qualsiasi ristorante montano del Friuli, dove la commistione tra tradizione locale e piatti nazionali è consolidata — ai piatti regionali della cucina carnica. Dispone di coperti sia in sala interna sia all'esterno, il che la rende piacevole nelle stagioni più miti.\n\nIl locale è classificato in OpenStreetMap con la dicitura *cucina regionale*, a sottolineare l'attenzione ai sapori del territorio. È uno di quei posti dove ci si siede dopo una giornata sugli sci o un trekking tra le borgate e si mangia con soddisfazione senza formalismi.",
+      "metadata": {
+        "section_title": "Pizzeria Pace Alpina",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€–€€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__2",
+      "text": "### La Scaletta\n\n**Posizione:** Centro di Ravascletto (capoluogo)\n**Fascia di prezzo:** €–€€\n\nLa Scaletta è un ristorante di impostazione italiana classica con una buona proposta di pizze, situato nel cuore del capoluogo di Ravascletto. Come molti locali della zona, propone un menù che bilancia i piatti più riconoscibili della cucina italiana con qualche incursione nei sapori montani della Carnia. La presenza di posti sia all'interno che all'esterno lo rende versatile nelle diverse stagioni. È un locale frequentato dalla clientela locale e dai turisti che cercano un pasto semplice e soddisfacente nel contesto di un borgo montano autentico.",
+      "metadata": {
+        "section_title": "La Scaletta",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€–€€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__3",
+      "text": "### Bar alla Seggiovia\n\n**Posizione:** Centro di Ravascletto, nei pressi degli impianti di risalita\n**Fascia di prezzo:** €\n\nCome il nome suggerisce, il Bar alla Seggiovia si trova nelle immediate vicinanze degli impianti di risalita e rappresenta il classico punto di sosta per sciatori e turisti prima e dopo le escursioni sul Monte Zoncolan. Il locale è annotato per la sua offerta di birra Paulaner alla spina — una delle birre bavaresi più apprezzate dagli alpinisti friulani — oltre a birre in bottiglia, caffetteria, cioccolata calda artigianale, infusi e tisane. È il posto ideale per scaldarsi dopo una mattinata in pista o una ciaspolata in quota.\n\nNon è un ristorante nel senso stretto del termine, ma rappresenta un elemento imprescindibile dell'offerta di ristoro a Ravascletto, specialmente nella stagione invernale. L'atmosfera è quella informale e conviviale tipica dei bar di stazione sciistica.",
+      "metadata": {
+        "section_title": "Bar alla Seggiovia",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__4",
+      "text": "### Terrazza Bar\n\n**Posizione:** Centro di Ravascletto (capoluogo)\n**Fascia di prezzo:** €\n\nIl Terrazza Bar è un piccolo locale nel centro di Ravascletto che, come suggerisce il nome, dispone di una terrazza all'aperto. È il luogo ideale per una sosta durante le passeggiate estive nel borgo, per un aperitivo con vista sulle montagne circostanti o per un caffè dopo cena. In estate, quando le giornate sono lunghe e il clima montano è mite, la terrazza diventa un punto d'incontro per i villeggianti.",
+      "metadata": {
+        "section_title": "Terrazza Bar",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__5",
+      "text": "### Borgo Nomplan\n\n**Posizione:** Frazioni occidentali del comune di Ravascletto (area di Salârs)\n**Fascia di prezzo:** €€\n\nIl Borgo Nomplan è un ristorante situato nella parte occidentale del territorio comunale di Ravascletto, nella zona che si estende verso la frazione di Salârs, lungo il versante del torrente Margò. La posizione defilata rispetto al centro del capoluogo lo rende un luogo di sosta per escursionisti e ciclisti che percorrono i sentieri e le strade che collegano le borgate del comune. Il nome evoca un'identità fortemente radicata nel territorio montano carnico. Pur con informazioni limitate disponibili, il locale rientra nella rete di punti di ristoro che servono il territorio rurale del comune.",
+      "metadata": {
+        "section_title": "Borgo Nomplan",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ravascletto__6",
+      "text": "### Hotel Sportur\n\n**Indirizzo:** Via Valcalda 21, 33020 Ravascletto (UD)\n**Posizione:** Centro di Ravascletto\n**Fascia di prezzo:** €€\n\nL'Hotel Sportur è un'altra struttura alberghiera presente nel capoluogo di Ravascletto. Situato in Via Valcalda — il nome evoca la località di Sella Valcalda, spartiacque tra le due valli del comune — è una struttura orientata alla clientela sportiva e turistica che frequenta la zona dello Zoncolan. Come avviene in molti hotel di montagna di questa fascia, è probabile che la struttura offra anche servizio di ristorazione o mezza pensione ai propri ospiti, con una cucina casalinga di stampo carnico.",
+      "metadata": {
+        "section_title": "Hotel Sportur",
+        "links": [],
+        "addresses": [
+          "Via Valcalda 21, 33020 Ravascletto (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€€"
+      }
+    }
+  ]
+}

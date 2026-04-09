@@ -1,0 +1,30 @@
+{
+  "comune_name": "Drenchia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/drenchia.md",
+  "extracted_at": "2026-04-09T10:24:37.097Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Assunta — Cras (Kras)",
+      "address": null,
+      "website_url": "http://www.comune.drenchia.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Cras%20(Kras)%2C%20Drenchia",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di Santa Maria Assunta si trova nella frazione Cras, la più elevata del comune di Drenchia, e rappresenta il principale luogo di culto della comunità. Esempio di architettura sacra rurale tardo-barocca edificata nel 1700, presenta una navata unica e un campanile addossato, tipici delle chiese di montagna friulane. All'interno si conserva una preziosa statua lignea della Madonna col Bambino, databile ai primi decenni del Cinquecento, testimonianza della lunga tradizione di devozione mariana locale. La chiesa è il fulcro della vita religiosa del paese, in particolare in occasione della festa patronale dell’Assunta il 15 agosto.",
+      "comune_name": "Drenchia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/drenchia.md"
+    },
+    {
+      "name": "Chiesa di San Volfango — San Volfango",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Volfango%20%E2%80%94%20San%20Volfango%2C%20Drenchia",
+      "image_url": null,
+      "description": "La Chiesa di San Volfango si trova nella frazione omonima di Drenchia ed è una piccola chiesa di montagna, caratterizzata da una struttura semplice. Intitolata a San Volfango, patrono poco comune in Italia, riflette gli storici legami culturali e religiosi tra la Slavia veneta e il mondo germanico-austriaco. L’edificio, che probabilmente affonda le sue origini in età medievale, è una delle testimonianze più singolari del sincretismo religioso locale.",
+      "comune_name": "Drenchia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/drenchia.md"
+    }
+  ]
+}

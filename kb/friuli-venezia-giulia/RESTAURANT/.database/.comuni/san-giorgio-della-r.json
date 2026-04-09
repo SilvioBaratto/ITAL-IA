@@ -1,0 +1,30 @@
+{
+  "comune_name": "San Giorgio della R",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-della-r.md",
+  "extracted_at": "2026-04-09T11:17:24.965Z",
+  "pois": [
+    {
+      "name": "Ristorante \"Il Carantan\" — Domanins",
+      "address": "Via del Sole 20, Domanins, 33095 San Giorgio della Richinvelda (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20%22Il%20Carantan%22%20%E2%80%94%20Domanins%2C%20Via%20del%20Sole%2020%2C%20Domanins%2C%2033095%20San%20Giorgio%20della%20Richinvelda%20(PN)",
+      "image_url": null,
+      "description": "Il Ristorante \"Il Carantan\" si trova nella storica frazione di Domanins ed è un punto di riferimento per la cucina tradizionale friulana della zona. Il locale offre piatti tipici a base di prodotti del territorio, come pasta fresca fatta in casa, carni alla brace e il celebre frico con patate. L’atmosfera è semplice e accogliente, tipica di un ristorante di paese, con clientela del posto e viaggiatori che attraversano la Richinvelda. La stagionalità dei prodotti viene rispettata, con funghi, selvaggina e erbe spontanee secondo il periodo.",
+      "comune_name": "San Giorgio della R",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-della-r.md"
+    },
+    {
+      "name": "Osteria Picchio — Pozzo",
+      "address": "Via Alessandro Manzoni, Pozzo, 33095 San Giorgio della Richinvelda (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Picchio%20%E2%80%94%20Pozzo%2C%20Via%20Alessandro%20Manzoni%2C%20Pozzo%2C%2033095%20San%20Giorgio%20della%20Richinvelda%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Picchio, situata nella frazione di Pozzo, è un locale di paese che incarna la tradizionale osteria friulana. Offre vino locale, salumi, formaggi Montasio e piatti caldi semplici come minestre, stufati e polenta. L’atmosfera è informale e conviviale, punto di ritrovo per residenti e viaggiatori nelle campagne della Richinvelda. La proposta gastronomica è genuina e senza pretese, tipica della campagna friulana.",
+      "comune_name": "San Giorgio della R",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-della-r.md"
+    }
+  ]
+}

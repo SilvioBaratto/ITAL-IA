@@ -1,0 +1,85 @@
+{
+  "comune_name": "Buja",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md",
+  "extracted_at": "2026-04-09T10:35:42.004Z",
+  "pois": [
+    {
+      "name": "Pieve Arcipretale di San Lorenzo — Monte di Buja",
+      "address": "Località Monte, Buja (UD)",
+      "website_url": "http://www.comune.buja.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20Arcipretale%20di%20San%20Lorenzo%20%E2%80%94%20Monte%20di%20Buja%2C%20Localit%C3%A0%20Monte%2C%20Buja%20(UD)",
+      "image_url": null,
+      "description": "La pieve di San Lorenzo, situata sulla sommità del colle Monte, è il monumento più antico e significativo di Buja. Le sue origini risalgono all'alto Medioevo, con resti di una basilica paleocristiana del V secolo scoperti durante i restauri post-sisma del 1980. L'edificio attuale conserva un pregevole ciclo di affreschi gotici del XIV-XV secolo, il più ampio ciclo mariano della regione, frutto della scuola goriziano-aquileiese. Il complesso offre anche una vista panoramica sulla pianura e sulle Alpi, ed è inserito in un contesto naturale affascinante.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    },
+    {
+      "name": "Ruderi del Castello di Monte di Buja",
+      "address": "Località Monte, Buja (UD) — accessibili percorrendo i sentieri del Parco della Rimembranza",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ruderi%20del%20Castello%20di%20Monte%20di%20Buja%2C%20Localit%C3%A0%20Monte%2C%20Buja%20(UD)%20%E2%80%94%20accessibili%20percorrendo%20i%20sentieri%20del%20Parco%20della%20Rimembranza",
+      "image_url": null,
+      "description": "I ruderi del Castello medievale di Buja sorgono sul colle Monte, a breve distanza dalla pieve di San Lorenzo. Risalenti al XII secolo, sono testimoni della storia patriarcale friulana e un tempo costituivano un importante presidio difensivo territoriale. Oggi ne rimangono porzioni di muratura e il basamento della torre, immersi nella vegetazione del Parco della Rimembranza, creando un'atmosfera meditativa e romantica. Il sito è liberamente visitabile seguendo i sentieri naturalistici circostanti.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    },
+    {
+      "name": "Parco della Rimembranza — Monte di Buja",
+      "address": "Località Monte, Buja (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20della%20Rimembranza%20%E2%80%94%20Monte%20di%20Buja%2C%20Localit%C3%A0%20Monte%2C%20Buja%20(UD)",
+      "image_url": null,
+      "description": "Il Parco della Rimembranza si estende sul colle di Monte, collegando la pieve di San Lorenzo e i ruderi del castello in un itinerario immerso nella natura e nella memoria storica. Creato in ricordo dei caduti delle guerre mondiali, il parco ospita stele e lapidi commemorative, e si distingue come polmone verde con sentieri accessibili e numerose essenze arboree del bosco friulano. Dopo il terremoto del 1976, è divenuto anche spazio di raccoglimento per le vittime del sisma.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    },
+    {
+      "name": "Duomo dei Santi Ermacora e Fortunato — Buja capoluogo",
+      "address": "Piazza del Duomo, Buja (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20dei%20Santi%20Ermacora%20e%20Fortunato%20%E2%80%94%20Buja%20capoluogo%2C%20Piazza%20del%20Duomo%2C%20Buja%20(UD)",
+      "image_url": null,
+      "description": "Il duomo dei Santi Ermacora e Fortunato è il principale luogo di culto del centro di Buja, rappresentando uno degli esempi più rilevanti di architettura neogotica della provincia. Costruito tra il 1889 e il 1898 e ricostruito fedelmente dopo il sisma del 1976, ospita opere d'arte di pregio che vanno dall'altare maggiore barocco alle vetrate absidali del Novecento. Ogni anno vi si festeggiano solennemente i santi patroni locali.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio — Buja capoluogo",
+      "address": "Buja (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20%E2%80%94%20Buja%20capoluogo%2C%20Buja%20(UD)",
+      "image_url": null,
+      "description": "Edificata nel 1942, la Chiesa di Sant'Antonio spicca per lo stile romanico a tre navate e per la ricca decorazione di mosaici realizzati dalla prestigiosa Scuola Mosaicisti del Friuli su disegno di Fred Pittino. Un elemento distintivo è la Via Crucis scolpita in Pietra Piasentina da Max Piccini, che conferisce all'interno una forte valenza artistica e devozionale. Restaurata dopo il terremoto, la chiesa ha preservato le sue opere più importanti.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    },
+    {
+      "name": "Santuario della Madonna — Frazione Madonna",
+      "address": "Frazione Madonna, Buja (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20%E2%80%94%20Frazione%20Madonna%2C%20Frazione%20Madonna%2C%20Buja%20(UD)",
+      "image_url": null,
+      "description": "Il Santuario della Madonna nella frazione omonima è uno dei principali centri di devozione popolare buiesi. Ricostruito dopo il terremoto del 1976, custodisce la preziosa statua lignea della Madonna con Bambino scolpita da Domenico da Tolmezzo nel 1481, considerata capolavoro dell'arte sacra friulana. La leggenda della Madonna apparsa su un melo caratterizza la storia e le raffigurazioni del luogo di culto.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    },
+    {
+      "name": "Museo d'Arte della Medaglia e della Città di Buja",
+      "address": "Località Monte — Borgo San Lorenzo, Buja (UD)",
+      "website_url": "http://www.comune.buja.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20d'Arte%20della%20Medaglia%20e%20della%20Citt%C3%A0%20di%20Buja%2C%20Localit%C3%A0%20Monte%20%E2%80%94%20Borgo%20San%20Lorenzo%2C%20Buja%20(UD)",
+      "image_url": null,
+      "description": "Il Museo d'Arte della Medaglia e della Città di Buja, situato nel borgo di San Lorenzo, è dedicato alla tradizione incisoria locale e celebra i due maestri Pietro Giampaoli e Guerrino Mattia Monassi. Propone una collezione di medaglie e una sezione didattica che spiega le tecniche di lavorazione, offrendo un percorso unico nel panorama museale friulano. La sede panoramica arricchisce l'esperienza del visitatore.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/buja.md"
+    }
+  ]
+}

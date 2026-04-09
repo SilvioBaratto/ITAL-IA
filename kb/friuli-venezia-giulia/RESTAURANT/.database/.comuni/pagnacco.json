@@ -1,0 +1,96 @@
+{
+  "comune_name": "Pagnacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md",
+  "extracted_at": "2026-04-09T11:10:05.329Z",
+  "pois": [
+    {
+      "name": "Al Zuc",
+      "address": "Via del Ciuch, 9/1, 33010 Pagnacco (UD)",
+      "website_url": "https://alzuc.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Zuc%2C%20Via%20del%20Ciuch%2C%209%2F1%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Al Zuc è un ristorante di lunga tradizione situato in una rustica azienda agricola friulana a Fontanabona. Gestito dalla famiglia Zuc dal 1976, offre una cucina fortemente ancorata alla stagionalità e ai prodotti di filiera cortissima, con specialità di carni grigliate e frico friulano. L’atmosfera autentica reminiscente di una casa di campagna si accompagna a piatti per ogni esigenza, inclusi vegetariani e vegani.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Trattoria Al Cjavedal",
+      "address": "Via Giuseppe Garibaldi, 6, 33010 Pagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Cjavedal%2C%20Via%20Giuseppe%20Garibaldi%2C%206%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Al Cjavedal è una trattoria che valorizza la gastronomia friulana in un ambiente ricco di oggetti della tradizione locale, dove ogni dettaglio racconta la storia della regione. Il menu propone esclusivamente specialità friulane con ingredienti locali, come pappardelle al ragù di lepre, frico e dolci tipici, il tutto accompagnato da un'accoglienza calorosa e autentica. È particolarmente apprezzata per l’atmosfera immersiva e la qualità costante dei piatti.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Osteria Al Cacciatore",
+      "address": "Via Colloredo di Montalbano, 96, 33010 Pagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Cacciatore%2C%20Via%20Colloredo%20di%20Montalbano%2C%2096%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Osteria Al Cacciatore offre un'autentica esperienza friulana con cucina casalinga basata su piatti di selvaggina e frico preparato seguendo ricette tramandate. Il menu cambia quotidianamente secondo disponibilità, sottolineando la freschezza dei prodotti. L'ambiente rustico, la gestione familiare e la possibilità di mangiare all'aperto contribuiscono a creare un'atmosfera rurale e genuina.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Pizzeria Lo Spicchio",
+      "address": "Piazza Libertà, 8, 33010 Pagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Lo%20Spicchio%2C%20Piazza%20Libert%C3%A0%2C%208%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Lo Spicchio si distingue a Pagnacco per la sua posizione centrale e per la creativa 'Pizza Frico', che fonde la pizza con sapori friulani. Il locale propone anche pizza tradizionale e piatti tipici regionali, offrendo sia il servizio al tavolo che d’asporto. L’ambiente informale e familiare e la cortesia dello staff la rendono una scelta apprezzata per ogni occasione.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Al Tramaj",
+      "address": "Via Colugna, 5, 33010 Pagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Tramaj%2C%20Via%20Colugna%2C%205%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Al Tramaj è un’osteria storica fondata nel 1949, oggi rinnovata ma fedele alla tradizione. È nota per le specialità di carni rosse grigliate come la bistecca alla fiorentina, insieme a hamburger di qualità, antipasti e piatti vegetariani. L’ambiente è moderno ma mantiene radici locali, con una selezione enologica curata e servizi accessibili a tutti.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Rosticceria del Re",
+      "address": "Via dei Tigli, 1, 33010 Pagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rosticceria%20del%20Re%2C%20Via%20dei%20Tigli%2C%201%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Rosticceria del Re offre piatti di gastronomia da asporto con particolare attenzione alle carni arrosto, preparate secondo tradizione. Il menu comprende anche pizza, piatti di pesce e specialità locali, e il servizio di catering completa l’offerta. La gestione familiare e le costanti recensioni positive ne confermano la qualità e la cortesia.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Birreria Samarcanda",
+      "address": "Via Braida Grande, 6, 33010 Pagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birreria%20Samarcanda%2C%20Via%20Braida%20Grande%2C%206%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Birreria Samarcanda è un locale specializzato in birre artigianali, con una selezione sia propria che internazionale curata da un proprietario esperto. L’atmosfera è rilassata e caratterizzata dalla musica su vinile, con spazi interni accoglienti e all’aperto. Anche se la proposta gastronomica è secondaria rispetto alle birre, è pensata per accompagnare al meglio le degustazioni e offre un ambiente apprezzato per la qualità e la tranquillità.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    },
+    {
+      "name": "Agriturismo Pividori",
+      "address": "Via Chialminis, 7, 33010 Pagnacco (UD)",
+      "website_url": "http://www.salamiesalumi.com/it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Pividori%2C%20Via%20Chialminis%2C%207%2C%2033010%20Pagnacco%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Pividori fonde la tradizione agricola friulana con un’offerta gastronomica centrata sulle carni di maiale, salumi e insaccati. Tutto è prodotto secondo una filiera corta rigorosa, in un ambiente che offre anche vendita diretta e servizio di asporto e consegna. L’agriturismo nasce da una storica azienda familiare ed è apprezzato per l’autenticità dei suoi prodotti e l’ospitalità.",
+      "comune_name": "Pagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pagnacco.md"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "comune_name": "Forni di Sopra",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md",
+  "extracted_at": "2026-04-09T10:14:58.771Z",
+  "pois": [
+    {
+      "name": "Bar Posta (Hotel Posta)",
+      "address": "Via Nazionale, 174 — 33024 Forni di Sopra (UD)",
+      "website_url": "https://www.hotelposta.org",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Posta%20(Hotel%20Posta)%2C%20Via%20Nazionale%2C%20174%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar storico gestito dalla famiglia Comis dal 1895, diventato punto di riferimento sociale e turistico di Forni di Sopra. L'atmosfera è calda e alpina, con arredi in legno e tavoli esterni sulla via principale; il locale è frequentato sia dai residenti che dai turisti e si anima in particolare durante gli aperitivi serali a base di spritz e stuzzichini locali. Il bar affianca il ristorante dell'hotel e propone colazioni all'italiana e piatti della tradizione friulana.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Albergo Ristorante Nuoitas — Bar nel Bosco",
+      "address": "Località Nuoitas, 7 — 33024 Forni di Sopra (UD)",
+      "website_url": "https://www.albergonuoitas.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Nuoitas%20%E2%80%94%20Bar%20nel%20Bosco%2C%20Localit%C3%A0%20Nuoitas%2C%207%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar immerso nella tranquillità tra i boschi vicino al Tagliamento, aperto nel 1978 dalla famiglia Bandiera. La struttura offre un'atmosfera familiare e genuina, con attenzione alla cucina carnica e alla tradizione del frico friulano, apprezzata anche da testate nazionali. Il bar accoglie anche i non ospiti dell'albergo, specialmente nei mesi estivi, ed è parte di una struttura con centro benessere.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Bar Alle Alpi",
+      "address": "Via Nazionale, 63 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Alle%20Alpi%2C%20Via%20Nazionale%2C%2063%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar di paese situato nella parte bassa di Via Nazionale, è punto di riferimento per la colazione e il caffè veloce della gente del posto. L'ambiente è semplice, con servizio diretto e senza pretese, e durante l'estate funge da sosta per i turisti in transito.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Bar Cella Cicchetteria",
+      "address": "Via Nazionale, 137 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Cella%20Cicchetteria%2C%20Via%20Nazionale%2C%20137%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Locale in stile cicchetteria, tipico della tradizione carnica, specializzato in vini al bicchiere, distillati e piccoli stuzzichini al bancone. L'atmosfera è informale e autentica, un invito alla socialità locale tra grappini artigianali e vini bianchi friulani, adatta a chi cerca un’esperienza diversa dal classico spritz bar.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Bistro Chierigo",
+      "address": "Via Nazionale, 118 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Chierigo%2C%20Via%20Nazionale%2C%20118%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bistrot moderno lungo Via Nazionale che coniuga elementi della tradizione alpina con uno stile più contemporaneo. È adatto sia per la colazione che per uno spuntino veloce o un aperitivo serale, pensato in particolare per una clientela turistica alla ricerca di un locale diverso rispetto alle solite proposte alberghiere.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Zwarbar",
+      "address": "Via Tagliamento, 17 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Zwarbar%2C%20Via%20Tagliamento%2C%2017%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar dal nome originale situato su una via laterale verso il fiume, che si distingue per uno stile informale e giovanile. È una delle alternative al bar d'albergo per chi cerca un'atmosfera meno tradizionale, spesso frequentato da giovani e appassionati di attività outdoor.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Hotel Centrale — Bar",
+      "address": "Piazza del Comune, 6 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Centrale%20%E2%80%94%20Bar%2C%20Piazza%20del%20Comune%2C%206%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Il bar dell'Hotel Centrale gode di una posizione privilegiata sulla piazza principale, cuore della vita sociale di Forni di Sopra, specialmente nelle serate estive. Serve classiche colazioni da albergo di montagna con prodotti tipici locali come miele, salumi e formaggi ed è aperto anche ai non ospiti.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Hotel I Larici — Bar",
+      "address": "Via Chianeit, 13 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20I%20Larici%20%E2%80%94%20Bar%2C%20Via%20Chianeit%2C%2013%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar all’interno di una struttura ricettiva situata in una via tranquilla; è accessibile anche a chi non alloggia nell'hotel. Si segnala per l’atmosfera raccolta e silenziosa, ideale per chi preferisce evitare il via vai del centro.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "La Stube — Bar e Ristorante",
+      "address": "Via Nazionale, 276 — 33024 Forni di Sopra (UD)",
+      "website_url": "https://www.lastube.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Stube%20%E2%80%94%20Bar%20e%20Ristorante%2C%20Via%20Nazionale%2C%20276%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Locale dalla proposta gastronomica ricca, che unisce le cucine cadorina e carnica in un ambiente accogliente tipicamente alpino. Il bar si presta bene per aperitivi, rinfreschi e piccoli eventi grazie anche alla sua attrezzatura per conferenze, e la posizione lo rende uno dei punti di sosta principali della statale.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Hotel Davost — Bar",
+      "address": "Via Nazionale — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Davost%20%E2%80%94%20Bar%2C%20Via%20Nazionale%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar interno all’Hotel Davost, apprezzato da ospiti e turisti per colazioni e aperitivi. La struttura è riconosciuta per il buon rapporto qualità-prezzo, con ottimi riscontri su Booking.com.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Hotel Due Cime — Bar",
+      "address": "Via Nazionale — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Due%20Cime%20%E2%80%94%20Bar%2C%20Via%20Nazionale%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Bar annesso a uno degli hotel più recenti del paese, disponibile per gli ospiti e, nei periodi di apertura, anche per i visitatori esterni. Offre colazione a buffet con una scelta tra dolce e salato e si distingue per le alte valutazioni della struttura.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Villa Alpina Hotel — Bar",
+      "address": "Via Nazionale — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Alpina%20Hotel%20%E2%80%94%20Bar%2C%20Via%20Nazionale%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Struttura ricettiva con bar interno vicino al centro di Forni di Sopra, nota per la pulizia e l’accoglienza dello staff. Offre la colazione agli ospiti in un ambiente valorizzato dalle buone valutazioni dei clienti.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Hotel Tarandan",
+      "address": "Via Vittorio Veneto, 24 — 33024 Forni di Sopra (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Tarandan%2C%20Via%20Vittorio%20Veneto%2C%2024%20%E2%80%94%2033024%20Forni%20di%20Sopra%20(UD)",
+      "image_url": null,
+      "description": "Hotel situato su una via tranquilla laterale, offre servizio bar per colazioni e aperitivi. Rappresenta una scelta più appartata e calma rispetto ai bar situati sul corso principale del paese.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/forni-di-sopra.md"
+    }
+  ]
+}

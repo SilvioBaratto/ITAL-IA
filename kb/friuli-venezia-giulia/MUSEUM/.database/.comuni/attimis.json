@@ -1,0 +1,19 @@
+{
+  "comune_name": "Attimis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/attimis.md",
+  "extracted_at": "2026-04-09T10:42:37.171Z",
+  "pois": [
+    {
+      "name": "Museo Archeologico Medievale di Attimis",
+      "address": "Centro del paese, Attimis (Via Roma o piazza principale — sede esatta da verificare presso il Comune)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Medievale%20di%20Attimis%2C%20Centro%20del%20paese%2C%20Attimis%20(Via%20Roma%20o%20piazza%20principale%20%E2%80%94%20sede%20esatta%20da%20verificare%20presso%20il%20Comune)",
+      "image_url": null,
+      "description": "Il Museo Archeologico Medievale di Attimis espone reperti provenienti dai castelli medievali della zona, come il Castello Superiore, Inferiore e quello di Partistagno. La collezione comprende vasellame, attrezzi, armi, monete e documentazione sugli scavi, offrendo uno spaccato della vita tra il X e il XV secolo lungo le vie strategiche tra le Alpi e la pianura friulana. La sede museale funge da riferimento culturale per la comunità e permette di riscoprire la storia locale e il ruolo difensivo del territorio. Gli orari variano stagionalmente e l'ingresso è generalmente gratuito o a offerta libera.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/attimis.md"
+    }
+  ]
+}

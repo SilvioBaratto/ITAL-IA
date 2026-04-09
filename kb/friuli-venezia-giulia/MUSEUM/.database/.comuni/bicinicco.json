@@ -1,0 +1,19 @@
+{
+  "comune_name": "Bicinicco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bicinicco.md",
+  "extracted_at": "2026-04-09T10:42:59.372Z",
+  "pois": [
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo (Gris) — patrimonio affrescato di eccezionale interesse",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20(Gris)%20%E2%80%94%20patrimonio%20affrescato%20di%20eccezionale%20interesse%2C%20Bicinicco",
+      "image_url": null,
+      "description": "La chiesa di Sant'Andrea Apostolo nella frazione di Gris custodisce uno dei cicli di affreschi rinascimentali più estesi e meglio conservati della pianura friulana, realizzato tra il 1523 e il 1531 da Gaspare Negro e dalla sua bottega. L'interno è decorato con 72 scene tratte dall'Antico e dal Nuovo Testamento, offrendo una rara témoignanza della tradizione della Biblia pauperum. Pur non essendo un museo istituzionale, la chiesa rappresenta il principale contenitore di arte accessibile a Bicinicco. Le visite sono possibili durante le funzioni religiose o su richiesta alla parrocchia o al comune.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bicinicco.md"
+    }
+  ]
+}

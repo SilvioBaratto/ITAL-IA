@@ -1,0 +1,173 @@
+{
+  "comune_name": "Cividale del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md",
+  "extracted_at": "2026-04-09T10:22:46.184Z",
+  "pois": [
+    {
+      "name": "Duomo di Santa Maria Assunta (Basilica minore)",
+      "address": "Piazza del Duomo, Cividale del Friuli",
+      "website_url": "https://arcidiocesi.udine.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Santa%20Maria%20Assunta%20(Basilica%20minore)%2C%20Piazza%20del%20Duomo%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Duomo di Santa Maria Assunta è la chiesa madre di Cividale, dichiarata basilica minore nel 1909. L'edificio, ricostruito più volte tra Medioevo e Rinascimento, presenta una facciata sobria e un interno a tre navate, ricco di preziose opere d'arte come la pala d’argento di Pellegrino II (1200), tele di Palma il Giovane e Amalteo, e cicli di affreschi. Il campanile domina il centro cittadino e ogni 6 gennaio ospita la Messa dello Spadone, rito unico legato alla storia patriarcale locale.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Tempietto Longobardo (Oratorio di Santa Maria in Valle) ★ UNESCO",
+      "address": "Via Monastero Maggiore, Borgo Brossana, Cividale del Friuli",
+      "website_url": "https://www.cividale.net/tempietto-longobardo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempietto%20Longobardo%20(Oratorio%20di%20Santa%20Maria%20in%20Valle)%20%E2%98%85%20UNESCO%2C%20Via%20Monastero%20Maggiore%2C%20Borgo%20Brossana%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Tempietto longobardo, noto ufficialmente come Oratorio di Santa Maria in Valle, è uno dei più importanti monumenti altomedievali europei e dal 2011 è parte del patrimonio UNESCO. Edificato nell'VIII secolo, custodisce straordinarie decorazioni in stucco, tra cui le celebri sei Sante, lunette affrescate e una cantoria lignea quattrocentesca. La struttura rappresenta la sintesi tra arte longobarda e motivi classici, carolingi e ottoniani.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Monastero di Santa Maria in Valle",
+      "address": "Via Monastero Maggiore, Borgo Brossana, Cividale del Friuli",
+      "website_url": "https://www.comune.cividale-del-friuli.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastero%20di%20Santa%20Maria%20in%20Valle%2C%20Via%20Monastero%20Maggiore%2C%20Borgo%20Brossana%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Monastero di Santa Maria in Valle, risalente al VII secolo, è strettamente connesso al Tempietto longobardo e ha ospitato monache benedettine e orsoline. Il complesso comprende chiese, chiostro e sala refettorio, incorporando elementi architettonici antichi e testimonianze della vita religiosa medievale. Nei secoli, la sua biblioteca era rinomata nel mondo carolingio, confermando il ruolo centrale di Cividale nella cultura spirituale friulana.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Museo Cristiano e Tesoro del Duomo",
+      "address": "Via Condotti 1 (accesso dal Duomo), Cividale del Friuli",
+      "website_url": "http://www.webdiocesi.chiesacattolica.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Cristiano%20e%20Tesoro%20del%20Duomo%2C%20Via%20Condotti%201%20(accesso%20dal%20Duomo)%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Museo Cristiano e Tesoro del Duomo, inaugurato nel 1947, raccoglie capolavori dell’arte longobarda e medievale, come l'Altare del duca Ratchis e il Fonte battesimale del patriarca Callisto. Il percorso espositivo include oggetti liturgici, busti e dipinti di Veronese e Pordenone, tessuti preziosi e la storica cattedra patriarcale, offrendo una panoramica unica sul patrimonio ecclesiastico cittadino.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Giovanni in Xenodochio",
+      "address": "Piazza San Giovanni, Cividale del Friuli",
+      "website_url": "http://www.cividale.net/San-Giovanni-in-Xenodochio.260.0.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giovanni%20in%20Xenodochio%2C%20Piazza%20San%20Giovanni%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Giovanni in Xenodochio, tra i più antichi edifici sacri di Cividale, fu fondata su una basilica paleocristiana con necropoli romana e longobarda. In origine chiesa madre dei Longobardi di rito ariano, fu successivamente convertita e ricostruita in stile neoclassico nel XVIII secolo. Vanta affreschi di Palma il Giovane e Canal, mentre pale di Veronese sono oggi conservate nel Museo Cristiano.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Martino",
+      "address": "Borgo Ponte, Cividale del Friuli",
+      "website_url": "http://www.cividale.net/index.php?id=264",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%2C%20Borgo%20Ponte%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Martino, documentata dal XIII secolo, si distingue per la facciata neoclassica e per il ritrovamento di tombe longobarde sul sagrato, attribuite ai duchi del Friuli. L'interno ospitò per secoli l'Altare del duca Ratchis, oggi al Museo Cristiano, e presenta opere di Nicola Grassi, Jacopo Contiero e mobili d’epoca settecentesca.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Francesco (sconsacrata)",
+      "address": "Piazza San Francesco, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Francesco%20(sconsacrata)%2C%20Piazza%20San%20Francesco%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Francesco, esempio di gotico francescano del XIII secolo, fu consacrata nel 1285 e spesso utilizzata per riunioni civiche medievali. Gravemente danneggiata nella ritirata di Caporetto, è oggi sconsacrata e impiegata per eventi culturali. L'interno ad unica navata conserva cicli affrescati dei secoli XIV–XVI, attribuiti a seguaci di Vitale da Bologna e Altichiero.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa dei Santi Pietro e Biagio",
+      "address": "Piazzetta di San Biagio, Borgo Brossana, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Pietro%20e%20Biagio%2C%20Piazzetta%20di%20San%20Biagio%2C%20Borgo%20Brossana%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Questa piccola chiesa gotica, ricostruita nel XV secolo, è rinomata per i suoi affreschi cinquecenteschi sulla facciata, raffiguranti vari santi e restaurati di recente. All’interno si trovano opere di Pietro Miani, Secante Secanti e Marco Vecellio, oltre a affreschi trecenteschi che narrano la vita di San Biagio e una rara serie di 'Mesi'.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa dei Santi Silvestro e Valentino",
+      "address": "Cividale del Friuli (centro storico)",
+      "website_url": "http://www.cividale.net/San-Silvestro-e-Valentino.261.0.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Silvestro%20e%20Valentino%2C%20Cividale%20del%20Friuli%20(centro%20storico)",
+      "image_url": null,
+      "description": "La chiesa dei Santi Silvestro e Valentino, già documentata nel VII secolo, ha subito numerose ricostruzioni fino all’attuale aspetto neoclassico. La facciata tripartita e la navata unica sono arricchite da affreschi di Barazzutti e Quaglio il Giovane e da un crocifisso ligneo seicentesco di Orazio Liberale. Tombe longobarde sono state scoperte sotto l'edificio.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria di Corte",
+      "address": "Cividale del Friuli (centro storico)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20di%20Corte%2C%20Cividale%20del%20Friuli%20(centro%20storico)",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria di Corte, originariamente cappella privata del palazzo patriarcale di Aquileia, testimonia l'antica presenza ecclesiastica nella città. L'edificio riflette rimaneggiamenti successivi e conserva il carattere storicamente legato alla corte patriarcale, pur senza rilevanti opere d’arte specificate.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Pantaleone (frazione Rualis)",
+      "address": "Rualis, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pantaleone%20(frazione%20Rualis)%2C%20Rualis%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Pantaleone si trova nella frazione rurale di Rualis ed è dedicata al martire medico. Rappresenta un esempio delle antiche pievi rurali del Friuli orientale, nate durante le colonizzazioni altomedievali per fornire servizi spirituali e sociali alle comunità agricole.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Giorgio in Vado (frazione Rualis)",
+      "address": "Rualis, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%20in%20Vado%20(frazione%20Rualis)%2C%20Rualis%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Giorgio in Vado, situata presso un antico guado nella frazione di Rualis, è dedicata a uno dei santi più venerati della regione. Fa parte delle pievi campestri tipiche del territorio tra Cividale e le Valli del Natisone, attestando la devozione diffusa e la funzione strategica religiosa nel paesaggio locale.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa delle Sante Dorotea e Apollonia (frazione Grupignano)",
+      "address": "Grupignano, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20delle%20Sante%20Dorotea%20e%20Apollonia%20(frazione%20Grupignano)%2C%20Grupignano%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Fondata nel XVI secolo, la chiesa delle Sante Dorotea e Apollonia si trova in territorio rurale ed è dedicata alle martiri protettrici delle donne e dei denti. L’edificio è caratterizzato da una semplicità architettonica conforme alle cappelle di campagna friulane, riflettendo la devozione locale e la vita religiosa della comunità di Grupignano.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Floriano (frazione Gagliano)",
+      "address": "Gagliano, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Floriano%20(frazione%20Gagliano)%2C%20Gagliano%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Floriano a Gagliano è sede parrocchiale e svolge un ruolo centrale nella vita religiosa della frazione agricola. Dedicata a San Floriano di Lorch, protettore contro incendi e inondazioni, testimonia la forte radicazione del culto in Friuli e la funzione aggregativa nella zona collinare orientale della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Floriano (frazione Sanguarzo)",
+      "address": "Sanguarzo, Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Floriano%20(frazione%20Sanguarzo)%2C%20Sanguarzo%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Floriano presso Sanguarzo conferma la diffusione del culto del santo nella sub-area orientale del Friuli. Collocata vicino al centro di Cividale, è parte della rete di cappelle e oratori rurali nati tra il basso Medioevo e l’età moderna per garantire servizio spirituale e aggregazione alle comunità contadine.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cividale-del-friuli.md"
+    }
+  ]
+}

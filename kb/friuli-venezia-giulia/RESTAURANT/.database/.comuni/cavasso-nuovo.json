@@ -1,0 +1,63 @@
+{
+  "comune_name": "Cavasso Nuovo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavasso-nuovo.md",
+  "extracted_at": "2026-04-09T10:57:20.524Z",
+  "pois": [
+    {
+      "name": "Trattoria Ai Cacciatori da Anna e Oscar",
+      "address": "Via Armando Diaz, 4 – Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Ai%20Cacciatori%20da%20Anna%20e%20Oscar%2C%20Via%20Armando%20Diaz%2C%204%20%E2%80%93%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Ai Cacciatori da Anna e Oscar è un punto di riferimento della cucina friulana a Cavasso Nuovo, premiata con la distinzione Bib Gourmand dalla guida Michelin e riconosciuta da Gambero Rosso per l'eccellente rapporto qualità-prezzo. Il locale, dallo stile semplice e accogliente, propone un menu fedele alle ricette tradizionali friulane, utilizzando ingredienti locali e stagionali, con piatti come blecs di grano saraceno e ortica, zuppa di cipolla rossa e pitina grigliata. Il servizio è amichevole e attento, e l'atmosfera familiare fa sentire gli ospiti come a casa, valorizzando la genuinità dei sapori regionali.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Trattoria Andrea",
+      "address": "SR464 – Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Andrea%2C%20SR464%20%E2%80%93%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Andrea è apprezzata per la sua cucina friulana autentica e l'atmosfera informale e familiare. Il locale propone piatti tradizionali preparati con ingredienti locali, ed è molto gradito per la cordialità del servizio e la qualità costante, vantando buone valutazioni sulle principali piattaforme. Offre servizi di asporto, consegna a domicilio e accessibilità, risultando una scelta flessibile sia per pasti veloci che per occasioni in famiglia.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Ristorantino da Issa",
+      "address": "Via Vittorio Emanuele, 15/16 – Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorantino%20da%20Issa%2C%20Via%20Vittorio%20Emanuele%2C%2015%2F16%20%E2%80%93%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "Ristorantino da Issa porta la cucina medio-orientale in Friuli, con specialità autentiche giordane create dal chef Issa e dalla moglie Luciana. Il menu segue la stagionalità e la disponibilità degli ingredienti, offrendo piatti come Magluba, hummus, falafel e couscous e un'ospitalità calorosa in un ambiente arredato in stile arabo. L'esperienza culinaria è resa unica dal mix tra vini locali e cucina giordana, ma si consiglia di verificare l'apertura per orari variabili.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "BiciGrill",
+      "address": "Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=BiciGrill%2C%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "BiciGrill offre un'opzione veloce ed economica a Cavasso Nuovo, ideale per chi desidera un pasto leggero e informale. Il locale è conosciuto per i suoi panini di qualità e una buona selezione di birre, rappresentando la scelta perfetta per ciclisti o viaggiatori in transito che cercano una sosta piacevole e senza impegno.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavasso-nuovo.md"
+    },
+    {
+      "name": "Benzi Bar",
+      "address": "Cavasso Nuovo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Benzi%20Bar%2C%20Cavasso%20Nuovo%20(PN)",
+      "image_url": null,
+      "description": "Benzi Bar è un locale informale che offre anche servizio di ristorante a prezzi molto accessibili, tra €1 e €10 a persona. Dispone di parcheggio gratuito e rappresenta una scelta economica sia per locali sia per visitatori che vogliono mangiare bene senza spendere troppo.",
+      "comune_name": "Cavasso Nuovo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavasso-nuovo.md"
+    }
+  ]
+}

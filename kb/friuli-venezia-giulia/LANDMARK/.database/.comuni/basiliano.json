@@ -1,0 +1,195 @@
+{
+  "comune_name": "Basiliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md",
+  "extracted_at": "2026-04-09T10:34:40.761Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Sant'Andrea Apostolo — Basiliano (capoluogo)",
+      "address": "Piazza del Municipio",
+      "website_url": "http://www.parrocchia-basiliano.it/parrocchie/basiliano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Piazza%20del%20Municipio",
+      "image_url": null,
+      "description": "Situata in Piazza del Municipio, questa chiesa rappresenta il principale edificio di culto del capoluogo di Basiliano e risale al XIV secolo. L'attuale struttura, caratterizzata dalla facciata neoclassica e dalle tre navate interne, conserva elementi del presbiterio medievale e numerose opere d'arte, tra cui l'altare maggiore e affreschi storici. La torre campanaria fu costruita nel XVIII secolo, mentre importanti restauri hanno consentito la scoperta di resti storici e archeologici. Dal 1937 è la chiesa parrocchiale autonoma del paese.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesetta Campestre di San Marco Evangelista — Basiliano (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20Campestre%20di%20San%20Marco%20Evangelista%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "Piccolo oratorio rurale situato nel territorio del capoluogo, dedicato a San Marco Evangelista. Secondo la tradizione locale, la sua origine risalirebbe all'età romana, ed è considerata una preziosa testimonianza del sistema devozionale campestre che caratterizzava il Friuli medievale. Ancora oggi rappresenta un significativo punto spirituale per la comunità contadina.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Monumento ai Caduti di Aurelio Mistruzzi — Basiliano (capoluogo)",
+      "address": "Piazza del Municipio",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%20di%20Aurelio%20Mistruzzi%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Piazza%20del%20Municipio",
+      "image_url": null,
+      "description": "Questo monumento commemorativo, situato in Piazza del Municipio, è dedicato ai caduti delle due guerre mondiali ed è opera dello scultore basilianese Aurelio Mistruzzi. Rappresenta sia l'importanza storica locale sia il legame con una delle personalità artistiche più rilevanti della regione. Il monumento simboleggia anche l'impegno civile e il ricordo collettivo della comunità.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Villa Zamparo — Basiliano (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Zamparo%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "Villa Zamparo è una storica dimora ottocentesca situata nel capoluogo, oggi sede della biblioteca civica e di diverse realtà associative. Un tempo residenza della famiglia Zamparo, rappresenta un importante esempio di architettura borghese agraria friulana e costituisce il cuore della vita culturale e associativa locale.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Stazione Ferroviaria di Basiliano — Basiliano (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Stazione%20Ferroviaria%20di%20Basiliano%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "La stazione di Basiliano, inaugurata nel 1860 sulla linea Venezia-Udine, è uno dei monumenti civili più rilevanti del comune. Ricordata anche per il passaggio di Vittorio Emanuele III durante la Prima guerra mondiale, l’edificio ottocentesco mantiene intatta la struttura originaria. Sulla facciata è presente una lapide commemorativa che ne sottolinea il valore storico.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Rifugio della Seconda Guerra Mondiale — Basiliano (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20della%20Seconda%20Guerra%20Mondiale%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "Nel capoluogo si conserva un rifugio antiaereo della Seconda guerra mondiale, costruzione sotterranea testimonianza dei bombardamenti subiti dal territorio. Questi manufatti rappresentano la memoria materiale di un'epoca difficile e sono stati preservati come parte integrante del patrimonio storico locale.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Castelliere di Variano / Colle di San Leonardo — Variano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castelliere%20di%20Variano%20%2F%20Colle%20di%20San%20Leonardo%20%E2%80%94%20Variano%2C%20Basiliano",
+      "image_url": null,
+      "description": "Situato sul Colle di San Leonardo, il castelliere di Variano è uno dei principali siti protostorici della zona, con tracce di insediamenti dalla preistoria all’età medievale. Il luogo permette di osservare resti di terrapieni e sistemi difensivi tipici dei castellieri friulani e offre una rara vista panoramica collinare sulla pianura friulana.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Duomo di San Giovanni Battista — Variano",
+      "address": null,
+      "website_url": "http://www.parrocchia-basiliano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Variano%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giovanni Battista di Variano, elevata a Duomo nel 2018, è uno dei luoghi di culto più antichi e importanti del comune. Le sue origini documentate risalgono al 1190, e la sua storia è intrecciata alle vicende religiose e politiche del Friuli. Il Duomo ha svolto per secoli un ruolo centrale nella vita delle comunità locali ed è caratterizzato da una lunga tradizione spirituale e storica.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesetta Campestre di San Leonardo — Variano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20Campestre%20di%20San%20Leonardo%20%E2%80%94%20Variano%2C%20Basiliano",
+      "image_url": null,
+      "description": "Questa cappella campestre del XVI secolo sorge sulla sommità del Colle di San Leonardo, area già occupata da un castelliere protostorico. L'edificio è noto soprattutto per gli affreschi del 1529 che decorano l’interno e che costituiscono un'importante testimonianza della pittura devozionale friulana. La posizione isolata offre anche un ampio panorama sulla pianura circostante, accrescendo il fascino storico e artistico del luogo.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Bartolomeo Apostolo — Orgnano",
+      "address": null,
+      "website_url": "http://www.parrocchia-basiliano.it/parrocchie/orgnano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Bartolomeo%20Apostolo%20%E2%80%94%20Orgnano%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa di San Bartolomeo Apostolo, la parrocchiale di Orgnano, ha origini nel XV secolo ed è stata oggetto di vari restauri, in particolare nell'Ottocento e nel 1954. Dedicata all'apostolo patrono delle comunità rurali, la chiesa si presenta oggi con una struttura restaurata e rappresenta il centro spirituale della frazione.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesetta Campestre di San Pietro Apostolo — Orgnano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20Campestre%20di%20San%20Pietro%20Apostolo%20%E2%80%94%20Orgnano%2C%20Basiliano",
+      "image_url": null,
+      "description": "Questa chiesetta dedicata a San Pietro Apostolo nella frazione di Orgnano fu costruita nella seconda metà del Quattrocento. Sorgeva probabilmente lungo una strada vicinale e fungeva da punto di riferimento spirituale per i lavoratori agricoli. La sua antichità la rende una delle più antiche strutture religiose della zona ancora conservate.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Michele Arcangelo — Vissandone",
+      "address": null,
+      "website_url": "http://www.parrocchia-basiliano.it/parrocchie/vissandone/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Vissandone%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa di San Michele Arcangelo di Vissandone, con origini precedenti all’XI secolo, fu ricostruita nel XVIII secolo in stile neoclassico su progetto di Benedetto Stella. Oggi è uno degli esempi meglio conservati di architettura religiosa settecentesca nel Medio Friuli. Un’importante ristrutturazione alla fine del Novecento le ha restituito l’aspetto attuale.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Grotta della Madonna di Lourdes — Vissandone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20della%20Madonna%20di%20Lourdes%20%E2%80%94%20Vissandone%2C%20Basiliano",
+      "image_url": null,
+      "description": "La Grotta della Madonna di Lourdes a Vissandone è un piccolo santuario devozionale realizzato sul modello di quello francese. Eretta tra la fine dell'Ottocento e il primo Novecento, rappresenta un’espressione significativa della religiosità popolare locale e testimonia la diffusione del culto mariano nel Friuli.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Lavatoio Storico (Lavador) — Vissandone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lavatoio%20Storico%20(Lavador)%20%E2%80%94%20Vissandone%2C%20Basiliano",
+      "image_url": null,
+      "description": "Il lavatoio pubblico di Vissandone, detto Lavador, è un tipico manufatto di architettura rurale friulana diffuso tra Ottocento e primo Novecento. Era un luogo fondamentale per la vita comunitaria femminile e la socializzazione e resta una rara testimonianza dell’organizzazione sociale pre-industriale della zona.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa Campestre di Sant'Orsola — Villaorba",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Campestre%20di%20Sant'Orsola%20%E2%80%94%20Villaorba%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa campestre di Sant'Orsola, costruita nel 1338 presso Villaorba, è uno degli edifici più antichi del comune. Storicamente fungeva da luogo di culto per pescatori e commercianti di passaggio, rappresentando un importante punto di aggregazione devozionale tra le comunità rurali e lagunari.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Assunta — Basagliapenta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Basagliapenta%2C%20Basiliano",
+      "image_url": null,
+      "description": "La parrocchia di Santa Maria Assunta è il principale edificio religioso della frazione di Basagliapenta. La chiesa si inserisce nella storica rete di edifici parrocchiali che garantivano assistenza spirituale alle piccole comunità del Friuli rurale ed è situata vicino al monumento ai caduti della frazione.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santo Stefano Protomartire — Blessano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santo%20Stefano%20Protomartire%20%E2%80%94%20Blessano%2C%20Basiliano",
+      "image_url": null,
+      "description": "La parrocchia di Santo Stefano Protomartire è il fulcro religioso e culturale della frazione di Blessano. Rappresenta uno dei luoghi di culto più antichi della zona, intorno al quale si organizzano le principali celebrazioni religiose e culturali del paese. Il vicino cimitero storico testimonia l'antica presenza della comunità.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/basiliano.md"
+    }
+  ]
+}

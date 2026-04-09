@@ -1,0 +1,85 @@
+{
+  "comune_name": "Paluzza",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md",
+  "extracted_at": "2026-04-09T11:10:31.980Z",
+  "pois": [
+    {
+      "name": "La Torate di Maier Stefano",
+      "address": "Via Divisione Julia 54, 33026 Paluzza (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Torate%20di%20Maier%20Stefano%2C%20Via%20Divisione%20Julia%2054%2C%2033026%20Paluzza%20(UD)",
+      "image_url": null,
+      "description": "La Torate di Maier Stefano è una pizzeria-ristorante che offre un'atmosfera calda e informale, impreziosita da un focolare a vista, simbolo dell'autenticità carnica. Il menu propone pizze di qualità superiore e piatti tipici tra cui carne affumicata, selvaggina, frico e cjarsons preparati secondo la ricetta tradizionale. Il locale è consigliato per gruppi e famiglie, con prezzi accessibili e un personale cordiale.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    },
+    {
+      "name": "Ristorante Da Otto (Timau)",
+      "address": "Via Maria Plozner Mentil 15, 33020 Timau, Paluzza (UD)",
+      "website_url": "https://www.instagram.com/ristoranteda8/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Da%20Otto%20(Timau)%2C%20Via%20Maria%20Plozner%20Mentil%2015%2C%2033020%20Timau%2C%20Paluzza%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Da Otto, storico albergo-ristorante della famiglia Matiz, è un punto di riferimento a Timau dal 1870. L'ambiente tradizionale ospita una cucina basata su ingredienti locali come funghi di bosco, erbe della Carnia e formaggi di malga, con piatti handmade che spaziano dalla cucina italiana alle ricette friulane. L'atmosfera è calorosa e il servizio attento; il locale offre anche camere per pernottare, con prezzi moderati.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    },
+    {
+      "name": "La Tambra",
+      "address": "Via Nazionale 76, 33026 Paluzza (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tambra%2C%20Via%20Nazionale%2076%2C%2033026%20Paluzza%20(UD)",
+      "image_url": null,
+      "description": "La Tambra è un ristorante bar-pizzeria informale che propone pizza, cucina italiana e piatti friulani, ideale per colazioni, pranzi e cene in famiglia. Si trova in una ex caserma militare con museo storico, offrendo un menu vario e opzioni vegetariane in un ambiente accogliente. I prezzi sono contenuti, adatti a chi cerca un pasto veloce o una pausa economica.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    },
+    {
+      "name": "Agriturismo Al Borg",
+      "address": "Cleulis, Paluzza (UD)",
+      "website_url": "https://www.agriturismo.it/it/agriturismi/friuli-venezia_giulia/udine/AlBorg-5120077/index.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Borg%2C%20Cleulis%2C%20Paluzza%20(UD)",
+      "image_url": null,
+      "description": "L'Agriturismo Al Borg, immerso nella Valle del But, offre ristorazione e camere in una location familiare e autentica. Il ristorante propone ricette della cucina carnica come cjarsons alle erbe, gnocchi di ricotta, frico con patate e secondi di carne, preparati in casa dagli chef Marcellina e Simone. La struttura è ideale per gruppi, eventi privati e ritiri, con prezzi proporzionati all'esclusività e qualità.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    },
+    {
+      "name": "Agriturismo Malga Pramosio",
+      "address": "Via Laipacco, Paluzza (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Malga%20Pramosio%2C%20Via%20Laipacco%2C%20Paluzza%20(UD)",
+      "image_url": null,
+      "description": "Malga Pramosio è una vera azienda casearia d'alpeggio, situata a 1.521 metri tra le montagne, e offre piatti genuini della cucina carnica basati sulle produzioni casearie proprie: formaggi, ricotta e burro freschi. Il ristorante accoglie i visitatori in un'atmosfera familiare e immersiva, con ingredienti locali e una stagione estiva che regala paesaggi e sapori unici. I prezzi sono moderati e l'esperienza autentica.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    },
+    {
+      "name": "Rifugio Giovanni e Olinto Marinelli",
+      "address": null,
+      "website_url": "https://www.alpinafriulana.it/rifugio-marinelli/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Giovanni%20e%20Olinto%20Marinelli%2C%20Paluzza",
+      "image_url": null,
+      "description": "Il Rifugio Marinelli, il più antico della Carnia, si trova a 2.122 metri ai piedi del Monte Coglians e offre 50 posti letto, terrazza panoramica e una cucina alpina con zuppe, polenta, carne e specialità carnice. L'atmosfera è conviviale tra escursionisti con servizi moderni e prezzi nella media dei rifugi alpini. Si consiglia di verificare orari e disponibilità prima della visita.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    },
+    {
+      "name": "Al Valico Carnico - Ristorante & Albergo",
+      "address": "Via Monte Croce, 33026 Timau, Paluzza (UD)",
+      "website_url": "https://www.alvalicocarnico.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Valico%20Carnico%20-%20Ristorante%20%26%20Albergo%2C%20Via%20Monte%20Croce%2C%2033026%20Timau%2C%20Paluzza%20(UD)",
+      "image_url": null,
+      "description": "Al Valico Carnico è un ristorante-albergo situato al Passo di Monte Croce Carnico, tra Italia e Austria. Il menu offre cucina carnica, friulana e specialità internazionali, tra cui cjarsons, polenta, spalla cotta affumicata, e opzioni vegan. L'ambiente unisce tradizione e modernità, con viste spettacolari sulle Alpi e possibilità di pernottare; è ideale per una cena con storia e panorami alpini.",
+      "comune_name": "Paluzza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/paluzza.md"
+    }
+  ]
+}

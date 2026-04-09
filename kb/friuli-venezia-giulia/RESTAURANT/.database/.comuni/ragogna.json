@@ -1,0 +1,85 @@
+{
+  "comune_name": "Ragogna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md",
+  "extracted_at": "2026-04-09T11:14:27.601Z",
+  "pois": [
+    {
+      "name": "Al Vecio Traghet – La Tabina",
+      "address": "Via Prevalin, Borgo di Mezzo – Ragogna (UD), 33030",
+      "website_url": "http://www.alvecjotraghet.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Vecio%20Traghet%20%E2%80%93%20La%20Tabina%2C%20Via%20Prevalin%2C%20Borgo%20di%20Mezzo%20%E2%80%93%20Ragogna%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Al Vecio Traghet è un locale noto e caratteristico di Ragogna, immerso nel verde di un ampio parco che si affaccia sul Tagliamento. Propone una cucina friulana autentica con ingredienti biologici e a chilometro zero: il frico con polenta è la specialità della casa, affiancato da salumi e formaggi locali, pasta fatta in casa e grigliate di carne. Accanto alla trattoria si trova il Kiosko Tabine, che nei mesi estivi diventa punto di aggregazione con musica dal vivo e cocktail; la struttura ospita anche un Bed & Breakfast. L'atmosfera informale e la posizione naturale lo rendono ideale per famiglie ed escursionisti tutto l'anno.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    },
+    {
+      "name": "Locanda Al Borcolan",
+      "address": "Via Castello, 25 – San Pietro di Ragogna (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Al%20Borcolan%2C%20Via%20Castello%2C%2025%20%E2%80%93%20San%20Pietro%20di%20Ragogna%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "La Locanda Al Borcolan si trova nella pittoresca frazione di San Pietro, ai piedi del colle del Castello di Ragogna. È una locanda tradizionale con cucina friulana collinare preparata con ingredienti locali e un ambiente semplice e accogliente. Punto di riferimento per escursionisti, ciclisti e visitatori del castello, offre anche alloggio, ideale per chi desidera esplorare con calma il territorio.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    },
+    {
+      "name": "Pizzeria Da Romano",
+      "address": "Piazza 4 Novembre – Ragogna (UD), 33030 (frazione Muris/San Giacomo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Romano%2C%20Piazza%204%20Novembre%20%E2%80%93%20Ragogna%20(UD)%2C%2033030%20(frazione%20Muris%2FSan%20Giacomo)",
+      "image_url": null,
+      "description": "La Pizzeria Da Romano è uno dei locali storici della piazza centrale di Ragogna, con funzioni da pizzeria, bar e locanda. È famosa per le pizze cotte nel forno a legna con ingredienti del territorio e propone anche piatti della cucina casalinga friulana. L'atmosfera è genuina e accogliente, ideale per pasti quotidiani in un contesto semplice e conviviale.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    },
+    {
+      "name": "Locanda/Ristorante Da Cidalie",
+      "address": "Via Vittorio Veneto, 5 – Ragogna (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%2FRistorante%20Da%20Cidalie%2C%20Via%20Vittorio%20Veneto%2C%205%20%E2%80%93%20Ragogna%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Da Cidalie è una locanda-ristorante situata nel cuore di Ragogna, conosciuta per la cucina tipica friulana in un ambiente familiare e informale. Tra le specialità figurano minestre di legumi, pasta fatta in casa, frico con polenta e piatti di carne locale. Il locale è molto frequentato sia da residenti che da turisti, anche grazie all'offerta di alloggio.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    },
+    {
+      "name": "Osteria Da Valter",
+      "address": "Via Udine, 16 – Ragogna (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Da%20Valter%2C%20Via%20Udine%2C%2016%20%E2%80%93%20Ragogna%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "L'Osteria Da Valter è una classica osteria friulana frequentata dai residenti, apprezzata per la cucina tradizionale senza fronzoli e l'atmosfera autentica. Propone piatti genuini come crostini con lardo, formaggi tipici, frico morbido con polenta, zuppe di fagioli e brasato. I vini friulani selezionati completano l'offerta di questo storico locale di paese.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    },
+    {
+      "name": "Locanda Da Beltrame",
+      "address": "Via Udine, 22 – Pignano di Ragogna (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Da%20Beltrame%2C%20Via%20Udine%2C%2022%20%E2%80%93%20Pignano%20di%20Ragogna%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "La Locanda Da Beltrame si trova nella tranquilla frazione rurale di Pignano e offre sia ristorazione che alloggio in un ambiente semplice. La cucina è casalinga e segue la tradizione friulana, con piatti preparati in base alla stagionalità e agli ingredienti locali. Il locale è particolarmente indicato per chi fa escursioni o viaggia nelle zone meno battute di Ragogna.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    },
+    {
+      "name": "Fratelli Molinaro – Prosciuttificio con Spaccio e Degustazioni",
+      "address": "Via Prevalin, 11 – Villuzza di Ragogna (UD), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fratelli%20Molinaro%20%E2%80%93%20Prosciuttificio%20con%20Spaccio%20e%20Degustazioni%2C%20Via%20Prevalin%2C%2011%20%E2%80%93%20Villuzza%20di%20Ragogna%20(UD)%2C%2033030",
+      "image_url": null,
+      "description": "Il prosciuttificio Fratelli Molinaro, pur non essendo un ristorante vero e proprio, offre degustazioni di prosciutti e salumi artigianali prodotti secondo i metodi tradizionali. Lo spaccio aziendale permette acquisti diretti e visite guidate per scoprire il processo di stagionatura e abbinare i prodotti a vini e formaggi locali. È una tappa obbligata per chi desidera approfondire la cultura gastronomica di Ragogna.",
+      "comune_name": "Ragogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ragogna.md"
+    }
+  ]
+}

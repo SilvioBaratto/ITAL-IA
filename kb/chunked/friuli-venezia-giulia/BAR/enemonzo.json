@@ -1,0 +1,46 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/enemonzo.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Enemonzo",
+  "province": "UD",
+  "page_title": "Enemonzo",
+  "page_summary": "Questa guida ai bar di Enemonzo descrive il Birrificio Casamatta a Quinis, noto per le sue birre artigianali e la taproom, e il panificio-caffetteria Al Vecchio Forno, punto di aggregazione locale. Si tratta delle attività meglio documentate nella categoria bar all'interno del comune.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/enemonzo.md",
+  "processed_at": "2026-04-09T12:07:19.817Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/enemonzo__0",
+      "text": "### Birrificio Casamatta\n\n**Quinis (frazione di Enemonzo) — Via di Sotto, 5 — 33020 Enemonzo (UD)**\n**Tel.** +39 333 641 8854\n**Web:** [www.birracasamatta.com](https://www.birracasamatta.com/)\n**Orari:** mer e ven 16:00–20:00; sab e dom 11:00–20:00\n\nIl Birrificio Casamatta è la realtà più vivace e originale nel panorama del bere ad Enemonzo. Nato come progetto artigianale nella quieta frazione di Quinis, ha trasformato una piccola produzione di birre a fermentazione di qualità in un punto di riferimento per gli appassionati di tutto il Friuli montano. Il nome evoca il fortino, il rifugio, il luogo protetto — e in effetti la taproom del birrificio ha quella qualità schietta e conviviale tipica dei microbirrifici di montagna: un banco dove il birraio e il cliente si parlano direttamente, si discute di malti e luppoli, di stagioni e di ricette.\n\nLe birre di Casamatta giocano con i profumi delle erbe locali e con le tradizioni birrarie alpine, spaziando tra stili diversi senza perdere un'identità di territorio ben definita. Il claim aziendale — «l'arte della birra artigianale» — non è una formula vuota: le referenze ruotano stagionalmente e alcune edizioni limitate omaggiano esplicitamente la Carnia, con nomi e ingredienti evocativi del paesaggio circostante. La taproom è aperta nei fine settimana e a metà settimana, trasformandosi in un luogo di socialità informale dove capita di incontrare escursionisti, ciclisti di passaggio e residenti del circondario.\n\nDa Casamatta non si fa colazione nel senso tradizionale del termine, ma nel tardo pomeriggio del sabato o durante una mattinata domenicale di bel tempo è possibile sedersi all'esterno, gustare una birra di qualità e godere della vista sulla Carnia che si apre tutt'intorno. Un aperitivo con birra artigianale, magari accompagnato da qualche prodotto locale, è l'esperienza più autentica che questo birrificio di frontiera sa offrire.",
+      "metadata": {
+        "section_title": "Birrificio Casamatta",
+        "links": [
+          {
+            "text": "www.birracasamatta.com",
+            "url": "https://www.birracasamatta.com/"
+          }
+        ],
+        "addresses": [
+          "Quinis (frazione di Enemonzo) — Via di Sotto, 5 — 33020 Enemonzo (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": "mer e ven 16:00–20:00; sab e dom 11:00–20:00",
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/enemonzo__1",
+      "text": "### Al Vecchio Forno\n\n**Via Nazionale, 85 — 33020 Enemonzo (UD)**\n\nLungo la Via Nazionale che attraversa il centro di Enemonzo si trova il panificio noto come Al Vecchio Forno, un riferimento quotidiano per chi abita nel comune e nelle frazioni circostanti. La denominazione richiama direttamente la tradizione del pane cotto a legna, e il locale rappresenta quel tipo di esercizio polivalente — parte panificio, parte spaccio di prodotti locali — che nelle realtà montane della Carnia assolve spesso anche alla funzione di punto di aggregazione mattutino.\n\nQui ci si ferma per comprare il pane di segale o la mischta (il tipico pane misto friulano), i biscotti fatti in casa, le crostate di marmellata di bosco. Non è raro che il fornaio dispensi anche caffè al banco, trasformandosi nei fatti in una piccola caffetteria di vicinato dove i paesani si scambiano qualche parola prima di iniziare la giornata. In un comune come Enemonzo, questo tipo di esercizio — difficilmente codificabile come \"bar\" nel senso stretto — è spesso il luogo dove si consuma la vera colazione carnica: pane fresco, burro, marmellata di mirtilli selvatici, e un bicchiere di latte o un caffè veloce al banco.",
+      "metadata": {
+        "section_title": "Al Vecchio Forno",
+        "links": [],
+        "addresses": [
+          "Via Nazionale, 85 — 33020 Enemonzo (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

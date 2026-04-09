@@ -1,0 +1,30 @@
+{
+  "comune_name": "Turriaco",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/turriaco.md",
+  "extracted_at": "2026-04-09T11:24:08.534Z",
+  "pois": [
+    {
+      "name": "Dal Peon",
+      "address": "Via Giuseppe Garibaldi 6, Turriaco, 34070 GO",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dal%20Peon%2C%20Via%20Giuseppe%20Garibaldi%206%2C%20Turriaco%2C%2034070%20GO",
+      "image_url": null,
+      "description": "Dal Peon è il principale ristorante di cucina regionale di Turriaco, gestito dalla famiglia Spanghero e fortemente radicato nella vita sociale del paese. Il locale propone una cucina bisiaca e friulana, con piatti stagionali che riflettono la tradizione contadina: salumi tipici, jota, arrosti, frico e selvaggina sono alcune delle specialità. L'atmosfera è informale e accogliente, particolarmente animata durante i pranzi domenicali e le festività locali.",
+      "comune_name": "Turriaco",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/turriaco.md"
+    },
+    {
+      "name": "La Baracca del Pesce",
+      "address": "Via Venticinque Aprile 12, Turriaco, 34070 GO",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Baracca%20del%20Pesce%2C%20Via%20Venticinque%20Aprile%2012%2C%20Turriaco%2C%2034070%20GO",
+      "image_url": null,
+      "description": "La Baracca del Pesce è una frittoria che celebra la tradizione della cucina bisiaca, specializzandosi nella frittura mista di pesce di mare e d'acqua dolce. Il locale offre preparazioni come gamberi, calamari, sardoni e anguille fritte, servite in modo semplice e genuino con polenta o patatine fritte. È un punto di riferimento per chi cerca piatti di pesce informali e autentici, frequentato sia dai residenti che dai visitatori di passaggio.",
+      "comune_name": "Turriaco",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/turriaco.md"
+    }
+  ]
+}

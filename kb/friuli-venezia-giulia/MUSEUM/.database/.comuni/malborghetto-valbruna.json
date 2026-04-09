@@ -1,0 +1,19 @@
+{
+  "comune_name": "Malborghetto Valbruna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/malborghetto-valbruna.md",
+  "extracted_at": "2026-04-09T10:50:16.212Z",
+  "pois": [
+    {
+      "name": "Museo Etnografico di Malborghetto – Palazzo Veneziano",
+      "address": "Via Bamberga, 53 – 33010 Malborghetto-Valbruna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Etnografico%20di%20Malborghetto%20%E2%80%93%20Palazzo%20Veneziano%2C%20Via%20Bamberga%2C%2053%20%E2%80%93%2033010%20Malborghetto-Valbruna%20(UD)",
+      "image_url": null,
+      "description": "Il Museo Etnografico di Malborghetto, ospitato nel suggestivo Palazzo Veneziano del XVI-XVII secolo, è la principale istituzione culturale del comune. Le sue sale presentano collezioni dedicate alla vita quotidiana e ai mestieri tradizionali della Val Canale, con ampia attenzione alle diverse comunità linguistiche locali e alle attività metallurgiche storiche. Il percorso include anche sezioni sulla storia dell’edificio stesso, sulla geologia, sulla paleontologia e su reperti archeologici della zona. Il museo offre un approfondito racconto della storia e delle tradizioni alpine di confine.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/malborghetto-valbruna.md"
+    }
+  ]
+}

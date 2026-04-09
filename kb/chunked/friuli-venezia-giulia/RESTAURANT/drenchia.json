@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/drenchia.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Drenchia",
+  "province": "UD",
+  "page_title": "Drenchia",
+  "page_summary": "Guida ai principali ristoranti del comune di Drenchia: due osterie tradizionali di montagna, Osteria Al Colovrat e Osteria Volfango, custodi della cucina friulana autentica.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/drenchia.md",
+  "processed_at": "2026-04-09T13:31:35.456Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/drenchia__0",
+      "text": "### Osteria Al Colovrat\n\nFrazione Clabuzzaro 8a, 33040 Drenchia (UD) | Tel: 0432 721104\n\nL'Osteria Al Colovrat rappresenta il principale punto di riferimento gastronomico di Drenchia e figura come il locale più apprezzato della zona. Situata nella frazione di Clabuzzaro, da cui domina panoramiche viste sulla Valle dell'Isonzo e oltre verso la Slovenia, questa tradizionale osteria di montagna è gestita con dedizione e offre un'esperienza autentica di cucina friulana.\n\nLa cucina si contraddistingue per l'uso generoso di ingredienti locali e per la preparazione onesta e diretta dei piatti, senza fronzoli o ricercatezze che ne tradiscano l'essenza. Tra le specialità della casa spiccano le **braciole di maiale alla colovrat**, una ricetta locale che rappresenta il meglio della tradizione culinaria di questa comunità montana, oltre a **petti di pollo ai peperoni**, **gnocchi di polenta** e i leggendari **Fueis di Formades Furlans** – un piatto molto rappresentativo della cucina friulana a base di formaggio fresco e tradizionali paste all'uovo.\n\nIl menù conta circa 17 diverse proposte di piatti e bevande, tutti pensati per offrire un'esperienza di cucina casalinga autentica. La proposta varia secondo le stagioni e la disponibilità di ingredienti locali. Le finestre panoramiche dell'osteria, in particolare nei giorni di sole, offrono uno scenario indimenticabile sulle vallate slovene che si estendono oltre il confine, trasformando un semplice pasto in un'esperienza sensoriale completa.\n\nIl locale è accessibile in sedia a rotelle e offre servizio al tavolo attento e ospitale. La fascia di prezzo è estremamente moderata, coerente con la filosofia di un'osteria di montagna autentica che non punta sulla ricerca di margini speculativi bensì sulla soddisfazione della clientela locale e dei rari visitatori che trovano la strada fino a Drenchia. Su TripAdvisor figura come il ristorante meglio valutato non solo di Drenchia ma dell'intera zona, con una valutazione di 4.4 su 5 stelle basata su numerose recensioni entusiaste di ospiti che apprezzano la genuinità, la cordialità e la qualità della proposta gastronomica.",
+      "metadata": {
+        "section_title": "Osteria Al Colovrat",
+        "links": [],
+        "addresses": [
+          "Frazione Clabuzzaro 8a, 33040 Drenchia (UD) | Tel: 0432 721104"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/drenchia__1",
+      "text": "### Osteria Volfango\n\nFrazione San Volfango 9, 33040 Drenchia (UD) | Tel: 0432 721005\n\nL'Osteria Volfango, situata nella frazione di San Volfango, rappresenta l'alternativa di ristorazione nel territorio del comune. Come l'Osteria Al Colovrat, anche questo locale si inserisce nella tradizione delle piccole osterie di montagna friulane, dove la cucina riflette i ritmi e i sapori della comunità locale.\n\nSebbene i dettagli specifici sul menu e le specialità siano meno ampiamente documentati rispetto al collega di Clabuzzaro, la struttura caratteristica di osteria tradizionale suggerisce una proposta culinaria simile basata su piatti robusti della tradizione friulana. Essendo una delle pochissime opzioni di ristorazione in questa zona estremamente rurale, l'osteria rappresenta un punto di riferimento importante per la comunità e per chi si avventura in queste montagne alla ricerca di autenticità e tradizione gastronomica.",
+      "metadata": {
+        "section_title": "Osteria Volfango",
+        "links": [],
+        "addresses": [
+          "Frazione San Volfango 9, 33040 Drenchia (UD) | Tel: 0432 721005"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

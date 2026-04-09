@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forgaria nel Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forgaria-nel-friuli.md",
+  "extracted_at": "2026-04-09T10:48:16.602Z",
+  "pois": [
+    {
+      "name": "Casa della Manualità Rurale \"Geis e Riscjei\" – Cornino",
+      "address": "Frazione Cornino, 33030 Forgaria nel Friuli (UD)",
+      "website_url": "http://www.comune.forgarianelfriuli.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20della%20Manualit%C3%A0%20Rurale%20%22Geis%20e%20Riscjei%22%20%E2%80%93%20Cornino%2C%20Frazione%20Cornino%2C%2033030%20Forgaria%20nel%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Situata all’interno della vecchia latteria turnaria della frazione Cornino, la Casa della Manualità Rurale raccoglie una ricca collezione di oggetti e attrezzi della vita contadina friulana. Il museo testimonia in modo diretto la cultura materiale delle comunità rurali del Friuli collinare e valorizza la memoria del lavoro agricolo e artigianale attraverso esposizioni di strumenti tipici. La sede, scelta per il suo valore sociale e storico, rappresenta uno degli esempi più autentici di recupero delle tradizioni locali.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Parco Archeologico Culturale di Castelraimondo",
+      "address": "Forgaria nel Friuli (UD) — accesso pedonale dalla piazza del paese",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Archeologico%20Culturale%20di%20Castelraimondo%2C%20Forgaria%20nel%20Friuli%20(UD)%20%E2%80%94%20accesso%20pedonale%20dalla%20piazza%20del%20paese",
+      "image_url": null,
+      "description": "Il Parco Archeologico di Castelraimondo, situato sulle alture di Forgaria nel Friuli, racchiude i resti di insediamenti preistorici, romani e medievali. Qui sono visibili strutture abitative e difensive, tra cui una villa rustica romana e i ruderi del castello medievale omonimo. Il percorso guidato permette di scoprire le tappe storiche del sito immerso in un paesaggio di grande suggestione con ampie vedute sulla valle del Tagliamento.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Riserva Naturale Regionale del Lago di Cornino – Centro Visite",
+      "address": "Loc. Cornino, 33030 Forgaria nel Friuli (UD)",
+      "website_url": "http://www.riservacornino.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Riserva%20Naturale%20Regionale%20del%20Lago%20di%20Cornino%20%E2%80%93%20Centro%20Visite%2C%20Loc.%20Cornino%2C%2033030%20Forgaria%20nel%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Il Centro Visite della Riserva Naturale Regionale del Lago di Cornino è un punto di riferimento per la divulgazione scientifica e naturalistica, con spazi espositivi dedicati a flora, fauna e morfologia dell’area. Di particolare rilievo è il Progetto Grifone, che ospita una colonia di grifoni e rappresenta un esempio di conservazione internazionale per questi avvoltoi. La struttura propone inoltre eventi, visite guidate e attività didattiche legate alla biodiversità e all’ecologia del fiume Tagliamento.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Museo all'Aperto \"I Luoghi della Grande Guerra nel Friuli Collinare\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20all'Aperto%20%22I%20Luoghi%20della%20Grande%20Guerra%20nel%20Friuli%20Collinare%22%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "Questo museo a cielo aperto si sviluppa lungo circa 40 chilometri tra le colline e i borghi del territorio comunale, ripercorrendo gli scenari della Prima Guerra Mondiale nel Friuli collinare. L’itinerario tocca postazioni militari, trincee e resti bellici, arricchito da pannelli informativi che aiutano a comprendere le vicende storiche. Offre un’occasione di educazione alla memoria e valorizzazione del paesaggio legato agli eventi del conflitto.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forgaria-nel-friuli.md"
+    }
+  ]
+}

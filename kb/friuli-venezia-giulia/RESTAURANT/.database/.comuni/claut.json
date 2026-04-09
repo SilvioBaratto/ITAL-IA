@@ -1,0 +1,52 @@
+{
+  "comune_name": "Claut",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/claut.md",
+  "extracted_at": "2026-04-09T10:58:36.811Z",
+  "pois": [
+    {
+      "name": "Osteria Corona",
+      "address": "Via Pinedo 30, 33080 Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Corona%2C%20Via%20Pinedo%2030%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Osteria Corona è il locale di riferimento per la ristorazione a Claut, apprezzato per l'atmosfera calorosa e la gestione familiare. La cucina propone un'ampia selezione di piatti tipici della Valcellina, tra cui gnocchi, cacciagione, pizze, frico, tosella pan-fritta e carni affumicate, utilizzando ingredienti freschi e locali. Il menu cambia stagionalmente e la carta dei vini privilegia etichette regionali. La fascia di prezzo è accessibile e il locale è molto consigliato dai visitatori.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/claut.md"
+    },
+    {
+      "name": "Albergo Ristorante Dolomiti",
+      "address": "Centro di Claut, 33080 Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Dolomiti%2C%20Centro%20di%20Claut%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Dolomiti è il più grande hotel della Valcellina e offre una spaziosa sala ristorante-pizzeria nel cuore di Claut. È noto per la cucina genuinamente regionale, con specialità come ravioli fatti in casa, polenta, piatti a base di formaggio Montasio e funghi locali. L'atmosfera è accogliente e informale, e l'offerta gastronomica varia secondo la stagione e la disponibilità di prodotti tipici. Il ristorante rappresenta una scelta ideale per chi cerca autenticità e tradizione in un ambiente montano.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/claut.md"
+    },
+    {
+      "name": "Albergo Ristorante Miramonti",
+      "address": "Viale Don Pietro Bortolotto 21, 33080 Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Miramonti%2C%20Viale%20Don%20Pietro%20Bortolotto%2021%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Albergo Miramonti unisce ospitalità alberghiera e ristorazione, proponendo cucina tipica della Valcellina in un ambiente di montagna immerso nel Parco Naturale Dolomiti Friulane. Il menu include specialità come pasta e fagioli, tagliatelle al ragù di porcini, gnocchi alla pitina, polenta con frico e grigliate di salumi affumicati locali. Il ristorante è apprezzato per la selezione di vini locali e grappe fatte in casa e vanta una lunga tradizione di accoglienza dal dopoguerra.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/claut.md"
+    },
+    {
+      "name": "Albergo Ristorante Vittoria",
+      "address": "Piazza IV Novembre 5, 33080 Claut (PN)",
+      "website_url": "http://www.albergovittoriaclaut.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Vittoria%2C%20Piazza%20IV%20Novembre%205%2C%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Vittoria è un locale storico di Claut, attivo da quasi un secolo e accreditato come il primo esercizio pubblico del paese. Propone piatti della cucina tipica di Claut e della montagna friulana, preparati secondo ricette tradizionali in un ambiente che unisce storia e modernità. Rappresenta un punto di riferimento per ospitalità ed enogastronomia per turisti ed escursionisti, offrendo servizi sia di pernottamento che di ristorazione genuina e radicata nel territorio.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/claut.md"
+    }
+  ]
+}

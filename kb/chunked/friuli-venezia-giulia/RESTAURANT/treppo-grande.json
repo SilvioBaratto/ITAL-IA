@@ -1,0 +1,44 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/treppo-grande.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Treppo Grande",
+  "province": "UD",
+  "page_title": "Treppo Grande",
+  "page_summary": "Guida ai ristoranti di Treppo Grande: la trattoria regionale I Benandanti e il Ristorante Belvedere, entrambi rappresentativi della tradizione gastronomica friulana locale.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/treppo-grande.md",
+  "processed_at": "2026-04-09T14:03:29.925Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/treppo-grande__0",
+      "text": "### I Benandanti\n\n**Indirizzo:** Via Case Sparse Borgobello, 1 – 33010 Treppo Grande (UD)\n**Telefono:** +39 0432 960410\n**Email:** info@ibenandanti.it\n**Sito web:** [www.ibenandanti.it](https://www.ibenandanti.it)\n**Cucina:** Regionale friulana\n**Fascia di prezzo:** Media (€€)\n\nIl ristorante *I Benandanti* è il principale locale di ristorazione del comune di Treppo Grande e si distingue per il nome che porta: i *benandanti* erano i protagonisti di uno dei fenomeni di storia religiosa più affascinanti del Friuli medievale e rinascimentale. Documentati da Carlo Ginzburg nel suo celebre studio del 1966 (*I benandanti. Stregoneria e culti agrari tra Cinquecento e Seicento*), i benandanti erano agricoltori e contadini del Friuli che, secondo le loro testimonianze rese all'Inquisizione, uscivano in spirito durante le Quattro Tempora per combattere le streghe e proteggere i raccolti. La scelta di questo nome per un ristorante di cucina regionale è dunque una dichiarazione d'intenti: radicamento profondo nel territorio, nella sua storia e nelle sue tradizioni più ancestrali.\n\nIl locale sorge nella campagna di Borgobello, una delle zone sparse del comune, in un contesto rurale che ben si addice alla filosofia della cucina di tradizione. La proposta gastronomica si basa sui prodotti del territorio friulano: il *frico con patate*, nella sua versione morbida e fondente, è un piatto emblematico della cucina delle colline udinesi. Accanto a questo, la carta include tipicamente taglieri di salumi e formaggi locali, minestre di verdure e legumi secondo le stagioni, carni alla brace o brasate con accompagnamento di polenta, e dolci tradizionali come la *gubana* o la *putizza* nelle occasioni festive. La scelta dei vini privilegia le produzioni friulane, con particolare attenzione ai bianchi autoctoni — Friulano, Malvasia istriana, Ribolla gialla — e ai rossi come il Refosco dal Peduncolo Rosso e la Schioppettino.\n\nL'atmosfera del locale è quella tipica della trattoria di campagna: semplice, accogliente, lontana da ogni pretesa di eleganza formale, ma capace di restituire il calore autentico della tavola friulana. I Benandanti rappresenta una di quelle esperienze gastronomiche in cui il confine tra cucina domestica e ristorante si fa sottile, e dove il cibo è ancora portatore di significato culturale e identitario.\n\n**Cosa ordinare:** frico con patate, tagliere di salumi friulani, minestra d'orzo, polenta con formaggio Montasio, dolci della tradizione.",
+      "metadata": {
+        "section_title": "I Benandanti",
+        "links": [
+          {
+            "text": "www.ibenandanti.it",
+            "url": "https://www.ibenandanti.it"
+          }
+        ],
+        "addresses": [
+          "Via Case Sparse Borgobello, 1 – 33010 Treppo Grande (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "Media (€€)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/treppo-grande__1",
+      "text": "### Ristorante Belvedere\n\n**Zona:** Treppo Grande / Vendoglio (UD)\n**Cucina:** Tradizionale friulana\n**Fascia di prezzo:** Media (€€)\n\nIl Ristorante Belvedere è un locale segnalato nella cartografia OpenStreetMap nelle immediate vicinanze del centro di Treppo Grande, probabilmente nella frazione di Vendoglio o nelle zone collinari del comune. Il nome *Belvedere* è comune nell'area collinare friulana e richiama la posizione panoramica tipica di molti locali nelle colline a nord di Udine, da cui nelle giornate terse si aprono viste sulle Prealpi Carniche e Giulie.\n\nPur in assenza di informazioni dettagliate online sul locale, la tipologia di ristorante di paese suggerisce una proposta gastronomica in linea con la tradizione della campagna udinese: polenta, carni grigliate o in umido, zuppe di stagione, formaggi locali. Nei dintorni di Treppo Grande i ristoranti di campagna si rivolgono principalmente alla clientela locale, con menu a prezzo fisso nei giorni feriali e proposte più articolate nel fine settimana.\n\nSi consiglia di verificare l'operatività e gli orari direttamente presso il locale prima di recarvisi, dato che in comuni di questa dimensione i locali possono avere aperture stagionali o cambiamenti nella gestione.",
+      "metadata": {
+        "section_title": "Ristorante Belvedere",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "Media (€€)"
+      }
+    }
+  ]
+}

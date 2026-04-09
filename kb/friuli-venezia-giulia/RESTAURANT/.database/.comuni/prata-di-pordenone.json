@@ -1,0 +1,52 @@
+{
+  "comune_name": "Prata di Pordenone",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prata-di-pordenone.md",
+  "extracted_at": "2026-04-09T11:13:22.292Z",
+  "pois": [
+    {
+      "name": "Ristorante Casa Gialla",
+      "address": "Via Fornaci 86, Prata di Pordenone (PN), 33080",
+      "website_url": "http://www.ristorantelacasagialla.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Casa%20Gialla%2C%20Via%20Fornaci%2086%2C%20Prata%20di%20Pordenone%20(PN)%2C%2033080",
+      "image_url": null,
+      "description": "Il Ristorante Casa Gialla è il principale punto gastronomico di Prata di Pordenone, situato in un edificio rurale dal tipico colore giallo. Offre una cucina regionale che fonde le tradizioni friulane e venete, con piatti come frico, polenta, cjarsons, bigoli e baccalà, utilizzando ingredienti autentici del territorio. L'atmosfera è familiare ma curata, con attenzione sia alla qualità ambientale che alla tradizione culinaria. Il locale è adatto per pranzi di lavoro e cene in famiglia, con una fascia di prezzo media.",
+      "comune_name": "Prata di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prata-di-pordenone.md"
+    },
+    {
+      "name": "Trattoria Borgo Perissine",
+      "address": "Borgata Peressine, Borgo Peressine, Prata di Pordenone (PN), 33080",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Borgo%20Perissine%2C%20Borgata%20Peressine%2C%20Borgo%20Peressine%2C%20Prata%20di%20Pordenone%20(PN)%2C%2033080",
+      "image_url": null,
+      "description": "Situata nella frazione di Borgo Peressine, questa trattoria di campagna rappresenta la tradizione rurale friulana, offrendo cucina del territorio, ricette tramandate e porzioni generose in un ambiente raccolto e domestico. Il menù segue la stagionalità, spaziando da piatti di polenta e selvaggina a zuppe ed erbe spontanee. Frequentata principalmente da residenti e famiglie locali, è ideale per chi cerca autenticità e accoglienza lontano dai circuiti turistici.",
+      "comune_name": "Prata di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prata-di-pordenone.md"
+    },
+    {
+      "name": "Le Monde",
+      "address": "Via San Cassiano, Villanova di Prata, Prata di Pordenone (PN), 33080",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Monde%2C%20Via%20San%20Cassiano%2C%20Villanova%20di%20Prata%2C%20Prata%20di%20Pordenone%20(PN)%2C%2033080",
+      "image_url": null,
+      "description": "Le Monde è un ristorante dal taglio moderno situato a Villanova di Prata, che offre un ambiente curato con posti sia interni che all'aperto e accesso per disabili. Si distingue per uno stile contemporaneo rispetto alle trattorie tradizionali del paese, rimanendo comunque radicato nel contesto locale. È scelto da famiglie e clienti che desiderano un'esperienza più attuale o fuori dall’ordinario.",
+      "comune_name": "Prata di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prata-di-pordenone.md"
+    },
+    {
+      "name": "Planet Pizza",
+      "address": "Via Puia 81, Prata di Pordenone (PN), 33080",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Planet%20Pizza%2C%20Via%20Puia%2081%2C%20Prata%20di%20Pordenone%20(PN)%2C%2033080",
+      "image_url": null,
+      "description": "Planet Pizza è la principale pizzeria del comune, nota per la sua offerta classica di pizze, calzoni e ingredienti tipici locali come il prosciutto San Daniele e la speck dell'Alto Adige. Dispone di tavoli interni ed esterni e garantisce l'accessibilità, servendo sia pranzi veloci che cene informali. Il locale è un ritrovo familiare e funzionale sia per residenti che per viaggiatori di passaggio.",
+      "comune_name": "Prata di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prata-di-pordenone.md"
+    }
+  ]
+}

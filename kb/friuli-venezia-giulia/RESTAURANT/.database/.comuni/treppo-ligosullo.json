@@ -1,0 +1,19 @@
+{
+  "comune_name": "Treppo Ligosullo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/treppo-ligosullo.md",
+  "extracted_at": "2026-04-09T11:22:19.924Z",
+  "pois": [
+    {
+      "name": "Trattoria Le Falene",
+      "address": "Via Giuseppe Mazzini 20, Treppo Ligosullo (UD) — CAP 33014",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Le%20Falene%2C%20Via%20Giuseppe%20Mazzini%2020%2C%20Treppo%20Ligosullo%20(UD)%20%E2%80%94%20CAP%2033014",
+      "image_url": null,
+      "description": "La Trattoria Le Falene è il principale locale di ristorazione di Treppo Ligosullo, situata nella frazione di Treppo Carnico. Offre cucina regionale carnica in un'atmosfera informale e genuina, con piatti tipici come cjalsòns, frico con polenta, zuppe di stagione, funghi e selvaggina. Il locale è punto di riferimento per residenti e visitatori ed è apprezzato per la sua autenticità e l'ospitalità tipica di montagna.",
+      "comune_name": "Treppo Ligosullo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/treppo-ligosullo.md"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "comune_name": "Aviano",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md",
+  "extracted_at": "2026-04-09T10:54:25.487Z",
+  "pois": [
+    {
+      "name": "La Primula (San Quirino)",
+      "address": "Via San Rocco 47, a 33080 San Quirino.",
+      "website_url": "https://www.ristorantelaprimula.it/en/restaurant",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Primula%20(San%20Quirino)%2C%20Via%20San%20Rocco%2047%2C%20a%2033080%20San%20Quirino.",
+      "image_url": null,
+      "description": "La Primula è un rinomato ristorante stellato Michelin situato a San Quirino, nelle vicinanze di Aviano, e gestito dalla famiglia Canton dal 1873. Offre una cucina fine dining che unisce tradizione e modernità, con piatti di mare e di terra raffinati e un'eccellente cantina di vini. L'ambiente elegante rimane caldo e accogliente grazie a un suggestivo camino. È una meta imperdibile per un'esperienza gastronomica di alto livello.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Osteria alle Nazioni (San Quirino)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20alle%20Nazioni%20(San%20Quirino)%2C%20Aviano",
+      "image_url": null,
+      "description": "Osteria alle Nazioni si trova nello stesso complesso della Primula e propone un'esperienza gastronomica più informale, pur mantenendo elevata qualità. Il menù reinterpreta le ricette friulane utilizzando ingredienti freschi e stagionali, con un'ampia selezione di vini italiani. L'atmosfera è quella tipica di un'osteria accogliente e convivial.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Le Masiere",
+      "address": "Via Pedemontana Occidentale 18 a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Masiere%2C%20Via%20Pedemontana%20Occidentale%2018%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Le Masiere è un ristorante raffinato con cucina friulano-giuliana tradizionale e splendide viste sulle montagne. Il menu valorizza la stagionalità con piatti fatti in casa come tortellini, risotti e specialità di carne, oltre a un negroni particolarmente apprezzato. L'ambiente rustico-elegante e le grandi finestre sulle Dolomiti rendono ogni visita speciale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Taverna all'Urogallo (Piancavallo)",
+      "address": "Piazzale della Puppa 1 a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Taverna%20all'Urogallo%20(Piancavallo)%2C%20Piazzale%20della%20Puppa%201%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "La Taverna all'Urogallo, attiva dal 1991 nella zona di Piancavallo, interpreta la tradizione veneto-friulana offrendo canederli, polenta ai funghi, frico e strudel. Dispone di un'ampia selezione di vini, posti all'esterno, accesso per disabili e un'atmosfera calda e accogliente. È apprezzata per la valorizzazione dei prodotti locali.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Aviano Inn",
+      "address": "Via Sacile 23 a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Aviano%20Inn%2C%20Via%20Sacile%2023%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Pizzeria Trattoria Aviano Inn è famosa per le sue pizze tradizionali, l’uso di ingredienti locali e la cucina friulana autentica. Tra le specialità spiccano il prosciutto San Daniele, gnocchi fatti in casa, pizze senza ingredienti OGM e pasta fresca giornaliera. Offre menù senza glutine e vegani, servizio asporto, porzioni generose e prezzi onesti.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "New Ristopizza by Mario",
+      "address": "Via Ippolito Nievo 2 a 33081 Aviano",
+      "website_url": "http://www.ristoranteaviano.pordenone.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=New%20Ristopizza%20by%20Mario%2C%20Via%20Ippolito%20Nievo%202%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "New Ristopizza by Mario è riconosciuto per la calorosa accoglienza del proprietario e l’ottima cucina italiana, che spazia da antipasti di mare a pizze e piatti di pasta. L’ampio locale è ideale sia per cene informali sia per grandi compagnie, con servizio cordiale e un’atmosfera familiare. È molto frequentato soprattutto nei fine settimana.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Pizzeria La Capricciosa",
+      "address": "Via Giuseppe Mazzini 4 a 33081 Aviano",
+      "website_url": "https://pizzeria-la-capricciosa.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20La%20Capricciosa%2C%20Via%20Giuseppe%20Mazzini%204%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Pizzeria La Capricciosa è una pizzeria informale apprezzata per le sue pizze tradizionali e l'atmosfera cordiale. Offre asporto, consegna a domicilio e accessibilità per sedie a rotelle. Ha ottime valutazioni su Google e TripAdvisor, grazie anche a un servizio attento e prezzi competitivi.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Ristorante Pizzeria San Giorgio",
+      "address": "Viale S. Giorgio 34 a 33081 Aviano",
+      "website_url": "https://www.ristorantesangiorgiopn.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20San%20Giorgio%2C%20Viale%20S.%20Giorgio%2034%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria San Giorgio, conosciuto come \"Spaghetti House\" dagli ospiti internazionali, è un punto di riferimento familiare ad Aviano. Specializzato in pesce, carne e pizze preparate con ingredienti freschi, è ideale per famiglie ed eventi grazie all’ampio spazio interno ed esterno. Il personale parla inglese e garantisce un’accoglienza calorosa.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "La Locanda",
+      "address": "Via Pordenone 10 (o alternativamente Via Pagliano e Gori 1, Castello d'Aviano) a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Locanda%2C%20Via%20Pordenone%2010%20(o%20alternativamente%20Via%20Pagliano%20e%20Gori%201%2C%20Castello%20d'Aviano)%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "La Locanda è un hotel-ristorante a tre stelle, specializzato in carne grigliata e pizze al forno a legna, con le costine molto apprezzate dalla clientela. La struttura offre anche piscina, giardino panoramico e terrazza soleggiata, ed è rinomata per l’ospitalità e la ristorazione raffinata. Riceve valutazioni eccellenti dagli ospiti.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Barchessa Policreti Ristorantino",
+      "address": "Via Quattro Novembre 13 a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Barchessa%20Policreti%20Ristorantino%2C%20Via%20Quattro%20Novembre%2013%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Situato all'interno della storica Villa Barchessa Policreti, questo ristorantino propone cucina italiana incentrata sul pesce e sulla semplicità delle materie prime stagionali. L’atmosfera è suggestiva, grazie alla vista sul campo da golf e sulle Dolomiti, e le sale si affacciano sulla terrazza e sul parco. Sono disponibili opzioni vegetariane.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Ciasa Mata (Budoia - confinante ad Aviano)",
+      "address": "Via Pordenone 68, SP31 a 33070 Budoia PN",
+      "website_url": "https://www.ciasamata.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ciasa%20Mata%20(Budoia%20-%20confinante%20ad%20Aviano)%2C%20Via%20Pordenone%2068%2C%20SP31%20a%2033070%20Budoia%20PN",
+      "image_url": null,
+      "description": "Ciasa Mata è un ristorante incastonato tra natura e paesaggio pedemontano, che propone piatti friulani e veneti reinterpretati con ingredienti stagionali e attenzione alla tradizione. Il locale è accogliente e ideale per cerimonie o eventi speciali, con ottime recensioni online e una cucina molto apprezzata.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "BEFED Brew Pub Aviano",
+      "address": null,
+      "website_url": "https://www.befedpub.com/befed-aviano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=BEFED%20Brew%20Pub%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Nato ad Aviano nel 1996, il BEFED Brew Pub è celebre per il suo 'BEFED Galletto' e le birre artigianali prodotte in casa. L'ambiente è informale e conviviale, con la tradizione di mangiare il galletto con le mani e gustare arachidi in ingresso. È oggi una catena diffusa, ma l’originale mantiene un’atmosfera famigliare e genuina.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Al Campanile Osteria Pub",
+      "address": "Piazza Duomo 11 a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Campanile%20Osteria%20Pub%2C%20Piazza%20Duomo%2011%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Al Campanile Osteria Pub offre cucina tradizionale e pizze in una suggestiva location d’epoca vicino alla torre campanaria di Aviano. Il locale è noto per le costine, i ravioli, la varietà di birre alla spina e l'atmosfera accogliente. I prezzi sono accessibili e le porzioni generose.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "The Bobe Trap",
+      "address": "Via Gildo Grandi 5 ad Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Bobe%20Trap%2C%20Via%20Gildo%20Grandi%205%20ad%20Aviano",
+      "image_url": null,
+      "description": "The Bobe Trap è specializzato in carne selezionata di alta qualità e cocktail d’autore, con un menù curato che abbina prodotti locali e cucina internazionale. L’atmosfera rilassata lo rende ideale sia per cene romantiche sia per serate in compagnia, e spesso ospita eventi tematici e musica live.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Baita Caprioli (Piancavallo)",
+      "address": "Via Barcis 5, Loc. Piancavallo a 33081 Aviano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Baita%20Caprioli%20(Piancavallo)%2C%20Via%20Barcis%205%2C%20Loc.%20Piancavallo%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Baita Caprioli è una baita accogliente direttamente sulle piste da sci di Piancavallo, con birre artigianali, spritz, pizze, panini e una gelateria interna di qualità. È ideale come sosta rilassante dopo una giornata sugli sci, con prezzi accessibili e un’atmosfera tipica di rifugio di montagna.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Mario's Autentik Club Bistrot",
+      "address": "Via Pordenone 48 a 33081 Aviano",
+      "website_url": "https://www.autentikclubbistrot.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mario's%20Autentik%20Club%20Bistrot%2C%20Via%20Pordenone%2048%20a%2033081%20Aviano",
+      "image_url": null,
+      "description": "Mario's Autentik Club Bistrot propone una fusione di cucina messicana, texana e italiana, con particolare attenzione a tacos, nachos, burger e cocktail curati. Il locale offre anche eventi con musica live e dj set, un ambiente conviviale e servizio catering personalizzato per la zona.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Agriturismo Al Ranch (Budoia / Castello d'Aviano)",
+      "address": null,
+      "website_url": "https://www.agriturismoalranch.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Ranch%20(Budoia%20%2F%20Castello%20d'Aviano)%2C%20Aviano",
+      "image_url": null,
+      "description": "Agriturismo Al Ranch offre cucina tradizionale friulana a kilometro zero, con prodotti provenienti dalla propria fattoria e piatti ispirati alla storia gastronomica locale. L’ambiente rustico e rilassante comprende camere, attività in fattoria, passeggiate a cavallo e percorsi cicloturistici. Il motto 'MASTICARE FRIULANO' rispecchia l’autenticità della proposta.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Gelindo dei Magredi (Vivaro - prossimità ad Aviano)",
+      "address": "Via Roma 14 a 33099 Vivaro (Pordenone)",
+      "website_url": "https://www.gelindo.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelindo%20dei%20Magredi%20(Vivaro%20-%20prossimit%C3%A0%20ad%20Aviano)%2C%20Via%20Roma%2014%20a%2033099%20Vivaro%20(Pordenone)",
+      "image_url": null,
+      "description": "Gelindo dei Magredi è un agriturismo-ristorante immerso nella campagna di Vivaro, vicino ad Aviano. Il ristorante, in un ex caseificio, propone cucina tipica friulana con prodotti propri e selezionati, offre anche camere, fattoria didattica e piscine. La posizione è ideale per chi ama natura e tranquillità.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Ostarìe Il Rifugio (Budoia)",
+      "address": "Via San Tomè 85 a 33070 Budoia PN",
+      "website_url": "https://ostarieilrifugio.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostar%C3%ACe%20Il%20Rifugio%20(Budoia)%2C%20Via%20San%20Tom%C3%A8%2085%20a%2033070%20Budoia%20PN",
+      "image_url": null,
+      "description": "Ostarìe Il Rifugio propone carni grigliate in stile toscano con ingredienti freschi locali e una carta dei vini di livello. Situato ai margini di una foresta, offre un grande parco ombreggiato, eventi enogastronomici e un'atmosfera musicale selezionata. L’ambiente è appartato e ideale per degustazioni all’aperto.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Trattoria da Carmelo (Pasiano di Pordenone - 15 minuti da Aviano)",
+      "address": null,
+      "website_url": "https://www.trattoria-dacarmelo.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Carmelo%20(Pasiano%20di%20Pordenone%20-%2015%20minuti%20da%20Aviano)%2C%20Aviano",
+      "image_url": null,
+      "description": "Trattoria da Carmelo, situata nella campagna di Pasiano di Pordenone, è un punto di riferimento da oltre 40 anni per la cucina friulana e veneta. Celebre per il 'gal in tecia', offre anche baccalà, lepre in salmì, e pasta fatta in casa. L’ambiente rustico e familiare è dominato da un grande camino e arredi tradizionali.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    },
+    {
+      "name": "Ristorante da Genio (Polcenigo - 20 minuti da Aviano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20da%20Genio%20(Polcenigo%20-%2020%20minuti%20da%20Aviano)%2C%20Aviano",
+      "image_url": null,
+      "description": "Ristorante da Genio a Polcenigo è specializzato in pesce fresco, offrendo piatti di mare e grigliate vicino alla Sorgente del Gorgazzo. L’ambiente è gradevole e immerso nella natura, con servizio attento alle esigenze alimentari. È particolarmente apprezzato per l'ospitalità e l’ambientazione suggestiva.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/aviano.md"
+    }
+  ]
+}

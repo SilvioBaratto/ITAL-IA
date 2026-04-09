@@ -1,0 +1,41 @@
+{
+  "comune_name": "Moruzzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moruzzo.md",
+  "extracted_at": "2026-04-09T10:51:53.411Z",
+  "pois": [
+    {
+      "name": "Sito Archeologico di Muris — Scavi sulla viticoltura romana",
+      "address": null,
+      "website_url": "https://www.comune.moruzzo.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Archeologico%20di%20Muris%20%E2%80%94%20Scavi%20sulla%20viticoltura%20romana%2C%20Moruzzo",
+      "image_url": null,
+      "description": "Il sito di Muris, nel territorio di Moruzzo, ha restituito reperti legati alla viticoltura di età romana, tra cui strutture di un torcularium e impianti lapidei. I materiali confermano il ruolo del luogo nell'agro aquileiese romano. I reperti sono stati presentati nella mostra temporanea \"Dagli scavi a Muris di Moruzzo: testimonianze sulla viticoltura di duemila anni fa\", allestita nel 2026 presso la Sala del Castello di Colloredo di Monte Albano, con finalità divulgative e accesso sia pubblico che scolastico.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Borgo Medievale Fortificato di Santa Margherita del Gruagno — Patrimonio storico-architettonico",
+      "address": null,
+      "website_url": "https://percorsiinclusivi.it/it/localita/moruzzo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Medievale%20Fortificato%20di%20Santa%20Margherita%20del%20Gruagno%20%E2%80%94%20Patrimonio%20storico-architettonico%2C%20Moruzzo",
+      "image_url": null,
+      "description": "Santa Margherita del Gruagno è un borgo fortificato di notevole valore etnografico e architettonico, con una pieve di origine romanica tra le più antiche del territorio udinese. Il luogo conserva mura, vicoli e corti rurali che testimoniano la storia medievale e moderna friulana. Dal 2026 è disponibile un Virtual Tour online che permette la visita virtuale dei principali punti di interesse, anche nei periodi di chiusura o per visitatori con esigenze particolari.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Castello di Brazzacco di Sopra — Architettura feudale medievale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Brazzacco%20di%20Sopra%20%E2%80%94%20Architettura%20feudale%20medievale%2C%20Moruzzo",
+      "image_url": null,
+      "description": "Il Castello di Brazzacco di Sopra, situato nella frazione omonima, rappresenta uno dei monumenti più significativi di Moruzzo. Costruito in forme tipiche del mastio feudale tre-quattrocentesco, conserva elementi architettonici e arredi sacri che documentano la storia locale. Pur non essendo un museo propriamente detto, il castello testimonia la vita militare e signorile del Friuli collinare e può essere osservato dall’esterno.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moruzzo.md"
+    }
+  ]
+}

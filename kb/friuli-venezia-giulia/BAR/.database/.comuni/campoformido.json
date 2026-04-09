@@ -1,0 +1,118 @@
+{
+  "comune_name": "Campoformido",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md",
+  "extracted_at": "2026-04-09T10:03:17.055Z",
+  "pois": [
+    {
+      "name": "A Le Patrie dal Friul",
+      "address": "Largo Municipio, 24 – Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "A Le Patrie dal Friul si trova nel cuore istituzionale di Campoformido, in Largo Municipio, ed è uno dei locali più versatili del paese. Aperto dal mattino alla sera, offre colazioni classiche, funge da ristorante a pranzo e luogo ideale per un aperitivo. La presenza di tavoli all'aperto e un ampio parcheggio lo rendono particolarmente accogliente durante le belle stagioni.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "La' di Marc",
+      "address": "Via Principe di Piemonte, 23 – Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La' di Marc è un bar e caffè radicato nel tessuto locale, noto per la sua atmosfera autentica e familiare. Qui la semplicità regna sovrana: è il classico bar di paese dove la conversazione tra clienti e gestore è parte dell'esperienza. Ideale per chi cerca la quotidianità genuina di Campoformido, lontano dalle rotte turistiche.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Bar Hexe (Largo Municipio)",
+      "address": "Largo Municipio, 23 – Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Hexe si trova in posizione centrale a Campoformido, vicino agli uffici comunali. È un punto di riferimento per chi si trova in zona per lavoro o commissioni, offrendo un classico servizio da bar con pausa caffè e spuntini veloci. L'ambiente è quello tipico dei bar di paese, informale e accogliente.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Bar Gelateria Crema & Cioccolato",
+      "address": "Via Zorutti, 22 – Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Gelateria Crema & Cioccolato spicca per la sua doppia anima di gelateria artigianale e caffetteria. Situato in Via Zorutti, offre una ricca scelta di gusti alla frutta e alle creme, oltre a colazioni e merende. È il punto di riferimento locale per una pausa dolce, particolarmente apprezzato nei mesi più caldi.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Piccolo Bar (Bressa)",
+      "address": "Via XI Febbraio, 126 – Bressa, Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Piccolo Bar, nella frazione di Bressa, rappresenta il classico bar di vicinato dove la clientela si conosce tutta. Qui si beve il caffè al bancone e l'aperitivo in compagnia degli amici di sempre. Il locale svolge una preziosa funzione aggregativa nel quartiere, mantenendo vivo anche il rapporto con la comunità attraverso i social.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Bar Cavallo (Basaldella)",
+      "address": "Via Adriatica, 77 – Basaldella, Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Cavallo è uno dei locali storici della frazione di Basaldella, situato sull'importante Via Adriatica. È apprezzato per la sua facilità di accesso e per il servizio che va dalla caffetteria alla piccola ristorazione, con particolare attenzione alle colazioni e ai pranzi veloci. Punto di riferimento sia per residenti che per chi è di passaggio.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Bar Tirelli (Basaldella)",
+      "address": "Via Giuseppe Verdi, 90 – Basaldella, Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situato in una via interna di Basaldella, Bar Tirelli è un locale a conduzione familiare tipico del Friuli. Frequentato da diverse generazioni, è il luogo ideale per una pausa caffè mattutina, una brioche al volo o un incontro pomeridiano tra residenti.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Al Nuovo Baffone (Basaldella)",
+      "address": "Via Adriatica, 39 – Basaldella, Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Al Nuovo Baffone si contraddistingue per la doppia proposta di bar e ristorante, con cucina italiana e servizio di asporto e consegna. Il locale è ideale per pranzi, cene, aperitivi o serate conviviali grazie all'ampio orario e ai tavoli all'aperto. Il nome suggerisce una gestione familiare e un'atmosfera informale.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Bar della Piscina Swim (Villa Primavera)",
+      "address": "Via Santa Caterina – Villa Primavera, Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar della Piscina Swim, legato all'impianto natatorio di Villa Primavera, è un punto di ritrovo soprattutto durante i mesi estivi. Frequentato da famiglie, sportivi e giovani, offre un luogo di socialità stagionale dove godersi una bibita fresca o un gelato dopo una nuotata.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    },
+    {
+      "name": "Antica Trattoria al Trattato *(con servizio bar)*",
+      "address": "Piazza Trattato, 4 – Campoformido (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Antica Trattoria al Trattato è una storica osteria con servizio bar situata nella simbolica piazza dedicata al famoso trattato del 1797. Oltre al ristorante con cucina friulana, offre la possibilità di fermarsi per un caffè o un aperitivo godendo di un'atmosfera ricca di storia. Disponibili anche servizio a domicilio, asporto e accessibilità per disabili.",
+      "comune_name": "Campoformido",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/campoformido.md"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "comune_name": "Brugnera",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/brugnera.md",
+  "extracted_at": "2026-04-09T10:20:06.509Z",
+  "pois": [
+    {
+      "name": "Chiesa dei Santi Giacomo e Nicolò — Brugnera (capoluogo)",
+      "address": "Piazza Roma 18, 33070 Brugnera (PN)",
+      "website_url": "https://www.diocesivittorioveneto.it/territorio/parrocchie.asp?for=7&parr=8",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Giacomo%20e%20Nicol%C3%B2%20%E2%80%94%20Brugnera%20(capoluogo)%2C%20Piazza%20Roma%2018%2C%2033070%20Brugnera%20(PN)",
+      "image_url": null,
+      "description": "La chiesa dei Santi Giacomo Apostolo e Nicola Vescovo è il principale luogo di culto di Brugnera. L'origine risale al XV secolo e l'edificio attuale è frutto di numerosi restauri e adattamenti. All'interno si trovano affreschi e pala d'altare realizzati da importanti artisti come Francesco da Milano, Marcello Fogolino e Pomponio Amalteo, che testimoniano la rilevanza artistica della chiesa nella regione. Lo stile architettonico è prevalentemente rinascimentale, con integrazioni settecentesche e ottocentesche.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/brugnera.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Maggiore in cimitero — Brugnera (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Maggiore%20in%20cimitero%20%E2%80%94%20Brugnera%20(capoluogo)%2C%20Brugnera",
+      "image_url": null,
+      "description": "L'antica chiesa cimiteriale di San Giacomo Maggiore Apostolo, situata fuori le mura storiche, è il più vetusto edificio religioso di Brugnera. Eretta in epoca medievale, fu la sede parrocchiale fino al 1840, quando la funzione fu trasferita nella chiesa attuale del capoluogo. L'edificio conserva una forte valenza simbolica come luogo di memoria per la comunità e testimonia l'importanza delle famiglie feudali locali nella storia religiosa del territorio.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/brugnera.md"
+    },
+    {
+      "name": "Pieve di San Michele Arcangelo — Maron",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65471/Chiesa+di+San+Michele+Arcangelo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Maron%2C%20Brugnera",
+      "image_url": null,
+      "description": "La pieve di San Michele Arcangelo è la chiesa parrocchiale di Maron, con radici storiche che risalgono almeno al XV secolo. L'attuale edificio fu costruito tra il 1720 e il 1774 e consacrato nel 1857, con titolo di pieve conferito nel 1904. In stile tardo-barocco veneto-friulano con influssi neoclassici, custodisce un fonte battesimale del 1537 e opere d'arte tra cui una pala dedicata a San Michele Arcangelo e un dipinto di Teodoro Carniello.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/brugnera.md"
+    },
+    {
+      "name": "Chiesa di Sant'Anna — Tamai",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Anna%20%E2%80%94%20Tamai%2C%20Brugnera",
+      "image_url": null,
+      "description": "La chiesa di Sant'Anna nella frazione di Tamai è un edificio di culto del XVII secolo, inserito nel contesto della riorganizzazione religiosa post-tridentina. Presenta uno stile barocco rurale, tipico delle chiese di campagna friulane, con una navata unica e facciata sobria. È il principale riferimento spirituale della comunità locale, storicamente dedicata all'agricoltura e al culto di sant'Anna, molto sentito nelle campagne friulane.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/brugnera.md"
+    },
+    {
+      "name": "Chiesa di Santa Margherita — Tamai",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Margherita%20%E2%80%94%20Tamai%2C%20Brugnera",
+      "image_url": null,
+      "description": "La chiesa di Santa Margherita è un antico luogo di culto di Tamai, citato nelle fonti storiche locali come edificio di fondazione medievale o rinascimentale. Pur mancando informazioni precise su epoca e struttura, la chiesa testimonia l'antica devozione a Santa Margherita d'Antiochia, largamente diffusa nel Friuli rurale, e la ricchezza del tessuto religioso della frazione.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/brugnera.md"
+    }
+  ]
+}

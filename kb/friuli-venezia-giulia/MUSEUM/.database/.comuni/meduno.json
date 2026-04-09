@@ -1,0 +1,41 @@
+{
+  "comune_name": "Meduno",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/meduno.md",
+  "extracted_at": "2026-04-09T10:50:59.207Z",
+  "pois": [
+    {
+      "name": "Museo Casa Andreuzzi — Navarons",
+      "address": "Frazione di Navarons, 33092 Meduno (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Casa%20Andreuzzi%20%E2%80%94%20Navarons%2C%20Frazione%20di%20Navarons%2C%2033092%20Meduno%20(PN)",
+      "image_url": null,
+      "description": "Il Museo Casa Andreuzzi, situato nella frazione di Navarons, è la principale istituzione museale di Meduno e documenta i Moti di Navarons del 1864, offrendo un percorso storico-documentario legato al Risorgimento friulano. Espone documenti, stampe, oggetti e cimeli dei protagonisti locali dell'insurrezione, oltre a testimonianze sulla vita rurale, le guerre mondiali e la storia della comunità. Di particolare interesse la sezione dedicata a Luigi Del Bianco, scultore emigrato divenuto capo-intagliatore del Monte Rushmore negli Stati Uniti. Il museo è gestito dal Comune di Meduno e l'ingresso è gratuito o a offerta libera.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/meduno.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maggiore — Patrimonio artistico parrocchiale",
+      "address": "Via della Chiesa, 33092 Meduno (PN)",
+      "website_url": "https://www.parrocchiedellavalmeduna.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maggiore%20%E2%80%94%20Patrimonio%20artistico%20parrocchiale%2C%20Via%20della%20Chiesa%2C%2033092%20Meduno%20(PN)",
+      "image_url": null,
+      "description": "La Chiesa di Santa Maria Maggiore rappresenta il principale contenitore di arte sacra di Meduno, pur non essendo un museo in senso stretto. L'edificio, di stile neoclassico, ospita una preziosa pala d'altare di Giovanni Battista Piazzetta del 1744 e manufatti di oreficeria sacra. Restaurata dopo i danni subiti nel terremoto del 1976 e in seguito a un incendio del 2004, la chiesa testimonia la ricchezza artistica della comunità e la sua lunga storia religiosa.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/meduno.md"
+    },
+    {
+      "name": "Palazzo Colossis — Sede storica del potere feudale",
+      "address": "Meduno capoluogo, 33092 Meduno (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Colossis%20%E2%80%94%20Sede%20storica%20del%20potere%20feudale%2C%20Meduno%20capoluogo%2C%2033092%20Meduno%20(PN)",
+      "image_url": null,
+      "description": "Il Palazzo Colossis, edificio civile del XVI secolo nel capoluogo, fu la sede storica della famiglia di feudatari che amministrò il potere nella zona di Meduno per secoli. Pur non ospitando una collezione museale e non essendo visitabile internamente, il palazzo costituisce una rilevante testimonianza storico-architettonica del passato feudale del paese e del suo legame con la dominazione veneziana e asburgica.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/meduno.md"
+    }
+  ]
+}

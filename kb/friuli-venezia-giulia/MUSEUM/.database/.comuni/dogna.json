@@ -1,0 +1,19 @@
+{
+  "comune_name": "Dogna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dogna.md",
+  "extracted_at": "2026-04-09T10:46:58.954Z",
+  "pois": [
+    {
+      "name": "Museo del Territorio di Dogna",
+      "address": "Centro del paese, Dogna, 33010 (UD)",
+      "website_url": "http://www.comune.dogna.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Territorio%20di%20Dogna%2C%20Centro%20del%20paese%2C%20Dogna%2C%2033010%20(UD)",
+      "image_url": null,
+      "description": "Il Museo del Territorio di Dogna è l'unica istituzione museale del comune e si trova nel centro abitato. Raccoglie testimonianze paleontologiche, storiche ed etnografiche: spicca la sezione dedicata alle impronte fossili di un Fitosauro del Triassico superiore, insieme a mostre sulla storia locale e sulla cultura alpina. Al secondo piano sono esposte opere del pittore locale Fred Pittino, che danno al museo anche un carattere di piccola galleria d'arte. L'ingresso è generalmente gratuito o a offerta libera e l'orario di apertura è soggetto a variazioni stagionali e su prenotazione.",
+      "comune_name": "Dogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dogna.md"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "comune_name": "Tolmezzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md",
+  "extracted_at": "2026-04-09T11:21:10.757Z",
+  "pois": [
+    {
+      "name": "Vecchia Osteria \"Alla Pieve\"",
+      "address": "Via della Chiesa 2, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vecchia%20Osteria%20%22Alla%20Pieve%22%2C%20Via%20della%20Chiesa%202%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "La Vecchia Osteria \"Alla Pieve\" è uno dei locali più amati di Tolmezzo, nota per la sua atmosfera raccolta nello storico quartiere della Pieve. Serve piatti della cucina tradizionale carnica, come antipasti misti, gnocchi e zuppe, oltre a dessert tipici come tiramisù e strudel fatto a mano. Il locale è apprezzato per il servizio cordiale, i prezzi contenuti e la selezione di grappe friulane.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Trattoria da Modesto (Ristorante Carnia)",
+      "address": "Via della Vittoria 6, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Modesto%20(Ristorante%20Carnia)%2C%20Via%20della%20Vittoria%206%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria da Modesto, conosciuta anche come Ristorante Carnia, offre un'autentica esperienza di cucina casalinga friulana. Vicino al Museo Carnico, il menu include polenta con selvaggina, funghi o formaggi, pasta e secondi di carne locale, oltre a pizze serali molto apprezzate e un tiramisù celebre. Il personale è preparato, il servizio rapido e i prezzi sono medi.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Al Benvenuto Hotel & Restaurant",
+      "address": "Via Grialba 9, 33028 Tolmezzo (UD)",
+      "website_url": "www.albenvenuto.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Benvenuto%20Hotel%20%26%20Restaurant%2C%20Via%20Grialba%209%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "L'Hotel Ristorante Al Benvenuto è un locale storico gestito da oltre cinquant'anni dalla famiglia Tondo, celebre per la cucina italiana e friulana servita in un contesto accogliente e professionale. Il menu propone paste fresche, piatti di pesce quando disponibile, prosciutto crudo friulano e strudel tipico. Dispone di posti all'aperto e offre numerosi servizi per la clientela.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "La Buteghe di Pierute",
+      "address": "Via Lovea 1, Illegio, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Buteghe%20di%20Pierute%2C%20Via%20Lovea%201%2C%20Illegio%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "Situata nel suggestivo borgo di Illegio, La Buteghe di Pierute si distingue per una cucina carnica di alto livello, reinterpretata in chiave contemporanea con attenzione alle materie prime locali. La proposta spazia tra tagliatelle con ragù di carni, ravioli alle erbe di montagna e dessert artigianali. L'ambiente è elegante e curato, con servizio professionale e accogliente.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Antica Osteria Valle",
+      "address": "Via Marchi 13/15, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Osteria%20Valle%2C%20Via%20Marchi%2013%2F15%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "Antica Osteria Valle combina un'anima da trattoria tradizionale con una vivace proposta di pizzeria serale, in posizione centrale vicino al Palazzo Linussio. È frequentata sia a pranzo da lavoratori e famiglie, sia a cena con menu variegato tra cui pappardelle al ragù e pizza. Dispone di posti all'aperto e mantiene prezzi economici.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Rifugio Fornas",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Fornas%2C%20Tolmezzo",
+      "image_url": null,
+      "description": "Il Rifugio Fornas è un rifugio-ristorante di montagna rinomato per la sua cucina italiana e mediterranea, con piatti come ravioli, ragù, gnocchi e occasionalmente sashimi. Offre un contesto naturale suggestivo, coperti all'aperto e un'ambiente apprezzato sia da residenti che visitatori, con valutazioni altissime su Google e Tripadvisor.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Ai Portici",
+      "address": "Via Roma 22, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Portici%2C%20Via%20Roma%2022%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "Ai Portici è una pizzeria molto apprezzata situata nel centro di Tolmezzo, nota per l'elevata qualità delle pizze e dei primi piatti come la pasta, con menzione speciale per la burrata e il tiramisù. Dispone di posti all'aperto e servizio di consegna a domicilio, offrendo un'atmosfera informale e prezzi accessibili.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Pizzeria Rossonero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Rossonero%2C%20Tolmezzo",
+      "image_url": null,
+      "description": "La Pizzeria Rossonero è celebre per la sua pizza napoletana a lunga lievitazione e impasto particolarmente riuscito, oltre a paste e piatti di pesce come la coda di rospo. Il locale dispone di ampio parcheggio, posti all'aperto e servizio di consegna, ed è molto popolare tra clienti locali e di passaggio.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Osteria Al Poc'",
+      "address": "Località Sega 8, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Poc'%2C%20Localit%C3%A0%20Sega%208%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "Osteria Al Poc' è un locale di quartiere nella periferia di Tolmezzo, noto per la sua atmosfera genuina e informale. Offre pizze e gnocchi molto apprezzati, dispone di posti all'aperto e viene frequentato soprattutto da residenti della zona. I prezzi sono contenuti.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Al Belvedere",
+      "address": "Via Selet 1, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Belvedere%2C%20Via%20Selet%201%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "Al Belvedere è un locale periferico di Tolmezzo caratterizzato da orari mattinieri e una selezione di pizze e piatti di pesce, insolita per la zona montana. È frequentato per la sua fascia di prezzo accessibile ed è aperto principalmente nei giorni feriali.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Albergo Ristorante Bar Miramonti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Bar%20Miramonti%2C%20Tolmezzo",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Bar Miramonti offre cucina tradizionale in un ambiente alberghiero, rivolgendosi sia agli ospiti che alla clientela esterna. Il menu spazia tra piatti regionali e proposte più varie per soddisfare diversi gusti.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Il Farco – Burgers & Beer",
+      "address": "Via Brasil 2, 33028 Tolmezzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Farco%20%E2%80%93%20Burgers%20%26%20Beer%2C%20Via%20Brasil%202%2C%2033028%20Tolmezzo%20(UD)",
+      "image_url": null,
+      "description": "Il Farco – Burgers & Beer è un locale moderno specializzato in hamburger artigianali e birre di qualità, frequentato principalmente da un pubblico giovane. Offre panini e bacon in un contesto informale con posti all'aperto e parcheggio, riscuotendo ottimi giudizi online.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Panevino & San Daniele",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Panevino%20%26%20San%20Daniele%2C%20Tolmezzo",
+      "image_url": null,
+      "description": "Panevino & San Daniele è un locale-enoteca in centro a Tolmezzo che propone vini friulani accompagnati da taglieri di salumi, in particolare prosciutto San Daniele DOP, e formaggi del territorio. È ideale per aperitivi e spuntini di qualità in stile friulano.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Yokoso Tolmezzo – Ristorante Giapponese",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Yokoso%20Tolmezzo%20%E2%80%93%20Ristorante%20Giapponese%2C%20Tolmezzo",
+      "image_url": null,
+      "description": "Yokoso Tolmezzo è l'unico ristorante giapponese della città, offrendo sushi, sashimi, ramen e altre specialità nipponiche. È frequentato sia da giovani che da una clientela curiosa, portando la cucina asiatica nel cuore della Carnia.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    },
+    {
+      "name": "Trattoria da Maria – Fusea",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Maria%20%E2%80%93%20Fusea%2C%20Tolmezzo",
+      "image_url": null,
+      "description": "Situata nella frazione di Fusea, la Trattoria da Maria è un locale tradizionale di cucina carnica casalinga, noto per la preparazione di ricette tramandate e materie prime a km zero come formaggi di malga e carni locali. È un esempio autentico di ristorazione di paese.",
+      "comune_name": "Tolmezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tolmezzo.md"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "comune_name": "Barcis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/barcis.md",
+  "extracted_at": "2026-04-09T10:42:54.818Z",
+  "pois": [
+    {
+      "name": "Palazzo Centi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Centi%2C%20Barcis",
+      "image_url": null,
+      "description": "Il Palazzo Centi è un raro esempio di architettura signorile settecentesca a Barcis, unendo elementi rustici della Valcellina con lo stile veneziano. Costruito in pietra viva e caratterizzato da un doppio loggiato, rappresenta una preziosa testimonianza dell'edilizia storica locale, sopravvissuta a incendi e guerre. Pur non essendo un museo accessibile, viene citato in numerosi testi sul patrimonio architettonico della provincia di Pordenone.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/barcis.md"
+    },
+    {
+      "name": "Il Meteorite di Barcis (1953) — Reperto Disperso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Meteorite%20di%20Barcis%20(1953)%20%E2%80%94%20Reperto%20Disperso%2C%20Barcis",
+      "image_url": null,
+      "description": "Nel 1953 fu rinvenuto nei pressi di Barcis un raro meteorite di tipo pallasite, studiato e suddiviso tra collezioni e musei scientifici italiani. Sebbene il reperto non sia conservato in loco per mancanza di strutture museali, il suo ritrovamento rappresenta un importante capitolo della storia scientifica locale e conferisce notorietà al comune di Barcis.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/barcis.md"
+    },
+    {
+      "name": "Meridiana ad Affresco dell'Osteria \"Aquila Nera\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Meridiana%20ad%20Affresco%20dell'Osteria%20%22Aquila%20Nera%22%2C%20Barcis",
+      "image_url": null,
+      "description": "La meridiana ad affresco sulla facciata dell'antica osteria \"Aquila Nera\" è uno degli ultimi esempi superstiti di pittura civile a Barcis. Questo orologio solare dipinto svolgeva un ruolo pratico nel segnare le ore quotidiane e costituisce oggi un piccolo ma significativo documento della cultura materiale alpina della Valcellina.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/barcis.md"
+    },
+    {
+      "name": "Diga del Lago di Barcis — Patrimonio Industriale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Diga%20del%20Lago%20di%20Barcis%20%E2%80%94%20Patrimonio%20Industriale%2C%20Barcis",
+      "image_url": null,
+      "description": "La diga di Barcis, costruita negli anni '50, ha dato origine all'omonimo lago e ha profondamente cambiato il paesaggio della Valcellina. Percorribile a piedi, è un significativo esempio di ingegneria idroelettrica del dopoguerra e rappresenta un vero e proprio documento di storia industriale per il territorio di Barcis.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/barcis.md"
+    }
+  ]
+}

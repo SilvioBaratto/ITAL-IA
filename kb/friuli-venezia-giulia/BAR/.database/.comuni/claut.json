@@ -1,0 +1,107 @@
+{
+  "comune_name": "Claut",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md",
+  "extracted_at": "2026-04-09T10:10:36.326Z",
+  "pois": [
+    {
+      "name": "Bar K2",
+      "address": "Via Enrico Toti, Basoia — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20K2%2C%20Via%20Enrico%20Toti%2C%20Basoia%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Bar K2 è un punto di riferimento per residenti ed escursionisti a Claut. L'atmosfera è quella genuina dei bar di paese, con tavolini in legno e il bancone tradizionale, ideale per una colazione veloce, una pausa caffè o un rapido aperitivo serale accompagnato da stuzzichini locali. D'estate, il locale accoglie molti visitatori di passaggio diretti verso le Dolomiti friulane.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Bar Mario",
+      "address": "Viale Don Pietro Bortolotto, Basoia — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Mario%2C%20Viale%20Don%20Pietro%20Bortolotto%2C%20Basoia%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Bar Mario si trova su uno dei viali principali di Basoia e rappresenta la classica osteria-bar di montagna. Il locale ha una gestione familiare e accoglie una clientela prevalentemente locale per colazioni, pasti veloci e appuntamenti conviviali durante tutto il giorno. Qui si respira un forte senso di comunità e si trova un servizio semplice e autentico, senza fronzoli.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Gelateria Bar da Criss",
+      "address": "Piazza San Giorgio, Basoia — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelateria%20Bar%20da%20Criss%2C%20Piazza%20San%20Giorgio%2C%20Basoia%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Affacciata su Piazza San Giorgio, la Gelateria Bar da Criss offre sia una caffetteria classica che gelati artigianali, con una proposta attenta ai gusti tradizionali e alle stagioni. Il locale è particolarmente frequentato in estate, quando i tavolini all'aperto si riempiono di famiglie, turisti ed escursionisti. L'ambiente è informale e accogliente, con prezzi popolari.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Osteria Cellina",
+      "address": "Basoia — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Cellina%2C%20Basoia%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Cellina fonde il carattere del bar tradizionale e dell'osteria, offrendo caffetteria, aperitivi e piccola cucina locale. L'atmosfera rustica e familiare, unita alla proposta di taglieri con salumi e formaggi della zona, ne fa un importante luogo di aggregazione sociale a Claut. È un posto ideale per assaporare la tipicità della Valcellina senza formalità.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Panificio Caffetteria Giuseppe",
+      "address": "Via Antonio Giordani, Basoia — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Panificio%20Caffetteria%20Giuseppe%2C%20Via%20Antonio%20Giordani%2C%20Basoia%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Panificio Caffetteria Giuseppe è forno artigianale e punto di ritrovo mattutino, dove si può assaporare pane fresco, dolci tipici e gustare un caffè in un ambiente autentico. Questo locale multifunzione è fondamentale per la vita quotidiana del paese, offrendo sia prodotti da forno che un servizio di caffetteria semplice e genuino.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Bar Albergo Al Giardino",
+      "address": "Via Roma, Basoia — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Albergo%20Al%20Giardino%2C%20Via%20Roma%2C%20Basoia%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Bar Albergo Al Giardino svolge sia funzione di bar che di albergo, ed è un punto di incontro centrale per il quartiere. L'atmosfera accogliente e la gestione familiare sono ideali per una colazione, un caffè pomeridiano o un aperitivo serale, specialmente in estate quando uno spazio all'aperto permette di gustare la frescura del clima montano.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Bar Ristorante Albergo Dolomiti",
+      "address": "Via Antonio Giordani, 16 — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Albergo%20Dolomiti%2C%20Via%20Antonio%20Giordani%2C%2016%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Bar Ristorante Albergo Dolomiti è tra i locali più strutturati di Claut, con servizio di alloggio, ristorante e bar. Il bar offre grappe, amari tipici, snack e taglieri, con un arredamento sobrio e richiami alla tradizione alpina. Situato in una posizione strategica, è una sosta apprezzata da escursionisti e visitatori della valle.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Bar Albergo Ristorante Vittoria",
+      "address": "Piazza Quattro Novembre, 5 — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Albergo%20Ristorante%20Vittoria%2C%20Piazza%20Quattro%20Novembre%2C%205%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Bar Albergo Ristorante Vittoria si trova in posizione centrale su una delle piazze principali di Claut ed è uno storico punto di riferimento del paese. Il bar serve colazioni, caffè e aperitivi, ed è particolarmente frequentato durante il mercato e le feste paesane. L'accoglienza familiare e la posizione sulla piazza lo rendono uno dei locali più vivaci del borgo.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    },
+    {
+      "name": "Bar Ristorante Albergo Miramonte",
+      "address": "Viale Don Pietro Bortolotto — Claut (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Albergo%20Miramonte%2C%20Viale%20Don%20Pietro%20Bortolotto%20%E2%80%94%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Miramonte offre bar e ristorante integrati all'interno di una struttura ricettiva tradizionale lungo il viale principale. Il bar è frequentato sia dagli ospiti dell'albergo che dai residenti, specialmente all'ora dell'aperitivo, e propone una scelta di caffetteria, liquori locali e qualche stuzzichino tipico, il tutto con vista sulle montagne che circondano Claut.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/claut.md"
+    }
+  ]
+}

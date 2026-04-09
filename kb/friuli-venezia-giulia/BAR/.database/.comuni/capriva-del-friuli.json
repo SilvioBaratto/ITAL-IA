@@ -1,0 +1,63 @@
+{
+  "comune_name": "Capriva del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/capriva-del-friuli.md",
+  "extracted_at": "2026-04-09T10:03:36.713Z",
+  "pois": [
+    {
+      "name": "Hosteria del Castello – Ristorante e Bar",
+      "address": "Via Spessa, 14 – Spessa (Capriva del Friuli)",
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Hosteria del Castello è la proposta più informale del complesso Castello di Spessa, con bar aperto dal mattino alla sera e cucina stagionale incentrata sulle tradizioni friulane. È punto di riferimento per golfisti, visitatori e residenti, offrendo colazione, aperitivi e dopocena in un ambiente caldo e rustico con vista sui vigneti. Il bar propone vini della tenuta al calice, spritz e birre artigianali; è uno degli spazi più accessibili del territorio.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Il Gusto di Casanova – Bistrot",
+      "address": "Via Spessa, 1 – Spessa (Capriva del Friuli)",
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bistrot 'Il Gusto di Casanova' si trova all'ingresso del Castello di Spessa, con una sala affrescata e pochi posti a sedere, ideale per aperitivi sofisticati. Specializzato nell’abbinamento di vini della tenuta con assaggi freddi di eccellenza locale, offre un'atmosfera elegante e raffinata. Il servizio è stagionale, con apertura pomeridiana e serale durante la bella stagione, ed è noto per l’esperienza guidata dal sommelier.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "La Tavernetta al Castello – Ristorante con Bar",
+      "address": "Via Spessa, 7 – Spessa (Capriva del Friuli)",
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Tavernetta al Castello offre un’esperienza gastronomica elegante, abbinata a hotel e bar, rivolta a chi desidera vivere il Collio tra tavola, vino e relax. Il bar serve bevande e aperitivi sia agli ospiti che ai visitatori, in un ambiente raffinato con richiami alla tradizione friulana. La cucina segue la stagionalità e valorizza produttori locali, con colazioni servite nelle sale storiche del maniero.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Casale in Collina – Agriturismo con Bar e Ristorante",
+      "address": "Spessa (Capriva del Friuli)",
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Casale in Collina è un agriturismo immerso tra i vigneti, parte del Castello di Spessa, con bar e ristorante rivolti principalmente agli ospiti. Offre soggiorni nella natura, colazioni con prodotti locali e momenti di caffè o aperitivo tra uliveti e colline friulane. La struttura è apprezzata per la tranquillità e il contesto rurale autentico.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Vinum SPA – Bar e Lounge Wellness",
+      "address": "Via Spessa, 1 – Spessa (Capriva del Friuli)",
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Vinum SPA del Castello di Spessa è un centro wellness ispirato al mondo della vite e del vino, con lounge bar e tisaneria dedicata ai clienti della SPA. Si possono gustare tisane alle foglie di vite, succhi d’uva e grappe aziendali, in un ambiente sensoriale che integra aromi e degustazioni dei prodotti del Collio. Il bar è riservato principalmente ai frequentatori della SPA e offre un’esperienza unica legata al vino.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/capriva-del-friuli.md"
+    }
+  ]
+}

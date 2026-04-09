@@ -1,0 +1,30 @@
+{
+  "comune_name": "Aiello del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aiello-del-friuli.md",
+  "extracted_at": "2026-04-09T10:01:00.553Z",
+  "pois": [
+    {
+      "name": "La Sirena",
+      "address": "Via XXIV Maggio, 4 — 33041 Aiello del Friuli (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Sirena è un bar del centro di Aiello del Friuli, gestito da Simona Blanch e Anna Vrech. Situato in una delle vie principali del borgo, offre caffetteria, brioche e pasticcini al mattino, oltre ad aperitivi e stuzzichini nel tardo pomeriggio. Il locale è tipico dei bar di quartiere friulani, frequentato sia da anziani sia da famiglie. Particolare attenzione viene posta alla qualità del caffè, selezionato da torrefattori locali con un blend tradizionale nordestino.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aiello-del-friuli.md"
+    },
+    {
+      "name": "Soraia Bar Gelateria",
+      "address": "Via Marconi, 77 — 33041 Aiello del Friuli (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Soraia Bar Gelateria combina il ruolo di bar quotidiano a quello di gelateria artigianale, rappresentando un punto di incontro per famiglie e bambini, specialmente in estate. Il locale, situato in via Marconi, è molto frequentato durante tutto l'arco della giornata, offrendo gelati artigianali con gusti stagionali e, nei mesi freddi, cioccolata calda e dolci da forno. La doppia anima del locale lo rende fra i più vivaci di Aiello del Friuli.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aiello-del-friuli.md"
+    }
+  ]
+}

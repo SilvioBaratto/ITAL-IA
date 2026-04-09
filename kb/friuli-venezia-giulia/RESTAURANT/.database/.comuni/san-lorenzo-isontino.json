@@ -1,0 +1,19 @@
+{
+  "comune_name": "San Lorenzo Isontino",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-lorenzo-isontino.md",
+  "extracted_at": "2026-04-09T11:17:52.918Z",
+  "pois": [
+    {
+      "name": "Lis Neris — Wine Relais, Private Dining e Degustazioni",
+      "address": "Via Gavinana 5, 34070 San Lorenzo Isontino (GO)",
+      "website_url": "https://www.lisneris.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lis%20Neris%20%E2%80%94%20Wine%20Relais%2C%20Private%20Dining%20e%20Degustazioni%2C%20Via%20Gavinana%205%2C%2034070%20San%20Lorenzo%20Isontino%20(GO)",
+      "image_url": null,
+      "description": "Lis Neris è una delle cantine più premiate del Friuli Venezia Giulia e offre esperienze di ospitalità integrata che combinano enologia, cultura e gastronomia locale. La struttura comprende un Wine Relais con suite in un antico fabbricato rurale, una raffinata area Private Dining per eventi su prenotazione e percorsi di degustazione abbinati a specialità friulane come formaggi regionali e prosciutto di Cormons. Pur non essendo un ristorante tradizionale, rappresenta la proposta culinaria più significativa del comune, con menù che valorizzano i prodotti tipici locali in abbinamento ai celebri vini Lis Neris.",
+      "comune_name": "San Lorenzo Isontino",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-lorenzo-isontino.md"
+    }
+  ]
+}

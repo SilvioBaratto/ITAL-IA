@@ -1,0 +1,52 @@
+{
+  "comune_name": "Farra D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/farra-d-isonzo.md",
+  "extracted_at": "2026-04-09T10:25:36.665Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Assunta — Farra d'Isonzo (capoluogo)",
+      "address": null,
+      "website_url": "https://www.comune.farradisonzo.go.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Farra%20d'Isonzo%20(capoluogo)%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "La principale chiesa parrocchiale di Farra d'Isonzo è dedicata all'Assunzione di Maria ed è tra i luoghi di culto più antichi della zona, con origini che risalgono al VI-VII secolo. Presenta una facciata neoclassica a capanna e un'abside gotica quattrocentesca, che conserva un affresco della Madonna con Bambino. L'interno custodisce opere di Giovanni Moro e Clemente Del Neri. Ricostruita nel 1923 dopo le distruzioni della Prima Guerra Mondiale, la chiesa testimonia una lunga stratificazione storica e religiosa.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Chiesa dell'Immacolata Concezione — Borgo Zuppini",
+      "address": null,
+      "website_url": "https://www.comune.farradisonzo.go.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dell'Immacolata%20Concezione%20%E2%80%94%20Borgo%20Zuppini%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "Edificata tra il 1665 e il 1669 su iniziativa della famiglia Zuppini, questa chiesa è la più antica dell'arcidiocesi di Gorizia dedicata all'Immacolata Concezione. Oggi versa in stato di precarietà e non è accessibile al pubblico, ma rappresenta una memoria materiale importante per la comunità e la devozione mariana locale. La cappella è inclusa nella Lista Rossa del patrimonio a rischio di Italia Nostra.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Chiesa di Nostra Signora del Sacro Cuore — Mainizza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Nostra%20Signora%20del%20Sacro%20Cuore%20%E2%80%94%20Mainizza%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "Situata nella storica frazione di Mainizza, questa chiesa rappresenta il principale luogo di culto per la comunità locale. Pur mancando informazioni dettagliate sull'architettura o le opere d'arte, è attestata come parte integrante della rete ecclesiastica di Farra d'Isonzo.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Chiesa dei Santi Pietro e Paolo — Villanova di Farra",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Pietro%20e%20Paolo%20%E2%80%94%20Villanova%20di%20Farra%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "La chiesa di Santi Pietro e Paolo si trova nella frazione di Villanova di Farra, in prossimità del Monte Fortino. È il principale luogo di culto della comunità rurale della zona e riflette la coerenza religiosa con la parrocchiale del capoluogo, a cui è storicamente legata.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/farra-d-isonzo.md"
+    }
+  ]
+}

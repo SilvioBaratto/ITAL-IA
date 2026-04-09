@@ -1,0 +1,41 @@
+{
+  "comune_name": "Cavazzo Carnico",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavazzo-carnico.md",
+  "extracted_at": "2026-04-09T10:04:15.011Z",
+  "pois": [
+    {
+      "name": "Le Bistrot Bar & Cucina Casaling",
+      "address": "Via di Sotto, 2",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Le Bistrot Bar & Cucina Casaling è un locale familiare e autentico situato nel cuore di Cavazzo Carnico. Propone una formula polivalente: bar per le colazioni, caffetteria, aperitivi serali e cucina casalinga con piatti tradizionali carnici e barbecue. L’atmosfera è informale e accogliente, tipica dei piccoli bar di paese, ideale sia per residenti che per visitatori in cerca di convivialità.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Trattoria Al Pescatore",
+      "address": "Località Val Cavazzo",
+      "website_url": "https://www.facebook.com/trattoriaalpescatore",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situata nella suggestiva Val Cavazzo, la Trattoria Al Pescatore offre servizio di bar abbinato a quello di ristorazione e dispone di tavoli all’aperto affacciati sulle rive del Lago di Cavazzo. È un punto di riferimento sia per residenti che per turisti, perfetta per una sosta durante attività all’aria aperta. Si può accedere al bar per un caffè o un aperitivo anche senza consumare pasti e il locale è attrezzato per famiglie e persone con disabilità.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Osteria Angeli Neri",
+      "address": "Via della Fontana, 26",
+      "website_url": "http://www.osteriaangelineri.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "L’Osteria Angeli Neri si trova a Cesclans e combina il servizio di bar con quello di pizzeria e cucina italiana. Offre un ambiente genuino e raccolto nelle vicinanze della Pieve di Santo Stefano. Il bar è attivo durante gli orari del ristorante ed è l’ideale per un aperitivo serale nella tranquillità della frazione; nei periodi caldi sono disponibili tavoli all’aperto.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cavazzo-carnico.md"
+    }
+  ]
+}

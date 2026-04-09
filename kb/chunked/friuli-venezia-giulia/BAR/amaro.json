@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/amaro.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Amaro",
+  "province": "UD",
+  "page_title": "Amaro",
+  "page_summary": "Guida ai bar del comune di Amaro: il Bar alla Frasca, punto di riferimento multifunzionale per residenti e lavoratori, e il Biker'S Bar, locale strategico per motociclisti e viaggiatori lungo la SS52.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/amaro.md",
+  "processed_at": "2026-04-09T11:55:30.755Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/amaro__0",
+      "text": "### Bar alla Frasca\n\n**Indirizzo:** Via Roma, 9 — 33020 Amaro (UD)  \n**Telefono:** 0433 94168  \n**Orari:** martedì–domenica 06:00–13:00 e 16:00–24:00; lunedì chiuso\n\nIl Bar alla Frasca è il cuore pulsante della vita quotidiana di Amaro. Situato in Via Roma — la strada principale del paese — è molto più di un semplice bar: è edicola, tabaccheria, ricevitoria del Lotto e del Superenalotto, punto per il pagamento di bollette e bollettini. Questo tipo di esercizio multifunzionale è tipico dei piccoli comuni della montagna friulana, dove la sopravvivenza economica di un'attività dipende dalla capacità di offrire servizi diversificati alla comunità.\n\nLa mattina il Bar alla Frasca apre alle sei in punto, pronto ad accogliere i lavoratori che partono di buonora verso Tolmezzo o lungo la SS52. Il caffè è il rito centrale: un espresso al banco, magari con un cornetto, consumato nel clima familiare che solo un bar di paese riesce a offrire. Si riconoscono tutti, ci si saluta per nome, si commentano le notizie del giorno sfogliando i quotidiani appena arrivati in edicola.\n\nIl pomeriggio e la sera il locale si trasforma in punto di ritrovo per l'aperitivo: uno spritz, un Bitter, qualche stuzzichino. L'ambiente è accogliente e informale, lontano anni luce dalla movida cittadina, ma proprio per questo autentico e prezioso per chi cerca l'atmosfera vera della montagna friulana. La Frasca — il nome evoca la tradizione delle *frascas*, le osterie con una frasca di rami appesa alla porta per segnalare la vendita di vino — mantiene vivo uno spirito di ospitalità senza fronzoli, tipico della Carnia.\n\n---\n",
+      "metadata": {
+        "section_title": "Bar alla Frasca",
+        "links": [],
+        "addresses": [
+          "Via Roma, 9 — 33020 Amaro (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": "martedì–domenica 06:00–13:00 e 16:00–24:00; lunedì chiuso",
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/amaro__1",
+      "text": "### Biker'S Bar\n\n**Indirizzo:** SS52 Carnica, km 5+ — 33020 Amaro (UD)  \n**Telefono:** 347 5652432 (WhatsApp disponibile)\n\nIl Biker'S Bar occupa una posizione strategica lungo la Strada Statale 52 Carnica, la principale arteria di comunicazione che attraversa il comune di Amaro collegando la pianura friulana con il cuore della Carnia. Il nome rivela chiaramente la vocazione del locale: un punto di sosta pensato per i motociclisti e i viaggiatori su due ruote che percorrono questa strada di grande fascino alpino, molto frequentata nei mesi caldi da appassionati di moto provenienti da tutto il Nordest e dall'Europa centrale.\n\nLa SS52 Carnica è una strada nota tra i bikers per i suoi tornanti, i paesaggi montani spettacolari e il tracciato che si snoda attraverso la Carnia offrendo scorci panoramici di rara bellezza. Il Biker'S Bar si inserisce in questa tradizione di ospitalità lungo le strade di montagna, rappresentando una tappa di ristoro e socializzazione per chi percorre questo itinerario.\n\nL'atmosfera è quella tipica dei bar frequentati dagli appassionati di motociclismo: conviviale, informale, aperta a chiunque transiti. Si può fare una pausa caffè, prendere qualcosa da bere o da mangiare, e spesso si ha l'opportunità di scambiare quattro chiacchiere con altri viaggiatori. La posizione sulla statale, fuori dal centro abitato, lo rende facilmente raggiungibile anche per chi arriva dai comuni vicini.\n\n---\n",
+      "metadata": {
+        "section_title": "Biker'S Bar",
+        "links": [],
+        "addresses": [
+          "SS52 Carnica, km 5+ — 33020 Amaro (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

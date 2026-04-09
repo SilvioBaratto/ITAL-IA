@@ -1,0 +1,63 @@
+{
+  "comune_name": "Enemonzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/enemonzo.md",
+  "extracted_at": "2026-04-09T11:01:15.737Z",
+  "pois": [
+    {
+      "name": "Agriturismo Tiziano",
+      "address": "Via Nazionale, 2 - 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Tiziano%2C%20Via%20Nazionale%2C%202%20-%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Tiziano propone una cucina carnica autentica in un ambiente rurale e accogliente. Il menu include cjarsons, frico con polenta, gnocchi fatti in casa e altre specialità locali, con una particolare attenzione ai formaggi della zona. L'atmosfera è rustica e genuina, e il locale è aperto stagionalmente, offrendo un'esperienza gastronomica semplice e di qualità. Il prezzo medio per un pranzo si aggira tra i 20 e i 30 euro a persona.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Albergo Ristorante Alla Pagoda",
+      "address": "Via Maiaso, 2 - 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Alla%20Pagoda%2C%20Via%20Maiaso%2C%202%20-%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Albergo Ristorante Alla Pagoda è un punto di riferimento per la cucina tradizionale della Carnia, abbinata al comfort di una struttura ricettiva. La filosofia culinaria privilegia la genuinità e l'abbondanza, con piatti come tagliata di carne, pasta al ragù di cinghiale, gnocchi con fonduta di formaggi locali e frico. Il locale è aperto gran parte dell’anno e offre un ambiente rilassante immerso nei paesaggi delle Alpi Carniche.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Osteria Casa Colò",
+      "address": "Via Sant'Antonio, 11 - Località Maiaso - 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Casa%20Col%C3%B2%2C%20Via%20Sant'Antonio%2C%2011%20-%20Localit%C3%A0%20Maiaso%20-%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Osteria Casa Colò è celebre per l'autenticità della cucina carnica e la cordialità del servizio. Il menu varia in base alla stagionalità e offre piatti come frico con polenta, risotti ai funghi porcini e al taleggio, frico con salsiccia e ricotta affumicata, oltre a dessert fatti in casa. Il locale offre un ambiente semplice e caloroso, con una gestione appassionata che valorizza ingredienti locali e stagionali.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Gestal di Bonora Patrizia & C.",
+      "address": "Via Sant'Antonio, 11 - Località Maiaso - 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gestal%20di%20Bonora%20Patrizia%20%26%20C.%2C%20Via%20Sant'Antonio%2C%2011%20-%20Localit%C3%A0%20Maiaso%20-%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Gestal di Bonora Patrizia è una trattoria rinomata nel territorio di Enemonzo, apprezzata per la proposta di cucina carnica tradizionale. Sebbene le informazioni dettagliate siano limitate, la reputazione locale indica una cura per le ricette della valle e un’attenzione agli ingredienti di qualità. È una tappa consigliata per chi vuole assaporare le specialità della Carnia.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Agriturismo S. Juri",
+      "address": "Via Sant'Antonio, 2 - 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20S.%20Juri%2C%20Via%20Sant'Antonio%2C%202%20-%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo S. Juri offre ospitalità e ristorazione rurale con una proposta legata ai ritmi stagionali e ai prodotti locali della Carnia. Il locale rappresenta una scelta autentica per scoprire i sapori montani, con una cucina semplice che valorizza le tradizioni del territorio. È ideale per chi cerca un'esperienza genuina e immersa nella natura.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/enemonzo.md"
+    }
+  ]
+}

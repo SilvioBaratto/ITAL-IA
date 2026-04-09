@@ -1,0 +1,30 @@
+{
+  "comune_name": "Codroipo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/codroipo.md",
+  "extracted_at": "2026-04-09T10:45:47.422Z",
+  "pois": [
+    {
+      "name": "Villa Manin – Percorso Permanente e Museo della Villa",
+      "address": "Piazza Manin 10, 33033 Passariano (UD)",
+      "website_url": "https://www.villamanin.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Manin%20%E2%80%93%20Percorso%20Permanente%20e%20Museo%20della%20Villa%2C%20Piazza%20Manin%2010%2C%2033033%20Passariano%20(UD)",
+      "image_url": null,
+      "description": "Villa Manin rappresenta il complesso monumentale più imponente del Friuli Venezia Giulia, celebre per la sua architettura barocca e per il ruolo storico legato a Lodovico Manin e a Napoleone Bonaparte, che vi stabilì il quartier generale nel 1797. Il percorso museale permanente permette di visitare sale storiche affrescate, installazioni multimediali immersive, e la cappella gentilizia progettata da Domenico Rossi, oltre a un vasto parco storico. La villa ospita mostre temporanee di rilievo internazionale ed è gestita dall’ERPAC, configurandosi come centro culturale di primaria importanza regionale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/codroipo.md"
+    },
+    {
+      "name": "Fondazione Roberto Capucci – Archivio e Spazio Espositivo",
+      "address": "Villa Manin di Passariano, Piazza Manin 10, 33033 Passariano (UD)",
+      "website_url": "https://www.villamanin.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondazione%20Roberto%20Capucci%20%E2%80%93%20Archivio%20e%20Spazio%20Espositivo%2C%20Villa%20Manin%20di%20Passariano%2C%20Piazza%20Manin%2010%2C%2033033%20Passariano%20(UD)",
+      "image_url": null,
+      "description": "Dal 2017 la Fondazione Roberto Capucci espone a Villa Manin uno dei più importanti archivi di moda italiani del Novecento, con oltre 400 abiti storici, migliaia di bozzetti e disegni, fotografie e documentazione completa. Il percorso espositivo celebra la carriera di Capucci come scultore della seta e designer di fama mondiale e rende possibile, durante eventi o su appuntamento, la visita agli spazi archivistici e alle collezioni di abiti-scultura. La fondazione promuove mostre, attività educative e studi dedicati al design e all’arte della moda.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/codroipo.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/dogna.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Dogna",
+  "province": "UD",
+  "page_title": "Dogna",
+  "page_summary": "Guida alla ristorazione di Dogna: l'osteria tradizionale Ai Ors e la malga-albergo Plan Dei Spadovai, per scoprire la cucina montana e carnica del territorio.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dogna.md",
+  "processed_at": "2026-04-09T13:31:16.614Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/dogna__0",
+      "text": "### Osteria Ai Ors\n\n**Ubicazione**: Frazione Vidali 11, 33010 Dogna (UD)  \n**Contatti**: Tel. 348 4461830  \n**Orari**: Chiuso lunedì; da martedì a domenica 8:00-21:00 (sabato fino alle 22:00)  \n\nOsteria Ai Ors è l'eccellenza culinaria di Dogna e rappresenta il vero cuore della ristorazione locale. Gestita con dedizione, è l'unica osteria del paese ad aver conquistato la posizione di primo ristorante di Dogna su TripAdvisor con ben 105 recensioni e valutazione media di 4,5 stelle su Google.\n\nL'atmosfera è tipicamente montana e accogliente, con un ambiente intimo dove si respira l'autenticità delle valli friulane. Il locale è celebre per la genuinità della sua proposta culinaria: qui viene servita vera cucina friulana tradizionale, senza compromessi con la modernità.\n\n**Specialità e piatti signature**:  \n- **Frico con patate**: il piatto più rappresentativo della cucina carnica, realizzato con formaggio friulano filato in padella\n- **Tagliatelle con selvaggina**: pasta fresca fatta in casa condita con ragù di lepre o capriolo, piatto che rappresenta la ricchezza della cucina montanara\n- **Goulash con polenta**: specialità austro-ungarica rivisitata con ingredienti locali, perfetto per i freddi mesi invernali\n- **Polenta**: preparata in modo tradizionale, servita semplice o abbinata a insaccati e formaggi\n- **Salumi e formaggi locali**: affettati friulani di eccellente qualità, spesso da piccoli produttori della valle\n- **Piatti di selvaggina**: coniglio, lepre, capriolo a seconda della stagione e della disponibilità\n\nI clienti apprezzano particolarmente le porzioni generose, la freschezza dei prodotti, il sapore autentico senza artifici. Il personale è amichevole e disponibile, sempre pronto a consigliare i piatti e a raccontare le storie dietro le ricette tradizionali.\n\n**Fascia di prezzo**: Economica-media (tipica dei comuni montani friulani)\n",
+      "metadata": {
+        "section_title": "Osteria Ai Ors",
+        "links": [],
+        "addresses": [
+          "Frazione Vidali 11, 33010 Dogna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": "Chiuso lunedì; da martedì a domenica 8:00-21:00 (sabato fino alle 22:00)",
+        "prices": "Economica-media (tipica dei comuni montani friulani)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/dogna__1",
+      "text": "### Malga Plan Dei Spadovai\n\n**Ubicazione**: Località Plan dei Spadovai, 33010 Dogna (UD)  \n**Contatti**: Tel. 0433 70609 | Mobile 339 2613948 | Email monego90@gmail.com  \n\nMalga Plan Dei Spadovai è un'esperienza unica di ristorazione d'alpeggio, situata in uno scenario di straordinaria bellezza paesaggistica nella Valle del Dogna. È un agriturismo e rifugio montano che funziona come autentica malga estiva, accessibile percorrendo la strada della valle attraversando il fiume Fella.\n\nL'agriturismo è gestito come azienda agricola che produce latte e latticini, offrendo ai visitatori l'opportunità di osservare le operazioni di produzione durante il periodo di alpeggio (dal tardo primavera all'autunno). L'esperienza è ancora più autentica per chi desidera comprendere il ciclo produttivo della montagna friulana.\n\n**Specialità**:  \n- **Prodotti lattiero-caseari**: formaggi e latticini freschi prodotti in situ, con degustazioni di formaggio montano appena fatto\n- **Piatti tradizionali carnici**: cucina semplice e genuina basata su ingredienti dell'azienda e della valle\n- **Carne di qualità montanara**: utilizzata per preparazioni tradizionali\n\nL'atmosfera è estremamente autentica e immersa nella natura: si tratta di una vera malga frequentata da escursionisti e cercatori di tradizione montana. La struttura dispone di 4 camere con 11 posti letto per chi desideri soggiornare e vivere appieno l'esperienza montanara.\n\n**Contesto territoriale**: La Malga è raggiungibile solo durante i mesi di apertura (periodo di alpeggio), attraverso una strada di montagna che risale l'intera Valle del Dogna. È meta ideale per escursionisti e appassionati di trekking nelle Alpi Giulie.\n\n**Fascia di prezzo**: Economica (tipica della ristorazione d'alpeggio friulana)\n",
+      "metadata": {
+        "section_title": "Malga Plan Dei Spadovai",
+        "links": [],
+        "addresses": [
+          "Località Plan dei Spadovai, 33010 Dogna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "Economica (tipica della ristorazione d'alpeggio friulana)"
+      }
+    }
+  ]
+}

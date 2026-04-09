@@ -1,0 +1,85 @@
+{
+  "comune_name": "Attimis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md",
+  "extracted_at": "2026-04-09T10:18:37.758Z",
+  "pois": [
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo — Attimis (capoluogo)",
+      "address": null,
+      "website_url": "http://www.comune.attimis.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Attimis%20(capoluogo)%2C%20Attimis",
+      "image_url": null,
+      "description": "Principale luogo di culto del comune, la chiesa di Sant'Andrea Apostolo è la parrocchiale del capoluogo. Costruita tra il 1900 e il 1906 in stile neo-romanico, presenta tre navate e una torre campanaria posta lateralmente. L'interno è caratterizzato da arcate, pavimentazione in marmo a losanga e altari laterali. Il patrono, sant'Andrea Apostolo, è festeggiato il 30 novembre.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    },
+    {
+      "name": "Cappella affrescata di San Silvestro e torre medievale — Racchiuso",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68227/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20affrescata%20di%20San%20Silvestro%20e%20torre%20medievale%20%E2%80%94%20Racchiuso%2C%20Attimis",
+      "image_url": null,
+      "description": "La chiesa di San Silvestro papa è la parrocchiale della frazione di Racchiuso e incorpora una cappella del XV secolo decorata nel 1518 da Gian Paolo Thanner, con un ciclo di affreschi di grande valore artistico. A lato della chiesa sorge una torre campanaria medievale con iscrizione lapidea in volgare friulano del 1448, considerata tra i documenti epigrafici più antichi della regione.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    },
+    {
+      "name": "Chiesa dei Santi Giovanni Battista e Lucia — Porzus",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68225/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Giovanni%20Battista%20e%20Lucia%20%E2%80%94%20Porzus%2C%20Attimis",
+      "image_url": null,
+      "description": "La chiesa custodita dalla frazione di Porzus vanta origini medievali, documentata dal XIII secolo. L'abside gotica tardoquattrocentesca, attribuita ai maestri sloveni, è il nucleo più prezioso dell'edificio, rinnovato più volte nel corso dei secoli. La doppia titolazione riflette le tradizioni rurali friulane; la struttura conserva tracce della continuità tra epoca romana e medioevo.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    },
+    {
+      "name": "Cappella di Sant'Osvaldo nel Castello di Partistagno — Racchiuso / Partistagno",
+      "address": null,
+      "website_url": "https://consorziocastelli.it/icastelli/udine/partistagno",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20Sant'Osvaldo%20nel%20Castello%20di%20Partistagno%20%E2%80%94%20Racchiuso%20%2F%20Partistagno%2C%20Attimis",
+      "image_url": null,
+      "description": "La cappella di Sant'Osvaldo, presso il Castello di Partistagno, rappresenta uno dei più significativi esempi di architettura sacra medievale della zona. Originaria già nell'XI secolo, fu ampliata e decorata con affreschi tra Duecento e Quattrocento, tra cui cicli attribuiti a maestri locali vitaleschi. Restaurata dopo il terremoto del 1976, è oggi parte di un complesso visitabile e rilevante per la storia locale.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    },
+    {
+      "name": "Monastero delle Clarisse — Partistagno (Racchiuso)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastero%20delle%20Clarisse%20%E2%80%94%20Partistagno%20(Racchiuso)%2C%20Attimis",
+      "image_url": null,
+      "description": "Il monastero delle Clarisse è attestato nella borgata di Partistagno, frazione di Racchiuso, come elemento del paesaggio sacro locale. Non sono disponibili dettagli sulla sua storia o architettura, ma è menzionato tra i luoghi di interesse religioso della zona.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio Abate — Forame (o altra frazione)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20Abate%20%E2%80%94%20Forame%20(o%20altra%20frazione)%2C%20Attimis",
+      "image_url": null,
+      "description": "Il comune di Attimis annovera una chiesa parrocchiale dedicata a Sant'Antonio Abate, venerato come protettore degli animali e delle attività agricole. La precisa localizzazione e le caratteristiche dell'edificio non sono note, ma la chiesa appartiene alla rete parrocchiale dell'Arcidiocesi di Udine.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    },
+    {
+      "name": "Chiesa di Sant'Anna — Subit",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Anna%20%E2%80%94%20Subit%2C%20Attimis",
+      "image_url": null,
+      "description": "Situata nella frazione di Subit, la chiesa di Sant'Anna è stata ricostruita dopo la distruzione nel 1944 provocata da incursione militare tedesca. L'edificio attuale, con campanile simbolo del paese, testimonia la resilienza della comunità locale, segnata dalle tragedie della guerra e del terremoto del 1976. Sant'Anna è patrona della frazione e la festa si celebra a luglio.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/attimis.md"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "comune_name": "Cercivento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md",
+  "extracted_at": "2026-04-09T10:38:38.275Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo (Pieve di San Martino)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%20(Pieve%20di%20San%20Martino)%2C%20Cercivento",
+      "image_url": null,
+      "description": "La Chiesa di San Martino Vescovo, conosciuta anche come Pieve di San Martino, è il monumento principale di Cercivento ed è situata in posizione dominante con un caratteristico campanile cuspidato. L'edificio, ricostruito fra il 1685 e il 1698 in stile barocco montano, conserva numerose opere d'arte tra cui un altare scolpito, statue veneziane settecentesche e un pregevole pulpito ligneo. Notevole è anche l'organo del 1753 e diversi ex voto e tele d'epoca. Danneggiata dal terremoto del 1976, la chiesa è stata restaurata e continua a essere il centro spirituale del paese.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "La Farie di Checo (Fucina Storica ad Acqua)",
+      "address": null,
+      "website_url": "http://www.sistemamusealecarnia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Farie%20di%20Checo%20(Fucina%20Storica%20ad%20Acqua)%2C%20Cercivento",
+      "image_url": null,
+      "description": "La Farie di Checo è una storica fucina ad acqua, simbolo artigianale di Cercivento di Sotto e documentata dal 1426. Restaurata e riaperta al pubblico nel 1990, fa parte del Sistema Museale della Carnia e rappresenta una delle più antiche testimonianze di tecnologia pre-industriale alpina della regione. La struttura conserva antiche attrezzature come mulini, mantici e incudini, e offre una rara occasione per scoprire il patrimonio dell’artigianato locale.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Casa Tiridin",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Tiridin%2C%20Cercivento",
+      "image_url": null,
+      "description": "Casa Tiridin, costruita nel 1634, è considerata la casa più bella e caratteristica di Cercivento e prende il nome dal proprietario originario Giovanni Dassi detto 'Tiridin'. L’edificio, esemplare dell’architettura rurale carnica, sfoggia un grande arco in tufo e una loggia ad archi, tipica del territorio. Ristrutturata dopo il terremoto del 1976, si affaccia su una piazzetta caratteristica del borgo.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Casa Morassi e Cappelletta della Madonna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Morassi%20e%20Cappelletta%20della%20Madonna%2C%20Cercivento",
+      "image_url": null,
+      "description": "Casa Morassi, costruita nel 1690, è nota per il bel portale in pietra e per il meccanismo dell’antico orologio di facciata. Accanto alla casa si trova una piccola cappella privata dedicata alla Madonna risalente al 1700, che conserva oggetti sacri e reliquie. L’insieme, ristrutturato negli anni Ottanta, rappresenta un interessante esempio di architettura civile e luogo di devozione privata a Cercivento.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Casa Citârs",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Cit%C3%A2rs%2C%20Cercivento",
+      "image_url": null,
+      "description": "Eretta nel 1577, Casa Citârs è ritenuta la più antica abitazione di Cercivento e testimonia la tradizione artigianale ceramica della famiglia proprietaria. L’edificio custodiva una manifattura di ceramiche rinomata nella regione, con produzione di oggetti devozionali e d’uso. Ancora oggi vi sono esposte statuette religiose di pregio, e la casa racconta parte della storia economica e artistica del borgo.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Casa Pitt",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Pitt%2C%20Cercivento",
+      "image_url": null,
+      "description": "Situata nel centro del paese, Casa Pitt è una delle più antiche residenze di Cercivento e presenta una statua della Madonna Immacolata all'ingresso. L'edificio fu parzialmente incendiato durante la seconda guerra mondiale, ma conserva un arco in tufo tipico della zona. Oggi al pianterreno ospita un'osteria, mantenendo la sua funzione sociale nel contesto del borgo.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Percorso dei Mosaici e delle Opere d'Arte",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Percorso%20dei%20Mosaici%20e%20delle%20Opere%20d'Arte%2C%20Cercivento",
+      "image_url": null,
+      "description": "Ideato a partire dal 2011, questo percorso trasforma Cercivento in una galleria d’arte a cielo aperto con dieci mosaici realizzati dalla Scuola Mosaicisti del Friuli che narrano episodi biblici. Il progetto include anche opere su tematiche mariane, la Via della Misericordia e grandi riproduzioni di arte sacra, arricchendo il paese di installazioni artistiche permanenti e promuovendo l’eccellenza artigianale friulana.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Sito Memoriale della Decimazione di Cercivento",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Memoriale%20della%20Decimazione%20di%20Cercivento%2C%20Cercivento",
+      "image_url": null,
+      "description": "Il muro di cinta del cimitero di Cercivento ospita il memoriale della 'Decimazione di Cercivento', dove il 1° luglio 1916 furono fucilati quattro alpini dell'8° Reggimento per insubordinazione durante la Prima guerra mondiale. Il sito rappresenta un luogo di memoria e raccoglimento, ricordato come una delle vicende più drammatiche del fronte carnico e della storia locale.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Ruderi e Memoria della Frazione di Centa",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ruderi%20e%20Memoria%20della%20Frazione%20di%20Centa%2C%20Cercivento",
+      "image_url": null,
+      "description": "La frazione di Centa, distrutta da una frana nel 1692, rappresenta oggi un sito di memoria storica, con resti celati tra il cimitero e le pendici sovrastanti. Il luogo testimonia una delle più gravi catastrofi naturali che hanno segnato Cercivento ed è importante per comprendere l’evoluzione storica e paesaggistica del paese.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    },
+    {
+      "name": "Strada Romana e Presidio Longobardo (tracciato storico)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Strada%20Romana%20e%20Presidio%20Longobardo%20(tracciato%20storico)%2C%20Cercivento",
+      "image_url": null,
+      "description": "Cercivento fu attraversato da una strada romana strategica, proseguita come presidio militare longobardo in età altomedievale. Sebbene il tracciato non sia oggi visibile come monumento distinto, esso è riconoscibile nell’impianto del fondovalle e rappresenta un elemento chiave dell’identità storica e viaria del comune.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cercivento.md"
+    }
+  ]
+}

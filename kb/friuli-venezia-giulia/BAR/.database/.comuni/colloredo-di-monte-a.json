@@ -1,0 +1,41 @@
+{
+  "comune_name": "Colloredo di Monte a",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/colloredo-di-monte-a.md",
+  "extracted_at": "2026-04-09T10:11:13.669Z",
+  "pois": [
+    {
+      "name": "Alle Antiche Scuderie",
+      "address": "Piazza Castello, 9 — 33010 Colloredo di Monte Albano (UD)",
+      "website_url": "https://www.facebook.com/antichescuderie",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alle%20Antiche%20Scuderie%2C%20Piazza%20Castello%2C%209%20%E2%80%94%2033010%20Colloredo%20di%20Monte%20Albano%20(UD)",
+      "image_url": null,
+      "description": "Alle Antiche Scuderie è il principale punto di ritrovo per la colazione e l'aperitivo nel centro di Colloredo di Monte Albano, situato sotto le mura del castello medievale. Il locale, a conduzione familiare, offre una tipica atmosfera accogliente con servizio di caffetteria mattutina, ampio spazio esterno e un ruolo centrale nella vita sociale del paese. Durante il giorno si trasforma in bar-trattoria-pizzeria, con spritz e taglieri protagonisti dell'aperitivo. Il locale è accessibile ai disabili e dispone di seggiolini per bambini.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "La Taverna",
+      "address": "Piazza Castello, 2 — 33010 Colloredo di Monte Albano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Taverna%2C%20Piazza%20Castello%2C%202%20%E2%80%94%2033010%20Colloredo%20di%20Monte%20Albano%20(UD)",
+      "image_url": null,
+      "description": "La Taverna si trova anch'essa in Piazza Castello e unisce la funzione di bar a quella di ristorante tradizionale friulano, diventando punto di riferimento per pranzi domenicali e aperitivi serali. L'ambiente è tranquillo e dispone di un giardino esterno per mangiare all'aperto durante la bella stagione. Il bar è attivo nelle fasce di punta e offre anche digestivi tipici come la slivovitz. È dotato di connessione internet gratuita e servizio di asporto.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/colloredo-di-monte-a.md"
+    },
+    {
+      "name": "Autogrill Ledra Est (A23 Autostrada Alpe-Adria)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Autogrill%20Ledra%20Est%20(A23%20Autostrada%20Alpe-Adria)%2C%20Colloredo%20di%20Monte%20a",
+      "image_url": null,
+      "description": "Situato nella frazione di Vendoglio, l'Autogrill Ledra Est è l'unico punto di caffetteria aperto 24 ore nel territorio comunale, dedicato soprattutto ai viaggiatori in transito sull'autostrada A23. Offre caffè espresso, brioche confezionate e panini caldi secondo il classico format Autogrill. Non è un luogo di ritrovo locale, ma rappresenta una soluzione pratica per una sosta rapida nei pressi di Colloredo di Monte Albano.",
+      "comune_name": "Colloredo di Monte a",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/colloredo-di-monte-a.md"
+    }
+  ]
+}

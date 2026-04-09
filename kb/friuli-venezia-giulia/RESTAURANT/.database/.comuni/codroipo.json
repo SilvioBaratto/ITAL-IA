@@ -1,0 +1,184 @@
+{
+  "comune_name": "Codroipo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md",
+  "extracted_at": "2026-04-09T10:59:07.740Z",
+  "pois": [
+    {
+      "name": "Osteria Alle Risorgive",
+      "address": "Via delle Acacie, 2 a Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alle%20Risorgive%2C%20Via%20delle%20Acacie%2C%202%20a%20Codroipo",
+      "image_url": null,
+      "description": "Osteria Alle Risorgive è un punto di riferimento a Codroipo dal 1983, specializzata nella cucina friulana tradizionale. L'atmosfera è accogliente e familiare, arricchita da arredi antichi che creano un ambiente rustico e cordiale. Il piatto forte è il Frico friulano, preparato con patate e formaggio Montasio, accompagnato da polenta. Il servizio è noto per la cordialità e l'attenzione verso i clienti, con servizi accessibili anche a persone con disabilità e famiglie.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Trattoria da Vanda",
+      "address": "San Martino di Codroipo (Via Erminia, 9)",
+      "website_url": "http://trattoriadavanda.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Vanda%2C%20San%20Martino%20di%20Codroipo%20(Via%20Erminia%2C%209)",
+      "image_url": null,
+      "description": "Trattoria da Vanda, fondata nel 1928, è una storica trattoria di Codroipo che celebra la tradizione gastronomica friulana. La cucina, gestita dai discendenti della fondatrice, propone piatti tipici come frico, spaghetti alle noci, creme di orzo e zuppe. L'atmosfera è calda e familiare, arricchita da dettagli storici e fotografie di famiglia. La qualità degli ingredienti locali e il servizio informale rendono l'esperienza autentica e accessibile.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Ristorante La Veranda (Ai Gelsi)",
+      "address": "Via Circonvallazione Ovest 12, 33033 Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Veranda%20(Ai%20Gelsi)%2C%20Via%20Circonvallazione%20Ovest%2012%2C%2033033%20Codroipo",
+      "image_url": null,
+      "description": "La Veranda, parte del complesso Ai Gelsi, è un ristorante raffinato che si distingue per la cucina contemporanea curata dallo chef stellato Marco Carraro. Il menu spazia dal pesce fresco alle carni, accompagnate da ingredienti stagionali e una ricca carta vini con oltre 300 etichette. L'ambiente è elegante, ideale anche per chi desidera soggiornare grazie alla struttura alberghiera annessa, offrendo così un connubio tra ospitalità e alta cucina.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Molo12 Hostaria di Mare (Ai Gelsi)",
+      "address": "Via Circonvallazione Ovest 12",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Molo12%20Hostaria%20di%20Mare%20(Ai%20Gelsi)%2C%20Via%20Circonvallazione%20Ovest%2012",
+      "image_url": null,
+      "description": "Molo12 Hostaria di Mare offre un'esperienza culinaria dedicata agli amanti del pesce con un menu che va dai cicchetti ai fritti e a reinterpretazioni creative dei piatti di mare. Il locale, fondato dallo chef Marco Carraro, gode di una terrazza elegante per l'estate e ambienti luminosi per l'inverno. Oltre ai piatti di pesce, offre servizi dedicati alle famiglie e l'accessibilità, con un'atmosfera informale ma di qualità.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Al Boschetto Ristogrill",
+      "address": "Via Ostermann Francesco, 59, 33033 Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Boschetto%20Ristogrill%2C%20Via%20Ostermann%20Francesco%2C%2059%2C%2033033%20Codroipo",
+      "image_url": null,
+      "description": "Al Boschetto Ristogrill è noto per le sue specialità di carne alla griglia, come costolette e grigliata mista, e per la versione locale del frico. Immerso nel verde di Codroipo, il locale offre anche uno spazio esterno piacevole e ampio parcheggio. L'atmosfera è informale e accogliente, ideale per chi cerca un'autentica esperienza carnivora in Friuli.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Decanter Esperienza Del Gusto",
+      "address": "Viale Veneto, 35, 33033 Codroipo UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Decanter%20Esperienza%20Del%20Gusto%2C%20Viale%20Veneto%2C%2035%2C%2033033%20Codroipo%20UD",
+      "image_url": null,
+      "description": "Decanter Esperienza Del Gusto si distingue per la cucina raffinata italiana e mediterranea, con piatti come la bistecca di fassone e i ravioli di cervo. L'ambiente è moderno ed elegante e la carta vini offre un'ampia selezione. Con un personale attento e cordiale, il locale è apprezzato per la cura nell'accogliere le esigenze dei clienti, inclusi piatti senza glutine.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Bar da Teto",
+      "address": "Viale Venezia 20, 33033 Codroipo",
+      "website_url": "http://www.tetobar.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20da%20Teto%2C%20Viale%20Venezia%2020%2C%2033033%20Codroipo",
+      "image_url": null,
+      "description": "Bar da Teto è un ristorante italiano specializzato in carni grigliate, barbecue, pesce e pizze, con un'offerta che include anche menu a prezzo fisso a pranzo e specialità di calamari nel fine settimana. Il locale è attivo tutta la settimana e riscuote buone valutazioni online, mantenendo un'atmosfera informale e versatile adatta a diversi tipi di clientela.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Flame'n Co. Carne alla Griglia e Birreria",
+      "address": "Via Circonvallazione Ovest 12, Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Flame'n%20Co.%20Carne%20alla%20Griglia%20e%20Birreria%2C%20Via%20Circonvallazione%20Ovest%2012%2C%20Codroipo",
+      "image_url": null,
+      "description": "Flame'n Co. è una steakhouse fondata dallo chef Marco Carraro, famosa per la grande varietà di tagli di carne preparati con barbecue X-Oven. L'ambiente è moderno e vibrante, adatto agli appassionati della carne e agli amanti delle birre artigianali. È presente anche in altre città e offre un'esperienza accessibile a tutti.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "La Vite e il Legno di Degano Elisa",
+      "address": "Via Monte Canin 3/D, Codroipo",
+      "website_url": "http://enolike.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Vite%20e%20il%20Legno%20di%20Degano%20Elisa%2C%20Via%20Monte%20Canin%203%2FD%2C%20Codroipo",
+      "image_url": null,
+      "description": "La Vite e il Legno è un'enoteca gestita da Elisa Degano, che da oltre vent'anni propone una selezione curata di vini e prodotti enogastronomici. Il locale è noto per l'esperienza della proprietaria e per lo spirito di condivisione tipico del territorio, rappresentando un punto di riferimento per gli amanti del vino a Codroipo.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Il Piron Dal Re",
+      "address": "Via Palmanova 5, Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Piron%20Dal%20Re%2C%20Via%20Palmanova%205%2C%20Codroipo",
+      "image_url": null,
+      "description": "Il Piron Dal Re si trova nella frazione di Zompicchia e propone un'innovativa cucina friulana tradizionale, con attenzione anche a clienti vegani, vegetariani e celiaci. L'atmosfera è calorosa e familiare, con menù stagionale che valorizza gli ingredienti locali e vini selezionati. L'accoglienza è curata da Christian e la cucina da Matteo, offrendo un’esperienza autentica della gastronomia friulana.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Pizzeria Ali Baba",
+      "address": "Via Battisti Cesare 19, 33033 Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ali%20Baba%2C%20Via%20Battisti%20Cesare%2019%2C%2033033%20Codroipo",
+      "image_url": null,
+      "description": "Pizzeria Ali Baba, di proprietà egiziana, è apprezzata per le sue pizze dal leggero impasto e per le numerose proposte a base di pesce, tra cui fritto misto e grigliate. Il menu spazia tra carne, pesce, piatti arabi tipici e insalate, il tutto offerto a prezzi accessibili. Il personale è noto per la sua cordialità, rendendo il locale adatto a una clientela variegata.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Osteria-Trattoria Ca' dei Angeli",
+      "address": "Piazza Dei Dogi, 3, Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria-Trattoria%20Ca'%20dei%20Angeli%2C%20Piazza%20Dei%20Dogi%2C%203%2C%20Codroipo",
+      "image_url": null,
+      "description": "Osteria-Trattoria Ca' dei Angeli è una classica osteria friulana rinata come enoteca, situata vicino a Villa Manin. Il locale propone un menu curato e una selezione di vini di qualità sempre aggiornata, con un buon rapporto qualità-prezzo. Dispone di ampio parcheggio e accetta le principali carte di credito, rappresentando un'opzione interessante per chi cerca tradizione e attenzione ai dettagli.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Trattoria Alla Speranza",
+      "address": "Via Carnia, 17, 33033 Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Speranza%2C%20Via%20Carnia%2C%2017%2C%2033033%20Codroipo",
+      "image_url": null,
+      "description": "Trattoria Alla Speranza, conosciuta come 'dal Gigio', serve cucina friulana tradizionale dal 1956 in un ambiente semplice e informale. Il menù offre un'ampia varietà di antipasti, contorni e secondi, tra cui il frico e il carpaccio. La gestione familiare di Gigio e sua figlia Ambra è apprezzata per la cordialità, mentre il prezzo rimane accessibile e il servizio attento alle richieste della clientela.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Ristorante La Ferrata (Varmo)",
+      "address": "Ponte Di Madrisio, 4, 33030 Varmo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Ferrata%20(Varmo)%2C%20Ponte%20Di%20Madrisio%2C%204%2C%2033030%20Varmo",
+      "image_url": null,
+      "description": "Ristorante La Ferrata si trova nella frazione di Madrisio di Varmo e propone sia piatti della cucina friulana tradizionale che specialità di carne alla griglia. La location è immersa nel verde ed è ideale per gruppi, banchetti e cerimonie. Il locale gode di una reputazione mista sulle piattaforme di recensione, ma si distingue per l'accoglienza e la varietà della sua offerta gastronomica.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Ristorante Da Toni (Varmo - Gradiscutta)",
+      "address": null,
+      "website_url": "http://ristorantedatoni.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Da%20Toni%20(Varmo%20-%20Gradiscutta)%2C%20Codroipo",
+      "image_url": null,
+      "description": "Ristorante Da Toni è un'istituzione gastronomica friulana con oltre 90 anni di storia, situato nella campagna di Gradiscutta di Varmo. Il locale propone una cucina casalinga con prodotti locali come formaggi, salumi, carni scelte, pasta fatta in casa e pesce di fiume. Ambientato in un edificio rustico con fogolar friulano e giardino esterno, è ideale anche per eventi e celebrazioni speciali.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    },
+    {
+      "name": "Bar Alla Colomba - Prosciutteria Enoteca",
+      "address": "Via G. B. Candotti 157, Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Alla%20Colomba%20-%20Prosciutteria%20Enoteca%2C%20Via%20G.%20B.%20Candotti%20157%2C%20Codroipo",
+      "image_url": null,
+      "description": "Bar Alla Colomba è una prosciutteria e enoteca che propone cucina italiana semplice, con una particolare attenzione ai salumi e ai vini di qualità. L'atmosfera è conviviale e informale, ideale per socializzare e gustare piatti tipici friulani, inclusi i calamari fritti serviti quotidianamente.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/codroipo.md"
+    }
+  ]
+}

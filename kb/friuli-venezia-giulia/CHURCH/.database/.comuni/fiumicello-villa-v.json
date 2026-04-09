@@ -1,0 +1,63 @@
+{
+  "comune_name": "Fiumicello Villa V",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiumicello-villa-v.md",
+  "extracted_at": "2026-04-09T10:25:57.124Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Valentino Martire (San Valentino — capoluogo)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78606",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Valentino%20Martire%20(San%20Valentino%20%E2%80%94%20capoluogo)%2C%20Fiumicello%20Villa%20V",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Valentino, costruita tra il 1870 e il 1886 in stile eclettico neogotico-lombardo, si trova nel capoluogo del comune di Fiumicello Villa Vicentina ed è storicamente legata alla pieve medievale citata già nel 1210. L'edificio, progettato dall'ingegner Luigi Sindelar, si distingue per la sua facciata a salienti, il campanile monumentale e un interno a tre navate con pregevoli elementi architettonici. Sono custodite importanti opere d'arte, tra cui una statua quattrocentesca di San Valentino e un quadro attribuito a Bernardo Strozzi. La chiesa è stata restaurata nei primi anni 2000.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Chiesa di San Lorenzo Diacono e Martire (San Lorenzo)",
+      "address": "Via San Lorenzo",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78605",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Lorenzo%20Diacono%20e%20Martire%20(San%20Lorenzo)%2C%20Via%20San%20Lorenzo",
+      "image_url": null,
+      "description": "La parrocchiale di San Lorenzo è la più antica chiesa di Fiumicello con impianto seicentesco, situata nella frazione di San Lorenzo. Costruita tra il 1645 e il 1649 in stile barocco friulano, conserva opere significative come un altare maggiore in marmo, un gruppo ligneo del Cinquecento di Carlo da Carona e statue lignee seicentesche. Il campanile fu aggiunto nel 1710 e la facciata, preceduta dalla torre, mantiene intatto il carattere originario dopo restauri del Novecento.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria (Villa Vicentina)",
+      "address": "Via Duca d'Aosta",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78710",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20(Villa%20Vicentina)%2C%20Via%20Duca%20d'Aosta",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria, nella frazione di Villa Vicentina, è il principale edificio sacro dell'ex comune omonimo. Edificata tra il 1660 e il 1680 in stile barocco, è nota per il sontuoso portale opera dell'architetto Giovanni Pacassi e per le statue di facciata dello scultore Pietro Baratta. L'interno conserva altari laterali settecenteschi, un tabernacolo medievale di rara testimonianza e affreschi realizzati nel tardo Ottocento da Lorenzo Bianchini.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Chiesa di Maria Santissima Regina / Immacolata (Papariano)",
+      "address": "Via della Chiesa",
+      "website_url": "http://www.parrocchiemap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7500071",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Maria%20Santissima%20Regina%20%2F%20Immacolata%20(Papariano)%2C%20Via%20della%20Chiesa",
+      "image_url": null,
+      "description": "La chiesa di Maria Santissima Regina a Papariano fu costruita tra il 1937 e il 1939 in stile romanico-eclettico novecentesco, su iniziativa locale per dotare la frazione di un proprio edificio di culto. La facciata sobria è caratterizzata da un portale con pronao ad arco e da un rosone, mentre l’interno presenta una navata unica e presbiterio rialzato. La chiesa è decorata con opere pittoriche dei fratelli De Colle.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiumicello-villa-v.md"
+    },
+    {
+      "name": "Cappella Baciocchi (Villa Vicentina)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Baciocchi%20(Villa%20Vicentina)%2C%20Fiumicello%20Villa%20V",
+      "image_url": null,
+      "description": "La Cappella Baciocchi, situata nei pressi di Villa Ciardi a Villa Vicentina, è un raro esempio di architettura funeraria ottocentesca di gusto neogotico con interni neoclassici. Fu commissionata da Elisa Napoleona Baciocchi in memoria del figlio Benedetto Napoleone e rappresenta una significativa testimonianza della presenza napoleonica in Friuli. Pur non essendo aperta regolarmente al culto, la cappella ha elevato valore storico-artistico.",
+      "comune_name": "Fiumicello Villa V",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiumicello-villa-v.md"
+    }
+  ]
+}

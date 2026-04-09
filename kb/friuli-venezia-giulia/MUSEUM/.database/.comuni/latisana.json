@@ -1,0 +1,63 @@
+{
+  "comune_name": "Latisana",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/latisana.md",
+  "extracted_at": "2026-04-09T10:49:42.756Z",
+  "pois": [
+    {
+      "name": "Duomo Abbaziale di San Giovanni Battista — Patrimonio artistico",
+      "address": "Piazza Duomo, 33053 Latisana (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20Abbaziale%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Patrimonio%20artistico%2C%20Piazza%20Duomo%2C%2033053%20Latisana%20(UD)",
+      "image_url": null,
+      "description": "Il Duomo di San Giovanni Battista è la chiesa principale di Latisana e custodisce il maggior patrimonio artistico del comune, tra cui il celebre \"Battesimo di Cristo\" di Paolo Veronese. L'edificio, rimaneggiato tra Cinquecento e Settecento, presenta una facciata neoclassica e un interno ricco di altari in marmi policromi e opere di pittori e scultori veneti e friulani. Il campanile, alto 51 metri, fu completato nel 1923. La visita è possibile durante le funzioni religiose e non prevede un biglietto d'ingresso.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/latisana.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio di Padova — Arte sacra veneziana e testimonianze agostiniane",
+      "address": "Via Vendramin, 33053 Latisana (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20di%20Padova%20%E2%80%94%20Arte%20sacra%20veneziana%20e%20testimonianze%20agostiniane%2C%20Via%20Vendramin%2C%2033053%20Latisana%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di Sant'Antonio di Padova, costruita vicino al monastero delle suore terziarie francescane, è uno scrigno d'arte sacra veneziana. Il complesso architettonico si distingue per la facciata con statue settecentesche e un campanile dal carattere singolare, oltre a ospitare pregevoli opere come pale attribuite a Mattia Bortoloni e alla bottega di Jacopo Tintoretto. La chiesa è visitabile durante le funzioni religiose e mantiene elementi del monastero originario.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/latisana.md"
+    },
+    {
+      "name": "Tempio Gaspari — Cappella funebre neoclassica",
+      "address": "Via Vendramin, 33053 Latisana (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempio%20Gaspari%20%E2%80%94%20Cappella%20funebre%20neoclassica%2C%20Via%20Vendramin%2C%2033053%20Latisana%20(UD)",
+      "image_url": null,
+      "description": "Il Tempio Gaspari è una cappella funebre neoclassica progettata nel 1866 da Andrea Scala, con pianta a croce greca e cupola emisferica. L'edificio colpisce per la purezza delle linee e ospita il monumento funebre di Luigi Minisini e una pala del Redentore di Ferdinando Bassi. La cripta conserva le spoglie della famiglia Gaspari. La visita è possibile su richiesta presso la parrocchia o il Comune.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/latisana.md"
+    },
+    {
+      "name": "Biblioteca Civica di Latisana",
+      "address": "Piazza Indipendenza, 33053 Latisana (UD)",
+      "website_url": "https://www.comune.latisana.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Civica%20di%20Latisana%2C%20Piazza%20Indipendenza%2C%2033053%20Latisana%20(UD)",
+      "image_url": null,
+      "description": "La Biblioteca Civica di Latisana è il principale polo culturale pubblico della città, facente parte del Sistema Bibliotecario della Provincia di Udine. Conserva fondi librari dedicati alla storia locale e alla cultura friulana, organizza eventi culturali e ospita il Premio Letterario 'Latisana per il Nord-Est'. La biblioteca svolge un ruolo attivo nella promozione della memoria storica della Bassa Friulana.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/latisana.md"
+    },
+    {
+      "name": "Targa Commemorativa Hemingway",
+      "address": "Piazzale Osoppo (già \"Quattro Strade\"), 33053 Latisana (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Targa%20Commemorativa%20Hemingway%2C%20Piazzale%20Osoppo%20(gi%C3%A0%20%22Quattro%20Strade%22)%2C%2033053%20Latisana%20(UD)",
+      "image_url": null,
+      "description": "La targa commemorativa dedicata a Ernest Hemingway ricorda il luogo dove, il 10 dicembre 1948, lo scrittore incontrò Adriana Ivancich, evento narrato nel romanzo 'Di là dal fiume e tra gli alberi'. Installata per il 70° anniversario dell'incontro, la targa lega Latisana alla tradizione letteraria e al premio Nobel americano, sottolineando il valore culturale del sito.",
+      "comune_name": "Latisana",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/latisana.md"
+    }
+  ]
+}

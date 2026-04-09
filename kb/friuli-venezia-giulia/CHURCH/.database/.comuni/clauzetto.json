@@ -1,0 +1,19 @@
+{
+  "comune_name": "Clauzetto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/clauzetto.md",
+  "extracted_at": "2026-04-09T10:22:54.497Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Giacomo Apostolo (parrocchiale)",
+      "address": null,
+      "website_url": "https://www.pordenonewithlove.it/it/cosa-fare/cultura/architetture/chiesa-parrocchiale-di-san-giacomo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20(parrocchiale)%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Chiesa di San Giacomo Apostolo è il principale edificio religioso di Clauzetto e uno dei più significativi della Val d'Arzino. Sorge nella parte più elevata del capoluogo, raggiungibile tramite una lunga scalinata, e offre un panorama spettacolare sulle Prealpi Carniche e la pianura friulana. Costruita agli inizi del XVII secolo e successivamente ampliata, presenta un impianto barocco a tre navate arricchito da numerosi altari marmorei e importanti opere d’arte, tra cui dipinti di Odorico Politi e Giuseppe Angeli. Particolarmente rilevante è la reliquia del Preziosissimo Sangue, certificata nel 1755, che fece di questa chiesa un luogo di pellegrinaggio di rilievo sovraregionale.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/clauzetto.md"
+    }
+  ]
+}

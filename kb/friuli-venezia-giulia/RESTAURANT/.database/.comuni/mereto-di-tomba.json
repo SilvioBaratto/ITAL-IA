@@ -1,0 +1,63 @@
+{
+  "comune_name": "Mereto di Tomba",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mereto-di-tomba.md",
+  "extracted_at": "2026-04-09T11:06:40.654Z",
+  "pois": [
+    {
+      "name": "Osteria alla Campana",
+      "address": "Via Roma, 4",
+      "website_url": "http://www.osteriaallacampana.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20alla%20Campana%2C%20Via%20Roma%2C%204",
+      "image_url": null,
+      "description": "L'Osteria alla Campana è il principale punto di riferimento per la cucina tradizionale friulana nel centro di Mereto di Tomba. Offre un ambiente caldo e accogliente, con il tradizionale fogolar e una proposta incentrata su piatti tipici come polenta, steak tartare e carni grigliate, valorizzati dalla preparazione a vista. La sala dispone di 60 coperti interni e 20 esterni, ed è nota per il menu a prezzo fisso a pranzo e l'attenta accoglienza anche per chi viaggia con animali domestici. Ha ricevuto valutazioni molto positive e occupa un posto di rilievo tra i ristoranti più consigliati della zona.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Il Mulin di Marchet",
+      "address": "Via Caterina Percoto, 57, Pantianicco - 33036 Mereto di Tomba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Mulin%20di%20Marchet%2C%20Via%20Caterina%20Percoto%2C%2057%2C%20Pantianicco%20-%2033036%20Mereto%20di%20Tomba%20(UD)",
+      "image_url": null,
+      "description": "Il Mulin di Marchet è una trattoria situata nello storico mulino di Pantianicco, risalente al 1883 e restaurato con attenzione alla sua rilevanza architettonica e culturale. L'ambiente rustico e caratteristico unisce tradizione friulana e storia del territorio, offrendo una cucina casalinga a base di ingredienti locali scelti, accompagnata da vini selezionati. Il locale ospita anche eventi culturali e mostre, creando un'esperienza unica che combina gastronomia e memoria storica. È apprezzata per la freschezza stagionale delle materie prime e l'atmosfera suggestiva.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Trattoria Pizzeria Al Cacciatore",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20Al%20Cacciatore%2C%20Mereto%20di%20Tomba",
+      "image_url": null,
+      "description": "La Trattoria Pizzeria Al Cacciatore nel nucleo di Barazzetto propone sia le specialità della pizzeria con impasti tradizionali che i piatti friulani classici da trattoria. Il locale, dotato anche di camere annesse per l'ospitalità, è apprezzato per l'atmosfera informale, la versatilità tra pizza e cucina tipica e la fascia di prezzo accessibile. Rappresenta una scelta pratica per famiglie e gruppi che cercano qualità senza formalità, distinguendosi per la buona accoglienza e la possibilità di soggiorno.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Trattoria ai Donatori",
+      "address": "Via Fabio Simonutti, 2, San Marco - 33036 Mereto di Tomba (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20ai%20Donatori%2C%20Via%20Fabio%20Simonutti%2C%202%2C%20San%20Marco%20-%2033036%20Mereto%20di%20Tomba%20(UD)",
+      "image_url": null,
+      "description": "Situata nella frazione di San Marco, la Trattoria ai Donatori è un esercizio storico che mantiene viva la tradizione della cucina friulana locale. Offre piatti genuini, robusti e casalinghi legati alle specialità regionali, rappresentando un riferimento per residenti e visitatori in cerca di autenticità. È particolarmente apprezzata per l'atmosfera semplice e la fedeltà alle ricette della tradizione contadina friulana.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Al Cjantà Dal Gjal (Agriturismo)",
+      "address": "Via Percoto, 5 - 33036 Mereto di Tomba (UD)",
+      "website_url": "https://www.turismofvg.it/it/agriturismi/al-cjanta-dal-gjal",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cjant%C3%A0%20Dal%20Gjal%20(Agriturismo)%2C%20Via%20Percoto%2C%205%20-%2033036%20Mereto%20di%20Tomba%20(UD)",
+      "image_url": null,
+      "description": "Al Cjantà Dal Gjal è un agriturismo che coniuga ospitalità rurale e cucina friulana autentica, proponendo piatti stagionali con ingredienti coltivati e prodotti all'interno dell'azienda agricola. L'ambiente familiare offre tre camere per alloggio, garantendo un'esperienza intima e immersiva nel contesto agricolo del Friuli. Specialità come asparagi bianchi, carni locali, pane e dolci fatti in casa caratterizzano la proposta gastronomica, ideale per chi cerca una connessione diretta tra terra, cucina e ospitalità.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/mereto-di-tomba.md"
+    }
+  ]
+}

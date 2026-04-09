@@ -1,0 +1,74 @@
+{
+  "comune_name": "Chiopris Viscone",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md",
+  "extracted_at": "2026-04-09T10:58:00.971Z",
+  "pois": [
+    {
+      "name": "Trattoria da Gisa",
+      "address": "Via Roma, 10, 33048 Chiopris-Viscone (UD)",
+      "website_url": "https://www.trattoriadagisa.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Gisa%2C%20Via%20Roma%2C%2010%2C%2033048%20Chiopris-Viscone%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria da Gisa è un locale storico che incarna la tradizione gastronomica di Chiopris-Viscone, specializzato in cucina friulana contadina con ingredienti stagionali e piatti tipici come blecs, gnocchi di susine, cassopola, goulash e carni in umido. L'atmosfera accogliente è suddivisa in eleganti e intime sale da pranzo, ideale sia per famiglie che per occasioni speciali. La gestione famigliare mantiene vivi i sapori autentici del territorio, offrendo una selezione di vini della casa in abbinamento. Il locale è apprezzato per la qualità delle sue proposte e per il rispetto della tradizione culinaria locale.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Osteria Da Beato",
+      "address": "Via della Concordia, 1, Chiopris-Viscone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Da%20Beato%2C%20Via%20della%20Concordia%2C%201%2C%20Chiopris-Viscone%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria Da Beato è una taverna rustica dalla tipica atmosfera paesana, famosa per la cucina casalinga a base di carni grigliate di qualità e porzioni abbondanti. Il locale offre anche una terrazza esterna e una sala interna, mantenendo un ambiente accogliente e famigliare, guidato dal cordiale proprietario. È uno dei ristoranti più popolari di Chiopris-Viscone, apprezzato per i prezzi equi e la genuinità della sua proposta culinaria. La clientsela lo valuta molto positivamente, riconoscendone la storicità e il legame con il territorio.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "FlamòR - Pizza & Grill",
+      "address": "Via Fausto Coppi, 33048 Chiopris-Viscone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Flam%C3%B2R%20-%20Pizza%20%26%20Grill%2C%20Via%20Fausto%20Coppi%2C%2033048%20Chiopris-Viscone%20(UD)",
+      "image_url": null,
+      "description": "FlamòR propone una ristorazione moderna con un menù che spazia tra pizze gourmet e piatti alla griglia preparati con carni selezionate. L'ambiente è vivace e versatile, adatto sia a coppie che a famiglie, e include servizi come terrazza, accesso per disabili e wifi gratuito. Pur offrendo una cucina contemporanea, mantiene una connessione con la tradizione locale, specialmente nell'uso delle verdure fresche e nella cura degli ingredienti. Il rapporto qualità-prezzo è considerato accessibile e concorrenziale.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Agriturismo Villa Chiopris",
+      "address": "Via Cesare Battisti, 6, Chiopris-Viscone (UD)",
+      "website_url": "https://villachiopris.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Villa%20Chiopris%2C%20Via%20Cesare%20Battisti%2C%206%2C%20Chiopris-Viscone%20(UD)",
+      "image_url": null,
+      "description": "Villa Chiopris è una dimora storica restaurata che offre esperienze enogastronomiche di qualità in un'atmosfera suggestiva tra cantine con travi in legno e pareti in pietra. La proposta si concentra sulla degustazione dei vini premiati Livon e su prodotti tipici friulani, con la possibilità di organizzare banchetti e cene intime. Oltre alla ristorazione, propone soggiorni in camere eleganti e ulteriori attività come tour enogastronomici e cicloturistici. Il luogo si caratterizza per il connubio tra ospitalità, tradizione agricola locale e scoperta della cultura friulana.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Ristorante 3nto",
+      "address": "Via Fausto Coppi, 33048 Chiopris-Viscone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%203nto%2C%20Via%20Fausto%20Coppi%2C%2033048%20Chiopris-Viscone%20(UD)",
+      "image_url": null,
+      "description": "Ristorante 3nto offre una proposta discreta ma curata, con posti a sedere all'aperto che lo rendono ideale per chi desidera un'atmosfera rilassata e informale. Situato in zona centrale, il locale è facilmente accessibile e apprezzato da residenti e visitatori per la versatilità nelle occasioni ordinarie e festive. Si distingue per l'ambiente accogliente e per la capacità di accogliere clientele diverse.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md"
+    },
+    {
+      "name": "Locanda del Gusto dal 1848",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20del%20Gusto%20dal%201848%2C%20Chiopris%20Viscone",
+      "image_url": null,
+      "description": "La Locanda del Gusto dal 1848 è tra le strutture storiche di Chiopris-Viscone, con quasi due secoli di tradizione nella cucina friulana. Pur con poche informazioni specifiche sul menù attuale, è riconosciuta per la sua importanza storica e per la continuità gastronomica trasmessa di generazione in generazione. Rimane un punto di riferimento identitario per la comunità locale.",
+      "comune_name": "Chiopris Viscone",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chiopris-viscone.md"
+    }
+  ]
+}

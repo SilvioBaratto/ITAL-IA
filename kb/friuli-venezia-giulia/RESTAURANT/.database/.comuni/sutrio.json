@@ -1,0 +1,63 @@
+{
+  "comune_name": "Sutrio",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sutrio.md",
+  "extracted_at": "2026-04-09T11:20:19.965Z",
+  "pois": [
+    {
+      "name": "Osteria da Alvise",
+      "address": "Via del But (zona centro, Sutrio)",
+      "website_url": "https://www.osteriadaalvise.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Alvise%2C%20Via%20del%20But%20(zona%20centro%2C%20Sutrio)",
+      "image_url": null,
+      "description": "L'Osteria da Alvise è il principale riferimento gastronomico di Sutrio, rinomata per la cucina carnica tradizionale e la preparazione artigianale di piatti come i celebri cjarsons con erbe di stagione e il frico di patate. L'atmosfera è familiare e accogliente, ideale per gustare specialità di carne, pasta fresca fatta in casa e dolci casalinghi molto apprezzati. Il locale vanta collaborazioni con Slow Food e Friuli Via dei Sapori, confermandosi una meta di qualità e genuinità, con una struttura ricettiva annessa e un'offerta curata anche per il pernottamento.",
+      "comune_name": "Sutrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sutrio.md"
+    },
+    {
+      "name": "Mister Zoncolan — Bar, Ristorante, Pizzeria",
+      "address": "Viale Val Calda 13, Sutrio (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mister%20Zoncolan%20%E2%80%94%20Bar%2C%20Ristorante%2C%20Pizzeria%2C%20Viale%20Val%20Calda%2013%2C%20Sutrio%20(UD)",
+      "image_url": null,
+      "description": "Il Mister Zoncolan è un locale multifunzionale che unisce bar, ristorante, pizzeria e spazio serale in un ambiente rustico e vivace. Offre una cucina montana con piatti tipici come polenta, carne e anche proposte di pesce, oltre a una pizza apprezzata per la qualità degli ingredienti. È noto come punto di ritrovo per sportivi e ospiti grazie all'atmosfera conviviale, soprattutto durante la stagione sciistica, ed è molto apprezzato sia dai locali che dai turisti.",
+      "comune_name": "Sutrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sutrio.md"
+    },
+    {
+      "name": "Bar Moro — Rifugio Moro",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Moro%20%E2%80%94%20Rifugio%20Moro%2C%20Sutrio",
+      "image_url": null,
+      "description": "Il Rifugio Moro, noto anche come Bar Moro, è situato lungo la strada per il comprensorio dello Zoncolan a circa 1.320 metri di quota. Si tratta di un tipico rifugio di montagna che offre piatti caldi veloci, polenta, spezzatino e minestrone, accogliendo sciatori, ciclisti ed escursionisti. Il locale si distingue per la sua atmosfera semplice, un'accoglienza genuina e la posizione strategica come punto di ristoro ai piedi delle piste e dei sentieri.",
+      "comune_name": "Sutrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sutrio.md"
+    },
+    {
+      "name": "Ostarie dal Galo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostarie%20dal%20Galo%2C%20Sutrio",
+      "image_url": null,
+      "description": "L'Ostarie dal Galo è una storica osteria di paese situata nel centro del borgo di Sutrio, frequentata da abitanti e visitatori come luogo di ritrovo conviviale. Il locale mantiene un'impronta tradizionale, tipica delle osterie carniche, offrendo vino locale, piccoli spuntini e un ambiente di socialità autentica. È ideale per immergersi nell'atmosfera genuina montana, più luogo di incontro che ristorante vero e proprio.",
+      "comune_name": "Sutrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sutrio.md"
+    },
+    {
+      "name": "Osteria Zoffi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Zoffi%2C%20Sutrio",
+      "image_url": null,
+      "description": "L'Osteria Zoffi si trova nelle frazioni meridionali di Nojaris e Priola ed è un piccolo locale rurale che serve la comunità locale e i viandanti. Propone vino sfuso, spuntini e piatti semplici e stagionali, secondo la tradizione della cucina montana. L'atmosfera è informale e familiare, tipica dei luoghi di socialità delle frazioni carniche.",
+      "comune_name": "Sutrio",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sutrio.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "comune_name": "Fanna",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fanna.md",
+  "extracted_at": "2026-04-09T10:25:36.661Z",
+  "pois": [
+    {
+      "name": "Chiesa arcipretale di San Martino Vescovo",
+      "address": "Piazza XX Settembre, Fanna (PN)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=65538",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20arcipretale%20di%20San%20Martino%20Vescovo%2C%20Piazza%20XX%20Settembre%2C%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "La chiesa arcipretale di San Martino Vescovo, in stile neoclassico e progettata da Stefano Marchi nel XVIII secolo, sorge nel centro di Fanna. Presenta una facciata a capanna e un imponente pronao dorico, oltre a un interno a navata unica con pregevoli opere pittoriche di Gian Carlo Bevilacqua, Vittorio Cadel e Giovanni Moro. Luogo di culto di origine medievale, testimonia la storia religiosa locale e custodisce la tomba dell'illustre francescano Padre Fedele da Fanna.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fanna.md"
+    },
+    {
+      "name": "Santuario della Madonna di Strada",
+      "address": "Via Mistris, Fanna (PN)",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65539/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20di%20Strada%2C%20Via%20Mistris%2C%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "Il Santuario della Madonna di Strada è uno dei più antichi luoghi di culto mariano del Friuli Venezia Giulia, con origini documentate dal 981 e successive ricostruzioni fino al XIX secolo. L'edificio, con facciata barocco-neoclassica e campanile a base quadrata, ospita la venerata statua in pietra della Madonna legata a prodigi locali e importanti affreschi di Vittorio Cadel. È frequentato per la sua spiritualità, per eventi religiosi e culturali, ed è situato vicino a un monumento agli alpini.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fanna.md"
+    },
+    {
+      "name": "Cappella di San Silvestro",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Silvestro%2C%20Fanna",
+      "image_url": null,
+      "description": "La cappella di San Silvestro è un piccolo oratorio rurale situato lungo la strada provinciale SP 2 vicino al centro di Fanna. Di origini medievali, è stata restaurata di recente e conserva la tipica atmosfera delle cappelle votive friulane. Rappresenta un segno della diffusione della devozione popolare e del culto di San Silvestro Papa nella zona prealpina.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fanna.md"
+    }
+  ]
+}

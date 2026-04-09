@@ -1,0 +1,85 @@
+{
+  "comune_name": "Cervignano del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md",
+  "extracted_at": "2026-04-09T10:22:21.313Z",
+  "pois": [
+    {
+      "name": "Duomo di San Michele Arcangelo (chiesa parrocchiale principale)",
+      "address": null,
+      "website_url": "https://www.parrocchiacervignano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Michele%20Arcangelo%20(chiesa%20parrocchiale%20principale)%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Duomo di San Michele Arcangelo è la principale chiesa di Cervignano del Friuli, costruita tra il 1965 e il 1968 su progetto di Giacomo Della Mea in stile modernista. È noto per il suo coraggioso impianto architettonico legato alle innovazioni liturgiche del Concilio Vaticano II. All'interno si trovano importanti opere d'arte contemporanee, tra cui un grande crocifisso in bronzo di Max Piccini, pannelli pittorici di Paolo Orlando e tre opere del pittore Giuseppe Zigaina nel battistero.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa Madre di San Michele Arcangelo (Pieve antica)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Madre%20di%20San%20Michele%20Arcangelo%20(Pieve%20antica)%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Sorta nel 1780 sulle rovine della storica abbazia benedettina, questa chiesa rappresenta il fulcro religioso antico di Cervignano. Famosa per gli affreschi ottocenteschi di Sebastiano Santi, conserva una cripta con importanti reperti romani e medievali e un raro mosaico longobardo presso la torre campanaria. Dopo un lungo periodo di chiusura, è stata restaurata e riaperta al culto nel 1994.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Cappella di Santa Croce (Cappella gentilizia Bresciani-Attems-Auersperg)",
+      "address": "via Trieste",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20Santa%20Croce%20(Cappella%20gentilizia%20Bresciani-Attems-Auersperg)%2C%20via%20Trieste",
+      "image_url": null,
+      "description": "Inserita nel parco della storica Villa Bresciani-Attems-Auersperg, questa cappella privata custodisce un raro crocifisso ligneo del XII secolo attribuito alla scuola pusterese e una crocetta in argento di produzione bizantina, segno dei contatti culturali medievali. Si distingue per il suo valore artistico medievale e per testimoniare la devozione delle famiglie aristocratiche locali.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Girolamo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Girolamo%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Girolamo, la cui forma attuale risale ai restauri degli anni Venti del Novecento, rappresenta un esempio di romanico reinterpretato. Edificata su origini cinquecentesche, è nota per la presenza di numerosi reperti romani reimpiegati nella struttura, riflettendo la continuità storica tra l'Aquileia romana e la pianura friulana. È un luogo di culto minore, ricostruito più volte e simbolo del recupero dell'antico.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Marco Evangelista — Scodovacca",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78562/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Marco%20Evangelista%20%E2%80%94%20Scodovacca%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Scodovacca, frazione di Cervignano, fu ricostruita in stile neoclassico tra il 1829 e il 1830 e consacrata nel 1833. L'edificio rappresenta uno stile sobrio tipico delle chiese rurali friulane, con un campanile settecentesco persistente dalla struttura precedente. La sua lunga storia testimonia la presenza religiosa stabile della comunità locale sin dal XVI secolo.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Nicolò Vescovo — Strassoldo",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78558/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicol%C3%B2%20Vescovo%20%E2%80%94%20Strassoldo%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Situata nel suggestivo borgo di Strassoldo, all'interno del Castello di Sopra, questa chiesa ha origini antiche e deve la sua forma attuale al rifacimento barocco del 1736. Offre un connubio tra semplicità architettonica e rilevanza storica, con legami profondi con la famiglia nobile Strassoldo e numerosi interventi nei secoli. Il luogo è parte integrante della visita al castello e al borgo medievale circostante.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Zenone — Muscoli",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Zenone%20%E2%80%94%20Muscoli%2C%20Cervignano%20del%20Friuli",
+      "image_url": null,
+      "description": "Nella piccola frazione di Muscoli sorge questa chiesa rurale dedicata a san Zenone, vescovo di Verona, molto venerato in Friuli. Pur di dimensioni modeste e priva di ampia documentazione storica, rappresenta un importante presidio religioso per la comunità locale e testimonia la diffusione della devozione popolare nella Bassa Friulana.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cervignano-del-friuli.md"
+    }
+  ]
+}

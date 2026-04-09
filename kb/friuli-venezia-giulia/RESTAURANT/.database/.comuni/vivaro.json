@@ -1,0 +1,30 @@
+{
+  "comune_name": "Vivaro",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vivaro.md",
+  "extracted_at": "2026-04-09T11:24:57.574Z",
+  "pois": [
+    {
+      "name": "Agriturismo Lupo Alberto",
+      "address": "Via Macillis, 2 – 33099 Vivaro (PN)",
+      "website_url": "http://agriturismolupoalberto.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Lupo%20Alberto%2C%20Via%20Macillis%2C%202%20%E2%80%93%2033099%20Vivaro%20(PN)",
+      "image_url": null,
+      "description": "Agriturismo Lupo Alberto è la principale destinazione gastronomica di Vivaro, immersa nella campagna friulana e circondata da vigneti e orti. Il locale offre una cucina tipica friulana che valorizza ingredienti stagionali e di produzione propria, tra cui il celebre frico con polenta, grigliate di carne, asparagi freschi e paste fatte in casa. L'atmosfera è calda e familiare, con il tradizionale fogolar friulano e una produzione vinicola interna. Adatto a famiglie e gruppi, offre anche camere e confetture artigianali.",
+      "comune_name": "Vivaro",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vivaro.md"
+    },
+    {
+      "name": "Pizzeria Da Paolino",
+      "address": "Via Roma, 4 – 33099 Vivaro (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Paolino%2C%20Via%20Roma%2C%204%20%E2%80%93%2033099%20Vivaro%20(PN)",
+      "image_url": null,
+      "description": "La Pizzeria Da Paolino è un punto di ritrovo informale nel centro di Vivaro, apprezzato dai residenti per la sua offerta di pizze cotte in forno e piatti semplici della tradizione locale. L'ambiente è familiare e senza pretese, rappresentando un vero presidio della socialità paesana. È ideale per cene con amici e famiglie, con prezzi accessibili e un'atmosfera accogliente.",
+      "comune_name": "Vivaro",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vivaro.md"
+    }
+  ]
+}

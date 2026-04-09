@@ -1,0 +1,151 @@
+{
+  "comune_name": "Brugnera",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md",
+  "extracted_at": "2026-04-09T10:55:36.895Z",
+  "pois": [
+    {
+      "name": "Al Tinello",
+      "address": "Via Ungaresca 22",
+      "website_url": "https://www.ristorantealtinello.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Tinello%2C%20Via%20Ungaresca%2022",
+      "image_url": null,
+      "description": "Al Tinello è il ristorante più rinomato di Brugnera, noto per la cucina di alto livello e l'atmosfera elegante. Specializzato in piatti di pesce e carne di qualità, offre anche opzioni senza glutine e per intolleranti al lattosio, con menu stagionali che valorizzano la freschezza degli ingredienti. L'ambiente include una terrazza estiva suggestiva e il servizio è attento e qualificato. È ideale sia per cene romantiche sia per appuntamenti di lavoro, con una fascia di prezzo medio-alta.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Osteria Agli Stemmi",
+      "address": "Via Vittorio Veneto 28",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Agli%20Stemmi%2C%20Via%20Vittorio%20Veneto%2028",
+      "image_url": null,
+      "description": "L'Osteria Agli Stemmi offre un'esperienza autentica di cucina friulana con un menu essenziale fondato sulla qualità delle materie prime. Fra le specialità spiccano tartare, crostini gourmet, gnocchi artigianali e insaccati tipici abbinati a salsa di rafano, accompagnati da una vasta selezione di vini, in particolare friulani. L'atmosfera è accogliente e familiare, tipica delle osterie tradizionali, e il locale propone anche servizi di catering e degustazioni.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Jolly Pizza Risto-Bar",
+      "address": "Via Puia 2/B, Maron di Brugnera (CAP 33070)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Jolly%20Pizza%20Risto-Bar%2C%20Via%20Puia%202%2FB%2C%20Maron%20di%20Brugnera%20(CAP%2033070)",
+      "image_url": null,
+      "description": "Jolly Pizza Risto-Bar è una pizzeria moderna e accogliente nella frazione di Maron, apprezzata per l'uso di ingredienti selezionati e un'ampia scelta di pizze, incluse versioni con farine integrali e pizze al metro. Propone anche carni grigliate e dolci fatti in casa, con servizi di asporto, catering e consegna a domicilio. Il locale è ideale per famiglie e gruppi grazie alla sala climatizzata e agli spazi esterni, offrendo prezzi accessibili e una cucina varia.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Villa Varda - Bistrot e Caffè Letterario",
+      "address": "Via Villa Varda 9",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Varda%20-%20Bistrot%20e%20Caff%C3%A8%20Letterario%2C%20Via%20Villa%20Varda%209",
+      "image_url": null,
+      "description": "Villa Varda è un bistrot e caffè letterario situato nel contesto storico dell'omonima villa e parco. Propone una cucina tradizionale rivisitata in chiave moderna con ingredienti locali e piatti stagionali, offrendo menu all-day dalla colazione alla cena. La struttura comprende varie sale e terrazze con vista sul parco, ospitando eventi culturali e musicali, e si distingue per la raffinata atmosfera che abbina gastronomia e cultura.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Ristorante Baldino",
+      "address": "Via Villa Varda 4",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Baldino%2C%20Via%20Villa%20Varda%204",
+      "image_url": null,
+      "description": "Ristorante Baldino è un locale accogliente adiacente alla storica Villa Varda, noto per la cucina italiana e l'attenzione alle ricette tradizionali friulane e venete. Il servizio è disponibile e attento alle esigenze della clientela, rendendolo una scelta affidabile per chi cerca un pasto genuino in un ambiente tranquillo e familiare.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Giardino Della Serenissima",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Giardino%20Della%20Serenissima%2C%20Brugnera",
+      "image_url": null,
+      "description": "Giardino Della Serenissima è un ristorante specializzato in cucina di pesce, che interpreta le tradizioni costiere venete e friulane con ingredienti freschi. Nonostante la posizione nell'entroterra, è rinomato per la qualità delle sue proposte ittiche, attraendo clienti anche dai comuni vicini.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "La Casa Gialla",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20Gialla%2C%20Brugnera",
+      "image_url": null,
+      "description": "La Casa Gialla è un locale che offre cucina di pesce realizzata con ingredienti selezionati e freschi. Rappresenta un punto di riferimento per gli amanti della cucina marinara nel territorio di Brugnera.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Villavarda (San Cassiano di Livenza)",
+      "address": "Via C. Battisti 5",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villavarda%20(San%20Cassiano%20di%20Livenza)%2C%20Via%20C.%20Battisti%205",
+      "image_url": null,
+      "description": "Il ristorante Villavarda, situato nella frazione di San Cassiano di Livenza, propone una cucina che valorizza il patrimonio gastronomico locale in un contesto rurale e autentico. L'atmosfera genuina e la vicinanza al fiume Livenza rendono il locale ideale per chi cerca sapori tradizionali in un ambiente rilassato.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Ristorante Mediterraneo (Tamai)",
+      "address": "Via Pordenone 7/9",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Mediterraneo%20(Tamai)%2C%20Via%20Pordenone%207%2F9",
+      "image_url": null,
+      "description": "Situato nella frazione di Tamai, il Ristorante Mediterraneo offre una cucina che fonde influenze mediterranee e tradizione friulana. Si distingue per la proposta gastronomica variegata che consente di esplorare nuovi sapori in un contesto accogliente a Brugnera.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Pizzeria Da Adriano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Adriano%2C%20Brugnera",
+      "image_url": null,
+      "description": "Pizzeria Da Adriano è una pizzeria informale apprezzata a Brugnera, ideale per pasti veloci e famigliari. Offre un ambiente pratico con pizze di qualità a prezzi accessibili.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Pizzeria Da Ciccio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Ciccio%2C%20Brugnera",
+      "image_url": null,
+      "description": "Pizzeria Da Ciccio è una delle proposte più informali di Brugnera, frequentata dalle famiglie locali per la qualità delle pizze e la velocità del servizio. Il locale è una scelta pratica per chi desidera mangiare in un contesto casual.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Pizzeria San Marco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20San%20Marco%2C%20Brugnera",
+      "image_url": null,
+      "description": "Pizzeria San Marco propone pizze di qualità in un ambiente semplice e informale, risultando una soluzione adatta a chi cerca un pasto veloce e gustoso a Brugnera.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    },
+    {
+      "name": "Tassan Toffoli Roberto Bar Ristorante",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tassan%20Toffoli%20Roberto%20Bar%20Ristorante%2C%20Brugnera",
+      "image_url": null,
+      "description": "Situato nella frazione di Tamai, il Tassan Toffoli Roberto Bar Ristorante è un punto di riferimento locale che offre un servizio combinato di bar e ristorante, molto frequentato dalla comunità.",
+      "comune_name": "Brugnera",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/brugnera.md"
+    }
+  ]
+}

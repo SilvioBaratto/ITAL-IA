@@ -1,0 +1,96 @@
+{
+  "comune_name": "Bertiolo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md",
+  "extracted_at": "2026-04-09T10:34:59.718Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo",
+      "address": null,
+      "website_url": "https://www.diocesiudine.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%2C%20Bertiolo",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Martino Vescovo è il principale luogo di culto del capoluogo di Bertiolo e costituisce il fulcro architettonico del centro storico. Erecta nel XVII secolo e consacrata nel 1702, presenta una facciata barocca veneta e vanta preziose opere d’arte, tra cui un altare in marmo veneziano, tele di grandi artisti e vetrate moderne di Arrigo Poz. L’interno a navata unica evidenzia un ricco apparato ligneo e numerosi dettagli artistici che ne fanno un riferimento per la comunità locale.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Campanile di San Martino Vescovo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Campanile%20di%20San%20Martino%20Vescovo%2C%20Bertiolo",
+      "image_url": null,
+      "description": "Il campanile adiacente alla chiesa di San Martino è un elemento distintivo del paesaggio urbano di Bertiolo. Costruito nei primi anni del Seicento sopra una torre medievale preesistente, unisce funzioni difensive e religiose in un’unica struttura di muratura a pianta quadrata. La cella campanaria, ornata da bifore e cornicioni in pietra, testimonia la tradizione friulana di adattamento di torri medievali a usi sacri.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%2C%20Bertiolo",
+      "image_url": null,
+      "description": "La chiesa della Santissima Trinità, la più antica di Bertiolo, risale probabilmente all’età longobarda e custodisce tracce di sovrapposizioni storiche e archeologiche. Rinomata per la sua campana del 1287, la più antica della provincia, sorge nei pressi della parrocchiale e fu edificata forse su un tempietto romano, come suggeriscono i resti scoperti durante restauri recenti. La chiesa riveste un ruolo di primo piano nella memoria religiosa e storica del paese.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Santuario della Madonna di Screncis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20di%20Screncis%2C%20Bertiolo",
+      "image_url": null,
+      "description": "Il Santuario della Madonna di Screncis, situato fra Bertiolo e Lonca di Codroipo, è il più importante luogo di devozione mariana del comune e meta di pellegrinaggi annuali. Sorto sul luogo di un presunto evento miracoloso nel XV secolo e ampliato più volte, ospita una venerata icona della Madonna col Bambino e testimonia una profonda tradizione devozionale nell’area friulana. Le ossa rinvenute presso il sito e le varie ristrutturazioni narrano la lunga storia di questo santuario.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Villa Colloredo di Sterpo e Farnia Monumentale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Colloredo%20di%20Sterpo%20e%20Farnia%20Monumentale%2C%20Bertiolo",
+      "image_url": null,
+      "description": "Nella frazione di Sterpo sorge Villa Colloredo, antica residenza nobiliare costruita su un castello medievale della potente famiglia Colloredo. Nel parco della villa si trova una monumentale farnia di circa 600 anni, riconosciuta ufficialmente come albero di straordinario valore naturalistico e storico. Sebbene la proprietà sia privata, la quercia è visibile dall’esterno e rappresenta una delle piante più antiche e grandi d’Italia, autentico simbolo della pianura friulana.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Tracce della Via Postumia e Presenza Romana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tracce%20della%20Via%20Postumia%20e%20Presenza%20Romana%2C%20Bertiolo",
+      "image_url": null,
+      "description": "Il territorio di Bertiolo conserva tracce dell’antica via Postumia, importante arteria romana che attraversava la regione, e testimonianze di accampamenti romani individuate grazie a scoperte archeologiche occasionali. Pur non esistendo uno specifico sito musealizzato, i reperti trovati narrano la rilevanza strategica della zona fin dall’epoca romana e il suo inserimento nei flussi storici della Venetia et Histria.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "Sistema Difensivo Medievale delle Cortine",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sistema%20Difensivo%20Medievale%20delle%20Cortine%2C%20Bertiolo",
+      "image_url": null,
+      "description": "A Bertiolo le antiche cortine difensive, realizzate tra IX e X secolo durante le invasioni ungare, rappresentavano un sofisticato sistema di protezione costituito da mura e fossati intorno al paese e alla chiesa. Oggi le strutture non sono più visibili in superficie, ma persistono nella memoria e nella topografia del centro storico come testimonianza dell’organizzazione medievale e della storia locale.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    },
+    {
+      "name": "La Casa dei Frati",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20dei%20Frati%2C%20Bertiolo",
+      "image_url": null,
+      "description": "La Casa dei Frati, situata nel centro di Bertiolo, è l’ultima testimonianza della presenza di confraternite religiose attive nella vita sociale e spirituale locale fino al Novecento. Questo edificio storico, ubicato nell’omonima via, rappresenta un patrimonio di memoria collettiva e un raro esempio di architettura civile-religiosa sopravvissuta nel paese.",
+      "comune_name": "Bertiolo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bertiolo.md"
+    }
+  ]
+}

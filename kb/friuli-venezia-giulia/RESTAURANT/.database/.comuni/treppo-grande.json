@@ -1,0 +1,30 @@
+{
+  "comune_name": "Treppo Grande",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/treppo-grande.md",
+  "extracted_at": "2026-04-09T11:21:49.193Z",
+  "pois": [
+    {
+      "name": "I Benandanti",
+      "address": "Via Case Sparse Borgobello, 1 – 33010 Treppo Grande (UD)",
+      "website_url": "https://www.ibenandanti.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=I%20Benandanti%2C%20Via%20Case%20Sparse%20Borgobello%2C%201%20%E2%80%93%2033010%20Treppo%20Grande%20(UD)",
+      "image_url": null,
+      "description": "I Benandanti è il principale ristorante del comune di Treppo Grande, situato nella campagna di Borgobello. Il locale propone cucina regionale friulana, con piatti tipici come frico con patate, taglieri di salumi e formaggi locali, minestre di stagione, carni alla brace e dolci tradizionali. L'atmosfera è quella accogliente e informale di una trattoria di campagna, incentrata sull'autenticità e la valorizzazione dei prodotti locali e della storia friulana. La carta dei vini seleziona etichette del territorio, privilegiando le varietà autoctone.",
+      "comune_name": "Treppo Grande",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/treppo-grande.md"
+    },
+    {
+      "name": "Ristorante Belvedere",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Belvedere%2C%20Treppo%20Grande",
+      "image_url": null,
+      "description": "Ristorante Belvedere è un locale di cucina tradizionale friulana situato nella zona di Treppo Grande, probabilmente nella frazione di Vendoglio. Offre un menu legato alla tradizione locale, con piatti come polenta, carni grigliate o in umido, zuppe di stagione e formaggi tipici. È un ristorante di campagna che serve principalmente la comunità locale, e si consiglia di verificare l’operatività e gli orari direttamente presso il locale.",
+      "comune_name": "Treppo Grande",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/treppo-grande.md"
+    }
+  ]
+}

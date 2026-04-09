@@ -1,0 +1,63 @@
+{
+  "comune_name": "Capriva del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/capriva-del-friuli.md",
+  "extracted_at": "2026-04-09T10:56:37.516Z",
+  "pois": [
+    {
+      "name": "Osteria Casa Vidussi",
+      "address": "Via Spessa 18, 34070 Capriva del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Casa%20Vidussi%2C%20Via%20Spessa%2018%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Osteria Casa Vidussi offre un'esperienza autentica nel cuore del Collio Goriziano, valorizzando la cucina friulana attraverso ingredienti locali e stagionali. Il menu include affettati e formaggi di qualità, piatti tradizionali e una curata selezione di vini del Collio, con particolare attenzione ai vitigni autoctoni. L'atmosfera è intima e accogliente, ideale per chi cerca genuinità senza formalità. La proposta enologica comprende anche una varietà di vini rossi rappresentativi del territorio.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "La Tavernetta al Castello",
+      "address": "Via Spessa 7, 34070 Capriva del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tavernetta%20al%20Castello%2C%20Via%20Spessa%207%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "La Tavernetta al Castello è il ristorante gourmet situato nella tenuta del Castello di Spessa, in un ambiente rustico raffinato e suggestivo. La cucina fonde tradizione locale, influenze mediterranee e mitteleuropee, offrendo piatti a base sia di carne sia di pesce fresco proveniente da Grado e Marano. Il menu cambia con le stagioni e la cantina valorizza le etichette della stessa azienda. La presentazione dei piatti è elegante e l'atmosfera esclusiva, facendo di questo ristorante una tappa imprescindibile per scoprire l'eccellenza gastronomica del Collio.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Hosteria del Castello",
+      "address": "Località Spessa 14, 34070 Capriva del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hosteria%20del%20Castello%2C%20Localit%C3%A0%20Spessa%2014%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Hosteria del Castello propone un'esperienza conviviale nel contesto panoramico del Castello di Spessa, ideale per chi cerca un ambiente informale ma curato. Il menu si concentra su piatti della cucina friulana, come tagliatelle al formaggio locale e tartufo, e ricette tradizionali che variano secondo la stagionalità e il mercato. La selezione di vini è incentrata sui bianchi del Collio. Il locale offre una vista suggestiva sui vigneti e sui campi da golf, creando un'atmosfera rilassata e romantica.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Orzan - Agriturismo e Azienda Vitivinicola",
+      "address": "Via Giuseppe Mazzini 48, 34070 Capriva del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Orzan%20-%20Agriturismo%20e%20Azienda%20Vitivinicola%2C%20Via%20Giuseppe%20Mazzini%2048%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Orzan rappresenta l'autenticità dell'agriturismo friulano, unendo produzione vitivinicola in loco e cucina casalinga attenta alla qualità. Specialità come gnocchi al ragù di cinghiale, polenta e crespelle ai formaggi sono preparate con ingredienti propri e di stagione. Il locale si distingue per l'atmosfera rustica ed elegante e per la genuinità dei piatti che rispecchiano il forte legame con la terra e la tradizione. La Ribolla Gialla di produzione propria è particolarmente apprezzata.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Hosteria da Monia",
+      "address": "Località Spessa 18, 34070 Capriva del Friuli (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hosteria%20da%20Monia%2C%20Localit%C3%A0%20Spessa%2018%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Hosteria da Monia è una osteria familiare che propone cucina friulana autentica in un ambiente informale e accogliente, sia all'interno che nei giardini esterni. Il menu include insalata di polpo, tartare di cervo, burrata con affettati, paste fresche fatte in casa e formaggi locali, prestando attenzione alla stagionalità e agli ingredienti a km zero. Il locale si distingue per l'accoglienza calorosa e la possibilità di personalizzare l'offerta per eventi e occasioni speciali.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/capriva-del-friuli.md"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "comune_name": "Clauzetto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md",
+  "extracted_at": "2026-04-09T10:41:03.413Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Giacomo Apostolo",
+      "address": null,
+      "website_url": "https://www.pordenonewithlove.it/it/cosa-fare/cultura/architetture/chiesa-parrocchiale-di-san-giacomo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giacomo%20Apostolo%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Giacomo Apostolo è il principale luogo di culto di Clauzetto, risalente al XVII secolo e caratterizzata da stile barocco friulano. Divenuta parrocchiale nel 1625 e consacrata nel 1727, custodisce una scalinata di 88 gradini e un campanile che sono simboli identificativi del paese. All'interno si conservano opere d'arte di artisti locali e la preziosa reliquia del Preziosissimo Sangue di Cristo, meta storica di pellegrinaggio devozionale.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Grotte Verdi di Pradis",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotte%20Verdi%20di%20Pradis%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Le Grotte Verdi di Pradis sono un celebre complesso di cavità carsiche sull'Altopiano di Pradis, scolpite dal torrente Cosa. Aperte al pubblico dal 1968, offrono uno spettacolare percorso tra forre, caverne e suggestivi giochi di luce che si riflettono sulle pareti calcaree e sull'acqua. Oltre ad essere un sito naturalistico di rara bellezza, costituiscono un importante sito archeologico con ritrovamenti che attestano la presenza umana fin dal Paleolitico.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Grotta del Rio Secco — Sito Archeologico Paleolitico",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/siti-archeologici/grotta-del-rio-secco/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20del%20Rio%20Secco%20%E2%80%94%20Sito%20Archeologico%20Paleolitico%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Grotta del Rio Secco è uno dei siti paleoantropologici più rilevanti del Friuli Venezia Giulia, abitata in diverse epoche sia dai Neanderthal sia dai Sapiens durante il Paleolitico. Esplorata sistematicamente dal 2010, ha restituito strumenti e resti che documentano una frequentazione tra 40.000 e 28.000 anni fa. Alcuni materiali sono esposti al Museo della Grotta di Gerchia.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Grotta del Clusantin — Sito Epigravettiano",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/siti-archeologici/grotta-del-clusantin/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20del%20Clusantin%20%E2%80%94%20Sito%20Epigravettiano%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Grotta del Clusantin è una piccola cavità preistorica sull'Altopiano di Pradis, risalente a circa 14.000 anni fa e utilizzata come sito di caccia specializzata alla marmotta. Gli scavi hanno evidenziato una straordinaria concentrazione di resti faunistici di questa specie, evidenziando le strategie di sopravvivenza delle popolazioni dell'epoca. I reperti principali sono esposti al Museo della Grotta di Gerchia.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Museo della Grotta di Gerchia",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/il-museo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Grotta%20di%20Gerchia%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Il Museo della Grotta di Gerchia raccoglie i principali reperti emersi dai siti preistorici dell'Altopiano di Pradis, tra cui materiali delle Grotte Verdi, del Rio Secco e del Clusantin. È un centro di riferimento per la divulgazione della storia antica locale e parte integrante del circuito delle Grotte di Pradis. Il museo è gestito in collaborazione con enti culturali e scientifici regionali.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Orrido e Cascata del Rio Molat",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Orrido%20e%20Cascata%20del%20Rio%20Molat%2C%20Clauzetto",
+      "image_url": null,
+      "description": "L'orrido e la cascata del Rio Molat rappresentano una delle principali emergenze geomorfologiche di Clauzetto. Il corso d'acqua scava una gola suggestiva nel calcare prealpino, culminando in una cascata che si getta in un bacino naturale. Il sito è immerso nella vegetazione montana e offre un'esperienza di visita all'insegna della natura incontaminata e della bellezza paesaggistica.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Forre di Erosione del Cosa e del Paveon",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Forre%20di%20Erosione%20del%20Cosa%20e%20del%20Paveon%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Le forre scavate dai torrenti Cosa e Paveon hanno modellato un paesaggio di gole profonde e pareti rocciose verticali di grande suggestione. Queste forme carsiche rappresentano un ambiente naturale di elevato interesse per la biodiversità e sono strettamente legate al sistema carsico dell'Altopiano di Gerchia. Visitabili in connessione ai percorsi delle Grotte Verdi di Pradis, offrono panorami spettacolari.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Cimitero Militare di Val da Ros (Cimitero di Guerra italo-tedesco)",
+      "address": null,
+      "website_url": "https://www.turismofvg.it/it/r83777",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cimitero%20Militare%20di%20Val%20da%20Ros%20(Cimitero%20di%20Guerra%20italo-tedesco)%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Il Cimitero Militare di Val da Ros è un monumento commemorativo sorto dopo la Battaglia di Pradis del 1917, dove riposano soldati italiani e austro-germanici caduti nella Prima Guerra Mondiale. Alcune lapidi originali e tombe tedesche sono ancora visibili, insieme a un monumento piramidale centrale. Il cimitero si trova in una posizione isolata lungo la SP55, in un contesto di grande solennità storica.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Fontana di Nujaruc",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fontana%20di%20Nujaruc%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Fontana di Nujaruc è una storica fontana pubblica situata nel capoluogo di Clauzetto. Tradizionalmente centro nevralgico per la raccolta dell'acqua e la socialità del villaggio, rappresenta un elemento di arredo urbano tipico e testimonia l'importanza dell'approvvigionamento idrico nella vita quotidiana delle comunità montane friulane.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Altopiano Carsico di Gerchia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Altopiano%20Carsico%20di%20Gerchia%2C%20Clauzetto",
+      "image_url": null,
+      "description": "L'Altopiano di Gerchia è un vasto altopiano calcareo, uno degli esempi più rappresentativi di paesaggio carsico delle Prealpi Carniche. Caratterizzato da doline, inghiottitoi e oltre duecento cavità sotterranee esplorate, offre un ambiente unico e misterioso, integrato nel sistema di visita delle Grotte di Pradis e associato ai principali siti preistorici locali.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/clauzetto.md"
+    }
+  ]
+}

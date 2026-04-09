@@ -1,0 +1,56 @@
+{
+  "source_file": "friuli-venezia-giulia/MUSEUM/.comuni/cassacco.md",
+  "region": "friuli-venezia-giulia",
+  "category": "MUSEUM",
+  "comune_name": "Cassacco",
+  "province": "UD",
+  "page_title": "Cassacco",
+  "page_summary": "Panoramica sulle realtà di interesse museale e storico del comune di Cassacco: il castello medievale, la storica Villa Gallici Deciani e la Biblioteca Comunale \"B. Chiurlo\". Nessun museo o spazio espositivo permanente risulta attivo nel territorio.",
+  "source_url": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cassacco.md",
+  "processed_at": "2026-04-09T13:04:07.105Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/cassacco__0",
+      "text": "### Castello di Cassacco — patrimonio architettonico\n\n**Capoluogo di Cassacco**\n\nIl castello di Cassacco è l'elemento di maggiore spicco nel paesaggio storico del comune. Edificato in epoca medievale su un rilievo che domina la valle del Nuiaro, il maniero ha subito nel corso dei secoli numerose trasformazioni che ne hanno modificato la struttura originaria. Come per molti castelli del Friuli, la storia dell'edificio è intrecciata con le vicende delle famiglie nobili locali che si avvicendarono nel possesso del feudo. Il castello non è attualmente aperto al pubblico come istituzione museale, ma costituisce un punto di riferimento identitario per la comunità locale e per gli studiosi del patrimonio castrense friulano.\n\nLa principale fonte bibliografica sul maniero è la monografia di Giorgio Baiutti, *Castello di Cassacco*, pubblicata da Forum Edizioni nel 2005. Il volume ricostruisce la storia dell'edificio, le trasformazioni architettoniche e le vicende proprietarie, inserendo il castello nel più ampio contesto delle strutture difensive della pedemontana udinese.",
+      "metadata": {
+        "section_title": "Castello di Cassacco — patrimonio architettonico",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/cassacco__1",
+      "text": "### Villa Gallici Deciani — villa storica a Montegnacco\n\n**Montegnacco, frazione di Cassacco**\n\nLa Villa Gallici Deciani, situata nella frazione di Montegnacco, rappresenta l'esempio più significativo di architettura residenziale nobiliare nel territorio comunale. La villa appartiene alla tipologia delle dimore di villeggiatura veneto-friulane, diffuse tra il Cinquecento e il Settecento nelle campagne a nord di Udine, quando l'aristocrazia locale e i ceti mercantili udinesi edificarono case di campagna come luogo di residenza estiva e centro di gestione dei fondi agricoli. L'edificio presenta le caratteristiche formali della villa friulana: corpo principale a due piani, portale d'ingresso monumentale, corte interna e barchessa laterale. Il nome richiama le famiglie Gallici e Deciani, entrambe legate alla storia nobiliare del Friuli.\n\nLa villa non è aperta al pubblico come museo o spazio espositivo, ma rimane un importante riferimento per la storia dell'architettura civile del territorio.",
+      "metadata": {
+        "section_title": "Villa Gallici Deciani — villa storica a Montegnacco",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/cassacco__2",
+      "text": "### Biblioteca Comunale \"B. Chiurlo\" — presidio culturale del comune\n\n**Via Divisione Julia, Cassacco (CAP 33010)**\n\nPur non essendo un museo, la Biblioteca Comunale \"Bindo Chiurlo\" di Cassacco costituisce il principale presidio culturale del comune e un punto di raccolta della memoria storica e documentaria locale. Intitolata a Bindo Chiurlo (1885–1959), letterato, filologo e studioso di tradizioni friulane originario di Tricesimo, la biblioteca conserva materiali di interesse locale, volumi di storia regionale e fondi utili alla ricerca storica sul territorio. È parte della rete bibliotecaria provinciale udinese.\n\nBindo Chiurlo fu uno dei principali raccoglitori e studiosi delle tradizioni popolari friulane nella prima metà del Novecento, e l'intitolazione della biblioteca a questo personaggio riflette la volontà del comune di mantenere vivo il legame con la cultura e la lingua friulana.\n\n- **Indirizzo:** Via Divisione Julia, Cassacco (UD)\n- **Sito del Comune:** [www.comune.cassacco.ud.it](http://www.comune.cassacco.ud.it)",
+      "metadata": {
+        "section_title": "Biblioteca Comunale \"B. Chiurlo\" — presidio culturale del comune",
+        "links": [
+          {
+            "text": "www.comune.cassacco.ud.it",
+            "url": "http://www.comune.cassacco.ud.it"
+          }
+        ],
+        "addresses": [
+          "Via Divisione Julia, Cassacco (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

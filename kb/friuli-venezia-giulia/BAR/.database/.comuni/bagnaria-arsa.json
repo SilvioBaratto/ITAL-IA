@@ -1,0 +1,41 @@
+{
+  "comune_name": "Bagnaria Arsa",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bagnaria-arsa.md",
+  "extracted_at": "2026-04-09T10:02:21.194Z",
+  "pois": [
+    {
+      "name": "Albergo Trattoria Al Taj",
+      "address": "Sevegliano, Via Julia 25 — tel. 0432 928549",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Storico punto di riferimento di Sevegliano, l'Albergo Trattoria Al Taj svolge la doppia funzione di bar e ristorante, offrendo colazioni dall'alba con caffè, cappuccino, cornetti e pasticcini. L'ambiente è tradizionale e semplice, ideale per viaggiatori, commercianti e abitanti del posto. Il locale propone anche aperitivi serali accompagnati da vini friulani selezionati e dispone di un ampio parcheggio. Offre camere per pernottamento e servizio d'asporto.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Bar a Onda",
+      "address": "Bagnaria Arsa, Piazza Sant'Andrea — tel. 0432 920071",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar a Onda è il tipico bar di paese situato nella piazza principale di Bagnaria Arsa, frequentato per la colazione, il caffè di metà mattinata e l'aperitivo serale. L'atmosfera è familiare e informale, con qualche tavolino, tv accesa durante le partite, e un ambiente che riflette il ritmo tranquillo della comunità rurale. Rappresenta un autentico punto di aggregazione locale.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Garage Caffetteria e Tabacchi",
+      "address": "Sevegliano, Via Julia 41 — tel. 0432 924282 — Facebook: @garagecaffetteriaetabacchi",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Garage Caffetteria e Tabacchi è una caffetteria multifunzionale in Via Julia a Sevegliano, che unisce bar, tabaccheria e ricevitoria. Locale di quartiere dall'atmosfera informale, rappresenta un punto di incontro per la comunità: vi si può fare colazione, acquistare tabacchi o pratiche burocratiche, e socializzare con gli abituali. È particolarmente attivo online tramite la sua pagina Facebook.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/bagnaria-arsa.md"
+    }
+  ]
+}

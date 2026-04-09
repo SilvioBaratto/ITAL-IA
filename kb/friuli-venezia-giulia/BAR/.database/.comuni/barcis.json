@@ -1,0 +1,63 @@
+{
+  "comune_name": "Barcis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/barcis.md",
+  "extracted_at": "2026-04-09T10:02:21.195Z",
+  "pois": [
+    {
+      "name": "Bar Central",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Central è il principale punto di ritrovo di Barcis, situato nel cuore del centro vicino all'ufficio postale e alla biblioteca. Offre una selezione essenziale di caffè, cappuccino, dolci semplici e bevande per l'aperitivo. L'atmosfera è quella di un classico bar di montagna, frequentato sia dai residenti che dai turisti e sportivi di passaggio. Non dispone di un sito web proprio.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/barcis.md"
+    },
+    {
+      "name": "Osteria agli Alpini",
+      "address": "Via Roma, 15 — Barcis",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Osteria agli Alpini combina l'anima di bar con quella di luogo di incontro conviviale, situata sulla via principale di Barcis. Apprezzata per il caffè e la selezione di vini locali, offre anche posti a sedere all'esterno e un dehors panoramico. I prezzi sono accessibili e il personale è noto per la cordialità. Il locale è facilmente raggiungibile e vicino a punti di interesse come la piscina turistica e la chiesa principale.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/barcis.md"
+    },
+    {
+      "name": "Aquila Nera Enoteca",
+      "address": "Piazzetta Cesare Battisti — Barcis",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Aquila Nera Enoteca è un bar-enoteca con funzione anche di pub, situato nella pittoresca Piazzetta Cesare Battisti. Offre una ricca selezione di vini friulani e del Triveneto, grappe e cordiali, oltre a piatti tipici locali e dessert come la torta al cioccolato. L'atmosfera è piacevole e curata, con possibilità di mangiare sia all'interno che all'esterno. È uno dei locali più frequentati sia dai residenti che dai turisti.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/barcis.md"
+    },
+    {
+      "name": "La Stuzzicheria Dolce e Salato",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Stuzzicheria Dolce e Salato, nel centro di Barcis, è uno dei locali più apprezzati secondo le recensioni online. Celebre per i suoi panini generosi e per lo strudel artigianale, offre anche birre locali e caffè di qualità. L'atmosfera è rilassata, i prezzi sono popolari e il personale cordiale. Il locale è adatto sia per colazioni che per spuntini, pranzi veloci o aperitivi.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/barcis.md"
+    },
+    {
+      "name": "Osteria Molassa",
+      "address": null,
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Osteria Molassa si trova nella frazione di Molassa, vicino a uno dei belvederi panoramici di Barcis. È un tradizionale bar di montagna e luogo d'incontro per chi percorre le strade e i sentieri della Valcellina. Qui si può gustare un semplice caffè o un bicchiere di vino in un'atmosfera rurale e genuina, tipica delle valli friulane.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/barcis.md"
+    }
+  ]
+}

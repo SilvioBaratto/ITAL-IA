@@ -1,0 +1,74 @@
+{
+  "comune_name": "Campolongo Tapogliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md",
+  "extracted_at": "2026-04-09T10:43:45.119Z",
+  "pois": [
+    {
+      "name": "Villa Pace — Patrimonio artistico di eccezionale valore (Tapogliano)",
+      "address": "Via XXIV Maggio, 1 — Tapogliano (33040 Campolongo Tapogliano, UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Pace%20%E2%80%94%20Patrimonio%20artistico%20di%20eccezionale%20valore%20(Tapogliano)%2C%20Via%20XXIV%20Maggio%2C%201%20%E2%80%94%20Tapogliano%20(33040%20Campolongo%20Tapogliano%2C%20UD)",
+      "image_url": null,
+      "description": "Villa Pace è il più rilevante monumento artistico di Campolongo Tapogliano e uno degli esempi più importanti di architettura residenziale nobiliare della pianura friulana orientale. Caratterizzata da una struttura seicentesca con quattro torri angolari e da un elegante salone decorato con il dipinto \"La gloria della giustizia e della pace\", attribuito a scuola tiepolesca, ospita anche interessanti pitture murali. Proprietà privata, è visitabile solo su appuntamento o in occasione di eventi culturali.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Villa Marcotti — Sede Municipale (Campolongo al Torre)",
+      "address": "Piazza del municipio — Campolongo al Torre (33040 Campolongo Tapogliano, UD)",
+      "website_url": "http://www.comune.campolongotapogliano.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Marcotti%20%E2%80%94%20Sede%20Municipale%20(Campolongo%20al%20Torre)%2C%20Piazza%20del%20municipio%20%E2%80%94%20Campolongo%20al%20Torre%20(33040%20Campolongo%20Tapogliano%2C%20UD)",
+      "image_url": null,
+      "description": "Villa Marcotti, risalente al 1723, è una raffinata villa veneta che oggi ospita il municipio di Campolongo Tapogliano. Rappresenta un elegante esempio di architettura civile settecentesca, testimone della presenza della nobiltà veneziana e friulana. È visibile dall’esterno e accessibile negli orari degli uffici comunali.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Giorgio Martire — Arte sacra del Settecento (Campolongo al Torre)",
+      "address": "Piazza Indipendenza — Campolongo al Torre (33040 Campolongo Tapogliano, UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giorgio%20Martire%20%E2%80%94%20Arte%20sacra%20del%20Settecento%20(Campolongo%20al%20Torre)%2C%20Piazza%20Indipendenza%20%E2%80%94%20Campolongo%20al%20Torre%20(33040%20Campolongo%20Tapogliano%2C%20UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giorgio Martire, edificata tra Sei e Settecento, custodisce importanti opere di arte sacra, tra cui un dipinto del 1633 di Gasparo Cordobense e una pala del Settecento dedicata a San Luigi. L’edificio, di rilievo storico e artistico, è aperto per le funzioni liturgiche e le visite dei pellegrini.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo (Tapogliano)",
+      "address": "Piazza Libertà — Tapogliano (33040 Campolongo Tapogliano, UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%20(Tapogliano)%2C%20Piazza%20Libert%C3%A0%20%E2%80%94%20Tapogliano%20(33040%20Campolongo%20Tapogliano%2C%20UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Martino Vescovo è il principale luogo di culto di Tapogliano, con origini risalenti al XIII secolo e struttura attuale settecentesca. L’edificio, restaurato nel corso del tempo, conserva arredi e decorazioni che raccontano la storia religiosa della comunità. Si affaccia sulla centrale Piazza Libertà ed è aperto negli orari di funzione.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Oratorio di Santa Margherita da Cortona (Tapogliano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20Santa%20Margherita%20da%20Cortona%20(Tapogliano)%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "Piccolo oratorio rurale dedicato a Santa Margherita da Cortona, testimonia il radicamento della tradizione francescana nella Bassa Friulana. Pur di dimensioni modeste, contribuisce all’identità storica di Tapogliano.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Assunta (Cavenzano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%20(Cavenzano)%2C%20Campolongo%20Tapogliano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santa Maria Assunta si trova nella frazione rurale di Cavenzano ed è dedicata a uno dei principali culti della tradizione friulana. Pur priva di opere artistiche di rilievo documentato, rappresenta un punto di riferimento per la comunità locale.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/campolongo-tapogliano.md"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/castelnovo-del-friuli.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Castelnovo del Friuli",
+  "province": "PN",
+  "page_title": "Castelnovo del Friuli",
+  "page_summary": "Guida ai bar del comune di Castelnovo del Friuli: l'unico locale documentato è il Titti Bar, tipico bar di paese e punto di riferimento per la comunità locale.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/castelnovo-del-friuli.md",
+  "processed_at": "2026-04-09T12:01:52.941Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/castelnovo-del-friuli__0",
+      "text": "### Titti Bar\n\n**Località:** Paludea / Franz, Castelnovo del Friuli — Strada Provinciale 62 di Castelnovo, 33090\n\nIl **Titti Bar** è l'unico locale documentato con certezza nel territorio comunale di Castelnovo del Friuli, ed è situato nella zona tra le borgate di Franz e Paludea, lungo la Strada Provinciale 62 che attraversa il cuore del comune. In un comune così piccolo e disperso, questo bar rappresenta un punto di riferimento imprescindibile per tutta la comunità locale: qui ci si ferma per un caffè al mattino, si prende l'aperitivo nel tardo pomeriggio e, nei giorni di festa, ci si ritrova tra vicini e conoscenti.\n\nNon si tratta di un locale alla moda né di una caffetteria specialty: è il classico **bar di paese** della tradizione friulana, dove il bancone è il centro della vita sociale e dove il barista conosce per nome ogni avventore. La colazione si fa con brioche e cappuccino, l'aperitivo con un bicchiere di vino locale o, seguendo la moda regionale più diffusa, con uno spritz all'Aperol o al Select. La cucina non è il punto focale, ma è probabile che si trovino qualche tramezzino o spuntino freddo per chi passa durante la pausa pranzo.\n\nIl locale è classificato come ristorante/bar nelle banche dati OpenStreetMap, il che suggerisce una doppia anima: da un lato il servizio al banco per chi ha fretta, dall'altro la possibilità di sedersi per qualcosa di più sostanzioso. In un territorio dove le alternative sono praticamente inesistenti nel raggio di diversi chilometri, il Titti Bar svolge una funzione sociale e di presidio territoriale che va ben oltre la semplice mescita di caffè.",
+      "metadata": {
+        "section_title": "Titti Bar",
+        "links": [],
+        "addresses": [
+          "Paludea / Franz, Castelnovo del Friuli — Strada Provinciale 62 di Castelnovo, 33090"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

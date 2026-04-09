@@ -1,0 +1,63 @@
+{
+  "comune_name": "Visco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md",
+  "extracted_at": "2026-04-09T11:24:49.400Z",
+  "pois": [
+    {
+      "name": "Risto Bar",
+      "address": "Via area est, Visco (UD) — loc. tra il centro abitato e la zona commerciale, coordinate approssimative 45.888°N 13.354°E",
+      "website_url": "https://www.facebook.com/people/RISTO-BAR-2025/61579314345341/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Risto%20Bar%2C%20Via%20area%20est%2C%20Visco%20(UD)%20%E2%80%94%20loc.%20tra%20il%20centro%20abitato%20e%20la%20zona%20commerciale%2C%20coordinate%20approssimative%2045.888%C2%B0N%2013.354%C2%B0E",
+      "image_url": null,
+      "description": "Il Risto Bar è il principale punto di riferimento per pasti e spuntini a Visco, frequentato soprattutto da residenti e lavoratori della zona. Offre una formula versatile: colazioni, pranzi veloci, aperitivi e taglieri di salumi e formaggi friulani accompagnati da vini DOC locali. L'ambiente è informale e familiare, pensato per soddisfare le esigenze quotidiane più che un turismo gastronomico. I prezzi sono contenuti, rivolti prevalentemente alla clientela locale.",
+      "comune_name": "Visco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md"
+    },
+    {
+      "name": "Bar del paese (locale senza insegna mappata)",
+      "address": "centro di Visco, zona Via Montello / Via Pietro Giolitti (ca. 45.891°N 13.348°E)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20del%20paese%20(locale%20senza%20insegna%20mappata)%2C%20centro%20di%20Visco%2C%20zona%20Via%20Montello%20%2F%20Via%20Pietro%20Giolitti%20(ca.%2045.891%C2%B0N%2013.348%C2%B0E)",
+      "image_url": null,
+      "description": "Situato nel centro di Visco, questo tipico bar di paese rappresenta un presidio di socialità quotidiana per la comunità locale. Offre colazioni semplici come cornetti, cappuccini e krapfen friulani, mentre a pranzo sono disponibili panini o piatti caldi su richiesta. È un classico punto di incontro mattutino e luogo per il tradizionale 'tajut' pomeridiano.",
+      "comune_name": "Visco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md"
+    },
+    {
+      "name": "Autogrill",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Autogrill%2C%20Visco",
+      "image_url": null,
+      "description": "L'Autogrill dell'area di sosta Visco-Palmanova sull'A4 offre cucina italiana e friulana adattata alla ristorazione veloce da viaggio. Il menù include panini, pasta, secondi caldi e prodotti tipici come frico e prosciutto crudo locale. Aperto 24 ore, serve entrambe le direzioni autostradali, rappresentando una soluzione pratica e accessibile soprattutto per chi è in transito.",
+      "comune_name": "Visco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md"
+    },
+    {
+      "name": "Hamerica's",
+      "address": null,
+      "website_url": "https://www.hamericas.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hamerica's%2C%20Visco",
+      "image_url": null,
+      "description": "Hamerica's è una catena italiana di hamburger restaurant situata nel polo autostradale di Visco. Il locale propone hamburger artigianali preparati con carni italiane di qualità, birre artigianali e piatti che vanno oltre il classico fast food. Non offre cucina tipica friulana, ma è una delle scelte di sosta più apprezzate dai viaggiatori sull'A4.",
+      "comune_name": "Visco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md"
+    },
+    {
+      "name": "Dall'Ava 1988 — Prosciutteria (adiacente al comune)",
+      "address": null,
+      "website_url": "https://www.dokdallava.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dall'Ava%201988%20%E2%80%94%20Prosciutteria%20(adiacente%20al%20comune)%2C%20Visco",
+      "image_url": null,
+      "description": "La Dall'Ava 1988 prosciutteria, collegata allo storico prosciuttificio DOK Dall'Ava, si trova presso il polo commerciale tra Visco e Aiello del Friuli. Qui si possono degustare e acquistare prosciutto di San Daniele DOP e salumi tipici, con la possibilità di partecipare a presentazioni sulla lavorazione del prosciutto. È una tappa gastronomica di rilievo per chi transita in zona.",
+      "comune_name": "Visco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md"
+    }
+  ]
+}

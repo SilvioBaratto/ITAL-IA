@@ -1,0 +1,129 @@
+{
+  "comune_name": "Ovaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md",
+  "extracted_at": "2026-04-09T11:09:47.607Z",
+  "pois": [
+    {
+      "name": "Trattoria Locanda Da Dino ⭐ TOP RATED",
+      "address": "Via Patuscera di Entrampo, 20 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Locanda%20Da%20Dino%20%E2%AD%90%20TOP%20RATED%2C%20Via%20Patuscera%20di%20Entrampo%2C%2020%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Storica trattoria a gestione familiare, Trattoria Locanda Da Dino propone autentica cucina friulana e carnica, con piatti come cjarsons, frico e specialità di montagna. L'atmosfera è accogliente e tipica, con ambienti scavati nella montagna e una reputazione eccellente sia tra la gente locale che tra i turisti. La struttura include anche camere per pernottamento, offrendo un'esperienza completa e genuina. È il ristorante con la valutazione più alta di Ovaro, apprezzato per la qualità costante e il servizio cortese.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Aplis (Hotel Aplis) ⭐ TOP RATED",
+      "address": "Località Aplis, 2/C - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Aplis%20(Hotel%20Aplis)%20%E2%AD%90%20TOP%20RATED%2C%20Localit%C3%A0%20Aplis%2C%202%2FC%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Il ristorante dell'Hotel Aplis offre una cucina carnica autentica con un menu stagionale a base di prodotti locali e selvaggina, integrando alcune proposte internazionali. L'ambiente elegante e ispirato alla montagna è ideale sia per famiglie sia per cene romantiche, con splendidi panorami e un servizio ospitale. Aplis si distingue per la qualità degli ingredienti e l'integrazione con la struttura ricettiva, rappresentando un'eccellenza nella ristorazione locale.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Agriturismo La Pecora Nera ⭐ AGRITURISMO DIDATTICO",
+      "address": "Ronc, 1 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20La%20Pecora%20Nera%20%E2%AD%90%20AGRITURISMO%20DIDATTICO%2C%20Ronc%2C%201%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo didattico immerso nella natura, La Pecora Nera si distingue per la cucina a km 0 con ingredienti coltivati e allevati in azienda. Il menu propone piatti tradizionali carnici, con particolare attenzione alla carne di pecora e ai formaggi locali. L'atmosfera è familiare, calda e improntata alla sostenibilità, offrendo anche esperienze didattiche e turismo educativo. Ideale per chi cerca autenticità e connessione con il territorio.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Osteria Pizzeria Allo Zoncolan",
+      "address": "Piazza Pantò di Liariis, 5 - 33025 Ovaro (UD) (Frazione Liariis)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Pizzeria%20Allo%20Zoncolan%2C%20Piazza%20Pant%C3%B2%20di%20Liariis%2C%205%20-%2033025%20Ovaro%20(UD)%20(Frazione%20Liariis)",
+      "image_url": null,
+      "description": "Locale tipico di montagna, Osteria Pizzeria Allo Zoncolan propone pizza cotta in forno a legna, piatti friulani e specialità di carne e pesce, utilizzando ingredienti locali. L'ambiente è informale e conviviale, perfetto per famiglie e gruppi che desiderano un'esperienza gastronomica autentica. È un punto di riferimento nella zona per chi cerca semplicità e genuinità in una cornice accogliente.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Al Feralut ⭐ CONTEMPORARY CUISINE",
+      "address": "Via Vidrina di Chialina, 31 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Feralut%20%E2%AD%90%20CONTEMPORARY%20CUISINE%2C%20Via%20Vidrina%20di%20Chialina%2C%2031%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Al Feralut propone cucina italiana contemporanea reinterpretando i piatti friulani con ingredienti locali spesso biologici e menù stagionali. L'ambiente, moderno e sostenibile, valorizza la qualità delle materie prime e la responsabilità ambientale. È una scelta ideale per chi vuole scoprire la cucina carnica in chiave innovativa mantenendo i legami con la tradizione.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Osteria Al Ponte",
+      "address": "Via Caduti II Maggio, 196 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Ponte%2C%20Via%20Caduti%20II%20Maggio%2C%20196%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Osteria Al Ponte è un locale economico specializzato in piatti semplici e tradizionali friulani, in particolare nel frico con polenta preparato con perizia. L'atmosfera è informale e fedele alla tradizione di montagna, rappresentando un punto di riferimento per chi cerca autenticità a prezzi accessibili.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Trattoria Al Blitz / Al Blitz Osteria",
+      "address": "Via Vidrina di Chialina, 31 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Blitz%20%2F%20Al%20Blitz%20Osteria%2C%20Via%20Vidrina%20di%20Chialina%2C%2031%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Questa trattoria propone cucina carnica e friulana con grande attenzione alla qualità degli ingredienti e ai primi piatti tipici. L'atmosfera è semplice e accogliente, fedele alle tradizioni paesane e ideale per famiglie e gruppi. Apprezzata per l'autenticità e la genuinità, offre un'esperienza senza fronzoli della cucina locale.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Albergo Ristorante Garden",
+      "address": "Via Guart di Luincis, 27 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Garden%2C%20Via%20Guart%20di%20Luincis%2C%2027%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Il ristorante dell'Albergo Garden presenta cucina carnica e friulana preparata secondo tradizione, in un ambiente montano rilassante con giardino e terrazza panoramici. La struttura offre anche camere e servizi per il soggiorno, risultando ideale per chi desidera un'esperienza di relax unendo buona tavola e accoglienza familiare in montagna.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Ristorantino Il Grop (Albergo Diffuso Zoncolan)",
+      "address": "Via Vidrina di Chialina, 31 - 33025 Ovaro (UD)",
+      "website_url": "http://www.algrop.net",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorantino%20Il%20Grop%20(Albergo%20Diffuso%20Zoncolan)%2C%20Via%20Vidrina%20di%20Chialina%2C%2031%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Ristorantino Il Grop offre cucina carnica genuina con menu legati alle stagioni e ingredienti di fornitori locali, servendo colazioni, pranzi e cene. L'atmosfera è accogliente, con splendide viste panoramiche e uno staff attento, parte integrante dell'Albergo Diffuso Zoncolan. Il locale è apprezzato per l'autenticità delle preparazioni e l'attenzione alla qualità.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Osteria Casali (Frazione Chialina)",
+      "address": "Via Carnia Libera, 74 - Chialina (UD) (Frazione di Ovaro)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Casali%20(Frazione%20Chialina)%2C%20Via%20Carnia%20Libera%2C%2074%20-%20Chialina%20(UD)%20(Frazione%20di%20Ovaro)",
+      "image_url": null,
+      "description": "Osteria storica situata nella frazione Chialina di Ovaro, Osteria Casali offre cucina friulana tradizionale con ricette semplici e autentiche. Rappresenta un punto di riferimento nella comunità locale, conservando la storia gastronomica della zona in un ambiente genuino.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    },
+    {
+      "name": "Osteria Al Portico",
+      "address": "Via Caduti II Maggio, 196 - 33025 Ovaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Portico%2C%20Via%20Caduti%20II%20Maggio%2C%20196%20-%2033025%20Ovaro%20(UD)",
+      "image_url": null,
+      "description": "Osteria Al Portico combina piatti della tradizione friulana con proposte a base di pesce, distinguendosi in una zona tipicamente legata alla cucina di montagna. L'atmosfera è medio-informale e il locale si propone come punto di riferimento per chi desidera assaggiare specialità di mare nella Carnia.",
+      "comune_name": "Ovaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ovaro.md"
+    }
+  ]
+}

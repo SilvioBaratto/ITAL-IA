@@ -1,0 +1,30 @@
+{
+  "comune_name": "Chiusaforte",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiusaforte.md",
+  "extracted_at": "2026-04-09T10:22:29.334Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Bartolomeo Apostolo — Chiusaforte (capoluogo)",
+      "address": "Via della Chiesa, Chiusaforte (UD)",
+      "website_url": "https://orarimesse.pmap.it/orariomesse/chiesa-di-san-bartolomeo-apostolo/15477",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Bartolomeo%20Apostolo%20%E2%80%94%20Chiusaforte%20(capoluogo)%2C%20Via%20della%20Chiesa%2C%20Chiusaforte%20(UD)",
+      "image_url": null,
+      "description": "La Chiesa di San Bartolomeo Apostolo è la parrocchiale principale di Chiusaforte, costruita tra il 1855 e il 1856 su progetto dell'architetto Bonini e consacrata ufficialmente nel 1906. L'edificio, in stile neoclassico, presenta una pianta a tre navate e ospita un ricco patrimonio artistico, tra cui una Via Crucis del 1619 e diverse pale d'altare di valore storico. Danneggiata dal terremoto del 1976, è stata restaurata e consolidata tra il 2006 e il 2008, continuando a rappresentare il centro spirituale della comunità.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiusaforte.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Paolo Apostolo — Raccolana (frazione di Chiusaforte)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Paolo%20Apostolo%20%E2%80%94%20Raccolana%20(frazione%20di%20Chiusaforte)%2C%20Chiusaforte",
+      "image_url": null,
+      "description": "Situata nella frazione di Raccolana, questa chiesa parrocchiale, dedicata a San Paolo Apostolo, riflette l'autonomia storica della comunità locale. L'edificio, semplice ma significativo, è inserito nel patrimonio culturale regionale del Friuli Venezia Giulia e rappresenta il fulcro spirituale e sociale della valle. Danneggiata dal sisma del 1976, la chiesa è stata parte del piano di ricostruzione post-terremoto ed è un'importante testimonianza della religiosità alpina friulana.",
+      "comune_name": "Chiusaforte",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/chiusaforte.md"
+    }
+  ]
+}

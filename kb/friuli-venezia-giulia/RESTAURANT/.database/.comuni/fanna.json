@@ -1,0 +1,52 @@
+{
+  "comune_name": "Fanna",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fanna.md",
+  "extracted_at": "2026-04-09T11:01:51.167Z",
+  "pois": [
+    {
+      "name": "Hotel Albergo Ristorante Al Giardino",
+      "address": "Via Circonvallazione Nuova, 3 – Fanna (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Albergo%20Ristorante%20Al%20Giardino%2C%20Via%20Circonvallazione%20Nuova%2C%203%20%E2%80%93%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "Hotel Al Giardino unisce ospitalità alberghiera e ristorazione di qualità, offrendo un ambiente accogliente con una sala interna elegante e una veranda esterna immersa nel verde. La cucina reinterpreta i piatti tradizionali friulani in chiave moderna, con menù stagionali basati su prodotti freschi locali. Il locale propone anche opzioni vegetariane e senza glutine, ed è ideale per eventi e cerimonie grazie allo spazio ampio e al giardino. La fascia di prezzo è medio-alta.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fanna.md"
+    },
+    {
+      "name": "Ristorante Edelweiss",
+      "address": "Via S.R. 464, n. 10 (Incrocio SP 39) – Fanna (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Edelweiss%2C%20Via%20S.R.%20464%2C%20n.%2010%20(Incrocio%20SP%2039)%20%E2%80%93%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "Ristorante Edelweiss è un locale storico di Fanna che propone la cucina regionale italiana con particolare attenzione alle specialità friulane. Apprezzato soprattutto da lavoratori e clienti di passaggio, offre a pranzo un menù fisso molto conveniente. L'atmosfera è autentica e familiare, ricorda quella di un'osteria di paese, e la fascia di prezzo è popolare.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fanna.md"
+    },
+    {
+      "name": "Pizzeria Macchero",
+      "address": "Via Monte Lieto, 81 – Fanna (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Macchero%2C%20Via%20Monte%20Lieto%2C%2081%20%E2%80%93%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria Macchero è conosciuta per l’ottima pizza, preparata con impasti ben lievitati e ingredienti di qualità, e per l’accoglienza cordiale dei proprietari. Oltre alle pizze classiche, sono molto apprezzati la pizza alla Nutella e i cannoli siciliani. A pranzo il forno della pizza è spento e vengono proposti piatti di pasta. Il locale gode di buone recensioni su diverse piattaforme.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fanna.md"
+    },
+    {
+      "name": "Pizzeria Da Nicola",
+      "address": "Via Monte Lieto, 81 – Fanna (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Nicola%2C%20Via%20Monte%20Lieto%2C%2081%20%E2%80%93%20Fanna%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria Da Nicola offre pizze in stile tradizionale italiano, risultando una scelta affidabile grazie alla buona reputazione tra i clienti locali e visitatori. Il locale mantiene gli elevati standard di qualità e cordialità tipici della ristorazione fannese e rappresenta un punto di riferimento per gli amanti della pizza a Fanna.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/fanna.md"
+    }
+  ]
+}

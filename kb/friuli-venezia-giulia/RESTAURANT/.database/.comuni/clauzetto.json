@@ -1,0 +1,52 @@
+{
+  "comune_name": "Clauzetto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/clauzetto.md",
+  "extracted_at": "2026-04-09T10:58:36.812Z",
+  "pois": [
+    {
+      "name": "Ristorante Ai Mulinars",
+      "address": "via della Val Cosa 83",
+      "website_url": "https://www.ristoranteaimulinars.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Ai%20Mulinars%2C%20via%20della%20Val%20Cosa%2083",
+      "image_url": null,
+      "description": "Ristorante Ai Mulinars è il locale più noto di Clauzetto, ospitato in un antico mulino ristrutturato lungo la valle della Cosa. La cucina è friulana autentica, con particolare attenzione alle specialità di selvaggina come cinghiale, capriolo e lepre, oltre a piatti come brovada, formaggi locali e polenta. L'atmosfera rustica e a conduzione familiare e la selezione di vini e grappe regionali rendono questo ristorante una meta apprezzata da residenti e visitatori. La posizione panoramica lo rende anche un punto di partenza ideale per escursioni alle vicine Grotte di Pradis.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Ristorante Albergo Bar Corona 2.0",
+      "address": "via Fabricio Gio Maria 20",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Albergo%20Bar%20Corona%202.0%2C%20via%20Fabricio%20Gio%20Maria%2020",
+      "image_url": null,
+      "description": "Corona 2.0 è una struttura polivalente situata nel centro di Clauzetto, che unisce ristorante, albergo e bar. Offre cucina tipica friulana con grande attenzione alla tradizione locale, in particolare il piatto simbolo 'balote', una palla di polenta con formaggio Asìno. L'atmosfera unisce elementi moderni e tradizionali ed è considerato una scelta affidabile sia per pasti che per pernottamenti.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Al Riul",
+      "address": "via Gerchia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Riul%2C%20via%20Gerchia",
+      "image_url": null,
+      "description": "Al Riul si trova nella frazione di Pradis di Sotto, a breve distanza dalle Grotte di Pradis. È un ristorante che propone cucina regionale friulana, con specialità come frico, prosciutto friulano e piatti a base di formaggio locale. Adatto per una sosta prima o dopo visite naturalistiche, si distingue per la valorizzazione della tradizione gastronomica montana.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Ristorante \"Il Furletto\"",
+      "address": "via Pradis di Sotto 101",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20%22Il%20Furletto%22%2C%20via%20Pradis%20di%20Sotto%20101",
+      "image_url": null,
+      "description": "Il Furletto è un piccolo ristorante di Clauzetto situato in via Pradis di Sotto 101. Sebbene le informazioni pubbliche siano scarse, rappresenta un'opzione aggiuntiva prevalentemente frequentata da residenti e visitatori della zona. Sembra essere a conduzione familiare, con un'offerta culinaria rivolta soprattutto alla clientela locale.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/clauzetto.md"
+    }
+  ]
+}

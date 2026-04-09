@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/staranzano.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Staranzano",
+  "province": "GO",
+  "page_title": "Staranzano",
+  "page_summary": "Guida ai principali locali di ristorazione del comune di Staranzano: pizzerie e paninoteche a gestione familiare, punti di riferimento per la cucina veloce e l'asporto.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/staranzano.md",
+  "processed_at": "2026-04-09T14:00:42.953Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/staranzano__0",
+      "text": "### Mamo Express di Massimo Brugnolo\n\n**Indirizzo:** Via Martiri della Libertà 61, 34079 Staranzano (GO)\n\nMamo Express è il punto di riferimento per la pizza e il cibo da asporto a Staranzano. Il locale è gestito da Massimo Brugnolo e si è guadagnato nel tempo la fiducia degli staranzanesi grazie alla costanza nella qualità e alla semplicità dell'offerta. Si tratta di un esercizio di tipo fast-food/pizzeria da asporto, popolare in particolare nelle ore di pranzo e di cena, quando i tempi di attesa possono allungarsi a testimonianza della richiesta locale.\n\nLe pizze sono il prodotto di punta: ben lievitate, con un impasto che i clienti abituali descrivono come gustoso e digeribile. Il locale non offre il servizio al tavolo in senso tradizionale, ma è un punto di riferimento comunitario, frequentato da famiglie, lavoratori e giovani del paese. In un contesto come quello di Staranzano — comune piccolo e privo di una grande offerta ristorativa — il Mamo Express riveste un ruolo sociale importante, essendo uno dei pochissimi esercizi attivi di ristorazione nel paese.\n\n**Fascia di prezzo:** € (economico, ideale per asporto)\n",
+      "metadata": {
+        "section_title": "Mamo Express di Massimo Brugnolo",
+        "links": [],
+        "addresses": [
+          "Via Martiri della Libertà 61, 34079 Staranzano (GO)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (economico, ideale per asporto)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/staranzano__1",
+      "text": "### Lido di Tognon Paolo\n\n**Indirizzo:** Via Cesare Battisti 64, 34079 Staranzano (GO)\n\nSituato lungo una delle vie principali del comune, il Lido di Tognon Paolo è un locale di tipo bar/paninoteca che offre panini, patatine e bevande. È frequentato dalla clientela locale come punto di ristoro rapido, particolarmente apprezzato per la qualità dei panini, confezionati con ingredienti freschi. Chi lo frequenta sottolinea la bontà dei prodotti, anche se l'organizzazione interna può risultare a volte meno efficiente nei momenti di maggiore afflusso.\n\nQuesto tipo di locale — il classico bar con cucina leggera — è molto radicato nella cultura conviviale del Friuli Venezia Giulia, dove l'osmiza e il buffet hanno da sempre avuto un ruolo di aggregazione sociale. Il Lido di Tognon Paolo si inserisce in questa tradizione, offrendo un punto di incontro per gli staranzanesi.\n\n**Fascia di prezzo:** € (economico)\n",
+      "metadata": {
+        "section_title": "Lido di Tognon Paolo",
+        "links": [],
+        "addresses": [
+          "Via Cesare Battisti 64, 34079 Staranzano (GO)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (economico)"
+      }
+    }
+  ]
+}

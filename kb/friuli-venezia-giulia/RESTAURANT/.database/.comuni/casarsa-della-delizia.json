@@ -1,0 +1,85 @@
+{
+  "comune_name": "Casarsa della Delizia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md",
+  "extracted_at": "2026-04-09T10:56:48.130Z",
+  "pois": [
+    {
+      "name": "Osteria Friul",
+      "address": "Via S. Biasutti, 51",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Friul%2C%20Via%20S.%20Biasutti%2C%2051",
+      "image_url": null,
+      "description": "Osteria Friul è un punto di riferimento a Casarsa della Delizia per la cucina friulana autentica. Il locale offre piatti tipici del territorio come petto d'oca, capriolo e antipasti a base di lardo, oltre a dolci come la millefoglie e il gelato artigianale. Accogliente e calorosa, propone anche opzioni per celiaci e vegetariani e vanta una selezione di vini regionali. L'atmosfera conserva lo spirito genuino dell'osteria friulana.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Il Novecento Ristorante Hotel",
+      "address": "Via Gino Menotti, 62",
+      "website_url": "https://www.900casarsa.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Novecento%20Ristorante%20Hotel%2C%20Via%20Gino%20Menotti%2C%2062",
+      "image_url": null,
+      "description": "Il Novecento è un elegante ristorante e pizzeria situato nel centro di Casarsa della Delizia, parte di un hotel tre stelle. Il menù bilancia tradizione friulana e innovazione, con ingredienti di qualità e piatti sia di pesce che pizze cotte a legna. Apprezzato per l'atmosfera raffinata e ideale per cene romantiche o d'affari, è posizionato tra i locali migliori del comune secondo TripAdvisor.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Ristorante Al Posta",
+      "address": "Via Valvasone, 12/14",
+      "website_url": "https://www.unpostoatavola.it/AL_POSTA_CASARSA/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Posta%2C%20Via%20Valvasone%2C%2012%2F14",
+      "image_url": null,
+      "description": "Ristorante Al Posta ha una lunga storia che risale al 1816, originariamente come locanda per le poste imperiali. Oggi è noto come il miglior ristorante di Casarsa su TripAdvisor, con cucina friulana tradizionale, pizze, piatti di pesce, e specialità anche per vegetariani e celiaci. L'atmosfera conserva memorie storiche e l’offerta si completa con una sezione hotel e pizzeria.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Ristorante Campiello",
+      "address": "Viale Venezia, 46",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Campiello%2C%20Viale%20Venezia%2C%2046",
+      "image_url": null,
+      "description": "Ristorante Campiello, attivo dal 1990, si distingue per il suo menù innovativo centrato sulle specialità di pesce. La cucina reinterpreta con creatività le tradizioni friulane, con un equilibrio tra passato e presente e particolare attenzione alla qualità degli ingredienti. L’ambiente accogliente e raffinato lo rende adatto a occasioni speciali.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Pizza Panuozzi & Sfizi",
+      "address": "Via XXIV Maggio, 33",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Panuozzi%20%26%20Sfizi%2C%20Via%20XXIV%20Maggio%2C%2033",
+      "image_url": null,
+      "description": "Pizza Panuozzi & Sfizi è una delle pizzerie storiche di Casarsa della Delizia, rinomata per la cura nella scelta degli ingredienti e la passione per la pizza. Il locale propone ricette tradizionali friulane e italiane, mantenendo un legame forte con il territorio.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "PizziCotto",
+      "address": "Piazza Italia, 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=PizziCotto%2C%20Piazza%20Italia%2C%203",
+      "image_url": null,
+      "description": "PizziCotto è una pizzeria che offre anche il servizio di consegna a domicilio a Casarsa della Delizia. È apprezzata per le pizze classiche e creative preparate con ingredienti selezionati, rappresentando una soluzione ideale per chi cerca qualità e comodità.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Win Win S.r.l. (Dolomiti)",
+      "address": "Viale Venezia, 76",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Win%20Win%20S.r.l.%20(Dolomiti)%2C%20Viale%20Venezia%2C%2076",
+      "image_url": null,
+      "description": "Win Win S.r.l., conosciuta anche come Dolomiti, è una delle migliori pizzerie di Casarsa della Delizia. Il locale si distingue per l'elevata qualità delle materie prime e per la costante ricerca dell'eccellenza nella preparazione delle pizze.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/casarsa-della-delizia.md"
+    }
+  ]
+}

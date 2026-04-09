@@ -1,0 +1,63 @@
+{
+  "comune_name": "Bicinicco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bicinicco.md",
+  "extracted_at": "2026-04-09T10:34:59.721Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Sant'Urbano Papa",
+      "address": null,
+      "website_url": "https://www.diocesiudine.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Sant'Urbano%20Papa%2C%20Bicinicco",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Bicinicco è dedicata a Sant'Urbano Papa, un santo poco comune nella regione, e riflette la lunga tradizione religiosa del territorio. L'edificio presenta impianto cinquecentesco, con rilevanti rimaneggiamenti settecenteschi e novecenteschi, e si distingue per la sobria facciata affacciata sulla piazza centrale e per il campanile di riferimento nel paesaggio. All'interno sono conservati altari in stucco, una pala d'altare settecentesca e arredi lignei fine Settecento. La chiesa è testimonianza della continuità della vita religiosa rurale e conserva decorazioni barocche e neoclassiche.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Oratorio Campestre della Madonna (o Cappella Votiva)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20Campestre%20della%20Madonna%20(o%20Cappella%20Votiva)%2C%20Bicinicco",
+      "image_url": null,
+      "description": "Questo oratorio campestre, tipico della pianura friulana, fu costruito tra XVIII e XIX secolo come luogo di devozione e protezione dei raccolti. Le cappelle votive, spesso situate presso incroci o confini agricoli, rappresentano un elemento diffuso della cultura rurale locale. Conservano talvolta modesti affreschi di valore etnografico e la loro manutenzione è affidata alla comunità. Sono esempio della religiosità popolare e della memoria collettiva della campagna friulana.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Monumento ai Caduti della Prima e Seconda Guerra Mondiale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%20della%20Prima%20e%20Seconda%20Guerra%20Mondiale%2C%20Bicinicco",
+      "image_url": null,
+      "description": "Il monumento ai caduti di Bicinicco, situato tradizionalmente in piazza o presso il sagrato, commemora i cittadini del paese caduti durante le due guerre mondiali. Realizzato nel primo dopoguerra e successivamente integrato, presenta iscrizioni con i nomi dei caduti e strutture tipiche del monumentalismo dell'epoca. Rappresenta un'importante memoria collettiva per la comunità e documenta la storia demografica e i sacrifici delle piccole località della pianura friulana.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Villa Padronale Rurale (Edificio di Pregio Storico nel Centro Abitato)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Padronale%20Rurale%20(Edificio%20di%20Pregio%20Storico%20nel%20Centro%20Abitato)%2C%20Bicinicco",
+      "image_url": null,
+      "description": "Le ville padronali rurali di Bicinicco, costruite tra il Settecento e l'Ottocento, testimoniano la presenza storica di grandi proprietà agrarie. Questi edifici, con portali in pietra, logge e dettagli architettonici di pregio, non sono normalmente aperti al pubblico ma contribuiscono a disegnare il paesaggio storico ed economico del comune. Offrono una lettura visiva dell'organizzazione fondiaria e della stratificazione sociale della pianura friulana tra antico regime e modernità.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Territorio Agricolo Storico e Rete Idrica Tradizionale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Territorio%20Agricolo%20Storico%20e%20Rete%20Idrica%20Tradizionale%2C%20Bicinicco",
+      "image_url": null,
+      "description": "Il paesaggio agricolo di Bicinicco è contraddistinto da una rete storica di canali e fossi, risultato di secoli di interventi idraulici a partire dall'epoca veneziana. Questo paesaggio culturale, caratterizzato da campi, strade campestri, filari e corti rurali, testimonia la storia agraria della regione e rappresenta un archivio vivente della civiltà agricola friulana. È un luogo di grande valore storico-ambientale, autentico e poco influenzato dal turismo di massa.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/bicinicco.md"
+    }
+  ]
+}

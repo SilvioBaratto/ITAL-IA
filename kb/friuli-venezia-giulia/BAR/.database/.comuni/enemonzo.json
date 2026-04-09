@@ -1,0 +1,30 @@
+{
+  "comune_name": "Enemonzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/enemonzo.md",
+  "extracted_at": "2026-04-09T10:12:56.900Z",
+  "pois": [
+    {
+      "name": "Birrificio Casamatta",
+      "address": "Quinis (frazione di Enemonzo) — Via di Sotto, 5 — 33020 Enemonzo (UD)",
+      "website_url": "https://www.birracasamatta.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birrificio%20Casamatta%2C%20Quinis%20(frazione%20di%20Enemonzo)%20%E2%80%94%20Via%20di%20Sotto%2C%205%20%E2%80%94%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Il Birrificio Casamatta, situato nella frazione di Quinis, è un punto di riferimento per gli amanti della birra artigianale in Carnia. Noto per la qualità delle sue birre, spesso ispirate alle erbe e alle tradizioni locali, offre una taproom dall'atmosfera schietta e conviviale. Le produzioni, molte delle quali dedicate alla Carnia, ruotano stagionalmente e sono spesso degustate in compagnia di escursionisti e residenti. La sua posizione e l'atmosfera familiare lo rendono una meta ideale per un autentico aperitivo friulano.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Al Vecchio Forno",
+      "address": "Via Nazionale, 85 — 33020 Enemonzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Vecchio%20Forno%2C%20Via%20Nazionale%2C%2085%20%E2%80%94%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "Al Vecchio Forno è un panificio storico situato lungo la via principale di Enemonzo, che funge anche da caffetteria di vicinato. Oltre al pane cotto a legna e ai dolci tradizionali, qui si può gustare un caffè veloce al banco, punto d’incontro mattutino per paesani e residenti. Il locale rappresenta la tipica polivalenza dei piccoli esercizi carnici, offrendo prodotti da forno e un’accoglienza genuina in un’atmosfera semplice e famigliare.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/enemonzo.md"
+    }
+  ]
+}

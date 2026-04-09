@@ -1,0 +1,96 @@
+{
+  "comune_name": "Lusevera",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md",
+  "extracted_at": "2026-04-09T11:05:17.392Z",
+  "pois": [
+    {
+      "name": "Trattoria Alle Sorgenti",
+      "address": "Località Musi, 1",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alle%20Sorgenti%2C%20Localit%C3%A0%20Musi%2C%201",
+      "image_url": null,
+      "description": "Situata nella suggestiva località Musi, nel cuore delle montagne vicino al confine sloveno, la Trattoria Alle Sorgenti offre un'esperienza di cucina casalinga autentica, gestita dalla famiglia Benegas. Il menu spicca per gli gnocchi preparati secondo la ricetta tradizionale della nonna e include piatti arricchiti da erbe spontanee della valle e influenze sudamericane. L'atmosfera è intima, impreziosita da una terrazza panoramica, e la struttura dispone di camere per soggiorni immersi nella natura. È molto apprezzata su TripAdvisor, con una valutazione di 4,5 su 5.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "Ai Templari",
+      "address": "Frazione Villanova Grotte, 2",
+      "website_url": "http://www.aitemplari.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Templari%2C%20Frazione%20Villanova%20Grotte%2C%202",
+      "image_url": null,
+      "description": "Ai Templari è una trattoria a conduzione familiare a Villanova Grotte, famosa per il forte legame con la tradizione locale e la vicinanza alle Grotte di Villanova. Propone menù tipici regionali con piatti come l'ocikana, risotti di erbe stagionali e gnocchi di ricotta con pitina, accompagnati da vini della zona. La trattoria offre anche alloggio in camere moderne, un ampio giardino e spazi per famiglie, creando un'esperienza completa di accoglienza e cucina tipica friulana.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "Bar Trattoria Terminal Grotte",
+      "address": "Frazione Villanova Delle Grotte",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Terminal%20Grotte%2C%20Frazione%20Villanova%20Delle%20Grotte",
+      "image_url": null,
+      "description": "Il Bar Trattoria Terminal Grotte si trova di fronte al centro visitatori delle celebri grotte di Villanova. Il locale offre un'atmosfera semplice e accogliente, con una veranda panoramica sulla valle e le montagne. Qui si serve l'ocikana secondo la ricetta tradizionale e, su prenotazione, anche cucina thai, mantenendo uno stretto legame con la gastronomia locale friulana. È ben valutato su TripAdvisor per l'autenticità e la tranquillità della proposta culinaria.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "Trattoria Ai Ciclamini",
+      "address": "Pian dei Ciclamini",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Ai%20Ciclamini%2C%20Pian%20dei%20Ciclamini",
+      "image_url": null,
+      "description": "Trattoria Ai Ciclamini è un albergo-trattoria a gestione familiare situato nella località escursionistica di Pian dei Ciclamini, ideale per una sosta durante le attività all'aperto. Gestita da tre sorelle, si distingue per l'ospitalità calorosa e l'attenzione ai piatti tipici della valle. La struttura offre servizi per famiglie, comprese attrezzature per bambini, e rappresenta un punto di riferimento per chi visita la zona.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "Bar Trattoria Sempre Sarà Stefanutti",
+      "address": "Frazione Vedronza",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Sempre%20Sar%C3%A0%20Stefanutti%2C%20Frazione%20Vedronza",
+      "image_url": null,
+      "description": "Il Bar Trattoria Sempre Sarà Stefanutti, situato a Vedronza, è rinomato per la sua specializzazione nei piatti a base di trota, pescata nelle acque limpide della valle del Torre. Il locale offre una cucina tradizionale che valorizza il pesce d'acqua dolce locale, offrendo un'alternativa ai classici piatti di terra che caratterizzano il territorio.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "La Zucule Di Negro Renato E Danilo",
+      "address": "Frazione Villanova Delle Grotte, 57",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Zucule%20Di%20Negro%20Renato%20E%20Danilo%2C%20Frazione%20Villanova%20Delle%20Grotte%2C%2057",
+      "image_url": null,
+      "description": "La Zucule Di Negro Renato E Danilo è un ristorante che propone cucina tradizionale locale nella frazione di Villanova Delle Grotte. Il nome richiama le radici dialettali della valle, e il locale viene riconosciuto per l'autenticità della sua offerta gastronomica.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "Bar Do/Nova Coop",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Do%2FNova%20Coop%2C%20Lusevera",
+      "image_url": null,
+      "description": "Bar Do/Nova Coop è un bar con cucina situato nel centro di Lusevera. Offre un servizio di ristorazione informale ed è considerato un punto di riferimento quotidiano sia per la comunità locale che per i visitatori del paese.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    },
+    {
+      "name": "Allo Skarific Di Pradielis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Allo%20Skarific%20Di%20Pradielis%2C%20Lusevera",
+      "image_url": null,
+      "description": "Allo Skarific Di Pradielis si trova nella frazione omonima e propone piatti della tradizione della valle. È un punto ristoro tipico del territorio, apprezzato da chi cerca cucina schiettamente locale.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/lusevera.md"
+    }
+  ]
+}

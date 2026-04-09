@@ -1,0 +1,74 @@
+{
+  "comune_name": "Sequals",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md",
+  "extracted_at": "2026-04-09T11:19:39.187Z",
+  "pois": [
+    {
+      "name": "Trattoria al Forno",
+      "address": "Piazza del Municipio, 3 – 33090 Sequals (PN)",
+      "website_url": "https://www.facebook.com/Trattoria-Al-Forno-835590146813779/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Forno%2C%20Piazza%20del%20Municipio%2C%203%20%E2%80%93%2033090%20Sequals%20(PN)",
+      "image_url": null,
+      "description": "Situata nel cuore del paese, la Trattoria al Forno è un punto di riferimento con cucina friulana tradizionale preparata con ingredienti freschi e un’atmosfera da classica trattoria di paese. Gestita da Maurizio Cesaratto, propone piatti come minestre di orzo e fagioli, zuppe di verdure, carne alla brace e secondi a base di maiale accompagnati da polenta. L’ambiente è semplice e familiare, ideale per una sosta durante l’esplorazione dei borghi pedemontani.",
+      "comune_name": "Sequals",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md"
+    },
+    {
+      "name": "Al Fogolâr da Mander",
+      "address": "Via Giuseppe Garibaldi, 5 – 33090 Solimbergo, Sequals (PN)",
+      "website_url": "https://www.facebook.com/alfogolardamander",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Fogol%C3%A2r%20da%20Mander%2C%20Via%20Giuseppe%20Garibaldi%2C%205%20%E2%80%93%2033090%20Solimbergo%2C%20Sequals%20(PN)",
+      "image_url": null,
+      "description": "Al Fogolâr da Mander, nella frazione di Solimbergo, è un ristorante rinomato per la sua cucina friulana con speciale attenzione alle carni, gestito dalla famiglia Mander. Il locale offre ambiente informale, barbecue, servizio bar, piatti da asporto e accessibilità anche per bambini e disabili. La proposta comprende grigliate di carni miste, salumi locali, polenta con spezzatino e primi piatti della tradizione, in un’atmosfera rurale accogliente.",
+      "comune_name": "Sequals",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md"
+    },
+    {
+      "name": "Ristorantino Terramare",
+      "address": "Via Odorico O., 1 – 33090 Sequals (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorantino%20Terramare%2C%20Via%20Odorico%20O.%2C%201%20%E2%80%93%2033090%20Sequals%20(PN)",
+      "image_url": null,
+      "description": "Il Ristorantino Terramare si distingue per le proposte di cucina italiana che abbracciano specialità di terra e di mare, con una formula versatile che include brunch, asporto, tavoli all’aperto e spazi accessibili. Aperto pranzo e cena dal martedì alla domenica, è apprezzato per l’ampia fascia oraria e l'atmosfera rilassata, con una clientela che va dagli abitanti locali ai giovani di passaggio. Offre un’esperienza diversa dalla tipica trattoria, anche grazie ai suoi servizi moderni.",
+      "comune_name": "Sequals",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md"
+    },
+    {
+      "name": "Cantina al Bottegon – Teodora",
+      "address": "Via Facchina Gian D., 13 – 33090 Sequals (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cantina%20al%20Bottegon%20%E2%80%93%20Teodora%2C%20Via%20Facchina%20Gian%20D.%2C%2013%20%E2%80%93%2033090%20Sequals%20(PN)",
+      "image_url": null,
+      "description": "La Cantina al Bottegon, nota anche come Teodora, perpetua la tradizione delle antiche osterie di campagna friulana, offrendo principalmente vini locali e piccola ristorazione tipica. Il locale è un punto di riferimento per chi cerca l’atmosfera autentica del paese, ideale per gustare un bicchiere di Merlot o Refosco accompagnato da prodotti tipici in un ambiente discreto e conviviale.",
+      "comune_name": "Sequals",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md"
+    },
+    {
+      "name": "Pizzeria Leone di Damasco",
+      "address": "Via Dante Alighieri, 3 – 33090 Lestans, Sequals (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Leone%20di%20Damasco%2C%20Via%20Dante%20Alighieri%2C%203%20%E2%80%93%2033090%20Lestans%2C%20Sequals%20(PN)",
+      "image_url": null,
+      "description": "La Pizzeria Leone di Damasco, nella frazione di Lestans, vanta ottime recensioni e una proposta di pizze artigianali, incluse opzioni per celiaci, preparate con farine selezionate. Il menù si arricchisce di piatti di carne, pesce e dolci fatti in casa, oltre a una selezione di birre artigianali e vini. L’ambiente è familiare e accogliente, con servizio di consegna a domicilio e un’atmosfera genuina che la rende molto apprezzata in zona.",
+      "comune_name": "Sequals",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md"
+    },
+    {
+      "name": "Tenuta Fernanda Cappello",
+      "address": "Strada di Sequals – 33090 Sequals (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tenuta%20Fernanda%20Cappello%2C%20Strada%20di%20Sequals%20%E2%80%93%2033090%20Sequals%20(PN)",
+      "image_url": null,
+      "description": "Tenuta Fernanda Cappello unisce produzione agricola e ristorazione, offrendo una cucina italiana con attenzione alla tradizione locale e prenotazione online tramite TheFork. La struttura, immersa nel paesaggio agri-viticolo friulano, propone menù accessibili intorno ai 20 euro a persona e rappresenta una tappa ideale per itinerari enogastronomici nella Pedemontana pordenonese.",
+      "comune_name": "Sequals",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sequals.md"
+    }
+  ]
+}

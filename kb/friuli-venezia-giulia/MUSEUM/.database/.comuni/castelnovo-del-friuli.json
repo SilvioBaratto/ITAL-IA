@@ -1,0 +1,19 @@
+{
+  "comune_name": "Castelnovo del Friuli",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/castelnovo-del-friuli.md",
+  "extracted_at": "2026-04-09T10:44:14.065Z",
+  "pois": [
+    {
+      "name": "Raccolta Archeologica di Villa Sulis — Scodelle. La ceramica di Castelnovo del Friuli",
+      "address": "Costa, Castelnovo del Friuli (PN) — Via Villa Sulis (frazione Costa)",
+      "website_url": "https://raccoltavillasulis.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Raccolta%20Archeologica%20di%20Villa%20Sulis%20%E2%80%94%20Scodelle.%20La%20ceramica%20di%20Castelnovo%20del%20Friuli%2C%20Costa%2C%20Castelnovo%20del%20Friuli%20(PN)%20%E2%80%94%20Via%20Villa%20Sulis%20(frazione%20Costa)",
+      "image_url": null,
+      "description": "La Raccolta Archeologica di Villa Sulis è ospitata in una villa storica seicentesca nella frazione di Costa e rappresenta il principale polo culturale del comune. Accoglie un'importante collezione di oltre 5.000 frammenti di ceramica rinascimentale, testimoniando la tradizione locale dei cosiddetti Magistri Scodelari del Cinquecento. Le esposizioni illustrano sia gli oggetti finiti che gli scarti di lavorazione, offrendo uno sguardo unico sulla produzione artigianale dell'area nel XVI secolo. Il museo propone anche iniziative didattiche e culturali, ha ingresso gratuito o a offerta libera e gestisce un ricco programma di attività per scuole e famiglie.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/castelnovo-del-friuli.md"
+    }
+  ]
+}

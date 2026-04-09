@@ -1,0 +1,85 @@
+{
+  "comune_name": "Castions di Strada",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md",
+  "extracted_at": "2026-04-09T10:57:20.522Z",
+  "pois": [
+    {
+      "name": "Trattoria Levade",
+      "address": "Via Latisana, 64 - 33050 Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Levade%2C%20Via%20Latisana%2C%2064%20-%2033050%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Levade, attiva dal 1979, è una rosticceria-trattoria nota per la specializzazione nella carne alla griglia e un’atmosfera tipicamente di paese. Il locale offre piatti tradizionali friulani come costine grigliate, spiedini misti e salsicce locali, insieme a verdure stagionali, il tutto a prezzi contenuti. È un punto di ritrovo per chi cerca cucina genuina e semplice, con una filosofia che punta sulla qualità degli ingredienti e sul rispetto delle tradizioni locali.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Trattoria Chiosco Paradiso",
+      "address": "Località Bivio Paradiso - Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Chiosco%20Paradiso%2C%20Localit%C3%A0%20Bivio%20Paradiso%20-%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Chiosco Paradiso, fondato nel 1959, offre un’esperienza autentica della cucina friulana in un contesto semplice e accogliente. La specialità del locale è il baccalà alla friulana, oltre a piatti della tradizione come pasta e fagioli e trippa preparate secondo ricette tramandate. Il locale si trova in una posizione storica di passaggio ed è noto per la sua gestione familiare e la chiusura settimanale il giovedì.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Ristorante La Rucola",
+      "address": "Via D.da Tolmezzo, 8 - Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Rucola%2C%20Via%20D.da%20Tolmezzo%2C%208%20-%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Ristorante La Rucola propone una cucina friulana rivisitata in chiave moderna, con particolare attenzione alla stagionalità e all’estetica dei piatti. Il menu offre soluzioni per celiaci e vegetariani, mantenendo il legame con i prodotti e i sapori della tradizione. L’ambiente è curato e raffinato, adatto a chi desidera scoprire una versione attuale della cucina locale.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Agriturismo D'Ambrosio Giona",
+      "address": "Via Giuseppe Mazzini, 3 - Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20D'Ambrosio%20Giona%2C%20Via%20Giuseppe%20Mazzini%2C%203%20-%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo D'Ambrosio Giona offre una ristorazione rurale genuina, centrata sui piatti fatti in casa secondo le antiche ricette friulane. Qui si possono gustare pasta fresca, ragù e specialità che seguono la stagionalità dei prodotti. L’atmosfera conviviale e la filosofia contadina rendono questo locale ideale per chi apprezza la cucina autentica della tradizione friulana.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Agriturismo Il Picchio",
+      "address": "Via Nazionale, 3 - Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Il%20Picchio%2C%20Via%20Nazionale%2C%203%20-%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Il Picchio propone la cucina tradizionale friulana in un contesto rurale e familiare. Pur con informazioni limitate, si distingue per l’integrazione dell’attività agricola con la ristorazione, offrendo ai visitatori un’esperienza di campagna autentica nel rispetto delle tradizioni locali.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Ristorante Napoleone",
+      "address": "Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Napoleone%2C%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Napoleone è noto per l’attenzione alle carni di qualità, provenienti dall’azienda familiare, e per la cucina tradizionale friulana, con arrosti, carni grigliate e alcune proposte di pesce. Il locale offre anche la pizza, in un ambiente raffinato con un bel giardino esterno adatto alle cene estive. L’atmosfera è familiare e ben curata.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Trattoria da Nando e Mauro Anna Maria (Cengarle)",
+      "address": "Frazione Cengarle - Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Nando%20e%20Mauro%20Anna%20Maria%20(Cengarle)%2C%20Frazione%20Cengarle%20-%20Castions%20di%20Strada%20(UD)",
+      "image_url": null,
+      "description": "Questa piccola osteria nella frazione di Cengarle rappresenta la ristorazione di villaggio friulana, con piatti preparati secondo le ricette tradizionali e ingredienti locali. L’atmosfera è intima e genuina, apprezzata dai residenti per la semplicità della cucina e l’autenticità dell’esperienza.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castions-di-strada.md"
+    }
+  ]
+}

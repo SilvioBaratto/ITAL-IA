@@ -1,0 +1,52 @@
+{
+  "comune_name": "Resia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/resia.md",
+  "extracted_at": "2026-04-09T11:15:03.434Z",
+  "pois": [
+    {
+      "name": "Osteria alla Speranza",
+      "address": "Via Prato 3, Resia (33010)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20alla%20Speranza%2C%20Via%20Prato%203%2C%20Resia%20(33010)",
+      "image_url": null,
+      "description": "Osteria alla Speranza è il principale punto di riferimento per la cucina tradizionale resiana e friulana nella frazione di Prato, sede comunale di Resia. Offre piatti locali come formaggio resiano, minestre di verdure, selvaggina in umido e polenta cucinata secondo tradizione, in un ambiente rustico e familiare. Il locale è frequentato sia dagli abitanti della valle sia dagli escursionisti, ed è molto accessibile nei prezzi. L'atmosfera conviviale e l'attenzione al territorio rendono l'osteria un luogo autentico per scoprire la cultura alpina minoritaria.",
+      "comune_name": "Resia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/resia.md"
+    },
+    {
+      "name": "Baita Al Taj — Punto di Ristoro in Val Resia (Stavoli Gnivizza)",
+      "address": "Stavoli Gnivizza, Resia (33010)",
+      "website_url": "https://www.facebook.com/baita.al.taj.carnizza/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Baita%20Al%20Taj%20%E2%80%94%20Punto%20di%20Ristoro%20in%20Val%20Resia%20(Stavoli%20Gnivizza)%2C%20Stavoli%20Gnivizza%2C%20Resia%20(33010)",
+      "image_url": null,
+      "description": "La Baita Al Taj sorge in uno stavolo resiano recuperato presso Gnivizza, conservando l'atmosfera dei tradizionali casali d'alpeggio della valle. Propone una cucina resiana espressa, con prodotti biologici locali come formaggi artigianali, salumi, polenta e zuppe di montagna. Il ristoro stagionale è particolarmente apprezzato da escursionisti e ciclisti, dispone di posti a sedere all'esterno con vista panoramica sulle Prealpi Giulie ed è aperto prevalentemente durante la bella stagione. Si distingue per la filiera corta e l'autenticità dei piatti offerti.",
+      "comune_name": "Resia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/resia.md"
+    },
+    {
+      "name": "Baita al Botton d'Oro",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Baita%20al%20Botton%20d'Oro%2C%20Resia",
+      "image_url": null,
+      "description": "La Baita al Botton d'Oro è una struttura di ristoro stagionale in stile alpino nel territorio di Resia, attiva principalmente durante l'estate. Offre prodotti genuini dell'alpeggio locale come formaggi, taglieri e polenta, immersa in un ambiente rustico e naturale. È un punto di riferimento per gli escursionisti e mantiene viva la tradizione pastorale resiana attraverso la cucina semplice e autentica.",
+      "comune_name": "Resia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/resia.md"
+    },
+    {
+      "name": "Un ristorante nell'area di Gniva/Stolvizza",
+      "address": "Via Flavia, Resia (area Gniva-Stolvizza)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Un%20ristorante%20nell'area%20di%20Gniva%2FStolvizza%2C%20Via%20Flavia%2C%20Resia%20(area%20Gniva-Stolvizza)",
+      "image_url": null,
+      "description": "Nella zona tra Gniva e Stolvizza si trova un locale di ristorazione su Via Flavia, segnalato come punto di ristoro per abitanti e visitatori. La frazione è frequentata da escursionisti e alpinisti diretti alle cime circostanti e il ristorante serve la comunità locale e i turisti estivi. Per dettagli su menù e aperture è necessario contattare direttamente il locale.",
+      "comune_name": "Resia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/resia.md"
+    }
+  ]
+}

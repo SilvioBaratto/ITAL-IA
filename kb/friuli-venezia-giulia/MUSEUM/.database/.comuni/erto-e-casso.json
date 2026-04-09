@@ -1,0 +1,41 @@
+{
+  "comune_name": "Erto e Casso",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/erto-e-casso.md",
+  "extracted_at": "2026-04-09T10:47:22.325Z",
+  "pois": [
+    {
+      "name": "Centro Visite di Erto — Mostra Permanente sul Vajont",
+      "address": "Piazza del Comune / centro del borgo di Erto, 33080 Erto e Casso (PN)",
+      "website_url": "http://www.comune.ertoecasso.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Visite%20di%20Erto%20%E2%80%94%20Mostra%20Permanente%20sul%20Vajont%2C%20Piazza%20del%20Comune%20%2F%20centro%20del%20borgo%20di%20Erto%2C%2033080%20Erto%20e%20Casso%20(PN)",
+      "image_url": null,
+      "description": "Il Centro Visite di Erto è la principale istituzione museale del comune e offre una mostra permanente dedicata al disastro del Vajont. L'esposizione racconta la storia della diga, la tragedia del 1963 e le conseguenze sulla comunità locale tramite documenti storici, fotografie e materiali audiovisivi. Particolare attenzione è data alle testimonianze degli abitanti e alla loro esperienza di resistenza e memoria. L'ingresso è generalmente gratuito o a offerta libera, con orari stagionali.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Il Borgo di Erto — Monumento Nazionale e Museo Diffuso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Borgo%20di%20Erto%20%E2%80%94%20Monumento%20Nazionale%20e%20Museo%20Diffuso%2C%20Erto%20e%20Casso",
+      "image_url": null,
+      "description": "Il borgo di Erto è riconosciuto come museo diffuso e monumento nazionale per il suo impianto urbanistico medievale e l'architettura in pietra locale. Camminando tra vicoli e corti storiche, il visitatore scopre antiche case, portici, loggiati e elementi dell'economia agro-pastorale scomparsa. L'intero abitato è un documento vivente della cultura montana e dell'identità ladina e friulana, conservatosi grazie al parziale abbandono del Novecento.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Casso — Belvedere sulla Frana e Patrimonio Architettonico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casso%20%E2%80%94%20Belvedere%20sulla%20Frana%20e%20Patrimonio%20Architettonico%2C%20Erto%20e%20Casso",
+      "image_url": null,
+      "description": "Casso, frazione di Erto e Casso, offre il punto panoramico più significativo sul luogo della frana del Vajont e testimonia il valore architettonico del borgo storico. Il piccolo nucleo abitato conserva antiche costruzioni in pietra e la chiesa di Sant'Antonio, integrandosi nel monumento nazionale riconosciuto al comprensorio. L'esperienza include anche un percorso escursionistico che unisce memoria storica, paesaggio e architettura rurale.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/erto-e-casso.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Dolegna del Collio",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dolegna-del-collio.md",
+  "extracted_at": "2026-04-09T10:46:58.956Z",
+  "pois": [
+    {
+      "name": "Villa Zorutti-Frisacco — Lonzano del Collio",
+      "address": null,
+      "website_url": "http://www.comune.dolegnadelcollio.go.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Zorutti-Frisacco%20%E2%80%94%20Lonzano%20del%20Collio%2C%20Dolegna%20del%20Collio",
+      "image_url": null,
+      "description": "La Villa Zorutti-Frisacco è la casa natale del poeta Pietro Zorutti, principale figura letteraria friulana dell'Ottocento. Si tratta di una villa settecentesca in frazione Lonzano, incastellata sulla collina, con solai in legno e un giardino dove si conservano gelsi storici. Pur essendo una proprietà privata non aperta come museo, il sito rappresenta un importante luogo della memoria letteraria friulana e viene valorizzato in occasione di eventi culturali locali.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Castello di Trussio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Trussio%2C%20Dolegna%20del%20Collio",
+      "image_url": null,
+      "description": "Il Castello di Trussio, risalente al XIII secolo, è la principale eredità monumentale di Dolegna del Collio. Sorto in posizione strategica sul torrente Judrio, conserva i resti di due torrioni e imponenti mura, testimonianza della storia feudale del territorio. Oggi è in proprietà privata e non visitabile come museo, ma la sua sagoma è diventata l'emblema visivo del comune.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/dolegna-del-collio.md"
+    }
+  ]
+}

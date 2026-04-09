@@ -1,0 +1,74 @@
+{
+  "comune_name": "Fagagna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md",
+  "extracted_at": "2026-04-09T10:13:22.996Z",
+  "pois": [
+    {
+      "name": "Caffè Centrale",
+      "address": "Via Umberto I, 55 – 33034 Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Centrale%2C%20Via%20Umberto%20I%2C%2055%20%E2%80%93%2033034%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "Il Caffè Centrale è un locale storico situato nel cuore di Fagagna lungo la via principale. È il punto di riferimento per la colazione e il caffè quotidiano, tipico bar di paese frequentato fin dalle prime ore del mattino. Offre un ambiente autentico dove vivere la quotidianità del borgo, con un menù che spazia dal caffè ai panini passando per gli aperitivi. Ideale per immergersi nell’atmosfera locale e sentirsi parte della comunità fagagnese.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md"
+    },
+    {
+      "name": "Bar Cadore",
+      "address": "Via Umberto I, 112 – 33034 Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Cadore%2C%20Via%20Umberto%20I%2C%20112%20%E2%80%93%2033034%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "Bar Cadore è un luogo storico a gestione familiare situato sull’arteria principale del paese. L’atmosfera è informale e accogliente, con una clientela locale affezionata che vi si reca abitualmente per la colazione o una sosta durante una passeggiata. La tradizione friulana della conduzione familiare si rispecchia nel servizio personale e costante, rendendo il bar un vero e proprio punto di ritrovo per la comunità.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md"
+    },
+    {
+      "name": "Osteria all'Alpino",
+      "address": "Piazza Unità d'Italia, 24 – 33034 Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20all'Alpino%2C%20Piazza%20Unit%C3%A0%20d'Italia%2C%2024%20%E2%80%93%2033034%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "Osteria all'Alpino è il locale più centrale di Fagagna, affacciato sulla piazza principale dove si svolge la vita pubblica. Pur essendo un'osteria, svolge anche funzioni di bar e luogo conviviale per aperitivi, serate ed eventi comunitari. Apprezzata per l’ambiente informale e l’attenzione alle tradizioni locali, offre spritz, vino friulano e salumi, diventando punto di aggregazione nelle calde serate estive.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md"
+    },
+    {
+      "name": "Gelateria Eis Caffè (Gelateria Panda)",
+      "address": "Via Pecile, 1 – 33034 Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelateria%20Eis%20Caff%C3%A8%20(Gelateria%20Panda)%2C%20Via%20Pecile%2C%201%20%E2%80%93%2033034%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "La Gelateria Eis Caffè, nota anche come Gelateria Panda, è celebre per il suo gelato artigianale con panna fresca e per le opzioni senza lattosio. È un punto di ritrovo per famiglie e visitatori che desiderano gustarsi un gelato oppure una bevanda calda dopo una passeggiata o una visita turistica. Il locale svolge anche funzione di caffè ed è particolarmente animato nei weekend e nei periodi estivi.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md"
+    },
+    {
+      "name": "Bar Adele (Stazione Shell)",
+      "address": "Via Udine, 140 – 33034 Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Adele%20(Stazione%20Shell)%2C%20Via%20Udine%2C%20140%20%E2%80%93%2033034%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "Situato presso la stazione di servizio Shell, il Bar Adele offre un servizio essenziale ma pratico, ideale per chi viaggia o si sposta presto al mattino. Aperto con orari estesi rispetto ai bar del centro, è frequentato da pendolari, camionisti e residenti che desiderano una pausa rapida. Il locale riflette la tipologia diffusa dei bar annessi alle stazioni nelle aree rurali friulane.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md"
+    },
+    {
+      "name": "Bar/Tavola Calda Esso (Distributore Lizzi)",
+      "address": "Via Spilimbergo, 237 – 33034 Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%2FTavola%20Calda%20Esso%20(Distributore%20Lizzi)%2C%20Via%20Spilimbergo%2C%20237%20%E2%80%93%2033034%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "Il Bar/Tavola Calda presso il distributore Esso di Lizzi è noto per offrire, oltre al classico servizio bar, una tavola calda con piatti pronti, ideale per una pausa pranzo veloce. Frequentato soprattutto dai lavoratori durante la giornata, si trova su una delle principali vie di accesso al paese, attirando una clientela di passaggio e locale. Si distingue dagli altri bar per l’offerta gastronomica più ampia rispetto agli standard del paese.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fagagna.md"
+    }
+  ]
+}

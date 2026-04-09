@@ -1,0 +1,52 @@
+{
+  "comune_name": "Flaibano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/flaibano.md",
+  "extracted_at": "2026-04-09T11:02:36.735Z",
+  "pois": [
+    {
+      "name": "Grani di Pepe Hotel Ristorante",
+      "address": "Via Cavour 44, Flaibano (UD)",
+      "website_url": "https://www.granidipepe.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grani%20di%20Pepe%20Hotel%20Ristorante%2C%20Via%20Cavour%2044%2C%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "Grani di Pepe Hotel Ristorante è una ristolocanda di eccellenza a Flaibano, ospitata in una storica casa colonica del 1779 rinnovata con gusto moderno. La chef Marta Bergonzi propone una cucina che coniuga tradizione friulana, influenze francesi ed emiliane, e una forte attenzione alla stagionalità e all'autenticità degli ingredienti. Il pane, la pasta e i ripieni sono preparati artigianalmente in casa, e il locale ha ottenuto il riconoscimento della Guida Michelin nel 2020. La struttura dispone anche di 7 camere d'hotel, offrendo così un'esperienza completa di ospitalità e cucina raffinata.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/flaibano.md"
+    },
+    {
+      "name": "Osteria La Grape",
+      "address": "Piazza Monumento ai Caduti 24, Flaibano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La%20Grape%2C%20Piazza%20Monumento%20ai%20Caduti%2024%2C%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "Osteria La Grape, nel cuore di Flaibano, è un locale conviviale e accogliente con una cucina friulana raffinata ma genuina. È rinomata come punto di riferimento sia per la comunità locale sia per i visitatori, adatta a pranzi veloci e cene di gruppo. L'atmosfera rispecchia la tradizione dell'osteria friulana, con valutazioni molto positive da parte della clientela per la qualità e il calore dell'accoglienza.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/flaibano.md"
+    },
+    {
+      "name": "Bar-Osteria Santa Fosca",
+      "address": "Piazza Monumento 18, Flaibano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar-Osteria%20Santa%20Fosca%2C%20Piazza%20Monumento%2018%2C%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "Bar-Osteria Santa Fosca è un'antica osteria paesana che custodisce la tradizione gastronomica di Flaibano in un ambiente dal fascino storico e familiare. È un luogo di ritrovo amato dai friulani, dove il senso di comunità e la continuità della cultura culinaria locale sono elementi centrali. Piatti tipici friulani e un'atmosfera autentica caratterizzano questo locale.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/flaibano.md"
+    },
+    {
+      "name": "Al Baraonda di Nobile Giacomo",
+      "address": "Piazza Monumento 24, Flaibano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Baraonda%20di%20Nobile%20Giacomo%2C%20Piazza%20Monumento%2024%2C%20Flaibano%20(UD)",
+      "image_url": null,
+      "description": "Al Baraonda di Nobile Giacomo è un ristorante situato nella centrale Piazza Monumento di Flaibano, noto per la cucina friulana locale. È indicato come una delle scelte consigliate per chi vuole sperimentare l'autenticità e l'ospitalità tipiche della ristorazione flaibanese.",
+      "comune_name": "Flaibano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/flaibano.md"
+    }
+  ]
+}

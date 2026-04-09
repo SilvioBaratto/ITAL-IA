@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forni di Sopra",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sopra.md",
+  "extracted_at": "2026-04-09T10:48:29.113Z",
+  "pois": [
+    {
+      "name": "Museo Etnografico \"Il Filo dei Ricordi\" — Ciasa dai Fornés",
+      "address": null,
+      "website_url": "https://www.fornidisopra.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Etnografico%20%22Il%20Filo%20dei%20Ricordi%22%20%E2%80%94%20Ciasa%20dai%20Forn%C3%A9s%2C%20Forni%20di%20Sopra",
+      "image_url": null,
+      "description": "Il Museo Etnografico \"Il Filo dei Ricordi\" è ospitato nella Ciasa dai Fornés, edificio secentesco simbolo di Vico. Espone strumenti, prodotti e tecniche legate alla tessitura naturale montanara, come lana, canapa e lino, oltre a manufatti come i celebri scarpéts, calzature carniche ricamate a mano. La collezione comprende anche telai, fusi e materiali didattici, trasmettendo la memoria delle pratiche artigianali locali. L’allestimento viene aggiornato periodicamente e l'ingresso è gratuito.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Museo Rurale Fornese \"la Casina di Vîc\"",
+      "address": null,
+      "website_url": "https://www.fornidisopra.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Rurale%20Fornese%20%22la%20Casina%20di%20V%C3%AEc%22%2C%20Forni%20di%20Sopra",
+      "image_url": null,
+      "description": "Il Museo Rurale Fornese si trova nella Casina di Vîc, edificio rurale ottocentesco con muratura a secco, tetto in lose e balconi in legno. La collezione documenta la vita quotidiana e le pratiche agricole, forestali e domestiche della comunità fornese, con oggetti autentici donati dalle famiglie locali. Il museo si distingue per la specificità legata alla storia di Forni di Sopra e delle sue frazioni. L’ingresso è gratuito e aperto stagionalmente.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "Sito Archeologico del Castello di Sacuidic",
+      "address": null,
+      "website_url": "https://www.archeocartafvg.it/portfolio-articoli/forni-ud-castello-sacuidic/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20Archeologico%20del%20Castello%20di%20Sacuidic%2C%20Forni%20di%20Sopra",
+      "image_url": null,
+      "description": "Il Sito Archeologico del Castello di Sacuidic, sulla sponda sinistra del Tagliamento, conserva i ruderi di un castello medievale strategico del XII secolo, distrutto nel Duecento per attività di zecca clandestina. Oggetto di scavi scientifici recenti, ha restituito reperti di ceramica, vetro, armamenti e monete. È liberamente visitabile all'aperto, anche se non ospita un museo permanente.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sopra.md"
+    },
+    {
+      "name": "I Murales di Marino Spadavecchia — Itinerario d'Arte all'Aperto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=I%20Murales%20di%20Marino%20Spadavecchia%20%E2%80%94%20Itinerario%20d'Arte%20all'Aperto%2C%20Forni%20di%20Sopra",
+      "image_url": null,
+      "description": "Il borgo di Forni di Sopra accoglie uno straordinario percorso di oltre cinquanta murales realizzati da Marino Spadavecchia sulle antiche pareti di pietra delle frazioni Vico e Cella. Le opere raffigurano scene di vita contadina e pastorale locale, celebrando la memoria montanara con stile narrativo e realistico. L’itinerario è gratuito e visitabile liberamente, diventando una passeggiata culturale nel cuore del paese.",
+      "comune_name": "Forni di Sopra",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/forni-di-sopra.md"
+    }
+  ]
+}

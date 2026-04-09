@@ -1,0 +1,19 @@
+{
+  "comune_name": "Amaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/amaro.md",
+  "extracted_at": "2026-04-09T10:41:34.867Z",
+  "pois": [
+    {
+      "name": "CIRMont – Centro Internazionale di Ricerca per la Montagna",
+      "address": "Amaro (UD) — sede nel polo istituzionale del comune",
+      "website_url": "https://www.cirmont.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=CIRMont%20%E2%80%93%20Centro%20Internazionale%20di%20Ricerca%20per%20la%20Montagna%2C%20Amaro%20(UD)%20%E2%80%94%20sede%20nel%20polo%20istituzionale%20del%20comune",
+      "image_url": null,
+      "description": "Il CIRMont è un centro culturale e scientifico dedicato alla ricerca, documentazione e valorizzazione dei territori montani, con particolare attenzione alla Carnia e alle Alpi. Pur non essendo un museo tradizionale, promuove la conoscenza interdisciplinare della montagna attraverso studi, convegni e pubblicazioni. Collabora con università e enti nazionali e internazionali, offrendo un punto di riferimento importante per chi si interessa di cultura, storia ed ecologia alpina. Organizza eventi e presentazioni aperti alla comunità.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/amaro.md"
+    }
+  ]
+}

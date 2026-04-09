@@ -1,0 +1,19 @@
+{
+  "comune_name": "San Vito di Fagagna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-di-fagagna.md",
+  "extracted_at": "2026-04-09T11:18:43.729Z",
+  "pois": [
+    {
+      "name": "Trattoria Da Irma",
+      "address": "Via Unica 15, 33030 San Vito di Fagagna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Irma%2C%20Via%20Unica%2015%2C%2033030%20San%20Vito%20di%20Fagagna%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Da Irma è un locale a gestione familiare situato nel centro di San Vito di Fagagna, noto per la cucina casalinga friulana e l'accoglienza calorosa. Propone piatti tradizionali preparati con materie prime locali e regionali, integrando anche eccellenze come la carne di Chianina. Le recensioni evidenziano la qualità dei piatti e la sorpresa di trovare gastronomia d'alto livello in un piccolo paese. La fascia di prezzo è medio-bassa e la prenotazione telefonica è raccomandata.",
+      "comune_name": "San Vito di Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-di-fagagna.md"
+    }
+  ]
+}

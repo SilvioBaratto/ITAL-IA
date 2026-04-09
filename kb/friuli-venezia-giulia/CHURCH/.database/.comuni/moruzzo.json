@@ -1,0 +1,85 @@
+{
+  "comune_name": "Moruzzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md",
+  "extracted_at": "2026-04-09T10:31:21.332Z",
+  "pois": [
+    {
+      "name": "Pieve di Santa Margherita del Gruagno — Frazione Santa Margherita del Gruagno",
+      "address": null,
+      "website_url": "https://www.comune.moruzzo.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santa%20Margherita%20del%20Gruagno%20%E2%80%94%20Frazione%20Santa%20Margherita%20del%20Gruagno%2C%20Moruzzo",
+      "image_url": null,
+      "description": "La pieve di Santa Margherita del Gruagno è uno dei luoghi di culto più antichi e significativi del territorio collinare udinese, situata nel borgo medievale fortificato di Santa Margherita del Gruagno. L'edificio ha origini altomedievali, con una cripta (di Santa Savida) risalente all'VIII secolo, e presenta una commistione di elementi romanici e gotici, come il rosone della facciata restaurato nel 1954. Il sito è valorizzato tramite un virtual tour digitale e offre una meta ideale per gli appassionati di architettura storica e storia friulana.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Tommaso Apostolo — Moruzzo capoluogo",
+      "address": "Via Canonica 1, 33030 Moruzzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Tommaso%20Apostolo%20%E2%80%94%20Moruzzo%20capoluogo%2C%20Via%20Canonica%201%2C%2033030%20Moruzzo%20(UD)",
+      "image_url": null,
+      "description": "Dedicata a san Tommaso Apostolo, patrono di Moruzzo, la chiesa parrocchiale si trova nel capoluogo ed è documentata da secoli di storia locale. L'edificio attuale mostra ristrutturazioni tra il XVII e il XIX secolo, con una struttura tipica delle chiese rurali friulane, facciata a capanna e campanile separato. L'interno presenta decorazioni e arredi rappresentativi della devozione locale tra il Seicento e l’Ottocento.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Cappella della Santissima Trinità — Moruzzo capoluogo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20della%20Santissima%20Trinit%C3%A0%20%E2%80%94%20Moruzzo%20capoluogo%2C%20Moruzzo",
+      "image_url": null,
+      "description": "Edificata intorno al 1600 per volontà di Giovanni Manin, la cappella della Santissima Trinità rappresenta un esempio di oratorio privato barocco, annesso ad una residenza nobiliare seicentesca. La cappella, di sobria eleganza, riflette la tradizione degli oratori gentilizi del Friuli e testimonia l’influenza esercitata dalle famiglie nobiliari e dal capitolo patriarcale sul territorio rurale.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Oratorio di Santa Eurosia — Territorio comunale di Moruzzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20Santa%20Eurosia%20%E2%80%94%20Territorio%20comunale%20di%20Moruzzo%2C%20Moruzzo",
+      "image_url": null,
+      "description": "L'oratorio di Santa Eurosia, databile al XV secolo, è una delle cappelle votive più antiche del comune e tipica dell’architettura campestre friulana. Sorto lungo percorsi antichi e in corrispondenza di confini, l’oratorio testimonia la diffusione precoce del culto di Santa Eurosia, protettrice contro le tempeste, e la devozione rurale della comunità friulana.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Cappella di San Michele Arcangelo — Colle di San Michele, Moruzzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Colle%20di%20San%20Michele%2C%20Moruzzo%2C%20Moruzzo",
+      "image_url": null,
+      "description": "La cappella di San Michele Arcangelo sorge in posizione panoramica sull’omonimo colle di Moruzzo. Il piccolo oratorio, legato alla tradizione medievale di dedicare alture al culto di san Michele, presenta una semplice struttura in pietra tipica delle cappelle rurali friulane e rappresenta uno dei punti di riferimento spirituali delle campagne circostanti.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Torre e Cappellina di Sant'Andrea — Brazzacco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre%20e%20Cappellina%20di%20Sant'Andrea%20%E2%80%94%20Brazzacco%2C%20Moruzzo",
+      "image_url": null,
+      "description": "All'interno della frazione di Brazzacco si trova la Torre Sant'Andrea, unica parte superstite del Castello Inferiore, e la piccola chiesa di Sant'Andrea. La cappellina risale all'epoca medievale e conserva tracce di architettura gotica tra il XIII e XIV secolo, offrendo un raro esempio di integrazione fra elementi religiosi e militari medievali friulani.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    },
+    {
+      "name": "Cappella di San Leonardo — Brazzacco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Leonardo%20%E2%80%94%20Brazzacco%2C%20Moruzzo",
+      "image_url": null,
+      "description": "Situata nei pressi del Castello Superiore di Brazzacco, la Cappella di San Leonardo faceva parte di una grande villa nobiliare costruita nel XVII secolo e successivamente restaurata dopo i danni della prima guerra mondiale. È un esempio di architettura sacra privata del Seicento friulano, caratterizzata da una struttura semplice e da un recupero conservativo rispettoso dopo la devastazione bellica.",
+      "comune_name": "Moruzzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moruzzo.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Maniago",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/maniago.md",
+  "extracted_at": "2026-04-09T10:50:23.250Z",
+  "pois": [
+    {
+      "name": "Museo dell'Arte Fabbrile e delle Coltellerie (MAF)",
+      "address": "Via Maestri del Lavoro d'Italia, 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20dell'Arte%20Fabbrile%20e%20delle%20Coltellerie%20(MAF)%2C%20Via%20Maestri%20del%20Lavoro%20d'Italia%2C%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Il Museo dell'Arte Fabbrile e delle Coltellerie, noto anche come MAF o 'Coricama', è il principale presidio culturale di Maniago, situato nella storica fabbrica di coltelli del Novecento. Il percorso espositivo illustra sei secoli di storia della coltelleria locale attraverso macchinari, strumenti, prodotti finiti e documentazione d’archivio. Il museo offre anche esposizioni temporanee legate alla cultura materiale e alla storia del lavoro, ed è centrale nell'annuale manifestazione Coltello in Festa. L’edificio è un esempio di archeologia industriale, accessibile alle persone con disabilità motoria.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/maniago.md"
+    },
+    {
+      "name": "Ecomuseo delle Dolomiti Friulane – Lis Aganis (sede di Maniago)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20delle%20Dolomiti%20Friulane%20%E2%80%93%20Lis%20Aganis%20(sede%20di%20Maniago)%2C%20Maniago",
+      "image_url": null,
+      "description": "L’Ecomuseo delle Dolomiti Friulane – Lis Aganis, con sede principale a Maniago, è un museo diffuso che valorizza il patrimonio culturale materiale e immateriale delle comunità prealpine del pordenonese. Organizza laboratori, ricerca etnografica, produzione di documentari, incontri con esperti locali e progetti di inclusione, promuovendo la documentazione e preservazione dei mestieri e delle tradizioni delle valli circostanti. La sede maniaghese coordina attività sul territorio, distinguendosi per l’approccio partecipativo e la missione di tutela del patrimonio locale.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/maniago.md"
+    }
+  ]
+}

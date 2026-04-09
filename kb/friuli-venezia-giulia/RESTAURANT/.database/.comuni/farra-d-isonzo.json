@@ -1,0 +1,63 @@
+{
+  "comune_name": "Farra D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/farra-d-isonzo.md",
+  "extracted_at": "2026-04-09T11:01:51.168Z",
+  "pois": [
+    {
+      "name": "Ristorante Osteria Borgo Colmello",
+      "address": "Strada per Farra, 16",
+      "website_url": "http://www.borgocolmello.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Osteria%20Borgo%20Colmello%2C%20Strada%20per%20Farra%2C%2016",
+      "image_url": null,
+      "description": "Ristorante Osteria Borgo Colmello sorge in un antico casale rurale restaurato, immerso tra i vigneti di Farra d'Isonzo. Propone una cucina friulana tradizionale reinterpretata con cura e raffinatezza, sotto la guida dello chef Felati Claudio. Tra le specialità spiccano l'orzotto con salsiccia e ricotta affumicata carnica, la spalla di vitello arrosto e gli innovativi gnocchi di susina. L'atmosfera è autentica e accogliente, i prezzi sono medio-alti e la qualità delle materie prime è elevata.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Hotel Ristorante Ai Due Leoni",
+      "address": "Via G. Verdi, 53",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20Ai%20Due%20Leoni%2C%20Via%20G.%20Verdi%2C%2053",
+      "image_url": null,
+      "description": "Hotel Ristorante Ai Due Leoni è una storica istituzione locale, attiva dal 1880 e gestita dalla famiglia Baldassi dal 1958. È noto per la cucina friulana autentica, con piatti tradizionali della valle dell'Isonzo come gnocchetti di patata e spinaci, selvaggina e baccalà alla friulana, sempre accompagnati da polenta e vini DOC locali. L'ambiente caldo e familiare conserva il fascino della tradizione ed è ideale anche per soggiorni in albergo.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Trattoria Al Mulino",
+      "address": "Via Gorizia, 12",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Mulino%2C%20Via%20Gorizia%2C%2012",
+      "image_url": null,
+      "description": "Trattoria Al Mulino offre un'atmosfera informale e accogliente, perfetta per pasti in famiglia o con amici. Qui si possono gustare specialità italiane e ricette tipiche friulane preparate secondo metodi tradizionali, con particolare attenzione agli ingredienti di qualità. Il locale si distingue per la sua autenticità e la semplicità conviviale caratteristica delle osterie friulane.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Hostaria - Farra d'Isonzo",
+      "address": "Via Gorizia, 12",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hostaria%20-%20Farra%20d'Isonzo%2C%20Via%20Gorizia%2C%2012",
+      "image_url": null,
+      "description": "Hostaria rappresenta una realtà più recente e moderna, apprezzata per la qualità e la presentazione curata dei piatti ispirati alla cucina regionale friulana. Tra le specialità figurano gli gnocchi fatti a mano e un vario banco antipasti di salumi e formaggi locali, oltre ad una carta dei vini attentamente selezionata. L'ambiente giovane e il servizio attento contribuiscono a una piacevole esperienza, con prezzi medi e ottime recensioni online.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Albergo Isonzo Pizzeria Tre Stelle",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Isonzo%20Pizzeria%20Tre%20Stelle%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "Albergo Isonzo Pizzeria Tre Stelle combina le funzioni di albergo e ristorante, specializzandosi in pizze cotte a legna secondo la tradizione italiana. Oltre alle pizze, la cucina offre piatti di pesce e carne, permettendo una scelta variata. L'atmosfera è quella tipica di un'osteria di paese, con ambienti semplici e accoglienti sia all'interno che all'esterno.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/farra-d-isonzo.md"
+    }
+  ]
+}

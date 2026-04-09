@@ -1,0 +1,19 @@
+{
+  "comune_name": "Morsano al Tagliamento",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/morsano-al-tagliamento.md",
+  "extracted_at": "2026-04-09T10:51:34.355Z",
+  "pois": [
+    {
+      "name": "Fornace di San Paolo — Patrimonio dell'Archeologia Industriale",
+      "address": "Frazione di San Paolo, in prossimità dell'argine del Tagliamento",
+      "website_url": "http://www.comune.morsanoaltagliamento.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fornace%20di%20San%20Paolo%20%E2%80%94%20Patrimonio%20dell'Archeologia%20Industriale%2C%20Frazione%20di%20San%20Paolo%2C%20in%20prossimit%C3%A0%20dell'argine%20del%20Tagliamento",
+      "image_url": null,
+      "description": "La Fornace di San Paolo, costruita nel 1902 e restaurata tra il 2019 e il 2022, è il principale sito di archeologia industriale di Morsano al Tagliamento. Rappresenta un raro esempio sopravvissuto della produzione di mattoni alimentata dall’argilla alluvionale del Tagliamento, attività che ha segnato economicamente la bassa friulana. Oggi la fornace, con i suoi edifici restaurati e la caratteristica torre, è valorizzata come spazio culturale e didattico dedicato alla storia del lavoro rurale e artigianale locale. Il sito è visitabile liberamente e ospita iniziative promosse dal Comune.",
+      "comune_name": "Morsano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/morsano-al-tagliamento.md"
+    }
+  ]
+}

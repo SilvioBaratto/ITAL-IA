@@ -1,0 +1,140 @@
+{
+  "comune_name": "Cividale del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md",
+  "extracted_at": "2026-04-09T10:58:23.196Z",
+  "pois": [
+    {
+      "name": "Trattoria Ippolito",
+      "address": "Via Gagliano 64 a Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Ippolito%2C%20Via%20Gagliano%2064%20a%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Trattoria Ippolito è un punto di riferimento culinario a Cividale del Friuli, noto per offrire autentica cucina siciliana in un contesto friulano. Il menu spazia dai classici cannoli e cassata fino alla pasta alla norma e arancini, portando un tocco mediterraneo in città. L'atmosfera è resa unica dal contrasto tra la tradizione locale e le specialità proposte, ideale per chi cerca sapori diversi pur restando in Friuli.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Al Monastero",
+      "address": "Via Ristori 9",
+      "website_url": "http://www.almonastero.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Monastero%2C%20Via%20Ristori%209",
+      "image_url": null,
+      "description": "Al Monastero si trova in un antico monastero del XVIII secolo e incanta con le sue sale storiche e la suggestiva terrazza interna. La cucina è radicata nella tradizione friulana con piatti come lasagna ai funghi porcini e cialcions al monastero, accompagnati da salumi e formaggi locali. È ideale per chi cerca un'esperienza gastronomica autentica in un ambiente ricco di storia e fascino.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Ristorante alla Frasca",
+      "address": "Stretta Bernardino De Rubeis 10/a",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20alla%20Frasca%2C%20Stretta%20Bernardino%20De%20Rubeis%2010%2Fa",
+      "image_url": null,
+      "description": "La Trattoria alla Frasca, gestita dalla famiglia di Paolo dal 1987, accoglie i suoi ospiti in un locale storico con soffitti lignei del XV secolo e camini accoglienti. È celebre per le specialità a base di funghi di bosco, in particolare i porcini, abbinati a carni, pesce e selvaggina. Il menu varia quotidianamente e l'ambiente conserva un fascino rustico e familiare.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Osteria Trattoria alla Speranza",
+      "address": "Piazza Foro Giulio Cesare 15",
+      "website_url": "http://allasperanza.net/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Trattoria%20alla%20Speranza%2C%20Piazza%20Foro%20Giulio%20Cesare%2015",
+      "image_url": null,
+      "description": "Osteria Trattoria alla Speranza offre piatti tipici della tradizione friulana in una delle piazze più suggestive di Cividale. Il locale si distingue per l'atmosfera intima e accogliente, perfetta per assaporare specialità locali e vivere un'esperienza conviviale caratteristica delle migliori osterie friulane.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Pizzeria Trattoria La Braida",
+      "address": "Via Purgessimo a Cividale del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20La%20Braida%2C%20Via%20Purgessimo%20a%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Pizzeria Trattoria La Braida propone piatti della cucina friulana e slovena, creando un interessante incontro fra due tradizioni. È rinomata per le pizze leggere e digeribili e offre un menu vario con primi, secondi e dessert. L'atmosfera informale e la spaziosa sala la rendono ideale per famiglie e piccoli eventi privati.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Terre Petrussa",
+      "address": "Via Fornalis 50",
+      "website_url": "https://terrepetrussa.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Terre%20Petrussa%2C%20Via%20Fornalis%2050",
+      "image_url": null,
+      "description": "Terre Petrussa è un agriturismo immerso nei vigneti dei Colli Orientali, dove si può gustare cucina friulana a base di prodotti stagionali e di propria produzione. La struttura comprende una cantina, una sala rustica per degustazioni e una terrazza panoramica, proponendo un'esperienza enoturistica autentica e rilassante.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Ristorante Dell'Agriturismo La Sorgente Longobarda",
+      "address": "Str. di Cialla 36",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Dell'Agriturismo%20La%20Sorgente%20Longobarda%2C%20Str.%20di%20Cialla%2036",
+      "image_url": null,
+      "description": "La Sorgente Longobarda offre cucina friulana tradizionale a base di prodotti di propria produzione, in un ambiente di campagna accogliente e sereno. La sala interna può ospitare circa venti ospiti e c'è attenzione alle opzioni vegetariane. È molto apprezzato per il servizio familiare, la qualità dei piatti e il rapporto qualità-prezzo.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Agriturismo Wine & Beer Altùris",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Wine%20%26%20Beer%20Alt%C3%B9ris%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Agriturismo Wine & Beer Altùris è stato premiato come miglior ristorante con cantina del Collio e Colli Orientali, offrendo sia vini che birre artigianali prodotti in proprio. La terrazza panoramica sui vigneti regala un'atmosfera romantica, mentre la cucina e il servizio riflettono la tradizione friulana con un tocco personale.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Borgo dei Sapori - Agriturismo di Irene Cencig",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20dei%20Sapori%20-%20Agriturismo%20di%20Irene%20Cencig%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Borgo dei Sapori è un agriturismo biologico gestito con attenzione da Irene Cencig, noto per i suoi piatti della tradizione friulana preparati con ingredienti provenienti dalle proprie coltivazioni. Immerso tra i vigneti di Spessa, offre un'esperienza autentica che valorizza il legame tra territorio, agricoltura sostenibile e cucina genuina.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Agriturismo Al Morar",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Morar%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Agriturismo Al Morar, a pochi chilometri dal centro storico di Cividale, offre ai suoi ospiti un ambiente rurale autentico circondato dai vigneti. Qui si può assaporare la cucina locale in un clima genuino e accogliente, ideale per chi cerca il contatto diretto con la tradizione agricola e gastronomica friulana.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Pizzeria e Ristorante Flor 2020",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20e%20Ristorante%20Flor%202020%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Flor 2020 è una pizzeria e ristorante moderno che offre una vasta selezione di pizze e piatti della cucina italiana. Il locale si distingue per il servizio contemporaneo e rappresenta una scelta vivace all'interno della scena gastronomica di Cividale del Friuli.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Casa della Pizza - Cividale del Friuli",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20della%20Pizza%20-%20Cividale%20del%20Friuli%2C%20Cividale%20del%20Friuli",
+      "image_url": null,
+      "description": "Casa della Pizza è nota per le sue pizze preparate con ingredienti selezionati secondo la tradizione italiana. L'ambiente informale e accogliente lo rende un luogo ideale per chi cerca una pizza di qualità a Cividale del Friuli.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cividale-del-friuli.md"
+    }
+  ]
+}

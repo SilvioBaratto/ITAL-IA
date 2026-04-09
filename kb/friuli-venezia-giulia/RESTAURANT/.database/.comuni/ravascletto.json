@@ -1,0 +1,63 @@
+{
+  "comune_name": "Ravascletto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md",
+  "extracted_at": "2026-04-09T11:14:27.605Z",
+  "pois": [
+    {
+      "name": "Hotel Ristorante La Perla",
+      "address": "Via San Spirito 43, 33020 Ravascletto (UD)",
+      "website_url": "https://laperlahotel.eu/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20La%20Perla%2C%20Via%20San%20Spirito%2043%2C%2033020%20Ravascletto%20(UD)",
+      "image_url": null,
+      "description": "L'Hotel Ristorante La Perla è un punto di riferimento a Ravascletto per accoglienza e ristorazione. Situato a pochi passi dagli impianti dello Zoncolan, propone una cucina tipica carnica con piatti come frico, cjarsons e selvaggina, seguendo la stagionalità dei prodotti locali. L'atmosfera è accogliente e familiare, in ambienti in legno dal calore montano. Aperto agli ospiti dell'albergo e ai clienti esterni, offre anche una colazione con prodotti locali.",
+      "comune_name": "Ravascletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md"
+    },
+    {
+      "name": "Pizzeria Pace Alpina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Pace%20Alpina%2C%20Ravascletto",
+      "image_url": null,
+      "description": "La Pizzeria Pace Alpina si trova nel centro di Ravascletto e unisce la funzione di ristorante e struttura ricettiva. Offre pizze e piatti della cucina regionale carnica in un ambiente tipico di montagna, con coperti sia all'interno che all'esterno. È ideale per turisti e residenti che cercano un pasto informale dopo una giornata all'aria aperta.",
+      "comune_name": "Ravascletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md"
+    },
+    {
+      "name": "La Scaletta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Scaletta%2C%20Ravascletto",
+      "image_url": null,
+      "description": "La Scaletta è un ristorante classico con pizzeria situato nel centro di Ravascletto. Il locale propone un menù che spazia tra cucina italiana e piatti locali della Carnia, adatto a chi cerca un pasto semplice e genuino. Gli spazi interni ed esterni lo rendono fruibile in tutte le stagioni, ed è frequentato sia da residenti che da turisti.",
+      "comune_name": "Ravascletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md"
+    },
+    {
+      "name": "Borgo Nomplan",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Nomplan%2C%20Ravascletto",
+      "image_url": null,
+      "description": "Borgo Nomplan è un ristorante situato nell'area occidentale del comune, verso la frazione Salârs. Immerso nel paesaggio montano, è scelto soprattutto da escursionisti e ciclisti che percorrono i sentieri locali. Il locale si caratterizza per l'identità radicata nel territorio rurale della Carnia e offre ristoro in un contesto naturale suggestivo.",
+      "comune_name": "Ravascletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md"
+    },
+    {
+      "name": "Hotel Sportur",
+      "address": "Via Valcalda 21, 33020 Ravascletto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Sportur%2C%20Via%20Valcalda%2021%2C%2033020%20Ravascletto%20(UD)",
+      "image_url": null,
+      "description": "Hotel Sportur è una struttura alberghiera situata in centro a Ravascletto, orientata principalmente a sportivi e turisti diretti allo Zoncolan. È probabile che offra ristorazione interna o servizio di mezza pensione, con cucina casalinga e piatti tipici carnici, come abituale nelle strutture della zona.",
+      "comune_name": "Ravascletto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ravascletto.md"
+    }
+  ]
+}

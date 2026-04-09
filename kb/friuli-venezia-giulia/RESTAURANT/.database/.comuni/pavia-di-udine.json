@@ -1,0 +1,85 @@
+{
+  "comune_name": "Pavia di Udine",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md",
+  "extracted_at": "2026-04-09T11:11:12.945Z",
+  "pois": [
+    {
+      "name": "La Frasca",
+      "address": "Viale Grado, 50",
+      "website_url": "http://www.lafrasca.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Frasca%2C%20Viale%20Grado%2C%2050",
+      "image_url": null,
+      "description": "La Frasca è considerata una delle eccellenze gastronomiche di Pavia di Udine, nota per la cucina italiana e mediterranea con una particolare attenzione alle carni e ai piatti tipici friulani. L'atmosfera tranquilla e accogliente è valorizzata da un servizio attento, e il locale è celebre per la qualità dei salumi e dei formaggi locali. Ogni stagione offre menù tematici, rendendo il ristorante una tappa apprezzata per chi ricerca tradizione e ingredienti selezionati.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    },
+    {
+      "name": "Ristorante MEM",
+      "address": "Via Selvuzzis 32, Pavia di Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20MEM%2C%20Via%20Selvuzzis%2032%2C%20Pavia%20di%20Udine",
+      "image_url": null,
+      "description": "Ristorante MEM propone una cucina d'ispirazione contemporanea e internazionale, con piatti creativi a base di carni, verdure e patate. Il locale si distingue per un'atmosfera unica arricchita da arredi e oggetti vintage, tutti in vendita. Oltre ai piatti signature come il \"Piatto Mem\", il ristorante ospita eventi artistici e culturali che creano un insolito connubio tra gastronomia e arte.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    },
+    {
+      "name": "Al Cavallino Bar",
+      "address": "Via Aquileia, 25, Pavia di Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cavallino%20Bar%2C%20Via%20Aquileia%2C%2025%2C%20Pavia%20di%20Udine",
+      "image_url": null,
+      "description": "Al Cavallino Bar è un'osteria familiare rinomata per la cucina friulana genuina, con piatti iconici come gnocchi al ragù di guancetta, costata con polenta e specialità tradizionali preparate con ingredienti stagionali. L'atmosfera autentica e il servizio cordiale attirano una clientela locale fedele, mentre il rapporto qualità-prezzo è uno dei principali punti di forza.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    },
+    {
+      "name": "Ristorante All'Invidia",
+      "address": "Via Jacopo Marinoni, 9, Pavia di Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20All'Invidia%2C%20Via%20Jacopo%20Marinoni%2C%209%2C%20Pavia%20di%20Udine",
+      "image_url": null,
+      "description": "Ristorante All'Invidia è una ristorante-pizzeria che offre cucina italiana tradizionale e contemporanea, con un menù ampio che comprende pizze, calamari fritti, panini e piatti del giorno. La struttura dispone di un servizio curato, colazione, accessibilità disabili e connessione internet gratuita, ed è situata al piano interrato con bar e caffetteria al piano terra. Il locale è apprezzato per il buon equilibrio tra qualità e prezzo.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Friuli",
+      "address": "Via Roma, 1, Pavia di Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Friuli%2C%20Via%20Roma%2C%201%2C%20Pavia%20di%20Udine",
+      "image_url": null,
+      "description": "Pizzeria Trattoria Friuli è un punto di riferimento locale da quasi cinquant'anni, noto per la cucina friulana tradizionale e le pizze preparate in forno elettrico. Il menù, vario e artigianale, spazia tra antipasti, primi e secondi tipici, con piatti consigliati come crespelle, baccalà alla vicentina e guancetta brasata. Le pizze sono servite solo la sera, mentre a pranzo si può optare per un menù fisso aggiornato quotidianamente.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    },
+    {
+      "name": "La Fattoria di Pavia",
+      "address": "Via Lovaria, 48/c, Pavia di Udine",
+      "website_url": "http://www.lafattoriadipavia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Fattoria%20di%20Pavia%2C%20Via%20Lovaria%2C%2048%2Fc%2C%20Pavia%20di%20Udine",
+      "image_url": null,
+      "description": "La Fattoria di Pavia è un agriturismo che offre esperienze gastronomiche immerse nella campagna friulana, valorizzando prodotti a km 0 e piatti stagionali tipici. Il menù include specialità come ossobuco, tagliatelle con salsiccia e gelato artigianale, con ingredienti derivati direttamente dalla propria azienda agricola. È presente anche un negozio per acquistare le produzioni locali, rendendo l'ambiente ideale per famiglie e gruppi.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    },
+    {
+      "name": "Al Municipio Caffè Bistrot",
+      "address": "Piazza Julia, 14, Pavia di Udine",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Municipio%20Caff%C3%A8%20Bistrot%2C%20Piazza%20Julia%2C%2014%2C%20Pavia%20di%20Udine",
+      "image_url": null,
+      "description": "Al Municipio Caffè Bistrot, inaugurato nel 2017, sorge nel centro storico di Pavia di Udine e si distingue per l'atmosfera elegante e accogliente. Gestito da Eva, è noto per la colazione ricercata, tramezzini curati, dolci artigianali e service di qualità. Il locale è apprezzato sia come caffetteria che per un pranzo leggero, testimoniato dall'ottima valutazione su Google.",
+      "comune_name": "Pavia di Udine",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pavia-di-udine.md"
+    }
+  ]
+}

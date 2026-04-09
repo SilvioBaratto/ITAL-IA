@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/MUSEUM/.comuni/fanna.md",
+  "region": "friuli-venezia-giulia",
+  "category": "MUSEUM",
+  "comune_name": "Fanna",
+  "province": "PN",
+  "page_title": "Fanna",
+  "page_summary": "Guida ai principali punti di interesse culturale del comune di Fanna per la categoria MUSEUM: la Biblioteca Civica \"Vittorio Cadel\" e il Santuario della Madonna di Strada, spazi emblematici della comunità locale pur non essendo musei in senso stretto.",
+  "source_url": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fanna.md",
+  "processed_at": "2026-04-09T13:10:05.099Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/fanna__0",
+      "text": "### Biblioteca Civica \"Vittorio Cadel\"\n\n**Comune:** Fanna  \n**Indirizzo:** Piazza V. De Michiel, 1 – 33092 Fanna (PN)\n\nLa Biblioteca Civica \"Vittorio Cadel\" è il principale presidio culturale del comune di Fanna. Intitolata a Vittorio Cadel, figura di rilievo della comunità locale, la biblioteca fa parte della rete bibliotecaria provinciale di Pordenone e offre servizi di prestito, consultazione e promozione della lettura per abitanti di ogni età. Il patrimonio librario comprende testi di storia locale, narrativa, saggistica e materiali per ragazzi.\n\nTra le pubblicazioni di particolare interesse storico-locale conservate in biblioteca figura il volume *Fanna, la sua terra, la sua gente* di Paolo Goi (Ed. Grafiche Risma, 2007), che costituisce il più completo studio monografico sul comune: ripercorre la storia del territorio dalle origini preromane fino all'epoca contemporanea, con documentazione fotografica d'archivio e analisi del patrimonio edilizio, agricolo e sociale di Fanna.\n\nLa biblioteca rappresenta anche un punto di raccordo per le iniziative culturali locali, quali presentazioni di libri, incontri con autori e momenti commemorativi legati alla storia della Resistenza.\n\n- **Orari:** da verificare presso il Comune di Fanna (gli orari variano stagionalmente)\n- **Contatti:** Comune di Fanna, tel. 0427 – segretario.fanna@eell.regione.fvg.it\n- **Sito web:** www.comune.fanna.pn.it",
+      "metadata": {
+        "section_title": "Biblioteca Civica \"Vittorio Cadel\"",
+        "links": [],
+        "addresses": [
+          "Piazza V. De Michiel, 1 – 33092 Fanna (PN)"
+        ],
+        "image_urls": [],
+        "opening_hours": "da verificare presso il Comune di Fanna (gli orari variano stagionalmente)",
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/fanna__1",
+      "text": "### Santuario della Madonna di Strada\n\n**Comune:** Fanna, località Madonna di Strada  \n**Indirizzo:** Località Madonna di Strada – 33092 Fanna (PN)\n\nPur non essendo un museo in senso stretto, il Santuario della Madonna di Strada rappresenta il monumento di maggiore rilevanza storico-artistica del territorio di Fanna e costituisce una tappa di interesse per chiunque voglia conoscere il patrimonio culturale della Val Cosa. Il santuario dà il nome all'omonima frazione del comune e ha funzione di polo devozionale per un'area che comprende i comuni limitrofi di Maniago, Frisanco, Cavasso Nuovo e Arba.\n\nL'edificio conserva elementi architettonici e artistici che testimoniano la continuità del culto mariano in questa zona prealpina del Friuli occidentale, in un contesto paesaggistico di notevole qualità. La frequentazione del luogo è attestata da epoca medievale, in connessione con i percorsi viari che attraversavano la zona (la \"Madonna di Strada\" era spesso un riferimento devo­zionale per i viandanti lungo i tracciati antichi, come suggerisce la stessa denominazione).\n\nIl santuario è meta di pellegrinaggi locali, particolarmente in occasione delle festività mariane, ed è aperto per le funzioni religiose ordinarie.\n\n- **Accesso:** libero durante le funzioni religiose\n- **Contatti:** Parrocchia di riferimento, Fanna",
+      "metadata": {
+        "section_title": "Santuario della Madonna di Strada",
+        "links": [],
+        "addresses": [
+          "Località Madonna di Strada – 33092 Fanna (PN)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

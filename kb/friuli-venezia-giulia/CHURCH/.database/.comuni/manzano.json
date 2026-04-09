@@ -1,0 +1,85 @@
+{
+  "comune_name": "Manzano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md",
+  "extracted_at": "2026-04-09T10:29:38.955Z",
+  "pois": [
+    {
+      "name": "Abbazia di Rosazzo e Chiesa abbaziale di San Pietro Apostolo (frazione Rosazzo)",
+      "address": null,
+      "website_url": "http://www.abbaziadirosazzo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Abbazia%20di%20Rosazzo%20e%20Chiesa%20abbaziale%20di%20San%20Pietro%20Apostolo%20(frazione%20Rosazzo)%2C%20Manzano",
+      "image_url": null,
+      "description": "L'abbazia di Rosazzo, fondata tra IX e XI secolo, è il principale monumento sacro di Manzano e uno dei complessi monastici più prestigiosi del Friuli-Venezia Giulia. Domina i Colli Orientali dalla frazione di Rosazzo e ospita la chiesa abbaziale di San Pietro Apostolo, di stile romanico arricchito da stratificazioni rinascimentali e barocche, con interni a tre navate. Il sito conserva importanti affreschi rinascimentali di Francesco India, altari settecenteschi dei Mattiussi e lacerti di affreschi antichi. Oggi il complesso è anche sede di un centro culturale e ospita eventi, con una biblioteca e un archivio di rilievo regionale.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Assunta (Manzano capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%20(Manzano%20capoluogo)%2C%20Manzano",
+      "image_url": null,
+      "description": "La chiesa di Santa Maria Assunta è la parrocchiale del capoluogo di Manzano, costruita nel XVIII secolo e consacrata nel 1821. L'attuale edificio sorge su una tradizione di culto che risale probabilmente al X secolo e si presenta con una facciata restaurata e decorata da opere di Luigi Diamante. All'interno custodisce notevoli altari settecenteschi, affreschi di Giuseppe Barazzutti e sculture di Temistocle Santi, diventando il principale luogo di riferimento religioso della comunità.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    },
+    {
+      "name": "Chiesa di Santa Margherita (frazione Manzinello)",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68526/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Margherita%20(frazione%20Manzinello)%2C%20Manzano",
+      "image_url": null,
+      "description": "Situata nella frazione di Manzinello, la chiesa di Santa Margherita è la parrocchiale della comunità locale e trae origine da un edificio documentato prima del 1400. L'attuale struttura risale al XVIII secolo e ospita opere d'arte come affreschi novecenteschi di Giovanni Fantoni, un lacerto di affresco tardogotico del XV secolo e stalli lignei del coro di fattura locale. La chiesa riflette l'importanza della conservazione artistica in piccole realtà rurali friulane.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    },
+    {
+      "name": "Chiesa dei Santi Ermacora e Fortunato (frazione Soleschiano)",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68528/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Ermacora%20e%20Fortunato%20(frazione%20Soleschiano)%2C%20Manzano",
+      "image_url": null,
+      "description": "Nella frazione di Soleschiano si trova la chiesa dei Santi Ermacora e Fortunato, dedicata ai patroni dell'arcidiocesi di Udine e fondata probabilmente nel XII secolo dai benedettini in collegamento con l'abbazia di Rosazzo. Ricostruita in stile barocco nel XVII secolo e completata nel 1684, la chiesa conserva tracce delle sue origini medievali e rappresenta un significativo testimone della continuità devozionale della zona. La facciata fu decorata da Luigi Diamante nel 1946 e l'edificio è stato restaurato nel 1990.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    },
+    {
+      "name": "Chiesa dei Santi Giovanni Battista e Nicolò Vescovo (frazione Oleis)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Giovanni%20Battista%20e%20Nicol%C3%B2%20Vescovo%20(frazione%20Oleis)%2C%20Manzano",
+      "image_url": null,
+      "description": "La chiesa dei Santi Giovanni Battista e Nicolò Vescovo è la parrocchiale della frazione di Oleis e fu costruita tra il 1888 e il 1890 su progetto di don Leonardo Piva. L'edificio, consacrato nel 1902, è un esempio di architettura neogotica rurale e sorge laddove dal Medioevo si trova un luogo di culto, più volte ricostruito. Il campanile e l'aspetto slanciato ne sottolineano la monumentalità rispetto al piccolo villaggio, evocando lo stile delle cattedrali medievali.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    },
+    {
+      "name": "Cappella della Crocifissione — Complesso abbaziale di Rosazzo (frazione Rosazzo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20della%20Crocifissione%20%E2%80%94%20Complesso%20abbaziale%20di%20Rosazzo%20(frazione%20Rosazzo)%2C%20Manzano",
+      "image_url": null,
+      "description": "La cappella della Crocifissione, situata all'interno del complesso abbaziale di Rosazzo accanto alla chiesa abbaziale, risale al XVI secolo e presenta uno stile rinascimentale-manierista. È caratterizzata da dimensioni raccolte e da una raffinata decorazione pittorica interna, coerente con quella della chiesa principale. Aperta in occasione di visite guidate e eventi, rappresenta una tappa importante per chi visita il complesso di Rosazzo.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    },
+    {
+      "name": "Chiostro dell'Abbazia di Rosazzo (frazione Rosazzo)",
+      "address": "complesso abbaziale di Rosazzo, Piazza Abbazia 5",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiostro%20dell'Abbazia%20di%20Rosazzo%20(frazione%20Rosazzo)%2C%20complesso%20abbaziale%20di%20Rosazzo%2C%20Piazza%20Abbazia%205",
+      "image_url": null,
+      "description": "Il chiostro dell'abbazia di Rosazzo, realizzato nel XVI secolo in stile rinascimentale, è una delle parti più affascinanti del complesso monastico. Caratterizzato da eleganti arcate a tutto sesto che si affacciano su un giardino centrale, il chiostro conserva affreschi di varie epoche e viene oggi utilizzato come spazio per eventi culturali e spirituali. L'atmosfera raccolta e la posizione panoramica ne fanno un luogo di grande interesse religioso e architettonico.",
+      "comune_name": "Manzano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/manzano.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/grimacco.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Grimacco",
+  "province": "UD",
+  "page_title": "Grimacco",
+  "page_summary": "Guida ai principali ristoranti del comune di Grimacco: la storica Trattoria alla Cascata immersa nella natura e la caratteristica Trattoria alla Posta, entrambe espressione autentica della cucina delle Valli del Natisone.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grimacco.md",
+  "processed_at": "2026-04-09T13:38:17.689Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/grimacco__0",
+      "text": "### Trattoria alla Cascata\n\n**Ubicazione:** Frazione Clodig, 28, 33040 Grimacco (UD)  \n**Telefono:** 0432 725034 / 333 914 67 88  \n**Email:** manuela.feletig2019@gmail.com\n\nLa Trattoria alla Cascata è un'istituzione gastronomica di Grimacco, gestita dalla famiglia Feletig e attiva da quasi cinquant'anni. La caratteristica che dà il nome al locale è una bellissima cascata naturale che scorre accanto al ristorante, creando un'atmosfera suggestiva e romantica. Il locale è suddiviso in due piccole sale dal fascino rustico, riscaldate durante i mesi freddi da un grande camino che diffonde calore e comfort in tutto lo spazio.\n\n**Cucina e Specialità:**  \nLa cucina proposta è quella tipica della Carnia e delle Valli del Natisone, basata su ingredienti stagionali, funghi, selvaggina e erbe spontanee raccolte nei boschi circostanti. Tra i piatti caratteristici figurano la pasta al forno di castagne con funghi, gli gnocchi di susine (piatto tradizionale carnico), gli struki ripieni (dumplings tradizionali), e la pasta con ragù di selvaggina. Durante la stagione estiva e nei giorni festivi, il ristorante propone anche grigliate di carne. Le porzioni sono generose e i menu degustazione comprendono cinque piatti.\n\n**Accesso e Prenotazione:**  \nIl menu è disponibile esclusivamente il sabato e la domenica, ed è necessaria una prenotazione di almeno tre giorni in anticipo. Il ristorante è chiuso il venerdì. Nonostante la posizione un po' isolata, raggiungibile attraverso i boschi e i borghi dispersi delle Valli del Natisone (circa quaranta minuti di auto da Cividale del Friuli), la Trattoria alla Cascata è diventata una meta ambita per chi cerca l'autenticità della cucina carnica.\n\n**Atmosfera:**  \nL'atmosfera è calorosa e familiare, con un'impostazione molto locale dove i clienti si sentono accolti come ospiti di casa. Il grande camino e la vicinanza alla cascata creano un contesto ideale per escursionisti, turisti e locali che desiderano assaporare la tradizione culinaria della regione.",
+      "metadata": {
+        "section_title": "Trattoria alla Cascata",
+        "links": [],
+        "addresses": [
+          "Frazione Clodig, 28, 33040 Grimacco (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/grimacco__1",
+      "text": "### Trattoria alla Posta\n\n**Ubicazione:** Frazione Clodig, 22, 33040 Grimacco (UD)  \n**Telefono:** 0432 725000  \n**Fascia di Prezzo:** Media\n\nLa Trattoria alla Posta è un'altra realtà importante della gastronomia di Grimacco, gestita dalla signora Maria, che ha trasformato il locale in un punto di riferimento per chi vuole scoprire la vera cucina delle Valli del Natisone. Si tratta di una trattoria semplice ma caratteristica, dove l'impegno principale è quello di servire una cucina casalinga di eccellente qualità, preparata con cura e una leggera nota di innovazione che sa rispettare la tradizione.\n\n**Cucina e Specialità:**  \nLa filosofia della cucina è quella di valorizzare la tradizione regionale con ingredienti locali e di stagione. Tra i piatti che hanno reso celebre la Trattoria alla Posta figurano le crespelle ai funghi di Signora Maria, preparate con una ricetta che unisce semplicità e raffinatezza. Il ristorante è noto anche per gli gnocchi squisiti, il brodo fatto in casa, e una selezione di antipasti genuini. La cucina proposta è quella tipica della regione, con una forte connessione alla tradizione agricola e pastorale della zone delle Valli del Natisone.\n\n**Valutazioni:**  \nIl ristorante ha ottenuto una valutazione di 5 stelle su Yelp e 4,6 stelle su Google, segno della qualità costante dei piatti e dell'accoglienza. È parte della rete \"Invito a Pranzo\", l'associazione di ristoratori nata nel 1996 con l'obiettivo di valorizzare i prodotti tipici di stagione e le antiche ricette del territorio.\n\n**Orari:**  \nChiuso il martedì e il mercoledì. È consigliabile effettuare una prenotazione per garantire la disponibilità di tavoli.\n\n**Atmosfera:**  \nL'ambiente è autentico e accogliente, perfetto per chi desidera assaporare la cucina friulana in un contesto genuino e caloroso, senza eccessi di modernità ma con una cura evidente verso i dettagli della preparazione.",
+      "metadata": {
+        "section_title": "Trattoria alla Posta",
+        "links": [],
+        "addresses": [
+          "Frazione Clodig, 22, 33040 Grimacco (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": "Chiuso il martedì e il mercoledì. È consigliabile effettuare una prenotazione per garantire la disponibilità di tavoli.",
+        "prices": "Media"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Medea",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/medea.md",
+  "extracted_at": "2026-04-09T10:29:58.562Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria Assunta",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78647",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20Assunta%2C%20Medea",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di Santa Maria Assunta è il principale edificio sacro di Medea, con origini che risalgono al XIII secolo. Ricostruita completamente nel 1843 in stile neoclassico, conserva pregiate opere d'arte come l'altare maggiore barocco di Pasquale Lazzarini, statue dei Santi Barnaba e Urbano scolpite da Paolino Zuliani e un organo di Pietro de Corte. La chiesa è sede della parrocchia locale e rappresenta un importante punto di riferimento religioso e storico per la comunità.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/medea.md"
+    },
+    {
+      "name": "Chiesetta di Sant'Antonio da Padova (Colle di Medea)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Sant'Antonio%20da%20Padova%20(Colle%20di%20Medea)%2C%20Medea",
+      "image_url": null,
+      "description": "La Chiesetta di Sant'Antonio da Padova si trova in posizione panoramica sulla sommità del colle di Medea e risale al XVIII secolo. Danneggiata durante la Prima guerra mondiale e successivamente restaurata, ospita tre altari marmorei tra cui uno dedicato a Sant'Antonio e una raccolta di ex voto che testimonia la devozione popolare. All'esterno si trova la tomba del cardinale Guido Del Mestri, figura di rilievo nella diplomazia vaticana.",
+      "comune_name": "Medea",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/medea.md"
+    }
+  ]
+}

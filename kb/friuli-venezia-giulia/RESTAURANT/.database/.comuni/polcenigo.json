@@ -1,0 +1,140 @@
+{
+  "comune_name": "Polcenigo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md",
+  "extracted_at": "2026-04-09T11:11:48.372Z",
+  "pois": [
+    {
+      "name": "Trattoria La Santissima",
+      "address": "Sorgenti del Livenza, Polcenigo (PN) — nelle immediate vicinanze delle sorgenti del fiume Livenza, in prossimità di Al Borc",
+      "website_url": "http://www.lasantissima.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20Santissima%2C%20Sorgenti%20del%20Livenza%2C%20Polcenigo%20(PN)%20%E2%80%94%20nelle%20immediate%20vicinanze%20delle%20sorgenti%20del%20fiume%20Livenza%2C%20in%20prossimit%C3%A0%20di%20Al%20Borc",
+      "image_url": null,
+      "description": "Trattoria La Santissima è uno dei locali più iconici di Polcenigo, situata accanto alle spettacolari Sorgenti del Livenza. A conduzione familiare da vent'anni, offre cucina friulana stagionale che valorizza ingredienti locali di alta qualità, con la trota del Livenza come piatto principale preparata in diverse varianti. Il locale dispone di sale con vista fiume e di una terrazza estiva immersa nel verde. L'atmosfera è casalinga e accogliente, perfetta per cerimonie, cene romantiche o in famiglia.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Pizzeria Al Vecchio Caffè",
+      "address": "Al Borc, Polcenigo (PN) — nel nucleo medievale del borgo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Vecchio%20Caff%C3%A8%2C%20Al%20Borc%2C%20Polcenigo%20(PN)%20%E2%80%94%20nel%20nucleo%20medievale%20del%20borgo",
+      "image_url": null,
+      "description": "La Pizzeria Al Vecchio Caffè rappresenta un punto di riferimento storico nel cuore medievale di Polcenigo, vicino a Piazza Plebiscito. Propone principalmente pizze con impasti di qualità e molte farciture, offrendo anche piatti tradizionali. L'atmosfera informale è arricchita dal fascino delle vie in pietra e delle case d'altri tempi, rendendo ogni pasto un'esperienza autentica e piacevole sia per residenti che per visitatori.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Locanda Fullini-Zaia",
+      "address": "Piazza Plebiscito 11, 33070 Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Fullini-Zaia%2C%20Piazza%20Plebiscito%2011%2C%2033070%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Locanda Fullini-Zaia è una storica locanda che si affaccia sulla suggestiva Piazza Plebiscito, offrendo un ambiente accogliente sia all'interno che sulla veranda esterna. Serve piatti semplici e genuini della tradizione friulana, come taglieri di salumi, formaggi e spuntini caldi. La posizione privilegiata e l'atmosfera vivace durante eventi e mercatini rendono la locanda un punto d'incontro per residenti e visitatori.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Trattoria Marcandella",
+      "address": "San Giovanni di Polcenigo, Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Marcandella%2C%20San%20Giovanni%20di%20Polcenigo%2C%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Marcandella, fondata nel 1836, è una delle istituzioni gastronomiche più longeve del Friuli Venezia Giulia. Specializzata in carni e selvaggina, propone piatti tradizionali come la lasagna di faraona e la faraona al mascarpone, con la polenta come accompagnamento tipico. L'ambiente è quello autentico di una trattoria di paese, ideale per pranzi in famiglia e per chi cerca sapori genuini della cucina friulana.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Osteria da Pascon",
+      "address": "Piazza Fontana, Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Pascon%2C%20Piazza%20Fontana%2C%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Osteria da Pascon, attiva dal 1997 in Piazza Fontana, si distingue per la cucina tradizionale friulana proposta in un contesto familiare. Il menu valorizza gnocchi fatti in casa, cjarsons, frico con polenta e carni locali, con un'attenzione particolare ai vini regionali. Il giardino estivo e il parcheggio privato rendono l'osteria ideale per pranzi all'aperto in famiglia o con amici, soprattutto durante la bella stagione.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Ostaria al Parco",
+      "address": "San Giovanni di Polcenigo, Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostaria%20al%20Parco%2C%20San%20Giovanni%20di%20Polcenigo%2C%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Ostaria al Parco interpreta in chiave contemporanea la tradizione delle osterie friulane, promuovendo lo sbeccolare con piatti da condividere e prodotti del territorio. La cucina propone salumi, formaggi di malga e ricette rivisitate, mentre la cantina offre una selezione attenta di vini artigianali. Apprezzata anche per le degustazioni a tema, l'osteria ha una valutazione molto alta su Google e si è affermata come luogo di riferimento gastronomico e culturale.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Ristorante da Genio",
+      "address": "Polcenigo (PN) — nelle vicinanze delle sorgenti del Livenza",
+      "website_url": "https://www.ristorantedagenio.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20da%20Genio%2C%20Polcenigo%20(PN)%20%E2%80%94%20nelle%20vicinanze%20delle%20sorgenti%20del%20Livenza",
+      "image_url": null,
+      "description": "Ristorante da Genio unisce la ristorazione tradizionale friulana alla pizzeria, ubicato vicino alle sorgenti del Livenza. Offre piatti tipici locali, con un'attenzione alla trota del Livenza e ad altri prodotti ittici e di carne, oltre a una scelta di pizze preparate con cura. La gestione professionale e il sito web aggiornato testimoniano l'attenzione al cliente e la versatilità del locale, adatto a diverse occasioni.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Ristorante Al Bus",
+      "address": "Via Sorgente 1, Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Bus%2C%20Via%20Sorgente%201%2C%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Ristorante Al Bus si trova vicino alle sorgenti del Livenza e offre un ambiente tranquillo con sala interna e patio esterno immerso nella natura. Il menu segue la tradizione friulana e la stagionalità, con la trota del Livenza come protagonista e un'ampia scelta di antipasti, primi e secondi che variano secondo le materie prime. Il patio estivo è particolarmente apprezzato per pranzi e cene nelle giornate calde.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Osteria Nuvolone",
+      "address": "Via Marchesini 13, 33070 Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Nuvolone%2C%20Via%20Marchesini%2013%2C%2033070%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Osteria Nuvolone è un locale di quartiere ideale per una pausa pranzo informale o uno spuntino, situato nella zona settentrionale di Polcenigo. Propone cucina semplice e tradizionale in un contesto familiare e autentico, rappresentando ancora un punto di socialità e gastronomia genuina per i residenti del paese.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Trattoria Pizzeria Stella",
+      "address": "Frazione di Coltura / Area meridionale del comune di Polcenigo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20Stella%2C%20Frazione%20di%20Coltura%20%2F%20Area%20meridionale%20del%20comune%20di%20Polcenigo",
+      "image_url": null,
+      "description": "Trattoria Pizzeria Stella, nella frazione di Coltura verso la pianura, è un punto di riferimento nelle aree rurali per una cucina friulana semplice e pizze gustose. Il locale si adatta a famiglie e gruppi che cercano un ambiente informale e prezzi contenuti, mantenendo la qualità delle preparazioni tradizionali.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Cial de Brent",
+      "address": "Polcenigo (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cial%20de%20Brent%2C%20Polcenigo%20(PN)",
+      "image_url": null,
+      "description": "Cial de Brent è un ristorante situato in una posizione tranquilla vicino al centro di Polcenigo, con il nome che richiama l'atmosfera boschiva del territorio. La cucina si fonda sulla tradizione friulana e utilizza ingredienti locali, risultando frequentato dalla clientela locale e da chi cerca un'autentica esperienza culinaria fuori porta.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    },
+    {
+      "name": "Al Faro",
+      "address": "Area settentrionale del comune di Polcenigo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Faro%2C%20Area%20settentrionale%20del%20comune%20di%20Polcenigo",
+      "image_url": null,
+      "description": "Al Faro è un ristorante situato nella parte settentrionale di Polcenigo, che offre sia cucina regionale friulana sia pizze. Il menu comprende i classici pordenonesi, come paste fresche, carni locali e prodotti del bosco, rivolgendosi sia ai locali che ai visitatori di passaggio verso il Cansiglio.",
+      "comune_name": "Polcenigo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/polcenigo.md"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "comune_name": "Majano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/majano.md",
+  "extracted_at": "2026-04-09T10:50:16.211Z",
+  "pois": [
+    {
+      "name": "Necropoli Longobarda di San Salvatore — sito archeologico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Necropoli%20Longobarda%20di%20San%20Salvatore%20%E2%80%94%20sito%20archeologico%2C%20Majano",
+      "image_url": null,
+      "description": "La necropoli longobarda di San Salvatore, scoperta nell'omonima frazione di Majano, ha restituito 83 tombe corredate da preziosi oggetti di epoca longobarda, tra cui armi, monili e vasellame. I reperti attestano la presenza dei Longobardi nell'area friulana dal 568 d.C. e sono oggi conservati nei musei di Udine e Cividale. Il sito non è attrezzato per le visite pubbliche, ma riveste un'importanza storica di rilievo per studiosi e appassionati di archeologia alto-medievale.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/majano.md"
+    },
+    {
+      "name": "Ospitale di San Giovanni di Gerusalemme — complesso storico-monumentale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ospitale%20di%20San%20Giovanni%20di%20Gerusalemme%20%E2%80%94%20complesso%20storico-monumentale%2C%20Majano",
+      "image_url": null,
+      "description": "L'Ospitale di San Giovanni di Gerusalemme, situato nella frazione di San Tomaso, è un raro esempio di architettura ospitaliera medievale friulana, fondato alla fine del XII secolo dai Cavalieri di San Giovanni. Il complesso comprende anche una chiesetta romanica con affreschi del XIII secolo, tra cui una figura di San Cristoforo. Pur non essendo un museo, il sito rappresenta una tappa fondamentale per la storia del pellegrinaggio e delle vie medievali, e può essere visitato su accordo con la parrocchia o il Comune.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/majano.md"
+    },
+    {
+      "name": "Chiesetta di San Giorgio — affreschi del XIV secolo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Giorgio%20%E2%80%94%20affreschi%20del%20XIV%20secolo%2C%20Majano",
+      "image_url": null,
+      "description": "Nella frazione di San Tomaso si trova la Chiesetta di San Giorgio, celebre per il ciclo di affreschi del XIV secolo riemerso dopo il terremoto del 1976. Gli affreschi raffigurano episodi della vita di San Giorgio e rappresentano un raro esempio di pittura murale gotica friulana in ambito rurale. La chiesa non è organizzata come museo, ma può essere visitata come luogo di culto artistico e storico previo contatto con la parrocchia.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/majano.md"
+    },
+    {
+      "name": "Castello di Susans",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Susans%2C%20Majano",
+      "image_url": null,
+      "description": "Il Castello di Susans, nell'omonima frazione di Majano, si distingue per la sua tipologia architettonica d'ispirazione toscana, con pianta rettangolare e torri angolari. Ricostruito principalmente nel XVII secolo, il castello è attualmente in restauro e non è aperto come museo, ma resta un significativo punto di riferimento storico e visivo nel paesaggio pedemontano. Nei pressi si trova la Chiesa di Santo Stefano Protomartire, che custodisce pale d'altare settecentesche salvate dopo il terremoto del 1976.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/majano.md"
+    },
+    {
+      "name": "Patrimonio industriale: Complesso Snaidero e architettura del dopoguerra",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Patrimonio%20industriale%3A%20Complesso%20Snaidero%20e%20architettura%20del%20dopoguerra%2C%20Majano",
+      "image_url": null,
+      "description": "Il Complesso industriale Snaidero, progettato da Angelo Mangiarotti negli anni Settanta, rappresenta un esempio di spicco dell'architettura industriale italiana del secondo Novecento. Insieme al Centro Studi 'Enrico Fermi' e allo Showroom Mobilsnaidero, il sito testimonia l'impatto del boom industriale friulano anche sul territorio di Majano. Pur non organizzato come museo, questo patrimonio architettonico è riconosciuto per il suo valore artistico e storico.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/majano.md"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_file": "friuli-venezia-giulia/MUSEUM/.comuni/carlino.md",
+  "region": "friuli-venezia-giulia",
+  "category": "MUSEUM",
+  "comune_name": "Carlino",
+  "province": "UD",
+  "page_title": "Carlino",
+  "page_summary": "Guida ai principali luoghi d’interesse a carattere museale e storico-artistico del comune di Carlino: la Chiesa Parrocchiale di San Tommaso Apostolo e la chiesa dei Santi Gervasio e Protasio in frazione San Gervasio, custodi delle principali testimonianze storico-artistiche locali.",
+  "source_url": "kb/friuli-venezia-giulia/MUSEUM/.comuni/carlino.md",
+  "processed_at": "2026-04-09T13:03:49.216Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/carlino__0",
+      "text": "### Chiesa Parrocchiale di San Tommaso Apostolo\n\n**Comune:** Carlino  \n**Indirizzo:** Piazza San Rocco, Carlino (UD) 33050  \n**Coordinate:** 45°48′10″N 13°11′17″E\n\n#### Storia e architettura\n\nLa parrocchiale di Carlino è l'edificio di maggior prestigio architettonico del paese. Si sa che sul medesimo sito sorgeva già una chiesa nel 1564; quell'edificio più antico venne demolito nella prima metà del Settecento per far posto all'attuale costruzione, eretta nel **1735** e solennemente consacrata nel **1772**. Lo stile è **neoclassico**, in linea con i modelli diffusi nell'area udinese nel corso del XVIII secolo sotto l'influenza della scuola architettonica veneziana e friulana del periodo. La facciata e il portale sono stati restaurati nel 1978 e nuovamente nel 2007.\n\n#### Collezione e opere di rilievo\n\nL'interno della chiesa conserva alcune opere di notevole interesse per la storia dell'arte regionale:\n\n- **_Anime del Purgatorio_** — dipinto su tela attribuito a **Michelangelo Grigoletti** (Pordenone, 1801–Venezia, 1870), uno dei più importanti pittori veneto-friulani dell'Ottocento, allievo di Francesco Hayez all'Accademia di Venezia. L'opera, di soggetto devozionale, testimonia la diffusione della sua maniera accademica anche nei centri minori della Bassa friulana.\n- **Pala d'altare raffigurante San Rocco** — datata **1857**, di autore non identificato con certezza, costituisce un esempio significativo della pittura religiosa ottocentesca di ambito provinciale.\n- **Confessionali intagliati** — pregevole serie di confessionali in legno scolpito, opera dei fratelli **Luigi e Giuseppe Filipponi** di Udine, artigiani e intagliatori attivi nella seconda metà del XIX secolo, noti per la qualità del loro lavoro nei cantieri ecclesiastici della provincia udinese.\n\n#### Orari e accesso\n\nL'accesso alla chiesa è libero durante le funzioni religiose e nelle ore di apertura stabilite dalla parrocchia. Non è richiesto biglietto d'ingresso. Per visite guidate o richieste di apertura straordinaria è consigliabile contattare direttamente la parrocchia di Carlino.\n\n**Contatti parrocchia:** Arcidiocesi di Udine — Forania della Bassa Friulana  \n**Sito di riferimento:** [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it)",
+      "metadata": {
+        "section_title": "Chiesa Parrocchiale di San Tommaso Apostolo",
+        "links": [
+          {
+            "text": "chieseitaliane.chiesacattolica.it",
+            "url": "https://chieseitaliane.chiesacattolica.it"
+          }
+        ],
+        "addresses": [
+          "Piazza San Rocco, Carlino (UD) 33050"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/carlino__1",
+      "text": "### Chiesa dei Santi Gervasio e Protasio — Frazione San Gervasio\n\n**Comune:** Carlino (frazione San Gervasio)  \n**Indirizzo:** Via San Gervasio, San Gervasio di Carlino (UD) 33050  \n**Coordinate:** loc. San Gervasio, tra Muzzana del Turgnano e Carlino\n\n#### Storia e architettura\n\nLa **chiesa dei Santi Gervasio e Protasio**, situata nella frazione di San Gervasio, è il più antico edificio di culto superstite nell'intero territorio comunale di Carlino. La tradizione locale fa risalire la fondazione di un luogo di culto in questa località addirittura al **IX secolo**, epoca in cui la Bassa friulana era attraversata da itinerari di devozione e insediamenti alto-medievali connessi al controllo delle vie d'acqua verso la laguna. L'edificio attuale fu eretto con ogni probabilità nel **1584**, come attesta un elemento lapideo — ritenuto un antico architrave — recante la data incisa, oggi visibile nel muro della sacrestia.\n\nNel corso dei secoli l'edificio subì ampliamenti e modifiche:\n- **1690**: ampliamento del coro e costruzione dell'altare principale\n- **1908**: radicale ristrutturazione delle strutture murarie e degli arredi interni\n\n#### Rilevanza patrimoniale\n\nPur nelle dimensioni contenute di una cappella rurale, la chiesa di San Gervasio rappresenta un documento storico di primaria importanza per la ricostruzione della topografia religiosa della Bassa friulana. Il sito potrebbe conservare stratificazioni medievali ancora non completamente indagate. La presenza di un possibile impianto del IX secolo — se confermata da scavi futuri — collocherebbe questa piccola borgata in un quadro insediativo di notevole antichità, legato alla cristianizzazione del territorio friulano in età carolingia e poi patriarcale aquileiese.\n\n#### Orari e accesso\n\nLa chiesa è normalmente chiusa; l'accesso avviene in occasione delle festività dei Santi Gervasio e Protasio (19 giugno) e su richiesta alla parrocchia di Carlino. Ingresso libero.",
+      "metadata": {
+        "section_title": "Chiesa dei Santi Gervasio e Protasio — Frazione San Gervasio",
+        "links": [],
+        "addresses": [
+          "Via San Gervasio, San Gervasio di Carlino (UD) 33050"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "comune_name": "Roveredo in Piano",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md",
+  "extracted_at": "2026-04-09T11:16:10.121Z",
+  "pois": [
+    {
+      "name": "Al Baffo",
+      "address": "Località Tornielli, 17 – 33080 Roveredo in Piano (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Baffo%2C%20Localit%C3%A0%20Tornielli%2C%2017%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "Al Baffo è il ristorante più noto di Roveredo in Piano, situato nella frazione di Tornielli e apprezzato per la posizione tranquilla immersa nel verde e per il menù fisso a pranzo a prezzo contenuto, ideale per lavoratori. Specializzato in cucina italiana e piatti della tradizione friulana come il fritto misto, offre un ambiente informale con tavoli all'aperto e accessibilità per disabili. Adatto a chi desidera una pausa pranzo abbondante e conveniente o una cena in un contesto rilassato, si distingue per la buona accoglienza e una qualità media. Il servizio è simpatico e il locale accetta prenotazioni online tramite TheFork.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    },
+    {
+      "name": "Restaurant K2",
+      "address": "Via Garibaldi G., 11/13 – 33080 Roveredo in Piano (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20K2%2C%20Via%20Garibaldi%20G.%2C%2011%2F13%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "Restaurant K2 è un bar-ristorantino a conduzione familiare situato nel centro del paese, frequentato soprattutto dagli abitanti locali per colazioni, pranzi veloci e cene informali. L'atmosfera accogliente e semplice lo rende un punto di riferimento per piccoli eventi privati e cene a tema, offrendo piatti della cucina casalinga friulana con particolare attenzione alla stagionalità. La padrona di casa accoglie i clienti con calore, rendendo il locale ideale per chi cerca familiarità e genuinità.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Leon Bianco",
+      "address": "Via XX Settembre, 50 – 33080 Roveredo in Piano (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Leon%20Bianco%2C%20Via%20XX%20Settembre%2C%2050%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria Leon Bianco si trova nel centro di Roveredo in Piano e offre cucina italiana classica, con un'ampia varietà di pizze, opzioni kebab e piatti vegetariani. Il locale, accessibile ai disabili e adatto alle famiglie, è aperto esclusivamente a cena dal mercoledì al sabato, risultando un punto di ritrovo per i residenti durante la settimana. Apprezzato per la sua vocazione inclusiva, abbina servizio ai tavoli e una fascia di prezzo accessibile.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    },
+    {
+      "name": "La Pizza – L'Originale",
+      "address": "Via XX Settembre, 34 – 33080 Roveredo in Piano (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Pizza%20%E2%80%93%20L'Originale%2C%20Via%20XX%20Settembre%2C%2034%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "La Pizza – L'Originale è una pizzeria centrale molto frequentata, aperta sette giorni su sette sia a pranzo che a cena con orari estesi. Il locale propone una ricca offerta di pizze secondo la tradizione italiana, probabilmente insieme ad altri piatti semplici, ed è particolarmente adatto a famiglie e giovani in cerca di un pasto veloce. La presenza sui social e l'apertura continua lo rendono uno dei punti di riferimento gastronomici del comune.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    },
+    {
+      "name": "The Gammon – Music Pub, Pizza & Grill",
+      "address": "Via Pionieri dell'Aria, 104 – 33080 Roveredo in Piano (PN)",
+      "website_url": "http://www.thegammon.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Gammon%20%E2%80%93%20Music%20Pub%2C%20Pizza%20%26%20Grill%2C%20Via%20Pionieri%20dell'Aria%2C%20104%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "The Gammon è un locale originale che unisce la ristorazione informale alla dimensione del pub, offrendo un menù a base di grill, hamburgers, pizza e piatti tipici della cucina da pub. Rinomato per la musica dal vivo e per l'atmosfera moderna ispirata ai pub britannici, è punto d'incontro per i giovani grazie alla programmazione di eventi serali. Il locale, aperto tutte le sere, si distingue per la cura nella selezione delle materie prime e per l'attiva comunicazione tramite sito web.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    },
+    {
+      "name": "Samurai Sushi",
+      "address": "Via Pionieri dell'Aria, 88 – 33080 Roveredo in Piano (PN)",
+      "website_url": "http://www.samurai-sushi.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Samurai%20Sushi%2C%20Via%20Pionieri%20dell'Aria%2C%2088%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "Samurai Sushi è il ristorante giapponese di Roveredo in Piano, aperto tutti i giorni sia a pranzo che a cena, che offre sushi e specialità della cucina nipponica in un ambiente informale. Si tratta di un locale etnico a gestione di quartiere, frequentato sia da residenti di origine asiatica che dalla comunità locale. L'orario continuato fino a mezzanotte lo rende una scelta comoda per pasti veloci e cene negli orari più disparati.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    },
+    {
+      "name": "Taco Mania",
+      "address": "Via dei Celti, 2 – 33080 Roveredo in Piano (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Taco%20Mania%2C%20Via%20dei%20Celti%2C%202%20%E2%80%93%2033080%20Roveredo%20in%20Piano%20(PN)",
+      "image_url": null,
+      "description": "Taco Mania porta la cucina messicana e tex-mex a Roveredo in Piano, servendo tacos, burritos e altri piatti a base di mais e peperoncino. L'attività sembra di piccole dimensioni e prevalentemente orientata a una clientela locale, offrendo un ambiente informale e una proposta etnica ancora poco comune nei comuni minori della zona.",
+      "comune_name": "Roveredo in Piano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/roveredo-in-piano.md"
+    }
+  ]
+}

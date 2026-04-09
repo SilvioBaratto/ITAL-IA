@@ -1,0 +1,107 @@
+{
+  "comune_name": "Cividale del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md",
+  "extracted_at": "2026-04-09T10:45:21.060Z",
+  "pois": [
+    {
+      "name": "Museo Archeologico Nazionale di Cividale del Friuli (MAN)",
+      "address": "Piazza Duomo, 13 — Palazzo dei Provveditori Veneti",
+      "website_url": "https://museoarcheologicocividale.beniculturali.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20di%20Cividale%20del%20Friuli%20(MAN)%2C%20Piazza%20Duomo%2C%2013%20%E2%80%94%20Palazzo%20dei%20Provveditori%20Veneti",
+      "image_url": null,
+      "description": "Il Museo Archeologico Nazionale è la principale istituzione culturale della città e ospita una delle più ricche collezioni archeologiche del Friuli Venezia Giulia. Situato nel rinascimentale Palazzo dei Provveditori Veneti, espone reperti romani, longobardi e medievali tra cui mosaici, epigrafi, preziose oreficerie e i celebri corredi della necropoli di Santo Stefano. Un'ampia area archeologica sotterranea completa il percorso espositivo, rendendo il museo una tappa imprescindibile per la conoscenza della storia di Cividale.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Museo Cristiano e Tesoro del Duomo di Cividale del Friuli",
+      "address": "Via Condotti, 1 (ingresso attraverso il Duomo di Santa Maria Assunta)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Cristiano%20e%20Tesoro%20del%20Duomo%20di%20Cividale%20del%20Friuli%2C%20Via%20Condotti%2C%201%20(ingresso%20attraverso%20il%20Duomo%20di%20Santa%20Maria%20Assunta)",
+      "image_url": null,
+      "description": "Il Museo Cristiano e Tesoro del Duomo, situato presso il Duomo di Cividale, conserva capolavori dell'arte altomedievale tra cui l'Altare del duca Ratchis e il Battistero ottagonale del patriarca Callisto. Le sezioni del museo comprendono anche il Tesoro del Duomo con preziose oreficerie, reliquiari, arredi liturgici, celebri dipinti veneti e un ricco patrimonio tessile. Il museo è noto per accogliere alcune delle testimonianze artistiche e storiche più importanti della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Tempietto Longobardo — Oratorio di Santa Maria in Valle (Sito UNESCO)",
+      "address": "Borgo Brossana (ingresso dall'ex convento delle Orsoline, ora di proprietà comunale)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempietto%20Longobardo%20%E2%80%94%20Oratorio%20di%20Santa%20Maria%20in%20Valle%20(Sito%20UNESCO)%2C%20Borgo%20Brossana%20(ingresso%20dall'ex%20convento%20delle%20Orsoline%2C%20ora%20di%20propriet%C3%A0%20comunale)",
+      "image_url": null,
+      "description": "Il Tempietto longobardo, o Oratorio di Santa Maria in Valle, è il più celebre monumento di Cividale e uno dei maggiori capolavori altomedievali d'Europa. Risalente all'VIII secolo e inserito nel sito UNESCO dei Longobardi, presenta raffinati stucchi e decorazioni interne che testimoniano la fusione di elementi artistici romani, longobardi e orientali. L'accesso avviene tramite l'ex convento, offrendo ai visitatori un'esperienza architettonica unica e scorci panoramici sul fiume Natisone.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Duomo di Santa Maria Assunta — Sala del Tesoro e Patrimonio Artistico",
+      "address": "Piazza del Duomo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Sala%20del%20Tesoro%20e%20Patrimonio%20Artistico%2C%20Piazza%20del%20Duomo",
+      "image_url": null,
+      "description": "Il Duomo di Santa Maria Assunta, pur non essendo un vero museo, custodisce uno straordinario patrimonio artistico e storico, tra cui la preziosa Pala d'argento di Pellegrino II e numerose opere d'arte notevoli. L'interno conserva sculture, dipinti e arredi di grande rilievo che testimoniano la ricca storia religiosa e culturale di Cividale. La Sala del Tesoro e la chiesa stessa sono mete imprescindibili per conoscere l'arte medievale e rinascimentale della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Ipogeo Celtico",
+      "address": "Piazzetta S. Biagio, centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ipogeo%20Celtico%2C%20Piazzetta%20S.%20Biagio%2C%20centro%20storico",
+      "image_url": null,
+      "description": "L'Ipogeo celtico è un misterioso ambiente sotterraneo nel centro storico di Cividale, la cui origine rimane incerta tra ipotesi celtiche e romane. Successivamente usato come carcere durante epoche diverse, conserva graffiti e iscrizioni di prigionieri in varie lingue. Questo luogo suggestivo e ricco di fascino è oggi visitabile e rappresenta una delle attrazioni più particolari della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Francesco — Spazio Espositivo",
+      "address": "Via Carlo Alberto, centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Francesco%20%E2%80%94%20Spazio%20Espositivo%2C%20Via%20Carlo%20Alberto%2C%20centro%20storico",
+      "image_url": null,
+      "description": "La Chiesa di San Francesco, edificio gotico del XIII secolo, è stata sconsacrata e trasformata in spazio espositivo comunale per mostre temporanee, eventi culturali e concerti. Mantenendo la suggestiva architettura medievale, ospita rassegne di arte contemporanea e manifestazioni legate alla vita culturale cittadina. È uno dei pochi luoghi in città adatti a installazioni temporanee di grandi dimensioni.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Palazzo dei Provveditori Veneti — Architettura Palladiana",
+      "address": "Piazza Duomo, 13",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20dei%20Provveditori%20Veneti%20%E2%80%94%20Architettura%20Palladiana%2C%20Piazza%20Duomo%2C%2013",
+      "image_url": null,
+      "description": "Il Palazzo dei Provveditori Veneti, costruito tra XVI e XVII secolo su progetto attribuito ad Andrea Palladio, rappresenta uno degli esempi più raffinati di architettura rinascimentale friulana. Sede del Museo Archeologico Nazionale, il palazzo combina eleganza architettonica e importanza storica, con loggiati a portico e sale monumentali ben restaurate dopo il terremoto del 1976. È uno degli edifici palladiani più significativi della provincia di Udine.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Monastero di Santa Maria in Valle — Complesso Monumentale",
+      "address": "Borgo Brossana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastero%20di%20Santa%20Maria%20in%20Valle%20%E2%80%94%20Complesso%20Monumentale%2C%20Borgo%20Brossana",
+      "image_url": null,
+      "description": "Il Monastero di Santa Maria in Valle è un antico complesso conventuale che ingloba il Tempietto longobardo e include la chiesa di San Giovanni in Valle, un chiostro e il refettorio. Fondato nel VII secolo per le monache benedettine, ha vissuto secoli di storia e modifiche, ospitando oggi anche eventi culturali e mostre. Il chiostro rinascimentale è accessibile ai visitatori e rappresenta uno degli spazi più tranquilli e ricchi di storia della città.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    },
+    {
+      "name": "Galleria di Purgessimo — Museo della Guerra Fredda",
+      "address": "Cividale del Friuli (frazione Purgessimo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Galleria%20di%20Purgessimo%20%E2%80%94%20Museo%20della%20Guerra%20Fredda%2C%20Cividale%20del%20Friuli%20(frazione%20Purgessimo)",
+      "image_url": null,
+      "description": "La Galleria di Purgessimo, situata nella frazione omonima, è un sito di memoria storica legato alla Guerra Fredda e costruito come opera difensiva sotterranea dalla Brigata meccanizzata «Isonzo». In parte aperta al pubblico nell'ambito di percorsi di turismo della memoria, offre uno sguardo unico sulla storia militare del confine orientale italiano negli anni della cortina di ferro. Sebbene priva di una struttura museale permanente, è un'importante testimonianza del passato recente.",
+      "comune_name": "Cividale del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cividale-del-friuli.md"
+    }
+  ]
+}

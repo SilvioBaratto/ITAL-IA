@@ -1,0 +1,19 @@
+{
+  "comune_name": "Stregna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/stregna.md",
+  "extracted_at": "2026-04-09T11:20:19.963Z",
+  "pois": [
+    {
+      "name": "Agriturismo Casa delle Rondini",
+      "address": "Frazione Dughe, 14 — 33040 Stregna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Casa%20delle%20Rondini%2C%20Frazione%20Dughe%2C%2014%20%E2%80%94%2033040%20Stregna%20(UD)",
+      "image_url": null,
+      "description": "L'Agriturismo Casa delle Rondini è l'unico esercizio di ristorazione attivo nel comune di Stregna, situato nella frazione di Dughe a oltre 600 metri di quota. Gestito a livello familiare, offre un'esperienza di cucina regionale friulana e slavo-natisoniana, valorizzando prodotti dell'orto, carni locali, erbe spontanee e funghi di stagione. Il menu propone piatti tipici come frico, polenta taragna, zuppe contadine, secondi di carne e la tradizionale gubana come dolce, rappresentando un raro accesso autentico alla cucina tipica delle Valli del Natisone. L'apertura è limitata ai weekend ed è consigliata la prenotazione.",
+      "comune_name": "Stregna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/stregna.md"
+    }
+  ]
+}

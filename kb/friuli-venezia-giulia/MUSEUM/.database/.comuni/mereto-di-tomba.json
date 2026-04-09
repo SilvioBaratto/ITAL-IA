@@ -1,0 +1,63 @@
+{
+  "comune_name": "Mereto di Tomba",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mereto-di-tomba.md",
+  "extracted_at": "2026-04-09T10:50:59.211Z",
+  "pois": [
+    {
+      "name": "Castelliere di Savalons (Sito Archeologico dell'Età del Bronzo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castelliere%20di%20Savalons%20(Sito%20Archeologico%20dell'Et%C3%A0%20del%20Bronzo)%2C%20Mereto%20di%20Tomba",
+      "image_url": null,
+      "description": "Il Castelliere di Savalons è uno dei siti protostorici meglio conservati del Nordest italiano, risalente all'Età del Bronzo. L'insediamento fortificato presenta una struttura quadrangolare con terrapieni di 2-5 metri di altezza e un fossato parzialmente conservato. Gli scavi archeologici hanno portato alla luce reperti di vasellame e contenitori antichi, rendendolo uno dei castellieri più accessibili e valorizzati del Friuli Venezia Giulia. L'accesso è libero e il sito è significativo sia per appassionati che per la ricerca regionale.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Tumulo \"Tùmbare\" (Sito Archeologico Protostorico)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tumulo%20%22T%C3%B9mbare%22%20(Sito%20Archeologico%20Protostorico)%2C%20Mereto%20di%20Tomba",
+      "image_url": null,
+      "description": "Il Tumulo \"Tùmbare\" è il simbolo storico di Mereto di Tomba, testimonianza funeraria delle età protostoriche e legato all'origine del nome del comune. È noto soprattutto per la scoperta nel 2008 di uno scheletro quasi integro di alto rango risalente al II millennio a.C., che ha confermato la funzione sepolcrale del sito. Nei dintorni sono state identificate anche necropoli e resti romaniche, oltre a tratti della via Concordia-Noricum. Il sito è accessibile esternamente, mentre i reperti principali sono conservati presso enti regionali.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Mulino di Marchet (Patrimonio Etnografico e Industriale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mulino%20di%20Marchet%20(Patrimonio%20Etnografico%20e%20Industriale)%2C%20Mereto%20di%20Tomba",
+      "image_url": null,
+      "description": "Il Mulino di Marchet, costruito nel 1881 sulla sponda del torrente Ledra, è uno dei pochi mulini storici ancora funzionanti della pianura friulana. Conserva i meccanismi idraulici originali e rappresenta un importante documento della tradizione agricola locale fra Ottocento e Novecento. Il mulino, sebbene non sia aperto stabilmente al pubblico come museo, costituisce una tappa interessante per itinerari culturali e cicloturistici sul territorio.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Murales di San Marco — Ciclo pittorico di Gianni Di Lena",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Murales%20di%20San%20Marco%20%E2%80%94%20Ciclo%20pittorico%20di%20Gianni%20Di%20Lena%2C%20Mereto%20di%20Tomba",
+      "image_url": null,
+      "description": "Nel borgo di San Marco, un ciclo di murales realizzati da Gianni Di Lena decora le facciate delle case, raffigurando scene della vita rurale friulana. Queste opere offrono una testimonianza artistica e documentaria della civiltà contadina locale e sono liberamente visitabili passeggiando per le strade del paese. Il ciclo rappresenta uno spazio espositivo all'aperto, unico esempio locale di arte pubblica dedicata alla memoria storica.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mereto-di-tomba.md"
+    },
+    {
+      "name": "Mostra sulla Protostoria, Castellieri e Tumbare (Esposizione Temporanea — chiusa)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mostra%20sulla%20Protostoria%2C%20Castellieri%20e%20Tumbare%20(Esposizione%20Temporanea%20%E2%80%94%20chiusa)%2C%20Mereto%20di%20Tomba",
+      "image_url": null,
+      "description": "Allestita dal Comune di Mereto di Tomba dopo le campagne archeologiche del 2006–2008, la mostra era dedicata ai principali siti protostorici locali e presentava reperti, pannelli illustrativi e documenti relativi alla protostoria e all'epoca romana del territorio. L'esposizione, attiva fino al 2019, dimostra l'impegno della comunità nella valorizzazione del patrimonio archeologico, sebbene attualmente non sia più proposta in forma stabile.",
+      "comune_name": "Mereto di Tomba",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mereto-di-tomba.md"
+    }
+  ]
+}

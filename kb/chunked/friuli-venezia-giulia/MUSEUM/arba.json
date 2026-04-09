@@ -1,0 +1,39 @@
+{
+  "source_file": "friuli-venezia-giulia/MUSEUM/.comuni/arba.md",
+  "region": "friuli-venezia-giulia",
+  "category": "MUSEUM",
+  "comune_name": "Arba",
+  "province": "PN",
+  "page_title": "Arba",
+  "page_summary": "Questa guida segnala che nel comune di Arba non sono presenti musei o istituzioni culturali stabili della categoria MUSEUM; sono tuttavia descritti elementi di patrimonio archeologico e architettonico di interesse locale, tra cui i tumuli preistorici di Marcisinas e la chiesa parrocchiale di San Michele Arcangelo.",
+  "source_url": "kb/friuli-venezia-giulia/MUSEUM/.comuni/arba.md",
+  "processed_at": "2026-04-09T12:59:22.018Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/arba__0",
+      "text": "### Patrimonio archeologico di Marcisinas\n\n**Località:** Marcisinas, a sud del centro abitato di Arba  \n**Comune:** Arba (PN)\n\nIl sito di Marcisinas rappresenta la testimonianza più significativa della preistoria arbese. In questa area, posta a meridione del paese, sono stati individuati e parzialmente indagati una serie di **tumuli funerari** databili al II millennio a.C., attribuibili con ogni probabilità a popolazioni di cultura celtica o pre-celtica che si insediarono nella fascia pedemontana friulana in quell'epoca. I tumuli — strutture sepolcrali costituite da un cumulo di terra e pietre che ricoprivano le deposizioni — hanno restituito frammenti ceramici e altri manufatti che consentono di inquadrare cronologicamente e culturalmente l'insediamento.\n\nI reperti rinvenuti non sono esposti in loco, in quanto il sito non è attrezzato per la fruizione pubblica e non dispone di strutture museali. I materiali sono stati trasferiti per la conservazione e lo studio presso enti preposti della provincia di Pordenone. Il sito rimane tuttavia di notevole interesse per gli studiosi di protostoria friulana e per escursionisti interessati alla topografia storica del territorio.\n\nSono inoltre documentate, nel comprensorio Cellina-Meduna adiacente ad Arba, alcune tracce di una **villa rustica** di epoca romana, anch'essa priva di strutture di valorizzazione permanente.\n",
+      "metadata": {
+        "section_title": "Patrimonio archeologico di Marcisinas",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/MUSEUM/arba__1",
+      "text": "### Chiesa Parrocchiale di San Michele Arcangelo\n\n**Indirizzo:** Via Roma, Arba (PN) — centro del paese  \n**Culto:** Cattolico romano  \n**Diocesi:** Concordia-Pordenone\n\nPur non essendo un museo in senso stretto, la **chiesa parrocchiale di San Michele Arcangelo** costituisce il principale monumento storico-artistico del comune e custodisce elementi di interesse per chiunque si occupi di arte sacra locale. L'edificio attuale fu costruito tra il **1836 e il 1857**, in sostituzione di un precedente luogo di culto che sorgeva all'interno di una struttura difensiva medievale — la cosiddetta *cortina* — che racchiudeva il nucleo originario del paese. La *cortina*, documentata a partire dal 1379 e restaurata nel 1571 in risposta alla minaccia di invasioni turche, fu in gran parte demolita a seguito di eventi sismici nella prima metà del XIX secolo.\n\nL'architettura della chiesa riflette il gusto neoclassico tipico della produzione ecclesiastica friulana del secondo Ottocento. L'interno conserva arredi liturgici, dipinti e sculture di tradizione locale, espressione del ricco tessuto artigianale e devozionale della comunità arbese. La chiesa è aperta per le funzioni religiose; per visite fuori orario liturgico si consiglia di contattare la parrocchia o il comune.\n",
+      "metadata": {
+        "section_title": "Chiesa Parrocchiale di San Michele Arcangelo",
+        "links": [],
+        "addresses": [
+          "Via Roma, Arba (PN) — centro del paese"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

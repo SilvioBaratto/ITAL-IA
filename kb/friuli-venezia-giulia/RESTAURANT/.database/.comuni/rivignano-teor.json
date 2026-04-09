@@ -1,0 +1,63 @@
+{
+  "comune_name": "Rivignano Teor",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/rivignano-teor.md",
+  "extracted_at": "2026-04-09T11:15:19.583Z",
+  "pois": [
+    {
+      "name": "Ristorante Al Fiume",
+      "address": "Via Gabriele D'Annunzio 38, Flambruzzo (33061 Rivignano Teor)",
+      "website_url": "https://www.facebook.com/p/Ristorante-Al-Fiume-100063539501232/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Fiume%2C%20Via%20Gabriele%20D'Annunzio%2038%2C%20Flambruzzo%20(33061%20Rivignano%20Teor)",
+      "image_url": null,
+      "description": "Al Fiume è un ristorante nella frazione di Flambruzzo, noto punto di riferimento locale per la cucina italiana rivisitata con attenzione ai prodotti stagionali e alla tradizione friulana. L'atmosfera è genuina, informale e accogliente, con una forte identità legata allo spirito agricolo della zona. Nel tempo ha costruito una solida reputazione tra i residenti, testimoniata anche dall'elevato numero di presenze sulla propria pagina Facebook. Incorpora lo spirito della piccola comunità rurale in cui si trova.",
+      "comune_name": "Rivignano Teor",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/rivignano-teor.md"
+    },
+    {
+      "name": "La Regina del Bosco",
+      "address": "Via Francesco Petrarca 17, Flambruzzo (33050 Rivignano Teor)",
+      "website_url": "http://lareginadelbosco.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Regina%20del%20Bosco%2C%20Via%20Francesco%20Petrarca%2017%2C%20Flambruzzo%20(33050%20Rivignano%20Teor)",
+      "image_url": null,
+      "description": "La Regina del Bosco è un ristorante immerso nel paesaggio rurale di Flambruzzo che propone una cucina regionale friulana autentica. Caratterizzato dall'utilizzo di ingredienti locali e di stagione, il locale è rinomato per piatti tipici come i cjarsons, il frico con polenta e i salumi del territorio. L'atmosfera raccolta e familiare valorizza le peculiarità paesaggistiche e culturali della zona.",
+      "comune_name": "Rivignano Teor",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/rivignano-teor.md"
+    },
+    {
+      "name": "Le Fornaci del Zarnic – Ristoro Agrituristico",
+      "address": null,
+      "website_url": "https://www.lefornacidelzarnic.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fornaci%20del%20Zarnic%20%E2%80%93%20Ristoro%20Agrituristico%2C%20Rivignano%20Teor",
+      "image_url": null,
+      "description": "Le Fornaci del Zarnic si trova a Flambruzzo vicino al Biotopo naturale del Zarnic, proponendo un'esperienza agrituristica all'insegna dei sapori antichi e dell'accoglienza familiare. I piatti sono ispirati alle ricette tradizionali friulane e serviti su prenotazione, spesso accompagnati dai prodotti dell'azienda agricola come confetture e mostarde. L'agriturismo offre, oltre alla ristorazione, attività di agricampeggio, fattoria didattica e cene a tema, valorizzando il forte legame con il territorio.",
+      "comune_name": "Rivignano Teor",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/rivignano-teor.md"
+    },
+    {
+      "name": "La Tarabane",
+      "address": "Via Umberto Primo 22, Rivignano Teor (33061)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tarabane%2C%20Via%20Umberto%20Primo%2022%2C%20Rivignano%20Teor%20(33061)",
+      "image_url": null,
+      "description": "Situato nel centro di Rivignano, La Tarabane è un ristorante di cucina italiana con tocchi regionali friulani. Il locale, dal nome che evoca la lingua friulana, rappresenta un punto di incontro per la comunità locale grazie alla sua posizione centrale. Propone una cucina semplice e sincera, tipica dei locali di vicinato.",
+      "comune_name": "Rivignano Teor",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/rivignano-teor.md"
+    },
+    {
+      "name": "Pizzeria da Gas Gas",
+      "address": "Piazza Quattro Novembre 23, Rivignano Teor",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20da%20Gas%20Gas%2C%20Piazza%20Quattro%20Novembre%2023%2C%20Rivignano%20Teor",
+      "image_url": null,
+      "description": "Pizzeria da Gas Gas, situata sulla piazza centrale di Rivignano, è il luogo ideale per chi cerca una pizza o un pasto veloce in un ambiente informale. Frequentata da un pubblico giovane, contribuisce all'atmosfera conviviale della piazza, punto di riferimento per la ristorazione informale del paese.",
+      "comune_name": "Rivignano Teor",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/rivignano-teor.md"
+    }
+  ]
+}

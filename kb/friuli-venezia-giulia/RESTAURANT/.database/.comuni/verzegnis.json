@@ -1,0 +1,41 @@
+{
+  "comune_name": "Verzegnis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/verzegnis.md",
+  "extracted_at": "2026-04-09T11:24:30.949Z",
+  "pois": [
+    {
+      "name": "Bar Trattoria Al Cjavedal",
+      "address": "Verzegnis, via principale, 33020 Verzegnis (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Al%20Cjavedal%2C%20Verzegnis%2C%20via%20principale%2C%2033020%20Verzegnis%20(UD)",
+      "image_url": null,
+      "description": "Il Bar Trattoria Al Cjavedal rappresenta il cuore della vita quotidiana di Verzegnis, evolutosi nel tempo da semplice bar di paese a locale con un'offerta di ristorazione genuina e tradizionale. La cucina propone specialità tipiche carniche come frico con polenta, minestrone d'orzo, gnocchi al ragù e cjarsons nei giorni festivi, utilizzando ingredienti forniti da produttori locali. L'atmosfera è informale e autentica, tipica di un bar di montagna frequentato da residenti e lavoratori. Il locale offre un'esperienza gastronomica economica e fedele alla tradizione della Carnia.",
+      "comune_name": "Verzegnis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/verzegnis.md"
+    },
+    {
+      "name": "Agriturismo La Baita di Verzegnis",
+      "address": "Frazioni di Verzegnis, 33020 Verzegnis (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20La%20Baita%20di%20Verzegnis%2C%20Frazioni%20di%20Verzegnis%2C%2033020%20Verzegnis%20(UD)",
+      "image_url": null,
+      "description": "L'Agriturismo La Baita di Verzegnis è una struttura a conduzione familiare situata in posizione panoramica, aperta prevalentemente in estate e nei weekend stagionali. La cucina valorizza i prodotti propri dell'azienda agricola, come latte, formaggi, ortaggi, erbe selvatiche e carni locali, e offre piatti tipici come frittata di erbe, gnocchi, gulasch di capriolo e dolci tradizionali. L'ambiente caldo e rustico, con tavoli di legno e camino, crea un'atmosfera accogliente dove ogni piatto racconta la storia della montagna friulana. È consigliata la prenotazione per via dei posti limitati.",
+      "comune_name": "Verzegnis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/verzegnis.md"
+    },
+    {
+      "name": "Rifugio e Punto di Ristoro nei Sentieri di Verzegnis",
+      "address": "Sentieri escursionistici di Verzegnis, Prealpi Carniche (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20e%20Punto%20di%20Ristoro%20nei%20Sentieri%20di%20Verzegnis%2C%20Sentieri%20escursionistici%20di%20Verzegnis%2C%20Prealpi%20Carniche%20(UD)",
+      "image_url": null,
+      "description": "Lungo i sentieri escursionistici di Verzegnis trovano spazio alcune baite e malghe che fungono da punti di ristoro stagionali per camminatori e visitatori. Qui è possibile gustare formaggi freschi, ricotta, mele di montagna, salumi e pane, tutti prodotti locali serviti in modo semplice e informale. Queste soste offrono un'esperienza gastronomica autentica, priva di menu convenzionale e profondamente radicata nel paesaggio della Carnia. Gli orari e l'apertura variano in base alla stagione e al meteo, è quindi consigliato informarsi in loco.",
+      "comune_name": "Verzegnis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/verzegnis.md"
+    }
+  ]
+}

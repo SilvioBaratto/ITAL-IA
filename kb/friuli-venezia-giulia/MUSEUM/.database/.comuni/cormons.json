@@ -1,0 +1,30 @@
+{
+  "comune_name": "Cormons",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cormons.md",
+  "extracted_at": "2026-04-09T10:46:18.125Z",
+  "pois": [
+    {
+      "name": "Museo Civico del Territorio – Palazzo Locatelli",
+      "address": "Piazza XXIV Maggio, 22 – 34071 Cormòns (GO)",
+      "website_url": "http://www.comune.cormons.go.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Civico%20del%20Territorio%20%E2%80%93%20Palazzo%20Locatelli%2C%20Piazza%20XXIV%20Maggio%2C%2022%20%E2%80%93%2034071%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Il Museo Civico del Territorio si trova nello storico Palazzo Locatelli, edificio settecentesco e monumento civile di riferimento a Cormòns. Il museo espone una ricca collezione dedicata alla storia, cultura e arte del Collio e del territorio cormonese, tra cui spicca la raccolta di opere dello scultore Alfonso Canciani. Ospita inoltre materiali storici, documenti, fotografie e organizza regolarmente mostre temporanee, rappresentando un importante spazio di memoria e di promozione culturale cittadina.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cormons.md"
+    },
+    {
+      "name": "Museo del Duomo – Casa dell'antica Pieve",
+      "address": "Adiacente al Duomo di Sant'Adalberto, Via Matteotti – 34071 Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Duomo%20%E2%80%93%20Casa%20dell'antica%20Pieve%2C%20Adiacente%20al%20Duomo%20di%20Sant'Adalberto%2C%20Via%20Matteotti%20%E2%80%93%2034071%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Il Museo del Duomo, situato nella Casa dell'antica Pieve e adiacente al Duomo di Sant'Adalberto, accoglie una raccolta di arte sacra e oggetti liturgici provenienti dalle chiese del territorio. Pur di dimensioni ridotte, il museo permette di ripercorrere la vita religiosa e culturale di Cormòns dall'epoca altomedievale all'età moderna. L'accesso avviene generalmente previo accordo con la parrocchia.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cormons.md"
+    }
+  ]
+}

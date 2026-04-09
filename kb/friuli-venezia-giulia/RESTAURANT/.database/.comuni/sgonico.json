@@ -1,0 +1,41 @@
+{
+  "comune_name": "Sgonico",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sgonico.md",
+  "extracted_at": "2026-04-09T11:19:53.132Z",
+  "pois": [
+    {
+      "name": "Milič Zagrski",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mili%C4%8D%20Zagrski%2C%20Sgonico",
+      "image_url": null,
+      "description": "Milič Zagrski è una trattoria-osteria di cucina carsica a Sgonico, nota per proporre specialità tipiche del Carso con attenzione anche a vegetariani, vegani e celiaci. Il menù include taglieri di prosciutto carsico, formaggi e salumi locali, zuppe come la jota, carni alla brace e gulash mitteleuropeo, il tutto accompagnato da vini autoctoni come Vitovska e Terrano. Il locale è apprezzato sia dagli abitanti che dai visitatori per la sua autenticità e l'apertura verso le esigenze alimentari moderne. La fascia di prezzo è medio.",
+      "comune_name": "Sgonico",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sgonico.md"
+    },
+    {
+      "name": "Enoteca Sgonico — Ristorante di Pesce e Bed & Breakfast",
+      "address": "Località Sgonico, 15 — Sgonico (TS)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Sgonico%20%E2%80%94%20Ristorante%20di%20Pesce%20e%20Bed%20%26%20Breakfast%2C%20Localit%C3%A0%20Sgonico%2C%2015%20%E2%80%94%20Sgonico%20(TS)",
+      "image_url": null,
+      "description": "L'Enoteca Sgonico è un ristorante di pesce e enoteca situata nel capoluogo, rinomata per la qualità del pescato fresco abbinato ai vini tipici del Carso. Il menù varia in base al pescato del giorno e include crudità di pesce, grigliate e paste fresche, il tutto accompagnato da una ricca scelta di vini locali. La struttura offre anche servizi di B&B e degustazioni guidate su prenotazione, vantando un piacevole giardino estivo e un'accogliente sala interna. Le recensioni lodano la cucina squisita e l'atmosfera rilassata; fascia di prezzo medio-alta.",
+      "comune_name": "Sgonico",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sgonico.md"
+    },
+    {
+      "name": "Le Osmizze di Sgonico",
+      "address": null,
+      "website_url": "https://www.osmize.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Osmizze%20di%20Sgonico%2C%20Sgonico",
+      "image_url": null,
+      "description": "Le osmizze di Sgonico sono cantine contadine stagionali dove si possono degustare vini autoctoni come Vitovska, Malvasia e Terrano, accompagnati da taglieri di prosciutto carsico, formaggi locali, uova sode e piatti semplici del territorio. Aperte a rotazione nelle frazioni e nel comune durante primavera e autunno, le osmizze rappresentano la forma più autentica di convivialità gastronomica del Carso. Non si prenota: ci si accomoda ai tavoli rustici per vivere un'esperienza genuina e tradizionale. I prezzi sono economici e il calendario delle aperture è disponibile online.",
+      "comune_name": "Sgonico",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sgonico.md"
+    }
+  ]
+}

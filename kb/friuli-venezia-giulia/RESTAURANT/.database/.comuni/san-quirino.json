@@ -1,0 +1,30 @@
+{
+  "comune_name": "San Quirino",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-quirino.md",
+  "extracted_at": "2026-04-09T11:18:19.181Z",
+  "pois": [
+    {
+      "name": "Ristorante La Primula",
+      "address": "Via San Rocco, 47 – 33080 San Quirino (PN)",
+      "website_url": "https://www.ristorantelaprimula.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Primula%2C%20Via%20San%20Rocco%2C%2047%20%E2%80%93%2033080%20San%20Quirino%20(PN)",
+      "image_url": null,
+      "description": "La Primula è uno dei ristoranti più antichi e premiati del Friuli Venezia Giulia, gestito dalla stessa famiglia dal 1873. Lo chef Andrea Canton propone un'alta cucina che valorizza ingredienti locali come i funghi dei boschi prealpini e le erbe selvatiche dei Magredi, con una rilettura moderna della tradizione friulana. Il ristorante è stato insignito della Stella Michelin e offre una cantina di oltre 1700 etichette seguita da esperti sommelier. L'atmosfera è elegante ma accogliente, completata dalla presenza di un hotel storico nella stessa struttura.",
+      "comune_name": "San Quirino",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-quirino.md"
+    },
+    {
+      "name": "Osteria Alle Nazioni (presso La Primula)",
+      "address": "Via San Rocco, 47 – 33080 San Quirino (PN)",
+      "website_url": "https://www.ristorantelaprimula.it/osteria",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alle%20Nazioni%20(presso%20La%20Primula)%2C%20Via%20San%20Rocco%2C%2047%20%E2%80%93%2033080%20San%20Quirino%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Alle Nazioni, aperta nel 1993 accanto a La Primula, offre un'esperienza più informale puntando sulla cucina friulana di tradizione, reinterpretata con cura e attenzione alla stagionalità. Nel menu figurano specialità come la minestra di fagioli, il boreto alla gradese e il classico frico, in un ambiente conviviale e accessibile. La carta dei vini attinge alla ricca selezione della Primula, garantendo abbinamenti di qualità anche per i piatti semplici. È la scelta ideale per chi cerca autenticità gastronomica friulana senza l'impegno del fine dining.",
+      "comune_name": "San Quirino",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-quirino.md"
+    }
+  ]
+}

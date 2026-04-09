@@ -1,0 +1,63 @@
+{
+  "comune_name": "Farra D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/farra-d-isonzo.md",
+  "extracted_at": "2026-04-09T10:47:47.137Z",
+  "pois": [
+    {
+      "name": "Museo della Civiltà Contadina Friulana",
+      "address": "c/o Centro Culturale \"Riccardo Pitteri\", Farra d'Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Civilt%C3%A0%20Contadina%20Friulana%2C%20c%2Fo%20Centro%20Culturale%20%22Riccardo%20Pitteri%22%2C%20Farra%20d'Isonzo",
+      "image_url": null,
+      "description": "Il Museo della Civiltà Contadina Friulana custodisce una ricca collezione di oggetti e documenti legati alla vita rurale nella pianura isontina e nel Collio tra Ottocento e primo Novecento. Il museo, ospitato nel Centro Culturale \"Riccardo Pitteri\", raccoglie strumenti per la lavorazione della vite, attrezzi agricoli, suppellettili domestiche e abiti tradizionali, documentando in particolare il periodo post-Prima Guerra Mondiale. L'accesso è solitamente gratuito e la visita permette di riscoprire la memoria materiale delle comunità agricole locali.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Osservatorio Astronomico e Planetario del CCAF",
+      "address": "Località Colombara, strada Farra–Villanova, Farra d'Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osservatorio%20Astronomico%20e%20Planetario%20del%20CCAF%2C%20Localit%C3%A0%20Colombara%2C%20strada%20Farra%E2%80%93Villanova%2C%20Farra%20d'Isonzo",
+      "image_url": null,
+      "description": "L'Osservatorio Astronomico e Planetario del CCAF è uno dei principali osservatori astronomici amatoriali d'Italia e un rinomato centro di scoperta di asteroidi a livello mondiale. Il complesso comprende due cupole telescopiche, sala conferenze, terrazza di osservazione e un planetario moderno con tecnologia digitale full-dome, frequentato da oltre 77.000 visitatori dal 1985. Il CCAF si distingue per la sua intensa attività scientifica, la partecipazione a reti internazionali e le frequenti iniziative di divulgazione rivolte a scuole e appassionati.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Gallerie Cannoniere del Monte Fortino (Villanova di Farra)",
+      "address": null,
+      "website_url": "http://www.cimeetrincee.it/fortin.htm",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gallerie%20Cannoniere%20del%20Monte%20Fortino%20(Villanova%20di%20Farra)%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "Le Gallerie Cannoniere del Monte Fortino costituiscono un complesso di gallerie militari della Prima Guerra Mondiale scavate nella roccia, situate sulla collina di Villanova di Farra. Il sito conserva corridoi, caverne e nicchie realizzati dall'esercito italiano, testimonianza diretta della vita nelle trincee e delle strategie difensive del periodo. La visita è libera e le gallerie rappresentano un'importante tappa del circuito dei luoghi della memoria della Grande Guerra lungo l'Isonzo.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Palazzo Strassoldo-Peteani-Calice (Sede Municipale e Sala Civica)",
+      "address": "Piazza del Municipio, Farra d'Isonzo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Strassoldo-Peteani-Calice%20(Sede%20Municipale%20e%20Sala%20Civica)%2C%20Piazza%20del%20Municipio%2C%20Farra%20d'Isonzo",
+      "image_url": null,
+      "description": "Il Palazzo Strassoldo-Peteani-Calice è il principale edificio storico di Farra d'Isonzo, costruito a partire dal 1728 su un preesistente sito nobiliare. Ospita oggi il municipio, la biblioteca comunale e una sala civica utilizzata per mostre temporanee ed eventi culturali. Il palazzo, arricchito da un giardino storico, rappresenta un valido esempio dell'architettura aristocratica friulana del Settecento e svolge un ruolo centrale nella vita culturale del paese.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Villa Petric-Puiatti (Borgata del Molino)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Petric-Puiatti%20(Borgata%20del%20Molino)%2C%20Farra%20D%20Isonzo",
+      "image_url": null,
+      "description": "Villa Petric-Puiatti è una dimora ottocentesca situata nella Borgata del Molino, testimone di importanti vicende storiche del Novecento, tra cui la Linea Morgan e la presenza di comandi militari tedeschi, britannici e americani dopo la Seconda Guerra Mondiale. Sebbene non sia un museo visitabile, la villa rimane un rilevante punto di interesse negli itinerari storici sul confine orientale italiano e nel paesaggio vitivinicolo del Collio.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/farra-d-isonzo.md"
+    }
+  ]
+}

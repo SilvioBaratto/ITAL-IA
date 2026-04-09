@@ -1,0 +1,19 @@
+{
+  "comune_name": "Mariano del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mariano-del-friuli.md",
+  "extracted_at": "2026-04-09T10:50:34.297Z",
+  "pois": [
+    {
+      "name": "Biblioteca Comunale di Mariano del Friuli",
+      "address": "Via Manzoni 54, 34070 Mariano del Friuli (GO)",
+      "website_url": "http://www.comune.marianodelfriuli.go.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Comunale%20di%20Mariano%20del%20Friuli%2C%20Via%20Manzoni%2054%2C%2034070%20Mariano%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "La Biblioteca Comunale di Mariano del Friuli rappresenta il principale centro culturale pubblico del comune. Pur non essendo un museo in senso stretto, conserva documentazione storica sulla comunità, pubblicazioni locali e materiali legati alla storia del territorio. Ospita inoltre occasionalmente mostre temporanee, presentazioni di libri ed eventi culturali dedicati alla storia locale.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/mariano-del-friuli.md"
+    }
+  ]
+}

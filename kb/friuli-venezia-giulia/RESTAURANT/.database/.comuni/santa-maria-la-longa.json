@@ -1,0 +1,19 @@
+{
+  "comune_name": "Santa Maria La Longa",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/santa-maria-la-longa.md",
+  "extracted_at": "2026-04-09T11:18:43.730Z",
+  "pois": [
+    {
+      "name": "Trattoria Alla Berlina",
+      "address": "Via Aquileia 1, 33050 Santa Maria la Longa (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Berlina%2C%20Via%20Aquileia%201%2C%2033050%20Santa%20Maria%20la%20Longa%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Alla Berlina è il principale ristorante del comune, noto per la sua cucina friulana autentica e un'atmosfera genuina e accogliente. Il locale si distingue per il pane fatto in casa, la cura delle preparazioni e una buona scelta di piatti vegetariani, insolita in una trattoria tradizionale. I prezzi sono onesti e il servizio viene apprezzato per la cordialità e l'approccio casalingo. È il luogo ideale per chi desidera assaporare la quotidianità friulana e ricette della tradizione locale senza eccessi.",
+      "comune_name": "Santa Maria La Longa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/santa-maria-la-longa.md"
+    }
+  ]
+}

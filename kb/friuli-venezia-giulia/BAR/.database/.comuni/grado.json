@@ -1,0 +1,107 @@
+{
+  "comune_name": "Grado",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md",
+  "extracted_at": "2026-04-09T10:16:46.265Z",
+  "pois": [
+    {
+      "name": "Bar Bomben",
+      "address": "Riva Camperio 10, 34073 Grado (GO)",
+      "website_url": "https://barbombengrado.eatbu.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Bomben%2C%20Riva%20Camperio%2010%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Bar Bomben è un punto di riferimento amato per la colazione a Grado, situato sulla passeggiata del canale del porto. È noto per offrire la rinomata brioche Biasetto insieme a prodotti da forno artigianali e una selezione di vini al dettaglio. I tavolini all'aperto permettono di godere della brezza lagunare. Il locale è gestito con passione ed è attivo dal mattino fino a sera.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "Duca d'Aosta — Lounge Bar & Restaurant",
+      "address": "Piazza Duca d'Aosta 24/26, 34073 Grado (GO)",
+      "website_url": "https://www.ducadaostagrado.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duca%20d'Aosta%20%E2%80%94%20Lounge%20Bar%20%26%20Restaurant%2C%20Piazza%20Duca%20d'Aosta%2024%2F26%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Il Duca d'Aosta si presenta come un elegante bar e ristorante nel centro storico, caratterizzato da ambienti moderni e una posizione privilegiata sulla piazza principale. È famoso per l'ora dell'aperitivo con cicchetti veneziani, una ricca selezione di vini, champagne e cocktail preparati da barman esperti. L'atmosfera è curata e ideale per la socialità serale con musica lounge dopo il tramonto.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "VinArium",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=VinArium%2C%20Grado",
+      "image_url": null,
+      "description": "VinArium è un bar del centro storico dall'anima informale e autentica, noto per la sua ampia offerta di vini al bicchiere e cucina semplice a prezzi accessibili. Frequentato principalmente dai residenti gradesi, il locale offre cicchetti e vini friulani in un contesto conviviale con posti sia interni che esterni. È il luogo ideale per chi cerca la socialità quotidiana e un'atmosfera genuina.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "Enoteca Da Pino",
+      "address": "Via Galileo Galilei 13, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Da%20Pino%2C%20Via%20Galileo%20Galilei%2013%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Enoteca Da Pino è un locale raccolto e tradizionale dove la selezione di vini friulani e giuliani è la protagonista. Offre tavoli interni e dehors estivo, proponendo l'aperitivo come un'esperienza di degustazione con stuzzichini abbinati ai vini locali. È il posto ideale per gli appassionati di vini regionali, in cerca di tranquillità lontano dalla frenesia turistica.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "Al Anzolo",
+      "address": "Campo Patriarca Elia 15, 34073 Grado (GO)",
+      "website_url": "https://www.facebook.com/profile.php?id=100063673825805",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Anzolo%2C%20Campo%20Patriarca%20Elia%2015%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Al Anzolo è un caffè autentico situato in uno dei campielli più suggestivi del centro storico vicino alla basilica di Sant'Eufemia. Il locale ha un'atmosfera semplice e accogliente, con tavolini all'aperto che d'estate trasformano la piazzetta in un salotto urbano. È un bar di quartiere frequentato sia da residenti che da turisti curiosi.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "Rampa d'Oro",
+      "address": "Calle Zanini 11, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rampa%20d'Oro%2C%20Calle%20Zanini%2011%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Rampa d'Oro è un caffè nascosto nelle calli del centro storico, caratterizzato da un'atmosfera veneziana intima e autentica. Offre sia posti al chiuso con aria condizionata che tavolini all'aperto nel vicolo. È frequentato soprattutto dai residenti, che lo scelgono per la colazione o un caffè pomeridiano. Un indirizzo ideale per chi cerca un'esperienza fuori dai circuiti turistici.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "La Taca",
+      "address": "Piazzetta San Marco 12, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Taca%2C%20Piazzetta%20San%20Marco%2012%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "La Taca si trova in una delle piazzette più graziose del centro storico e offre un ambiente rilassato con tavolini all'aperto ideali per osservare il passeggio. Il locale propone bevande e caffetteria, mantenendo un tono familiare e accogliente, apprezzato da residenti e visitatori.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "Seti Cafè",
+      "address": "Campo Porta Nuova 17, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Seti%20Caf%C3%A8%2C%20Campo%20Porta%20Nuova%2017%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Seti Cafè si affaccia su un animato campiello del centro storico e dispone di tavolini esterni molto frequentati nelle serate estive. È un bar di passaggio ideale per una pausa durante la visita a Grado, offrendo un ambiente vivo e tipicamente locale.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    },
+    {
+      "name": "La Brocca Rotta",
+      "address": "Campo Porta Nuova 19, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Brocca%20Rotta%2C%20Campo%20Porta%20Nuova%2019%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "La Brocca Rotta, con il suo nome pittoresco, è un caffè accogliente che si affaccia su un campiello conviviale nel centro storico. Offre tavolini all'aperto e rappresenta una scelta autentica per colazioni o pause caffè in un ambiente storico e semplice.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/grado.md"
+    }
+  ]
+}

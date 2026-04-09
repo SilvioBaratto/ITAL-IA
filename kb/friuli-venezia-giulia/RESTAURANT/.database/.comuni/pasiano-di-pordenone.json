@@ -1,0 +1,107 @@
+{
+  "comune_name": "Pasiano di Pordenone",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md",
+  "extracted_at": "2026-04-09T11:10:56.521Z",
+  "pois": [
+    {
+      "name": "Trattoria da Carmelo",
+      "address": "Via Sant'Urbano, 6",
+      "website_url": "https://www.trattoria-dacarmelo.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Carmelo%2C%20Via%20Sant'Urbano%2C%206",
+      "image_url": null,
+      "description": "Trattoria da Carmelo è un punto di riferimento della cucina friulana tradizionale a Pasiano di Pordenone, riconosciuta dalla guida Slow Food \"Osterie d'Italia\" e valutata positivamente su TripAdvisor. Il locale, a conduzione familiare, offre un ambiente rustico con camino in pietra e una caratteristica pergolata estiva. La cucina propone piatti tipici come il gallo in tecia, paste fresche fatte in casa, carni da caccia e specialità casalinghe, valorizzando ingredienti stagionali e vini regionali serviti alla spina secondo tradizione. È il luogo ideale per assaporare la genuinità della cucina locale in un contesto accogliente e autentico.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Podere dell'Angelo Ristorante",
+      "address": "Via Frascade, 30 a Visinale",
+      "website_url": "http://www.poderedellangelo.eu/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Podere%20dell'Angelo%20Ristorante%2C%20Via%20Frascade%2C%2030%20a%20Visinale",
+      "image_url": null,
+      "description": "Podere dell'Angelo propone una cucina di livello gastronomico immersa nella campagna friulana, con ristorante fine dining e bistrot agrituristico all'interno di una tenuta di 150 ettari. Gestito dallo chef Carlo Nappo, il locale unisce prodotti biologici coltivati in azienda a tecniche culinarie raffinate e creative. L'atmosfera spazia dall'eleganza della sala ristorante con cantina a vista all'accoglienza informale del bistrot, incarnando la moderna evoluzione dell'agriturismo friulano.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Flame'n Co. Pasiano",
+      "address": "Via Sant'Antonio, 9",
+      "website_url": "https://www.flameandco.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Flame'n%20Co.%20Pasiano%2C%20Via%20Sant'Antonio%2C%209",
+      "image_url": null,
+      "description": "Flame'n Co. Pasiano è una brasserie moderna fondata dallo chef stellato Marco Carraro, specializzata in carni di qualità da tutto il mondo cotte su forno a legna BBQ. Il ristorante combina la tradizione friulana della griglia e allevamento bovino con un design contemporaneo e un'ampia selezione di birre artigianali, tra cui la Zahre prodotta localmente. L'atmosfera elegante e la cura nella presentazione dei piatti lo rendono un indirizzo di riferimento nel panorama steakhouse regionale.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Chick a Boom Brew Pub",
+      "address": "Viale del Mobile, 5",
+      "website_url": "https://chickaboom.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chick%20a%20Boom%20Brew%20Pub%2C%20Viale%20del%20Mobile%2C%205",
+      "image_url": null,
+      "description": "Chick a Boom Brew Pub è un locale d'ispirazione americana con ambiente vivace e informale, specializzato in pollame alla griglia e hamburger preparati in casa. Decorato con memorabilia anni Cinquanta, offre servizio serale e consegna a domicilio, proponendo menu accessibili che spaziano dal galletto alle varianti di panini e club sandwich. La ricca selezione di birre, sia locali che internazionali, completa l'offerta di questa gastropub contemporanea.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Hostaria Frasca",
+      "address": "Via Roma, 179",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hostaria%20Frasca%2C%20Via%20Roma%2C%20179",
+      "image_url": null,
+      "description": "Hostaria Frasca è una trattoria tradizionale specializzata in bistecche di manzo e carni alla griglia, dove la cottura della famosa Costata avviene a vista dei clienti. Il menu si concentra su piatti di carne di alta qualità come la tartare, ma propone anche opzioni vegetariane. L'atmosfera è spaziosa e adatta alle famiglie, e il locale si distingue per l'attenzione alla selezione del prodotto e alla teatralità della preparazione.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Cip Ciop La Pizza",
+      "address": "Via Don Lucio Gera, 12",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cip%20Ciop%20La%20Pizza%2C%20Via%20Don%20Lucio%20Gera%2C%2012",
+      "image_url": null,
+      "description": "Cip Ciop La Pizza offre pizze tradizionali, pinsa romana e focacce in un locale moderno e accogliente, rinnovato di recente. È molto apprezzata dalla clientela per l'impasto a lunga lievitazione e per la qualità degli ingredienti freschi e di stagione. L'ambiente accessibile e una variata proposta di pizze la rendono una meta per tutte le fasce di clientela appassionata di pizza contemporanea.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Pizzeria Arte Povera",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Arte%20Povera%2C%20Pasiano%20di%20Pordenone",
+      "image_url": null,
+      "description": "Fondata nel 2021, Pizzeria Arte Povera si contraddistingue per l'approccio \"slow pizza\", esaltando la semplicità della pizza attraverso ingredienti selezionati di alta qualità. Il concetto richiama il movimento artistico dell'Arte Povera, valorizzando la maestria nel trattamento delle materie prime. Il locale è accessibile con scontrini medi contenuti e offre servizio di consegna anche alle frazioni limitrofe, democratizzando il gusto autentico della pizza.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Pizzeria Da Eligio",
+      "address": "Via S. Martino, 8",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Eligio%2C%20Via%20S.%20Martino%2C%208",
+      "image_url": null,
+      "description": "Pizzeria Da Eligio è una pizzeria che rappresenta la tradizione della pizza come elemento democratico nella gastronomia friulana, offrendo opzioni semplici e di qualità accessibili a tutti. Il locale rispetta la tradizione locale offrendo pizze che valorizzano la semplicità e ingredienti genuini.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    },
+    {
+      "name": "Pizzerie Euganini Massimo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzerie%20Euganini%20Massimo%2C%20Pasiano%20di%20Pordenone",
+      "image_url": null,
+      "description": "Pizzerie Euganini Massimo propone pizze secondo la tradizione friulana, inserendosi tra le opzioni accessibili e di qualità del territorio. È un punto di riferimento per chi cerca una pizza genuina, preparata con attenzione alla materia prima in un contesto informale.",
+      "comune_name": "Pasiano di Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pasiano-di-pordenone.md"
+    }
+  ]
+}

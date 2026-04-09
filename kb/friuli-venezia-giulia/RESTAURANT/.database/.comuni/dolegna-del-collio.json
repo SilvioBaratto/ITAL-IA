@@ -1,0 +1,140 @@
+{
+  "comune_name": "Dolegna del Collio",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md",
+  "extracted_at": "2026-04-09T11:00:36.520Z",
+  "pois": [
+    {
+      "name": "L'Argine a Vencò",
+      "address": "Località Vencò 15, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Argine%20a%20Venc%C3%B2%2C%20Localit%C3%A0%20Venc%C3%B2%2015%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "L'Argine a Vencò è un ristorante di alta cucina contemporanea guidato dalla chef Antonia Klugmann, insignito di una stella Michelin. Situato in un ex molino completamente ristrutturato con vista sui vigneti, offre menu degustazione stagionali realizzati con ingredienti dall’orto e grande attenzione all’uso delle erbe aromatiche. La selezione dei vini si concentra su etichette locali e l’atmosfera è elegante ma accogliente. I prezzi sono elevati, riflettendo la proposta gastronomica raffinata e d'avanguardia.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Ronchi Rò",
+      "address": "Località Cime di Dolegna 12, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ronchi%20R%C3%B2%2C%20Localit%C3%A0%20Cime%20di%20Dolegna%2012%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Ronchi Rò è un agriturismo con ristorazione intima, guidato dallo chef Fares Issa, che presenta una cucina friulana contemporanea basata su ingredienti stagionali e ricette regionali. L'atmosfera è informale e circondata dalla natura, e la carta dei vini valorizza esclusivamente etichette DOC Collio, molte biologiche. Ha ricevuto il riconoscimento Michelin Bib Gourmand 2025 ed è ideale per chi cerca autenticità e accoglienza senza eccessiva sofisticatezza.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Trattoria Blanch",
+      "address": "Via Blanchis 35, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Blanch%2C%20Via%20Blanchis%2035%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Blanch è una storica trattoria di famiglia fondata nel 1904, famosa per la sua cucina tradizionale del Collio con influenze centroeuropee. Il menu stagionale offre specialità come salami affumicati, spätzli, carni grigliate e dolci tradizionali in un ambiente caloroso e conviviale. Il servizio è efficiente e la selezione dei vini è di buona qualità, rendendo il locale una scelta autentica per la cucina del territorio.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Fattoria Ambrosi",
+      "address": "Localita' Lonzano 7, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fattoria%20Ambrosi%2C%20Localita'%20Lonzano%207%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Fattoria Ambrosi offre un'esperienza di cucina agricola diretta, con piatti preparati usando ingredienti prodotti e allevati dall’azienda stessa. Il menu varia stagionalmente e comprende gnocchi fatti in casa, paste fresche e carni di produzione propria, accompagnate dai vini aziendali. L’ambiente è semplice e familiare, ideale per chi cerca autenticità. Il locale ha un’ottima valutazione su Tripadvisor.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Trattoria Al Collio Da Vinicio",
+      "address": "Via Zorutti 21, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Collio%20Da%20Vinicio%2C%20Via%20Zorutti%2021%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Al Collio Da Vinicio è un locale storico immerso fra i vigneti, celebre per la cucina friulana fedele alle ricette tradizionali e per la sua clientela affezionata. Il menu propone insaccati locali, paste fatte in casa e piatti di selvaggina in stagione. L’atmosfera è rurale e informale, perfetta per chi cerca semplicità e autenticità.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Tenuta Sant'Helena",
+      "address": "Frazione Vencò, Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tenuta%20Sant'Helena%2C%20Frazione%20Venc%C3%B2%2C%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Tenuta Sant'Helena è un'azienda vitivinicola con ristorante ed enoteca, situata su una collina panoramica di Vencò. Propone una cucina locale associata ai vini prodotti in loco, valorizzando il terroir del Collio. L’esperienza include visite ai vigneti, degustazioni e piatti tipici abbinati a vini della tenuta in un ambiente suggestivo.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Antica Trattoria Ferreghini",
+      "address": "Via Zorutti 1, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20Ferreghini%2C%20Via%20Zorutti%201%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "L’Antica Trattoria Ferreghini è uno dei locali più antichi dell’area, fondato nel 1871 come bottega e diventato trattoria a gestione familiare. Il menu mette al centro insaccati, paste fatte in casa e carne di produzione propria, in un'atmosfera autentica e semplice. La gestione è tramandata da generazioni di donne della famiglia ed è apprezzata per la qualità dei prodotti genuini.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Agriturismo al Granatiere",
+      "address": "Frazione Scriò 9, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20al%20Granatiere%2C%20Frazione%20Scri%C3%B2%209%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Agriturismo al Granatiere offre una cucina friulana tradizionale e stagionale, in una sala grande e ristrutturata dal carattere conviviale. I piatti valorizzano prodotti locali come carne, formaggi, polenta, frittate di erbe e gnocchi fatti in casa. È ideale per pasti di gruppo e celebrazioni, poiché serve solo su prenotazione per almeno 20 persone.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Hostaria Pettirosso",
+      "address": "Località Lonzano 4, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hostaria%20Pettirosso%2C%20Localit%C3%A0%20Lonzano%204%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Hostaria Pettirosso abbina un raffinato ristorante a un bed & breakfast in un ambiente intimo e curato. La cucina si distingue per i piatti a base di pesce, una scelta originale rispetto alla tradizione locale orientata alla carne. Il menu varia a seconda della disponibilità e delle preferenze degli ospiti, offrendo grande attenzione alla qualità. Il locale è molto apprezzato per il rapporto qualità-prezzo e l’ospitalità attenta.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Trattoria Al Ponte Di Trussio",
+      "address": "Localita' Ruttars 2, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Ponte%20Di%20Trussio%2C%20Localita'%20Ruttars%202%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Al Ponte Di Trussio è una trattoria tradizionale situata nella frazione Ruttars, con cucina friulana regionale in un ambiente rustico e conviviale. Adatta a gruppi e famiglie, offre un'esperienza semplice e genuina. Si consiglia di verificare l’apertura prima della visita in quanto alcune fonti riportano il locale come chiuso.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Ristorante Alla Vite d'Oro",
+      "address": "Località Scriò 15, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Alla%20Vite%20d'Oro%2C%20Localit%C3%A0%20Scri%C3%B2%2015%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Ristorante Alla Vite d'Oro si trova nella frazione Scriò e offre piatti della cucina regionale friulana accompagnati da una selezione di vini locali. Il locale presenta un’atmosfera informale, ideale per famiglie e gruppi che desiderano una ristorazione tradizionale e semplice.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Trattoria Da Giovanna",
+      "address": "Località Mernico 16, 34070 Dolegna del Collio (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Giovanna%2C%20Localit%C3%A0%20Mernico%2016%2C%2034070%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Da Giovanna è una piccola trattoria di famiglia nota per la specializzazione in piatti a base di selvaggina, arricchiti da influenze centroeuropee. Il menu offre anche cucina tipica friulana, con una particolare attenzione alle ricette di caccia, il tutto in un’atmosfera semplice e informale.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dolegna-del-collio.md"
+    }
+  ]
+}

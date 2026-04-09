@@ -1,0 +1,85 @@
+{
+  "comune_name": "Maniago",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md",
+  "extracted_at": "2026-04-09T11:06:01.329Z",
+  "pois": [
+    {
+      "name": "Pizzeria all'Angolo",
+      "address": "Via Umberto I, 64 - 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20all'Angolo%2C%20Via%20Umberto%20I%2C%2064%20-%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria all'Angolo è un locale a conduzione familiare, popolare a Maniago sia come ristorante che come punto di asporto. Offre più di 60 varietà di pizza, pasta fresca, panini e anche piatti di pesce, tutto in un ambiente casual e accogliente. È noto per la qualità costante, la pizza leggera e generosa e la possibilità di ordinare a domicilio.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    },
+    {
+      "name": "Ristorante Parco Vittoria (Eurohotel Palace)",
+      "address": "Eurohotel Palace Maniago (sede centrale e principale)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Parco%20Vittoria%20(Eurohotel%20Palace)%2C%20Eurohotel%20Palace%20Maniago%20(sede%20centrale%20e%20principale)",
+      "image_url": null,
+      "description": "Il Ristorante Parco Vittoria, situato presso l'Eurohotel Palace, è riconosciuto per oltre 30 anni di eccellenza nel settore grazie a Mauro Casaro e Angelo Baldi. La cucina valorizza le tradizioni friulane e venete con un'attenzione particolare ai piatti di pesce, tra cui il gran fritto, i risotti e le cruditées di mare. L'ambiente elegante con giardino e terrazza lo rende ideale per cene romantiche ed eventi.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    },
+    {
+      "name": "Osteria Vecchia Maniago (Osteria Vecchia Anima)",
+      "address": "Via Castello, 10 - 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Vecchia%20Maniago%20(Osteria%20Vecchia%20Anima)%2C%20Via%20Castello%2C%2010%20-%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Osteria Vecchia Maniago è un piccolo locale intimo che propone cucina friulana tradizionale reinterpretata con creatività. Con pochi tavoli, è apprezzato per l'atmosfera familiare e il servizio attento, oltre a una carta dei vini curata e selezioni di distillati e formaggi locali. È ideale per chi cerca autenticità in un ambiente accogliente.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    },
+    {
+      "name": "Al Luogo del Giulio (Agriturismo)",
+      "address": "Via Pordenone, 155 - 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Luogo%20del%20Giulio%20(Agriturismo)%2C%20Via%20Pordenone%2C%20155%20-%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Al Luogo del Giulio è un agriturismo con cucina legata alla tradizione friulana, situato in una storica azienda agricola alle porte di Maniago. Propone piatti tipici, spesso reinterpretati, utilizzando prodotti della propria azienda. Offre menu attenti a diverse esigenze alimentari, con portate abbondanti sia nella versione fissa settimanale che in quella domenicale. È possibile acquistare prodotti locali come vino, salumi, frutta e miele.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    },
+    {
+      "name": "Antica Trattoria Tre Torri",
+      "address": "Via Roma, 10 - 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20Tre%20Torri%2C%20Via%20Roma%2C%2010%20-%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Antica Trattoria Tre Torri è una storica istituzione culinaria di Maniago, situata in posizione centrale. Offre piatti tipici della cucina friulana preparati con attenzione ai sapori autentici e ai prodotti locali. L'atmosfera è familiare e genuina, perfetta per chi desidera scoprire la tradizione gastronomica del territorio.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    },
+    {
+      "name": "Trattoria alla Casasola",
+      "address": "Via Piave, 57 - 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Casasola%2C%20Via%20Piave%2C%2057%20-%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Trattoria alla Casasola, aperta nel 1910 e gestita dal 2015 da Florina e Marian, mantiene in vita la tradizione friulana con un menu semplice e curato. Il locale è noto per l'atmosfera rilassata e la cucina che valorizza ingredienti tipici del Friuli Venezia Giulia. La qualità deriva dalla cura nei dettagli e dalla passione dei gestori.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    },
+    {
+      "name": "Yokoso Maniago Ristorante Giapponese",
+      "address": "Via Umberto I, 50 - 33085 Maniago (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Yokoso%20Maniago%20Ristorante%20Giapponese%2C%20Via%20Umberto%20I%2C%2050%20-%2033085%20Maniago%20(PN)",
+      "image_url": null,
+      "description": "Yokoso Maniago propone cucina giapponese, cinese e tailandese, offrendo una vasta selezione di sushi, nigiri, sashimi e piatti asiatici. L'ambiente è moderno, il servizio cordiale e i prezzi sono nella media. Rappresenta la scelta ideale per chi cerca un'alternativa alla cucina locale friulana.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/maniago.md"
+    }
+  ]
+}

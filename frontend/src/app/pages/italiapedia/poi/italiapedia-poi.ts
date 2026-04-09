@@ -89,12 +89,6 @@ export class ItaliapediaPoiComponent implements OnInit, OnDestroy {
     ];
   });
 
-  readonly coordinates = computed(() => {
-    const p = this.poi();
-    if (!p || p.latitude === null || p.longitude === null) return null;
-    return `${p.latitude.toFixed(5)}, ${p.longitude.toFixed(5)}`;
-  });
-
   readonly isSaved = computed(() => {
     const p = this.poi();
     const region = this.region();

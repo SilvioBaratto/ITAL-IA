@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forni di Sotto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sotto.md",
+  "extracted_at": "2026-04-09T10:27:01.182Z",
+  "pois": [
+    {
+      "name": "Pieve di Santa Maria del Rosario (chiesa parrocchiale)",
+      "address": "Via della Pieve, Forni di Sotto (UD)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68446",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santa%20Maria%20del%20Rosario%20(chiesa%20parrocchiale)%2C%20Via%20della%20Pieve%2C%20Forni%20di%20Sotto%20(UD)",
+      "image_url": null,
+      "description": "La Pieve di Santa Maria del Rosario è la storica chiesa parrocchiale di Forni di Sotto, dalle origini altomedievali e ricostruita tra il 1950 e il 1955 dopo la distruzione del 1944. Si erge su un colle e rappresenta la matrice religiosa della vallata, con un’impostazione architettonica sobria ma imponente e conservando la memoria della pieve primitiva. È l’ottava tappa del Cammino delle Pievi della Carnia, simbolo di continuità spirituale per la comunità locale.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Chiesa di San Lorenzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Lorenzo%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "La chiesa di San Lorenzo, poco distante dal centro di Forni di Sotto, custodisce un pregevole ciclo di affreschi realizzati nel 1492 da Gianfrancesco da Tolmezzo, principale esponente dell'arte friulana del Quattrocento. Risparmiata dall’incendio del 1944 grazie alla sua posizione periferica, è oggi la più significativa testimonianza di arte sacra premoderna del paese. Gli affreschi raffigurano santi, scene del martirio di San Lorenzo e dottori della chiesa, distinguendo l’edificio come importante monumento artistico della Carnia.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Chiesa di San Rocco",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68449",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "Situata nella frazione di Tredolo, la Chiesa di San Rocco è una tipica cappella votiva di montagna, costruita nel 1521 e restaurata più volte fino al recente intervento del 2005. L’edificio si distingue per il portico basso a tre falde sorretto da colonne doriche, elemento tradizionale che offriva riparo ai fedeli durante le funzioni esterne. Grazie alla sua posizione decentrata, la chiesa è sopravvissuta alla distruzione del 1944 e testimonia la devozione a San Rocco, patrono degli appestati e dei pellegrini.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sotto.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine della Pietà",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20della%20Piet%C3%A0%2C%20Forni%20di%20Sotto",
+      "image_url": null,
+      "description": "La Chiesa della Beata Vergine della Pietà si trova nella frazione di Vico, tradizionalmente la più antica del comune, ed è una cappella sussidiaria dedicata alla Vergine Maria. Collegata alle origini pievane di Forni di Sotto, rappresenta ancora oggi un importante punto di riferimento per la devozione mariana locale. Pur priva di informazioni dettagliate sulla struttura, la sua rilevanza è soprattutto storica e comunitaria.",
+      "comune_name": "Forni di Sotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/forni-di-sotto.md"
+    }
+  ]
+}

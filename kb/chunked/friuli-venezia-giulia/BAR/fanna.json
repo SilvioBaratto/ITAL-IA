@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/fanna.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Fanna",
+  "province": "PN",
+  "page_title": "Fanna",
+  "page_summary": "Guida ai principali bar del comune di Fanna: Vanich Bar nella frazione di Mioni e Al Giardino a Visinale, locali di riferimento per la socialità di paese.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/fanna.md",
+  "processed_at": "2026-04-09T12:07:50.668Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/fanna__0",
+      "text": "### Vanich Bar\n\n**Località:** Via Montelieto, Mioni (I Mions) — Fanna (PN), 33092\n\nIl Vanich Bar è il locale di riferimento per la frazione di Mioni, la più popolosa tra le località del comune di Fanna. Classificato su OpenStreetMap come *pub*, si tratta in realtà di un bar di paese a tutto tondo, come ce ne sono ancora tanti nel Friuli rurale: aperto al mattino per il caffè degli artigiani e degli agricoltori della zona, frequentato a pranzo dai lavoratori di passaggio sulla SR 464 di Spilimbergo, e di nuovo nel tardo pomeriggio per l'aperitivo. Lo spritz al Aperol o al Select — la versione più diffusa in questa fascia pedemontana — è la bevanda d'elezione quando il sole comincia a scendere sulle colline che separano Fanna da Frisanco.\n\nVia Montelieto attraversa la frazione di Mioni in direzione est-ovest, lambendo le abitazioni più antiche del borgo. Il Vanich Bar si trova su questa via, in un edificio dal carattere tipicamente friulano: facciata intonacata, spazio interno raccolto con bancone in legno, qualche tavolo per chi vuole sedersi. Nei mesi estivi è probabile che ci sia qualche seduta all'aperto, in linea con l'abitudine regionale di sfruttare ogni dehors possibile nelle belle giornate. Durante la Sagra delle Mele Antiche, che si tiene solitamente in ottobre nel centro di Fanna, il locale è uno dei punti di passaggio naturale per i visitatori che arrivano da fuori paese.\n\nNon risulta un sito web attivo. Per orari aggiornati si consiglia di contattare direttamente il locale o il comune di Fanna.",
+      "metadata": {
+        "section_title": "Vanich Bar",
+        "links": [],
+        "addresses": [
+          "Via Montelieto, Mioni (I Mions) — Fanna (PN), 33092"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/fanna__1",
+      "text": "### Al Giardino\n\n**Località:** Via Circonvallazione Nuova, Visinale (Visinâl) — Fanna (PN), 33092\n\nAl Giardino è un esercizio di ristorazione situato nella località Visinale, a sud del centro di Fanna, lungo la via che percorre la parte più pianeggiante del comune verso la SR 464. Il locale è censito su OpenStreetMap come ristorante, ma nella tradizione dei locali di campagna friulani — e tanto più in un paese di questa dimensione — la distinzione tra bar, trattoria e osteria è spesso labile: lo stesso spazio accoglie chi vuole solo un caffè al mattino, chi si ferma a pranzo per un piatto caldo, e chi la sera cerca compagnia davanti a un calice di vino. È ragionevole supporre che Al Giardino svolga anche funzione di bar per la frazione di Visinale.\n\nIl nome suggerisce la presenza di uno spazio esterno, probabilmente un giardino o cortile che nella stagione calda diventa il luogo privilegiato per consumare bevande fresche o un pasto all'aria aperta. In un'area come quella di Fanna, dove il paesaggio è caratterizzato da colline dolci, filari di meli e la presenza discreta del torrente Colvera, mangiare o bere all'aperto ha un fascino genuino e poco mondano. La cucina, quando è presente, ruota intorno ai prodotti locali: i formaggi di malga delle vicine valli, la polenta, i salumi friulani, e ovviamente le mele del territorio nelle loro diverse preparazioni (strudel, torte, succhi).\n\nNon risulta un sito web attivo.",
+      "metadata": {
+        "section_title": "Al Giardino",
+        "links": [],
+        "addresses": [
+          "Via Circonvallazione Nuova, Visinale (Visinâl) — Fanna (PN), 33092"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

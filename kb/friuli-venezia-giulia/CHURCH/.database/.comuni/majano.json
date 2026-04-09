@@ -1,0 +1,41 @@
+{
+  "comune_name": "Majano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/majano.md",
+  "extracted_at": "2026-04-09T10:29:26.362Z",
+  "pois": [
+    {
+      "name": "Chiesa dei Santi Pietro e Paolo — Majano capoluogo",
+      "address": null,
+      "website_url": "http://www.comune.majano.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Pietro%20e%20Paolo%20%E2%80%94%20Majano%20capoluogo%2C%20Majano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale dei Santi Pietro e Paolo è il principale luogo di culto del capoluogo di Majano, originariamente costruita tra il 1768 e il 1780 su progetto di Domenico Schiavi. Dopo i gravi danni subiti nel terremoto del 1976, la chiesa fu completamente ricostruita con forme architettoniche contemporanee, mantenendo simbolicamente parte del campanile storico. L'interno celebra la tradizione locale e la comunità, e ospita campane fuse dalla storica Fonderia Grassmayr di Innsbruck.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/majano.md"
+    },
+    {
+      "name": "Chiesa di Santo Stefano Protomartire — Susans",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santo%20Stefano%20Protomartire%20%E2%80%94%20Susans%2C%20Majano",
+      "image_url": null,
+      "description": "Situata nel centro della frazione di Susans, la chiesa parrocchiale di Santo Stefano Protomartire risale all'inizio dell'Ottocento, con una tradizione religiosa documentata fin dal XII secolo. Lo stile neoclassico e la struttura a navata unica la rendono tipica delle chiese campestri friulane. Dopo i danni del terremoto del 1976, è stata restaurata nel rispetto dell'impostazione storica; la festa patronale si celebra il 26 dicembre.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/majano.md"
+    },
+    {
+      "name": "Ospitale e Chiesa di San Giovanni di Gerusalemme — San Tomaso di Majano",
+      "address": null,
+      "website_url": "https://hospitalesangiovanni.wordpress.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ospitale%20e%20Chiesa%20di%20San%20Giovanni%20di%20Gerusalemme%20%E2%80%94%20San%20Tomaso%20di%20Majano%2C%20Majano",
+      "image_url": null,
+      "description": "Fondato nel 1199 dai Cavalieri di San Giovanni di Gerusalemme, questo complesso ospitaliero medievale è uno dei più importanti del Friuli, situato nella frazione di San Tomaso lungo un antico itinerario di pellegrinaggio. Consiste in una chiesa romanica e in un'area di accoglienza per i viandanti, testimoniando la storica vocazione del luogo all'ospitalità e alla carità. Dopo secoli di abbandono, è stato recuperato dal Comune di Majano e oggi ospita eventi culturali e iniziative storiche.",
+      "comune_name": "Majano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/majano.md"
+    }
+  ]
+}

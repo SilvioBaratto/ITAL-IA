@@ -1,0 +1,30 @@
+{
+  "comune_name": "Savogna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/savogna.md",
+  "extracted_at": "2026-04-09T11:19:11.464Z",
+  "pois": [
+    {
+      "name": "Ristorante Vartacia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Vartacia%2C%20Savogna",
+      "image_url": null,
+      "description": "Il Ristorante Vartacia è il principale punto di riferimento gastronomico a Savogna, gestito da Luca Floreancig e dedicato alla cucina tradizionale delle Valli del Natisone. Il locale si distingue per la proposta di piatti radicati nella tradizione friulana e slovena, preparati con prodotti locali come funghi, formaggi d'alpeggio e carne del territorio. Frequentato da residenti e visitatori, il Vartacia è anche un luogo di aggregazione, custode della memoria culinaria locale. Tra le specialità da provare spiccano il frico croccante con polenta, il tocio furbo, i secondi di selvaggina e gli stukli ripieni.",
+      "comune_name": "Savogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/savogna.md"
+    },
+    {
+      "name": "Rifugio Pelizzo",
+      "address": "Località Montemaggiore — 33040 Savogna (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Pelizzo%2C%20Localit%C3%A0%20Montemaggiore%20%E2%80%94%2033040%20Savogna%20(UD)",
+      "image_url": null,
+      "description": "Il Rifugio Pelizzo si trova nella frazione di Montemaggiore, in posizione panoramica sulle creste delle Valli del Natisone verso la Slovenia. Funziona come rifugio alpino e ristorante, offrendo cucina semplice di montagna con piatti sostanziosi a base di prodotti locali come polenta, formaggi, salumi e zuppe rustiche. È un punto di ristoro essenziale per gli escursionisti diretti al Monte Matajur e offre splendide viste sulla valle e sulla pianura friulana. Si consiglia di informarsi sull'apertura stagionale prima della visita.",
+      "comune_name": "Savogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/savogna.md"
+    }
+  ]
+}

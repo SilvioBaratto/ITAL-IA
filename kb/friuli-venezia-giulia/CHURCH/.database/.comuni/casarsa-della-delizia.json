@@ -1,0 +1,85 @@
+{
+  "comune_name": "Casarsa della Delizia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md",
+  "extracted_at": "2026-04-09T10:21:21.003Z",
+  "pois": [
+    {
+      "name": "Chiesa arcipretale di Santa Croce e Beata Vergine del Rosario *(Capoluogo)*",
+      "address": "Via Risorgimento, Casarsa della Delizia",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=65482",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20arcipretale%20di%20Santa%20Croce%20e%20Beata%20Vergine%20del%20Rosario%20*(Capoluogo)*%2C%20Via%20Risorgimento%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "La chiesa arcipretale di Santa Croce e Beata Vergine del Rosario è il principale luogo di culto del capoluogo, caratterizzata dallo stile neoclassico e dai due campanili gemelli che la rendono unica nel panorama urbano. Eretta dal 1877 al 1880 su un sito di antica devozione, presenta una ricca decorazione interna con opere di artisti come Jacopo D'Andrea da Rauscedo, Umberto Martina e Francesco Zugolo. Il complesso è stato restaurato nel 1992 e rappresenta il centro della vita religiosa locale.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Chiesa di Santa Croce e San Rocco *(Capoluogo)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Croce%20e%20San%20Rocco%20*(Capoluogo)*%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "Costruita nel XV secolo e successivamente ridotta nell'Ottocento, questa chiesa fu a lungo la parrocchiale del comune. Custodisce un prezioso ciclo di affreschi cinquecenteschi attribuiti a Pomponio Amalteo o al Pordenone e una lapide che ricorda l'invasione turca del 1499, fonte d'ispirazione per Pier Paolo Pasolini. Fu anche il luogo delle esequie del poeta nel 1975, rafforzandone la memoria nel territorio.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Capitello votivo del Borc di Sora *(Capoluogo)*",
+      "address": "Via Valvasone, Casarsa della Delizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Capitello%20votivo%20del%20Borc%20di%20Sora%20*(Capoluogo)*%2C%20Via%20Valvasone%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "Il capitello votivo del Borc di Sora è un piccolo sacello devozionale in stile popolare, con quattro colonne, altare e una campana, segno del radicato sentimento religioso della comunità locale. Rappresenta un tipico esempio di architettura votiva friulana, conservato nel quartiere come luogo di protezione e memoria collettiva.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Pieve e Duomo di San Giovanni Battista *(Frazione San Giovanni)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20e%20Duomo%20di%20San%20Giovanni%20Battista%20*(Frazione%20San%20Giovanni)*%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "Il duomo di San Giovanni Battista è la chiesa storicamente più rilevante del comune, ricostruita in stile neogotico tra il 1896 e il 1904 sulle vestigia di un'antica pieve longobarda. All’interno ospita la pala 'Decollazione di San Giovanni Battista' di Pomponio Amalteo e rappresenta un polo religioso e artistico di assoluto rilievo nella zona. L'edificio domina la piazza della frazione e conserva importanti arredi e un rosone luminoso.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Oratorio di San Floriano (Glesiuta di San Florean) *(Frazione San Giovanni / San Floreano)*",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Floriano%20(Glesiuta%20di%20San%20Florean)%20*(Frazione%20San%20Giovanni%20%2F%20San%20Floreano)*%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "L'oratorio di San Floriano è una piccola chiesa rurale del XV secolo di notevole valore pittorico, situata nella località San Floreano. Il suo interno conserva un ciclo di affreschi del 1590 eseguiti da Cristoforo Diana, rappresentanti scene della vita di San Floriano e altri soggetti sacri. È una delle migliori testimonianze di pittura sacra rurale friulana nel territorio casarsese.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Oratorio di Sant'Urbano in Contrada Runcis *(Frazione San Giovanni)*",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20Sant'Urbano%20in%20Contrada%20Runcis%20*(Frazione%20San%20Giovanni)*%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "Questo piccolo oratorio rurale del XVII secolo si trova a breve distanza dal centro di San Giovanni e si distingue per la presenza di affreschi seicenteschi dedicati alla Madonna e a Sant'Urbano, patrono dei viticoltori. Arricchisce lo spazio liturgico un altare in marmi policromi, tipico dell'artigianato locale. Era punto di riferimento devozionale per la comunità agricola della contrada.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio Abate *(Frazione Versuta)*",
+      "address": null,
+      "website_url": "https://guidartefvg.it/elenco/la-chiesa-di-santantonio-abate-di-versutta/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20Abate%20*(Frazione%20Versuta)*%2C%20Casarsa%20della%20Delizia",
+      "image_url": null,
+      "description": "La chiesa di Sant'Antonio Abate, situata nella borgata di Versuta, fu edificata nel XIII secolo e conserva notevoli cicli di affreschi trecenteschi e quattrocenteschi. È uno degli esempi più antichi e preziosi di architettura sacra rurale nella pianura friulana e fu scenario della vita e delle attività letterarie di Pier Paolo Pasolini durante gli anni della guerra. Il luogo esprime la profonda devozione e la storia agricola della comunità locale.",
+      "comune_name": "Casarsa della Delizia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/casarsa-della-delizia.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Porpetto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porpetto.md",
+  "extracted_at": "2026-04-09T11:12:44.792Z",
+  "pois": [
+    {
+      "name": "Tavernetta da Aligi",
+      "address": "Via Giacomo Matteotti, Castello, 33050 Porpetto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tavernetta%20da%20Aligi%2C%20Via%20Giacomo%20Matteotti%2C%20Castello%2C%2033050%20Porpetto%20(UD)",
+      "image_url": null,
+      "description": "La Tavernetta da Aligi è un ristorante tradizionale situato nella frazione di Castello, caratterizzato da una gestione familiare e da un'atmosfera semplice e autentica. Propone una cucina italiana e friulana, con piatti stagionali che includono zuppe, secondi di carne, formaggi locali, funghi e selvaggina in stagione. Il locale è frequentato prevalentemente dalla clientela locale o di passaggio e si distingue per la genuinità dell'offerta. È una tipica trattoria di paese, senza pretese estetiche ma accogliente.",
+      "comune_name": "Porpetto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porpetto.md"
+    },
+    {
+      "name": "Ostarie da Grop",
+      "address": "Via Luigi Cadorna, Corgnolo, 33050 Porpetto (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostarie%20da%20Grop%2C%20Via%20Luigi%20Cadorna%2C%20Corgnolo%2C%2033050%20Porpetto%20(UD)",
+      "image_url": null,
+      "description": "L'Ostarie da Grop si trova nella frazione di Corgnolo ed è una tipica osteria friulana, punto di riferimento sociale del borgo. L'offerta comprende cicchetti, taglieri di salumi e formaggi locali, qualche piatto caldo semplice e una selezione di vini della zona come il Friulano e il Refosco. L'ambiente è quello di un locale di piccole dimensioni, dall'atmosfera conviviale e con apertura prevalentemente serale e nei fine settimana. Ideale per chi cerca un'autentica esperienza locale e informale.",
+      "comune_name": "Porpetto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/porpetto.md"
+    }
+  ]
+}

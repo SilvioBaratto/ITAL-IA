@@ -1,0 +1,41 @@
+{
+  "comune_name": "Pulfero",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pulfero.md",
+  "extracted_at": "2026-04-09T11:14:08.558Z",
+  "pois": [
+    {
+      "name": "Albergo Ristorante Alla Trota",
+      "address": "Via Specognis, 9 — 33046 Pulfero (UD)",
+      "website_url": "https://www.allatrota.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Alla%20Trota%2C%20Via%20Specognis%2C%209%20%E2%80%94%2033046%20Pulfero%20(UD)",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Alla Trota è un locale storico della Valle del Natisone, gestito dalla famiglia Specogna fin dal 1911. Offre una cucina tradizionale locale, con particolare attenzione alla trota, servita in diverse varianti, selvaggina, funghi porcini e polenta. Gli ospiti possono godere di una sala panoramica e di una terrazza affacciata sul fiume Natisone, rendendo il pranzo un'esperienza immersa nella natura. Il locale mette a disposizione anche camere per soggiorni.",
+      "comune_name": "Pulfero",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pulfero.md"
+    },
+    {
+      "name": "Gastaldia d'Antro",
+      "address": "Via Antro, 179 — 33046 Pulfero (UD)",
+      "website_url": "https://www.gastaldiadantro.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gastaldia%20d'Antro%2C%20Via%20Antro%2C%20179%20%E2%80%94%2033046%20Pulfero%20(UD)",
+      "image_url": null,
+      "description": "Gastaldia d'Antro è un ristorante ricavato in un antico edificio restaurato, situato vicino alla Grotta di San Giovanni d'Antro nella suggestiva frazione di Antro. La cucina si basa su prodotti di stagione e rispetta la natura, proponendo pietanze a base di erbe, funghi e carni locali. L'ambiente rustico-elegante e la cura nel servizio lo rendono una destinazione particolare per chi cerca autenticità e sapori del territorio.",
+      "comune_name": "Pulfero",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pulfero.md"
+    },
+    {
+      "name": "Pizzeria da Luciano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20da%20Luciano%2C%20Pulfero",
+      "image_url": null,
+      "description": "La Pizzeria da Luciano è un locale informale e accogliente nel centro di Pulfero, molto apprezzato dai residenti e dai turisti. Propone pizze classiche e piatti semplici della cucina locale, ed è punto di ritrovo per le famiglie, escursionisti e ciclisti che frequentano la valle. L'atmosfera familiare ne fa un presidio della socialità paesana.",
+      "comune_name": "Pulfero",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pulfero.md"
+    }
+  ]
+}

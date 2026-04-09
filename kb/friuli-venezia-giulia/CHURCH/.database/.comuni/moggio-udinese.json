@@ -1,0 +1,52 @@
+{
+  "comune_name": "Moggio Udinese",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moggio-udinese.md",
+  "extracted_at": "2026-04-09T10:30:31.851Z",
+  "pois": [
+    {
+      "name": "Abbazia e Chiesa di San Gallo — Moggio di Sopra",
+      "address": "Via Abbazia, 41 – Moggio di Sopra (Moggio Udinese, UD)",
+      "website_url": "http://www.comune.moggioudinese.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Abbazia%20e%20Chiesa%20di%20San%20Gallo%20%E2%80%94%20Moggio%20di%20Sopra%2C%20Via%20Abbazia%2C%2041%20%E2%80%93%20Moggio%20di%20Sopra%20(Moggio%20Udinese%2C%20UD)",
+      "image_url": null,
+      "description": "L'abbazia di San Gallo è il principale complesso monastico di Moggio Udinese, fondata nel 1085 e consacrata nel 1119. Il sito vanta una lunga storia di potere spirituale e temporale e fu centro di giurisdizione su gran parte della valle. L'attuale corpo della chiesa riflette la ricostruzione barocca del XVIII secolo, conserva affreschi e arredi settecenteschi, e ospita dal 1985 una comunità di Monache Clarisse Sacramentine. L'abbazia è aperta ai visitatori e rappresenta un raro esempio di stratificazione storica, dalle origini romane al medioevo fino all'età moderna.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trasfigurazione — Moggio di Sotto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trasfigurazione%20%E2%80%94%20Moggio%20di%20Sotto%2C%20Moggio%20Udinese",
+      "image_url": null,
+      "description": "Questa chiesa parrocchiale si trova nel centro principale di Moggio di Sotto e presenta caratteristiche tipiche dell'architettura ecclesiastica di montagna friulana. Dedicata alla Trasfigurazione del Signore, fu ristrutturata e consolidata dopo il terremoto del 1976. L'edificio, punto di riferimento religioso per la comunità, conserva interni tradizionali e arredi sacri recuperati o sopravvissuti al sisma.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Chiesa di San Floriano Martire — Dordolla",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Floriano%20Martire%20%E2%80%94%20Dordolla%2C%20Moggio%20Udinese",
+      "image_url": null,
+      "description": "Situata nella frazione di Dordolla, in Val d'Aupa, questa chiesa del XVIII secolo rappresenta un tipico esempio di luogo di culto rurale alpino friulano. Sorge in uno scenario suggestivo ai piedi della Creta Grauzaria, servendo da punto di riferimento identitario per la comunità locale e gli escursionisti. Nonostante i danni causati dal terremoto del 1976 e il successivo spopolamento, continua a essere un simbolo della fede e della storia della valle.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio Abate — Ovedasso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20Abate%20%E2%80%94%20Ovedasso%2C%20Moggio%20Udinese",
+      "image_url": null,
+      "description": "Questa piccola chiesa rurale si trova nella frazione di Ovedasso, a 420 metri di altezza, ed è dedicata a sant'Antonio Abate, protettore degli animali domestici e del bestiame. Presenta una tipica struttura di edilizia sacra alpina, con facciata a capanna e interno a navata unica. Modesta ma significativa, la chiesa testimonia la capillare presenza parrocchiale nella Valle del Fella, e ha probabilmente subito restauri dopo il sisma del 1976.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/moggio-udinese.md"
+    }
+  ]
+}

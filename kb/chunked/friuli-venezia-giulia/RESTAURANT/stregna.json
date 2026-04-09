@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/stregna.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Stregna",
+  "province": "UD",
+  "page_title": "Stregna",
+  "page_summary": "Guida ai punti di ristoro pubblici del comune di Stregna: un agriturismo con cucina tradizionale friulana-slava attivo nei weekend e l'unico bar di paese, entrambi nella frazione di Dughe/Gnidovizza.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/stregna.md",
+  "processed_at": "2026-04-09T14:00:45.132Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/stregna__0",
+      "text": "### Agriturismo Casa delle Rondini\n\n**Indirizzo:** Frazione Dughe, 14 — 33040 Stregna (UD)\n**Telefono:** +39 0432 724177\n**Cucina:** Regionale friulana e slavo-natisoniana\n**Orari:** Cena venerdì, sabato, domenica; pranzo sabato e domenica (su prenotazione)\n**Fascia di prezzo:** €€ (economico-medio)\n\nL'Agriturismo Casa delle Rondini è l'unico esercizio di ristorazione censito e attivo nell'intero territorio comunale di Stregna. Si trova nella piccola frazione di Dughe, raggiungibile percorrendo la panoramica strada che attraversa l'altopiano di Stregna a oltre 600 m di quota, da dove lo sguardo spazia sulle valli dello Judrio e dell'Erbezzo e sulle Alpi Giulie.\n\nLa struttura, come suggerisce il nome, è un agriturismo a conduzione familiare che abbina l'ospitalità rurale alla ristorazione tradizionale. In linea con la filosofia degli agriturismi delle Valli del Natisone, la cucina proposta è strettamente legata al territorio e alle stagioni: si parte dai prodotti dell'orto e dell'allevamento aziendale, si utilizzano erbe spontanee dei prati circostanti, funghi del bosco, carni locali. La tavola riflette la doppia anima della zona, sospesa tra la tradizione culinaria friulana e quella delle comunità slovene della Slavia friulana.\n\nTra i piatti che ci si può aspettare di trovare in carta — secondo la tradizione della zona — figurano il **frico con patate e cipolla**, la **polenta taragna** accompagnata da formaggi e salumi locali, le **zuppe di cereali e legumi** della cucina povera contadina, i **secondi di carne** (coniglio, maiale, capretto) cucinati secondo ricette tramandate di generazione in generazione, e naturalmente la **gubana** come dolce di fine pasto, inzuppata nella grappa di vino o nel slivovitz di prugna, a seconda del momento.\n\nLa Casa delle Rondini rappresenta uno dei pochi punti di accesso \"autentico\" alla cucina natisoniana in un territorio dove il turismo gastronomico è ancora tutto da scoprire. La prenotazione è fortemente consigliata, considerati i numeri ridotti e l'apertura limitata ai fine settimana.",
+      "metadata": {
+        "section_title": "Agriturismo Casa delle Rondini",
+        "links": [],
+        "addresses": [
+          "Frazione Dughe, 14 — 33040 Stregna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": "Cena venerdì, sabato, domenica; pranzo sabato e domenica (su prenotazione)",
+        "prices": "€€ (economico-medio)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/stregna__1",
+      "text": "### Alla Rosa dei Venti\n\n**Indirizzo:** Frazione Dughe / Gnidovizza — 33040 Stregna (UD)\n**Tipo:** Bar/Caffè\n**Fascia di prezzo:** €\n\nL'unico bar del comune si trova anch'esso nell'area di Dughe-Gnidovizza, sulla strada panoramica che attraversa il territorio comunale. Alla Rosa dei Venti è un punto di riferimento per gli abitanti locali e per i camminatori che percorrono il Sentiero Italia (segnavia CAI 747 — Alta via delle Valli del Natisone) o l'Alpe Adria Trail, che attraversano il territorio di Stregna.\n\nCome tipico bar di paese in un piccolo comune montano del Friuli, propone bevande, caffè, qualche preparazione semplice da asporto o da consumarsi al bancone. Non è propriamente un ristorante, ma in un territorio così spopolato e remoto rappresenta comunque un presidio fondamentale di socialità e, in certi orari, l'unico posto dove trovare ristoro.",
+      "metadata": {
+        "section_title": "Alla Rosa dei Venti",
+        "links": [],
+        "addresses": [
+          "Frazione Dughe / Gnidovizza — 33040 Stregna (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€"
+      }
+    }
+  ]
+}

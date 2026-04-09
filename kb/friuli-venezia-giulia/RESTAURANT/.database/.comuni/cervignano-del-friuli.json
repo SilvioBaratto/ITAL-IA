@@ -1,0 +1,96 @@
+{
+  "comune_name": "Cervignano del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md",
+  "extracted_at": "2026-04-09T10:57:39.980Z",
+  "pois": [
+    {
+      "name": "Osteria all'Ausa",
+      "address": "Piazzale del Porto 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20all'Ausa%2C%20Piazzale%20del%20Porto%203",
+      "image_url": null,
+      "description": "L'Osteria all'Ausa è un locale storico nel centro di Cervignano del Friuli, aperto dal 1989 e noto per un'atmosfera calorosa e autentica. La cucina offre piatti friulani casalinghi che seguono la stagionalità e dolci preparati in casa, accompagnati da un'ampia selezione di vini locali. È apprezzata per le serate di degustazione e per il suo spazioso giardino, rappresentando una vera esperienza culinaria friulana.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "La Rosta (Agriturismo)",
+      "address": "Via Grado 19",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Rosta%20(Agriturismo)%2C%20Via%20Grado%2019",
+      "image_url": null,
+      "description": "L'Agriturismo La Rosta si trova nella campagna di Cervignano del Friuli, ospitato in una villa colonica del XVII secolo circondata da vigneti. Il ristorante propone cucina friulana rustica con ingredienti biologici e a filiera corta, molte volte provenienti dalla propria fattoria. Offre piatti generosi, colazioni fatte in casa e dispone di camere rustiche per soggiorni. La valutazione su TripAdvisor è molto positiva e i prezzi sono medio-bassi.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "1883 Restaurant & Rooms",
+      "address": "Via Mercato 3",
+      "website_url": "http://www.1883restaurant.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=1883%20Restaurant%20%26%20Rooms%2C%20Via%20Mercato%203",
+      "image_url": null,
+      "description": "Il 1883 Restaurant & Rooms sorge in un edificio storico dell'Ottocento, con una cucina che unisce tradizione italiana e friulana reinterpretate in chiave contemporanea. La carta dei vini promuove i vitigni locali e la struttura offre camere arredate con cura, WiFi e parcheggio gratuito. Il locale è stimato per la qualità dei piatti, l'atmosfera elegante e il servizio cordiale della struttura.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Capello",
+      "address": "Via San Francesco d'Assisi 35",
+      "website_url": "https://www.pizzeriatrattoriacapello.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Capello%2C%20Via%20San%20Francesco%20d'Assisi%2035",
+      "image_url": null,
+      "description": "La Pizzeria Trattoria Capello è conosciuta per la pizza cotta nel forno a legna e una vasta offerta di cucina italiana, con piatti a base di pesce, carne e impasti alternativi. Il locale offre un ambiente familiare e accogliente, WiFi gratuito e flessibilità per eventi e cene private. È ben valutata su TripAdvisor e rappresenta una scelta affidabile per una cena informale e di qualità.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Fricheria al Cavallino (Strassoldo)",
+      "address": "Via Taglio 4",
+      "website_url": "https://www.fricheriaalcavallino.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fricheria%20al%20Cavallino%20(Strassoldo)%2C%20Via%20Taglio%204",
+      "image_url": null,
+      "description": "La Fricheria al Cavallino è situata nella frazione di Strassoldo e specializzata nel frico, offrendo oltre venti varianti di questo piatto friulano. La cucina è contadina e genuina, con la preparazione artigianale delle paste e delle zuppe, utilizzando prodotti locali e biologici. L'atmosfera semplice e autentica la rende ideale per immergersi nella tradizione gastronomica friulana, con prezzi accessibili.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Albergo Ristorante Al Cervo",
+      "address": "Viale Venezia 23",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Al%20Cervo%2C%20Viale%20Venezia%2023",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Al Cervo è una struttura a conduzione familiare dal 1960, rinomata per la cucina friulana preparata secondo ricette tradizionali. Offre un'accoglienza attenta, sale per gruppi e una sala principale, oltre a numerose camere confortevoli. Il locale è facilmente raggiungibile, accreditato per servizi aziendali e dotato di WiFi e ampio parcheggio.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Antica Osteria Italia",
+      "address": "Via Cavour 8",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Osteria%20Italia%2C%20Via%20Cavour%208",
+      "image_url": null,
+      "description": "L'Antica Osteria Italia è un ristorante storico, aperto nel 1919, e rinomato per piatti italiani, mediterranei e friulani, con particolare attenzione al pesce, polenta e gnocchi. Riaperta dopo una lunga chiusura, la cucina valorizza ricette tradizionali reinterpretate con eleganza. Il locale è noto per il servizio amichevole e per aver accolto numerosi personaggi illustri.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    },
+    {
+      "name": "Trattoria Bar Al Turista",
+      "address": "Via Monfalcone 48",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Bar%20Al%20Turista%2C%20Via%20Monfalcone%2048",
+      "image_url": null,
+      "description": "La Trattoria Bar Al Turista propone cucina italiana in un ambiente informale con servizi come accesso disabili, colazioni, brunch e tavolo. Offre finger food, antipasti e buffet su prenotazione, con aperitivi prolungati il venerdì sera. È ben valutata su TripAdvisor e Restaurant Guru, rappresentando una scelta versatile per chi cerca qualità e convivialità.",
+      "comune_name": "Cervignano del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cervignano-del-friuli.md"
+    }
+  ]
+}

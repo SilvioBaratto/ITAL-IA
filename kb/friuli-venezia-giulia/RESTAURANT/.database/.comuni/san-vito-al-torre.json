@@ -1,0 +1,41 @@
+{
+  "comune_name": "San Vito al Torre",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-torre.md",
+  "extracted_at": "2026-04-09T11:18:38.694Z",
+  "pois": [
+    {
+      "name": "Circolo NOI Crauglio",
+      "address": "Via Aquileia, 109, 33050 Crauglio / San Vito al Torre (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Circolo%20NOI%20Crauglio%2C%20Via%20Aquileia%2C%20109%2C%2033050%20Crauglio%20%2F%20San%20Vito%20al%20Torre%20(UD)",
+      "image_url": null,
+      "description": "Il Circolo NOI Crauglio è il fulcro della vita sociale della frazione di Crauglio, offrendo un ambiente accogliente e genuino tipico dei circoli ricreativi delle campagne friulane. È uno spazio informale dove bere un bicchiere di vino, prendere un caffè o gustare qualcosa di semplice da mangiare, apprezzato per la cordialità dello staff e l'atmosfera familiare. Pur non essendo un ristorante tradizionale, rappresenta il ritrovo più importante per residenti di ogni età e ospita occasionalmente eventi comunitari. Il locale è accessibile in sedia a rotelle, dispone di parcheggio gratuito ed è pet-friendly.",
+      "comune_name": "San Vito al Torre",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-torre.md"
+    },
+    {
+      "name": "Là di Lor — Bar e Locale di Paese",
+      "address": "Via Aquileia, Crauglio / San Vito al Torre (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L%C3%A0%20di%20Lor%20%E2%80%94%20Bar%20e%20Locale%20di%20Paese%2C%20Via%20Aquileia%2C%20Crauglio%20%2F%20San%20Vito%20al%20Torre%20(UD)",
+      "image_url": null,
+      "description": "Là di Lor è un bar-locale a gestione familiare situato lungo Via Aquileia nella frazione di Crauglio, condotto da Raffaella Tavaris e Romina Fontanini. Il locale offre un'alternativa informale alla ristorazione classica proponendo panini, piatti del giorno casalinghi e prodotti locali, in un contesto conviviale tipico dei paesi friulani. L'atmosfera è caratterizzata dalla familiarità della gestione e dal forte legame con la vita della comunità locale. Il nome stesso suggerisce la tradizionale ospitalità dei piccoli borghi.",
+      "comune_name": "San Vito al Torre",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-torre.md"
+    },
+    {
+      "name": "The Den — Crauì",
+      "address": "Via Aquileia, Crauglio (Crauì) / San Vito al Torre (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Den%20%E2%80%94%20Crau%C3%AC%2C%20Via%20Aquileia%2C%20Crauglio%20(Crau%C3%AC)%20%2F%20San%20Vito%20al%20Torre%20(UD)",
+      "image_url": null,
+      "description": "The Den è un locale situato nella frazione di Crauglio, lungo la principale via del paese. Il nome inglese suggerisce una gestione più recente e forse uno stile diverso rispetto ai tradizionali bar della zona, rivolgendosi probabilmente anche a un pubblico giovane. Le informazioni disponibili sono limitate, ma la presenza del locale indica la diversificazione dell'offerta aggregativa nella piccola comunità rurale.",
+      "comune_name": "San Vito al Torre",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-torre.md"
+    }
+  ]
+}

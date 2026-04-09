@@ -1,0 +1,107 @@
+{
+  "comune_name": "Barcis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md",
+  "extracted_at": "2026-04-09T10:55:04.614Z",
+  "pois": [
+    {
+      "name": "Rifugio Vallata",
+      "address": "località Vallata 12",
+      "website_url": "https://rifugiovallata.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Vallata%2C%20localit%C3%A0%20Vallata%2012",
+      "image_url": null,
+      "description": "Rifugio Vallata è il locale più apprezzato di Barcis, rinomato per la cucina di montagna centrata su ingredienti stagionali e foraggiati direttamente dai boschi circostanti. Il menu si distingue per funghi porcini, selvaggina (capriolo, cervo, cinghiale), polenta e pappardelle con ragù di cacciagione. L’atmosfera alpina autentica e la possibilità di pernottare lo rendono ideale per chi cerca un’esperienza immersiva nella natura. I prezzi sono accessibili rispetto alla qualità offerta.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Osteria Ponte Antoi",
+      "address": "località Ponte Antoi 2",
+      "website_url": "https://ponteantoi.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ponte%20Antoi%2C%20localit%C3%A0%20Ponte%20Antoi%202",
+      "image_url": null,
+      "description": "L’Osteria Ponte Antoi è una meta storica di Barcis, celebre per la cucina friulana della Valcellina e la preparazione tradizionale della Pitina IGP. Il menu offre piatti tipici come crespelle ai porcini, ragù di cervo e cinghiale in salmì con polenta e frico. L’atmosfera è tipicamente alpina con vista sul lago, e la carta vini privilegia etichette friulane e grappe aromatiche locali.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Locanda con Cucina La Serenissima",
+      "address": "via Dante Alighieri 40",
+      "website_url": "https://locandalaserenissima.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20con%20Cucina%20La%20Serenissima%2C%20via%20Dante%20Alighieri%2040",
+      "image_url": null,
+      "description": "La Locanda con Cucina La Serenissima, recentemente rinnovata, offre un ambiente moderno e accogliente con splendida vista sul Lago di Barcis. La cucina punta su ingredienti freschi e locali, proponendo piatti italiani e friulani come paste fresche, pesce di lago, salumi e verdure di stagione. È ideale per cene romantiche o in gruppo, con servizio cordiale e parcheggio privato.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Ristorante dell'Agriturismo Malga Valli",
+      "address": "Strada Turistica del Pian delle More, Val Caltea",
+      "website_url": "https://agriturismomalgavalli.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20dell'Agriturismo%20Malga%20Valli%2C%20Strada%20Turistica%20del%20Pian%20delle%20More%2C%20Val%20Caltea",
+      "image_url": null,
+      "description": "Il Ristorante dell'Agriturismo Malga Valli è immerso nelle Dolomiti Friulane e offre una cucina friulana genuina con ingredienti dell’azienda agricola. Il piatto forte è il ragù di cervo, con menu che varia secondo le stagioni tra funghi porcini, piatti affumicati e selvaggina. L’atmosfera è autentica e calorosa, con possibilità di vivere esperienze agricole e sportive.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Ristorante dell'Hotel Celis",
+      "address": "via Dante Alighieri 3",
+      "website_url": "https://celis-barcis.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20dell'Hotel%20Celis%2C%20via%20Dante%20Alighieri%203",
+      "image_url": null,
+      "description": "Il ristorante dell’Hotel Celis propone una cucina raffinata radicata nella tradizione friulana, con ingredienti locali selezionati. Le specialità includono gnocchi artigianali con ragù di agnello, guancia di maiale brasata, e tagli di carne da macellerie locali. Il locale si affaccia sul lago, offrendo un'atmosfera elegante adatta a cene romantiche e riunioni di lavoro.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Agriturismo Pian dei Tass Ristorante",
+      "address": "località Pentina 13",
+      "website_url": "https://piandeitass.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Pian%20dei%20Tass%20Ristorante%2C%20localit%C3%A0%20Pentina%2013",
+      "image_url": null,
+      "description": "L'Agriturismo Pian dei Tass Ristorante è noto per la coltivazione biologica di mele e la cucina friulana integrata con prodotti agricoli propri, tra cui succhi e sidri. Il menu spazia da penne con pettuzza e crema, lasagna di erbe di campo, frico e risotti, a dolci come strudel di mele e crostate. L’atmosfera familiare e la possibilità di soggiorno offrono un’esperienza autentica alpina.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Pizzeria Al Cjanton",
+      "address": "via Roma 5",
+      "website_url": "https://alcjanton.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Cjanton%2C%20via%20Roma%205",
+      "image_url": null,
+      "description": "La Pizzeria Al Cjanton, centrale e molto apprezzata, propone pizze napoletane leggere e originali. La specialità \"Al Cjanton\" unisce ingredienti locali come funghi porcini, Montasio, e Pitina, offrendo una sintesi della tradizione friulana. Il locale offre servizio al tavolo oppure da asporto, e si distingue per staff cordiale e posizione centrale.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "Aquila Nera Enoteca",
+      "address": "via Roma 18",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Aquila%20Nera%20Enoteca%2C%20via%20Roma%2018",
+      "image_url": null,
+      "description": "Aquila Nera Enoteca è un wine bar informale con cucina friulana, ideale per assaggiare antipasti locali, gnocchi e salumi tradizionali. È apprezzato per la selezione di vini e grappe aromatiche, nonché per la terrazza con vista sulle montagne. L’atmosfera è intima, ed è un luogo di incontro per chi vuole scoprire vini friulani.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    },
+    {
+      "name": "La Bottega della Pizza",
+      "address": "via Roma 5",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Bottega%20della%20Pizza%2C%20via%20Roma%205",
+      "image_url": null,
+      "description": "La Bottega della Pizza offre pizze di qualità e kebab preparati con cura, oltre a opzioni vegetariane. Il locale ha una valutazione positiva e orari di apertura stagionali, proponendo una valida alternativa per amanti della pizza nel centro di Barcis.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/barcis.md"
+    }
+  ]
+}

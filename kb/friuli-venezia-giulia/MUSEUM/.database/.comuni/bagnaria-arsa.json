@@ -1,0 +1,30 @@
+{
+  "comune_name": "Bagnaria Arsa",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bagnaria-arsa.md",
+  "extracted_at": "2026-04-09T10:42:45.454Z",
+  "pois": [
+    {
+      "name": "Area Archeologica di Sevegliano (sito non musealizzato)",
+      "address": "Frazione di Sevegliano, Bagnaria Arsa (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Area%20Archeologica%20di%20Sevegliano%20(sito%20non%20musealizzato)%2C%20Frazione%20di%20Sevegliano%2C%20Bagnaria%20Arsa%20(UD)",
+      "image_url": null,
+      "description": "L’area archeologica di Sevegliano conserva importanti testimonianze di epoca romana, grazie agli scavi che hanno restituito materiali datati tra il II secolo a.C. e il V secolo d.C. Si distinguono reperti come ceramiche, anfore, monete e i resti di un tempio in terracotta, oltre a una piccola officina per il vetro. I manufatti rinvenuti sono oggi consultabili nei musei di Aquileia e Udine, mentre il sito non è organizzato come museo e non dispone di una sezione espositiva locale.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Villa Dessj (Privano)",
+      "address": "Frazione di Privano, Bagnaria Arsa (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Dessj%20(Privano)%2C%20Frazione%20di%20Privano%2C%20Bagnaria%20Arsa%20(UD)",
+      "image_url": null,
+      "description": "Villa Dessj è una residenza storica privata della frazione di Privano, caratterizzata da un’architettura veneta con giardino geometrico e parco. Edificata dal XVII secolo e rimaneggiata nell’Ottocento e Novecento, ospitò il Comando d’Armata italiano durante la Prima Guerra Mondiale e il Duca d’Aosta. Il complesso, di proprietà privata e non visitabile come museo, è uno dei più pregevoli esempi di architettura rurale della zona.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bagnaria-arsa.md"
+    }
+  ]
+}

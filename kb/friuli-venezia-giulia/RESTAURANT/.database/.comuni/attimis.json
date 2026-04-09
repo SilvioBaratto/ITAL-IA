@@ -1,0 +1,129 @@
+{
+  "comune_name": "Attimis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md",
+  "extracted_at": "2026-04-09T10:54:25.482Z",
+  "pois": [
+    {
+      "name": "Osteria Là Di Maur",
+      "address": "Via Campolongo 30",
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g2151474-d21134024-Reviews-Osteria_La_Di_Maur-Attimis_Province_of_Udine_Friuli_Venezia_Giulia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20L%C3%A0%20Di%20Maur%2C%20Via%20Campolongo%2030",
+      "image_url": null,
+      "description": "Osteria Là Di Maur incarna la tipica osteria friulana con cucina casalinga e atmosfera raccolta e genuina. Propone piatti realizzati con ingredienti stagionali e a km zero, come tagliatelle fatte in casa con ragù di salsiccia o funghi porcini, paccheri al ragù di cervo e cervo in umido. Il locale offre un ambiente rustico con camino e giardino esterno, ideale per serate conviviali senza ostentazione.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Osteria Al Ponte",
+      "address": "Piazza Zorutti 8",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Ponte%2C%20Piazza%20Zorutti%208",
+      "image_url": null,
+      "description": "Osteria Al Ponte è situata nel cuore di Attimis e si distingue come luogo di socialità e aperitivi più che come ristorante tradizionale. L'ambiente semplice e accogliente ospita bevute e spuntini, offrendo piatti freddi, salumi e formaggi locali in un contesto conviviale tipico delle osterie di paese friulane.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Bar Trattoria da Rico",
+      "address": "Piazza Aldo Moro 3",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20da%20Rico%2C%20Piazza%20Aldo%20Moro%203",
+      "image_url": null,
+      "description": "Il Bar Trattoria da Rico è il centro della vita alimentare quotidiana di Attimis, gestito con cura e dedizione. Offre piatti essenziali della tradizione friulana, pizze, pranzi a menu fisso, aperitivi e servizio a domicilio, in un ambiente semplice e informale che favorisce la socialità tra residenti e ospiti.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Trattoria Bar Montecarlo",
+      "address": "Frazione Montemaggiore 22",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Bar%20Montecarlo%2C%20Frazione%20Montemaggiore%2022",
+      "image_url": null,
+      "description": "Trattoria Bar Montecarlo propone una cucina che unisce tradizione italiana e specialità russe, riflettendo le origini della gestione. Il menu varia stagionalmente, spaziando tra piatti friulani e preparazioni dal sapore internazionale, in un ambiente informale e accogliente nella frazione di Montemaggiore.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Trattoria La Baita",
+      "address": "Via Faedis 13",
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g2151474-d2352761-Reviews-Trattoria_La_Baita-Attimis_Province_of_Udine_Friuli_Venezia_Giulia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20Baita%2C%20Via%20Faedis%2013",
+      "image_url": null,
+      "description": "Trattoria La Baita è rinomata per la cucina tradizionale e l'ambiente rustico con arredi in legno e vista sulle colline. È apprezzata specialmente per piatti di selvaggina, funghi porcini, cjarsons fatti in casa, arrosti e ricca selezione di verdure di stagione. L'accoglienza calorosa e la qualità degli ingredienti la rendono una delle mete preferite nella zona.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Ristorante Prosciutteria Martinuzzi",
+      "address": "Piazza della Chiesa 6/2",
+      "website_url": "http://www.prosciutteriamartinuzzi.it/en/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Prosciutteria%20Martinuzzi%2C%20Piazza%20della%20Chiesa%206%2F2",
+      "image_url": null,
+      "description": "Il Ristorante Prosciutteria Martinuzzi è una storica istituzione di Racchiuso specializzata nel Prosciutto di San Daniele DOP e in piatti friulani raffinatamente preparati. Dal 2007 il locale abbina tradizione e modernità offrendo antipasti di alta qualità, tagliatelle fresche, vitello tonnato e dolci artigianali, oltre a servizi di B&B. È molto apprezzato sia da turisti che da residenti.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "La Reclusane",
+      "address": "Via Attimis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Reclusane%2C%20Via%20Attimis",
+      "image_url": null,
+      "description": "La Reclusane si trova nella zona di Racchiuso ed è gestito da Michele Verona. Pur con informazioni limitate, è riconosciuto come una delle attività ristorative consigliate a livello locale, ideale per chi vuole esplorare nuove sfumature della cucina attimese.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Osteria Alla Pancetta",
+      "address": "Borgo Molinars 3/1",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alla%20Pancetta%2C%20Borgo%20Molinars%203%2F1",
+      "image_url": null,
+      "description": "Fondata nel 1954, Osteria Alla Pancetta è una delle strutture più antiche di Attimis e offre cucina tipica friulana con piatti a base di pancetta e frico preparato secondo la ricetta tradizionale. L'ambiente è familiare, la cucina ruota intorno a ricette stagionali, e il locale è molto frequentato dai residenti grazie alla qualità e all'autenticità della proposta.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Agriturismo Ai Faris",
+      "address": "Borgo Faris 32/6",
+      "website_url": "https://agriturismoaifaris.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Ai%20Faris%2C%20Borgo%20Faris%2032%2F6",
+      "image_url": null,
+      "description": "Agriturismo Ai Faris offre una cucina autentica friulana con prodotti biologici coltivati in loco e specialità come la tagliatella al ragù di asino, piatto distintivo della cucina carnica. L'agriturismo combina ospitalità rurale, ristorazione genuina ed esperienze didattiche in un contesto naturale suggestivo, conservando prezzi accessibili grazie alla filosofia di autoproduzione.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Agriturismo Sogni d'Orto",
+      "address": "Borgo Faris 55",
+      "website_url": "www.sognidorto.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Sogni%20d'Orto%2C%20Borgo%20Faris%2055",
+      "image_url": null,
+      "description": "Agriturismo Sogni d'Orto privilegia l'ospitalità rurale offrendo camere con terrazze e una cucina casalinga a base di prodotti dell'orto biologico aziendale. L'ambiente rilassato e la vicinanza alla natura lo rendono ideale per soggiorni all'insegna del relax e delle escursioni nei dintorni del Friuli orientale.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    },
+    {
+      "name": "Trattoria da Barbe Blas",
+      "address": null,
+      "website_url": "https://restaurantguru.com/Trattoria-da-Barbe-Blas-Attimis",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Barbe%20Blas%2C%20Attimis",
+      "image_url": null,
+      "description": "Trattoria da Barbe Blas propone cucina semplice e genuina con particolare attenzione al frico, qui offerto in varianti creative come quella ai noci e gorgonzola. L'atmosfera è essenziale e diretta, puntando tutto sulla qualità degli ingredienti e sulle specialità carniche come antipasti misti, polenta e gnocchi di selvaggina.",
+      "comune_name": "Attimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/attimis.md"
+    }
+  ]
+}

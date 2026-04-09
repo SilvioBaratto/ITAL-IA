@@ -1,0 +1,52 @@
+{
+  "comune_name": "Andreis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/andreis.md",
+  "extracted_at": "2026-04-09T10:53:02.236Z",
+  "pois": [
+    {
+      "name": "Locanda Al Vecje For",
+      "address": "Via Centrale, 63, 33080 Andreis (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Al%20Vecje%20For%2C%20Via%20Centrale%2C%2063%2C%2033080%20Andreis%20(PN)",
+      "image_url": null,
+      "description": "Locanda Al Vecje For è considerata il ristorante di riferimento ad Andreis per chi cerca l'autentica cucina friulana in un'atmosfera accogliente e familiare. La cucina, apprezzata per la qualità e l'attenzione ai piatti tradizionali, offre anche un'ampia selezione di birre artigianali di livello internazionale. Il servizio è curato e la fascia di prezzo è moderata, adatta a diverse tipologie di clientela. È la scelta ideale per chi desidera una vera esperienza gastronomica friulana senza formalità eccessive.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/andreis.md"
+    },
+    {
+      "name": "Antica Osteria La Molassa",
+      "address": "Località Ponte Molassa, 1, Andreis (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Osteria%20La%20Molassa%2C%20Localit%C3%A0%20Ponte%20Molassa%2C%201%2C%20Andreis%20(PN)",
+      "image_url": null,
+      "description": "Antica Osteria La Molassa è un punto storico della gastronomia di Andreis, immersa nella suggestiva cornice naturale della gola del Cellina. Il locale, noto per la terrazza panoramica affacciata sulla riserva naturale, propone cucina friulana tradizionale con particolare attenzione ai sapori antichi e prodotti locali, tra cui spiccano la selvaggina, il frico con polenta e i dolci fatti in casa. L'atmosfera è intima e accogliente e la gestione familiare garantisce un'esperienza autentica, con una fascia di prezzo moderata.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/andreis.md"
+    },
+    {
+      "name": "Malga Fara",
+      "address": "Via Bosplans, Andreis (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Malga%20Fara%2C%20Via%20Bosplans%2C%20Andreis%20(PN)",
+      "image_url": null,
+      "description": "Malga Fara offre una cucina tipica friulana immersa nella natura a circa 900 metri di altitudine, ideale per chi desidera abbinare un pasto genuino all'esperienza della montagna. Il menu stagionale ruota attorno a prodotti locali di alta qualità, preparati in modo semplice e rispettoso della tradizione di malga. L'ambiente, sia interno sia esterno, è accogliente e panoramico, perfetto per escursionisti e famiglie in cerca di sapori autentici a un prezzo moderato. Il locale è apprezzato per la qualità del cibo e il contesto paesaggistico unico.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/andreis.md"
+    },
+    {
+      "name": "Chiosco Al Pical",
+      "address": "Località Broile Plan de la Siea, 33080 Andreis (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiosco%20Al%20Pical%2C%20Localit%C3%A0%20Broile%20Plan%20de%20la%20Siea%2C%2033080%20Andreis%20(PN)",
+      "image_url": null,
+      "description": "Chiosco Al Pical è un chiosco-bar semplice ma molto apprezzato, che propone piatti friulani, grigliate e prodotti locali in una struttura rustica e accogliente. Il locale è noto per l'atmosfera rilassata, la cordialità dello staff e la varietà di specialità come frico, lasagne fatte in casa, selvaggina e taglieri di salumi. I prezzi sono economici e l'accessibilità è garantita, rendendolo una meta ideale per pause durante escursioni o gite in famiglia, favorita anche dall'ampio parcheggio gratuito.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/andreis.md"
+    }
+  ]
+}

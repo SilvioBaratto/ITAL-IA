@@ -1,0 +1,406 @@
+{
+  "amaro": {
+    "processed_at": "2026-04-09T10:18:00.500Z",
+    "poi_count": 3
+  },
+  "ampezzo": {
+    "processed_at": "2026-04-09T10:18:00.501Z",
+    "poi_count": 3
+  },
+  "andreis": {
+    "processed_at": "2026-04-09T10:18:16.316Z",
+    "poi_count": 6
+  },
+  "aquileia": {
+    "processed_at": "2026-04-09T10:18:16.320Z",
+    "poi_count": 10
+  },
+  "arba": {
+    "processed_at": "2026-04-09T10:18:27.228Z",
+    "poi_count": 2
+  },
+  "arta-terme": {
+    "processed_at": "2026-04-09T10:18:27.229Z",
+    "poi_count": 6
+  },
+  "artegna": {
+    "processed_at": "2026-04-09T10:18:37.757Z",
+    "poi_count": 3
+  },
+  "attimis": {
+    "processed_at": "2026-04-09T10:18:37.759Z",
+    "poi_count": 7
+  },
+  "aviano": {
+    "processed_at": "2026-04-09T10:18:59.965Z",
+    "poi_count": 10
+  },
+  "azzano-decimo": {
+    "processed_at": "2026-04-09T10:18:59.967Z",
+    "poi_count": 10
+  },
+  "bagnaria-arsa": {
+    "processed_at": "2026-04-09T10:19:14.943Z",
+    "poi_count": 5
+  },
+  "barcis": {
+    "processed_at": "2026-04-09T10:19:14.944Z",
+    "poi_count": 5
+  },
+  "basiliano": {
+    "processed_at": "2026-04-09T10:19:37.992Z",
+    "poi_count": 11
+  },
+  "bertiolo": {
+    "processed_at": "2026-04-09T10:19:37.993Z",
+    "poi_count": 3
+  },
+  "bicinicco": {
+    "processed_at": "2026-04-09T10:19:52.014Z",
+    "poi_count": 4
+  },
+  "bordano": {
+    "processed_at": "2026-04-09T10:19:52.015Z",
+    "poi_count": 3
+  },
+  "brugnera": {
+    "processed_at": "2026-04-09T10:20:06.510Z",
+    "poi_count": 5
+  },
+  "budoia": {
+    "processed_at": "2026-04-09T10:20:06.513Z",
+    "poi_count": 4
+  },
+  "buja": {
+    "processed_at": "2026-04-09T10:20:27.757Z",
+    "poi_count": 10
+  },
+  "buttrio": {
+    "processed_at": "2026-04-09T10:20:27.758Z",
+    "poi_count": 11
+  },
+  "camino-al-tagliamento": {
+    "processed_at": "2026-04-09T10:20:44.310Z",
+    "poi_count": 6
+  },
+  "campoformido": {
+    "processed_at": "2026-04-09T10:20:44.313Z",
+    "poi_count": 10
+  },
+  "caneva": {
+    "processed_at": "2026-04-09T10:21:02.126Z",
+    "poi_count": 7
+  },
+  "capriva-del-friuli": {
+    "processed_at": "2026-04-09T10:21:02.127Z",
+    "poi_count": 3
+  },
+  "carlino": {
+    "processed_at": "2026-04-09T10:21:21.001Z",
+    "poi_count": 3
+  },
+  "casarsa-della-delizia": {
+    "processed_at": "2026-04-09T10:21:21.003Z",
+    "poi_count": 7
+  },
+  "cassacco": {
+    "processed_at": "2026-04-09T10:21:34.314Z",
+    "poi_count": 5
+  },
+  "castelnovo-del-friuli": {
+    "processed_at": "2026-04-09T10:21:34.317Z",
+    "poi_count": 3
+  },
+  "castions-di-strada": {
+    "processed_at": "2026-04-09T10:21:56.231Z",
+    "poi_count": 9
+  },
+  "cavasso-nuovo": {
+    "processed_at": "2026-04-09T10:21:56.232Z",
+    "poi_count": 1
+  },
+  "cavazzo-carnico": {
+    "processed_at": "2026-04-09T10:22:05.749Z",
+    "poi_count": 4
+  },
+  "cercivento": {
+    "processed_at": "2026-04-09T10:22:05.750Z",
+    "poi_count": 2
+  },
+  "cervignano-del-friuli": {
+    "processed_at": "2026-04-09T10:22:21.314Z",
+    "poi_count": 7
+  },
+  "chions": {
+    "processed_at": "2026-04-09T10:22:21.315Z",
+    "poi_count": 7
+  },
+  "chiopris-viscone": {
+    "processed_at": "2026-04-09T10:22:29.333Z",
+    "poi_count": 3
+  },
+  "chiusaforte": {
+    "processed_at": "2026-04-09T10:22:29.334Z",
+    "poi_count": 2
+  },
+  "cimolais": {
+    "processed_at": "2026-04-09T10:22:46.182Z",
+    "poi_count": 5
+  },
+  "cividale-del-friuli": {
+    "processed_at": "2026-04-09T10:22:46.185Z",
+    "poi_count": 15
+  },
+  "claut": {
+    "processed_at": "2026-04-09T10:22:54.497Z",
+    "poi_count": 2
+  },
+  "clauzetto": {
+    "processed_at": "2026-04-09T10:22:54.498Z",
+    "poi_count": 1
+  },
+  "codroipo": {
+    "processed_at": "2026-04-09T10:23:21.951Z",
+    "poi_count": 14
+  },
+  "colloredo-di-monte-a": {
+    "processed_at": "2026-04-09T10:23:21.952Z",
+    "poi_count": 5
+  },
+  "comeglians": {
+    "processed_at": "2026-04-09T10:23:38.291Z",
+    "poi_count": 3
+  },
+  "cordenons": {
+    "processed_at": "2026-04-09T10:23:38.292Z",
+    "poi_count": 7
+  },
+  "cordovado": {
+    "processed_at": "2026-04-09T10:23:52.421Z",
+    "poi_count": 7
+  },
+  "cormons": {
+    "processed_at": "2026-04-09T10:23:52.422Z",
+    "poi_count": 10
+  },
+  "corno-di-rosazzo": {
+    "processed_at": "2026-04-09T10:24:06.786Z",
+    "poi_count": 7
+  },
+  "coseano": {
+    "processed_at": "2026-04-09T10:24:06.787Z",
+    "poi_count": 5
+  },
+  "dignano": {
+    "processed_at": "2026-04-09T10:24:14.670Z",
+    "poi_count": 2
+  },
+  "doberdò-del-lago": {
+    "processed_at": "2026-04-09T10:24:14.671Z",
+    "poi_count": 3
+  },
+  "dogna": {
+    "processed_at": "2026-04-09T10:24:23.169Z",
+    "poi_count": 1
+  },
+  "dolegna-del-collio": {
+    "processed_at": "2026-04-09T10:24:23.170Z",
+    "poi_count": 2
+  },
+  "drenchia": {
+    "processed_at": "2026-04-09T10:24:37.097Z",
+    "poi_count": 2
+  },
+  "duino-aurisina": {
+    "processed_at": "2026-04-09T10:24:37.099Z",
+    "poi_count": 8
+  },
+  "enemonzo": {
+    "processed_at": "2026-04-09T10:24:57.182Z",
+    "poi_count": 5
+  },
+  "erto-e-casso": {
+    "processed_at": "2026-04-09T10:24:57.185Z",
+    "poi_count": 7
+  },
+  "faedis": {
+    "processed_at": "2026-04-09T10:25:26.359Z",
+    "poi_count": 15
+  },
+  "fagagna": {
+    "processed_at": "2026-04-09T10:25:26.360Z",
+    "poi_count": 5
+  },
+  "fanna": {
+    "processed_at": "2026-04-09T10:25:36.665Z",
+    "poi_count": 3
+  },
+  "farra-d-isonzo": {
+    "processed_at": "2026-04-09T10:25:36.666Z",
+    "poi_count": 4
+  },
+  "fiume-veneto": {
+    "processed_at": "2026-04-09T10:25:57.123Z",
+    "poi_count": 9
+  },
+  "fiumicello-villa-v": {
+    "processed_at": "2026-04-09T10:25:57.124Z",
+    "poi_count": 5
+  },
+  "flaibano": {
+    "processed_at": "2026-04-09T10:26:12.743Z",
+    "poi_count": 3
+  },
+  "fogliano-redipuglia": {
+    "processed_at": "2026-04-09T10:26:12.744Z",
+    "poi_count": 5
+  },
+  "fontanafredda": {
+    "processed_at": "2026-04-09T10:26:28.245Z",
+    "poi_count": 7
+  },
+  "forgaria-nel-friuli": {
+    "processed_at": "2026-04-09T10:26:28.246Z",
+    "poi_count": 4
+  },
+  "forni-avoltri": {
+    "processed_at": "2026-04-09T10:26:45.237Z",
+    "poi_count": 4
+  },
+  "forni-di-sopra": {
+    "processed_at": "2026-04-09T10:26:45.240Z",
+    "poi_count": 6
+  },
+  "forni-di-sotto": {
+    "processed_at": "2026-04-09T10:27:01.183Z",
+    "poi_count": 4
+  },
+  "frisanco": {
+    "processed_at": "2026-04-09T10:27:01.184Z",
+    "poi_count": 6
+  },
+  "gemona-del-friuli": {
+    "processed_at": "2026-04-09T10:27:26.644Z",
+    "poi_count": 11
+  },
+  "gonars": {
+    "processed_at": "2026-04-09T10:27:26.647Z",
+    "poi_count": 3
+  },
+  "gorizia": {
+    "processed_at": "2026-04-09T10:27:52.935Z",
+    "poi_count": 12
+  },
+  "gradisca-d-isonzo": {
+    "processed_at": "2026-04-09T10:27:52.936Z",
+    "poi_count": 4
+  },
+  "grado": {
+    "processed_at": "2026-04-09T10:28:08.599Z",
+    "poi_count": 6
+  },
+  "grimacco": {
+    "processed_at": "2026-04-09T10:28:08.602Z",
+    "poi_count": 5
+  },
+  "latisana": {
+    "processed_at": "2026-04-09T10:28:35.828Z",
+    "poi_count": 13
+  },
+  "lauco": {
+    "processed_at": "2026-04-09T10:28:35.829Z",
+    "poi_count": 5
+  },
+  "lestizza": {
+    "processed_at": "2026-04-09T10:29:00.377Z",
+    "poi_count": 11
+  },
+  "lignano-sabbiadoro": {
+    "processed_at": "2026-04-09T10:29:00.380Z",
+    "poi_count": 2
+  },
+  "lusevera": {
+    "processed_at": "2026-04-09T10:29:16.474Z",
+    "poi_count": 6
+  },
+  "magnano-in-riviera": {
+    "processed_at": "2026-04-09T10:29:16.477Z",
+    "poi_count": 3
+  },
+  "majano": {
+    "processed_at": "2026-04-09T10:29:26.363Z",
+    "poi_count": 3
+  },
+  "malborghetto-valbruna": {
+    "processed_at": "2026-04-09T10:29:26.364Z",
+    "poi_count": 5
+  },
+  "maniago": {
+    "processed_at": "2026-04-09T10:29:38.954Z",
+    "poi_count": 6
+  },
+  "manzano": {
+    "processed_at": "2026-04-09T10:29:38.955Z",
+    "poi_count": 7
+  },
+  "marano-lagunare": {
+    "processed_at": "2026-04-09T10:29:48.952Z",
+    "poi_count": 3
+  },
+  "mariano-del-friuli": {
+    "processed_at": "2026-04-09T10:29:48.953Z",
+    "poi_count": 3
+  },
+  "martignacco": {
+    "processed_at": "2026-04-09T10:29:58.559Z",
+    "poi_count": 3
+  },
+  "medea": {
+    "processed_at": "2026-04-09T10:29:58.563Z",
+    "poi_count": 2
+  },
+  "meduno": {
+    "processed_at": "2026-04-09T10:30:15.169Z",
+    "poi_count": 7
+  },
+  "mereto-di-tomba": {
+    "processed_at": "2026-04-09T10:30:15.170Z",
+    "poi_count": 6
+  },
+  "moggio-udinese": {
+    "processed_at": "2026-04-09T10:30:31.851Z",
+    "poi_count": 4
+  },
+  "moimacco": {
+    "processed_at": "2026-04-09T10:30:31.853Z",
+    "poi_count": 6
+  },
+  "monfalcone": {
+    "processed_at": "2026-04-09T10:30:38.977Z",
+    "poi_count": 3
+  },
+  "monrupino": {
+    "processed_at": "2026-04-09T10:30:38.978Z",
+    "poi_count": 3
+  },
+  "montereale-valcellina": {
+    "processed_at": "2026-04-09T10:30:55.178Z",
+    "poi_count": 11
+  },
+  "moraro": {
+    "processed_at": "2026-04-09T10:30:55.179Z",
+    "poi_count": 1
+  },
+  "morsano-al-tagliamento": {
+    "processed_at": "2026-04-09T10:31:08.256Z",
+    "poi_count": 8
+  },
+  "mortegliano": {
+    "processed_at": "2026-04-09T10:31:08.257Z",
+    "poi_count": 6
+  },
+  "moruzzo": {
+    "processed_at": "2026-04-09T10:31:21.333Z",
+    "poi_count": 7
+  }
+}

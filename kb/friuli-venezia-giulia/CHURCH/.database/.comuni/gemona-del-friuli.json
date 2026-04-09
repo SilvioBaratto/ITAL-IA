@@ -1,0 +1,129 @@
+{
+  "comune_name": "Gemona del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md",
+  "extracted_at": "2026-04-09T10:27:26.640Z",
+  "pois": [
+    {
+      "name": "Duomo di Santa Maria Assunta (Pieve Arcipretale)",
+      "address": "Via Bini, Gemona del Friuli",
+      "website_url": "http://www.gemonaparrocchia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Santa%20Maria%20Assunta%20(Pieve%20Arcipretale)%2C%20Via%20Bini%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Duomo di Santa Maria Assunta è la chiesa principale di Gemona e uno dei più importanti monumenti religiosi del Friuli medievale. Costruito tra il 1290 e il 1337, custodisce opere come la colossale statua di san Cristoforo e un raffinato ciclo scultoreo trecentesco, esempio della cosiddetta Scuola di Gemona. La facciata e il campanile, gravemente danneggiati dal terremoto del 1976, sono stati restaurati con rigore filologico. All'interno si trovano capolavori come l'ancona lignea di Andrea Moranzone e la rara 'campana di Dante' del 1423.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Santuario di Sant'Antonio da Padova",
+      "address": "Gemona del Friuli (centro storico)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20di%20Sant'Antonio%20da%20Padova%2C%20Gemona%20del%20Friuli%20(centro%20storico)",
+      "image_url": null,
+      "description": "Il Santuario di Sant'Antonio da Padova, patrono della città, sorge su uno dei luoghi di culto più antichi di Gemona, inglobando i resti del sacello della Beata Vergine delle Grazie. Ogni 13 giugno qui si celebra la principale festa patronale. L'interno ospita un altare barocco e affreschi di Melchiorre Widmar, oltre a due grandi dipinti. Annesso al santuario si trova il Museo Renato Raffaelli, dedicato alla storia del culto antoniano.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine delle Grazie",
+      "address": "Gemona del Friuli (centro storico)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20delle%20Grazie%2C%20Gemona%20del%20Friuli%20(centro%20storico)",
+      "image_url": null,
+      "description": "Tra le chiese più antiche della città, la Beata Vergine delle Grazie fu gravemente danneggiata dal terremoto del 1976 e non è più funzionale al culto, ma restaurata come rudere. Il sito presenta i resti murari consolidati, conservando la memoria della catastrofe e della storia religiosa medievale di Gemona. È oggi meta di visita per il suo valore storico e devozionale.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Sant'Agnese in Monte",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Agnese%20in%20Monte%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Situata alla sella di Sant'Agnese, in posizione isolata a circa 2,5 km dal paese, la chiesa fu eretta nel XII secolo sul sedime di un antico luogo di culto pagano. Il complesso includeva anche un romitorio, poi convento di monache, e fu associato prima ai Benedettini, poi alle Agostiniane. Ha avuto un ruolo importante nel controllo dei valichi e nell'accoglienza dei pellegrini fin dal medioevo.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Priorato di Santo Spirito (Ospedaletto)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Priorato%20di%20Santo%20Spirito%20(Ospedaletto)%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Fondato prima del 1213 come ospizio sull'antica via per il Norico, il Priorato di Santo Spirito di Ospedaletto è tra i complessi religiosi e assistenziali più rilevanti della zona. Stabilito come filiale dell'Ospedale di Santo Spirito in Sassia di Roma, beneficiò di protezione papale. L'attuale chiesa in stile neogotico fu ricostruita nell'Ottocento e rappresenta il luogo di culto principale della frazione.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Ognissanti (Ospedaletto)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Ognissanti%20(Ospedaletto)%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Edificata dal 1394 nella frazione di Ospedaletto, la chiesa fu voluta da Pietro da Segne e ampliata all'inizio del Quattrocento. Punto di riferimento per la Fiera di Ognissanti, è stata teatro di lunghe contese tra comunità locali e ordini religiosi. Distrutta dal terremoto del 1976, è stata ricostruita con fedeltà filologica secondo le forme originarie trecentesche.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Cristoforo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Cristoforo%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Situata nel centro storico di Gemona, la chiesa di San Cristoforo è associata al culto del santo protettore dei viandanti, figura centrale in una città storicamente crocevia dei traffici alpini. Il culto del santo si riflette anche nell'imponente statua sulla facciata del Duomo cittadino.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Rocco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Rocco%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa di San Rocco, anch'essa situata nel centro storico, è dedicata al santo protettore degli appestati e dei viandanti. Diffusasi dopo le epidemie di peste del Quattrocento, la chiesa fu restaurata dopo i danni subiti con il terremoto del 1976. La sua presenza testimonia la stratificazione religiosa e la devozione popolare della comunità.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Lucia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Lucia%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Oratorio del centro storico di Gemona, la chiesa di Santa Lucia è legata al culto della santa patrona della vista e dei ciechi, molto sentito in Friuli. Danneggiata dal sisma del 1976, venne inclusa nei successivi interventi di restauro per la salvaguardia del patrimonio sacro locale.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria degli Angeli",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20degli%20Angeli%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Dedicata a una delle advocazioni mariane più diffuse in area francescana, la chiesa di Santa Maria degli Angeli sorge nel centro storico di Gemona. Probabilmente collegata alla presenza dei Frati Minori nel medioevo, ha subito danni con il terremoto del 1976 e successivamente restauri.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria di Fossale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20di%20Fossale%2C%20Gemona%20del%20Friuli",
+      "image_url": null,
+      "description": "Questa piccola chiesa medievale, oggi sconsacrata, si trova nella zona rurale di Gemona ed è legata al culto mariano locale. L'edificio fa parte del reticolo di cappelle e oratori sparsi nella campagna friulana, a testimonianza delle radici agricole e paesaggistiche della devozione della zona.",
+      "comune_name": "Gemona del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/gemona-del-friuli.md"
+    }
+  ]
+}

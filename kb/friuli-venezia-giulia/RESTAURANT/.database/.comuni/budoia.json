@@ -1,0 +1,85 @@
+{
+  "comune_name": "Budoia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md",
+  "extracted_at": "2026-04-09T10:55:54.535Z",
+  "pois": [
+    {
+      "name": "Ciasa Mata",
+      "address": "Via Pordenone, 68 SP31 – 33070 Budoia PN",
+      "website_url": "http://www.ciasamata.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ciasa%20Mata%2C%20Via%20Pordenone%2C%2068%20SP31%20%E2%80%93%2033070%20Budoia%20PN",
+      "image_url": null,
+      "description": "Ciasa Mata è il ristorante più rinomato di Budoia, noto per la cucina che fonde tradizione friulano-veneta con creazioni innovative. Il locale è apprezzato per il menu stagionale che offre piatti tradizionali rivisitati, specialità giapponesi come gli udon, proposte vegane e una selezione di vini regionali eccellente. L’atmosfera è luminosa e sobria, con bellissime vedute sulle montagne, e il servizio è attento e professionale. Il rapporto qualità-prezzo si posiziona in una fascia media-alta, ideale per chi cerca un’esperienza gastronomica di livello.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    },
+    {
+      "name": "Al Ciastelat",
+      "address": "Strada del Ciastelat, 2 – Budoia (PN)",
+      "website_url": "http://www.alciastelat.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Ciastelat%2C%20Strada%20del%20Ciastelat%2C%202%20%E2%80%93%20Budoia%20(PN)",
+      "image_url": null,
+      "description": "Al Ciastelat è un ristorante e pizzeria immerso nei boschi della Val di Croda, noto per la sua posizione suggestiva nel cuore della natura. Propone cucina friulana tradizionale e pizze artigianali, con possibilità di cenare all’aperto in estate. Il personale è cordiale e il rapporto qualità-prezzo è ottimo; la struttura offre anche camere per il pernottamento. L’atmosfera rilassante e la vista rendono l’esperienza particolarmente piacevole dopo una giornata in montagna.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    },
+    {
+      "name": "Ristorante Ciasa de Gahja",
+      "address": "Via Anzolet, 13 – Budoia",
+      "website_url": "http://www.ristoranteciasadegahja.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Ciasa%20de%20Gahja%2C%20Via%20Anzolet%2C%2013%20%E2%80%93%20Budoia",
+      "image_url": null,
+      "description": "Il Ristorante Ciasa de Gahja si trova in una casa rurale elegantemente ristrutturata nelle colline di Budoia, offrendo anche servizi di hotel e location per eventi. La cucina, curata e attenta alla territorialità, propone piatti di carne e pesce preparati con ingredienti freschi e stagionali, valorizzando i prodotti locali. L’atmosfera accogliente combina eleganza rustica e tocchi moderni, con ampi spazi e facilità di accesso. Ideale per colazioni rilassanti, cene romantiche o eventi speciali.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    },
+    {
+      "name": "Il Posto Giusto",
+      "address": "Via Polcenigo, 10 – Budoia (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Posto%20Giusto%2C%20Via%20Polcenigo%2C%2010%20%E2%80%93%20Budoia%20(PN)",
+      "image_url": null,
+      "description": "Il Posto Giusto è una pizzeria a conduzione familiare apprezzata per la qualità delle sue pizze, disponibili in varie tipologie di impasto, comprese opzioni particolari come il kamut e il carbone vegetale. L’ambiente è accogliente e adatto alle famiglie, con spazi dedicati ai bambini e servizio cordiale. Oltre alle pizze, il menu propone altri piatti, mantenendo prezzi onesti e porzioni generose. Il locale offre anche il servizio d’asporto ed è molto frequentato dalla clientela locale.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    },
+    {
+      "name": "Ostarìe Il Rifugio",
+      "address": "Località Dardago, 85 – Budoia, 33070 (frazione)",
+      "website_url": "http://www.ilrifugio.net",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostar%C3%ACe%20Il%20Rifugio%2C%20Localit%C3%A0%20Dardago%2C%2085%20%E2%80%93%20Budoia%2C%2033070%20(frazione)",
+      "image_url": null,
+      "description": "Ostarìe Il Rifugio sorge da una baita alpina ristrutturata ed è immerso nel Parco della Val di Croda a Dardago, offrendo un’atmosfera rustica e raffinata dominata dal legno. La cucina è ispirata alla tradizione friulana, con un’attenzione particolare alle carni grigliate di alta qualità. Il locale gode di fama storica anche grazie alla visita di Bill Clinton nel 1999 e permette di degustare i suoi piatti anche nel giardino estivo. Il servizio è attento e la location ideale per chi cerca autenticità e tranquillità.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Allo Chalet",
+      "address": "Via S. Tomè, 87 – Dardago (frazione di Budoia), 33070",
+      "website_url": "http://www.allochalet.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Allo%20Chalet%2C%20Via%20S.%20Tom%C3%A8%2C%2087%20%E2%80%93%20Dardago%20(frazione%20di%20Budoia)%2C%2033070",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Allo Chalet domina la scena di Dardago grazie alla sua posizione panoramica e all’atmosfera rilassata. Il locale propone un ampio menu di pizze, piatti di carne e pesce, e offre servizi come l’asporto e la consegna a domicilio. Gli ambienti, interni accoglienti e spazio esterno curato, rendono il ristorante adatto a diversi tipi di clientela. Offre anche camere per il soggiorno e la possibilità di pranzare e cenare all’aperto nei mesi estivi.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    },
+    {
+      "name": "Relais Sauc & SPA – Agriturismo",
+      "address": "Località Sauc, 2 – Budoia (frazione Piancavallo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Relais%20Sauc%20%26%20SPA%20%E2%80%93%20Agriturismo%2C%20Localit%C3%A0%20Sauc%2C%202%20%E2%80%93%20Budoia%20(frazione%20Piancavallo)",
+      "image_url": null,
+      "description": "Relais Sauc & SPA è un agriturismo di lusso situato nella foresta di Piancavallo, completamente rinnovato e dotato di area wellness moderna. Il ristorante propone piatti italiani e regionali realizzati con prodotti aziendali, in un contesto di tranquillità montana e panorama straordinario che si estende fino a Venezia. La struttura offre anche zona relax, camere eleganti e parcheggio privato, ideale per soggiorni nella natura con comfort elevati.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/budoia.md"
+    }
+  ]
+}

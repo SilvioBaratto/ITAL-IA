@@ -1,0 +1,85 @@
+{
+  "comune_name": "Corno di Rosazzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md",
+  "extracted_at": "2026-04-09T10:11:51.502Z",
+  "pois": [
+    {
+      "name": "Dal Panky — Panificio e Pasticceria",
+      "address": "Via Papa Giovanni XXIII, 70 — Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dal%20Panky%20%E2%80%94%20Panificio%20e%20Pasticceria%2C%20Via%20Papa%20Giovanni%20XXIII%2C%2070%20%E2%80%94%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Dal Panky è un panificio e pasticceria molto frequentato dagli abitanti di Corno di Rosazzo. Offre colazioni semplici e genuine con caffè, brioches fresche e prodotti da forno preparati ogni mattina. Il locale si distingue anche per le specialità dolciarie artigianali, soprattutto nei periodi festivi, e nel tardo pomeriggio diventa un punto di ritrovo per l'aperitivo o per acquistare pane fresco. La gestione familiare e l'orario ampio lo rendono un luogo centrale nella vita quotidiana locale.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Al Campanile",
+      "address": "Via Papa Giovanni XXIII, 20 — 33040 Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Campanile%2C%20Via%20Papa%20Giovanni%20XXIII%2C%2020%20%E2%80%94%2033040%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Al Campanile è una trattoria-bar a conduzione familiare situata nel centro del paese, vicino alla piazza principale. Offre sia piatti della tradizione friulana che servizio bar, con una clientela composta soprattutto da lavoratori delle aziende agricole della zona. Il locale dispone di tavoli all'aperto e parcheggio e svolge un ruolo importante nella socialità locale, specialmente nelle ore di pausa pranzo.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Trattoria Bar Moret",
+      "address": "Piazza XXVII Maggio, 4 — 33040 Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Bar%20Moret%2C%20Piazza%20XXVII%20Maggio%2C%204%20%E2%80%94%2033040%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Il Bar Moret si affaccia sulla piazza centrale e unisce la funzione di bar tradizionale friulano a quella di trattoria. Di giorno si servono colazioni e menù per i lavoratori locali, mentre la sera è aperto su prenotazione per gruppi. Il locale è conosciuto per il suo radicamento nella comunità, anche grazie all'attività sui social, ed è particolarmente vivace nell'ora di pranzo durante la settimana.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Pizzeria Bar da Ciro",
+      "address": "Via Aquileia, Quattroventi — Sant'Andràt del Judrio, Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Bar%20da%20Ciro%2C%20Via%20Aquileia%2C%20Quattroventi%20%E2%80%94%20Sant'Andr%C3%A0t%20del%20Judrio%2C%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Situato nella frazione di Sant'Andràt del Judrio, il Pizzeria Bar da Ciro rappresenta un importante punto di riferimento per gli abitanti della zona. Il locale svolge la doppia funzione di bar e pizzeria, offrendo sia colazioni che aperitivi e pizza nel fine settimana. Come in molte frazioni rurali friulane, svolge anche un ruolo sociale fondamentale come unico presidio di aggregazione locale.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Osteria del Pinot Grigio Ramato — Villa Butussi",
+      "address": "Via San Martino, 29 (presso Villa Butussi) — 33040 Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20del%20Pinot%20Grigio%20Ramato%20%E2%80%94%20Villa%20Butussi%2C%20Via%20San%20Martino%2C%2029%20(presso%20Villa%20Butussi)%20%E2%80%94%2033040%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria del Pinot Grigio Ramato si trova nella storica tenuta Villa Butussi e si caratterizza come wine bar con cucina italiana e servizio all'aperto. Il locale celebra il Pinot Grigio Ramato, tipica specialità friulana, e propone aperitivi di qualità accompagnati da vini autoctoni, salumi e formaggi locali. La posizione immersa nelle vigne la rende ideale per chi cerca una pausa tranquilla con prodotti del territorio, soprattutto al calar del sole.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Gelateria Mitzie",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelateria%20Mitzie%2C%20Corno%20di%20Rosazzo",
+      "image_url": null,
+      "description": "La Gelateria Mitzie è un laboratorio artigianale di gelato attivo nella zona di Corno di Rosazzo, apprezzato per l'utilizzo di ingredienti naturali e la produzione di gelato anche senza lattosio. La gestione pone attenzione alle intolleranze alimentari e propone gusti originali come la mandorla siciliana. Si distingue per una comunicazione moderna e una presenza attiva sui social media.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Al Gjal",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Gjal%2C%20Corno%20di%20Rosazzo",
+      "image_url": null,
+      "description": "Al Gjal è un locale tradizionale dal nome tipicamente friulano, situato nel territorio di Corno di Rosazzo. Svolge le classiche funzioni del bar di paese, offrendo colazioni, caffè, vino e aperitivi a una clientela prevalentemente locale. Il nome richiama la toponomastica popolare e l'atmosfera rurale tipica delle osterie friulane.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/corno-di-rosazzo.md"
+    }
+  ]
+}

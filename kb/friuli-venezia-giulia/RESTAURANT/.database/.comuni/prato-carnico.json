@@ -1,0 +1,74 @@
+{
+  "comune_name": "Prato Carnico",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md",
+  "extracted_at": "2026-04-09T11:13:22.294Z",
+  "pois": [
+    {
+      "name": "Inn Pik — Osteria di Pesariis",
+      "address": "Frazione Pesariis, 70 — 33020 Prato Carnico (UD)",
+      "website_url": "http://www.osteriainnpik.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Inn%20Pik%20%E2%80%94%20Osteria%20di%20Pesariis%2C%20Frazione%20Pesariis%2C%2070%20%E2%80%94%2033020%20Prato%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "L'Inn Pik è una piccola osteria nel cuore di Pesariis, nota per proporre cucina tipica carnica in un ambiente informale e raccolto. I piatti variano dal frico con polenta ai cjarsons freschi, accompagnati da vini friulani e birre artigianali. È apprezzata sia dai residenti che dagli escursionisti, presenta una fascia di prezzo contenuta e attenzione anche ai vegetariani. La posizione tra le meridiane monumentali del borgo rende la sosta un'esperienza che unisce gastronomia e cultura locale.",
+      "comune_name": "Prato Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md"
+    },
+    {
+      "name": "Agriturismo Plan da Crosc",
+      "address": "Località Croce, 2 — 33020 Prato Carnico (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Plan%20da%20Crosc%2C%20Localit%C3%A0%20Croce%2C%202%20%E2%80%94%2033020%20Prato%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Situato nella località Croce, l'Agriturismo Plan da Crosc offre cucina carnica tradizionale basata su prodotti a chilometro zero e dell'azienda agricola locale. È un punto di ristoro ideale per chi trascorre la giornata tra i sentieri delle Dolomiti Friulane e accoglie famiglie ed escursionisti con servizio di colazione, pranzo e cena. L'ambiente immerso nella natura e i servizi per disabili rendono il locale accessibile e perfetto per una pausa gastronomica in montagna.",
+      "comune_name": "Prato Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md"
+    },
+    {
+      "name": "Agriturismo Sot La Napa",
+      "address": "Frazione Pesariis, 61/96 — 33020 Prato Carnico (UD)",
+      "website_url": "https://www.sotlanapa.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Sot%20La%20Napa%2C%20Frazione%20Pesariis%2C%2061%2F96%20%E2%80%94%2033020%20Prato%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "L'Agriturismo Sot La Napa, gestito dalla famiglia Solari, unisce pernottamento, ristorazione e attività didattiche nella frazione di Pesariis. Offre una cucina genuina con prodotti propri come formaggi, salumi e ortaggi, valorizzando la tradizione carnica e il rispetto dell'ambiente. La struttura è ideale per famiglie e gruppi che cercano un'esperienza completa di ospitalità rurale abbinata alla scoperta culturale del borgo degli orologi solari.",
+      "comune_name": "Prato Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md"
+    },
+    {
+      "name": "Pian di Casa",
+      "address": "Località Lavadin, 1 — 33020 Prato Carnico (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pian%20di%20Casa%2C%20Localit%C3%A0%20Lavadin%2C%201%20%E2%80%94%2033020%20Prato%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Pian di Casa si trova in località Lavadin e propone servizio di bar, colazione e cucina tradizionale italiana con opzioni vegetariane, ideale per escursionisti, ciclisti e famiglie. La struttura offre tavoli all'aperto con vista sui pianori alpini, rendendola particolarmente apprezzata nei mesi estivi. L'ambiente è informale e accessibile, perfetto come sosta energetica lungo i sentieri.",
+      "comune_name": "Prato Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md"
+    },
+    {
+      "name": "Malga Malins",
+      "address": "Località Malins — 33020 Prato Carnico (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Malga%20Malins%2C%20Localit%C3%A0%20Malins%20%E2%80%94%2033020%20Prato%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Malga Malins è una struttura agrituristica di alta montagna sugli alpeggi di Prato Carnico che offre ristoro e pernottamento. La cucina propone piatti a base di formaggi di malga freschissimi e pietanze semplici della tradizione, da gustare in un contesto naturale suggestivo. L'atmosfera rustica, la produzione casearia propria e il panorama sulle Dolomiti rendono la sosta un'esperienza unica, consigliata soprattutto nel periodo estivo.",
+      "comune_name": "Prato Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md"
+    },
+    {
+      "name": "Rifugio De Gasperi — Ristoro",
+      "address": "Clap Grande — 33020 Prato Carnico (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20De%20Gasperi%20%E2%80%94%20Ristoro%2C%20Clap%20Grande%20%E2%80%94%2033020%20Prato%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Il Rifugio De Gasperi, situato nei pressi del Clap Grande, è un punto di appoggio del CAI per alpinisti ed escursionisti dell'alta Carnia. Offre ristoro essenziale con piatti genuini come minestre calde, polenta con formaggio, salumi locali e dolci semplici. L'esperienza del pasto, spesso dopo lunghe camminate, viene esaltata dall'ambiente d'alta quota e dal panorama sulle Dolomiti Friulane.",
+      "comune_name": "Prato Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prato-carnico.md"
+    }
+  ]
+}

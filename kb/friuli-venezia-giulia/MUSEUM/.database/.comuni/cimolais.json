@@ -1,0 +1,41 @@
+{
+  "comune_name": "Cimolais",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cimolais.md",
+  "extracted_at": "2026-04-09T10:45:21.059Z",
+  "pois": [
+    {
+      "name": "Centro Visite di Cimolais – Parco Naturale Dolomiti Friulane",
+      "address": "Via Roma, 4 – 33080 Cimolais (PN) (piano terra della sede amministrativa del Parco)",
+      "website_url": "https://www.parcodolomitifriulane.it/centro-visite-di-cimolais/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Visite%20di%20Cimolais%20%E2%80%93%20Parco%20Naturale%20Dolomiti%20Friulane%2C%20Via%20Roma%2C%204%20%E2%80%93%2033080%20Cimolais%20(PN)%20(piano%20terra%20della%20sede%20amministrativa%20del%20Parco)",
+      "image_url": null,
+      "description": "Il Centro Visite di Cimolais rappresenta il punto principale di accoglienza e interpretazione del Parco Naturale Dolomiti Friulane. Ospita una mostra permanente e interattiva dedicata alla fauna locale, con sezioni sensoriali, reperti autentici e quadri naturalistici. La struttura include un pavimento interattivo rivolto alle famiglie e offre attività didattiche per scuole, arricchendo l'esperienza educativa sull'ecosistema dolomitico.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cimolais.md"
+    },
+    {
+      "name": "Parco Faunistico e Centro Didattico Montano Pianpinedo",
+      "address": "Località Piana di Pinedo – tra i Comuni di Cimolais e Claut (PN)",
+      "website_url": "https://www.parcodolomitifriulane.it/parco-faunistico-pianpinedo-a-cimolais-pn/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Faunistico%20e%20Centro%20Didattico%20Montano%20Pianpinedo%2C%20Localit%C3%A0%20Piana%20di%20Pinedo%20%E2%80%93%20tra%20i%20Comuni%20di%20Cimolais%20e%20Claut%20(PN)",
+      "image_url": null,
+      "description": "Il Parco Faunistico Pianpinedo ospita animali selvatici in un ambiente naturale di 35 ettari e comprende un sentiero botanico con specie vegetali rare. Il Centro Didattico valorizza il rapporto sensoriale con la natura attraverso esperienze immersive, affiancato dal Cason dei Boscaioli e dalla Calcinaia recuperata, che illustrano la vita e le attività tradizionali delle Alpi friulane. La struttura è la principale attrazione per famiglie e offre un percorso educativo ambientale e rurale.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cimolais.md"
+    },
+    {
+      "name": "Percorso dei Mulini e Mostra all'Aperto dell'Ex-Segheria Protti",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Percorso%20dei%20Mulini%20e%20Mostra%20all'Aperto%20dell'Ex-Segheria%20Protti%2C%20Cimolais",
+      "image_url": null,
+      "description": "Il Sentiero dei Mulini è un percorso didattico-museale all'aperto che ripercorre la storia dei mulini del territorio di Cimolais, raccontando il loro ruolo nell'economia rurale montana. Il tracciato culmina presso l'ex-segheria Protti, dove una mostra permanente all'aperto illustra le tecniche di lavorazione del legname e l'importanza sociale della segheria tra Otto e Novecento. Il percorso è segnalato e inserito nel programma di itinerari etnografici del Parco Dolomiti Friulane.",
+      "comune_name": "Cimolais",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cimolais.md"
+    }
+  ]
+}

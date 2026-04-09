@@ -1,0 +1,151 @@
+{
+  "comune_name": "Pozzuolo del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md",
+  "extracted_at": "2026-04-09T11:13:10.219Z",
+  "pois": [
+    {
+      "name": "Frasca Dal Bacan dal 1978",
+      "address": null,
+      "website_url": "https://www.facebook.com/frascadalbacan",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Frasca%20Dal%20Bacan%20dal%201978%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Frasca Dal Bacan dal 1978 è una storica frasca friulana che propone taglieri di formaggi e affettati artigianali accompagnati da vini locali selezionati. L’atmosfera rustica e accogliente, i prodotti a filiera corta e i prezzi contenuti lo rendono molto frequentato dai residenti. È uno dei luoghi più apprezzati del comune, noto per la sua autenticità e la tradizione contadina ancora viva, con una valutazione media di 4.6 su Google.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Osteria al Portico / Trattoria Al Portico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Portico%20%2F%20Trattoria%20Al%20Portico%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "La Trattoria Al Portico è una trattoria di pesce a conduzione familiare, rinomata per gli spaghetti al nero di seppie, la zuppa di pesce e l’orata al forno con patate. L’ambiente è quello della classica trattoria friulana, semplice e accogliente, con un servizio familiare e porzioni generose. Il locale è molto apprezzato dalla clientela locale per la qualità delle materie prime e i prezzi onesti.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Al Forestiero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Al%20Forestiero%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria Al Forestiero combina una ricca offerta di pizze tradizionali e creative con piatti di mare e di carne. È considerato un punto di riferimento per i residenti, grazie alla qualità delle pizze e agli spaghetti ai frutti di mare. Il locale offre un’atmosfera informale, adatta sia alle famiglie che a chi desidera un pasto veloce.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Agriturismo Cjasal di Pition",
+      "address": "Via IV Genova 1, Pozzuolo del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Cjasal%20di%20Pition%2C%20Via%20IV%20Genova%201%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Agriturismo Cjasal di Pition propone ristorazione legata ai prodotti dell’azienda agricola e del territorio circostante, con menù stagionali basati su funghi, selvaggina, verdure di campo e carni da cortile. L’atmosfera rurale e il servizio cordiale lo rendono ideale per famiglie e chi desidera vivere un’esperienza autentica di campagna friulana. Ha una fascia di prezzo accessibile e una buona selezione di vini locali.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Pizza & Sfizi",
+      "address": "Via della Cavalleria 29, Pozzuolo del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20%26%20Sfizi%2C%20Via%20della%20Cavalleria%2029%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Pizza & Sfizi è una pizzeria molto apprezzata per la qualità delle pizze e il servizio attento, situata vicino al Centro Visite Archeologiche di Sammardenchia. L’ambiente curato e l’atmosfera piacevole attirano famiglie, studenti e lavoratori. I prezzi accessibili e la pizza napoletana sono particolarmente citati come punti di forza.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Frasca dei Castelli",
+      "address": "Via dei Castelli 13, Pozzuolo del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Frasca%20dei%20Castelli%2C%20Via%20dei%20Castelli%2013%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Frasca dei Castelli è una tipica frasca del Friuli specializzata in vini locali, taglieri di affettati e formaggi, situata in una zona residenziale del comune. L’ambiente familiare e i prezzi molto contenuti la rendono ideale per un aperitivo o una cena informale. Dispone di posti all’esterno ed è apprezzata per l’offerta semplice ma genuina.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Alla Cavalleria",
+      "address": "Via della Cavalleria 32/b, Pozzuolo del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Cavalleria%2C%20Via%20della%20Cavalleria%2032%2Fb%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Alla Cavalleria è un locale polivalente che funge da bar, ristorante e punto di ritrovo, situato nel cuore del paese. Propone cucina italiana classica, hamburger e piatti del giorno in un’atmosfera vivace, particolarmente affollata nei fine settimana. È uno dei locali più frequentati e offre anche servizio da asporto.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "MamaRosa – Burger Grill Cooking",
+      "address": "Via Udine 37, Pozzuolo del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=MamaRosa%20%E2%80%93%20Burger%20Grill%20Cooking%2C%20Via%20Udine%2037%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "MamaRosa propone una cucina informale di barbecue e griglia, con hamburger artigianali, pesce alla griglia e calamari fritti. Il locale, moderno e accogliente, attira giovani e famiglie grazie ai piatti grigliati e alla presenza di posti all’aperto. È consigliato verificare l’apertura, in quanto risulta temporaneamente chiuso.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Osteria La Dal Forest",
+      "address": "Via Udine 5, Pozzuolo del Friuli",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La%20Dal%20Forest%2C%20Via%20Udine%205%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Osteria La Dal Forest è un piccolo locale che combina le funzioni di bar, panineria e osteria informale, frequentato soprattutto dai residenti per pause veloci o pasti semplici. L’ambiente è informale e i prezzi sono molto bassi, contribuendo a creare un punto di riferimento quotidiano per gli abitanti del quartiere.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Trattoria Le Clanfe",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Le%20Clanfe%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Trattoria Le Clanfe propone cucina regionale friulana casalinga in un ambiente tradizionale legato all’idea di abbondanza e generosità. Benché le informazioni dettagliate siano limitate, è conosciuta tra i residenti per i piatti tipici del territorio e l’atmosfera accogliente.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "In Villa – Spazio Eventi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=In%20Villa%20%E2%80%93%20Spazio%20Eventi%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "In Villa – Spazio Eventi è un locale immerso nella pianura friulana che ospita eventi privati, matrimoni e cerimonie, offrendo anche servizi di ristorazione su prenotazione. Il menu, in stile banqueting, privilegia la cucina friulana e italiana, adattandosi alle esigenze di gruppi e occasioni speciali.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Sarni Grill – Zugliano Ovest (frazione di Zugliano)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sarni%20Grill%20%E2%80%93%20Zugliano%20Ovest%20(frazione%20di%20Zugliano)%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Sarni Grill Zugliano Ovest è un ristorante grill e fast food che serve principalmente lavoratori della zona industriale e commerciale di Zugliano, frazione di Pozzuolo del Friuli. L’offerta include piatti alla brace, panini e piatti del giorno a prezzi bassi, con servizio veloce e informale.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    },
+    {
+      "name": "Pizza Al Taglio \"o Santa Lucia\"",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Al%20Taglio%20%22o%20Santa%20Lucia%22%2C%20Pozzuolo%20del%20Friuli",
+      "image_url": null,
+      "description": "Pizza Al Taglio \"o Santa Lucia\" è una pizzeria specializzata nella pizza al taglio, ideale per un pranzo veloce o uno spuntino. Propone varietà classiche della tradizione italiana ed è un punto di riferimento per chi cerca una soluzione pratica e gustosa senza servizio al tavolo.",
+      "comune_name": "Pozzuolo del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pozzuolo-del-friuli.md"
+    }
+  ]
+}

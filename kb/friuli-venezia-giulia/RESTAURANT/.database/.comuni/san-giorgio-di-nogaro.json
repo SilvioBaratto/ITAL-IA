@@ -1,0 +1,74 @@
+{
+  "comune_name": "San Giorgio di Nogaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md",
+  "extracted_at": "2026-04-09T11:17:41.689Z",
+  "pois": [
+    {
+      "name": "Da Balan",
+      "address": "Via Ippolito Nievo, 1 – 33058 San Giorgio di Nogaro (UD)",
+      "website_url": "http://www.dabalan.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Balan%2C%20Via%20Ippolito%20Nievo%2C%201%20%E2%80%93%2033058%20San%20Giorgio%20di%20Nogaro%20(UD)",
+      "image_url": null,
+      "description": "Da Balan è un rinomato ristorante a conduzione familiare specializzato in cucina di pesce, situato a San Giorgio di Nogaro. Nato dalla tradizione friulana e oggi guidato dalle sorelle Susi e Tiziana, offre pesce freschissimo acquistato ogni giorno al mercato ittico di Marano Lagunare, con piatti iconici come crudi di mare, seppie in umido e frittura di paranza. L'atmosfera è familiare e semplice, mentre la selezione dei vini privilegia le migliori etichette friulane. È considerata un'istituzione locale per l'autenticità e la qualità delle sue proposte.",
+      "comune_name": "San Giorgio di Nogaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Da Alfonso",
+      "address": "Via Roma, 73 – 33058 San Giorgio di Nogaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Da%20Alfonso%2C%20Via%20Roma%2C%2073%20%E2%80%93%2033058%20San%20Giorgio%20di%20Nogaro%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Da Alfonso è uno storico locale di San Giorgio di Nogaro, attivo dal 1968 e gestito dalla famiglia Acampora, originaria di Napoli. Il ristorante è noto per la sua autentica pizza napoletana preparata secondo tradizione, oltre a offrire piatti della cucina italiana, friulana e alcune specialità campane. Grazie all'atmosfera familiare e ai prezzi accessibili, è un punto di riferimento locale, particolarmente apprezzato anche per i menù a prezzo fisso a pranzo.",
+      "comune_name": "San Giorgio di Nogaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md"
+    },
+    {
+      "name": "La Darsena",
+      "address": "Via Enrico Fermi, 21 – C/O Cantieri Marina – 33058 San Giorgio di Nogaro (UD)",
+      "website_url": "https://www.facebook.com/nellyemimmo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Darsena%2C%20Via%20Enrico%20Fermi%2C%2021%20%E2%80%93%20C%2FO%20Cantieri%20Marina%20%E2%80%93%2033058%20San%20Giorgio%20di%20Nogaro%20(UD)",
+      "image_url": null,
+      "description": "La Darsena è un ristorante di pesce situato all'interno dei Cantieri Marina di Porto Nogaro, con una posizione unica affacciata sulla zona portuale. Propone cucina di mare tipica, con pescato locale preparato in modo semplice e abbondante come fritture, branzino alla griglia e antipasti di pesce. L’atmosfera è genuina e informale, frequentato soprattutto da lavoratori del porto e diportisti che cercano autenticità e freschezza.",
+      "comune_name": "San Giorgio di Nogaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md"
+    },
+    {
+      "name": "Trattoria Siore Marie – Breda Dennis",
+      "address": "Via Ponte Orlando, 2 – 33058 Villanova, San Giorgio di Nogaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Siore%20Marie%20%E2%80%93%20Breda%20Dennis%2C%20Via%20Ponte%20Orlando%2C%202%20%E2%80%93%2033058%20Villanova%2C%20San%20Giorgio%20di%20Nogaro%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Siore Marie, gestita dalla famiglia Breda nella frazione Villanova, è un locale rustico dedicato alla cucina friulana tradizionale della pianura. Qui si servono piatti casalinghi come polenta, frico, cjalsons e minestre di stagione, con carni arrosto durante i mesi autunnali. L'ambiente è semplice e familiare, frequentato soprattutto da clienti abituali alla ricerca di piatti genuini della tradizione locale.",
+      "comune_name": "San Giorgio di Nogaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md"
+    },
+    {
+      "name": "La Lanterna – Pizzeria Rosticceria",
+      "address": "Via Roma, 45 – 33058 San Giorgio di Nogaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Lanterna%20%E2%80%93%20Pizzeria%20Rosticceria%2C%20Via%20Roma%2C%2045%20%E2%80%93%2033058%20San%20Giorgio%20di%20Nogaro%20(UD)",
+      "image_url": null,
+      "description": "La Lanterna è una pizzeria-rosticceria centrale, gestita dalla famiglia Sarnataro, che propone piatti semplici e veloci in un'atmosfera informale. Offre pizza classica, pollo allo spiedo, porchetta e altre specialità di rosticceria, con opzioni sia da asporto che da consumare in loco. È molto frequentata da famiglie e lavoratori locali che apprezzano la cucina casalinga e i prezzi accessibili.",
+      "comune_name": "San Giorgio di Nogaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md"
+    },
+    {
+      "name": "Laguna Blu – Pizzeria",
+      "address": "Via Marittima, 69 – 33058 San Giorgio di Nogaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Laguna%20Blu%20%E2%80%93%20Pizzeria%2C%20Via%20Marittima%2C%2069%20%E2%80%93%2033058%20San%20Giorgio%20di%20Nogaro%20(UD)",
+      "image_url": null,
+      "description": "Laguna Blu è una pizzeria di quartiere situata in Via Marittima, sulla via che porta verso Porto Nogaro e la marina. Il locale propone pizze al piatto classiche e contemporanee, insieme ad antipasti e piatti semplici, in un ambiente informale e con prezzi contenuti. Grazie agli orari flessibili, è un'opzione comoda sia per chi vive in zona che per i clienti di passaggio.",
+      "comune_name": "San Giorgio di Nogaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giorgio-di-nogaro.md"
+    }
+  ]
+}

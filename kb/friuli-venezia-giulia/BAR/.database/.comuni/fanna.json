@@ -1,0 +1,30 @@
+{
+  "comune_name": "Fanna",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fanna.md",
+  "extracted_at": "2026-04-09T10:13:22.997Z",
+  "pois": [
+    {
+      "name": "Vanich Bar",
+      "address": "Via Montelieto, Mioni (I Mions) — Fanna (PN), 33092",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vanich%20Bar%2C%20Via%20Montelieto%2C%20Mioni%20(I%20Mions)%20%E2%80%94%20Fanna%20(PN)%2C%2033092",
+      "image_url": null,
+      "description": "Il Vanich Bar è il punto di riferimento per la frazione di Mioni, frequentato da artigiani, agricoltori e lavoratori di passaggio soprattutto al mattino e all'ora dell'aperitivo. Il locale offre uno spazio interno raccolto e, in estate, qualche seduta all'aperto. Lo spritz al Aperol o Select è la bevanda tipica, e durante la Sagra delle Mele Antiche diventa punto di ritrovo per visitatori. Non dispone di sito web e gli orari variano secondo la stagione.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fanna.md"
+    },
+    {
+      "name": "Al Giardino",
+      "address": "Via Circonvallazione Nuova, Visinale (Visinâl) — Fanna (PN), 33092",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Giardino%2C%20Via%20Circonvallazione%20Nuova%2C%20Visinale%20(Visin%C3%A2l)%20%E2%80%94%20Fanna%20(PN)%2C%2033092",
+      "image_url": null,
+      "description": "Al Giardino è un locale situato nella località Visinale, che svolge funzione sia di bar che di ristorazione. Lo spazio accoglie clienti per il caffè mattutino, piatti caldi a pranzo e calici di vino la sera, con probabile presenza di un giardino esterno per consumare bevande e pasti. La cucina valorizza prodotti locali come formaggi di malga, polenta, salumi friulani e mele del territorio. Non risulta un sito web attivo.",
+      "comune_name": "Fanna",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fanna.md"
+    }
+  ]
+}

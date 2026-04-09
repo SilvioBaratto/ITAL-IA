@@ -1,0 +1,74 @@
+{
+  "comune_name": "Andreis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md",
+  "extracted_at": "2026-04-09T10:18:16.315Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale Arcipretale di Santa Maria delle Grazie — Andreis (capoluogo)",
+      "address": null,
+      "website_url": "http://www.comune.andreis.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20Arcipretale%20di%20Santa%20Maria%20delle%20Grazie%20%E2%80%94%20Andreis%20(capoluogo)%2C%20Andreis",
+      "image_url": null,
+      "description": "Questa è la chiesa principale di Andreis, situata nel capoluogo, con una facciata neogotica frutto dei rimaneggiamenti del 1913. L'interno, a navata unica, conserva importanti opere d’arte come il battistero seicentesco, statue del Settecento e un tabernacolo marmoreo. La chiesa fu edificata tra il 1662 e il 1669, subì ampliamenti e restauri successivi, e rimane il fulcro religioso della comunità. Appartiene alla Diocesi di Concordia-Pordenone e festeggia la sua patrona l’8 settembre.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine della Salute — Colle di San Daniele, Andreis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20della%20Salute%20%E2%80%94%20Colle%20di%20San%20Daniele%2C%20Andreis%2C%20Andreis",
+      "image_url": null,
+      "description": "Piccolo oratorio settecentesco situato sul colle di San Daniele, vicino al centro di Andreis. Presenta una semplice facciata intonacata e una navata unica, tipica degli edifici votivi di montagna. Storicamente legata alla devozione per la Madonna della Salute, è un importante punto di riferimento spirituale per la vallata.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md"
+    },
+    {
+      "name": "Chiesa di San Giuseppe — presso il Cimitero, Andreis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giuseppe%20%E2%80%94%20presso%20il%20Cimitero%2C%20Andreis%2C%20Andreis",
+      "image_url": null,
+      "description": "Costruita nel XIX secolo nei pressi del cimitero comunale, la chiesa di San Giuseppe svolge la tradizionale funzione funeraria. Lo stile è sobrio e richiama l’architettura neoclassica rurale friulana. Resta un luogo attivo per le celebrazioni legate ai defunti e testimonia la devozione locale a San Giuseppe.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md"
+    },
+    {
+      "name": "Chiesa di Sant'Antonio da Padova — Cordata (località disabitata), Andreis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Antonio%20da%20Padova%20%E2%80%94%20Cordata%20(localit%C3%A0%20disabitata)%2C%20Andreis%2C%20Andreis",
+      "image_url": null,
+      "description": "Questa piccola chiesa del XIX secolo si trova nella località ora disabitata di Cordata, lungo l'antico collegamento fra Maniago e la Val Cellina. Realizzata in pietra locale, serviva da cappella votiva per viaggiatori e commercianti. L’edificio rappresenta una delle ultime testimonianze di insediamenti montani di importanza storica per la regione.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md"
+    },
+    {
+      "name": "Chiesa del Sacro Cuore — Bosplans, Andreis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20del%20Sacro%20Cuore%20%E2%80%94%20Bosplans%2C%20Andreis%2C%20Andreis",
+      "image_url": null,
+      "description": "Situata nella frazione di Bosplans, questa chiesa fu probabilmente costruita tra fine Ottocento e inizio Novecento, in un periodo di forte devozione al Sacro Cuore. L’edificio è semplice e conserva un legame stretto con la vita comunitaria della borgata, anche grazie alla vicina fontana secolare scolpita nella pietra.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md"
+    },
+    {
+      "name": "Chiesa dell'Immacolata Concezione — Alcheda, Andreis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dell'Immacolata%20Concezione%20%E2%80%94%20Alcheda%2C%20Andreis%2C%20Andreis",
+      "image_url": null,
+      "description": "La chiesa, costruita nel XIX secolo nella frazione più elevata del comune di Andreis, segue il modello delle cappelle rurali friulane con pianta rettangolare e facciata semplice. Dedicata all'Immacolata Concezione, riveste grande significato per la piccola comunità di Alcheda, che vi celebra le festività liturgiche mariane locali.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/andreis.md"
+    }
+  ]
+}

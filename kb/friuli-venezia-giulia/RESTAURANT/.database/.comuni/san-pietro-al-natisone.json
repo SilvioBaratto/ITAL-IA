@@ -1,0 +1,129 @@
+{
+  "comune_name": "San Pietro al Natisone",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md",
+  "extracted_at": "2026-04-09T11:18:19.180Z",
+  "pois": [
+    {
+      "name": "Agriturismo Monte del Re",
+      "address": "Via/Località Clenia 35/B, 33049 San Pietro al Natisone (UD)",
+      "website_url": "https://www.agriturismomontedelre.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Monte%20del%20Re%2C%20Via%2FLocalit%C3%A0%20Clenia%2035%2FB%2C%2033049%20San%20Pietro%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Monte del Re si trova nella frazione di Clenia ai piedi del Monte Matajur e offre un'esperienza rurale autentica con cucina di territorio. La specialità della casa è la selvaggina, il coniglio allevato in fattoria e la carne suina di produzione propria, con piatti creativi a base di erbe aromatiche coltivate in loco. L'ambiente include un grande camino per l'inverno e tavoli panoramici all'aperto in estate. Dispone anche di appartamenti per il pernottamento e uno shop di prodotti artigianali.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Agriturismo Péstrofa",
+      "address": "Località Cedron 1, 33049 San Pietro al Natisone (UD)",
+      "website_url": "https://www.pestrofa.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20P%C3%A9strofa%2C%20Localit%C3%A0%20Cedron%201%2C%2033049%20San%20Pietro%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Situato nella frazione di Cedron, Agriturismo Péstrofa è noto per la trota allevata in proprio, protagonista di gran parte del menu in varianti creative e tradizionali. Il locale è immerso nella natura accanto a un laghetto e al torrente Cedron, creando un contesto ideale per pranzi e merende rustiche. Completano l'offerta piatti di selvaggina e preparazioni stagionali con erbe locali, oltre a servizi per famiglie e ciclisti.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Osteria alla Cascina",
+      "address": "Località Sorzento/Sarženta 4, 33049 San Pietro al Natisone (UD)",
+      "website_url": "https://www.facebook.com/Osteria-Alla-Cascina-360193274639640/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20alla%20Cascina%2C%20Localit%C3%A0%20Sorzento%2FSar%C5%BEenta%204%2C%2033049%20San%20Pietro%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Osteria alla Cascina si trova in una frazione verde di Sorzento/Sarženta, in un antico casale con ampia terrazza coperta. Propone una cucina 'tradizional-moderna' che rielabora i piatti tipici delle Valli del Natisone con tecniche contemporanee, con particolare attenzione a carne e barbecue come il pulled pork e il controfiletto di Black Angus. L'ambiente accogliente e familiare è pensato anche per cene informali in piena natura.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Trattoria al Giro di Boa",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Giro%20di%20Boa%2C%20San%20Pietro%20al%20Natisone",
+      "image_url": null,
+      "description": "La Trattoria al Giro di Boa aderisce al circuito Invito a Pranzo ed è un punto di sosta per escursionisti e ciclisti lungo la valle del Natisone. Il menu propone piatti stagionali e prodotti locali della tradizione friulana, in un ambiente conviviale ideale per chi percorre itinerari gastronomici e naturalistici del territorio.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Trattoria Pizzeria Le Valli",
+      "address": "Ponte San Quirino/Moust 7, 33049 San Pietro al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20Le%20Valli%2C%20Ponte%20San%20Quirino%2FMoust%207%2C%2033049%20San%20Pietro%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Pizzeria Le Valli, situata presso il ponte di San Quirino, offre cucina friulana tradizionale e un ampio menu di pizze in un contesto familiare. È molto frequentata da escursionisti e ciclisti grazie alla sua posizione sulle principali vie della vallata. L'atmosfera è quella di una trattoria di paese, con servizio cordiale e prezzi accessibili.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Trattoria Le Querce",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Le%20Querce%2C%20San%20Pietro%20al%20Natisone",
+      "image_url": null,
+      "description": "Trattoria Le Querce è un locale storico di San Pietro al Natisone noto per la cucina regionale friulana e delle Valli del Natisone. Offre i piatti tipici della tradizione in un ambiente informale e accogliente, con porzioni generose e un rapporto qualità-prezzo tipico delle trattorie di paese. È una scelta popolare tra residenti e visitatori per pranzi o cene senza pretese.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Belvedere",
+      "address": "Via Alpe Adria 38, 33049 San Pietro al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Belvedere%2C%20Via%20Alpe%20Adria%2038%2C%2033049%20San%20Pietro%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Il Belvedere è un locale polifunzionale che svolge sia la funzione di bar che di ristorante, situato vicino al centro del paese. Offre una cucina italiana e locale in una cornice moderna, ideale per pasti a qualsiasi ora grazie agli ampi orari di apertura. Rappresenta un punto di riferimento per residenti e viaggiatori alla ricerca di flessibilità e semplicità.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Bar Trattoria Alla Rinascita",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Alla%20Rinascita%2C%20San%20Pietro%20al%20Natisone",
+      "image_url": null,
+      "description": "La Bar Trattoria Alla Rinascita è un locale misto che offre piatti semplici e genuini della cucina casalinga delle Valli del Natisone. Svolge un'importante funzione sociale come punto di ritrovo per la comunità, mantenendo un'atmosfera autentica e informale, lontano dalle logiche turistiche.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Al Most",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Most%2C%20San%20Pietro%20al%20Natisone",
+      "image_url": null,
+      "description": "Al Most si trova nell'area di Ponte San Quirino e rappresenta una tipica osteria/trattoria della zona delle Valli del Natisone. La posizione vicino al Natisone e la denominazione bilingue rispecchiano l'identità di confine del territorio, offrendo cucina tradizionale in un contesto autentico.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Agriturismo Hlievis",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Hlievis%2C%20San%20Pietro%20al%20Natisone",
+      "image_url": null,
+      "description": "Agriturismo Hlievis, dal nome di ispirazione slovena, offre un'esperienza gastronomica radicata nella tradizione friulano-slovena e nei prodotti locali delle Valli del Natisone. Si rivolge specialmente a chi cerca autenticità e immersione nella cultura rurale del territorio.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    },
+    {
+      "name": "Pizzeria 2000",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%202000%2C%20San%20Pietro%20al%20Natisone",
+      "image_url": null,
+      "description": "Pizzeria 2000 è il principale punto di riferimento per la pizza a San Pietro al Natisone, frequentata principalmente da residenti e famiglie. L'offerta si concentra sulla pizza come piatto centrale e propone un ambiente semplice per cene informali nel comune.",
+      "comune_name": "San Pietro al Natisone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-pietro-al-natisone.md"
+    }
+  ]
+}

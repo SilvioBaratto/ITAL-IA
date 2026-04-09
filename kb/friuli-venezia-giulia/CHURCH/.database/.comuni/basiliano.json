@@ -1,0 +1,129 @@
+{
+  "comune_name": "Basiliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md",
+  "extracted_at": "2026-04-09T10:19:37.988Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di Sant'Andrea Apostolo — Basiliano (capoluogo)",
+      "address": null,
+      "website_url": "http://www.parrocchia-basiliano.it/parrocchie/basiliano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Sant'Andrea Apostolo, situata in piazza del Municipio a Basiliano, è il principale edificio sacro del comune, con origini trecentesche e struttura neoclassica del XVIII secolo. Conserva un presbiterio medievale, pregiate opere d’arte come l’altare maggiore di Simone Pariotti e statue settecentesche, oltre a un affresco novecentesco della Crocifissione. Durante restauri recenti sono emersi importanti reperti archeologici, testimoniando la lunga storia stratificata del luogo di culto.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesetta campestre di San Marco Evangelista — Basiliano (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20campestre%20di%20San%20Marco%20Evangelista%20%E2%80%94%20Basiliano%20(capoluogo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "Piccolo oratorio campestre di antichissima origine, dedicato a San Marco Evangelista, situato nella zona rurale di Basiliano. È tra le testimonianze più antiche del cristianesimo locale, rappresentando la tradizione delle cappelle votive che servivano le comunità agricole per la devozione quotidiana.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Duomo di San Giovanni Battista — Variano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Giovanni%20Battista%20%E2%80%94%20Variano%2C%20Basiliano",
+      "image_url": null,
+      "description": "Il Duomo di San Giovanni Battista a Variano, storicamente pieve matrice di Basiliano, risale almeno al XII secolo con origini ancora precedenti. L’edificio attuale è frutto di numerosi ampliamenti dal Romanico al Novecento e custodisce un altare maggiore settecentesco e numerose statue sacre. È la chiesa più grande e rilevante del comune, riferimento spirituale e storico della zona.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesetta campestre di San Leonardo — Variano (Colle di San Leonardo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20campestre%20di%20San%20Leonardo%20%E2%80%94%20Variano%20(Colle%20di%20San%20Leonardo)%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesetta di San Leonardo sorge sulla sommità del colle omonimo a Variano e risale al XVI secolo, anche se la presenza di una cappella qui è documentata prima. Spicca per gli affreschi interni del 1529 attribuiti a Thanner o alla sua scuola, preziosa testimonianza della pittura devozionale friulana del periodo, nonostante diversi siano andati perduti.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Michele Arcangelo — Vissandone",
+      "address": null,
+      "website_url": "http://www.parrocchia-basiliano.it/parrocchie/vissandone/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Vissandone%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa di San Michele Arcangelo a Vissandone ha origini antiche, ricostruita in stile neoclassico tra il 1741 e il 1750 su progetto di Benedetto Stella, dopo la distruzione della chiesa medievale nel 1477. L'edificio presenta una facciata tipicamente neoclassica e interni luminosi; è stato completamente ristrutturato a fine Novecento e accoglie una Grotta della Madonna di Lourdes e un’icona mariana restaurata.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Chiesa parrocchiale di San Bartolomeo Apostolo — Orgnano",
+      "address": null,
+      "website_url": "http://www.parrocchia-basiliano.it/parrocchie/orgnano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Bartolomeo%20Apostolo%20%E2%80%94%20Orgnano%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa di San Bartolomeo Apostolo, parrocchiale di Orgnano, fu edificata nel XV secolo e ristrutturata nel tempo dopo un lungo periodo di decadenza, con importanti restauri nel XIX secolo. Esempio di architettura rurale tardo gotica friulana con rifacimenti ottocenteschi, la sua dedica riflette la storica devozione all’apostolo Bartolomeo nelle campagne friulane.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Cappella campestre di San Pietro Apostolo — Orgnano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20campestre%20di%20San%20Pietro%20Apostolo%20%E2%80%94%20Orgnano%2C%20Basiliano",
+      "image_url": null,
+      "description": "Oratorio votivo rurale, costruito dopo il 1450 nelle campagne di Orgnano e dedicato a San Pietro Apostolo, tipico esempio di cappella friulana edificata dai contadini per protezione e devozione. La struttura semplice riflette l’importanza delle pratiche religiose legate alla vita agricola della zona.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Parrocchia di Santa Maria Assunta — Basagliapenta",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parrocchia%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Basagliapenta%2C%20Basiliano",
+      "image_url": null,
+      "description": "Chiesa principale della frazione di Basagliapenta, inserita nella tradizione delle parrocchie rurali dell’arcidiocesi di Udine. Non sono disponibili particolari dettagli architettonici, ma rappresenta il fulcro spirituale della comunità locale.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Parrocchia di Santo Stefano Protomartire — Blessano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parrocchia%20di%20Santo%20Stefano%20Protomartire%20%E2%80%94%20Blessano%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Santo Stefano Protomartire è il principale luogo di culto della frazione di Blessano, con una dedicazione di origine antica, anche se le strutture visibili sono dovute a rifacimenti successivi. Oltre alla chiesa, il paese conserva un cimitero storico e testimonianze della vita comunitaria attorno all’edificio religioso.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Parrocchia di San Tommaso Apostolo — Villaorba",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parrocchia%20di%20San%20Tommaso%20Apostolo%20%E2%80%94%20Villaorba%2C%20Basiliano",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Tommaso Apostolo costituisce il principale edificio sacro di Villaorba, eretta come parrocchia autonoma nel 1944. È il centro spirituale della frazione, che si distingue anche per la tradizionale festa del Perdon da las Masanétes legata al culto mariano e agli antichi scambi commerciali.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    },
+    {
+      "name": "Cappella campestre di Sant'Orsola — Villaorba",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20campestre%20di%20Sant'Orsola%20%E2%80%94%20Villaorba%2C%20Basiliano",
+      "image_url": null,
+      "description": "Antica cappella rurale dedicata a Sant'Orsola, fondata nel 1338 nelle campagne di Villaorba. Era luogo di sosta e devozione per pescatori e commercianti che attraversavano la zona verso antiche fiere e mercati, riflettendo la vitalità religiosa medievale della pianura friulana.",
+      "comune_name": "Basiliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/basiliano.md"
+    }
+  ]
+}

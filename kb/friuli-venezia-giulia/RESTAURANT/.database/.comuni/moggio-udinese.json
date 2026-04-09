@@ -1,0 +1,74 @@
+{
+  "comune_name": "Moggio Udinese",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md",
+  "extracted_at": "2026-04-09T11:06:55.643Z",
+  "pois": [
+    {
+      "name": "Albergo Ristorante Leon Bianco",
+      "address": "Piazza Uffici 4, 33015 Moggio Udinese (UD)",
+      "website_url": "http://www.leonbianco.net/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Leon%20Bianco%2C%20Piazza%20Uffici%204%2C%2033015%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Il Leon Bianco unisce albergo, bar e ristorante in una posizione centrale a Moggio Udinese, diventando un punto di riferimento per tradizione e qualità. La cucina celebra i piatti tipici friulani, con attenzione alla qualità locale e una proposta variegata che include specialità senza glutine. Si distinguono le carni alla griglia, piatti di pesce raffinati e le ricette friulane di montagna. L'atmosfera sobria e accogliente si rivolge sia agli escursionisti che ai viaggiatori occasionali.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Rifugio Alpino Grauzaria",
+      "address": "Val d'Aupa, 1.250 metri s.l.m., Moggio Udinese (UD)",
+      "website_url": "https://www.rifugiograuzaria.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Alpino%20Grauzaria%2C%20Val%20d'Aupa%2C%201.250%20metri%20s.l.m.%2C%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Il Rifugio Grauzaria offre un'esperienza autentica in alta quota, accessibile solo a piedi nel cuore della Val d'Aupa. La cucina è semplice e genuina, fedele alle tradizioni friulane di montagna, con piatti stagionali come minestre, polenta, salumi e formaggi locali. Il senso di isolamento e la gestione familiare creano un ambiente accogliente tipico dei rifugi alpini. È una meta ideale per escursionisti che desiderano assaporare la cucina locale in un contesto naturale e intimo.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Agli Artisti (Locanda agli Artisti)",
+      "address": "Piazza Uffici 9, Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agli%20Artisti%20(Locanda%20agli%20Artisti)%2C%20Piazza%20Uffici%209%2C%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Agli Artisti è una locanda-ristorante nella piazza centrale di Moggio Udinese, con cucina italiana classica e attenzione alle specialità friulane. Il menu varia fra piatti tradizionali come lasagna di zucca, gnocchi, orzo e frico, accompagnati da pizze di qualità. Il locale valorizza i prodotti a km 0 e accoglie sia la clientela locale che gli escursionisti. L'atmosfera è intima e casalinga, rappresentando un'alternativa al Leon Bianco.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Locanda San Gallo",
+      "address": "Piazzetta S. Pertini 2, Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20San%20Gallo%2C%20Piazzetta%20S.%20Pertini%202%2C%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "La Locanda San Gallo è situata nella piazzetta dedicata a Sandro Pertini, nel centro di Moggio Udinese. Offre un'opzione di ristorazione locale nell'ambito delle tradizionali locande del paese. Pur essendo meno dettagliata nella proposta gastronomica, rappresenta una parte tipica della rete di ristoranti del centro storico.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Pizzeria Al Capriccio",
+      "address": "Via G. Ermolli 6, Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Capriccio%2C%20Via%20G.%20Ermolli%206%2C%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Al Capriccio è una pizzeria tradizionale che offre un ambiente informale e rapido, perfetto per famiglie ed escursionisti. Propone pizze e piatti semplici, ideale per chi cerca una pausa veloce prima di continuare le escursioni o trascorrere una serata conviviale. Si caratterizza per il servizio pratico e l'atmosfera rilassata.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Agriturismo Tiere-Viere (Pina)",
+      "address": "Frazione Drentus 4, Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Tiere-Viere%20(Pina)%2C%20Frazione%20Drentus%204%2C%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "L'agriturismo Tiere-Viere, detto anche Pina, offre esperienza rurale autentica nella frazione di Drentus. È possibile degustare prodotti a km 0 e piatti preparati secondo le tradizioni agricole e montane della Val d'Aupa. La filosofia del locale sottolinea la stagionalità degli ingredienti e l'accoglienza tipica delle strutture agrituristiche.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moggio-udinese.md"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "comune_name": "Sappada",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md",
+  "extracted_at": "2026-04-09T11:19:11.459Z",
+  "pois": [
+    {
+      "name": "Ristorante Laite",
+      "address": "Borgata Hoffe, 10 — Sappada (UD)",
+      "website_url": "https://www.ristorantelaite.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Laite%2C%20Borgata%20Hoffe%2C%2010%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Laite è riconosciuto come la vetta gastronomica di Sappada, insignito di una stella Michelin da quasi trent’anni e guidato dalla chef Fabrizia Meroi. Offre una cucina di alta montagna profondamente radicata nel territorio, caratterizzata da stagionalità, ingredienti locali e piatti che raccontano le stagioni e la storia della vallata. L'ambiente è intimo e familiare, con una cantina d’eccezione curata da Elena Brovedani, pluripremiata sommelier. Ideale per chi cerca un'esperienza culinaria raffinata e autentica in un rustico di legno tipico sappadino.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Baita Mondschein",
+      "address": "Borgata Bach — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Baita%20Mondschein%2C%20Borgata%20Bach%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "Gestita dalla famiglia Kratter, la Baita Mondschein è una delle insegne più apprezzate di Sappada, nota per la sua atmosfera conviviale e per la cucina ispirata alla tradizione alpina con tocchi creativi. In un contesto vivace, con vista panoramica sui prati e sul campo da golf, il locale offre piatti come canederli, zuppe ed eccellenze di selvaggina. La ricca cantina e la qualità costante fanno della Baita Mondschein un punto di riferimento per chi cerca una cena di alto livello in compagnia.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Agriturismo Zaine",
+      "address": "Borgata Soravia — Sappada Vecchia (UD)",
+      "website_url": "http://www.agriturismozaine.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Zaine%2C%20Borgata%20Soravia%20%E2%80%94%20Sappada%20Vecchia%20(UD)",
+      "image_url": null,
+      "description": "L'Agriturismo Zaine offre un'esperienza autentica nel cuore di Sappada Vecchia, con una cucina basata su prodotti propri dell'orto e dell'allevamento. Il menù, breve e stagionale, propone canederli tradizionali, zuppe alpine, goulash e dolci fatti in casa. L’ambiente è semplice, genuino e accogliente, ideale per famiglie e per chi desidera scoprire i sapori più autentici della montagna a prezzi accessibili.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Ristorante Bar Baita Pista Nera",
+      "address": "Sappada (UD)",
+      "website_url": "http://www.baitapistanera.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Bar%20Baita%20Pista%20Nera%2C%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "La Baita Pista Nera è una meta molto amata da sciatori ed escursionisti, nota per la cucina di piatti tipici sappadini e la particolare attenzione a selvaggina e funghi stagionali. L'atmosfera è quella classica delle baite alpine, calda e conviviale, e il locale propone anche una ricca selezione di grappe artigianali. Frequentato durante tutto l’anno, è ideale per una sosta genuina tra le montagne.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Karl Keller",
+      "address": "Borgata Bach — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Karl%20Keller%2C%20Borgata%20Bach%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria Karl Keller, situato in Borgata Bach, propone sia i piatti tipici della tradizione alpina che una selezione di pizze in un ambiente familiare e informale. Frequently frequentato sia da residenti che turisti, il locale è ideale per chi cerca un pasto genuino a prezzi accessibili, in un contesto dal sapore locale e accogliente.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Ristorante Keisn",
+      "address": "Borgata Kratten — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Keisn%2C%20Borgata%20Kratten%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Keisn, situato in Borgata Kratten, è legato alla tradizione casearia di Sappada e propone una cucina tipica alpina con particolare attenzione ai formaggi di malga locali. L’ambiente e la proposta gastronomica riflettono la storia della vallata, offrendo piatti sinceri e rappresentativi della cultura montana.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Ristorante La Rustica",
+      "address": "Borgata Cima — Cima Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Rustica%2C%20Borgata%20Cima%20%E2%80%94%20Cima%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "La Rustica si trova nell’ambiente più elevato e isolato di Sappada, caratterizzata da un’atmosfera autentica e rustica tipica delle antiche baite alpine. Frequentata da escursionisti e sciatori, propone una cucina familiare e tradizionale della montagna in un contesto semplice e accogliente.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Ristorante Borgo al Sole",
+      "address": "Borgata Lerpa — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Borgo%20al%20Sole%2C%20Borgata%20Lerpa%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Borgo al Sole offre la cucina tipica della vallata in un locale alpino caratteristico nella moderna Borgata Lerpa. Frequentato da residenti e turisti, è noto per i piatti genuini della tradizione friulana e per l'ambiente dal tipico calore montano.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Spaghetteria Da Nardi",
+      "address": "Borgata Lerpa — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Spaghetteria%20Da%20Nardi%2C%20Borgata%20Lerpa%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "La Spaghetteria Da Nardi, informale e accogliente, è specializzata in pasta e piatti semplici della cucina italiana. È il punto di riferimento per chi cerca un pasto veloce ed economico, particolarmente apprezzata da famiglie e giovani in vacanza.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Birreria Pizzeria Ti Spiazza",
+      "address": "Borgata Palù — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birreria%20Pizzeria%20Ti%20Spiazza%2C%20Borgata%20Pal%C3%B9%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "La Birreria Pizzeria Ti Spiazza, in Borgata Palù, unisce l’atmosfera conviviale da pub alpino a un’offerta di pizze e birre artigianali. È uno dei locali più gioviali di Sappada, ideale per serate informali dopo le attività invernali sulla neve.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    },
+    {
+      "name": "Pizzeria da Renato",
+      "address": "Borgata Fontana — Sappada (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20da%20Renato%2C%20Borgata%20Fontana%20%E2%80%94%20Sappada%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria storica della vallata, da Renato propone pizze dalla tradizione italiana con qualche tocco locale, in un ambiente informale e accogliente. È apprezzata dai residenti e consente ai turisti di gustare un'alternativa alla classica cucina di montagna.",
+      "comune_name": "Sappada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/sappada.md"
+    }
+  ]
+}

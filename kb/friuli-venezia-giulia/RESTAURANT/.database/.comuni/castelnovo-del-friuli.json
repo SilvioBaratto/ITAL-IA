@@ -1,0 +1,41 @@
+{
+  "comune_name": "Castelnovo del Friuli",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castelnovo-del-friuli.md",
+  "extracted_at": "2026-04-09T10:57:04.752Z",
+  "pois": [
+    {
+      "name": "Antica Trattoria Vigna",
+      "address": "Borgata Vigna, 8 — 33090 Castelnovo del Friuli (PN)",
+      "website_url": "https://www.trattoriavigna.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20Vigna%2C%20Borgata%20Vigna%2C%208%20%E2%80%94%2033090%20Castelnovo%20del%20Friuli%20(PN)",
+      "image_url": null,
+      "description": "Antica Trattoria Vigna è un locale storico risalente al 1862, punto di riferimento per la cucina friulana nel comune. Propone piatti autentici della tradizione, come frico di formaggio Montasio e patate, cjarsons e specialità di selvaggina e funghi, sempre con ingredienti locali. L’atmosfera è intima e autentica, soprattutto durante l’inverno attorno al fogolar furlan. La fascia di prezzo è media-bassa e la qualità è apprezzata sia dalle guide che dai visitatori.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castelnovo-del-friuli.md"
+    },
+    {
+      "name": "Locanda al Lago",
+      "address": "Val Tramontina (piedi di)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20al%20Lago%2C%20Val%20Tramontina%20(piedi%20di)",
+      "image_url": null,
+      "description": "Gestita dalla famiglia Crozzoli dal 1850, Locanda al Lago si distingue per la cucina che valorizza i prodotti tipici di Val Tramontina, come la pitina, il formai dal cit e la trota di lago. Recentemente ha aggiunto una spaziosa pizzeria e trattoria con forni a legna, offrendo pizze tradizionali e carni grigliate. L’atmosfera combina tradizione autentica e comfort moderni, rendendola una meta ideale per la cucina friulana di montagna.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castelnovo-del-friuli.md"
+    },
+    {
+      "name": "Osteria Da Bepi",
+      "address": "Località Vigna, Castelnovo del Friuli (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Da%20Bepi%2C%20Localit%C3%A0%20Vigna%2C%20Castelnovo%20del%20Friuli%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Da Bepi è un locale storico che offre cucina friulana genuina in un’atmosfera conviviale e autentica da osteria di paese. Il menu segue la tradizione casalinga, riproponendo le ricette tipiche preparate secondo i metodi originali. Qui si ritrovano i sapori semplici e sinceri della tavola friulana, apprezzati da generazioni.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/castelnovo-del-friuli.md"
+    }
+  ]
+}

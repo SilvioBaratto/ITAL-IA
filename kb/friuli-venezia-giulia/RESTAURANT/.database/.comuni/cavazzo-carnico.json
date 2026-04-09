@@ -1,0 +1,52 @@
+{
+  "comune_name": "Cavazzo Carnico",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavazzo-carnico.md",
+  "extracted_at": "2026-04-09T10:57:30.556Z",
+  "pois": [
+    {
+      "name": "Borgo Poscolle",
+      "address": "Via Poscolle, 21/A, 33020 Cavazzo Carnico (UD)",
+      "website_url": "https://borgo-poscolle.wheree.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Poscolle%2C%20Via%20Poscolle%2C%2021%2FA%2C%2033020%20Cavazzo%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Borgo Poscolle è una trattoria familiare rinomata per la sua cucina carnica reinterpretata con ingredienti a km 0 provenienti dall'orto biologico della struttura. Propone piatti tradizionali come cjarsòns alle erbe di campo, costicine di agnello al timo selvatico, formaggi locali, oltre a dessert preparati con grande cura. L'atmosfera è rustica ma raffinata, ideale per chi cerca autenticità e qualità in un ambiente accogliente. È considerato una delle eccellenze gastronomiche di Cavazzo Carnico.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Trattoria Al Pescatore",
+      "address": "Localita Val, 33020 Cavazzo Carnico (UD)",
+      "website_url": "https://www.facebook.com/trattoriaalpescatore/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Pescatore%2C%20Localita%20Val%2C%2033020%20Cavazzo%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Al Pescatore è una storica trattoria immersa nella natura vicino al Lago di Cavazzo, con uno stagno privato. È rinomata per i piatti a base di pesce fresco selezionato, come la trota en papillote e il salmerino gratinato al formaggio Pastorut di Sutrio, oltre a specialità carniche come cjarsons e selvaggina. L'atmosfera rustica e la posizione la rendono ideale per cene romantiche o tra amici.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Pizzeria Trattoria New Genzianella",
+      "address": "Via San Rocco, 134, 33020 Cavazzo Carnico (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20New%20Genzianella%2C%20Via%20San%20Rocco%2C%20134%2C%2033020%20Cavazzo%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "New Genzianella è una pizzeria-trattoria a conduzione familiare con un ambiente informale e accogliente, perfetta per gruppi e famiglie. La specialità principale è la pizza cotta nel forno a legna, ma il menù offre anche carni, selvaggina e piatti regionali. Propone una versione moderna della cucina carnica con attenzione agli ingredienti locali.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Al Paiolo",
+      "address": "Via San Rocco, 32, 33020 Cavazzo Carnico (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Paiolo%2C%20Via%20San%20Rocco%2C%2032%2C%2033020%20Cavazzo%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "Al Paiolo è un ristorante tradizionale che offre cucina italiana e specialità tipiche della Carnia, concentrandosi su piatti di pesce fresco e primi preparati con pasta locale. La proposta culinaria rispetta la tradizione friulana e montana, utilizzando ingredienti di qualità selezionata. L'ambiente è semplice e ideale per chi cerca autenticità.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cavazzo-carnico.md"
+    }
+  ]
+}

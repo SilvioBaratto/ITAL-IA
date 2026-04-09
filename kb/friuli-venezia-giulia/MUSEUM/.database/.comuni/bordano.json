@@ -1,0 +1,41 @@
+{
+  "comune_name": "Bordano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bordano.md",
+  "extracted_at": "2026-04-09T10:43:06.925Z",
+  "pois": [
+    {
+      "name": "Casa delle Farfalle",
+      "address": "Via Canada, 5 – 33010 Bordano (UD)",
+      "website_url": "https://www.bordanofarfalle.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20delle%20Farfalle%2C%20Via%20Canada%2C%205%20%E2%80%93%2033010%20Bordano%20(UD)",
+      "image_url": null,
+      "description": "La Casa delle Farfalle di Bordano è il più grande museo di farfalle d'Italia, con tre serre tropicali che ricreano ecosistemi di diversi continenti e ospitano oltre 100 specie di farfalle vive. Oltre alle serre, il percorso propone mostre permanenti come \"Farfalle. 4 vite, 1000 storie\" e \"Gioielli a 6 zampe\", offrendo contenuti didattici e collezioni naturalistiche. L'esperienza è arricchita dal percorso botanico PolliNation dedicato ai pollinatori e da un ampio ventaglio di attività educative. La struttura è attiva soprattutto nella stagione primaverile-estiva e rappresenta il cuore del turismo culturale e scientifico di Bordano.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bordano.md"
+    },
+    {
+      "name": "MUFFA – Museo delle FarFalle e delle FAlene",
+      "address": "Via Canada, 5 – 33010 Bordano (UD) *(all'interno del complesso della Casa delle Farfalle)*",
+      "website_url": "https://www.bordanofarfalle.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=MUFFA%20%E2%80%93%20Museo%20delle%20FarFalle%20e%20delle%20FAlene%2C%20Via%20Canada%2C%205%20%E2%80%93%2033010%20Bordano%20(UD)%20*(all'interno%20del%20complesso%20della%20Casa%20delle%20Farfalle)*",
+      "image_url": null,
+      "description": "Il MUFFA è un museo scientifico nato nel 2020 come estensione della Casa delle Farfalle, focalizzato sulla conservazione di reperti biologici di lepidotteri. Espone collezioni di farfalle e falene preparate da tutto il mondo, con particolare attenzione alle specie friulane e rare. È anche centro di documentazione e supporta la ricerca scientifica e progetti di monitoraggio della biodiversità del Friuli. L'accesso e le informazioni sui biglietti sono collegati alla visita della Casa delle Farfalle.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bordano.md"
+    },
+    {
+      "name": "Murales di Bordano – Galleria d'Arte a Cielo Aperto",
+      "address": null,
+      "website_url": "http://www.ecomuseovaldellago.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Murales%20di%20Bordano%20%E2%80%93%20Galleria%20d'Arte%20a%20Cielo%20Aperto%2C%20Bordano",
+      "image_url": null,
+      "description": "I Murales di Bordano costituiscono una galleria d’arte a cielo aperto nata nel 1996, con oltre 200 artisti che hanno trasformato le facciate delle case del paese e della frazione Interneppo dopo il terremoto del 1976. I dipinti raffigurano farfalle, natura, storia locale e leggende, e sono espressione forte dell'identità e della memoria collettiva di Bordano. L’itinerario dei murales, a ingresso libero e permanente, è parte integrante delle attività promosse dall’Ecomuseo Val del Lago.",
+      "comune_name": "Bordano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/bordano.md"
+    }
+  ]
+}

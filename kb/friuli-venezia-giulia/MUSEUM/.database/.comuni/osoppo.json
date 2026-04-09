@@ -1,0 +1,19 @@
+{
+  "comune_name": "Osoppo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/osoppo.md",
+  "extracted_at": "2026-04-09T10:52:24.994Z",
+  "pois": [
+    {
+      "name": "Fortezza di Osoppo – Museo Archeologico all'Aperto",
+      "address": "Via Divisione Julia – Colle del Forte, 33010 Osoppo (UD)",
+      "website_url": "https://www.turismofvg.it/forte-di-osoppo",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fortezza%20di%20Osoppo%20%E2%80%93%20Museo%20Archeologico%20all'Aperto%2C%20Via%20Divisione%20Julia%20%E2%80%93%20Colle%20del%20Forte%2C%2033010%20Osoppo%20(UD)",
+      "image_url": null,
+      "description": "La Fortezza di Osoppo è un complesso storico-militare situato su un colle che domina la pianura friulana e ospita un museo archeologico a cielo aperto. Il sito conserva tracce di insediamenti preromani, romani, medievali e moderne strutture difensive, offrendo un percorso di visita attraverso bastioni, gallerie, resti di vie e monumenti, oltre a orme fossili di grandi mammiferi. Il complesso, dichiarato monumento nazionale, è liberamente accessibile tutto l’anno e l’ingresso è gratuito. Tra i punti di maggiore interesse vi sono le vestigia della chiesa di San Pietro, la grotta di Santa Colomba e panorami suggestivi sul Tagliamento e le Prealpi.",
+      "comune_name": "Osoppo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/osoppo.md"
+    }
+  ]
+}

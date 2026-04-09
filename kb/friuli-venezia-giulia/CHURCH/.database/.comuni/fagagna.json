@@ -1,0 +1,63 @@
+{
+  "comune_name": "Fagagna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fagagna.md",
+  "extracted_at": "2026-04-09T10:25:26.360Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Giacomo Apostolo — Fagagna (capoluogo)",
+      "address": null,
+      "website_url": "http://www.comune.fagagna.ud.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20%E2%80%94%20Fagagna%20(capoluogo)%2C%20Fagagna",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giacomo Apostolo si trova nel centro di Fagagna ed è caratterizzata da una stratificazione storica che parte dal XIV secolo con ampliamenti rinascimentali e barocchi. Il campanile, che un tempo era la torre del castello medievale, rappresenta un raro esempio di riuso di una struttura militare. L'interno conserva arredi e pale d'altare seicenteschi e settecenteschi e ha subìto restauri dopo il terremoto del 1976, mantenendo un'atmosfera sobria e comunitaria.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fagagna.md"
+    },
+    {
+      "name": "Chiesa di San Michele Arcangelo — Castello di Fagagna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Castello%20di%20Fagagna%2C%20Fagagna",
+      "image_url": null,
+      "description": "Situata all'interno del castello medievale di Fagagna, la chiesa di San Michele Arcangelo è documentata dal 1251 ma la dedica suggerisce origini longobarde. È una piccola cappella rettangolare in pietra locale, testimone della continuità insediativa dal tardo antico al Medioevo e uno dei pochi esempi regionali di architettura sacra longobarda sopravvissuta almeno nella pianta e nell'ubicazione. La chiesa, parzialmente diruta, è oggi accessibile come parte dell'itinerario storico sul colle del castello.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fagagna.md"
+    },
+    {
+      "name": "Chiesa di San Leonardo — Borgo Riolo, Fagagna (capoluogo)",
+      "address": null,
+      "website_url": "https://turismo.prolocofagagna.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Leonardo%20%E2%80%94%20Borgo%20Riolo%2C%20Fagagna%20(capoluogo)%2C%20Fagagna",
+      "image_url": null,
+      "description": "La chiesa di San Leonardo, situata nell'antico Borgo Riolo, risale alla seconda metà del XIV secolo ed è celebre per il ciclo di affreschi vitaleschi e quattrocenteschi conservati all'interno. L'edificio, ad aula unica e con portale ogivale in pietra, fu usato come prigione e poi come pagliaio, prima del recente restauro che ne ha valorizzato il patrimonio artistico. Oggi è sconsacrata, ma rappresenta uno dei più importanti esempi di arte sacra tardogotica della provincia di Udine.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fagagna.md"
+    },
+    {
+      "name": "Chiesa di Madrisio — Frazione di Madrisio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Madrisio%20%E2%80%94%20Frazione%20di%20Madrisio%2C%20Fagagna",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Madrisio, a ovest del capoluogo, incarna l'architettura religiosa rurale friulana dei secoli XVII–XVIII, con facciata semplice e campanile slanciato. È considerata un punto di riferimento per la comunità agricola locale e un esempio ben conservato di parrocchiale di campagna integrata nell'ambiente. Ha svolto nel tempo anche una funzione sociale oltre che liturgica.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fagagna.md"
+    },
+    {
+      "name": "Cappella di San Giovanni in Colle — Frazione di San Giovanni in Colle",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Giovanni%20in%20Colle%20%E2%80%94%20Frazione%20di%20San%20Giovanni%20in%20Colle%2C%20Fagagna",
+      "image_url": null,
+      "description": "La cappella di San Giovanni si trova in posizione elevata nella località omonima sulle colline moreniche. È parte di una rete di oratori rurali che durante il Medioevo permettevano la celebrazione liturgica nelle frazioni distanti dal capoluogo. Dedicata al santo, la sua posizione su un colle riflette antiche tradizioni devozionali legate alla cristianizzazione di luoghi di culto preesistenti.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fagagna.md"
+    }
+  ]
+}

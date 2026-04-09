@@ -1,0 +1,41 @@
+{
+  "comune_name": "Camino al Tagliamento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/camino-al-tagliamento.md",
+  "extracted_at": "2026-04-09T10:56:02.907Z",
+  "pois": [
+    {
+      "name": "Trattoria Da Bepo",
+      "address": "via Pomponio Amalteo 2, frazione di Bugnins",
+      "website_url": "https://www.dabepo.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Bepo%2C%20via%20Pomponio%20Amalteo%202%2C%20frazione%20di%20Bugnins",
+      "image_url": null,
+      "description": "Trattoria Da Bepo è un'istituzione storica della ristorazione locale, famosa per la sua cucina friulana autentica e stagionale. Il locale è rinomato per piatti come frico con strisulis, risotti con erbe locali e specialità di carne e pesce del territorio. L'atmosfera è accogliente e genuina, con un servizio cordiale e prezzi moderati. È considerata il miglior ristorante del comune secondo le valutazioni ospiti.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Ristorante Al Molino",
+      "address": "località Molino 4, frazione di Glaunicco",
+      "website_url": "http://www.almolino.com/home.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Molino%2C%20localit%C3%A0%20Molino%204%2C%20frazione%20di%20Glaunicco",
+      "image_url": null,
+      "description": "Ristorante Al Molino propone una cucina friulana contemporanea che unisce tradizione e innovazione, con particolare attenzione ai prodotti locali e al concetto di 'chilometro zero'. L'ambiente rustico ed elegante, immerso nella natura e ricavato da un mulino ancora in funzione, offre un'esperienza unica. Fondata dalla famiglia Del Negro nel 1985, la cucina bilancia piatti tipici e ricette creative, con menu curati e prezzi medio-alti.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/camino-al-tagliamento.md"
+    },
+    {
+      "name": "Trattoria Pizzeria Savorgnan",
+      "address": "via San Vidotto 5/a",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20Savorgnan%2C%20via%20San%20Vidotto%205%2Fa",
+      "image_url": null,
+      "description": "Trattoria Pizzeria Savorgnan è un locale accogliente e informale dove si può gustare sia la cucina friulana sia una selezione di pizze cotte nel forno a legna, attivo soprattutto nel fine settimana. Il locale è curato da Maria Angela e Tiziano, che garantiscono un servizio amichevole e genuino. Adatta a pasti semplici o cene tranquille, la trattoria si distingue per prezzi accessibili e attenzione alla qualità.",
+      "comune_name": "Camino al Tagliamento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/camino-al-tagliamento.md"
+    }
+  ]
+}

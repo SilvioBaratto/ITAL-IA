@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/dignano.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Dignano",
+  "province": "UD",
+  "page_title": "Dignano",
+  "page_summary": "Panoramica dei bar di paese attivi nel comune di Dignano, con focus sui due principali punti di ritrovo della frazione Bonzicco: Bar da Rico e Bar Da Ques Dignano.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/dignano.md",
+  "processed_at": "2026-04-09T12:06:29.312Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/dignano__0",
+      "text": "### Bar da Rico\n\n**Piazza Plebiscito 14, Bonzicco (frazione di Dignano), 33030**\n\nIl Bar da Rico si trova nella piazza principale della frazione di Bonzicco, che costituisce di fatto uno dei centri nevralgici della vita sociale nell'ambito del comune di Dignano. Come la gran parte dei bar di paese del Friuli rurale, è un locale multifunzione: apre al mattino per la colazione — caffè, cappuccino e qualche dolce da forno — e rimane aperto nel pomeriggio e in prima serata per l'aperitivo e la socialità quotidiana. Il bancone è il cuore del locale, dove i residenti della zona si fermano per il rituale friulano del *tajut*, spesso accompagnato da un piattino di salumi locali o formaggio. Non è un bar di tendenza, ma è un punto di riferimento genuino per la comunità di Bonzicco e dintorni.",
+      "metadata": {
+        "section_title": "Bar da Rico",
+        "links": [],
+        "addresses": [
+          "Piazza Plebiscito 14, Bonzicco (frazione di Dignano), 33030"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/dignano__1",
+      "text": "### Bar Da Ques Dignano\n\n**Via Ca' Vincenzo 15, Bonzicco (frazione di Dignano), 33030**\n\nPoco distante dal Bar da Rico, anche il Bar Da Ques è situato nella zona abitata di Bonzicco. Il nome — \"Da Ques\" — è un tipico appellativo familiare friulano che indica l'appartenenza a una famiglia o a un gestore specifico, riflettendo la natura squisitamente locale e personale di questi esercizi. Come il suo vicino, svolge la funzione di bar di quartiere, aperto per colazioni e aperitivi, con un'atmosfera da *osteria-bar* tipica del territorio. È il tipo di locale dove la gente del posto si conosce tutta, dove le notizie del paese circolano al bancone e dove lo spritz si ordina semplicemente dicendo \"uno spritz\" senza ulteriori specificazioni — la ricetta è quella di sempre, Aperol o Campari, prosecco e seltz.",
+      "metadata": {
+        "section_title": "Bar Da Ques Dignano",
+        "links": [],
+        "addresses": [
+          "Via Ca' Vincenzo 15, Bonzicco (frazione di Dignano), 33030"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

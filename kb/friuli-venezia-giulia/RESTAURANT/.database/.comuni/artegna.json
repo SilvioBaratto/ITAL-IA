@@ -1,0 +1,52 @@
+{
+  "comune_name": "Artegna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md",
+  "extracted_at": "2026-04-09T10:53:43.390Z",
+  "pois": [
+    {
+      "name": "Albergo Ristorante La'Di Copet",
+      "address": "Via Guarnerio d'Artegna, 21",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20La'Di%20Copet%2C%20Via%20Guarnerio%20d'Artegna%2C%2021",
+      "image_url": null,
+      "description": "La'Di Copet è un celebre ristorante di Artegna, noto in tutta la provincia di Udine per la specializzazione esclusiva nel pesce fresco. Il locale offre anche ospitalità alberghiera e viene apprezzato per la qualità delle materie prime, la trasparenza dei prezzi e l'atmosfera intima. Il servizio è riconosciuto come attento e competente, mentre i piatti signature includono branzino, spigola al forno, orata al sale e frutti di mare. Fascia di prezzo media-alta.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md"
+    },
+    {
+      "name": "Albergo Trattoria Al Castello",
+      "address": "Via Sottocastello, 26",
+      "website_url": "http://www.albergotrattoriaalcastello.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Trattoria%20Al%20Castello%2C%20Via%20Sottocastello%2C%2026",
+      "image_url": null,
+      "description": "Situata ai piedi del Castello Savorgnan, questa trattoria è l’espressione autentica della cucina friulana, con menù che alterna specialità di pesce fresco e piatti regionali come cjarsons, frico e selvaggina stagionale. Al Castello offre anche una struttura alberghiera integrata, con atmosfera accogliente e prezzi accessibili. Sono presenti opzioni vegetariane e senza glutine, il che rende questa meta ideale per comitive e famiglie.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md"
+    },
+    {
+      "name": "Osteria del Mare",
+      "address": "Via Nazionale, 29/1",
+      "website_url": "http://www.osteriadelmareartegna.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20del%20Mare%2C%20Via%20Nazionale%2C%2029%2F1",
+      "image_url": null,
+      "description": "Osteria del Mare propone una cucina di pesce ispirata alla tradizione adriatica e alle tecniche della Riviera Romagnola, con grande attenzione alla qualità delle materie prime. Il menu offre antipasti di mare creativi, primi a base di pasta e astice, pesce intero alla griglia e dolci fatti in casa secondo la stagionalità. L’atmosfera è moderna e accogliente, con un rapporto qualità-prezzo onesto e una spesa media sui 35-45 euro.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Al Ledra",
+      "address": "Via Nazionale, 65",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Al%20Ledra%2C%20Via%20Nazionale%2C%2065",
+      "image_url": null,
+      "description": "Al Ledra è il riferimento locale per chi cerca una pizzeria con forno a legna e una vasta scelta di piatti di cucina italiana e friulana, oltre a specialità di pesce fresco. Il locale si distingue per la versatilità, adatto sia per serate informali che per cene più strutturate, con orario di apertura anche a pranzo. L’ambiente è accessibile, il servizio rapido e la clientela fedele lo premia con molte recensioni positive. Prezzi contenuti, con pizza e piatti di pesce per tutte le esigenze.",
+      "comune_name": "Artegna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/artegna.md"
+    }
+  ]
+}

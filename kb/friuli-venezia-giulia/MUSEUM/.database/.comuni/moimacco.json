@@ -1,0 +1,41 @@
+{
+  "comune_name": "Moimacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moimacco.md",
+  "extracted_at": "2026-04-09T10:51:11.613Z",
+  "pois": [
+    {
+      "name": "Fondazione De Claricini-Dornpacher — Villa di Bottenicco",
+      "address": "Via Benvenuta Boiani 4, Bottenicco — 33040 Moimacco (UD)",
+      "website_url": "http://www.fondazionedeclaricinidornpacher.org",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondazione%20De%20Claricini-Dornpacher%20%E2%80%94%20Villa%20di%20Bottenicco%2C%20Via%20Benvenuta%20Boiani%204%2C%20Bottenicco%20%E2%80%94%2033040%20Moimacco%20(UD)",
+      "image_url": null,
+      "description": "La Fondazione De Claricini-Dornpacher è una prestigiosa istituzione culturale situata in una villa seicentesca a Bottenicco di Moimacco. Conserva un ricco archivio storico, una biblioteca dantesca di altissimo livello e collezioni artistiche di famiglia, oltre a splendidi giardini e un parco storico. Le visite alla villa e ai giardini sono organizzate su appuntamento, offrendo la possibilità di esplorare un esempio di villa veneta e le tradizioni culturali locali.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moimacco.md"
+    },
+    {
+      "name": "Pinacoteca Guido Tavagnacco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20Guido%20Tavagnacco%2C%20Moimacco",
+      "image_url": null,
+      "description": "La Pinacoteca Guido Tavagnacco è una raccolta civica di opere pittoriche ospitata presso il Comune di Moimacco. Nata dalla donazione dell’artista locale Guido Tavagnacco, la collezione comprende tele a soggetto paesaggistico e figurativo che riflettono la tradizione realista friulana novecentesca. Rappresenta un esempio delle piccole raccolte nate per radicare l’espressione artistica nel contesto comunitario.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moimacco.md"
+    },
+    {
+      "name": "Villa dei Puppi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20dei%20Puppi%2C%20Moimacco",
+      "image_url": null,
+      "description": "Villa dei Puppi è un edificio residenziale del XVIII secolo che testimonia l’architettura rurale patrizia della pianura friulana. Pur non essendo un museo tradizionale, la villa è un elemento significativo del paesaggio storico di Moimacco ed è tutelata come bene di interesse storico-architettonico. Non è normalmente aperta al pubblico.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moimacco.md"
+    }
+  ]
+}

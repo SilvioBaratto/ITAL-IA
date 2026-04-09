@@ -1,0 +1,30 @@
+{
+  "comune_name": "Capriva del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/capriva-del-friuli.md",
+  "extracted_at": "2026-04-09T10:43:53.487Z",
+  "pois": [
+    {
+      "name": "Fondazione Villa Russiz — Complesso storico, culturale e vitivinicolo",
+      "address": "Via Russiz 6, 34070 Capriva del Friuli (GO)",
+      "website_url": "https://www.villarussiz.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondazione%20Villa%20Russiz%20%E2%80%94%20Complesso%20storico%2C%20culturale%20e%20vitivinicolo%2C%20Via%20Russiz%206%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "La Fondazione Villa Russiz è un complesso di grande valore storico, sociale e produttivo, radicato nella storia del Collio dal XIX secolo. Pur non essendo un museo formale, ospita una villa padronale ottocentesca, cantine storiche e un parco con vigneti, intrecciando attività enologiche, eventi culturali e accoglienza sociale attraverso la Casa Famiglia. Offre visite guidate e degustazioni su prenotazione, rappresentando un esempio unico di patrimonio culturale e vitivinicolo integrato nel territorio goriziano.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/capriva-del-friuli.md"
+    },
+    {
+      "name": "Castello di Spessa — Dimora storica e complesso culturale",
+      "address": "Via Spessa 1, 34070 Capriva del Friuli (GO)",
+      "website_url": "https://www.castellodispessa.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Spessa%20%E2%80%94%20Dimora%20storica%20e%20complesso%20culturale%2C%20Via%20Spessa%201%2C%2034070%20Capriva%20del%20Friuli%20(GO)",
+      "image_url": null,
+      "description": "Il Castello di Spessa è la principale dimora storica di Capriva del Friuli, con origini medievali e una ricca stratificazione di vicende nobiliari e letterarie, tra cui il soggiorno di Casanova e Da Ponte. Il complesso ospita un bunker visitabile della Seconda Guerra Mondiale, una cantina vinicola, un resort e un campo da golf, mantenendo un forte profilo culturale. Visite al castello, ai sotterranei e agli spazi storici sono disponibili su prenotazione, valorizzando la memoria e il paesaggio del Collio.",
+      "comune_name": "Capriva del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/capriva-del-friuli.md"
+    }
+  ]
+}

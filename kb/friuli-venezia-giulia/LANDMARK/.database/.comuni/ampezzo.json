@@ -1,0 +1,140 @@
+{
+  "comune_name": "Ampezzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md",
+  "extracted_at": "2026-04-09T10:32:14.740Z",
+  "pois": [
+    {
+      "name": "Piazza Zona Libera 1944",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza%20Zona%20Libera%201944%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Piazza Zona Libera 1944 è la piazza principale di Ampezzo, dedicata alla memoria della Repubblica Libera della Carnia, uno degli eventi chiave della Resistenza italiana. La piazza è il fulcro della vita civica e culturale del paese, circondata dai principali edifici storici come la chiesa parrocchiale e il municipio. È arricchita da statue simboliche della Gallina e del Gallo, elementi identitari della comunità locale. Ancora oggi rappresenta un luogo molto frequentato e significativo per la popolazione.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Chiesa Arcipretale della Beata Vergine del Rosario e San Daniele Profeta",
+      "address": "Piazza Zona Libera 1944",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Arcipretale%20della%20Beata%20Vergine%20del%20Rosario%20e%20San%20Daniele%20Profeta%2C%20Piazza%20Zona%20Libera%201944",
+      "image_url": null,
+      "description": "Questa chiesa parrocchiale è l'edificio religioso più importante di Ampezzo e uno dei più rilevanti dell'Alta Val Tagliamento. Costruita tra il 1762 e il 1786 su progetto di Mario Cortenovis, presenta una facciata neoclassica e interni barocchi, con notevoli opere d'arte di artisti come Nicola Grassi, Giuseppe Angeli e Giacomo Pischiutti. Al suo interno si trovano anche un organo storico e vari altari artistici, rendendola un centro della vita spirituale e culturale del paese.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Palazzo Angelo Unfer",
+      "address": "Piazza Zona Libera 1944",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Angelo%20Unfer%2C%20Piazza%20Zona%20Libera%201944",
+      "image_url": null,
+      "description": "Il Palazzo Angelo Unfer è il più importante edificio del centro storico di Ampezzo, caratterizzato da un'architettura montana con influenze venete settecentesche. All'interno ospita il Museo Geologico della Carnia e la Pinacoteca Marco Davanzo, divenendo così un centro culturale di riferimento per tutto il territorio. È aperto al pubblico secondo gli orari delle istituzioni museali ospitate.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Palazzo Beorchia-Nigris",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Beorchia-Nigris%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Palazzo Beorchia-Nigris, risalente al XVII secolo, è un esempio rilevante di architettura signorile carnica. L'edificio riflette lo stile austero e le proporzioni tipiche delle residenze delle famiglie notabili locali, unite a dettagli architettonici di gusto veneto. Rappresenta una testimonianza vivente della storia sociale e architettonica di Ampezzo e della Carnia.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Borgo Medievale di Oltris",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Medievale%20di%20Oltris%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Oltris è una delle frazioni rurali meglio conservate della Carnia, con origini documentate dal 1260. Il borgo mantiene il suo impianto medievale, con strade lastricate, case in pietra e legno, e tipici elementi dell’architettura carnica come stipiti in pietra e balconate in legno. Offre un'atmosfera autentica e suggestiva, molto apprezzata da escursionisti e amanti delle architetture storiche alpine.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità (Oltris)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%20(Oltris)%2C%20Ampezzo",
+      "image_url": null,
+      "description": "La Chiesa della Santissima Trinità è il piccolo oratorio di Oltris, di origini medievali e oggetto di vari rifacimenti nel tempo. Al suo interno è conservata una croce in legno d'olivo proveniente dal Getsemani, legata a pellegrinaggi e alla storia spirituale della comunità. La chiesa si integra perfettamente nel paesaggio e nel tessuto del borgo, rappresentando un luogo di fede e valore architettonico alpino.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Borgo di Voltois e le sue Architetture Tradizionali",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20di%20Voltois%20e%20le%20sue%20Architetture%20Tradizionali%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Voltois è una frazione storica di Ampezzo, probabilmente di origini romane, famosa per aver conservato intatte le sue caratteristiche architettoniche medievali. Il borgo si distingue per le case con arcate in pietra, ballatoi e balconate in legno, tipici della tradizione carnica, e per un'atmosfera di rara autenticità e silenzio alpino. È una meta perfetta per chi vuole immergersi nella storia e nel paesaggio delle comunità montane friulane.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "La Via delle Ancone di Oltris",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Via%20delle%20Ancone%20di%20Oltris%2C%20Ampezzo",
+      "image_url": null,
+      "description": "La Via delle Ancone è un percorso devozionale che attraversa Oltris, costellato di edicole votive in pietra note come 'ancone'. Queste testimonianze della religiosità popolare segnano i sentieri e fungono da punti di sosta e preghiera, rappresentando un elemento importante della cultura e della vita delle comunità alpine. Oggi il percorso è anche un apprezzato itinerario escursionistico di valore culturale.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Monumento ai Caduti e Memoria della Prima Guerra Mondiale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20ai%20Caduti%20e%20Memoria%20della%20Prima%20Guerra%20Mondiale%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Il Monumento ai Caduti di Ampezzo è dedicato ai cittadini caduti durante i conflitti mondiali, con particolare riferimento alla Prima Guerra Mondiale. Situato in una posizione centrale, il monumento è un luogo di raccoglimento durante le commemorazioni ufficiali e perpetua la memoria storica e il sacrificio delle famiglie locali. Esso riflette profondamente l'identità collettiva della comunità.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Memoria della Seconda Guerra Mondiale: Campo di Prigionia di Plan dal Sac",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Memoria%20della%20Seconda%20Guerra%20Mondiale%3A%20Campo%20di%20Prigionia%20di%20Plan%20dal%20Sac%2C%20Ampezzo",
+      "image_url": null,
+      "description": "A Plan dal Sac, durante la Seconda Guerra Mondiale, fu allestito un campo di prigionia dove vennero internati 280 soldati neozelandesi. Anche se privo di strutture museali permanenti, il sito rappresenta una pagina significativa della storia locale ed è ricordato per l'aiuto fornito ai prigionieri dalla popolazione di Ampezzo dopo l'armistizio del 1943. La memoria di questo luogo vive grazie alle tradizioni orali e agli studi storici.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "La Casa Natale di Marco Davanzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20Natale%20di%20Marco%20Davanzo%2C%20Ampezzo",
+      "image_url": null,
+      "description": "La casa natale di Marco Davanzo, situata nel centro storico di Ampezzo, è riconoscibile per la grande tavolozza appesa sulla facciata, simbolo omaggio all'artista. L'edificio è un tipico esempio di abitazione borghese carnica di fine Ottocento ed è diventato uno dei riferimenti iconografici del paese, nonostante non sia visitabile internamente.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Biotopo della Palude di Cima Corso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Biotopo%20della%20Palude%20di%20Cima%20Corso%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Il Biotopo della Palude di Cima Corso è un'area naturale protetta di grande interesse ecologico, situata vicino alla frazione di Cima Corso. Caratterizzato da una flora e una fauna specializzate, il biotopo rappresenta un raro esempio di zona umida alpina. Fa parte del Geoparco delle Alpi Carniche ed è visitabile gratuitamente, offrendo itinerari immersi nella natura incontaminata.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/ampezzo.md"
+    }
+  ]
+}

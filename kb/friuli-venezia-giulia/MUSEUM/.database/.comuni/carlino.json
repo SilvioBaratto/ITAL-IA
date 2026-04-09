@@ -1,0 +1,30 @@
+{
+  "comune_name": "Carlino",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/carlino.md",
+  "extracted_at": "2026-04-09T10:44:07.693Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Tommaso Apostolo",
+      "address": "Piazza San Rocco, Carlino (UD) 33050",
+      "website_url": "https://chieseitaliane.chiesacattolica.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Tommaso%20Apostolo%2C%20Piazza%20San%20Rocco%2C%20Carlino%20(UD)%2033050",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Tommaso Apostolo, edificata nel 1735 e consacrata nel 1772, rappresenta il principale monumento architettonico di Carlino. Lo stile neoclassico e il restauro della facciata e del portale ne evidenziano il valore storico. All'interno si trovano opere d'arte come il dipinto Anime del Purgatorio attribuito a Michelangelo Grigoletti, una pala d'altare ottocentesca e confessionali intagliati dai fratelli Filipponi di Udine. L'accesso è libero durante le funzioni religiose o su richiesta.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/carlino.md"
+    },
+    {
+      "name": "Chiesa dei Santi Gervasio e Protasio — Frazione San Gervasio",
+      "address": "Via San Gervasio, San Gervasio di Carlino (UD) 33050",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Gervasio%20e%20Protasio%20%E2%80%94%20Frazione%20San%20Gervasio%2C%20Via%20San%20Gervasio%2C%20San%20Gervasio%20di%20Carlino%20(UD)%2033050",
+      "image_url": null,
+      "description": "La Chiesa dei Santi Gervasio e Protasio, situata nella frazione San Gervasio, è il più antico edificio di culto di Carlino, con origini che risalgono al IX secolo. L'attuale struttura fu edificata nel 1584 e ha subito vari ampliamenti nel corso dei secoli. È un importante documento storico per la Bassa friulana, legato alla cristianizzazione medievale del territorio. L'accesso è consentito principalmente in occasione delle festività locali e su richiesta.",
+      "comune_name": "Carlino",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/carlino.md"
+    }
+  ]
+}

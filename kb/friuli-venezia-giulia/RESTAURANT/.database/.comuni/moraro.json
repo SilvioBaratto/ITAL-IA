@@ -1,0 +1,30 @@
+{
+  "comune_name": "Moraro",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moraro.md",
+  "extracted_at": "2026-04-09T11:08:00.527Z",
+  "pois": [
+    {
+      "name": "La Privanda",
+      "address": "Via Petrarca 17, 34070 Moraro (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Privanda%2C%20Via%20Petrarca%2017%2C%2034070%20Moraro%20(GO)",
+      "image_url": null,
+      "description": "La Privanda è un agriturismo rinomato nel cuore di Moraro, gestito dalla famiglia Donda e situato accanto al municipio. Il locale, recentemente ristrutturato, propone autentici piatti della tradizione friulana come salsiccia con brovada, frittate, trippa e baccalà, tutti accompagnati dai vini della casa prodotti nei vigneti del Collio Goriziano. L'atmosfera è calda e accogliente, con ambienti curati che valorizzano la convivialità e le tradizioni locali. La fascia di prezzo è moderata, in linea con gli agriturismi friulani di qualità.",
+      "comune_name": "Moraro",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moraro.md"
+    },
+    {
+      "name": "Al Diaul Agriturismo",
+      "address": "Via Cristoforo Colombo 7, 34070 Moraro (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Diaul%20Agriturismo%2C%20Via%20Cristoforo%20Colombo%207%2C%2034070%20Moraro%20(GO)",
+      "image_url": null,
+      "description": "Al Diaul Agriturismo si trova in una cascina restaurata nella campagna di Moraro e offre cucina tipica friulana utilizzando ingredienti a km zero dell'azienda agricola biologica. Il locale, caratterizzato dall'antico \"fogolar\", propone piatti regionali genuini serviti in un'atmosfera rustica e autentica. Dispone di una taverna con vini autoprodotti e anche di una camera per soggiorni in loco. Il clima familiare e le attività rurali rendono la visita un'esperienza immersiva nella tradizione friulana.",
+      "comune_name": "Moraro",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moraro.md"
+    }
+  ]
+}

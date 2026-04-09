@@ -1,0 +1,41 @@
+{
+  "comune_name": "Lusevera",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lusevera.md",
+  "extracted_at": "2026-04-09T10:50:04.218Z",
+  "pois": [
+    {
+      "name": "Museo Etnografico di Lusevera",
+      "address": null,
+      "website_url": "https://www.comune.lusevera.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Etnografico%20di%20Lusevera%2C%20Lusevera",
+      "image_url": null,
+      "description": "Il Museo Etnografico di Lusevera conserva e valorizza la memoria storica e la vita quotidiana delle comunità dell'alta valle del Torre. Espone oggetti, attrezzi e costumi della tradizione contadina e artigiana locale, con particolare attenzione alle influenze friulano-slovene. Il museo rappresenta un punto di riferimento per l'identità del paese, testimone anche della rinascita post-terremoto del 1976 grazie alla conservazione di oggetti scampati al sisma.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lusevera.md"
+    },
+    {
+      "name": "Grotta Nuova di Villanova — Sito Speleologico e Naturalistico",
+      "address": "Villanova, 33010 Lusevera (UD)",
+      "website_url": "https://www.grottedivillanova.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20Nuova%20di%20Villanova%20%E2%80%94%20Sito%20Speleologico%20e%20Naturalistico%2C%20Villanova%2C%2033010%20Lusevera%20(UD)",
+      "image_url": null,
+      "description": "La Grotta Nuova di Villanova è una delle principali attrazioni speleologiche del Friuli Venezia Giulia, situata nella frazione di Villanova a Lusevera. Offre percorsi guidati standard e speciali, con spettacolari sale ricche di formazioni stalattitiche e stalagmitiche, mantenendo una temperatura interna costante di 11°C. Il sito ospita anche eventi artistici e didattici, diventando un punto di incontro fra natura, scienza e cultura.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lusevera.md"
+    },
+    {
+      "name": "Opere Difensive della Guerra Fredda — Fortificazioni di Micottis, Musi e Tanamea",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Opere%20Difensive%20della%20Guerra%20Fredda%20%E2%80%94%20Fortificazioni%20di%20Micottis%2C%20Musi%20e%20Tanamea%2C%20Lusevera",
+      "image_url": null,
+      "description": "Le fortificazioni di Micottis, Musi e Tanamea sono testimonianze del sistema difensivo costruito durante la Guerra Fredda nelle Alpi friulane. Queste opere militari, pur non essendo veri musei, raccontano la storia della difesa del confine e sono oggi meta d'interesse storico-turistico. Alcune strutture sono accessibili esternamente e permettono di comprendere il contesto strategico del territorio.",
+      "comune_name": "Lusevera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/lusevera.md"
+    }
+  ]
+}

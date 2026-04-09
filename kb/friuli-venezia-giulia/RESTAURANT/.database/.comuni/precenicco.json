@@ -1,0 +1,52 @@
+{
+  "comune_name": "Precenicco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/precenicco.md",
+  "extracted_at": "2026-04-09T11:13:35.623Z",
+  "pois": [
+    {
+      "name": "Trattoria Rosticceria Al Gallo",
+      "address": "Via Crescenzia, 9 – Precenicco (UD), CAP 33050",
+      "website_url": "https://www.rosticceriaalgallo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Rosticceria%20Al%20Gallo%2C%20Via%20Crescenzia%2C%209%20%E2%80%93%20Precenicco%20(UD)%2C%20CAP%2033050",
+      "image_url": null,
+      "description": "La Trattoria Rosticceria Al Gallo, fondata nel 1982, è il locale più conosciuto di Precenicco e punto di riferimento in provincia di Udine per la carne alla brace. Il piatto simbolo è il galletto alla brace, affiancato da fiorentina, costata di manzo e grigliata mista; gli antipasti sono tipici della tradizione friulana e il menu fisso a pranzo è molto apprezzato. L'ambiente è semplice e accogliente, con ampi spazi interni ed esterni adatti a cerimonie e ricorrenze.",
+      "comune_name": "Precenicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/precenicco.md"
+    },
+    {
+      "name": "Ristorante Taverna Al Pescatore",
+      "address": "Via Valle Hierschel – Precenicco (UD), CAP 33050",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Taverna%20Al%20Pescatore%2C%20Via%20Valle%20Hierschel%20%E2%80%93%20Precenicco%20(UD)%2C%20CAP%2033050",
+      "image_url": null,
+      "description": "Il Ristorante Taverna Al Pescatore propone una cucina di pesce legata alle tradizioni della Bassa Friulana e della laguna di Marano, utilizzando prodotti freschi del territorio. Specialità come la frittura di pesce lagunare, i primi con canestrelli, seppie e vongole, e i secondi di branzino e orata raccontano la vicinanza al mondo della pesca locale. Il locale ha uno stile semplice e genuino, tipico delle taverne di pesce dell'entroterra costiero.",
+      "comune_name": "Precenicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/precenicco.md"
+    },
+    {
+      "name": "Agriturismo Casali Viotto",
+      "address": "Via Crescenzia, 8 – Precenicco (UD), CAP 33050",
+      "website_url": "https://www.facebook.com/p/Casali-viotto-100054547235435",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Casali%20Viotto%2C%20Via%20Crescenzia%2C%208%20%E2%80%93%20Precenicco%20(UD)%2C%20CAP%2033050",
+      "image_url": null,
+      "description": "L'Agriturismo Casali Viotto offre la cucina regionale friulana in un contesto rurale, valorizzando i prodotti propri e delle aziende locali. Il menu segue la stagionalità e include goulash, minestre d'orzo e farro, secondi di maiale e formaggi Montasio. È ideale per chi cerca un'esperienza autentica lontano dal turismo di massa, con un ambiente naturale adatto a pranzi di famiglia o piccoli gruppi.",
+      "comune_name": "Precenicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/precenicco.md"
+    },
+    {
+      "name": "Agriturismo Zaglia",
+      "address": "Via Crosere (Crosaris) – Precenicco (UD), CAP 33053",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Zaglia%2C%20Via%20Crosere%20(Crosaris)%20%E2%80%93%20Precenicco%20(UD)%2C%20CAP%2033053",
+      "image_url": null,
+      "description": "L'Agriturismo Zaglia si trova nella località di Crosere ed è un punto di riferimento per la cucina contadina della Bassa Friulana. La proposta gastronomica ruota attorno a prodotti dell'azienda agricola come carni, salumi, formaggi, uova e verdure, serviti in piatti tipici come polenta e frico, salumi con pitina o musèt con brovada. Il contesto è genuino e rustico, perfetto per chi desidera scoprire i sapori autentici della campagna friulana.",
+      "comune_name": "Precenicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/precenicco.md"
+    }
+  ]
+}

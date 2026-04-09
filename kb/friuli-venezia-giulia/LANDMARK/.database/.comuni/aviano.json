@@ -1,0 +1,250 @@
+{
+  "comune_name": "Aviano",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md",
+  "extracted_at": "2026-04-09T10:33:26.547Z",
+  "pois": [
+    {
+      "name": "Castello di Aviano — Frazione Castello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Aviano%20%E2%80%94%20Frazione%20Castello%2C%20Aviano",
+      "image_url": null,
+      "description": "Il castello di Aviano, costruito nel X secolo su una collina panoramica, conserva oggi due torri, i resti del mastio e tratti della cinta muraria medievale. All’interno si trovano la chiesa delle Sante Maria e Giuliana e abitazioni storiche, immersi in un borgo dal forte fascino medievale. La passeggiata verso il colle offre uno splendido panorama sulla pianura friulana e sulle prealpi. Il luogo è uno dei siti più evocativi del pordenonese per atmosfera e storia.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa delle Sante Maria e Giuliana — Frazione Castello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20delle%20Sante%20Maria%20e%20Giuliana%20%E2%80%94%20Frazione%20Castello%2C%20Aviano",
+      "image_url": null,
+      "description": "Edificata nel 1583 all’interno del castello, questa chiesa è uno dei principali esempi di architettura rinascimentale della zona, probabilmente su progetto di Vincenzo Scamozzi. La facciata è decorata con statue di santi e ricevette vari restauri nei secoli successivi. All’interno sono conservate pale cinquecentesche, affreschi, una Pietà in pietra del XV secolo e altre opere di pregio.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa di Santa Giuliana — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Giuliana%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Questa piccola chiesa, antecedente alla parrocchiale rinascimentale, conserva rari affreschi votivi di stile romanico-bizantino. È una testimonianza preziosa della devozione medievale in Friuli, con decorazioni che ancora trasmettono la spiritualità dell’epoca nonostante alcune lacune.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa di San Gregorio — Frazione Castello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Gregorio%20%E2%80%94%20Frazione%20Castello%2C%20Aviano",
+      "image_url": null,
+      "description": "Questa chiesa è nota per il ciclo della Passione di Cristo, affrescato da Gianfrancesco da Tolmezzo nel 1497, uno dei pittori più importanti del tardo Quattrocento friulano. Gli affreschi rappresentano un fondamentale documento della pittura regionale e sono tra i più significativi dell’area pedemontana.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Duomo di San Zenone — Aviano centro",
+      "address": null,
+      "website_url": "http://www.parrocchieaviano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Zenone%20%E2%80%94%20Aviano%20centro%2C%20Aviano",
+      "image_url": null,
+      "description": "Il Duomo di San Zenone, edificato a partire dal 1775 su progetto di Francesco Riccati, è il principale edificio religioso di Aviano. Realizzato in stile neoclassico con richiami palladiani, ospita pregevoli dipinti seicenteschi, tra cui opere attribuite alla scuola del Veronese. La monumentale facciata domina la piazza principale ed è al centro della vita religiosa e civile locale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Santuario della Madonna del Monte — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20del%20Monte%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Il santuario fu costruito nel 1615 nel luogo di una tradizionale apparizione mariana del 1510, in un contesto segnato dalle incursioni turche. Rimaneggiato in stile barocco, con ricchi decori interni, è oggi meta di pellegrinaggi e offre una posizione panoramica che aggiunge fascino paesaggistico alla devozione popolare locale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesetta di Santa Caterina — Frazione Marsure",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Santa%20Caterina%20%E2%80%94%20Frazione%20Marsure%2C%20Aviano",
+      "image_url": null,
+      "description": "Questa cappella campestre del XV secolo spicca per il ciclo di affreschi dedicato a Santa Caterina d’Alessandria, espressione della devozione rurale tardo-medievale. L’interno, completamente affrescato, costituisce un raro esempio di architettura religiosa minore ben conservata nella campagna friulana.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesetta di San Floriano — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Floriano%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "La chiesetta di San Floriano, risalente al XV secolo e di stile gotico, è una delle numerose cappelle rurali del territorio avianese. Dedicata al patrono invocato contro incendi e calamità, conserva intatti elementi architettonici tipici della pietà popolare tardo-medievale del pordenonese.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Maddalena — Frazione Villotta di Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Maddalena%20%E2%80%94%20Frazione%20Villotta%20di%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Situata a Villotta di Aviano, la chiesa è nota per essere il luogo di nascita del Beato Marco d’Aviano, figura spirituale di rilievo europeo. La memoria del beato e della sua famiglia conferiscono all’edificio un valore storico e devozionale particolare, spesso meta di piccoli pellegrinaggi.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino — Frazione San Martino di Campagna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20%E2%80%94%20Frazione%20San%20Martino%20di%20Campagna%2C%20Aviano",
+      "image_url": null,
+      "description": "Questa parrocchiale di campagna custodisce una tela di Pomponio Amalteo, rinomato pittore rinascimentale friulano, insieme a opere lignee seicentesche. L’edificio riflette la vitalità culturale della committenza locale nel Cinquecento e testimonia la diffusione della grande pittura anche nei centri minori.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Giais — Frazione Giais",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Giais%20%E2%80%94%20Frazione%20Giais%2C%20Aviano",
+      "image_url": null,
+      "description": "La chiesa della frazione di Giais è riconosciuta per una pala barocca di O. Gortanutti, inserita nel ricco panorama dell’arte religiosa locale. La presenza dell’opera sottolinea l’importanza storica e comunitaria della parrocchia in questo piccolo centro rurale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Monumento al Beato Marco d'Aviano — Villotta di Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Monumento%20al%20Beato%20Marco%20d'Aviano%20%E2%80%94%20Villotta%20di%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Il monumento celebra Marco d’Aviano, cappuccino e predicatore, fondamentale nella difesa cristiana all’assedio di Vienna del 1683. Una statua in bronzo dello scultore Pierino Sam e altre targhe commemorano la figura del beato, ricordato ogni 13 agosto nelle ricorrenze locali.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Villa Policreti-Fabris e Oratorio Affrescato — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Policreti-Fabris%20e%20Oratorio%20Affrescato%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Villa Policreti-Fabris, la villa veneta più importante di Aviano secondo l’IRVV, si distingue per il ciclo di affreschi dell’oratorio annesso. La residenza, esempio rappresentativo della nobiltà veneziana, testimonia storia, arte e tradizione insediativa dell’aristocrazia locale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Villa Bonassi — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Bonassi%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Villa Bonassi, aperta al pubblico e classificata dall’IRVV, presenta stilemi tipici delle dimore nobiliari di campagna e corti veneto-friulane. La visita consente di cogliere la stratificazione storica delle ville di Aviano e il ruolo culturale della nobiltà tra Dominazione Veneziana e Asburgica.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Villa Zanussi-Fabris — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Zanussi-Fabris%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Villa Zanussi-Fabris, aperta al pubblico, è parte dell’insieme delle ville venete storiche di Aviano. L’edificio riflette l’evoluzione dei gusti e delle aspirazioni sociali delle élite locali tra il XVI e il XIX secolo attraverso la sua architettura.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Villa Menegozzi-Brazzoduro — Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Menegozzi-Brazzoduro%20%E2%80%94%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Villa Menegozzi-Brazzoduro, risalente al XVIII secolo, si distingue per decorazioni pittoriche interne a tempera con vedute paesaggistiche. La villa rappresenta i gusti dell’aristocrazia settecentesca e costituisce un importante monumento storico-artistico avianese.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Parco Policreti — Frazione Castello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Policreti%20%E2%80%94%20Frazione%20Castello%2C%20Aviano",
+      "image_url": null,
+      "description": "Il Parco Policreti, storico giardino signorile adiacente al castello e alla villa omonima, oggi ospita un golf club. Nonostante il nuovo utilizzo, mantiene il suo valore paesaggistico e la struttura originale, offrendo un’esperienza suggestiva ai visitatori della zona.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Madonna sul Monte Cavallo — Piancavallo / Monte Cavallo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Madonna%20sul%20Monte%20Cavallo%20%E2%80%94%20Piancavallo%20%2F%20Monte%20Cavallo%2C%20Aviano",
+      "image_url": null,
+      "description": "Sulla cima del Monte Cavallo si trova una statua in bronzo della Madonna, opera di Pierino Sam, noto scultore friulano del Novecento. La statua è raggiungibile solo a piedi e costituisce un importante segno della devozione mariana e dell’identità artistica del territorio.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Piancavallo — Loc. Piancavallo (1.280 m s.l.m.)",
+      "address": null,
+      "website_url": "http://www.piancavallo.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Piancavallo%20%E2%80%94%20Loc.%20Piancavallo%20(1.280%20m%20s.l.m.)%2C%20Aviano",
+      "image_url": null,
+      "description": "Piancavallo è la principale località montana di Aviano, famosa per gli impianti sciistici, la storia legata al Giro d’Italia e il sistema di innevamento artificiale pionieristico. Luogo turistico apprezzato tutto l’anno, offre sentieri, palazzetti del ghiaccio, itinerari devozionali e un paesaggio scenografico tra le Prealpi friulane.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Mostra Permanente di Riccardo Pitter — Palazzina Ferro, Aviano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mostra%20Permanente%20di%20Riccardo%20Pitter%20%E2%80%94%20Palazzina%20Ferro%2C%20Aviano%2C%20Aviano",
+      "image_url": null,
+      "description": "Dal 2019 nella Palazzina Ferro di Aviano è ospitata la mostra permanente dedicata a Riccardo Pitter, scultore e pittore del territorio formatosi tra Liberty e Novecento. La mostra valorizza un artista locale di rilievo nazionale e l’impegno del comune nella promozione del patrimonio culturale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Base Aerea di Aviano — Patrimonio della Storia Militare Contemporanea",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Base%20Aerea%20di%20Aviano%20%E2%80%94%20Patrimonio%20della%20Storia%20Militare%20Contemporanea%2C%20Aviano",
+      "image_url": null,
+      "description": "La Base Aerea di Aviano, fondata nel 1911 e oggi sede del 31st Fighter Wing dell’USAF, è uno degli insediamenti militari NATO più importanti d’Europa. Non accessibile al pubblico, rappresenta un monumento vivente alla storia aeronautica e militare italiana e internazionale del Novecento.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    },
+    {
+      "name": "Alberi Monumentali del Territorio Avianese",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alberi%20Monumentali%20del%20Territorio%20Avianese%2C%20Aviano",
+      "image_url": null,
+      "description": "Il comune di Aviano comprende tre alberi classificati monumentali: il Faggio sul Pian delle More, l’Acero campestre sul Colle di San Giorgio e la Sofora del Giappone a Castello d’Aviano. Questi esemplari rappresentano la biodiversità locale e il patrimonio naturale e storico del territorio.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aviano.md"
+    }
+  ]
+}

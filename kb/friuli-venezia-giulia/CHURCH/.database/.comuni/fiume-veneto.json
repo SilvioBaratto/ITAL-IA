@@ -1,0 +1,107 @@
+{
+  "comune_name": "Fiume Veneto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md",
+  "extracted_at": "2026-04-09T10:25:57.122Z",
+  "pois": [
+    {
+      "name": "Chiesa Arcipretale di San Nicolò Vescovo — Fiume Veneto (capoluogo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Arcipretale%20di%20San%20Nicol%C3%B2%20Vescovo%20%E2%80%94%20Fiume%20Veneto%20(capoluogo)%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Nicolò Vescovo è il principale luogo di culto di Fiume Veneto e si trova nel cuore del capoluogo. Costruita tra il 1875 e il 1878 in stile neogotico, conserva il campanile dell’edificio precedente come elemento storico. Divenuta arcipretale nel 1965, custodisce arredi liturgici ottocenteschi e alcune tele devozionali. Il patrono san Niccolò si festeggia il 6 dicembre.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Chiesa dell'Addolorata — Fiume Veneto (Borgo Fiume Piccolo)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dell'Addolorata%20%E2%80%94%20Fiume%20Veneto%20(Borgo%20Fiume%20Piccolo)%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Piccola chiesa situata nello storico borgo di Fiume Piccolo, rappresenta una delle principali espressioni della devozione mariana locale. Edificata in epoca barocca e successivamente rimaneggiata, assolve la funzione di chiesa secondaria legata alla tradizione popolare della Vergine Addolorata. Si distingue per le sue dimensioni contenute e il carattere rurale.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Antica Pieve di Pescincanna — Pescincanna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Pieve%20di%20Pescincanna%20%E2%80%94%20Pescincanna%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Considerata il monumento religioso più antico del comune, la pieve di Pescincanna risale all’XI-XII secolo ed era la madre spirituale della zona. All’interno conserva preziosi affreschi romanici del XII secolo, testimonianza dell’arte medievale friulana. Rappresenta un importante esempio di architettura sacra e storia ecclesiastica locale.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Michele Arcangelo — Pescincanna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Pescincanna%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Chiesa parrocchiale della frazione di Pescincanna, dedicata a san Michele Arcangelo, costruita nel XX secolo su strutture preesistenti. È centro di riferimento spirituale per la comunità locale e presenta uno stile eclettico tipico del primo Novecento. Il campanile e la facciata dominano la piazza di Pescincanna.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Antica Cappella di San Gerolamo — Marzinis (frazione di Pescincanna)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Cappella%20di%20San%20Gerolamo%20%E2%80%94%20Marzinis%20(frazione%20di%20Pescincanna)%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Situata nel borgo rurale di Marzinis, questa cappella del XV secolo è uno dei nuclei religiosi storici più suggestivi della zona. All'interno si trovano affreschi cinquecenteschi della scuola friulana, legati alla tradizione tolmezzina. Il contesto naturalistico intatto conferisce alla visita un’atmosfera sospesa e affascinante.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Giacomo Apostolo — Praturlone",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giacomo%20Apostolo%20%E2%80%94%20Praturlone%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "La chiesa di San Giacomo Apostolo è il principale edificio sacro di Praturlone, celebre per i suoi affreschi della scuola tolmezzina della fine XV - inizio XVI secolo. Queste pitture testimoniano la diffusione dell’arte di Gianfrancesco da Tolmezzo anche nei centri rurali minori. Il luogo è dedicato al culto di San Giacomo, legato al pellegrinaggio per Santiago de Compostela.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Tommaso Apostolo — Cimpello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Tommaso%20Apostolo%20%E2%80%94%20Cimpello%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "La chiesa cinquecentesca di Cimpello, dedicata a San Tommaso Apostolo, si distingue per i numerosi rimaneggiamenti succedutisi nei secoli. All’interno spiccano un affresco di Duilio Corompai, artista friulano del Novecento, e un dipinto su tela di Luigi Nono, pittore veneziano dell’Ottocento. È il principale riferimento spirituale della frazione più popolosa di Fiume Veneto.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Oratorio della Madonna della Tavella — Fiume Veneto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20della%20Madonna%20della%20Tavella%20%E2%80%94%20Fiume%20Veneto%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Questo piccolo oratorio mariano sorge nella località Tavella di Fiume Veneto e rappresenta la tradizione delle edicole votive rurali fra il XVII e il XVIII secolo. È legato alla devozione popolare e alla Sagra dello Struzzo che si tiene annualmente in settembre. L’edificio testimonia la spiritualità diffusa nelle campagne friulane.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    },
+    {
+      "name": "Oratorio di San Francesco — Fiume Veneto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Francesco%20%E2%80%94%20Fiume%20Veneto%2C%20Fiume%20Veneto",
+      "image_url": null,
+      "description": "Oratorio situato nel capoluogo di Fiume Veneto e dedicato a San Francesco d’Assisi. Riflette la profonda tradizione francescana della zona e svolge una funzione devozionale e comunitaria. È parte integrante del paesaggio sacro e religioso locale.",
+      "comune_name": "Fiume Veneto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/fiume-veneto.md"
+    }
+  ]
+}

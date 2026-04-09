@@ -1,0 +1,85 @@
+{
+  "comune_name": "Montereale Valcellina",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md",
+  "extracted_at": "2026-04-09T11:07:41.244Z",
+  "pois": [
+    {
+      "name": "Casa Valcellina Ristorante & Hotel",
+      "address": null,
+      "website_url": "https://www.casavalcellina.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Valcellina%20Ristorante%20%26%20Hotel%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "Casa Valcellina è un ristorante raffinato che unisce cucina di qualità e ospitalità alberghiera in un ambiente romantico con vista sul giardino. La cucina, guidata da Florina, si caratterizza per l'uso di eccellenti prodotti friulani locali e propone piatti come il frico con carpaccio di manzo e Montasio, pasta ripiena alle erbe e polpette di cervo. Il locale è ideale per cene speciali e soggiorni rilassanti; i prezzi medi sono intorno ai 30 euro a persona. L'atmosfera è curata e tranquilla, con illuminazione soffusa e servizio attento.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Osteria Al Castelu – La Dimora del Gusto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Castelu%20%E2%80%93%20La%20Dimora%20del%20Gusto%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "Osteria Al Castelu, conosciuta come 'La Dimora del Gusto', è una meta obbligata per chi desidera gustare le specialità tipiche della Valcellina, tra cui la Pitina, formaggi locali e salumi artigianali. Il locale offre piatti freddi, panini e degustazioni in un ambiente accogliente, con la possibilità di asporto e posti anche all'aperto. Grazie alla recente ristrutturazione e all'ampia selezione di vini e birre artigianali, è molto apprezzata da famiglie, ciclisti e motociclisti. L'osteria fa parte dei marchi di qualità del Parco Dolomiti Friulane.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Antica Osteria Vittoria",
+      "address": "Piazza Roma 8, 33086 Montereale Valcellina (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Osteria%20Vittoria%2C%20Piazza%20Roma%208%2C%2033086%20Montereale%20Valcellina%20(PN)",
+      "image_url": null,
+      "description": "Antica Osteria Vittoria mantiene vivo il fascino delle tradizionali osterie friulane con un ambiente rustico e accogliente. Il menù propone piatti stagionali come i plin ai funghi, ricotta affumicata e selezionati affettati locali, accompagnati da una carta di vini e birre regionali. Il servizio è apprezzato per gentilezza e attenzione, mentre le generose porzioni e il buon rapporto qualità-prezzo sono particolarmente lodati. L'osteria è valutata molto positivamente su TripAdvisor e offre sia posti interni che esterni.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Pizzeria Gambacorta Trattoria",
+      "address": "Viale Stazione 2, 33086 Montereale Valcellina (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Gambacorta%20Trattoria%2C%20Viale%20Stazione%202%2C%2033086%20Montereale%20Valcellina%20(PN)",
+      "image_url": null,
+      "description": "La Pizzeria Gambacorta Trattoria è un locale accogliente che propone pizze tradizionali e creative, apprezzate per la qualità degli ingredienti e la selezione di bevande, tra cui birre e vini locali. L'atmosfera è informale, adatta a famiglie e gruppi di amici, e il personale è noto per la cortesia. Con valutazioni molto positive online, si distingue per la varietà dell'offerta e i prezzi accessibili.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Bar, Pizzeria, Albergo Al Cervo",
+      "address": "Via Giuseppe Mazzini 17, 33086 Montereale Valcellina (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%2C%20Pizzeria%2C%20Albergo%20Al%20Cervo%2C%20Via%20Giuseppe%20Mazzini%2017%2C%2033086%20Montereale%20Valcellina%20(PN)",
+      "image_url": null,
+      "description": "Bar, Pizzeria, Albergo Al Cervo è una struttura polivalente che funziona come ristorante, pizzeria e albergo. È rinomata per le sue pizze napoletane tradizionali e per una cucina che spazia dal pesce alle carni, inclusi piatti di pasta e frutti di mare. L'ambiente è caldo e versatile, adatto sia a cene romantiche sia a gruppi. Il locale è molto ben valutato dalla clientela e offre anche la possibilità di soggiorno.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Osteria Al Pharaon",
+      "address": "Via Giuseppe Mazzini 44, Grizzo, 33086 Montereale Valcellina (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Pharaon%2C%20Via%20Giuseppe%20Mazzini%2044%2C%20Grizzo%2C%2033086%20Montereale%20Valcellina%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Al Pharaon è una cicchetteria friulana situata nella frazione di Grizzo, celebre per i suoi crostini, piatti di pesce e ricchi brodi. L'atmosfera è informale e accogliente, ideale per piccoli gruppi. Offre una selezione di bevande che comprende vini della casa e cocktail, incluso lo Spritz. Data la limitata capienza del locale, si consiglia la prenotazione.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    },
+    {
+      "name": "Trattoria Pizzeria Tre Torri",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20Tre%20Torri%2C%20Montereale%20Valcellina",
+      "image_url": null,
+      "description": "Trattoria Pizzeria Tre Torri di Nogherotto Mario & C. SNC è riconosciuta come una delle migliori trattorie di Montereale Valcellina. Pur in assenza di dettagli specifici, il locale gode di ottima reputazione nel territorio come riferimento per la cucina locale.",
+      "comune_name": "Montereale Valcellina",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/montereale-valcellina.md"
+    }
+  ]
+}

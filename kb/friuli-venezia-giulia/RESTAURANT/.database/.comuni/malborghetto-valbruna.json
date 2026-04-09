@@ -1,0 +1,107 @@
+{
+  "comune_name": "Malborghetto Valbruna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md",
+  "extracted_at": "2026-04-09T11:05:36.861Z",
+  "pois": [
+    {
+      "name": "Locanda Aquila Nera",
+      "address": "Via Bamberga 41",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Aquila%20Nera%2C%20Via%20Bamberga%2041",
+      "image_url": null,
+      "description": "La Locanda Aquila Nera è il ristorante più rinomato di Malborghetto Valbruna, apprezzato per la cucina friulana autentica e per l'attenzione alle ricette tradizionali e ingredienti locali. Le specialità includono gnocchi di patate fatti in casa con burro e ricotta affumicata, oltre a una vasta selezione di carni grigliate. Il servizio è cordiale e l'atmosfera è genuina e accogliente, ideale anche per pernottare. Aperto dal lunedì al sabato, il locale è premiato per la sua generosità nelle porzioni e la cortesia del personale.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Ristorante Rio Argento - Ugovizza",
+      "address": null,
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g2720401-d2234494-Reviews-Ristorante_Rio_Argento-Ugovizza_Malborghetto_Valbruna_Province_of_Udine_Friuli_V.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Rio%20Argento%20-%20Ugovizza%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "Immerso nella suggestiva località di Ugovizza, il Ristorante Rio Argento si affaccia su un laghetto alpino dove nuotano trote, protagoniste del menù interamente dedicato a questo pesce. L'ambiente è rustico e rilassante, e la cucina offre piatti come trota in carpione, marinata, affumicata e tartare, accompagnati da una vista storica sul Forte Hensel. Il ristorante rappresenta una tappa autentica per gustare sapori di montagna in un contesto di natura e storia.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Antica Trattoria da Giusi",
+      "address": "Via Bamberga 19",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Trattoria%20da%20Giusi%2C%20Via%20Bamberga%2019",
+      "image_url": null,
+      "description": "L'Antica Trattoria da Giusi, situata in un palazzo del XV secolo, è un ristorante-pizzeria che fonde cucina valcanale e influenze carinto-asburgiche. Particolarmente famosa per la 'Zuppa del Capitano', propone piatti stagionali a km 0 e una sezione pizzeria attiva la sera. L'atmosfera è calda e accogliente, ideale per ogni occasione, ed è rinomata per le sue ottime valutazioni su portali di ristorazione.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "La Baita dei Sapori",
+      "address": "Via Saisera",
+      "website_url": "https://www.labaitadeisapori.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Baita%20dei%20Sapori%2C%20Via%20Saisera",
+      "image_url": null,
+      "description": "La Baita dei Sapori, bar-ristorante a Valbruna vicino ai tracciati di sci di fondo, eccelle nella cucina di montagna friulana rivisitata con creatività. Il menù cambia ogni giorno per valorizzare selvaggina, carni grigliate, funghi e piatti innovativi come gnocchi al cacao o pasta nera al carbone vegetale. La posizione panoramica sulle Alpi Giulie e la selezione di vini locali la rendono una meta privilegiata durante tutto l'anno.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Kasarnjak",
+      "address": "Via Pontebbana 21",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Kasarnjak%2C%20Via%20Pontebbana%2021",
+      "image_url": null,
+      "description": "Con un'offerta che spazia tra piatti di carne della tradizione alpina e pizze croccanti, il Ristorante Pizzeria Kasarnjak è una scelta popolare a Malborghetto Valbruna. L'ambiente informale e accogliente lo rende adatto a famiglie e gruppi, mentre il rapporto qualità-prezzo viene costantemente lodato dai clienti. È particolarmente apprezzato per la cucina semplice ma autentica e per il rispetto delle ricette friulane.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Rifugio Casa Alpina Julius Kugy",
+      "address": "Via Emilio Comici 11",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Casa%20Alpina%20Julius%20Kugy%2C%20Via%20Emilio%20Comici%2011",
+      "image_url": null,
+      "description": "Il Rifugio Casa Alpina Julius Kugy unisce l'accoglienza alpina a una cucina di alta qualità, con un menu ridotto dedicato alla valorizzazione dei prodotti locali. Tra le specialità si segnalano lo strudel salato ai fiori di tarassaco e piatti con note aromatiche di montagna. È punto di riferimento per escursionisti e amanti delle montagne, ideale per una sosta gastronomica autentica.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Rifugio Fratelli Grego",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Fratelli%20Grego%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "Situato a 1.389 metri a Malborghetto Valbruna, il Rifugio Fratelli Grego è una classica struttura di montagna che offre ristoro e piatti della cucina locale. Apprezzato da escursionisti e alpinisti, garantisce un'autentica esperienza in ambiente alpino, anche se le informazioni sulle sue proposte culinarie specifiche sono limitate.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Rifugio Pellarini",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Pellarini%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "Il Rifugio Pellarini, immerso nelle Alpi Giulie, è un tradizionale punto di sosta per chi pratica trekking o alpinismo. Fornisce pasti tipici e ospitalità di montagna in un'atmosfera austera e accogliente, diventando riferimento per escursionisti in cerca di ristoro semplice e genuino.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Hotel All'Orso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20All'Orso%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "L'Hotel All'Orso si distingue per l'offerta di specialità tradizionali, in particolare i cjalzòns preparati secondo antiche ricette carniche. Oltre ai ravioli tipici, l'hotel garantisce un'esperienza completa di ospitalità e cucina locale, ideale per chi vuole immergersi nella tradizione gastronomica del territorio.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/malborghetto-valbruna.md"
+    }
+  ]
+}

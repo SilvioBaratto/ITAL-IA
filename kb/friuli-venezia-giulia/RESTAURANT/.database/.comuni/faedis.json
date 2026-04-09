@@ -1,0 +1,151 @@
+{
+  "comune_name": "Faedis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md",
+  "extracted_at": "2026-04-09T11:01:36.527Z",
+  "pois": [
+    {
+      "name": "Ristorante Scozzir",
+      "address": "Via Cividale, 33 — Faedis",
+      "website_url": "http://www.ristorantescozzir.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Scozzir%2C%20Via%20Cividale%2C%2033%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Il Ristorante Scozzir è un punto di riferimento storico a Faedis, con ampie sale adatte a famiglie e gruppi. Offre una cucina friulana attenta alla stagionalità degli ingredienti, con piatti che includono selvaggina, funghi, e proposte fresche in primavera. Il locale si distingue per le opzioni vegane, vegetariane e senza glutine, la qualità dei piatti e l'atmosfera accogliente con caminetto tradizionale.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Ristorante Ai 9 Castelli",
+      "address": "Via Udine, 63 — Faedis",
+      "website_url": "http://www.novecastelli.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Ai%209%20Castelli%2C%20Via%20Udine%2C%2063%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "L'Ai 9 Castelli è un ristorante leggendario, nato come osteria nel 1963 e noto per la cucina friulana unita a influenze di Austria, Slovenia e Veneto. Tutto è fatto in casa, dagli arrosti ai dolci, e l'offerta vinicola è molto curata. L'ambiente spazia da sale intime a giardini estivi affacciati sui vigneti, offrendo un'esperienza completa di convivialità e tradizione.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Trattoria Al Postiglione dal 1938",
+      "address": "Via Soffumbergo, 46 (Campeglio) — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Postiglione%20dal%201938%2C%20Via%20Soffumbergo%2C%2046%20(Campeglio)%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Trattoria storica di Faedis, Al Postiglione mantiene una tradizione gastronomica di quasi un secolo, specializzandosi in cucina carnivora con tagli classici, crostini e ricchi piatti friulani. L'atmosfera è rustica e accogliente, con una suggestiva area bar e spazi esterni con vista sulle colline. Ha una reputazione eccellente su Tripadvisor grazie alla qualità costante dei piatti.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Osteria Moderna",
+      "address": "Via Cividale, 33 — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Moderna%2C%20Via%20Cividale%2C%2033%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "L'Osteria Moderna fonde tradizione italiana e influenze americane in un ambiente informale. Offre colazioni, menù fisso a pranzo, cene su prenotazione e serate tematiche, con specialità friulane disponibili per gruppi. Gli ospiti apprezzano la qualità, i prezzi accessibili e il servizio, con una valutazione media molto positiva.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Pizzeria Al Bristol",
+      "address": "Via Divisione Julia, 8 — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Bristol%2C%20Via%20Divisione%20Julia%2C%208%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Al Bristol è una pizzeria storica attiva dal 1997, nota per il vasto assortimento di pizze, anche senza glutine su prenotazione, e prezzi accessibili. L'atmosfera rustica è arricchita da un caminetto acceso d'inverno e da un piacevole giardino estivo. Il locale offre anche birre artigianali e un ampio parcheggio, con valutazioni molto alte su Google.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Osteria La di Berto",
+      "address": "Via dei Campi, 1 (Raschiacco) — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20La%20di%20Berto%2C%20Via%20dei%20Campi%2C%201%20(Raschiacco)%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Osteria tradizionale a Raschiacco, La di Berto propone una cucina friulana genuina in un ambiente familiare e raccolto. Il locale è ideale per piccoli gruppi e per chi cerca autentici sapori del territorio senza fronzoli, mantenendo vive le ricette tradizionali in un contesto accogliente.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Bar Trattoria da Marsia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20da%20Marsia%2C%20Faedis",
+      "image_url": null,
+      "description": "Bar Trattoria da Marsia è conosciuta per l'offerta di cucina friulana autentica in un ambiente informale e amichevole. Gode di un'eccellente reputazione su Tripadvisor, grazie a piatti di qualità e a un servizio apprezzato dai clienti.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Osteria Là di Maur",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20L%C3%A0%20di%20Maur%2C%20Faedis",
+      "image_url": null,
+      "description": "L'Osteria Là di Maur propone piatti tipici della cucina friulana preparati con ingredienti genuini e locali. È particolarmente consigliata per chi desidera scoprire le ricette della tradizione regionale in un contesto autentico e lontano dagli standard moderni.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Agriturismo Castelli di Faedis",
+      "address": "Via dei Cuarde, 83 (Raschiacco) — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Castelli%20di%20Faedis%2C%20Via%20dei%20Cuarde%2C%2083%20(Raschiacco)%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "L'Agriturismo Castelli di Faedis offre cucina tradizionale friulana in una cornice rurale suggestiva, tra boschi e colline. La struttura comprende camere per il pernottamento e un grande patio con vista panoramica, ideale per cene estive, con una proposta gastronomica che esalta le erbe locali.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Agriturismo Famiglia Bertossi",
+      "address": "Via Antonutti, 38 — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Famiglia%20Bertossi%2C%20Via%20Antonutti%2C%2038%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Agriturismo con produzione vinicola e cucina friulana basata su ingredienti locali, la Famiglia Bertossi accoglie gli ospiti tra i vigneti offrendo anche il noleggio biciclette. È facilmente raggiungibile e permette di vivere appieno la cultura enogastronomica e rurale della zona.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Agriturismo Famiglia Cois",
+      "address": "Via Case Cos, 7 — Faedis",
+      "website_url": "http://www.agriturismocois.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Famiglia%20Cois%2C%20Via%20Case%20Cos%2C%207%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Immerso nella quiete della campagna, l'Agriturismo Famiglia Cois offre alloggio confortevole e cucina friulana tradizionale con ingredienti a km zero. Le camere sono arredate con cura e la struttura garantisce relax e autenticità a pochi minuti da Udine e Cividale del Friuli.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Agriturismo Famiglia Bertossi (altra struttura)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Famiglia%20Bertossi%20(altra%20struttura)%2C%20Faedis",
+      "image_url": null,
+      "description": "Questa seconda struttura della famiglia Bertossi offre ulteriori opzioni per soggiornare e gustare ristorazione tipica rurale a Faedis, mantenendo standard di qualità e autenticità legati alla tradizione locale.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    },
+    {
+      "name": "Agriturismo Non Solo Cicciole",
+      "address": "Borgo Gradischiutta, 14 — Faedis",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Non%20Solo%20Cicciole%2C%20Borgo%20Gradischiutta%2C%2014%20%E2%80%94%20Faedis",
+      "image_url": null,
+      "description": "Agriturismo Non Solo Cicciole è un'azienda agricola biologica che propone cucina friulana rivisitata in chiave moderna e sostenibile. Ideale per chi ricerca prodotti biologici e un contesto autentico, immersi nella natura della campagna friulana.",
+      "comune_name": "Faedis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/faedis.md"
+    }
+  ]
+}

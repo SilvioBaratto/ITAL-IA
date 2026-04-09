@@ -1,0 +1,52 @@
+{
+  "comune_name": "Farra D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/farra-d-isonzo.md",
+  "extracted_at": "2026-04-09T10:13:37.052Z",
+  "pois": [
+    {
+      "name": "Bar Scacciapensieri",
+      "address": "Via Roma, 1 – Farra d'Isonzo (34072 GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Scacciapensieri%2C%20Via%20Roma%2C%201%20%E2%80%93%20Farra%20d'Isonzo%20(34072%20GO)",
+      "image_url": null,
+      "description": "Il Bar Scacciapensieri si trova nel cuore di Farra d'Isonzo in Via Roma ed è il bar di paese per eccellenza, punto di ritrovo naturale per i residenti. Aperto dal mattino presto fino alla sera, offre una colazione rapida al banco con caffè espresso e dolcetti e diventa luogo di socialità durante l'aperitivo, dove il vino locale è protagonista. L'atmosfera è autentica e informale, perfetta per chi cerca il contesto genuinamente italiano.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Kill-Time Pub",
+      "address": "Viale Riccardo Pitteri, 7 – Farra d'Isonzo (34072 GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Kill-Time%20Pub%2C%20Viale%20Riccardo%20Pitteri%2C%207%20%E2%80%93%20Farra%20d'Isonzo%20(34072%20GO)",
+      "image_url": null,
+      "description": "Il Kill-Time Pub è il locale notturno di riferimento per Farra d'Isonzo e i paesi limitrofi, situato su Viale Riccardo Pitteri. Il pub, dall'ambiente informale e vivace, offre posti all'aperto e attira una clientela locale e giovane grazie alla sua atmosfera conviviale, ideale per chi desidera una serata animata in compagnia. È molto seguito sui social, a testimonianza della sua importanza nella vita sociale serale del territorio.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "Trattoria Al Mulino",
+      "address": "Via Gorizia, 2 – Farra d'Isonzo (34072 GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Mulino%2C%20Via%20Gorizia%2C%202%20%E2%80%93%20Farra%20d'Isonzo%20(34072%20GO)",
+      "image_url": null,
+      "description": "La Trattoria Al Mulino unisce le funzioni di bar e trattoria tipico del Friuli rurale: aperta dalle colazioni fino alla cena, offre ambiente accogliente e posti all'aperto. Rafforza il legame tra la vita quotidiana del paese e la cucina tradizionale isontina, proponendo gnocchi, carni, formaggi e vini locali. È uno dei pochi locali del comune dove si può sostare a qualsiasi ora della giornata.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/farra-d-isonzo.md"
+    },
+    {
+      "name": "4PR – Birrificio Agricolo Artigianale",
+      "address": "Via Gradisca, 23 – Farra d'Isonzo (34072 GO)",
+      "website_url": "https://4pr.beer",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=4PR%20%E2%80%93%20Birrificio%20Agricolo%20Artigianale%2C%20Via%20Gradisca%2C%2023%20%E2%80%93%20Farra%20d'Isonzo%20(34072%20GO)",
+      "image_url": null,
+      "description": "Il 4PR è un birrificio agricolo artigianale e agriturismo immerso tra i vigneti del Collio, attivo dal tardo pomeriggio alla mezzanotte da giovedì a domenica. Produce birre proprie con orzo coltivato in loco e offre piatti tradizionali alla brace e salumi artigianali. Eventi musicali animano le serate, mentre l'ampio spazio all'aperto crea un'atmosfera suggestiva e conviviale, ideale per assaporare le birre della casa.",
+      "comune_name": "Farra D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/farra-d-isonzo.md"
+    }
+  ]
+}

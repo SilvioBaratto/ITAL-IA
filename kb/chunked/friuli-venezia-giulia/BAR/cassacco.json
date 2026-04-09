@@ -1,0 +1,41 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/cassacco.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Cassacco",
+  "province": "UD",
+  "page_title": "Cassacco",
+  "page_summary": "Guida ai principali bar del comune di Cassacco: il Bar Centrale di Conoglano e l'Albergo Ristorante Pizzeria Bar Sottocastello nella frazione di Montegnacco.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/cassacco.md",
+  "processed_at": "2026-04-09T12:01:10.350Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/cassacco__0",
+      "text": "### Bar Centrale\n\n**Conoglano (Cassacco)**\nPiazza Angelo Noacco, Conoglano — CAP 33010\n\nIl Bar Centrale di Conoglano è il punto di riferimento della comunità nel cuore della frazione. Come suggerisce il nome — uno dei più diffusi nella toponomastica dei bar friulani e italiani in generale — si tratta del locale d'incontro per eccellenza: aperto la mattina per la colazione, frequentato nella pausa di metà giornata e al tardo pomeriggio per l'aperitivo. La posizione in piazza Angelo Noacco, il piccolo centro civico di Conoglano, ne fa il luogo naturale di aggregazione per residenti di tutte le età.\n\nL'atmosfera è quella del bar di paese tradizionale: bancone in legno o laminato, macchina del caffè sempre in funzione, qualche tavolino per chi vuole sedersi, un televisore acceso sulle notizie o sullo sport. La proposta si limita al necessario — caffè, cappuccino, *brioche* al mattino; *spritz*, birra e snack nel pomeriggio — senza fronzoli ma con quella familiarità che difficilmente si trova nei locali delle città. Qui ci si dà del tu, si conoscono le abitudini di tutti, e il barista sa già cosa stai per ordinare.\n\nNon sono disponibili sito web né informazioni dettagliate sull'orario di apertura per questo locale; si consiglia di verificare direttamente sul posto o tramite contatti con il comune.",
+      "metadata": {
+        "section_title": "Bar Centrale",
+        "links": [],
+        "addresses": [
+          "Piazza Angelo Noacco, Conoglano — CAP 33010"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/cassacco__1",
+      "text": "### Albergo Ristorante Pizzeria Bar Sottocastello\n\n**Montegnacco (Martinazzo, Cassacco)**\nViale Udine 15, Montegnacco — CAP 33010\nTel.: +39 0432 851719\n\nL'Albergo Ristorante Pizzeria Bar Sottocastello è la struttura più completa del territorio di Cassacco, un locale dalle molteplici funzioni che combina l'ospitalità alberghiera con la ristorazione, la pizzeria e il servizio bar. Il nome evoca immediatamente il contesto paesaggistico: *sottocastello* significa letteralmente \"sotto il castello\", a indicare la prossimità con un antico maniero o fortilizio che domina il territorio collinare circostante.\n\nIl bar è integrato nella struttura dell'albergo-ristorante, il che significa che serve tanto i clienti di passaggio che si fermano per un caffè o uno *spriz* quanto gli ospiti della struttura e gli avventori che vengono per pranzo o cena. Questo tipo di locale multifunzione è molto comune nelle aree rurali friulane, dove un unico esercizio copre esigenze diverse: colazione, pasto, pernottamento, aperitivo. La proposta al banco segue le linee della tradizione locale, con caffetteria e bevande, ma si avvale anche di quanto la cucina del ristorante riesce a offrire come accompagnamento.\n\nLa posizione lungo Viale Udine, nel versante di Montegnacco, fa di questo locale un punto di sosta anche per chi transita nella zona durante le escursioni o i percorsi ciclistici sulle colline moreniche del Friuli centrale. Il numero di telefono disponibile permette di verificare orari e disponibilità prima di una visita.",
+      "metadata": {
+        "section_title": "Albergo Ristorante Pizzeria Bar Sottocastello",
+        "links": [],
+        "addresses": [
+          "Viale Udine 15, Montegnacco — CAP 33010"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

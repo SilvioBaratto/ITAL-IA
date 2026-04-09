@@ -1,0 +1,52 @@
+{
+  "comune_name": "Bicinicco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bicinicco.md",
+  "extracted_at": "2026-04-09T10:55:15.696Z",
+  "pois": [
+    {
+      "name": "Albergo Trattoria AL TAJ",
+      "address": "Via principale, Sevegliano (UD)",
+      "website_url": "https://www.booking.com/hotel/it/albergo-trattoria-al-taj-sevegliano.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Trattoria%20AL%20TAJ%2C%20Via%20principale%2C%20Sevegliano%20(UD)",
+      "image_url": null,
+      "description": "L'Albergo Trattoria AL TAJ è una storica struttura situata nella frazione di Sevegliano, a pochi passi dal casello autostradale di Palmanova. Propone una cucina friulana autentica, con ingredienti di alta qualità provenienti da aziende locali e attenzione a menu vegetariani e per celiaci. L'ambiente, tipico di un'osteria tradizionale, offre un'esperienza conviviale e genuina, ideale per chi cerca i sapori autentici del Friuli in un contesto familiare.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Pizzeria San Marco Ristorantino Bar",
+      "address": "Via IV Novembre, 21 - Cuccana (UD) 33050",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20San%20Marco%20Ristorantino%20Bar%2C%20Via%20IV%20Novembre%2C%2021%20-%20Cuccana%20(UD)%2033050",
+      "image_url": null,
+      "description": "La Pizzeria San Marco Ristorantino Bar, situata a Cuccana di Bicinicco, offre un ambiente informale dove gustare pizze cotte nel forno a legna e piatti della cucina friulana semplice. È il tipico locale di paese che unisce il servizio di pizzeria, ristorantino e bar, caratterizzato dalla convivialità e da un'atmosfera accogliente. Ideale per una pausa veloce o una serata in compagnia.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Bar Trattoria Al Bassanello",
+      "address": "Via Trieste, 30 (area Bicinicco/Gonars)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Al%20Bassanello%2C%20Via%20Trieste%2C%2030%20(area%20Bicinicco%2FGonars)",
+      "image_url": null,
+      "description": "Il Bar Trattoria Al Bassanello è una trattoria a conduzione familiare situata tra Bicinicco e Gonars, proposta come punto di riferimento per la cucina rurale friulana. Offre piatti tipici semplici, spazi accoglienti accessibili anche a disabili, e servizi come asporto e consegna a domicilio. L'atmosfera è genuina e informale, ideale per riscoprire i sapori autentici della gastronomia locale.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Le Zagare",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Zagare%2C%20Bicinicco",
+      "image_url": null,
+      "description": "Le Zagare è una trattoria inserita nell'elenco dei locali di Bicinicco, nota per l'atmosfera legata alla tradizione mediterranea e ai sapori della campagna friulana. Offre una cucina popolare friulana servita in un ambiente semplice e senza pretese. È una realtà minore che arricchisce l'offerta ristorativa locale.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/bicinicco.md"
+    }
+  ]
+}

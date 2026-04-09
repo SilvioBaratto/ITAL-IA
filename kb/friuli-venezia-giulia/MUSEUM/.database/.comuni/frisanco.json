@@ -1,0 +1,19 @@
+{
+  "comune_name": "Frisanco",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/frisanco.md",
+  "extracted_at": "2026-04-09T10:48:37.590Z",
+  "pois": [
+    {
+      "name": "Mostra \"Da Li Mans di Carlin\"",
+      "address": "Frisanco, 33080 (PN) — contattare il Comune o la Pro Loco Valcolvera per indicazioni precise sulla sede espositiva",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mostra%20%22Da%20Li%20Mans%20di%20Carlin%22%2C%20Frisanco%2C%2033080%20(PN)%20%E2%80%94%20contattare%20il%20Comune%20o%20la%20Pro%20Loco%20Valcolvera%20per%20indicazioni%20precise%20sulla%20sede%20espositiva",
+      "image_url": null,
+      "description": "La Mostra \"Da Li Mans di Carlin\" ospita una ricca raccolta di miniature funzionanti che testimoniano l'antico artigianato e le attività tradizionali della Val Colvera. L'esposizione, realizzata da un artigiano locale conosciuto come Carlin, presenta in scala ridotta luoghi e strumenti storici come carbonaie, mulini, latterie, stalle e chiese, impiegando materiali e tecniche autentiche. Il percorso offre un'immersione nel mondo contadino e montano friulano, enfatizzando il valore storico, artistico ed etnografico delle opere. È un luogo unico che conserva la memoria materiale e immateriale di una comunità attraverso la manualità e la creatività di un solo uomo.",
+      "comune_name": "Frisanco",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/frisanco.md"
+    }
+  ]
+}

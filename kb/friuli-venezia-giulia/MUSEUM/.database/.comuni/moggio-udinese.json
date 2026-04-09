@@ -1,0 +1,63 @@
+{
+  "comune_name": "Moggio Udinese",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moggio-udinese.md",
+  "extracted_at": "2026-04-09T10:51:11.611Z",
+  "pois": [
+    {
+      "name": "Abbazia e Chiesa di San Gallo — Complesso Abbaziale (Moggio di Sopra)",
+      "address": "Via Abbazia, 41 — Moggio di Sopra, 33015 Moggio Udinese (UD)",
+      "website_url": "http://www.comune.moggioudinese.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Abbazia%20e%20Chiesa%20di%20San%20Gallo%20%E2%80%94%20Complesso%20Abbaziale%20(Moggio%20di%20Sopra)%2C%20Via%20Abbazia%2C%2041%20%E2%80%94%20Moggio%20di%20Sopra%2C%2033015%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Il complesso abbaziale di San Gallo è il principale monumento storico di Moggio Udinese e uno dei siti benedettini più rilevanti del Friuli-Venezia Giulia. Fondato nel 1085, l'edificio abbaziale e la chiesa conservano importanti elementi architettonici e artistici, tra cui volte affrescate, una lapide romana e un organo storico. Nonostante non ospiti un museo interno istituzionale, il complesso è visitabile nella sua parte aperta al culto ed è testimone di una profonda stratificazione storica dal periodo romano al barocco.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Palazzo delle Prigioni e Torre Medievale — Architettura civile e giudiziaria (Moggio di Sopra)",
+      "address": "Moggio di Sopra, 33015 Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20delle%20Prigioni%20e%20Torre%20Medievale%20%E2%80%94%20Architettura%20civile%20e%20giudiziaria%20(Moggio%20di%20Sopra)%2C%20Moggio%20di%20Sopra%2C%2033015%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Il Palazzo delle Prigioni è un'antica torre medievale che fu sede dei giudizi abbaziali e, successivamente, carcere comunale. L'edificio rappresenta una testimonianza della storia amministrativa e giudiziaria di Moggio Udinese, documentando il potere signorile dell'abbazia di San Gallo. Pur non essendo allestito come museo, è parte integrante del sistema monumentale visitabile del centro storico.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Eredità Industriale Linussio — Patrimonio Proto-Industriale Tessile (Moggio di Sotto)",
+      "address": "Moggio di Sotto, 33015 Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Eredit%C3%A0%20Industriale%20Linussio%20%E2%80%94%20Patrimonio%20Proto-Industriale%20Tessile%20(Moggio%20di%20Sotto)%2C%20Moggio%20di%20Sotto%2C%2033015%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "Moggio Udinese fu sede, tra il 1717 e il 1790, di uno dei grandi opifici tessili dell'imprenditore Jacopo Linussio, pioniere della proto-industria carnica. Sebbene non restino edifici originali visitabili né vi sia un museo dedicato in loco, la memoria di Linussio e dell'opificio rimane un elemento identitario del paese. Il sito viene considerato una tappa fondamentale nella storia della proto-industria italiana.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Stazione Ferroviaria Storica e Ciclovia Alpe Adria — Patrimonio Industriale e Infrastrutturale",
+      "address": "Via della Stazione, Moggio Udinese (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Stazione%20Ferroviaria%20Storica%20e%20Ciclovia%20Alpe%20Adria%20%E2%80%94%20Patrimonio%20Industriale%20e%20Infrastrutturale%2C%20Via%20della%20Stazione%2C%20Moggio%20Udinese%20(UD)",
+      "image_url": null,
+      "description": "La storica stazione ferroviaria di Moggio Udinese, attiva dal 1877 al 1992 sulla linea Pontebbana, è oggi parte integrante della scenografica Ciclovia Alpe Adria. Il tracciato ferroviario dismesso e la stazione costituiscono un esempio di museo all'aperto di archeologia industriale, testimoniando il ruolo del trasporto alpino e delle infrastrutture nella storia locale.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moggio-udinese.md"
+    },
+    {
+      "name": "Parco Naturale delle Prealpi Giulie — Centro Visitatori e Patrimonio Naturalistico",
+      "address": null,
+      "website_url": "http://www.parcoprealpigiulie.org",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Naturale%20delle%20Prealpi%20Giulie%20%E2%80%94%20Centro%20Visitatori%20e%20Patrimonio%20Naturalistico%2C%20Moggio%20Udinese",
+      "image_url": null,
+      "description": "Il Parco Naturale delle Prealpi Giulie comprende parte del territorio di Moggio Udinese e vanta un ricco patrimonio flora-faunistico con oltre 1.200 specie vegetali e numerosi animali alpini. Le frazioni e montagne del comune offrono scorci di natura e cultura alpina che si presentano come un vero e proprio museo diffuso a cielo aperto. Il centro visitatori principale del parco si trova nel Comune di Resia.",
+      "comune_name": "Moggio Udinese",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/moggio-udinese.md"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "comune_name": "Fagagna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fagagna.md",
+  "extracted_at": "2026-04-09T10:47:32.636Z",
+  "pois": [
+    {
+      "name": "Museo della Vita Contadina in Friuli — Cjase Cocèl",
+      "address": "Via Cjase Cocèl, Fagagna (UD) 33034",
+      "website_url": "https://www.comune.fagagna.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Vita%20Contadina%20in%20Friuli%20%E2%80%94%20Cjase%20Coc%C3%A8l%2C%20Via%20Cjase%20Coc%C3%A8l%2C%20Fagagna%20(UD)%2033034",
+      "image_url": null,
+      "description": "Il Museo della Vita Contadina in Friuli, conosciuto come Cjase Cocèl, rappresenta il principale museo etnografico del territorio ed è tra i più completi del Friuli Venezia Giulia. Ospitato in una storica casa rurale, ricostruisce ambienti tipici della vita contadina come cucina, stalla, granaio, mulino funzionante e una rara latteria cooperativa, offrendo anche esperienze dal vivo di arti e mestieri tradizionali come la lavorazione del ferro, il merletto al tombolo e la tessitura. Il percorso museale è pensato come esperienza immersiva, con laboratori per bambini e adulti e attività didattiche legate alle tradizioni locali. Il museo accoglie famiglie, appassionati e ricercatori ed è punto di riferimento per la cultura rurale friulana.",
+      "comune_name": "Fagagna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/fagagna.md"
+    }
+  ]
+}

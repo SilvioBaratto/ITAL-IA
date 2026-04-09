@@ -1,0 +1,283 @@
+{
+  "comune_name": "Codroipo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md",
+  "extracted_at": "2026-04-09T10:41:03.417Z",
+  "pois": [
+    {
+      "name": "Villa Manin di Passariano",
+      "address": "Frazione Passariano — Piazza Manin 10, 33033 Passariano (Codroipo)",
+      "website_url": "https://www.villamanin.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Manin%20di%20Passariano%2C%20Frazione%20Passariano%20%E2%80%94%20Piazza%20Manin%2010%2C%2033033%20Passariano%20(Codroipo)",
+      "image_url": null,
+      "description": "Villa Manin è il complesso monumentale più importante di Codroipo e uno dei palazzi barocchi più grandiosi del Friuli Venezia Giulia. Costruita tra il XVI e il XVIII secolo dai Manin, fu residenza dell’ultimo Doge di Venezia e quartier generale di Napoleone durante il Trattato di Campoformio. Il complesso include raffinati interni affrescati, ampie barchesse e due piazze scenografiche, ed è oggi sede di mostre, eventi e della Fondazione Roberto Capucci.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Cappella Gentilizia di Sant'Andrea (Villa Manin)",
+      "address": "Frazione Passariano, all'interno del complesso di Villa Manin",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Gentilizia%20di%20Sant'Andrea%20(Villa%20Manin)%2C%20Frazione%20Passariano%2C%20all'interno%20del%20complesso%20di%20Villa%20Manin",
+      "image_url": null,
+      "description": "La cappella di Sant'Andrea, situata all'interno di Villa Manin, fu eretta su progetto di Domenico Rossi nel Settecento come oratorio privato della famiglia Manin. Presenta una facciata classica con colonne binate e interni decorati da altari marmorei e stucchi di grande pregio. Rappresenta uno straordinario esempio di architettura sacra privata barocca friulana.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Duomo Arcipretale di Santa Maria Maggiore",
+      "address": "Centro storico di Codroipo — Piazza del Duomo",
+      "website_url": "http://www.parrocchiacodroipo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20Arcipretale%20di%20Santa%20Maria%20Maggiore%2C%20Centro%20storico%20di%20Codroipo%20%E2%80%94%20Piazza%20del%20Duomo",
+      "image_url": null,
+      "description": "Il duomo di Codroipo è la chiesa principale del comune, con origini risalenti al V secolo e struttura attuale barocca edificata nel XVIII secolo su progetto degli Andrioli. L'interno è riccamente decorato con opere e sculture di pregio e la facciata presenta elementi neoclassici. Custodisce numerose testimonianze artistiche ed è stato oggetto di recenti restauri.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di San Valeriano",
+      "address": "Centro storico di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Valeriano%2C%20Centro%20storico%20di%20Codroipo",
+      "image_url": null,
+      "description": "La chiesa di San Valeriano è uno degli edifici di culto più antichi del paese, intitolata al martire cristiano. Accanto al duomo, ha rappresentato per secoli un centro spirituale per la comunità. L’edificio si distingue per la semplicità e la presenza di decorazioni tipiche della tradizione friulana.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Villa Manin-Kechler (San Martino)",
+      "address": "Frazione San Martino di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Manin-Kechler%20(San%20Martino)%2C%20Frazione%20San%20Martino%20di%20Codroipo",
+      "image_url": null,
+      "description": "Villa Manin-Kechler, costruita nel XVI secolo come palazzina di caccia dai Manin, fu in seguito trasformata in villa nobiliare con parco e filanda per la seta. Ospitò personaggi illustri come Louis Pasteur ed Ernest Hemingway ed è celebre per il suo legame con la storia scientifica e letteraria. L’edificio, ora residenza privata, conserva parco e architetture originali.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Villa Colloredo Mels (Muscletto)",
+      "address": "Frazione Muscletto di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Colloredo%20Mels%20(Muscletto)%2C%20Frazione%20Muscletto%20di%20Codroipo",
+      "image_url": null,
+      "description": "Questa elegante villa di Muscletto appartenne alla nobile famiglia Colloredo ed è un esempio di residenza rurale aristocratica tipica del Friuli. Il complesso riflette la diffusione delle ville venete nella regione e testimonia la stagione storica di fioritura edilizia tra Sei e Settecento.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Villa Mangiarotti",
+      "address": "Centro urbano di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Mangiarotti%2C%20Centro%20urbano%20di%20Codroipo",
+      "image_url": null,
+      "description": "Villa Mangiarotti è una residenza storica legata all’omonima famiglia industriale. Fu coinvolta nei fatti della Seconda Guerra Mondiale quando la vicina fabbrica di munizioni era obiettivo dei bombardamenti alleati. Simbolo della memoria civile, rappresenta la storia industriale novecentesca della città.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Museo Civico delle Carrozze d'Epoca",
+      "address": "Via San Pietro 6 — Frazione San Martino di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Civico%20delle%20Carrozze%20d'Epoca%2C%20Via%20San%20Pietro%206%20%E2%80%94%20Frazione%20San%20Martino%20di%20Codroipo",
+      "image_url": null,
+      "description": "Il Museo Civico delle Carrozze d'Epoca ospita una raccolta di eleganti vetture, calessi e veicoli storici che illustrano la mobilità aristocratica e borghese dal Settecento al primo Novecento. È tra le collezioni più suggestive del territorio e valorizza il patrimonio della villa veneta e del paesaggio agrario locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Museo Archeologico di Codroipo",
+      "address": "Piazzetta Don Vito Zoratti, Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20di%20Codroipo%2C%20Piazzetta%20Don%20Vito%20Zoratti%2C%20Codroipo",
+      "image_url": null,
+      "description": "Il Museo Archeologico raccoglie materiali preistorici, romani e medievali recuperati nel territorio di Codroipo. Propone un percorso sulla lunga storia insediativa locale, con reperti provenienti sia dal centro urbano sia dalle frazioni, offrendo una lettura completa del passato del Medio Friuli.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Il Quadruvium Romano — L'antico crocevia di Codroipo",
+      "address": "Area dell'attuale centro storico di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Quadruvium%20Romano%20%E2%80%94%20L'antico%20crocevia%20di%20Codroipo%2C%20Area%20dell'attuale%20centro%20storico%20di%20Codroipo",
+      "image_url": null,
+      "description": "Il Quadruvium è l’antico incrocio romano tra le vie Postumia e Iulia Augusta che dà il nome a Codroipo. Sebbene non vi siano strutture visibili, il sito testimonia l’importanza strategica del comune durante l’età romana e longobarda come nodo di comunicazione e commercio.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Ponte della Delizia sul Tagliamento",
+      "address": "Imbocco ovest del comune, sulla sponda orientale del Tagliamento (raccordo con Valvasone Arzene, PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ponte%20della%20Delizia%20sul%20Tagliamento%2C%20Imbocco%20ovest%20del%20comune%2C%20sulla%20sponda%20orientale%20del%20Tagliamento%20(raccordo%20con%20Valvasone%20Arzene%2C%20PN)",
+      "image_url": null,
+      "description": "Il Ponte della Delizia collega Codroipo a Valvasone Arzene attraversando il Tagliamento. Moderno, inaugurato nel 1990, il sito fu teatro di episodi storici tra cui la battaglia del 1797 e la drammatica ritirata dell’esercito italiano nel 1917. Resti e memorie commemorano le vicende belliche e la storia locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo (Passariano)",
+      "address": "Frazione Passariano di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20(Passariano)%2C%20Frazione%20Passariano%20di%20Codroipo",
+      "image_url": null,
+      "description": "La chiesa di Sant'Andrea Apostolo è la parrocchiale di Passariano, strettamente legata alla storia di Villa Manin. L’edificio presenta le caratteristiche delle chiese rurali friulane con successive stratificazioni ed è un punto di riferimento per la comunità locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di San Michele Arcangelo (Rivolto)",
+      "address": "Frazione Rivolto di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20(Rivolto)%2C%20Frazione%20Rivolto%20di%20Codroipo",
+      "image_url": null,
+      "description": "Questa chiesa parrocchiale è dedicata a San Michele Arcangelo, patrono di Rivolto. Rappresenta il centro spirituale storico della frazione, che fu comune autonomo fino al 1928 e oggi è nota anche per la presenza della base delle Frecce Tricolori.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa dei Santi Giacomo e Martino (Biauzzo)",
+      "address": "Frazione Biauzzo di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Giacomo%20e%20Martino%20(Biauzzo)%2C%20Frazione%20Biauzzo%20di%20Codroipo",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Biauzzo è dedicata ai Santi Giacomo e Martino. L’edificio, di origini medievali e ampliato in età barocca, rientra nell’antica tradizione delle chiese campestri del Friuli ed è punto di raccordo della devozione popolare locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di San Bartolomeo (Goricizza)",
+      "address": "Frazione Goricizza di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Bartolomeo%20(Goricizza)%2C%20Frazione%20Goricizza%20di%20Codroipo",
+      "image_url": null,
+      "description": "La chiesa di San Bartolomeo è il fulcro religioso della frazione di Goricizza. Dedicata all’apostolo venerato nel Friuli, rappresenta un importante segno dell’identità e della coesione della comunità agricola locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di Santa Giustina (Pozzo)",
+      "address": "Frazione Pozzo di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Giustina%20(Pozzo)%2C%20Frazione%20Pozzo%20di%20Codroipo",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Pozzo è dedicata a Santa Giustina di Padova, riflettendo i legami devozionali ed economici con il Veneto. L’edificio testimonia una tradizione religiosa consolidata nella zona orientale del Friuli.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Addolorata (Zompicchia)",
+      "address": "Frazione Zompicchia di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Addolorata%20(Zompicchia)%2C%20Frazione%20Zompicchia%20di%20Codroipo",
+      "image_url": null,
+      "description": "Questa chiesa parrocchiale, dedicata alla Madonna Addolorata, risale alla tradizione controriformista seicentesca ed è situata nella frazione di Zompicchia, antica pieve della bassa pianura. Rappresenta un elemento significativo del paesaggio religioso locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di Santa Caterina (Lonca)",
+      "address": "Frazione Lonca di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Caterina%20(Lonca)%2C%20Frazione%20Lonca%20di%20Codroipo",
+      "image_url": null,
+      "description": "La chiesa di Santa Caterina d'Alessandria, semplice edificio campestre, è la parrocchiale della piccola frazione di Lonca. È uno dei più antichi luoghi di culto cristiano della zona e aggrega tuttora la comunità rurale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Chiesa di San Martino (Muscletto)",
+      "address": "Frazione Muscletto di Codroipo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20(Muscletto)%2C%20Frazione%20Muscletto%20di%20Codroipo",
+      "image_url": null,
+      "description": "Chiesa parrocchiale di Muscletto dedicata a San Martino Vescovo, situata nel cuore della frazione in associazione con Villa Colloredo Mels. Simbolo della continuità insediativa della campagna friulana, rappresenta il centro comunitario locale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Base Aerea di Rivolto — Sede delle Frecce Tricolori",
+      "address": "Frazione Rivolto di Codroipo — Strada Statale 13 Pontebbana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Base%20Aerea%20di%20Rivolto%20%E2%80%94%20Sede%20delle%20Frecce%20Tricolori%2C%20Frazione%20Rivolto%20di%20Codroipo%20%E2%80%94%20Strada%20Statale%2013%20Pontebbana",
+      "image_url": null,
+      "description": "La Base Aerea di Rivolto, intitolata al Cap. Mario Visintini, dal 1940 è sede della Pattuglia Acrobatica Nazionale Frecce Tricolori. Punto di riferimento per appassionati di aviazione, la base è nota per le esibizioni acrobatiche e, durante gli Open Day, il pubblico può visitare gli spazi museali e i velivoli.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Parco delle Risorgive di Codroipo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20delle%20Risorgive%20di%20Codroipo%2C%20Codroipo",
+      "image_url": null,
+      "description": "Il Parco delle Risorgive è un’area naturale protetta a sud di Codroipo che conserva l’ecosistema originario della pianura friulana con risorgive, rogge e stagni. Propone sentieri e paesaggi tipici del Friuli pre-industriale e collega la città ad un percorso ciclopedonale del Medio Friuli.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Museo del Vino — Vigneti Pittaro",
+      "address": "Via Udine 67 — Frazione Zompicchia di Codroipo",
+      "website_url": "http://www.pittaro.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Vino%20%E2%80%94%20Vigneti%20Pittaro%2C%20Via%20Udine%2067%20%E2%80%94%20Frazione%20Zompicchia%20di%20Codroipo",
+      "image_url": null,
+      "description": "All'interno della cantina Vigneti Pittaro a Zompicchia si trova il Museo del Vino, dedicato alla storia della viticoltura in Friuli. Espone strumenti, documenti e bottiglie storiche, offrendo una panoramica delle tradizioni vitivinicole locali e abbinando la visita a degustazioni.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Cortina di Beano — Resti della Cinta Difensiva Medievale",
+      "address": "Frazione Beano di Codroipo — a sud dell'abitato, presso la SS13 Pontebbana",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cortina%20di%20Beano%20%E2%80%94%20Resti%20della%20Cinta%20Difensiva%20Medievale%2C%20Frazione%20Beano%20di%20Codroipo%20%E2%80%94%20a%20sud%20dell'abitato%2C%20presso%20la%20SS13%20Pontebbana",
+      "image_url": null,
+      "description": "A Beano si trovano i resti della cortina difensiva medievale eretta nel XIV secolo contro le incursioni turche. Nonostante siano visibili solo poche tracce, il sito conserva grande valore storico, rappresentando uno dei luoghi più antichi e stratificati del territorio comunale.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Parco Storico di Villa Manin",
+      "address": "Frazione Passariano di Codroipo — retro del corpo principale della villa",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Storico%20di%20Villa%20Manin%2C%20Frazione%20Passariano%20di%20Codroipo%20%E2%80%94%20retro%20del%20corpo%20principale%20della%20villa",
+      "image_url": null,
+      "description": "Il parco storico di Villa Manin si estende per 18 ettari alle spalle del complesso monumentale, con percorsi, alberi maestosi e specchi d’acqua. Frutto di successive trasformazioni dal giardino formale all’inglese, ospita eventi culturali e concerti ed è incluso nell’itinerario della villa.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    },
+    {
+      "name": "Fiera di San Simone — Memoria di un mercato secolare",
+      "address": "Centro di Codroipo — ottobre di ogni anno",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fiera%20di%20San%20Simone%20%E2%80%94%20Memoria%20di%20un%20mercato%20secolare%2C%20Centro%20di%20Codroipo%20%E2%80%94%20ottobre%20di%20ogni%20anno",
+      "image_url": null,
+      "description": "La Fiera di San Simone è un importante evento storico della tradizione codroipese, celebrato in ottobre. È l’erede del secolare mercato di bestiame che fino agli anni Settanta rappresentava il più grande della regione, oggi affiancato da premi letterari legati alla cultura friulana.",
+      "comune_name": "Codroipo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/codroipo.md"
+    }
+  ]
+}

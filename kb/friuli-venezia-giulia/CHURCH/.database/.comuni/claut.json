@@ -1,0 +1,30 @@
+{
+  "comune_name": "Claut",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/claut.md",
+  "extracted_at": "2026-04-09T10:22:54.496Z",
+  "pois": [
+    {
+      "name": "Chiesa Arcipretale di San Giorgio Martire",
+      "address": "Piazza San Giorgio, 4 – 33080 Claut (PN)",
+      "website_url": "https://www.pordenonewithlove.it/it/cosa-fare/cultura/architetture/chiesa-parrocchiale-di-s-giorgio-martire",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Arcipretale%20di%20San%20Giorgio%20Martire%2C%20Piazza%20San%20Giorgio%2C%204%20%E2%80%93%2033080%20Claut%20(PN)",
+      "image_url": null,
+      "description": "La Chiesa Arcipretale di San Giorgio Martire è il principale edificio sacro di Claut, costruito in stile neoclassico tra il 1820 e il 1828 e consacrato nel 1851. Si distingue per la maestosa facciata a capanna, l'interno a navata unica, il campanile di 37 metri e un ricco patrimonio artistico che include altari lignei della bottega Auregne, pale d'altare di Ambrogio Chelm e affreschi di Tiburzio Donadon. L'edificio ha svolto un ruolo centrale nella vita religiosa e comunitaria del paese, testimoniando la devozione e la tradizione artistica locale. Restaurata più volte, ospita opere dal XVII al XX secolo ed è parte del patrimonio della Diocesi di Concordia-Pordenone.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/claut.md"
+    },
+    {
+      "name": "Cappelle Votive e Oratori delle Frazioni",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappelle%20Votive%20e%20Oratori%20delle%20Frazioni%2C%20Claut",
+      "image_url": null,
+      "description": "Il territorio di Claut è costellato da numerose cappelle votive e oratori rurali, realizzati tra il XVII e il XIX secolo nelle frazioni e lungo i sentieri di montagna. Questi piccoli edifici, spesso dedicati alla Vergine o ai santi locali, presentano architetture semplici e interni sobri che rispecchiano la cultura alpina. Alcune custodiscono pale d'altare, statue in legno o affreschi devozionali eseguiti da artigiani locali, contribuendo a una diffusa rete di spiritualità popolare. Rappresentano tappe significative nel percorso devozionale delle comunità disseminate nella valle.",
+      "comune_name": "Claut",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/claut.md"
+    }
+  ]
+}

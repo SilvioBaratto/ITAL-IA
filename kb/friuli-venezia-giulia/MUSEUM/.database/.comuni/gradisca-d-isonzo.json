@@ -1,0 +1,41 @@
+{
+  "comune_name": "Gradisca D Isonzo",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gradisca-d-isonzo.md",
+  "extracted_at": "2026-04-09T10:49:16.413Z",
+  "pois": [
+    {
+      "name": "Galleria Regionale d'Arte Contemporanea \"Luigi Spazzapan\"",
+      "address": "Via Ciotti 51 (Palazzo Torriani), 34072 Gradisca d'Isonzo (GO)",
+      "website_url": "http://www.comune.gradiscadisonzo.go.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Galleria%20Regionale%20d'Arte%20Contemporanea%20%22Luigi%20Spazzapan%22%2C%20Via%20Ciotti%2051%20(Palazzo%20Torriani)%2C%2034072%20Gradisca%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "La Galleria Spazzapan, ospitata nel prestigioso Palazzo Torriani, celebra la memoria del pittore Luigi Spazzapan, figura centrale dell'arte informale e dell'astrattismo italiano. Dal 1977 propone una collezione permanente di opere del maestro e di artisti friulani e giuliani del Novecento, accanto a mostre temporanee di arte contemporanea. L'edificio e le raccolte rappresentano il cuore culturale della città, offrendo un affascinante percorso tra storia, architettura e arte moderna.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Museo Documentario della Città",
+      "address": "Via della Campagnola 18 (Casa Maccari), 34072 Gradisca d'Isonzo (GO)",
+      "website_url": "http://www.comune.gradiscadisonzo.go.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Documentario%20della%20Citt%C3%A0%2C%20Via%20della%20Campagnola%2018%20(Casa%20Maccari)%2C%2034072%20Gradisca%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Il Museo Documentario della Città, situato in Casa Maccari, ripercorre la storia di Gradisca dalle origini alla contemporaneità, con particolare attenzione ai periodi veneziano, asburgico e delle guerre mondiali. Espone reperti lapidei di varie epoche, armi, una raccolta numismatica, dipinti barocchi e oggettistica locale, offrendo un'introduzione approfondita al patrimonio storico gradiscano. Condivide la sede con la Biblioteca Comunale e l'Archivio Storico, risorsa preziosa per chi indaga le radici della città.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gradisca-d-isonzo.md"
+    },
+    {
+      "name": "Lapidario Civico",
+      "address": "Via Battisti (Loggia dei Mercanti), 34072 Gradisca d'Isonzo (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Lapidario%20Civico%2C%20Via%20Battisti%20(Loggia%20dei%20Mercanti)%2C%2034072%20Gradisca%20d'Isonzo%20(GO)",
+      "image_url": null,
+      "description": "Il Lapidario Civico, ospitato al piano terreno della Loggia dei Mercanti, raccoglie epigrafi, lapidi funerarie e iscrizioni commemorative rinvenute a Gradisca. Le testimonianze, che spaziano dall'antichità tardo-romana al Seicento, riflettono la stratificazione culturale della città e la sua natura plurilingue. Tra i reperti spicca la lapide di Francesco Ulderico della Torre, importante capitano cittadino del Seicento. Il lapidario è un luogo evocativo che restituisce la memoria delle generazioni gradiscane.",
+      "comune_name": "Gradisca D Isonzo",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gradisca-d-isonzo.md"
+    }
+  ]
+}

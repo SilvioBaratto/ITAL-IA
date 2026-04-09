@@ -1,0 +1,63 @@
+{
+  "comune_name": "Grimacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grimacco.md",
+  "extracted_at": "2026-04-09T10:28:08.602Z",
+  "pois": [
+    {
+      "name": "Chiesa di Santa Maria del Buon Consiglio — Liessa",
+      "address": null,
+      "website_url": "http://www.comune.grimacco.ud.it/portale/cms/Cultura/Associazioni/associazioni4.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20del%20Buon%20Consiglio%20%E2%80%94%20Liessa%2C%20Grimacco",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Liessa, principale luogo di culto del comune di Grimacco, venne eretta nel 1830 in stile neoclassico, inglobando l'abside di una cappella seicentesca. Danneggiata dal terremoto del 1976, fu successivamente restaurata e adeguata liturgicamente. L'edificio ospita pregevoli mosaici, vetrate artistiche e uno storico organo a 27 canne del 1841. La parrocchia è celebre per le tradizioni religiose slovene, come il festival Senjam Beneške Piesmi e la Novena di Natale.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grimacco.md"
+    },
+    {
+      "name": "Chiesa di San Michele Arcangelo — Topolò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Topol%C3%B2%2C%20Grimacco",
+      "image_url": null,
+      "description": "Situata sulla sommità di Topolò, la chiesa di San Michele Arcangelo fu costruita nel 1847 dalla comunità locale in stile popolare slavo-friulano. L'edificio è ornato da un mosaico raffigurante San Cristoforo e presenta tre altari, tra cui una moderna pala in terracotta sulla Natività realizzata nel 2006. La chiesa è profondamente legata all'identità della frazione e ospita eventi culturali e artistici, tra cui la rassegna internazionale Stazione di Topolò.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grimacco.md"
+    },
+    {
+      "name": "Cappella di San Martino Vescovo — Monte San Martino",
+      "address": null,
+      "website_url": "http://www.krivapeta.it/chiese_cerkve/san%20martinoc.htm",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Martino%20Vescovo%20%E2%80%94%20Monte%20San%20Martino%2C%20Grimacco",
+      "image_url": null,
+      "description": "La cappella di San Martino, edificata in stile romanico nel XIII secolo sulla vetta del Monte San Martino, è il luogo di culto più antico del comune di Grimacco. Citata già nel 1299 e consacrata nel 1485, domina un sito di grande valore storico e strategico, testimoniato da ritrovamenti archeologici antichi. La cappella è al centro di sagre votive locali e processioni, ed è raggiungibile a piedi tramite sentieri panoramici.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grimacco.md"
+    },
+    {
+      "name": "Cappella di San Mattia Apostolo — Costne",
+      "address": null,
+      "website_url": "http://www.alpiprealpigiulie.eu/Chiesette-votive.455.0.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Mattia%20Apostolo%20%E2%80%94%20Costne%2C%20Grimacco",
+      "image_url": null,
+      "description": "Sorta nel XIV secolo sulla sommità nei pressi di Costne, questa cappella medievale fu restaurata dopo i terremoti del XVI secolo e conserva l’impianto rurale originario. Il sito, ricco di reperti archeologici romani e preromani, è meta di una sagra votiva paesana della Slavia veneta. La trifora campanaria è frutto di un intervento recente, mentre il luogo riflette la continuità della devozione popolare locale.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grimacco.md"
+    },
+    {
+      "name": "Madonnina di Liessa — Edicola votiva sul Cosizza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Madonnina%20di%20Liessa%20%E2%80%94%20Edicola%20votiva%20sul%20Cosizza%2C%20Grimacco",
+      "image_url": null,
+      "description": "Presso la cascata del torrente Cosizza vicino all’abitato di Liessa si trova una piccola statua della Madonna, tipica edicola votiva delle Valli del Natisone. Luogo di suggestione e devozione popolare, la Madonnina di Liessa rappresenta la fusione tra spiritualità rurale e paesaggio naturale della Slavia veneta.",
+      "comune_name": "Grimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/grimacco.md"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/ronchis.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Ronchis",
+  "province": "UD",
+  "page_title": "Ronchis",
+  "page_summary": "Guida ai principali ristoranti e punti ristoro del comune di Ronchis, tra cui un ristorante-birreria con giardino estivo e un bar di frazione con cucina informale.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchis.md",
+  "processed_at": "2026-04-09T13:54:16.548Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ronchis__0",
+      "text": "### Il Biergarten\n\n**Indirizzo:** Via della Levata 4, Ronchis (UD)\n**Telefono:** +39 0431 567210\n**Sito web:** [www.ilbiergarten.com](http://www.ilbiergarten.com)\n**Tipo:** Ristorante birreria con giardino estivo\n\nIl Biergarten di Ronchis è un locale che colpisce per la sua particolarità nel contesto della Bassa Friulana: un ristorante-birreria all'aperto (il nome tedesco _Biergarten_ significa letteralmente \"giardino della birra\") che porta in questo angolo di pianura friulana una formula conviviale ispirata alla tradizione austro-germanica, tanto cara alla cultura di confine del Friuli. Non si tratta di una semplice coincidenza: il Friuli Venezia Giulia è storicamente una terra di incontro tra culture latine, slave e germaniche, e il retaggio asburgico ha lasciato tracce profonde nella gastronomia e nelle abitudini a tavola di questa regione, soprattutto nella parte settentrionale ma con echi che arrivano fino alla pianura.\n\nIl locale dispone di un sito web sviluppato con tecnologie moderne (Angular), segno di una gestione attenta alla comunicazione digitale, e si propone come punto di ritrovo per gli abitanti di Ronchis e dei paesi limitrofi. La formula del biergarten si presta particolarmente alle serate estive nella pianura friulana, quando il caldo umido che sale dal Tagliamento rende piacevole stare all'aperto tra tavoli di legno, birre artigianali o industriali, e proposte di cucina che spaziano tra tradizioni diverse.\n\n**Fascia di prezzo:** €–€€ (informale, adatto a famiglie e gruppi)",
+      "metadata": {
+        "section_title": "Il Biergarten",
+        "links": [
+          {
+            "text": "www.ilbiergarten.com",
+            "url": "http://www.ilbiergarten.com"
+          }
+        ],
+        "addresses": [
+          "Via della Levata 4, Ronchis (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€–€€ (informale, adatto a famiglie e gruppi)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/ronchis__1",
+      "text": "### Bar Ai Pini\n\n**Zona:** Frazioni/periferia di Ronchis (Fraforeano)\n**Tipo:** Bar con possibile ristorazione informale\n\nNella frazione di Fraforeano, parte integrante del comune di Ronchis, è segnalato il bar \"Ai Pini\", un locale di paese che svolge la funzione tipica del bar friulano di provincia: punto di ritrovo mattutino per caffè e brioche, luogo di socialità per i roncolini, e spesso anche piccolo spaccio di generi alimentari. In molti bar della Bassa Friulana è ancora possibile trovare, nelle ore di pranzo, proposte semplici e genuine come panini farciti, primi piatti del giorno (spesso pasta o riso in brodo), o taglieri di salumi e formaggi locali. Non è raro che questi piccoli bar di paese conservino, nella loro informalità, i sapori più autentici della cucina domestica friulana.\n\n**Fascia di prezzo:** € (solo spuntini e pasti informali)",
+      "metadata": {
+        "section_title": "Bar Ai Pini",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (solo spuntini e pasti informali)"
+      }
+    }
+  ]
+}

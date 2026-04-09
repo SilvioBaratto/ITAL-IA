@@ -1,0 +1,63 @@
+{
+  "comune_name": "Pinzano al Tagliamento",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pinzano-al-tagliamento.md",
+  "extracted_at": "2026-04-09T11:11:29.120Z",
+  "pois": [
+    {
+      "name": "Trattoria da Ivana & Secondo",
+      "address": "Via Manazzons, 62",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Ivana%20%26%20Secondo%2C%20Via%20Manazzons%2C%2062",
+      "image_url": null,
+      "description": "La Trattoria da Ivana & Secondo è il punto di riferimento della scena gastronomica locale, celebre per la terrazza panoramica e un'atmosfera elegante e familiare. La cucina offre piatti tipici friulani sia in versione classica sia reinterpretata, accompagnata da una straordinaria selezione di oltre 350 etichette di vini, con particolare attenzione ai produttori locali e ai vini naturali. Il servizio è curato, i prezzi sono onesti e la clientela spazia dai residenti ai visitatori. La valutazione positiva su TripAdvisor riflette l'alta qualità proposta.",
+      "comune_name": "Pinzano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pinzano-al-tagliamento.md"
+    },
+    {
+      "name": "Birreria Mondial",
+      "address": "Via Manazzons",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birreria%20Mondial%2C%20Via%20Manazzons",
+      "image_url": null,
+      "description": "La Birreria Mondial offre un ambiente giovane e informale, specializzato in birre artigianali e cucina semplice, come hamburger e ali di pollo. È il locale ideale per chi cerca una pausa rilassata senza formalità, con una proposta gastronomica perfetta per accompagnare una buona birra e qualche stuzzichino.",
+      "comune_name": "Pinzano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pinzano-al-tagliamento.md"
+    },
+    {
+      "name": "Da Lollo Pizzeria e Paninoteca",
+      "address": "Via Tagliamento",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Lollo%20Pizzeria%20e%20Paninoteca%2C%20Via%20Tagliamento",
+      "image_url": null,
+      "description": "Da Lollo Pizzeria e Paninoteca è una recente apertura che unisce pizzeria e paninoteca, con possibilità di consumo sia all'interno che all'esterno, oltre al servizio di asporto e delivery. Il menu include pizze tradizionali, panini con ingredienti selezionati e una proposta adatta ai bambini, pensata per famiglie e chi desidera qualità in un ambiente informale.",
+      "comune_name": "Pinzano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pinzano-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria Strolic (frazione Valeriano)",
+      "address": "Via Roma 42",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Strolic%20(frazione%20Valeriano)%2C%20Via%20Roma%2042",
+      "image_url": null,
+      "description": "Situata nella frazione Valeriano, la Pizzeria Strolic è una pizzeria di paese che segue la tradizione italiana della pizza al forno a legna. Il locale si distingue per la genuinità dei suoi ingredienti, gli impasti lievitati correttamente e l'atmosfera semplice e autentica, offrendo un'esperienza classica senza fronzoli.",
+      "comune_name": "Pinzano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pinzano-al-tagliamento.md"
+    },
+    {
+      "name": "Azienda Agricola Antica Dimora Di Pognici Luciano (frazione Valeriano)",
+      "address": "Via Roma 87, a Valeriano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Azienda%20Agricola%20Antica%20Dimora%20Di%20Pognici%20Luciano%20(frazione%20Valeriano)%2C%20Via%20Roma%2087%2C%20a%20Valeriano",
+      "image_url": null,
+      "description": "L'Azienda Agricola Antica Dimora Di Pognici Luciano propone un'esperienza di ristorazione immersa nella campagna friulana, utilizzando materie prime coltivate in azienda. Offre una cucina locale genuina, ideale per chi desidera assaporare i prodotti del territorio in un contesto agricolo autentico.",
+      "comune_name": "Pinzano al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pinzano-al-tagliamento.md"
+    }
+  ]
+}

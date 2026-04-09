@@ -1,0 +1,140 @@
+{
+  "comune_name": "Duino Aurisina",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md",
+  "extracted_at": "2026-04-09T11:00:59.884Z",
+  "pois": [
+    {
+      "name": "Trattoria da Gino",
+      "address": "Località Sistiana 59",
+      "website_url": "https://www.daginotrattoria.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Gino%2C%20Localit%C3%A0%20Sistiana%2059",
+      "image_url": null,
+      "description": "La Trattoria da Gino è un ristorante storico vicino alla baia di Sistiana, con oltre cento anni di tradizione friulana. L'offerta gastronomica è incentrata sul pesce fresco, con piatti stagionali che riflettono le catture del giorno. L'atmosfera è familiare e accogliente, arricchita da un giardino caratteristico dove gustare le specialità locali in un contesto tranquillo.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Albergo Ristorante al Pescatore",
+      "address": "Loc. Duino 69",
+      "website_url": "https://www.albergoalpescatore.net/servizi",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20al%20Pescatore%2C%20Loc.%20Duino%2069",
+      "image_url": null,
+      "description": "L'Albergo Ristorante al Pescatore offre una cucina specializzata in piatti di pesce freschissimo in un'atmosfera rustica e familiare. Situato nel villaggio storico di Duino vicino al castello, propone sia ricette locali sia nazionali, preparate secondo la tradizione e servite anche nel suggestivo giardino esterno. L’ambiente tranquillo e la qualità delle materie prime rendono l’esperienza unica e rilassante.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Ristorante Il Gabbiano",
+      "address": "Villaggio del Pescatore 103",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Il%20Gabbiano%2C%20Villaggio%20del%20Pescatore%20103",
+      "image_url": null,
+      "description": "Il Ristorante Il Gabbiano è noto per la sua cucina specializzata in pesce secondo le tradizioni friulane e costiere, offrendo piatti a base di ingredienti ittici freschi. Il locale dispone di ambienti spaziosi interni ed esterni con una piacevole vista sul mare, e il personale è disponibile nel suggerire le migliori proposte del giorno. L'atmosfera è rilassata e ideale per gustare le specialità della zona in tranquillità.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Maxi's Restaurant & Bar",
+      "address": "Strada Costiera km 137 a Sistiana",
+      "website_url": "https://maxisrestaurant.it/en/home-en/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Maxi's%20Restaurant%20%26%20Bar%2C%20Strada%20Costiera%20km%20137%20a%20Sistiana",
+      "image_url": null,
+      "description": "Maxi's Restaurant & Bar sorge in una suggestiva posizione panoramica sul mare Adriatico, vicino al Castello di Duino e alle Falesie. La cucina segue la tradizione mediterranea con influenze contemporanee, offrendo piatti creativi in un ambiente elegante ma informale. Possibilità di pranzare accanto alla piscina o cenare sulla spiaggia, completata da un beach bar raffinato. Il locale gode di una buona reputazione su TripAdvisor.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Osteria Il Pettirosso",
+      "address": "Località Santa Croce 16",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Il%20Pettirosso%2C%20Localit%C3%A0%20Santa%20Croce%2016",
+      "image_url": null,
+      "description": "L'Osteria Il Pettirosso è famosa per la cucina tipica del Carso, con proposte che spaziano dalla tradizione triestina alle influenze mitteleuropee. Gestita da Chef Emiliano e dalla moglie Maria Grazia, l'ambiente dispone di una terrazza con pergolato e sale interne accoglienti. Il menu include antipasti generosi, carni, pesce e piatti innovativi che reinterpretano la cucina locale con tecniche contemporanee.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Al Cavalluccio",
+      "address": "Frazione Duino 61/d",
+      "website_url": "http://www.alcavalluccio.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cavalluccio%2C%20Frazione%20Duino%2061%2Fd",
+      "image_url": null,
+      "description": "Al Cavalluccio è rinomato per la cucina semplice e autentica a base di pesce fresco, servito con vista sul mare dalla terrazza panoramica. Le specialità includono carpacci di pesce, antipasti di mare e il celebre 'Gratinato misto'. Il locale propone un'esperienza conviviale accompagnata da una selezione curata di vini e piatti che celebrano le tradizioni costiere locali.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Locanda Gaudemus",
+      "address": "Via Sistiana 57",
+      "website_url": "https://www.gaudemus.com/en/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Gaudemus%2C%20Via%20Sistiana%2057",
+      "image_url": null,
+      "description": "Locanda Gaudemus nasce dalla ristrutturazione di una vecchia residenza, oggi boutique hotel con ristorante gourmet e terrazza panoramica. La cucina creativa predilige pesce e frutti di mare locali, abbinando eccellenza regionale a influenze mediterranee. Storia e charme si mescolano in una location incantevole, a pochi metri dal sentiero Rilke e dalle spiagge. Riconosciuta con 86 punti Falstaff, rappresenta un’eccellenza gastronomica.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Trattoria-Gostilna Sardoč",
+      "address": "Frazione Precenico 1/b",
+      "website_url": "https://www.sardoc.eu/?lang=en",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria-Gostilna%20Sardo%C4%8D%2C%20Frazione%20Precenico%201%2Fb",
+      "image_url": null,
+      "description": "La Trattoria-Gostilna Sardoč offre una cucina carsolina autentica con pane, pasta e gnocchi fatti in casa secondo antiche ricette. Famosa per la carne alla griglia su carbone di legna, propone anche opzioni vegetariane, vegane e senza glutine. Il locale è ampio, con sala interna e grande giardino, e ha rappresentato la cucina del Carso all’Expo di Milano. È considerato un punto di riferimento per la tradizione locale.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Ristorante San Mauro",
+      "address": "Sistiana 122 a Duino Aurisina",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20San%20Mauro%2C%20Sistiana%20122%20a%20Duino%20Aurisina",
+      "image_url": null,
+      "description": "Il Ristorante San Mauro propone una cucina tradizionale con numerose specialità di pesce in porzioni generose e dai prezzi economici. Atmosfera accogliente e adatta alle famiglie, il personale si distingue per la cortesia e la dedizione. Le proposte più richieste includono Spaghetti allo Scoglio, Frittura Mista e Antipasti di pesce. Il ristorante organizza anche eventi e celebrazioni private.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Gruden Ristorante Residence",
+      "address": "Localita' San Pelagio 49",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gruden%20Ristorante%20Residence%2C%20Localita'%20San%20Pelagio%2049",
+      "image_url": null,
+      "description": "Gruden Ristorante Residence, attivo dal 1904, fonde la tradizione familiare con la cucina dell'altopiano carsico. Il menu è specializzato in selvaggina e piatti tipici friulani come i maltagliati con ragù d'anatra e antipasti misti locali. Il personale cordiale, la selezione di vini regionali e l’attenzione alle esigenze degli ospiti caratterizzano questo accogliente locale della zona.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Ristorante Alla Conchiglia",
+      "address": "Villaggio Del Pescatore 72",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Alla%20Conchiglia%2C%20Villaggio%20Del%20Pescatore%2072",
+      "image_url": null,
+      "description": "Il Ristorante Alla Conchiglia è specializzato nella cucina di pesce, offrendo piatti sia cotti che crudi in formula 'all you can eat'. Gli amanti del pesce crudo troveranno ostriche, ricci e altre delizie servite senza limiti. Il locale, arredato con cura, propone una spesa media di circa 40 euro a persona (escluso vino) ed è ideale per chi desidera un’esperienza tutta marina e valorizza il pescato fresco dell’Adriatico.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Osteria Franz Josef Stube",
+      "address": "Località Stazione Aurisina 39",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Franz%20Josef%20Stube%2C%20Localit%C3%A0%20Stazione%20Aurisina%2039",
+      "image_url": null,
+      "description": "L'Osteria Franz Josef Stube si trova nell'antico stazionamento ferroviario di Aurisina e rende omaggio all’imperatore Francesco Giuseppe I. Il locale, dall'atmosfera storica e suggestiva, propone cucina austro-ungarica con piatti come Wiener Schnitzel, jota e cotolette di Lubiana. L’ambiente informale ed accogliente è ideale per vivere un’esperienza culinaria unica in un contesto storico dal fascino particolare.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/duino-aurisina.md"
+    }
+  ]
+}

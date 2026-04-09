@@ -1,0 +1,19 @@
+{
+  "comune_name": "Tramonti di Sopra",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tramonti-di-sopra.md",
+  "extracted_at": "2026-04-09T11:21:18.337Z",
+  "pois": [
+    {
+      "name": "Agriturismo Borgo Titol",
+      "address": "Località Borgo Titol, 33090 Tramonti di Sopra Val Tramontina (PN)",
+      "website_url": "https://www.borgotitol.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Borgo%20Titol%2C%20Localit%C3%A0%20Borgo%20Titol%2C%2033090%20Tramonti%20di%20Sopra%20Val%20Tramontina%20(PN)",
+      "image_url": null,
+      "description": "L'Agriturismo Borgo Titol è il principale punto di riferimento gastronomico di Tramonti di Sopra, situato in un antico borgo rurale immerso nel Parco delle Dolomiti Friulane. Gestito dalla famiglia Bier-Zhang, offre una cucina che unisce tradizione friulana e influenze orientali, con piatti preparati principalmente da ingredienti di autoproduzione. La specialità è la Pitina IGP prodotta in loco, accompagnata da formaggi artigianali e salumi di propria produzione, e il menù cambia con le stagioni secondo la disponibilità dell'orto e dell'allevamento. L'ambiente è genuino e familiare, i prezzi contenuti e il ristorante è aperto nei fine settimana o su prenotazione, oltre che tutti i giorni nei mesi estivi.",
+      "comune_name": "Tramonti di Sopra",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tramonti-di-sopra.md"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "comune_name": "Grado",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md",
+  "extracted_at": "2026-04-09T11:04:26.919Z",
+  "pois": [
+    {
+      "name": "Agli Artisti",
+      "address": "Campo Porta Grande, 2, 34073 Grado (GO)",
+      "website_url": "https://www.ristoranteagliartisti.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agli%20Artisti%2C%20Campo%20Porta%20Grande%2C%202%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Situato nel cuore del centro storico di Grado, Agli Artisti è un ristorante rinomato per l'attenzione alla tradizione culinaria locale, con il pesce come protagonista assoluto del menu. Famoso per il celebre boreto declinato in più varianti, propone anche piatti stagionali creativi e dolci fatti in casa. L'atmosfera è elegante e sobria, perfetta per chi cerca autenticità ed eccellenza culinaria nella cucina gradese.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Da Ovidio",
+      "address": "Via Marina, 36, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Ovidio%2C%20Via%20Marina%2C%2036%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Gestito dalla famiglia Boemo da quattro generazioni, Da Ovidio è un punto di riferimento per la cucina gradese tradizionale a base di pesce. Il menu offre specialità come Boreto alla gradese con polenta bianca, tagliolini agli scampi alla busera, sarde in savor e gnocchetti con fasolari. L'ambiente è accogliente sia all'interno che all'esterno e la proposta enogastronomica è radicata nel territorio friulano.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Trattoria De Toni",
+      "address": "Piazza Duca D'Aosta, 37, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20De%20Toni%2C%20Piazza%20Duca%20D'Aosta%2C%2037%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Fondata nel dopoguerra e gestita dalla famiglia Gaddi, la trattoria De Toni è celebre per l'atmosfera rustica e familiare, oltre che per l'autenticità delle sue specialità di pesce fresco. Il menu segue il pescato del giorno e spazia da seppie con polenta a gnocchi fatti in casa, senza dimenticare i dolci artigianali preparati dalla pastry chef di casa. Il locale gode di una posizione centrale di fronte al mercato storico, ideale per vivere l'autentica convivialità gradese.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Da Franco",
+      "address": "Grado (GO)",
+      "website_url": "https://www.dafrancogrado.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Franco%2C%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Dal 1972 Da Franco propone una cucina di mare curata e fantasiosa, spaziando dai piatti tradizionali alle proposte innovative con pesce fresco. Il locale, ampio e luminoso, è ideale per gruppi e famiglie; offre anche opzioni senza glutine certificate AIC e uno spazio giochi per bambini. Il menu comprende specialità come coda di rospo, carpaccio di orata, boreto alla graisana e fritti di mare, con un servizio cordiale e un rapporto qualità-prezzo eccellente.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Bellagrado da Cesare",
+      "address": "Piazza Marinai D'Italia, 5, 34073 Grado (GO)",
+      "website_url": "https://www.bellagrado.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bellagrado%20da%20Cesare%2C%20Piazza%20Marinai%20D'Italia%2C%205%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Bellagrado da Cesare, attivo dal 1966 nel centro storico, è un ristorante-pizzeria gestito dalla famiglia Mansi. Offre una varietà di piatti a base di pesce fresco e carne selezionata, oltre a ottime pizze cotte a legna e dolci fatti in casa. L'atmosfera è calda e ospitale, ideale per ogni occasione, e la posizione offre vedute panoramiche sul porto Mandracchio.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Taverna Al Cavenon",
+      "address": "Calle Corbatto, 11, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Taverna%20Al%20Cavenon%2C%20Calle%20Corbatto%2C%2011%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Situata in una zona pedonale del centro storico, la Taverna Al Cavenon offre un ambiente intimo e adatto a cene romantiche o eventi speciali. La cucina propone piatti regionali e internazionali, con specialità di pesce cotto al forno a legna, grigliate di gamberetti e pappardelle ai funghi porcini. È particolarmente apprezzata per la freschezza dei frutti di mare e lo spazio esterno suggestivo.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Trattoria Ai Bragossi",
+      "address": "Via Conte di Grado, 8, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Ai%20Bragossi%2C%20Via%20Conte%20di%20Grado%2C%208%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Trattoria Ai Bragossi è una storica istituzione della cucina locale, con una sala interna raccolta e area esterna piacevole, aperta tutto l'anno tranne gennaio e febbraio. La cucina si basa su pesce fresco dell'Alto Adriatico, selezionato giornalmente secondo la disponibilità del mercato. È nota per la qualità costante dei suoi piatti tradizionali di pesce e la calda accoglienza familiare, come attestato dalle ottime recensioni online.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Pescada",
+      "address": "Piazza Duca d'Aosta, 31, 34073 Grado (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pescada%2C%20Piazza%20Duca%20d'Aosta%2C%2031%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Pescada sorge in posizione centrale a Grado e si specializza in cucina mediterranea a base di pesce fresco. L'atmosfera è piacevole e l'offerta gastronomica è incentrata su ricette legate al mare. Il ristorante è ben valutato su TripAdvisor, posizionandosi come opzione di fascia prezzo medio-alta per chi cerca sapori autentici e ingredienti freschi.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Ristorante Vistamare",
+      "address": "Largo S. Grisogono, 34073 Grado (GO)",
+      "website_url": "https://www.ristorantevistamare.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Vistamare%2C%20Largo%20S.%20Grisogono%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Direttamente affacciato sul mare e sulla diga di Grado, il Ristorante Vistamare offre una vista panoramica d'eccezione unita a una cucina che valorizza il pesce fresco dell'Adriatico. Il menu è ricco di antipasti di pesce crudo, primi e secondi di mare, ma propone anche pizze e hamburger. Il locale è apprezzato per la posizione, mentre la qualità gastronomica è oggetto di pareri contrastanti.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Cardamomo",
+      "address": "Calle Merlato, 6, 34073 Grado (GO)",
+      "website_url": "https://cardamomogrado.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cardamomo%2C%20Calle%20Merlato%2C%206%2C%2034073%20Grado%20(GO)",
+      "image_url": null,
+      "description": "Cardamomo è un ristorante contemporaneo e raffinato nel cuore di Grado, diretto da una giovane brigata. Si distingue per i piatti innovativi a base di ingredienti selezionati, tra cui carne gourmet e crudi di pesce, e vanta una ricca cantina di vini naturali, organici e biodinamici. L'atmosfera è elegante e gli spazi esterni sono ideali per pranzi e cene in un contesto moderno e ricercato.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Ai Fiuri de Tapo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Fiuri%20de%20Tapo%2C%20Grado",
+      "image_url": null,
+      "description": "Ai Fiuri de Tapo, immerso nella laguna di Grado e raggiungibile solo in barca, offre un'esperienza culinaria unica dove il pesce allevato localmente è il protagonista assoluto. Specialità come la grigliata di pesce, realizzata con prodotti dell'azienda di acquacoltura, sono servite in un contesto naturale e remoto che rende ogni visita memorabile.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    },
+    {
+      "name": "Alla Buona Vite - Trattoria alla Buona Vite",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Buona%20Vite%20-%20Trattoria%20alla%20Buona%20Vite%2C%20Grado",
+      "image_url": null,
+      "description": "Gestita dalla famiglia Girardi e affacciata sulla laguna, la Trattoria Alla Buona Vite propone piatti tipici friulani a base di pesce freschissimo e ingredienti locali. L'atmosfera rurale e accogliente è completata dalla presenza di un'azienda agrituristica e vigneti. La cucina si fonda su semplicità e qualità, offrendo ricette tradizionali e un'accoglienza genuina.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/grado.md"
+    }
+  ]
+}

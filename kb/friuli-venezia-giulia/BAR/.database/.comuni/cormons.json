@@ -1,0 +1,162 @@
+{
+  "comune_name": "Cormons",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md",
+  "extracted_at": "2026-04-09T10:11:51.494Z",
+  "pois": [
+    {
+      "name": "Caffè Liberty",
+      "address": "Via Udine, 2 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Liberty%2C%20Via%20Udine%2C%202%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Caffè Liberty è una caffetteria elegante e accogliente situata vicino al centro di Cormòns, nota per le sue colazioni curate, waffles da provare e pasticceria di qualità. La mattina si distingue per il suo giardino esterno, perfetto per colazioni all'aperto, mentre la sera diventa punto di riferimento per l’aperitivo con spritz e birra Theresianer. L’ambiente è apprezzato per il personale gentile, il ritmo di quartiere e l’atmosfera confortevole, come riflettono le ottime recensioni online.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Caffè Massimiliano",
+      "address": "Piazza Libertà, 8 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Massimiliano%2C%20Piazza%20Libert%C3%A0%2C%208%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Affacciato sulla piazza principale, Caffè Massimiliano offre caffetteria, pasticceria, gelateria e una piccola enoteca, ideale per ogni momento della giornata. Il locale dispone di una terrazza e una saletta privata, e si anima durante rassegne musicali estive come \"Note in Piazza\". È particolarmente rinomato per i gelati artigianali e l’offerta di prodotti locali accompagnati da buoni vini, risultando un punto fisso per residenti e turisti.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Café Giardinetto",
+      "address": "Via Cancelleria Vecchia, 1 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Giardinetto%2C%20Via%20Cancelleria%20Vecchia%2C%201%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Café Giardinetto è un bar raccolto nel centro storico, celebre per la qualità evidente degli impasti e delle brioche, oltre alla selezione di paste per la colazione. L’atmosfera familiare e mitteleuropea si riconosce anche dal giardinetto rialzato estivo, perfetto per una pausa rilassata. Il locale è tra i punti colazione più apprezzati della città e soddisfa anche per la pausa pranzo con sandwich.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Panificio Pasticceria Battistutta Walter",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Panificio%20Pasticceria%20Battistutta%20Walter%2C%20Cormons",
+      "image_url": null,
+      "description": "Storico panificio e pasticceria con tre punti vendita a Cormòns, offre ogni giorno pane fresco, brioches e dolci artigianali. Spicca per le specialità dolciarie legate alle festività locali come presnitz, putizza e favette. È la meta imprescindibile per chi desidera gustare un’autentica colazione friulana o assaporare i dolci tipici della zona.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Bar Rullo",
+      "address": "Piazza XXIV Maggio, 27 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Rullo%2C%20Piazza%20XXIV%20Maggio%2C%2027%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Bar Rullo, situato nella piazza storica del centro, è un bar di paese dall’atmosfera autentica, amato dai residenti per i caffè macinati in casa e per l’attenta selezione di vini del Collio e birre anche senza glutine. Un locale informale, perfetto per una sosta veloce o per intrattenersi in compagnia, apprezzato per la qualità costante e le buone recensioni.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Crema & Cioccolato",
+      "address": "Piazza XXIV Maggio, 6 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Crema%20%26%20Cioccolato%2C%20Piazza%20XXIV%20Maggio%2C%206%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Crema & Cioccolato è una gelateria e pasticceria artigianale nel cuore di Cormòns, famosa per la varietà stagionale dei gelati e i dolci da asporto. Molto frequentata durante la primavera e l'estate, propone gusti che seguono i prodotti e le stagioni del territorio, rappresentando una tappa d’obbligo dopo una passeggiata nel centro storico.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Enoteca di Cormòns",
+      "address": "Piazza XXIV Maggio – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20di%20Corm%C3%B2ns%2C%20Piazza%20XXIV%20Maggio%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Fondata nel 1985, è il cuore della valorizzazione enogastronomica del Collio e funge da centro promozionale. Qui si possono degustare i vini delle migliori cantine locali accompagnati da specialità friulane e vivere l’aperitivo come rito culturale. Un punto di riferimento imperdibile per gli appassionati di vino.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "QOR – The Wine Atelier",
+      "address": "Via Nazario Sauro, 39 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=QOR%20%E2%80%93%20The%20Wine%20Atelier%2C%20Via%20Nazario%20Sauro%2C%2039%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "QOR – The Wine Atelier è una moderna enoteca dalla cura estetica raffinata e una selezione mirata di vini del Collio e dell’Isonzo. Offre una proposta di aperitivo elegante con finger food abbinati, ideale per un happy hour di qualità. Si distingue per il servizio curato e l’atmosfera contemporanea, risultando alternativa alla storica Enoteca.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Vineria Corte dei Magazzini",
+      "address": "Via Corte dei Magazzini, 39D – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Vineria%20Corte%20dei%20Magazzini%2C%20Via%20Corte%20dei%20Magazzini%2C%2039D%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Vineria Corte dei Magazzini è un’osteria-enoteca raccolta, situata in un’ala storica di Cormòns, ideale per chi cerca un ambiente informale e autentico. Offre vini locali al calice affiancati da piccola cucina, con atmosfera da piano bar intima poco frequentata dai turisti. È apprezzata per l’accoglienza, le selezioni di vini e la posizione appartata.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Bacaro Foresto",
+      "address": "Via Giacomo Matteotti, 44 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bacaro%20Foresto%2C%20Via%20Giacomo%20Matteotti%2C%2044%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Bacaro Foresto porta la tipica atmosfera veneziana nel Collio con cicchetti artigianali, piatti di pesce in piccole porzioni, spritz e ottimi vini. Il mercoledì il \"CicchettinHour\" è un appuntamento popolare, e in generale il locale offre anche cocktail e una carta dei vini che unisce Veneto e Friuli. L’ambiente conviviale e la proposta fuori dagli schemi lo hanno reso tra i più apprezzati per aperitivi e dopocena.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Osteria Caramella",
+      "address": "Via Giacomo Matteotti, 1 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Caramella%2C%20Via%20Giacomo%20Matteotti%2C%201%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Osteria Caramella è un punto di riferimento del Collio, con ambientazione calda e familiare e cucina a base di prodotti tipici. Pur essendo un’osteria, funziona anche come bar e punto di aperitivo con vini al calice e specialità friulane, in un contesto conviviale che invita a prolungare la sosta dall’aperitivo alla cena.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Bar da Arrigo (Trattoria Mukerli)",
+      "address": "Via S. Quirino, 1 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20da%20Arrigo%20(Trattoria%20Mukerli)%2C%20Via%20S.%20Quirino%2C%201%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Bar da Arrigo, gestito dalla famiglia Mukerli, unisce la tradizione del bar di quartiere e della trattoria. Frequentato dai residenti e dai lavoratori locali, è un luogo autentico dove si gusta il caffè la mattina e il vino locale il pomeriggio, immergendosi nella socialità friulana più genuina.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Alla Pergola – Bar, Ristorante, Pizzeria",
+      "address": "Via Giacomo Matteotti, 42 – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Pergola%20%E2%80%93%20Bar%2C%20Ristorante%2C%20Pizzeria%2C%20Via%20Giacomo%20Matteotti%2C%2042%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Alla Pergola è un locale poliedrico che unisce bar, ristorante, pizzeria e albergo, apprezzato sia da turisti sia da residenti. Il bar offre aperitivi e digestivi in un ambiente accessibile a tutti, con servizi per disabili e accettazione di buoni pasto. È noto anche per la pizza napoletana cotta a legna e la cucina della tradizione friulana.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    },
+    {
+      "name": "Cantina Produttori Cormòns – Enoteca e Degustazioni",
+      "address": "Via Vino della Pace – Cormòns (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cantina%20Produttori%20Corm%C3%B2ns%20%E2%80%93%20Enoteca%20e%20Degustazioni%2C%20Via%20Vino%20della%20Pace%20%E2%80%93%20Corm%C3%B2ns%20(GO)",
+      "image_url": null,
+      "description": "Cantina Produttori Cormòns è una storica cooperativa vinicola che offre un’esperienza completa legata al vino friulano. La grande bottaia ospita una galleria d’arte unica, mentre le degustazioni permettono di scoprire i vini del territorio con spiegazioni dettagliate. Un luogo imperdibile per chi desidera conoscere a fondo la tradizione enologica del Collio.",
+      "comune_name": "Cormons",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cormons.md"
+    }
+  ]
+}

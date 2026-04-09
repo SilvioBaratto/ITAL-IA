@@ -115,9 +115,9 @@ italia/
 │   │   │   └── test/              # In-memory CRUD for testing
 │   │   ├── prisma/                # Global PrismaService (PrismaPg adapter for Supabase)
 │   │   └── common/                # @Public(), @CurrentUser(), exception filters, logging
-│   ├── prisma/schema.prisma       # Region, PointOfInterest, SavedItem + chat models
-│   ├── baml_src/                  # StreamRAGChat prompt + LLM client definitions
-│   ├── scripts/                   # KB ingestion: chunk-pages.ts, upload-to-qdrant.ts
+│   ├── prisma/schema.prisma       # Region, PointOfInterest, SavedItem, Comune
+│   ├── baml_src/                  # StreamRAGChat + ClassifyQuery + chunking prompts
+│   ├── scripts/                   # KB ingestion: chunk-kb.ts, upload-to-qdrant.ts, seed-comuni.ts
 │   └── serverless.ts              # Vercel entry point (singleton Express across cold starts)
 ├── frontend/                      # Angular SPA
 │   ├── src/app/
@@ -135,11 +135,15 @@ italia/
 │   │                              # region-bottom-sheet, inline-edit, toast, markdown pipe
 │   ├── e2e/                       # Playwright tests (desktop + mobile)
 │   └── assets/explore/            # Per-region quick-prompt JSON files
-├── kb/                            # Offline KB pipeline (not committed)
-│   ├── links.csv                  # Source URLs by category
-│   ├── scrape.ts                  # Web scraper (Jina API)
-│   ├── scraped/                   # Raw markdown per category
-│   └── chunked/                   # BAML-processed JSON chunks
+├── kb/                            # Offline deep-research KB + ingestion pipeline
+│   ├── run-deep-research.py       # Driver: generates per-comune markdown via Claude / Copilot CLI
+│   ├── deep-research-prompt.md    # Master prompt template
+│   ├── {region-slug}/             # One folder per Italian region
+│   │   ├── comuni.csv             # Region's comuni with province + coordinates
+│   │   └── {CATEGORY}/            # One folder per POI category
+│   │       ├── knowledge.md       # Merged per-comune content for the whole region
+│   │       └── .comuni/*.md       # Per-comune markdown (the ingestion source)
+│   └── chunked/                   # BAML-processed JSON chunks → Qdrant
 └── docker-compose.yml             # api:8000 + frontend:4200 (nginx proxy)
 ```
 
@@ -149,7 +153,7 @@ All routes sit behind `/api/v1` and require a Supabase JWT unless marked `@Publi
 
 Request flow: Helmet -> CORS -> ThrottlerGuard (100 req/60s) -> SupabaseAuthGuard -> ZodValidationPipe -> route handler -> exception filters
 
-Chat flow: user query -> OpenAI embedding -> Qdrant cosine search (`italia-kb`, top 5, score >= 0.75) -> BAML `StreamRAGChat()` (GPT-5 Mini, parameterized by region) -> SSE stream to client
+Chat flow: user query -> BAML `ClassifyQuery()` (picks POI categories + optional comune) -> Azure OpenAI embedding -> Qdrant cosine search (`italia-kb`, top 5, score-thresholded, filtered by region + classified categories + optional comune) -> BAML `StreamRAGChat()` (parameterized by region) -> SSE stream to client
 
 The frontend reads the SSE stream with a raw `fetch` + `ReadableStream` (not HttpClient). On 401 it refreshes the token and retries once.
 
@@ -158,10 +162,12 @@ The frontend reads the SSE stream with a raw `fetch` + `ReadableStream` (not Htt
 Offline, two-step pipeline:
 
 ```
-kb/links.csv -> scrape.ts -> kb/scraped/{category}/*.md
-  -> scripts/chunk-pages.ts -> kb/chunked/all-chunks.json
-  -> scripts/upload-to-qdrant.ts -> OpenAI embedding (ada-002, batches of 50)
-  -> Qdrant upsert (italia-kb, 1536-dim cosine, region-filterable)
+kb/run-deep-research.py -> kb/{region}/{CATEGORY}/.comuni/{comune}.md (one per comune)
+  -> api/scripts/chunk-kb.ts -> BAML ChunkPage -> kb/chunked/{region}/{category}/{comune}.json
+                              -> kb/chunked/all-chunks.json
+  -> api/scripts/upload-to-qdrant.ts -> Azure OpenAI embeddings (batches of 16)
+                                      -> Qdrant upsert (italia-kb, cosine,
+                                         region + category + comune_name filterable)
 ```
 
 ### Database
@@ -194,14 +200,13 @@ ng build --configuration=production
 ### Knowledge Base
 
 ```bash
-# 1. Update kb/links.csv with source URLs
-# 2. Scrape content
-npx tsx kb/scrape.ts
+# 1. Generate per-comune research (run from repo root)
+python kb/run-deep-research.py --region friuli-venezia-giulia --category RESTAURANT --per-comune
 
-# 3. Chunk via BAML
-cd api && npx ts-node -r tsconfig-paths/register scripts/chunk-pages.ts
+# 2. Chunk via BAML
+cd api && npx ts-node -r tsconfig-paths/register scripts/chunk-kb.ts
 
-# 4. Upload to Qdrant
+# 3. Embed + upload to Qdrant
 npx ts-node -r tsconfig-paths/register scripts/upload-to-qdrant.ts
 ```
 

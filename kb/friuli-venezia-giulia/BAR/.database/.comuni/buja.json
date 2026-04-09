@@ -1,0 +1,85 @@
+{
+  "comune_name": "Buja",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md",
+  "extracted_at": "2026-04-09T10:02:57.391Z",
+  "pois": [
+    {
+      "name": "Dry Bar",
+      "address": "Via Europa, 5 — 33030 Buja (UD) — *zona industriale tra Buja e Osoppo*",
+      "website_url": "https://www.facebook.com/drybarbuja",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Dry Bar è il locale più noto e frequentato di Buja, situato nella zona industriale tra Buja e Osoppo. Apre alle cinque del mattino e serve operai, lavoratori e residenti con colazioni, pranzo e aperitivi, diventando punto di riferimento per la comunità locale. La presenza di una pagina Facebook con molti apprezzamenti testimonia la sua importanza sociale, mentre la chiusura nel weekend conferma la sua vocazione lavorativa.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    },
+    {
+      "name": "Bar Company di Masoni Giancarlo",
+      "address": "Piazza Avilla, 18 — 33030 Buja (UD) — *frazione di Avilla*",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Company si trova sulla piazza principale della frazione di Avilla, fungendo da bar di paese dove si incontrano residenti e visitatori per caffè, giornale o aperitivo. È un luogo di socialità locale senza presenza digitale, ricco di tradizione e vitalità comunitaria.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    },
+    {
+      "name": "Cappelletti Luca",
+      "address": "Via Ursinins Grande, 49 — 33030 Buja (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il bar di Cappelletti Luca è un bar di vicinato situato in una zona rurale del territorio di Buja. Serve la comunità disperse nelle campagne, svolgendo un ruolo prezioso di presidio sociale per i residenti. La gestione consolidata e l’assenza di presenza digitale riflettono la sua radicata essenza territoriale.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    },
+    {
+      "name": "Bar Trattoria Pizzeria Quick",
+      "address": "Strada Provinciale Osovana, 13 — 33030 Buja (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Quick è un locale multifunzione lungo la Strada Provinciale Osovana e offre servizio di bar, trattoria e pizzeria. Ambiente accogliente con servizi per famiglie e lavoratori, tavoli all'aperto, WiFi e accessibilità, adatto anche per una sosta serale con aperitivo o birra. Disponibile su WhatsApp per prenotazioni.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    },
+    {
+      "name": "New Mesebaba",
+      "address": "Via Avilla, 19 — 33030 Buja (UD) — *frazione di Avilla*",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il New Mesebaba, dal nome dalle sonorità balcaniche, è gestito probabilmente da una comunità di origine straniera ed è situato nella frazione di Avilla. Il locale è aperto per colazione e brunch nei weekend, mentre nei giorni feriali opera solo nel pomeriggio-sera. Accetta animali domestici e offre parcheggio interno.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    },
+    {
+      "name": "Cajeta — Hotel 3 stelle (colazione)",
+      "address": "Piazza del Mercato, 2/2 — 33030 Buja (UD) — *capoluogo*",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Hotel Cajeta si trova in Piazza del Mercato nel centro di Buja ed è gestito da Salone Luca e Emiliano & C. Offre colazione a buffet per gli ospiti e rappresenta un comodo punto di ristoro per i visitatori che cercano una colazione completa in un ambiente curato e accessibile.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    },
+    {
+      "name": "Belvedere — Ristorante Pizzeria (aperitivo e dehors)",
+      "address": "Via Urbignacco, 140 — 33030 Buja (UD) — *frazione di Urbignacco*",
+      "website_url": "http://belvedereristorante.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Nella frazione di Urbignacco, il Belvedere è un ristorante-pizzeria con tavoli all'aperto e accesso per persone con disabilità. Il locale offre ambiente accogliente e stagione permettendo un dehors ideale per aperitivi e serate informali, con una probabile vista panoramica data la posizione collinare.",
+      "comune_name": "Buja",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/buja.md"
+    }
+  ]
+}

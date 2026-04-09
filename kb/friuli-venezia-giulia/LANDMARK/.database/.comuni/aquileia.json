@@ -1,0 +1,283 @@
+{
+  "comune_name": "Aquileia",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md",
+  "extracted_at": "2026-04-09T10:32:42.267Z",
+  "pois": [
+    {
+      "name": "Basilica Patriarcale di Santa Maria Assunta (e complesso patriarcale)",
+      "address": null,
+      "website_url": "https://www.basilicadiaquileia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20Patriarcale%20di%20Santa%20Maria%20Assunta%20(e%20complesso%20patriarcale)%2C%20Aquileia",
+      "image_url": null,
+      "description": "La Basilica di Aquileia è uno degli edifici religiosi più antichi e ricchi d'Europa, con origini nel IV secolo e ricostruzioni romaniche e gotiche. È celebre per il vasto ciclo di mosaici paleocristiani, la cripta affrescata e il campanile isolato. L'intero complesso è sito UNESCO e rappresenta il cuore monumentale della città, dove il passaggio dall'antichità al Medioevo cristiano è particolarmente evidente.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Pavimento Musivo Teodoriano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pavimento%20Musivo%20Teodoriano%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il pavimento musivo teodoriano, situato sotto la navata della Basilica, è il più vasto ciclo di mosaici paleocristiani conservato in Occidente, realizzato all'inizio del IV secolo. Raffigurazioni bibliche, ritratti di donatori e motivi ornamentali ne fanno un capolavoro unico dell’arte tardoantica. È una testimonianza visiva delle origini del Cristianesimo in Occidente.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Museo Archeologico Nazionale di Aquileia",
+      "address": null,
+      "website_url": "https://museoarcheologicoaquileia.cultura.gov.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20di%20Aquileia%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Museo Archeologico Nazionale ospita una delle collezioni di arte romana più importanti d’Italia, comprendendo sculture, gemme, ceramiche, rilievi e oggetti di vita quotidiana provenienti dagli scavi di Aquileia. Particolarmente note sono la collezione di cammei, i ritratti scultorei giulio-claudi e le stele funerarie. È fondamentale per comprendere la grandezza della Aquileia imperiale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Museo Paleocristiano di Aquileia",
+      "address": null,
+      "website_url": "https://museoarcheologicoaquileia.cultura.gov.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Paleocristiano%20di%20Aquileia%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Museo Paleocristiano si trova nell'ex monastero benedettino accanto alla Basilica e raccoglie materiali delle prime comunità cristiane, tra cui mosaici, sarcofagi e iscrizioni tra le più antiche d'Occidente. Conserva anche rilievi architettonici delle prime chiese locali. È il complemento essenziale alla visita della Basilica, illuminando la transizione tra paganesimo e Cristianesimo.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Foro Romano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Foro%20Romano%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Foro era il centro politico, commerciale e religioso della Aquileia romana, con tempio capitolino, basilica civile e botteghe. Gli scavi hanno portato alla luce porticati, pavimentazioni, colonne e decorazioni architettoniche. L’area, oggi integrata nel tessuto urbano, permette di camminare sulle stesse pietre dei senatori e mercanti dell’antichità.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Via Sacra e Resti della Città Romana (Area Monumentale Centrale)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Via%20Sacra%20e%20Resti%20della%20Citt%C3%A0%20Romana%20(Area%20Monumentale%20Centrale)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Quest’area centrale comprende strutture romane lungo l’antica arteria urbana, tra cui basolati stradali, resti di edifici pubblici, basi di statue e templi. Gli scavi hanno restituito strati sovrapposti di varie epoche, rendendo il sito un laboratorio stratigrafico unico. Permette di cogliere la complessità urbana e la stratificazione storica di Aquileia.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Porto Fluviale Romano (Fiume Natissa)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Porto%20Fluviale%20Romano%20(Fiume%20Natissa)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il porto fluviale sul Natissa era tra i maggiori dell’Adriatico settentrionale, dotato di banchine in pietra, magazzini e strutture doganali. Resti delle banchine sono ancora visibili lungo le rive del fiume. Questo sito offre una rara testimonianza di infrastruttura portuale romana e permette di immaginare i traffici commerciali dell’epoca.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Sepolcreto Romano (Via Annia – Via Gemina)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sepolcreto%20Romano%20(Via%20Annia%20%E2%80%93%20Via%20Gemina)%2C%20Aquileia",
+      "image_url": null,
+      "description": "I sepolcreti romani, collocati lungo le principali vie di accesso, conservano recinti funerari, sarcofagi e are sepolcrali. Questi monumenti permettono una lettura della composizione sociale della città antica e documentano i rituali funerari. Il sepolcreto orientale è tra i meglio conservati dell’Italia nord-orientale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Grande Tempio Romano (Area del Foro)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grande%20Tempio%20Romano%20(Area%20del%20Foro)%2C%20Aquileia",
+      "image_url": null,
+      "description": "I resti del grande Tempio capitolino, dedicato alla triade Giove, Giunone e Minerva, emergono nell’area del Foro. Nonostante le spoliazioni medievali, basamenti e podii rimangono visibili. Frammenti architettonici sono esposti al museo e contribuiscono a ricostruire il monumentale skyline romano di Aquileia.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Anfiteatro Romano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Anfiteatro%20Romano%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il sito dell’anfiteatro, oggi poco visibile in superficie, era tra i maggiori della Venetia et Histria. Sebbene spoliato nel Medioevo, le indagini archeologiche ne hanno identificato le dimensioni e la posizione. Il luogo ricorda la grandezza di Aquileia come metropoli dotata di tutte le infrastrutture dello spettacolo romano.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Circo Romano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Circo%20Romano%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Circo di Aquileia, destinato alle corse dei carri, era uno dei più grandi d’Italia, con una lunghezza di circa 460 metri. Il suo tracciato è ancora riconoscibile nella morfologia della campagna a ovest del centro storico. I resti documentano l’importanza della città come sede di imperatori e capitale di spettacoli pubblici.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Terme Romane",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Terme%20Romane%2C%20Aquileia",
+      "image_url": null,
+      "description": "Aquileia possedeva almeno due grandi complessi termali, con sistemi di riscaldamento, vasche e pavimenti in marmo. Alcuni resti sono visibili nell’area del Foro e al museo. Le terme erano il luogo di socialità per eccellenza, offrendo uno spaccato della vita quotidiana aquileiese.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Fondamenta di Case e Insulae Romane",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondamenta%20di%20Case%20e%20Insulae%20Romane%2C%20Aquileia",
+      "image_url": null,
+      "description": "Resti di abitazioni private e insulae residenziali sono diffusi nel centro e nelle vicinanze di Aquileia. Mosaici, affreschi, impianti idraulici e sistemi di riscaldamento documentano il tenore di vita delle classi agiate. Alcune domus sono visitabili, altre protette in attesa di nuove indagini.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Ara dei Guerrieri (Monumento ai Caduti – Sacrario Militare)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ara%20dei%20Guerrieri%20(Monumento%20ai%20Caduti%20%E2%80%93%20Sacrario%20Militare)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Sacrario Militare, inaugurato nel 1938, raccoglie le spoglie di oltre 100.000 soldati italiani caduti nella Prima Guerra Mondiale, tra cui la tomba del Milite Ignoto. Situato presso la basilica, unisce la monumentalità romana con la memoria moderna, ospitando cerimonie nazionali di grande rilevanza.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Mura di Aquileia (resti)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mura%20di%20Aquileia%20(resti)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Le mura di Aquileia, rafforzate in epoca tetrarchica e tardoimperiale, raggiungevano circa 4 km con torri e porte monumentali. Alcuni tratti sono ancora visibili a nord e a est del centro storico, testimoniando il ruolo strategico della città come baluardo contro le invasioni barbariche.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Statua di Tito Flavio (e Area Epigrafica all'Aperto)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Statua%20di%20Tito%20Flavio%20(e%20Area%20Epigrafica%20all'Aperto)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Nell’area attorno al Museo Archeologico e nei viali del centro sono esposte stele funerarie, statue onorarie e lastre epigrafiche. Queste testimonianze costituiscono un museo a cielo aperto, permettendo un incontro diretto con la storia della Aquileia romana e il suo vivace pluralismo religioso.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Arco Onorario Romano (tracce)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Arco%20Onorario%20Romano%20(tracce)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Resti di archi onorari, dedicati a imperatori e personaggi illustri, sono documentati tramite frammenti conservati al museo. Sebbene nessun arco sia sopravvissuto in alzato, le testimonianze epigrafiche permettono di apprezzare la ricchezza del paesaggio monumentale urbano.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Cattedrale (Basilica) – Cripta degli Affreschi",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cattedrale%20(Basilica)%20%E2%80%93%20Cripta%20degli%20Affreschi%2C%20Aquileia",
+      "image_url": null,
+      "description": "La cripta degli affreschi della Basilica conserva un ciclo pittorico romanico di eccezionale raffinatezza, databile all’XI secolo. Gli affreschi raccontano la vita di Cristo, l’Annunciazione e storie dei santi locali, con uno stile bizantino-ottoniano. La cripta è accessibile nei percorsi di visita della Basilica.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Campanile della Basilica",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Campanile%20della%20Basilica%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il campanile romanico, eretto nell’XI secolo, è alto 73 metri e si distingue per i suoi quattro ordini di bifore e la cuspide ottagonale. Dalla sua sommità si gode di una vista panoramica sulla pianura di Aquileia, la laguna di Grado e le Alpi Giulie. È uno dei simboli più riconoscibili della città.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Battistero della Basilica",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Battistero%20della%20Basilica%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il Battistero, posto a meridione della Basilica, conserva la vasca battesimale paleocristiana e parte delle strutture originarie. La forma ottagonale richiama la simbologia cristiana e i battisteri delle grandi città italiane. Al suo interno si trovano frammenti di mosaici e decorazioni parietali.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Villa Romana di Monastero (resti)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Romana%20di%20Monastero%20(resti)%2C%20Aquileia",
+      "image_url": null,
+      "description": "Nella frazione di Monastero sono visibili i resti di una villa suburbana imperiale, tra cui pavimenti musivi, impianti termali e materiali ceramici. La villa era parte di un sistema agricolo che riforniva Aquileia e produceva per l’esportazione, testimoniando il grado di comfort nelle campagne antiche.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Sito UNESCO – Area Paleocristiana di Aquileia",
+      "address": null,
+      "website_url": "https://whc.unesco.org/en/list/825",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sito%20UNESCO%20%E2%80%93%20Area%20Paleocristiana%20di%20Aquileia%2C%20Aquileia",
+      "image_url": null,
+      "description": "Aquileia è iscritta nel Patrimonio Mondiale dell’UNESCO dal 1998 per l’eccezionale integrità e autenticità del suo palinsesto storico e monumentale. Il sito comprende la Basilica, il Foro, la città romana, il porto fluviale, le necropoli e i musei, offrendo una continuità storica di 25 secoli. È fondamentale per comprendere la nascita dell’Europa cristiana.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Domus di Tito Macro (mosaici in situ)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Domus%20di%20Tito%20Macro%20(mosaici%20in%20situ)%2C%20Aquileia",
+      "image_url": null,
+      "description": "La Domus di Tito Macro, identificata da un’iscrizione, conserva raffinati mosaici bicromi e policromi con motivi geometrici e scene mitologiche. Visitabile nell’ambito del percorso monumentale, è un esempio tipico dell’arte musiva aquileiese di età imperiale.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Tempietto di Beligna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempietto%20di%20Beligna%2C%20Aquileia",
+      "image_url": null,
+      "description": "I resti di un piccolo edificio sacro tardoantico, probabilmente un martyrium o oratorio, si trovano nella frazione di Beligna vicino alla laguna. Frammenti di mosaici e materiali ceramici documentano la diffusione del Cristianesimo nelle campagne aquileiesi già nel IV–V secolo.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    },
+    {
+      "name": "Canale Anfora e Paesaggio Lagunare Storico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Canale%20Anfora%20e%20Paesaggio%20Lagunare%20Storico%2C%20Aquileia",
+      "image_url": null,
+      "description": "Il canale Anfora faceva parte del sistema idroviario che collegava Aquileia alla laguna di Grado e all'Adriatico. Il paesaggio lagunare circostante, con canali e boschi umidi, è rimasto sostanzialmente intatto nei secoli e riconosciuto come parte integrante del sito UNESCO. Una passeggiata o escursione in barca offre una prospettiva unica sul paesaggio storico e naturale aquileiese.",
+      "comune_name": "Aquileia",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/aquileia.md"
+    }
+  ]
+}

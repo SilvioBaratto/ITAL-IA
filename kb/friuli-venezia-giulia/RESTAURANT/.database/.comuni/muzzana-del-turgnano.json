@@ -1,0 +1,96 @@
+{
+  "comune_name": "Muzzana del Turgnano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md",
+  "extracted_at": "2026-04-09T11:09:23.372Z",
+  "pois": [
+    {
+      "name": "Reguta Anselmi - Là di Anselmi",
+      "address": "Via Palazzolo 71",
+      "website_url": "https://www.reguta.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Reguta%20Anselmi%20-%20L%C3%A0%20di%20Anselmi%2C%20Via%20Palazzolo%2071",
+      "image_url": null,
+      "description": "Reguta Anselmi combina ospitalità agrituristica, ristorazione di qualità e degustazione di vini DOC Annia prodotti dall'azienda stessa. La cucina segue una rigorosa stagionalità, offrendo piatti della tradizione friulana realizzati con ingredienti locali, tra cui taglieri di salumi e formaggi, bruschette e specialità che variano secondo la stagione. Il locale dispone di una terrazza panoramica sulle vigne, un playground per bambini e camere rustiche per la notte, offrendo un'esperienza immersiva nel paesaggio friulano. La fascia di prezzo è medio-alta e le prenotazioni sono consigliate.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Agriturismo Il Picchio",
+      "address": null,
+      "website_url": "https://www.agriturismoilpicchio.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Il%20Picchio%2C%20Muzzana%20del%20Turgnano",
+      "image_url": null,
+      "description": "Agriturismo Il Picchio, situato nella frazione Casoli Aurelia 3 a Castions di Strada, offre cucina friulana autentica in un ambiente accogliente gestito dalla famiglia Filippi. Le due sale, una con camino e l'altra in stile rustico friulano, accolgono fino a 80 ospiti e permettono di gustare piatti stagionali preparati con ingredienti provenienti dall'azienda stessa, come risotti, gnocchi e carni locali. L'agriturismo propone vini DOC Annia abbinati e, oltre alla ristorazione, camere tradizionali per soggiorni immersi nella campagna. La fascia di prezzo è media.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Griglia d'Oro al Cormor",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Griglia%20d'Oro%20al%20Cormor%2C%20Muzzana%20del%20Turgnano",
+      "image_url": null,
+      "description": "La Griglia d'Oro al Cormor è una gastronomia e rosticceria nota per le sue carni e pesci alla griglia, con vista panoramica sul fiume Cormor nei pressi di Castions di Strada. L'esperienza trentennale dei gestori si riflette nella qualità degli ingredienti e nelle tecniche di cottura, offrendo piatti come costine, salsiccia, calamari fritti e carne bovina a fuoco lento. La possibilità di consumare sul posto o d'asporto e la selezione di vini biologici propri la rendono una tappa scelta sia da famiglie che da appassionati della cucina alla griglia. Prezzi nella media.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Osteria Agli Orbi",
+      "address": "Via Roma 27/A",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Agli%20Orbi%2C%20Via%20Roma%2027%2FA",
+      "image_url": null,
+      "description": "L'Osteria Agli Orbi è un locale giovane e moderno che offre una selezione di vini friulani e nazionali accompagnati da piatti semplici ma ricercati, come pasta fresca, tartine gourmet e sandwich creativi. L'atmosfera è informale e conviviale, arricchita da serate di musica dal vivo che ne fanno uno dei punti di ritrovo più apprezzati della zona. Con un posizionamento tra i migliori wine bar locali, l'Osteria è ideale per aperitivi e serate rilassate a prezzi medio-bassi.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Pizzeria Lo Sfizio",
+      "address": "Via Roma 45 a Muzzana del Turgnano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Lo%20Sfizio%2C%20Via%20Roma%2045%20a%20Muzzana%20del%20Turgnano",
+      "image_url": null,
+      "description": "La Pizzeria Lo Sfizio, gestita da Nadmir Rexhepi, è una pizzeria accogliente specializzata in pizze artigianali preparate con ingredienti selezionati e ricette sia classiche che creative. Pur non rientrando nella tradizione culinaria friulana, rappresenta un punto di riferimento locale per pranzi e cene informali, particolarmente apprezzato dalle famiglie che cercano un'atmosfera semplice e piacevole.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Bar Trattoria alla Passeggiata",
+      "address": "Via Bassi 39 a Pocenia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20alla%20Passeggiata%2C%20Via%20Bassi%2039%20a%20Pocenia",
+      "image_url": null,
+      "description": "Bar Trattoria alla Passeggiata è una trattoria popolare che valorizza la cucina friulana tradizionale, offrendo piatti genuini come risotti mantecati, tagliatelle fatte in casa e arrosti di carne. L'ambiente familiare e senza pretese, unito ai prezzi accessibili, la rendono un luogo ideale per chi cerca autenticità e semplicità nella gastronomia locale frequentata soprattutto da abitanti del luogo.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Antica Osteria ai Tubi",
+      "address": "Via Nazionale 59 a Palazzolo dello Stella",
+      "website_url": "https://www.anticaosteriaaitubi.shop",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Osteria%20ai%20Tubi%2C%20Via%20Nazionale%2059%20a%20Palazzolo%20dello%20Stella",
+      "image_url": null,
+      "description": "Antica Osteria ai Tubi sorprende i suoi ospiti con un interno elegante e curato contrapposto a un esterno discreto. La cucina esplora sia la tradizione friulana, alternando piatti di terra e di mare, sia una visione contemporanea dei sapori locali. L'atmosfera intima e raffinata valorizza una ristorazione di qualità confermata da buone recensioni e una costante attenzione ai dettagli. Prezzi medi e servizio attento la rendono una delle mete gastronomiche più apprezzate della zona.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    },
+    {
+      "name": "Trattoria Alla Frasca",
+      "address": "Via Roma 91 a Palazzolo dello Stella",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Frasca%2C%20Via%20Roma%2091%20a%20Palazzolo%20dello%20Stella",
+      "image_url": null,
+      "description": "Trattoria Alla Frasca è un locale rustico e familiare gestito da Cozzarolo Manuela, che propone piatti casalinghi della tradizione friulana come orzotto, minestrone, polenta, arrosti e brasati. Gli ingredienti semplici sono valorizzati dall'esperienza delle cuoche locali e dall'atmosfera genuinamente rustica. La fascia di prezzo è popolare, confermando il suo carattere di trattoria per tutti.",
+      "comune_name": "Muzzana del Turgnano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muzzana-del-turgnano.md"
+    }
+  ]
+}

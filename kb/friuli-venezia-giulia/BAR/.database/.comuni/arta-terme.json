@@ -1,0 +1,63 @@
+{
+  "comune_name": "Arta Terme",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/arta-terme.md",
+  "extracted_at": "2026-04-09T10:01:22.473Z",
+  "pois": [
+    {
+      "name": "Bar Sport di Piazza Denis",
+      "address": "Via Marconi, 19 – 33022 Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Sport di Piazza Denis è uno storico punto di ritrovo nella zona di Piano d'Arta, famoso per la sua atmosfera familiare e informale tipica dei bar di montagna. È frequentato sia dai residenti che dagli ospiti degli alberghi vicini, offrendo colazioni classiche con caffè, cappuccino e brioche. Il locale rappresenta il tradizionale bar di paese dove la comunità si incontra quotidianamente.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Baraonda di Nodale Matteo",
+      "address": "Via Umberto I, 47 – 33022 Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Baraonda, situato lungo la via principale del paese, è un bar a gestione indipendente con ambiente vivace e accogliente. È ideale sia per la colazione che per l'aperitivo serale, e funge da punto di riferimento per la clientela locale e i turisti. La conduzione familiare assicura un servizio conosciuto e apprezzato in tutta la comunità.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Bar Terme di Arta",
+      "address": "Via Nazionale, 1 – 33022 Arta Terme (UD)",
+      "website_url": "https://www.termediarta.it",
+      "maps_url": null,
+      "image_url": null,
+      "description": "All'interno del complesso delle Terme di Arta, questo bar offre un ambiente tranquillo e curato adatto sia agli ospiti delle terme sia a escursionisti e turisti. La posizione nel centro termale garantisce un flusso costante di visitatori e permette una sosta in un'atmosfera rilassante e dedicata al benessere. È una scelta apprezzata nelle stagioni di punta della località.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Bar al Ponte",
+      "address": "SP21 – Cabia / Cjabie, Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar al Ponte si trova nella frazione di Cabia, lungo la strada provinciale che attraversa la Val Bût. È un autentico bar di paese, frequentato soprattutto dagli abitanti della borgata, e offre un'atmosfera genuina e informale. Oltre a essere punto di sosta per chi è di passaggio, svolge un ruolo sociale centrale per la piccola comunità locale.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/arta-terme.md"
+    },
+    {
+      "name": "Bar Mistrizzi",
+      "address": "Frazione Piedim – 33022 Arta Terme (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Situato nella frazione di Piedim, il Bar Mistrizzi è un locale di prossimità che serve principalmente la comunità della zona. Come altri bar di frazione in Carnia, rappresenta un importante luogo di aggregazione dove si condividono momenti di socialità, notizie e si gode della calma tipica dei piccoli paesi di montagna.",
+      "comune_name": "Arta Terme",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/arta-terme.md"
+    }
+  ]
+}

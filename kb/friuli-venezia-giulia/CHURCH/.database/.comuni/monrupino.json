@@ -1,0 +1,41 @@
+{
+  "comune_name": "Monrupino",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monrupino.md",
+  "extracted_at": "2026-04-09T10:30:38.977Z",
+  "pois": [
+    {
+      "name": "Santuario della Beata Maria Vergine Assunta (Tabor di Monrupino)",
+      "address": null,
+      "website_url": "https://www.diocesi.trieste.it/decanati-e-parrocchie/parrocchie/beata-maria-vergine-assunta-blazena-devica-marija-vnebovzeta/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Beata%20Maria%20Vergine%20Assunta%20(Tabor%20di%20Monrupino)%2C%20Monrupino",
+      "image_url": null,
+      "description": "Il Santuario della Beata Maria Vergine Assunta è il principale edificio sacro di Monrupino e uno dei luoghi di culto più rappresentativi del Carso triestino. Eretta originariamente nel 1316 e ricostruita nel 1512 all'interno del tipico recinto difensivo del tabor, la chiesa si distingue per la sua architettura tardo-gotica in pietra calcarea e per il campanile addossato, oltre che per un apparato artistico che include una pala ottocentesca e dipinti devozionali. È ancora oggi meta di pellegrinaggi e processioni dalla forte valenza transfrontaliera, ed è centrale nelle tradizioni devozionali della comunità locale.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monrupino.md"
+    },
+    {
+      "name": "Cappella della Beata Vergine Addolorata (Fernetti / Fernetiči)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20della%20Beata%20Vergine%20Addolorata%20(Fernetti%20%2F%20Ferneti%C4%8Di)%2C%20Monrupino",
+      "image_url": null,
+      "description": "Situata nella frazione di Fernetti/Fernetiči, questa cappella è dedicata alla Beata Vergine Addolorata e fa parte della parrocchia di Monrupino. Piccolo oratorio votivo della tradizione carsica, rappresenta un punto di riferimento devozionale per la comunità locale, soprattutto per le famiglie di origine slovena. L’edificio, semplice e coerente con l’architettura rurale, testimonia la radicata tradizione mariana dei Sette Dolori e la continuità del culto nella zona di confine.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monrupino.md"
+    },
+    {
+      "name": "Chiesa e campanile di San Rocco (Repen / Rupingrande)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20e%20campanile%20di%20San%20Rocco%20(Repen%20%2F%20Rupingrande)%2C%20Monrupino",
+      "image_url": null,
+      "description": "La chiesa di San Rocco si trova nella frazione di Repen (già Rupingrande) e rappresenta uno degli elementi identificativi del comune, raffigurata anche nello stemma araldico cittadino. L’edificio in pietra calcarea, con il campanile addossato, è esempio tipico della sobria architettura sacra carsica ed è il fulcro della celebrazione patronale del 16 agosto. Il culto di San Rocco, protettore contro le epidemie, riflette l’identità e la storia della comunità rurale del Carso triestino.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monrupino.md"
+    }
+  ]
+}

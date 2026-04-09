@@ -1,0 +1,30 @@
+{
+  "comune_name": "Cassacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cassacco.md",
+  "extracted_at": "2026-04-09T10:03:56.860Z",
+  "pois": [
+    {
+      "name": "Bar Centrale",
+      "address": "Piazza Angelo Noacco, Conoglano — CAP 33010",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Centrale di Conoglano è il punto di riferimento della comunità locale, situato nel cuore della frazione in piazza Angelo Noacco. Il locale offre un ambiente tradizionale, con caffetteria e snack al mattino, spritz e bevande nel pomeriggio, e accoglienza familiare. È il luogo d'incontro principale per residenti di tutte le età, caratterizzato da una proposta semplice e una forte dimensione sociale.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cassacco.md"
+    },
+    {
+      "name": "Albergo Ristorante Pizzeria Bar Sottocastello",
+      "address": "Viale Udine 15, Montegnacco — CAP 33010",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Albergo Ristorante Pizzeria Bar Sottocastello offre un servizio bar integrato alla struttura ricettiva, accogliendo sia clienti di passaggio che ospiti della struttura. Il bar segue la tradizione locale con caffetteria e aperitivi, affiancati dalla cucina del ristorante. La posizione sulla strada di Montegnacco lo rende ideale per una sosta durante escursioni o percorsi ciclistici sulle colline friulane.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cassacco.md"
+    }
+  ]
+}

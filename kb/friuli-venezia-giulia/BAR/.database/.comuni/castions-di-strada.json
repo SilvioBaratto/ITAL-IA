@@ -1,0 +1,52 @@
+{
+  "comune_name": "Castions di Strada",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castions-di-strada.md",
+  "extracted_at": "2026-04-09T10:04:05.694Z",
+  "pois": [
+    {
+      "name": "Bar Sport – Morsano di Strada",
+      "address": "Via Gorizia, Morsano di Strada, 33050 Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Sport di Morsano di Strada è il punto di riferimento sociale della frazione, tipico bar di paese friulano. È frequentato dalla comunità locale per la colazione con caffè e brioche, uno spuntino a metà mattina e l'aperitivo serale con spritz o \"tajut\". L'ambiente è informale, con bancone in legno, tavoli all'esterno e televisione accesa sulle partite nei week-end. Accoglie lavoratori, artigiani e famiglie, offrendo anche panini e tramezzini per il pranzo.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Pasticceria Caffetteria – Morsano di Strada",
+      "address": "Via Alessandro Manzoni, Morsano di Strada, 33050 Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Pasticceria Caffetteria di Morsano di Strada unisce la funzione di bar a quella di pasticceria, offrendo colazioni con prodotti da forno artigianali come cornetti, sfoglie e brioches accompagnate da caffè espresso o cappuccino. La proposta dolciaria include paste di mandorla, torte della nonna e biscotti tradizionali, servendo la comunità locale sia al mattino sia come punto di ritrovo per una merenda. La doppia anima ne fa un locale completo e versatile.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Panificio Pasticceria Candotto – Castions di Strada",
+      "address": "Via Pordenone 1, 33050 Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Panificio Pasticceria Candotto è uno degli esercizi storici di Castions di Strada, con una funzione sociale nella vita del paese. Propone pane fresco, cornetti per la colazione e una ricca offerta di dolci tipici come gubana, crostoli, biscotti e torte per occasioni speciali. L'atmosfera da punto di incontro rende il locale una presenza centrale nella quotidianità della comunità.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castions-di-strada.md"
+    },
+    {
+      "name": "Panificio Pasticceria – Morsano di Strada",
+      "address": "Via Venezia, Morsano di Strada, 33050 Castions di Strada (UD)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il panificio-pasticceria di Morsano di Strada è un punto di riferimento per colazione e dolci in frazione. Offre pane fresco, cornetti e una varietà di specialità pasticciere, con dolci tipici friulani secondo le stagioni e le festività come gubana, presnitz, crostoli e frittelle. Il locale custodisce ricette tradizionali e contribuisce alla vivacità della vita sociale locale.",
+      "comune_name": "Castions di Strada",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/castions-di-strada.md"
+    }
+  ]
+}

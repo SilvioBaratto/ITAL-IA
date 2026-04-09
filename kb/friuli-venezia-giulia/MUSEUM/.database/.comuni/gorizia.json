@@ -1,0 +1,184 @@
+{
+  "comune_name": "Gorizia",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md",
+  "extracted_at": "2026-04-09T10:49:16.408Z",
+  "pois": [
+    {
+      "name": "Castello di Gorizia — Museo del Medioevo Goriziano",
+      "address": "Borgo Castello, 36 — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Gorizia%20%E2%80%94%20Museo%20del%20Medioevo%20Goriziano%2C%20Borgo%20Castello%2C%2036%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Il castello medievale di Gorizia domina la città dall'alto di un colle, rappresentando il simbolo storico più importante. Ospita il Museo del Medioevo Goriziano, con ambienti arredati d'epoca, riproduzioni di armi e macchine d'assedio, e affacci panoramici. Il complesso fu restaurato negli anni Trenta e mostra tracce di tutte le sue fasi storiche, dal XI secolo alla Prima guerra mondiale.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Palazzo Attems Petzenstein — Pinacoteca dei Musei Provinciali",
+      "address": "Piazza De Amicis, 2 — 34170 Gorizia",
+      "website_url": "https://palazzoattems.regione.fvg.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Attems%20Petzenstein%20%E2%80%94%20Pinacoteca%20dei%20Musei%20Provinciali%2C%20Piazza%20De%20Amicis%2C%202%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Palazzo Attems Petzenstein, capolavoro barocco, è la sede principale della Pinacoteca dei Musei Provinciali di Gorizia. La collezione include capolavori dal XVIII al XX secolo, come la Pala Attems di Cignaroli, opere di Tominz e Auchentaller, e un ricco lapidario nel giardino. Il palazzo custodisce affreschi, sculture e dipinti significativi per l'arte mitteleuropea.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo di Storia e Arte — Musei Provinciali di Gorizia",
+      "address": "Borgo Castello, 13 (sale nell'area del Castello) — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20di%20Storia%20e%20Arte%20%E2%80%94%20Musei%20Provinciali%20di%20Gorizia%2C%20Borgo%20Castello%2C%2013%20(sale%20nell'area%20del%20Castello)%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Questo museo documenta la storia della città e del territorio di Gorizia dalle origini preistoriche all'età contemporanea, con reperti archeologici, ceramiche, armi e una importante raccolta di arte sacra. Particolarmente ricca la sezione sulla Contea di Gorizia e gli oggetti che illustrano la vita quotidiana tra Medioevo e Novecento.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo della Grande Guerra — Musei Provinciali di Gorizia",
+      "address": "Borgo Castello, 13 — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Grande%20Guerra%20%E2%80%94%20Musei%20Provinciali%20di%20Gorizia%2C%20Borgo%20Castello%2C%2013%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Il museo racconta le undici Battaglie dell'Isonzo e le tragiche vicende della Prima guerra mondiale attraverso uniformi, armi, oggetti personali e diari di soldati. L'esposizione si sofferma sulla vita in trincea, sulla popolazione civile e sulle strategie militari, mantenendo una forte connessione con la storia del luogo.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo del Lasciapassare / Prepustnica",
+      "address": "Via Mameli, 3 (o nei pressi del confine italo-sloveno) — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Lasciapassare%20%2F%20Prepustnica%2C%20Via%20Mameli%2C%203%20(o%20nei%20pressi%20del%20confine%20italo-sloveno)%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Dedicato alla storia del confine tra Italia e Jugoslavia, il Museo del Lasciapassare espone documenti, lettere, oggetti e testimonianze legate al regime dei lasciapassare nella Gorizia divisa della Guerra Fredda. Il percorso racconta la vita quotidiana, le famiglie separate e la fine del confine nel 2004, restituendo memoria storica di un capitolo unico della città.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo della Moda e delle Arti Applicate",
+      "address": "Via Crispi, 10 (Palazzo Attems Santa Croce) — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Moda%20e%20delle%20Arti%20Applicate%2C%20Via%20Crispi%2C%2010%20(Palazzo%20Attems%20Santa%20Croce)%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Questo museo ospita una raffinata collezione di abiti, accessori, pizzi, stoffe e gioielli dal XVII al XX secolo, concentrandosi sulla moda borghese e la manifattura mitteleuropea. Ambientato nello storico Palazzo Attems Santa Croce, il museo offre anche esposizioni di ceramiche, vetri e mobili antichi, raccontando lo stile di vita nell'area goriziana.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo Santa Chiara",
+      "address": "Via Carducci / area centro storico — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Santa%20Chiara%2C%20Via%20Carducci%20%2F%20area%20centro%20storico%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Allestito nell'ex convento delle Clarisse, il Museo Santa Chiara espone oggetti liturgici, dipinti, sculture e suppellettili provenienti dalle chiese locali, testimoniando la ricca tradizione religiosa di Gorizia. Una sezione è dedicata alla storia del convento e alla vita monastica delle clarisse attraverso manoscritti e oggetti quotidiani.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Sinagoga di Gorizia — Museo Ebraico \"Gerusalemme sull'Isonzo\"",
+      "address": "Via Graziadio Isaia Ascoli, 19 — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sinagoga%20di%20Gorizia%20%E2%80%94%20Museo%20Ebraico%20%22Gerusalemme%20sull'Isonzo%22%2C%20Via%20Graziadio%20Isaia%20Ascoli%2C%2019%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "La Sinagoga di Gorizia, costruita nel 1756 e restaurata nel 1984, ospita al pianterreno il Museo Ebraico \"Gerusalemme sull'Isonzo\". Il museo illustra la storia della comunità ebraica locale, dai suoi inizi medievali alla Shoah, con documenti, pannelli didattici e opere pittoriche di Carlo Michelstaedter. L'edificio stesso è un prezioso esempio di architettura ebraica barocca.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Palazzo Coronini Cronberg",
+      "address": "Viale XX Settembre, 14 — 34170 Gorizia",
+      "website_url": "https://www.coronini.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Coronini%20Cronberg%2C%20Viale%20XX%20Settembre%2C%2014%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Palazzo Coronini Cronberg è una nobile dimora storica con arredi, dipinti e oggetti d'arte dal XVI al XIX secolo, conservati secondo la disposizione originale. Sede della Fondazione omonima, include ambienti di grande fascino come la Sala di Carlo X, la cappella di Sant'Anna e un ampio parco all'inglese, accessibile gratuitamente. Ospita anche mostre temporanee ed eventi culturali.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo sul Confine di Stato nel Goriziano / Centro Polifunzionale Ex Valico Confinario Sant'Andrea",
+      "address": "Via Sant'Andrea — 34170 Gorizia (quartiere Sant'Andrea, al confine con la Slovenia)",
+      "website_url": "https://go2025.eu",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20sul%20Confine%20di%20Stato%20nel%20Goriziano%20%2F%20Centro%20Polifunzionale%20Ex%20Valico%20Confinario%20Sant'Andrea%2C%20Via%20Sant'Andrea%20%E2%80%94%2034170%20Gorizia%20(quartiere%20Sant'Andrea%2C%20al%20confine%20con%20la%20Slovenia)",
+      "image_url": null,
+      "description": "Situato nell'ex valico di frontiera di Sant'Andrea, il museo documenta la storia del confine tra Italia e Slovenia dal 1947 al 2004, con documenti, uniformi e materiali audiovisivi che raccontano la vita al confine. Il centro ospita anche mostre temporanee e spazi creativi, offrendo uno spaccato coinvolgente della storia recente di Gorizia.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Collezione Archeologica Goriziana — Musei Provinciali",
+      "address": "Nell'area museale del Castello o di Palazzo Attems — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Collezione%20Archeologica%20Goriziana%20%E2%80%94%20Musei%20Provinciali%2C%20Nell'area%20museale%20del%20Castello%20o%20di%20Palazzo%20Attems%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Questa collezione raccoglie materiali archeologici rinvenuti nel territorio goriziano dall'età preistorica al Medioevo, tra cui punte di freccia, vasellame, monete e stele romane. Il lapidario nel giardino di Palazzo Attems Petzenstein arricchisce l'esposizione con elementi decorativi e architettonici locali.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Pinacoteca della Fondazione Cassa di Risparmio di Gorizia (Fondazione Carigo)",
+      "address": "Via Carducci, 2 — 34170 Gorizia",
+      "website_url": "https://fondazionecarigo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20della%20Fondazione%20Cassa%20di%20Risparmio%20di%20Gorizia%20(Fondazione%20Carigo)%2C%20Via%20Carducci%2C%202%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "La pinacoteca della Fondazione Carigo raccoglie dipinti e sculture dal XIX al XXI secolo, con particolare attenzione agli artisti del Friuli Venezia Giulia e dell'area mitteleuropea. La fondazione promuove regolarmente mostre temporanee di rilievo e partecipa attivamente ad eventi culturali come GO! 2025.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "DAG — Digital Art Gallery Gorizia",
+      "address": "Via Giorgio Bombi (galleria sotto il Castello) — 34170 Gorizia",
+      "website_url": "https://go2025.eu",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=DAG%20%E2%80%94%20Digital%20Art%20Gallery%20Gorizia%2C%20Via%20Giorgio%20Bombi%20(galleria%20sotto%20il%20Castello)%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "La DAG — Digital Art Gallery è uno spazio espositivo digitale inaugurato nel contesto di GO! 2025, ospitato nella galleria pedonale e ciclabile sotto il Castello. Propone installazioni immersive e proiezioni di artisti contemporanei, divenendo un punto di riferimento per l'arte digitale e i temi del confine e dell'identità culturale.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Museo VirtualGmuseum",
+      "address": "Accessibile online — www.virtualgmuseum.it",
+      "website_url": "https://www.virtualgmuseum.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20VirtualGmuseum%2C%20Accessibile%20online%20%E2%80%94%20www.virtualgmuseum.it",
+      "image_url": null,
+      "description": "Il VirtualGmuseum è la piattaforma digitale dei Musei Provinciali di Gorizia, che offre tour virtuali delle collezioni del Castello e di Palazzo Attems, schede dettagliate delle opere e contributi multimediali. Ideale per la fruizione a distanza, è uno strumento fondamentale per ricerche e didattica.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Palazzo Lantieri",
+      "address": "Piazza Sant'Antonio, 6 — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Lantieri%2C%20Piazza%20Sant'Antonio%2C%206%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Palazzo storico affacciato sulla suggestiva Piazza Sant'Antonio, il Palazzo Lantieri ospita collezioni d'arte e arredi nobiliari. È aperto al pubblico solo in occasione di eventi e mostre, costituendo una tappa affascinante per la scoperta del patrimonio barocco cittadino.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    },
+    {
+      "name": "Palazzo Attems Santa Croce",
+      "address": "Via Santa Chiara / Corso Italia area — 34170 Gorizia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Attems%20Santa%20Croce%2C%20Via%20Santa%20Chiara%20%2F%20Corso%20Italia%20area%20%E2%80%94%2034170%20Gorizia",
+      "image_url": null,
+      "description": "Seconda storica residenza della famiglia Attems, Palazzo Attems Santa Croce ha architettura barocca di pregio e ospita mostre temporanee di arti applicate e design. È una delle sedi dei Musei Provinciali ed è conosciuto anche per la collezione di moda e arti decorative.",
+      "comune_name": "Gorizia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/gorizia.md"
+    }
+  ]
+}

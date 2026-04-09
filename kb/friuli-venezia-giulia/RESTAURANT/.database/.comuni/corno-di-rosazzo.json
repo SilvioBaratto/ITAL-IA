@@ -1,0 +1,74 @@
+{
+  "comune_name": "Corno di Rosazzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md",
+  "extracted_at": "2026-04-09T11:00:05.082Z",
+  "pois": [
+    {
+      "name": "Osteria Solder",
+      "address": "Via Gramogliano, 14, 33040 Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Solder%2C%20Via%20Gramogliano%2C%2014%2C%2033040%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Osteria Solder propone una cucina friulana rivisitata con tecniche moderne come la cottura a bassa temperatura, mantenendo autenticità e genuinità grazie all'uso di ingredienti locali e stagionali. Gestita dalla chef Tiziana dal 2008, l'osteria unisce tradizione e innovazione in un ambiente raccolto, immerso tra i vigneti dei Colli Orientali. L'offerta culinaria spazia tra piatti italiani e mediterranei, con attenzione particolare alle verdure stagionali e alle carni locali. La vista sui vigneti e la scelta tra posti interni o all'aperto arricchiscono l'esperienza.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Osteria della Ribolla",
+      "address": "Via Forum Julii 2, 33040 Corno di Rosazzo, Udine",
+      "website_url": "https://collavini.it/en/hospitality/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20della%20Ribolla%2C%20Via%20Forum%20Julii%202%2C%2033040%20Corno%20di%20Rosazzo%2C%20Udine",
+      "image_url": null,
+      "description": "Situata nell’antica villa dei Conti Zucco-Cuccagna, Osteria della Ribolla offre una raffinata cucina friulana guidata dallo chef Sasha Klancic e dalla sua brigata. Il menù, che cambia quasi ogni mese, valorizza le tradizioni locali con piatti come il frico, il prosciutto crudo e i toc' in braide. Particolarità di questo locale sono la selezione di vini della casa Collavini, con particolare attenzione alla Ribolla Gialla, e la costante proposta di piatti della tradizione reinterpretati con maestria. L'atmosfera è elegante e profondamente radicata nel territorio.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "L'Osteria di Ca di Bon",
+      "address": "Via Casali Gallo, 1, Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Osteria%20di%20Ca%20di%20Bon%2C%20Via%20Casali%20Gallo%2C%201%2C%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria di Ca di Bon è gestita dalla famiglia Bon e affianca la ristorazione alla produzione vinicola propria, offrendo cucina tipica friulana accompagnata dai vini dell’azienda. L’atmosfera familiare e la cura per la qualità degli ingredienti rendono il locale un punto di riferimento per chi cerca autenticità e passione per il territorio. La presenza di un giardino e di una sala eventi consente diverse soluzioni per feste ed eventi privati.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Pani e Pesci - Trattoria di Terra e Mare",
+      "address": "Via Aquileia, 55, Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pani%20e%20Pesci%20-%20Trattoria%20di%20Terra%20e%20Mare%2C%20Via%20Aquileia%2C%2055%2C%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Pani e Pesci è una trattoria moderna che propone una cucina italiana e mediterranea con piatti sia di terra che di mare, comprendendo specialità di pesce fresco e opzioni vegetariane e senza glutine. Il locale si distingue per la qualità degli ingredienti e la semplicità delle preparazioni, con un’atmosfera informale ideale per pranzi di lavoro o cene rilassanti. Tra i piatti distintivi figurano branzino, calamari e gnocchi, molto apprezzati dalla clientela.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Agriturismo Rocca del Sole",
+      "address": "Via Rocca Bernarda, 13, 33040 Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Rocca%20del%20Sole%2C%20Via%20Rocca%20Bernarda%2C%2013%2C%2033040%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Rocca del Sole unisce ristorazione e accoglienza in una cornice rurale immersa tra i vigneti dei Colli Orientali, offrendo cucina friulana autentica e vini di produzione propria. Gestito dalla famiglia Magnan, il locale propone specialità tradizionali come frico, razza, gnocchi e affettati locali, utilizzando ingredienti di piccoli produttori del territorio. L'azienda vinicola è pluripremiata e la struttura accoglie gruppi per eventi e degustazioni in un ambiente genuino e familiare.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md"
+    },
+    {
+      "name": "Trattoria alla Tavernetta",
+      "address": "Via IV Novembre 4, 33040 Corno di Rosazzo (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Tavernetta%2C%20Via%20IV%20Novembre%204%2C%2033040%20Corno%20di%20Rosazzo%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria alla Tavernetta è un locale storico di Corno di Rosazzo, apprezzato per l’atmosfera intima e la gestione familiare. Propone piatti tipici della cucina friulana, mantenendo vive le ricette tradizionali che caratterizzano la gastronomia del territorio. È un punto di riferimento per una cucina autentica e senza fronzoli, molto amata dai residenti e dai visitatori in cerca di sapori genuini.",
+      "comune_name": "Corno di Rosazzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/corno-di-rosazzo.md"
+    }
+  ]
+}

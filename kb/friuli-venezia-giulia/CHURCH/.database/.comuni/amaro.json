@@ -1,0 +1,41 @@
+{
+  "comune_name": "Amaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/amaro.md",
+  "extracted_at": "2026-04-09T10:18:00.499Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Nicolò Vescovo",
+      "address": "Via San Nicolò, 33020 Amaro (UD)",
+      "website_url": "https://www.comune.amaro.ud.it/vivere-il-comune/luoghi/chiesa-di-san-nicolo-vescovo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Nicol%C3%B2%20Vescovo%2C%20Via%20San%20Nicol%C3%B2%2C%2033020%20Amaro%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Nicolò Vescovo è il principale edificio di culto di Amaro, con origini documentate già intorno al 1350, e si trova in posizione scenografica su un sedime terrazzato. La struttura presenta una tipica pianta rettangolare di impianto medievale ed è affiancata da una torre campanaria autonoma, elemento caratteristico dell’architettura sacra alpina friulana. L’edificio è posto nell’area cimiteriale e conserva tracce della tradizione religiosa locale, pur avendo subito restauri dopo il terremoto del 1976. Appartiene all’Arcidiocesi di Udine e svolge un ruolo centrale nella vita spirituale della comunità.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/amaro.md"
+    },
+    {
+      "name": "Chiesa di San Valentino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Valentino%2C%20Amaro",
+      "image_url": null,
+      "description": "La chiesa di San Valentino è un edificio di culto cattolico situato a sud del centro di Amaro, probabilmente in una posizione di frazione. Dedicata a San Valentino, vescovo e martire, la struttura è tipica delle cappelle votive rurali friulane e fungeva da oratorio di quartiere, senza tuttavia le dimensioni o l’importanza di una parrocchiale. Mancano dati su datazione, stile e contenuti artistici, ma la chiesa testimonia la devozione popolare diffusa nelle aree alpine di Carnia.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/amaro.md"
+    },
+    {
+      "name": "Chiesetta della Maina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20della%20Maina%2C%20Amaro",
+      "image_url": null,
+      "description": "La Chiesetta della Maina si trova nell’omonima località del comune di Amaro e rientra nella categoria delle cappelle votive rurali, caratteristiche del territorio carnico. Si tratta probabilmente di un minuscolo edificio in muratura, nato come ex voto o luogo di sosta per preghiera, senza che sia nota la dedicazione precisa o la presenza di opere d’arte. Rappresenta un esempio tipico della devozione popolare diffusa nelle borgate e contrade montane.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/amaro.md"
+    }
+  ]
+}

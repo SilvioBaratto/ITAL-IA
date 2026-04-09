@@ -1,0 +1,52 @@
+{
+  "comune_name": "Budoia",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/budoia.md",
+  "extracted_at": "2026-04-09T10:20:06.513Z",
+  "pois": [
+    {
+      "name": "Pieve di Santa Maria Maggiore — Dardago",
+      "address": null,
+      "website_url": "http://parrocchie-artugna.blogspot.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santa%20Maria%20Maggiore%20%E2%80%94%20Dardago%2C%20Budoia",
+      "image_url": null,
+      "description": "La Pieve di Santa Maria Maggiore di Dardago è la chiesa matrice storica della val d'Artugna, le cui origini risalgono ad almeno il 1285, forse anche precedenti. L'attuale edificio fu costruito tra il 1786 e il 1823 su progetto di Francesco Riccati in stile neoclassico e conserva numerose opere d'arte di pregio, come affreschi di Gian Carlo Bevilacqua, pale d'altare storiche e statue del settecento. Il campanile, alto 50 metri, è simbolo dell'identità religiosa del territorio e testimonia la stratificazione artistica e devozionale locale.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/budoia.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Sant'Andrea Apostolo — Budoia",
+      "address": "Via Cardazzo, Budoia capoluogo",
+      "website_url": "https://parrocchie-artugna.blogspot.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Budoia%2C%20Via%20Cardazzo%2C%20Budoia%20capoluogo",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di Sant'Andrea Apostolo fu costruita tra il 1785 e il 1795 come filiazione della pieve di Dardago, su progetto dell'architetto Antonio Aprilis. In stile neoclassico, presenta una navata unica decorata da un ciclo di affreschi monumentali tra cui un Giudizio Universale e opere di Leonardo Rigo e Giuseppe Minatelli. Di particolare rilievo è anche un crocifisso attribuito allo scultore veneto-barocco Orazio Marinali.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/budoia.md"
+    },
+    {
+      "name": "Chiesetta di Santa Lucia in Colle — Santa Lucia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20Santa%20Lucia%20in%20Colle%20%E2%80%94%20Santa%20Lucia%2C%20Budoia",
+      "image_url": null,
+      "description": "La chiesetta di Santa Lucia sorge su un colle con vista panoramica, nel territorio della frazione omonima di Budoia, e risale al XIV secolo con successive aggiunte. È un esempio tipico di cappella rurale friulana, caratterizzata da muratura in pietra e ambiente unico. La sua particolarità è uno straordinario affresco attribuito a Gianfrancesco da Tolmezzo (XV secolo), rappresentante il Martirio di Santa Lucia, che ne fa una tappa d'obbligo per la pittura tardo Quattrocentesca friulana.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/budoia.md"
+    },
+    {
+      "name": "Oratorio di San Tomè — Valle di San Tomè, Dardago",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20di%20San%20Tom%C3%A8%20%E2%80%94%20Valle%20di%20San%20Tom%C3%A8%2C%20Dardago%2C%20Budoia",
+      "image_url": null,
+      "description": "L'Oratorio di San Tomè si trova nella valle omonima a nord di Dardago, immerso in un contesto naturale e storico di grande fascino, frequentato fin dal Neolitico. Edificato in epoca medievale, servì come luogo di culto e riferimento spirituale per le comunità locali prima dello spostamento verso Dardago. Pur semplice e privo di opere rilevanti, la chiesetta è una preziosa testimonianza della devozione popolare e parte degli itinerari culturali e naturalistici dell'ecomuseo di Budoia.",
+      "comune_name": "Budoia",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/budoia.md"
+    }
+  ]
+}

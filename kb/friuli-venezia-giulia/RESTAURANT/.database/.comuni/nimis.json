@@ -1,0 +1,118 @@
+{
+  "comune_name": "Nimis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md",
+  "extracted_at": "2026-04-09T11:09:23.374Z",
+  "pois": [
+    {
+      "name": "Trattoria Alle Valanghe",
+      "address": "Via San Gervasio 29",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alle%20Valanghe%2C%20Via%20San%20Gervasio%2029",
+      "image_url": null,
+      "description": "Trattoria Alle Valanghe è il riferimento della ristorazione popolare a Nimis, molto apprezzata su TripAdvisor. Gestita da Marco Manzocco, offre autentica cucina friulana, specializzandosi in carni grigliate e piatti tradizionali regionali serviti in un ambiente rustico e accogliente. L'atmosfera familiare e la fascia di prezzo accessibile fanno di questa trattoria una meta ideale per chi cerca genuinità e tradizione gastronomica friulana.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Osteria di Ramandolo",
+      "address": "Via Ramandolo 22",
+      "website_url": "http://www.osteriadiramandolo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20di%20Ramandolo%2C%20Via%20Ramandolo%2022",
+      "image_url": null,
+      "description": "Fondata nel 1880, Osteria di Ramandolo è una storica taverna nel cuore della zona vinicola di Ramandolo, oggi sapientemente gestita da Pietro Greco e Ilenia. La cucina valorizza prodotti locali d'eccellenza, dagli insaccati tipici alle specialità come lumache stufate, polenta arrosto e petto di fagiano, accompagnate da una curata selezione di vini locali, soprattutto Ramandolo DOCG. L'ambiente rustico ma raffinato e le suggestive viste sui vigneti rendono l'osteria un luogo magico e autentico.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Trattoria Lis Campanelis",
+      "address": "Via Tarcento 8",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Lis%20Campanelis%2C%20Via%20Tarcento%208",
+      "image_url": null,
+      "description": "Trattoria Lis Campanelis, a gestione familiare, si distingue per la sapiente preparazione di carni grigliate, dalla tagliata di manzo alle costine e bistecche, usando ingredienti locali di alta qualità. La cucina celebra con passione la tradizione friulana, offrendo piatti iconici come Frico, Brovada, selvaggina e minestrone di verdure dell’orto. L’ambiente è confortevole e climatizzato, con un’atmosfera di autentica ospitalità rurale friulana.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Alla Trota del Cornappo",
+      "address": "Via Cornappo 6",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Trota%20del%20Cornappo%2C%20Via%20Cornappo%206",
+      "image_url": null,
+      "description": "Da oltre vent'anni, Alla Trota del Cornappo offre un'esperienza gastronomica incentrata sulla trota d’acqua dolce, allevata nel vicino stagno visibile dalla sala. Il locale propone diverse preparazioni della trota e piatti della tradizione come la polenta arrosto, offrendo un’atmosfera conviviale e prezzi accessibili. È molto apprezzato dalle famiglie e chi cerca freschezza e autenticità nei prodotti ittici locali.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Osteria al Torrente",
+      "address": "Via XII Dicembre 44",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Torrente%2C%20Via%20XII%20Dicembre%2044",
+      "image_url": null,
+      "description": "Osteria al Torrente è nota per la propria piscicoltura e per la cucina specializzata nella trota, proposta in molte varianti a seconda delle stagioni. Il locale offre anche alternative a base di altri pesci d’acqua dolce e ospita una suggestiva area esterna affacciata sulle vasche. L’atmosfera rustica, l’ospitalità familiare e le porzioni generose la rendono meta ideale per chi ama la cucina di pesce semplice e genuina.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Albergo Ristorante Pizzeria Al Paradiso",
+      "address": "Via XXV Agosto 37",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Pizzeria%20Al%20Paradiso%2C%20Via%20XXV%20Agosto%2037",
+      "image_url": null,
+      "description": "Al Paradiso integra una struttura alberghiera moderna, un ristorante, una pizzeria e un ampio bar, offrendo così una soluzione completa per chi desidera pernottare e mangiare senza spostarsi. La cucina spazia dalle grigliate di carne e pesce ai piatti tipici friulani e un'ampia selezione di pizze, in un ambiente confortevole e famigliare. È una scelta affidabile per chi visita Nimis e cerca comfort e varietà.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Al Friuli",
+      "address": "Via Taipana 44",
+      "website_url": "http://alfriuli.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Friuli%2C%20Via%20Taipana%2044",
+      "image_url": null,
+      "description": "Al Friuli propone una cucina contemporanea e genuina con radici nella tradizione locale, accostando panini e burger gourmet realizzati con materie prime artigianali a piatti veri e propri. Il locale, che funge anche da albergo, si distingue per le frequenti serate di musica dal vivo e per la particolare attenzione a ingredienti locali e birre artigianali. L’atmosfera è informale ma curata, ideale per chi cerca innovazione e convivialità.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "I Comelli - Agriturismo con Ristorante",
+      "address": "Largo Armando Diaz 8",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=I%20Comelli%20-%20Agriturismo%20con%20Ristorante%2C%20Largo%20Armando%20Diaz%208",
+      "image_url": null,
+      "description": "I Comelli è un agriturismo a conduzione familiare che offre piatti friulani stagionali, preparati con prodotti dell'orto e carni della propria fattoria o di fornitori locali affidabili. Il menu varia seguendo il calendario agricolo e include portate come minestra d’orzo, Frico, Brovada e selvaggina. L’ambiente rurale e autentico, tra veranda panoramica e giardino, rende l’esperienza particolarmente accogliente e tipica della campagna friulana.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Blanc e Neri - La di Cjapen",
+      "address": "Via dei Fabbri 8",
+      "website_url": "https://ladicjapen.wordpress.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Blanc%20e%20Neri%20-%20La%20di%20Cjapen%2C%20Via%20dei%20Fabbri%208",
+      "image_url": null,
+      "description": "Blanc e Neri - La di Cjapen è una spuntineria agrituristica che propone salumi, prosciutti e formaggi tradizionali friulani prodotti in fattoria, con un menu stagionale e ridotto basato sull'eccellenza delle materie prime. L’ambiente familiare e raccolto richiama quello di una casa di campagna, puntando sulla qualità delle relazioni oltre che del cibo. La selezione di vini della casa completa un’esperienza autenticamente contadina e conviviale.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    },
+    {
+      "name": "Borgo Romanzo - Azienda Vitivinicola e Agriturismo",
+      "address": null,
+      "website_url": "http://borgoromanzo.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Romanzo%20-%20Azienda%20Vitivinicola%20e%20Agriturismo%2C%20Nimis",
+      "image_url": null,
+      "description": "Borgo Romanzo, inaugurato nel 2024, unisce azienda vitivinicola, agriturismo e frasca in un contesto panoramico nel cuore delle colline di Ramandolo. Oltre a produrre vini tipici friulani, olio d’oliva e birra artigianale, offre esperienze enogastronomiche nella taverna in abbinamento ai vini e piatti locali. La struttura è elegante e immersa nella natura, ideale per chi desidera rilassarsi tra vigneti e buona cucina friulana.",
+      "comune_name": "Nimis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/nimis.md"
+    }
+  ]
+}

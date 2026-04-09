@@ -1,0 +1,41 @@
+{
+  "comune_name": "Fogliano Redipuglia",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fogliano-redipuglia.md",
+  "extracted_at": "2026-04-09T10:14:12.455Z",
+  "pois": [
+    {
+      "name": "Bar Al Carso",
+      "address": "Via Redipuglia, 69",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Al%20Carso%2C%20Via%20Redipuglia%2C%2069",
+      "image_url": null,
+      "description": "Il Bar Al Carso è il tipico bar di paese della frazione di Fogliano, situato lungo Via Redipuglia. Frequentato da residenti e gestito da 'Qiu Wei & C. S.n.c.', mantiene la funzione sociale di punto di ritrovo quotidiano. Offre colazioni classiche all'italiana e aperitivi in un ambiente semplice, senza pretese ma radicato nel tessuto locale.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Rosy's Bar",
+      "address": "Via Doberdò · Fogliano Redipuglia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rosy's%20Bar%2C%20Via%20Doberd%C3%B2%20%C2%B7%20Fogliano%20Redipuglia",
+      "image_url": null,
+      "description": "Rosy's Bar è un piccolo locale situato in Via Doberdò, nel cuore della frazione di Fogliano. Si distingue per una vocazione serale e conviviale, offrendo birre e aperitivi in un ambiente informale e raccolto. Frequentato soprattutto da una clientela affezionata, rappresenta una scelta ideale per chi cerca relax e socialità dopo cena.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fogliano-redipuglia.md"
+    },
+    {
+      "name": "Bar Trattoria 15-18",
+      "address": "Via del Carso · Redipuglia, Fogliano Redipuglia",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%2015-18%2C%20Via%20del%20Carso%20%C2%B7%20Redipuglia%2C%20Fogliano%20Redipuglia",
+      "image_url": null,
+      "description": "Il Bar Trattoria 15-18 si trova nella frazione di Redipuglia, vicino al Sacrario militare. Il locale, ispirato agli anni della Grande Guerra, propone la formula del bar-trattoria con caffè e colazioni al mattino, cucina locale a pranzo e aperitivi nel pomeriggio. È uno dei pochi punti di ristoro a portata di piedi dal monumento e svolge funzione sia di caffetteria per residenti sia di sosta per turisti.",
+      "comune_name": "Fogliano Redipuglia",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/fogliano-redipuglia.md"
+    }
+  ]
+}

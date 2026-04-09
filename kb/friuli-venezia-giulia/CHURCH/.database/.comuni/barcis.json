@@ -1,0 +1,63 @@
+{
+  "comune_name": "Barcis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/barcis.md",
+  "extracted_at": "2026-04-09T10:19:14.943Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Giovanni Battista",
+      "address": "Barcis (via Piave)",
+      "website_url": "http://www.barcis.fvg.it/Chiese-e-devozione.31.0.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giovanni%20Battista%2C%20Barcis%20(via%20Piave)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giovanni Battista è il principale luogo di culto di Barcis e rappresenta il cuore religioso della comunità. L'attuale edificio, di stile barocco-rurale, fu costruito nel XVIII secolo e ampliato tra il 1866 e il 1875. All'interno spiccano un altare maggiore in marmo, statue lignee dei Santi Pietro e Paolo, e il fonte battesimale del XVI secolo, oltre agli affreschi novecenteschi del presbiterio. L'atmosfera semplice e raccolta riflette la tradizione architettonica religiosa di montagna.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/barcis.md"
+    },
+    {
+      "name": "Cappella di San Daniele del Monte (ruderi)",
+      "address": "Barcis (loc. Roppe / via San Daniele del Monte)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Daniele%20del%20Monte%20(ruderi)%2C%20Barcis%20(loc.%20Roppe%20%2F%20via%20San%20Daniele%20del%20Monte)",
+      "image_url": null,
+      "description": "La cappella di San Daniele del Monte, risalente al 1240 circa, è il più antico sito religioso di Barcis, oggi ridotto a ruderi. Un tempo meta di importanti pellegrinaggi grazie al privilegio delle indulgenze paragonabili a quelle della cattedrale di Concordia, fu distrutta da un fulmine nel 1806. I resti sono ancora visitabili e testimoniano l'antica devozione delle comunità montane di questo territorio.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/barcis.md"
+    },
+    {
+      "name": "Ex Pieve di San Giorgio in Cellis (loc. Roppe)",
+      "address": "Barcis (loc. Roppe / Rope)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ex%20Pieve%20di%20San%20Giorgio%20in%20Cellis%20(loc.%20Roppe)%2C%20Barcis%20(loc.%20Roppe%20%2F%20Rope)",
+      "image_url": null,
+      "description": "L'ex pieve di San Giorgio in Cellis è la più antica chiesa della Val Cellina, con origini nell'VIII secolo e successive ricostruzioni in epoca settecentesca e restauri alpini nel 1969. Sorge nel sito del villaggio scomparso di Cellis e fu il centro religioso di tutta la valle medievale. L'edificio attuale è modesto ma curato, con elementi come la bifora campanaria e all'interno una scultura ligne di San Giovanni Battista e un'acquasantiera settecentesca.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/barcis.md"
+    },
+    {
+      "name": "Chiesa di San Francesco (loc. Ribe)",
+      "address": "Barcis (loc. Ribe, via San Francesco)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Francesco%20(loc.%20Ribe)%2C%20Barcis%20(loc.%20Ribe%2C%20via%20San%20Francesco)",
+      "image_url": null,
+      "description": "La chiesa di San Francesco, unica in Valcellina dedicata al santo di Assisi, fu costruita nella prima metà del XVIII secolo su un antico nucleo. Legata alla devozione popolare contro i lupi, ospita una scultura in pietra di San Francesco col lupo sull'altare. Nei secoli, servì anche come stazione di sosta per pellegrini e viandanti e, saltuariamente, come parrocchiale provvisoria durante i lavori alla chiesa principale.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/barcis.md"
+    },
+    {
+      "name": "Chiesetta degli Alpini (loc. Cuol)",
+      "address": "Barcis (loc. Cuol)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20degli%20Alpini%20(loc.%20Cuol)%2C%20Barcis%20(loc.%20Cuol)",
+      "image_url": null,
+      "description": "La Chiesetta degli Alpini, costruita nel XX secolo in località Cuol, è un piccolo oratorio dedicato alla memoria dei soldati caduti nella zona durante la Grande Guerra. Pur priva di pregio artistico rilevante, è significativa come documento della devozione popolare alpina e segno del forte legame della comunità con la storia locale.",
+      "comune_name": "Barcis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/barcis.md"
+    }
+  ]
+}

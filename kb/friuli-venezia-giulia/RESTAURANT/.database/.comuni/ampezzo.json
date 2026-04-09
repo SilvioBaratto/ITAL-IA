@@ -1,0 +1,129 @@
+{
+  "comune_name": "Ampezzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md",
+  "extracted_at": "2026-04-09T10:53:02.232Z",
+  "pois": [
+    {
+      "name": "Locanda Rio Nier",
+      "address": "Via Sauris, 1",
+      "website_url": "https://www.sluurpy.it/ampezzo/ristorante/132154/locanda-rio-nier",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Rio%20Nier%2C%20Via%20Sauris%2C%201",
+      "image_url": null,
+      "description": "La Locanda Rio Nier è una delle strutture più rinomate di Ampezzo, specializzata nella cucina carnica e nella carne di cavallo grigliata. La veranda panoramica, l'atmosfera autentica di montagna e il servizio attento rendono questa locanda un punto di riferimento per chi desidera gustare piatti tradizionali della Carnia e del Veneto. Il locale dispone di servizi accessibili e offre un ambiente familiare con prezzi medi nella fascia 30-40 euro. È aperta da giovedì a domenica.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Agriturismo Primavera",
+      "address": null,
+      "website_url": "http://www.agriturismoprimavera.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Primavera%2C%20Ampezzo",
+      "image_url": null,
+      "description": "L'Agriturismo Primavera, nella località di Gof nei pressi del centro di Ampezzo, combina ospitalità agrituristica e cucina di qualità in mezzo alla natura. Offre ambienti accessibili, camere per il pernottamento e un'atmosfera familiare tipica della campagna friulana, con stalla e servizi per l'equitazione. Qui si può vivere un'esperienza gastronomica genuina e rilassante tra boschi e prati.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Albergo Ristorante Al Pura",
+      "address": null,
+      "website_url": "http://www.albergoalpura.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Al%20Pura%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Con una tradizione quasi centenaria, l'Albergo Ristorante Al Pura propone specialità di montagna e piatti tipici a base di selvaggina, espressione autentica della cucina carnica. È un punto di riferimento storico per la zona, ideale per chi visita il Passo della Pura e vuole assaporare la gastronomia friulana locale in un contesto accogliente.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Albergo Ristorante Altura",
+      "address": "Via Nazionale, 12",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20Altura%2C%20Via%20Nazionale%2C%2012",
+      "image_url": null,
+      "description": "L'Albergo Ristorante Altura, situato sulla Via Nazionale, offre ospitalità turistica e cucina della tradizione locale, rappresentando una tappa ideale per i viaggiatori che attraversano Ampezzo. Il locale unisce alloggi e ristorazione tipica in un ambiente accogliente.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Agriturismo Schene Welde",
+      "address": "Passo Pura",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Schene%20Welde%2C%20Passo%20Pura",
+      "image_url": null,
+      "description": "Agriturismo Schene Welde è immerso nell'ambiente tipico della montagna carnica a Passo Pura e offre un'esperienza rurale con cucina tradizionale. Qui la ristorazione si armonizza con la tradizione agrituristica e la natura circostante, ideale per chi cerca autenticità gastronomica e paesaggistica.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Pizzeria Al Greco",
+      "address": "Via Ellero, 42",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Greco%2C%20Via%20Ellero%2C%2042",
+      "image_url": null,
+      "description": "La Pizzeria Al Greco, in Via Ellero, propone una cucina casalinga con forte accento sulla pizza e sui piatti italiani genuini. Il locale è dotato di veranda esterna, servizio d'asporto e ampio parcheggio, offrendo un'accoglienza semplice e attenta alla tradizione della pizza italiana.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Osteria Monte Jòf",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Monte%20J%C3%B2f%2C%20Ampezzo",
+      "image_url": null,
+      "description": "L'Osteria Monte Jòf offre una cucina carnica con specialità di selvaggina, carni grigliate e piatti casalinghi. La grande veranda esterna e la vicinanza ai sentieri escursionistici rendono questo locale la scelta ideale per chi cerca sapori autentici in un'atmosfera di montagna.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Bar Pizzeria da Nello",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Pizzeria%20da%20Nello%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Il Bar Pizzeria da Nello è un'opzione informale ad Ampezzo per chi desidera gustare la pizza in un ambiente semplice e tradizionale di paese. L'atmosfera è genuina e familiare, rispecchiando lo stile della ristorazione di zona.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Grizzly",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Grizzly%2C%20Ampezzo",
+      "image_url": null,
+      "description": "Il Ristorante Pizzeria Grizzly propone pizza e piatti italiani in un ambiente casual. È una delle proposte pizzericole del comune, ideale per chi cerca informalità e sapori classici.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "ariaPura",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=ariaPura%2C%20Ampezzo",
+      "image_url": null,
+      "description": "ariaPura è una recente apertura nel centro di Ampezzo che offre sia ospitalità alberghiera che ristorazione. Si distingue per la modernità delle sue strutture pur mantenendo un forte legame con la tradizione gastronomica regionale.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    },
+    {
+      "name": "Rifugio Tita Piaz",
+      "address": "Passo Pura",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Tita%20Piaz%2C%20Passo%20Pura",
+      "image_url": null,
+      "description": "Il Rifugio Tita Piaz, situato a Passo Pura, offre l'esperienza del tipico rifugio alpino con storica tradizione culinaria montanara. L'ambiente suggestivo a 610 metri di altitudine permette di gustare piatti della cucina carnica immersi nella natura.",
+      "comune_name": "Ampezzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ampezzo.md"
+    }
+  ]
+}

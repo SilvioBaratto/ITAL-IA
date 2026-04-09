@@ -1,0 +1,30 @@
+{
+  "comune_name": "Dolegna del Collio",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dolegna-del-collio.md",
+  "extracted_at": "2026-04-09T10:24:23.170Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Giuseppe — Dolegna del Collio (capoluogo)",
+      "address": "Piazza principale, Dolegna del Collio (GO)",
+      "website_url": "http://www.chiesacormons.it/content/chiesa-di-san-giuseppe",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Giuseppe%20%E2%80%94%20Dolegna%20del%20Collio%20(capoluogo)%2C%20Piazza%20principale%2C%20Dolegna%20del%20Collio%20(GO)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Giuseppe, situata nella piazza principale di Dolegna del Collio, fu completamente ricostruita nel 1927 su progetto dell’architetto Silvano Baresi in seguito ai danni subiti durante la Prima guerra mondiale. La facciata è sobria, caratterizzata da un rosone circolare e dal campanile ottocentesco originale. L'interno ospita notevoli cicli pittorici di Tiburzio Donadon e diverse opere d’arte, tra cui sculture lignee della Val Gardena e una tela futurista di L. Castellan del 1942. È uno degli esempi più significativi di architettura religiosa novecentesca della zona, con eleganti decorazioni e arredi sacri di pregio.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dolegna-del-collio.md"
+    },
+    {
+      "name": "Cappella di San Giacomo — Lonzano",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Giacomo%20%E2%80%94%20Lonzano%2C%20Dolegna%20del%20Collio",
+      "image_url": null,
+      "description": "La Cappella di San Giacomo si trova nella frazione di Lonzano, di fronte alla storica Villa Zorutti-Frisacco, ed è dedicata al patrono della piccola comunità locale. È una cappella campestre di piccole dimensioni, con architettura semplice e lineare, tipica degli edifici votivi rurali friulani tra il XVII e il XVIII secolo. Rimane oggi l’unico luogo di culto di Lonzano, preziosa testimonianza del radicamento religioso nelle campagne collinari del Collio.",
+      "comune_name": "Dolegna del Collio",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/dolegna-del-collio.md"
+    }
+  ]
+}

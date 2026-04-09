@@ -1,0 +1,63 @@
+{
+  "comune_name": "Cavazzo Carnico",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavazzo-carnico.md",
+  "extracted_at": "2026-04-09T10:44:47.620Z",
+  "pois": [
+    {
+      "name": "Ecomuseo della Val del Lago – Centro Visite di Cavazzo Carnico",
+      "address": null,
+      "website_url": "https://www.ecomuseovaldellago.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20della%20Val%20del%20Lago%20%E2%80%93%20Centro%20Visite%20di%20Cavazzo%20Carnico%2C%20Cavazzo%20Carnico",
+      "image_url": null,
+      "description": "L’Ecomuseo della Val del Lago è un sistema museale diffuso dedicato alla valorizzazione del patrimonio naturale, storico e culturale dei comuni rivieraschi di Cavazzo Carnico, Bordano e Trasaghis. Il progetto comprende vari siti come il Centro Visite del Parco Botanico, un museo della pesca, il Mulino di Gaspar, il Forte del Monte Festa e la centrale idroelettrica di Somplago. L’ecomuseo propone attività stagionali che includono visite guidate, escursioni tematiche, laboratori e percorsi di comunità. Si privilegia così una chiave di lettura integrata che valorizza il territorio e la storia locale.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Antiquarium di Cesclans",
+      "address": "adiacente alla Pieve di Santo Stefano Protomartire, Via del Tiglio 1, Cesclans",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antiquarium%20di%20Cesclans%2C%20adiacente%20alla%20Pieve%20di%20Santo%20Stefano%20Protomartire%2C%20Via%20del%20Tiglio%201%2C%20Cesclans",
+      "image_url": null,
+      "description": "L’Antiquarium di Cesclans, situato sotto la storica Pieve di Santo Stefano, è un piccolo spazio espositivo che conserva reperti di epoca tardoantica e altomedievale. Vi si possono ammirare una tomba-mausoleo, resti ossei umani, affreschi antichi e materiali come monete, rosari e corredi funerari. Il museo testimonia la continuità d’uso del sito e il suo ruolo strategico nella storia della Carnia. L’accesso è gratuito ma limitato agli orari della messa domenicale.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Mulino di Gaspar (Mulino Brunetti) – Cellula ecomuseale",
+      "address": null,
+      "website_url": "https://www.ecomuseovaldellago.it/mulino-di-gaspar-a-cavazzo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Mulino%20di%20Gaspar%20(Mulino%20Brunetti)%20%E2%80%93%20Cellula%20ecomuseale%2C%20Cavazzo%20Carnico",
+      "image_url": null,
+      "description": "Il Mulino di Gaspar, noto anche come Mulino Brunetti, è l’ultimo mulino idraulico integro di Cavazzo Carnico, collocato nel borgo di Villa. Conserva ancora la struttura meccanica originale, con antichi ingranaggi in legno e una ruota sostituita in ferro negli anni Trenta del Novecento. Restaurato dopo i danni del terremoto del 1976, il mulino si visita su prenotazione e rappresenta una significativa testimonianza della tradizione artigianale locale.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Forte del Monte Festa – Sito storico-militare",
+      "address": null,
+      "website_url": "https://www.ecomuseovaldellago.it/forte-del-monte-festa/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Forte%20del%20Monte%20Festa%20%E2%80%93%20Sito%20storico-militare%2C%20Cavazzo%20Carnico",
+      "image_url": null,
+      "description": "Il Forte del Monte Festa è una fortezza militare costruita nei primi anni del Novecento sulla cima dell’omonimo monte, a 1055 m di altitudine. Importante avamposto durante la Prima Guerra Mondiale, oggi conserva gallerie, ruderi e postazioni militari visitabili. L’accesso avviene tramite sentieri escursionistici e il sito è dotato di barriere protettive e cartelli informativi per valorizzare il percorso storico. Il forte offre scenari panoramici su valli e montagne circostanti.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Arte industriale nella Centrale idroelettrica di Somplago",
+      "address": null,
+      "website_url": "https://www.ecomuseovaldellago.it/i-beni-artistici/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Arte%20industriale%20nella%20Centrale%20idroelettrica%20di%20Somplago%2C%20Cavazzo%20Carnico",
+      "image_url": null,
+      "description": "La Centrale idroelettrica di Somplago ospita due notevoli opere d’arte moderna: un lungo affresco di 80 metri del pittore Walter Resentera dedicato alla storia del Friuli e un mosaico realizzato da Mario Deluigi con il contributo della Scuola di Mosaico di Spilimbergo. Questi capolavori sono stati commissionati negli anni Cinquanta dalla SADE e rappresentano un raro esempio di arte industriale integrata all’architettura produttiva. La visita è possibile su prenotazione tramite l’Ecomuseo.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cavazzo-carnico.md"
+    }
+  ]
+}

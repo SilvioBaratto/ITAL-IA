@@ -1,0 +1,107 @@
+{
+  "comune_name": "Cordenons",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md",
+  "extracted_at": "2026-04-09T10:59:32.214Z",
+  "pois": [
+    {
+      "name": "Al Curtif - Osteria Ristorante",
+      "address": "Via del Cristo 3, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Curtif%20-%20Osteria%20Ristorante%2C%20Via%20del%20Cristo%203%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Al Curtif è un ristorante ospitato in una storica casa colonica friulana della fine dell’Ottocento, caratterizzato da un ampio giardino e un porticato per la ristorazione estiva. Propone cucina tipica friulana con piatti realizzati secondo ricette tradizionali e ingredienti di qualità, con particolare attenzione anche a chi è celiaco grazie a una cucina certificata senza glutine. L’atmosfera è calda e accogliente, i prezzi sono contenuti e il servizio è curato. È ideale per chi desidera assaporare l’autentica cucina friulana in un contesto storico e verde.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Ristorante alla Campana",
+      "address": "Piazza della Vittoria 39, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20alla%20Campana%2C%20Piazza%20della%20Vittoria%2039%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Il Ristorante alla Campana si trova nel cuore storico di Cordenons e offre un’esperienza culinaria raffinata con menù che unisce la tradizione veneto-friulana a interpretazioni moderne. La cucina propone specialità di pesce e piatti di carne, valorizzando sempre ingredienti freschi di stagione, il tutto in un ambiente elegante con possibilità di pranzare all’aperto sulla piazza. I prezzi sono medio-alti e l’atmosfera è formale ma accogliente, ideale per pranzi di lavoro o cene romantiche.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Birreria Monaco",
+      "address": "Piazza della Vittoria 51, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Birreria%20Monaco%2C%20Piazza%20della%20Vittoria%2051%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Gestita da Mirko Zancai, la Birreria Monaco è un locale storico caratterizzato da un'atmosfera conviviale e giovane. Offre una ricca selezione di birre artigianali accompagnate da piatti tipici bavaresi e friulani, come club sandwich, penne, cevapcici e carni alla griglia, in un ambiente informale spesso animato da musica dal vivo. I prezzi sono accessibili e la qualità del servizio è riconosciuta da ottime recensioni dei clienti.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Osteria Montegrappa di Massini Franco",
+      "address": "Piazza della Vittoria 61, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Montegrappa%20di%20Massini%20Franco%2C%20Piazza%20della%20Vittoria%2061%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "L’Osteria Montegrappa si distingue per la cucina friulana autentica e casalinga, preparata con ingredienti di stagione. Il menù varia di frequente, offrendo piatti come frico con polenta, gnocchi, zuppe d’orzo e baccalà alla vicentina. L’atmosfera è informale e perfetta per gruppi e famiglie, con una spiccata attenzione alla genuinità e al calore dell’accoglienza.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "La Spianata da Niko",
+      "address": "Via Sclavons 185, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Spianata%20da%20Niko%2C%20Via%20Sclavons%20185%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "La Spianata da Niko è una pizzeria rinomata per la pizza sottile e digeribile, preparata con ingredienti di prima qualità. Propone tre livelli di croccantezza e la possibilità di ordinare la pizza al metro, ideale per gruppi e condivisioni. Il locale è apprezzato per la dedizione al mestiere, le porzioni generose e il buon rapporto qualità-prezzo, con recensioni molto positive da parte dei clienti.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Damasco - Prosciutteria Pizzeria",
+      "address": "Via Vial di Romans 92, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Damasco%20-%20Prosciutteria%20Pizzeria%2C%20Via%20Vial%20di%20Romans%2092%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Damasco combina la tradizione delle prosciutterie con la proposta completa di pizzeria e ristorante leggero. Offre pizze realizzate con farine selezionate e piatti come tagliolini con prosciutto di San Daniele e Parmigiano o tagliata di scottona, oltre a taglieri di salumi e formaggi di qualità. È ideale per una pausa veloce, un aperitivo, o una cena informale, mantenendo sempre attenzione alle materie prime.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Giotto Pizza",
+      "address": "Via Giotto 18, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Giotto%20Pizza%2C%20Via%20Giotto%2018%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Giotto Pizza è una pizzeria artigianale gestita da un pizzaiolo con quarant’anni di esperienza. Le pizze sono preparate e cotte rigorosamente in forno a legna, anche con opzioni vegetariane, e vengono servite in un ambiente semplice ma accogliente, con scelta tra posti interni ed esterni. Il locale è noto per l’attenzione agli ingredienti, la cortesia del personale e la qualità costante, come attestano le numerose recensioni positive.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Osteria Alla Passeggiata",
+      "address": "Via Portolana 44, Villa d'Arco, 33084 Cordenons (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alla%20Passeggiata%2C%20Via%20Portolana%2044%2C%20Villa%20d'Arco%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Situata presso Villa d’Arco, l’Osteria Alla Passeggiata offre cucina tradizionale friulana in un ambiente confortevole, semplice e climatizzato. È particolarmente apprezzata tra le guide locali per la sua autenticità e dedizione alle ricette tipiche, offrendo un servizio diretto e familiare, adatto sia a chi cerca cucina casalinga che a chi vuole riscoprire le tradizioni.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    },
+    {
+      "name": "Agriturismo Il Faggio",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Il%20Faggio%2C%20Cordenons",
+      "image_url": null,
+      "description": "Agriturismo Il Faggio accoglie i visitatori in un ambiente rustico e genuino, con una sala ristorante ricavata da un edificio in pietra in stile friulano. I piatti vengono preparati utilizzando ingredienti provenienti dall’azienda agricola di proprietà, garantendo freschezza e autenticità. L’agriturismo è gestito con cordialità da Monica e Silvio e rappresenta una scelta ideale per chi cerca cucina locale e un'atmosfera familiare immersa nella campagna di Cordenons.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/cordenons.md"
+    }
+  ]
+}

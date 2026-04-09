@@ -1,0 +1,52 @@
+{
+  "comune_name": "San Leonardo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-leonardo.md",
+  "extracted_at": "2026-04-09T11:17:52.917Z",
+  "pois": [
+    {
+      "name": "Trattoria Da NaTi",
+      "address": "Osgnetto/Ošnije 60, San Leonardo (UD) — CAP 33040",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20NaTi%2C%20Osgnetto%2FO%C5%A1nije%2060%2C%20San%20Leonardo%20(UD)%20%E2%80%94%20CAP%2033040",
+      "image_url": null,
+      "description": "La Trattoria Da NaTi si trova nella frazione di Osgnetto/Ošnije ed è una delle principali trattorie di San Leonardo. Il locale si distingue per la gestione familiare e la cucina tradizionale delle Valli del Natisone, con piatti come frico con polenta, cjarsons fatti a mano, zuppe, selvaggina e dolci tipici come la gubana. Il menù segue la stagionalità delle materie prime e l'ambiente è semplice e radicato nel territorio. È molto frequentata dalla clientela locale, garanzia di autenticità.",
+      "comune_name": "San Leonardo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-leonardo.md"
+    },
+    {
+      "name": "Trattoria Da Walter",
+      "address": "Altana/Utana 26, San Leonardo (UD) — CAP 33040",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Walter%2C%20Altana%2FUtana%2026%2C%20San%20Leonardo%20(UD)%20%E2%80%94%20CAP%2033040",
+      "image_url": null,
+      "description": "La Trattoria Da Walter si trova nella frazione di Altana/Utana ed è una trattoria rurale a conduzione familiare, specializzata nella cucina tipica delle Valli del Natisone. L'ambiente è semplice e accogliente, e la proposta gastronomica punta su piatti della tradizione come polenta, formaggi locali, carni alla brace, funghi di stagione e piatti in umido. È apprezzata sia dai residenti che dagli escursionisti delle colline circostanti.",
+      "comune_name": "San Leonardo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-leonardo.md"
+    },
+    {
+      "name": "Al Buongustaio",
+      "address": "Via Merso di Sotto 22, Merso di Sotto/Dolenja Miersa, San Leonardo (UD) — CAP 33040",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Buongustaio%2C%20Via%20Merso%20di%20Sotto%2022%2C%20Merso%20di%20Sotto%2FDolenja%20Miersa%2C%20San%20Leonardo%20(UD)%20%E2%80%94%20CAP%2033040",
+      "image_url": null,
+      "description": "Situato a Merso di Sotto/Dolenja Miersa, Al Buongustaio propone cucina regionale con particolare attenzione ai prodotti e alle ricette delle Valli del Natisone. Il menù include antipasti con salumi e formaggi locali, frico, cjarsons, e secondi di carne e selvaggina. Il locale valorizza il piacere della tavola e il rispetto per la stagionalità e la tradizione contadina.",
+      "comune_name": "San Leonardo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-leonardo.md"
+    },
+    {
+      "name": "Trattoria alla Posta",
+      "address": "Via Scrutto 10, Scrutto/Škrutove, San Leonardo (UD) — CAP 33040",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Posta%2C%20Via%20Scrutto%2010%2C%20Scrutto%2F%C5%A0krutove%2C%20San%20Leonardo%20(UD)%20%E2%80%94%20CAP%2033040",
+      "image_url": null,
+      "description": "La Trattoria alla Posta sorge nella frazione di Scrutto/Škrutove, in un luogo di antichi transiti. Il locale mantiene la tradizione delle trattorie storiche, offrendo piatti della cucina friulana di montagna, serviti in porzioni generose e a prezzi accessibili. L'ambiente è semplice e legato alla comunità locale.",
+      "comune_name": "San Leonardo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-leonardo.md"
+    }
+  ]
+}

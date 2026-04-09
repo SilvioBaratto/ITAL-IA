@@ -1,0 +1,63 @@
+{
+  "comune_name": "Chions",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chions.md",
+  "extracted_at": "2026-04-09T10:57:39.982Z",
+  "pois": [
+    {
+      "name": "Ristorante Adriatico",
+      "address": "Via Cadore 10, Villotta di Chions, 33083 (Pordenone)",
+      "website_url": "https://ristoranteadriatico.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Adriatico%2C%20Via%20Cadore%2010%2C%20Villotta%20di%20Chions%2C%2033083%20(Pordenone)",
+      "image_url": null,
+      "description": "Ristorante Adriatico è la più grande struttura ristorativa della provincia di Pordenone e offre cucina tradizionale friulana e veneziana in un ambiente elegante e spazioso. Il locale è ideale sia per cene informali che per cerimonie ed eventi grazie alle sue cinque sale e una piscina. Il menù spazia tra piatti di pesce e carne, con opzioni vegetariane e senza glutine, e presta particolare attenzione alla qualità degli ingredienti. Il rapporto qualità-prezzo è moderato e il ristorante si distingue per l'accoglienza contemporanea in un contesto tradizionale.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chions.md"
+    },
+    {
+      "name": "Agriturismo Andreana",
+      "address": "Via Vittorio Veneto 59, Villotta di Chions, 33083 (Pordenone)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Andreana%2C%20Via%20Vittorio%20Veneto%2059%2C%20Villotta%20di%20Chions%2C%2033083%20(Pordenone)",
+      "image_url": null,
+      "description": "Agriturismo Andreana rappresenta l'autenticità della cucina friulana grazie alla gestione della famiglia Stefanuto da oltre cinquant'anni. Il menù cambia stagionalmente e si basa su prodotti locali, con carni e salumi di produzione propria. L'agriturismo offre anche alloggi e un negozio di prodotti tipici, oltre a servizi come il noleggio biciclette e un ampio giardino. È una scelta ideale per gustare la cucina locale e vivere un'esperienza di turismo rurale genuino.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chions.md"
+    },
+    {
+      "name": "Pizzeria Ristorante Al Parco",
+      "address": "Viale della Stazione 12, Chions, 33083 (Pordenone)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ristorante%20Al%20Parco%2C%20Viale%20della%20Stazione%2012%2C%20Chions%2C%2033083%20(Pordenone)",
+      "image_url": null,
+      "description": "Pizzeria Ristorante Al Parco è un ambiente accogliente vicino alla stazione di Chions, ideale per una cena informale, una pausa veloce o incontri familiari. Offre pizze di qualità, pasta e specialità di cucina italiana in un clima cordiale e distensivo. È un punto di riferimento per chi cerca una cucina semplice e tradizionale nella zona.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chions.md"
+    },
+    {
+      "name": "Pane e Bontà — Caffetteria, Panificio e Pasticceria",
+      "address": "Via Vittorio Veneto 17, Villotta di Chions, 33083 (Pordenone)",
+      "website_url": "https://www.paneebonta.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pane%20e%20Bont%C3%A0%20%E2%80%94%20Caffetteria%2C%20Panificio%20e%20Pasticceria%2C%20Via%20Vittorio%20Veneto%2017%2C%20Villotta%20di%20Chions%2C%2033083%20(Pordenone)",
+      "image_url": null,
+      "description": "Pane e Bontà è un panificio e pasticceria storica che offre pane naturale a lunga lievitazione, dolci artigianali e un servizio di caffetteria. Gestito dalla famiglia Dazzan, rappresenta una tappa importante per chi cerca prodotti freschi della tradizione friulana. Il locale è ideale per acquistare specialità da forno o gustare una colazione genuina.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chions.md"
+    },
+    {
+      "name": "Bar Trattoria Merano PFM",
+      "address": "Via Vittorio Veneto 66, Chions, 33083 (Pordenone)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Merano%20PFM%2C%20Via%20Vittorio%20Veneto%2066%2C%20Chions%2C%2033083%20(Pordenone)",
+      "image_url": null,
+      "description": "Bar Trattoria Merano è una trattoria locale che propone piatti genuini della tradizione friulana in un'atmosfera familiare e informale. Il locale è situato lungo la via principale di Chions ed è il luogo perfetto per un'esperienza culinaria autentica lontano dal turismo di massa. Ideale per chi desidera assaporare i veri sapori di casa in un contesto accogliente.",
+      "comune_name": "Chions",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/chions.md"
+    }
+  ]
+}

@@ -72,36 +72,33 @@ model Region {
   group RegionGroup
   hasKb Boolean     @default(false) @map("has_kb")
 
-  pointsOfInterest  PointOfInterest[]
-  savedItems        SavedItem[]
-  comuni            Comune[]
+  savedItems SavedItem[]
+  comuni     Comune[]
 
   @@map("regions")
 }
 
-/// A point of interest linked to a region
+/// A point of interest linked to a comune (which belongs to a region).
+/// Region is reached via POI → Comune → Region.
 model PointOfInterest {
-  id           String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  name         String      @db.VarChar(500)
-  regionId     String      @map("region_id") @db.VarChar(50)
-  category     PoiCategory
-  address      String?     @db.VarChar(500)
-  neighborhood String?     @db.VarChar(255)
-  latitude     Decimal?    @db.Decimal(10, 7)
-  longitude    Decimal?    @db.Decimal(10, 7)
-  websiteUrl   String?     @map("website_url") @db.VarChar(1000)
-  mapsUrl      String?     @map("maps_url") @db.VarChar(1000)
-  imageUrl     String?     @map("image_url") @db.VarChar(1000)
-  description  String?     @db.Text
-  createdAt    DateTime    @default(now()) @map("created_at") @db.Timestamptz
-  updatedAt    DateTime    @updatedAt @map("updated_at") @db.Timestamptz
+  id          String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name        String      @db.VarChar(500)
+  comuneId    String      @map("comune_id") @db.Uuid
+  category    PoiCategory
+  address     String?     @db.VarChar(500)
+  websiteUrl  String?     @map("website_url") @db.VarChar(1000)
+  mapsUrl     String?     @map("maps_url") @db.VarChar(1000)
+  imageUrl    String?     @map("image_url") @db.VarChar(1000)
+  description String?     @db.Text
+  createdAt   DateTime    @default(now()) @map("created_at") @db.Timestamptz
+  updatedAt   DateTime    @updatedAt @map("updated_at") @db.Timestamptz
 
-  region     Region      @relation(fields: [regionId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  comune     Comune      @relation(fields: [comuneId], references: [id], onDelete: Restrict, onUpdate: Cascade)
   savedItems SavedItem[]
 
-  @@unique([name, regionId, category])
-  @@index([regionId])
-  @@index([category, regionId])
+  @@unique([name, comuneId, category])
+  @@index([comuneId])
+  @@index([category, comuneId])
   @@map("points_of_interest")
 }
 
@@ -138,7 +135,8 @@ model Comune {
   latitude  Decimal @db.Decimal(10, 7)
   longitude Decimal @db.Decimal(10, 7)
 
-  region Region @relation(fields: [regionId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  region           Region            @relation(fields: [regionId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  pointsOfInterest PointOfInterest[]
 
   @@unique([name, regionId])
   @@index([regionId])

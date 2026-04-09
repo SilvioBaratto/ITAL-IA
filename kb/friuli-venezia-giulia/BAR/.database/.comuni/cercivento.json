@@ -1,0 +1,19 @@
+{
+  "comune_name": "Cercivento",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cercivento.md",
+  "extracted_at": "2026-04-09T10:09:20.518Z",
+  "pois": [
+    {
+      "name": "Bar Lo Scoiattolo",
+      "address": "Cercivento — Via di Sot (Cercivento di Sotto)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Lo%20Scoiattolo%2C%20Cercivento%20%E2%80%94%20Via%20di%20Sot%20(Cercivento%20di%20Sotto)",
+      "image_url": null,
+      "description": "Bar Lo Scoiattolo è l'unico bar presente a Cercivento e costituisce il principale punto di ritrovo per gli abitanti del paese. Situato nella parte bassa dell'abitato, è un bar di montagna dall'atmosfera semplice e familiare, ideale sia per le colazioni che per una pausa dopo le escursioni. Frequentato dai residenti e dai visitatori, soprattutto escursionisti e ciclisti in estate, il locale offre un ambiente raccolto e genuino, lontano dal turismo di massa.",
+      "comune_name": "Cercivento",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/cercivento.md"
+    }
+  ]
+}

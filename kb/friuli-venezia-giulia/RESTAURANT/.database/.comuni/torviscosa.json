@@ -1,0 +1,30 @@
+{
+  "comune_name": "Torviscosa",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/torviscosa.md",
+  "extracted_at": "2026-04-09T11:21:18.332Z",
+  "pois": [
+    {
+      "name": "La Tavernetta (frazione di Malisana)",
+      "address": "Via della Fontana, 8 (o Piazza della Fontana, 8) — 33050 Torviscosa (UD), loc. Malisana",
+      "website_url": "http://www.tavernettamalisana.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tavernetta%20(frazione%20di%20Malisana)%2C%20Via%20della%20Fontana%2C%208%20(o%20Piazza%20della%20Fontana%2C%208)%20%E2%80%94%2033050%20Torviscosa%20(UD)%2C%20loc.%20Malisana",
+      "image_url": null,
+      "description": "La Tavernetta è un'osteria storica situata nella frazione di Malisana, in un edificio caratteristico degli anni Quaranta e Cinquanta. Il locale, reso accogliente dal tipico fogolàr friulano e arredi d'epoca, propone una cucina fedele alle tradizioni della Bassa Friulana reinterpretata con creatività, con piatti di pesce e di terra basati su ingredienti locali. La carta dei vini offre esclusivamente etichette friulane. Frequentata soprattutto da residenti e da viaggiatori alla scoperta degli angoli meno conosciuti della regione, garantisce un'esperienza autentica e genuina.",
+      "comune_name": "Torviscosa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/torviscosa.md"
+    },
+    {
+      "name": "Trattoria Pizzeria alla Fontana",
+      "address": "Via Marconi, 30 — 33050 Torviscosa (UD)",
+      "website_url": "https://www.ristorantepizzeriaallafontana.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20alla%20Fontana%2C%20Via%20Marconi%2C%2030%20%E2%80%94%2033050%20Torviscosa%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Pizzeria alla Fontana, con posizione centrale, è il punto di riferimento per un pasto completo a Torviscosa. Offre cucina tradizionale friulana, piatti italiani, proposte di pesce e una ricca selezione di pizze, soprattutto alla sera. Il locale a gestione familiare è adatto alle famiglie, dispone di tavoli all'aperto, accesso per disabili e garantisce un buon rapporto qualità-prezzo, incarnando lo spirito conviviale della cittadina.",
+      "comune_name": "Torviscosa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/torviscosa.md"
+    }
+  ]
+}

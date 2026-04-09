@@ -1,0 +1,41 @@
+{
+  "comune_name": "Marano Lagunare",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/marano-lagunare.md",
+  "extracted_at": "2026-04-09T10:29:48.952Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Martino Vescovo (Parrocchiale)",
+      "address": "Via Sinodo, Marano Lagunare",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68531",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20Vescovo%20(Parrocchiale)%2C%20Via%20Sinodo%2C%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Martino Vescovo è il principale edificio religioso di Marano Lagunare e rappresenta un importante punto di riferimento identitario per la comunità. Eretta tra il 1752 e il 1756 e consacrata nel 1763, è in stile neoclassico e ospita preziose opere settecentesche, tra cui pale d'altare di Antonio Martinetti e un altare maggiore decorato con statue di San Marco e San Vito. La chiesa riflette il legame devozionale con la storia locale ed è stata restaurata in seguito al terremoto del Friuli del 1976.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine della Salute (Madonna della Salute)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20della%20Salute%20(Madonna%20della%20Salute)%2C%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "La chiesa della Madonna della Salute, situata nei pressi del centro storico di Marano Lagunare, è uno dei principali luoghi di devozione mariana del comune. L'edificio è collegato a una processione triennale che, ogni 15 agosto, porta la statua della Vergine in barca fino al molo e poi alla cappella del cimitero. La chiesa rappresenta la continuità delle tradizioni religiose marinare e la protezione contro calamità ed epidemie, richiamando la spiritualità dell'area alto-adriatica.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Cappella del Cimitero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20del%20Cimitero%2C%20Marano%20Lagunare",
+      "image_url": null,
+      "description": "La cappella del cimitero di Marano Lagunare ha un ruolo centrale nella processione triennale della Madonna della Salute, quando la statua viene portata in barca dalla parrocchiale fino alla cappella. Questo rito richiama antiche pratiche votive dei pescatori locali, che affidavano alla Vergine la protezione dalle insidie del mare. Pur semplice nell'architettura, la cappella assume grande valore liturgico e simbolico per la comunità.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/marano-lagunare.md"
+    }
+  ]
+}

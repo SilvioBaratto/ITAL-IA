@@ -1,0 +1,63 @@
+{
+  "comune_name": "Moimacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moimacco.md",
+  "extracted_at": "2026-04-09T11:06:55.645Z",
+  "pois": [
+    {
+      "name": "Ostarie da Barbian",
+      "address": "Via Roma 112/B, 33040 Moimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ostarie%20da%20Barbian%2C%20Via%20Roma%20112%2FB%2C%2033040%20Moimacco%20(UD)",
+      "image_url": null,
+      "description": "Ostarie da Barbian è un locale storico di Moimacco che conserva la tradizione friulana, situato nel centro del paese. Offre un ambiente accogliente con spazi interni luminosi, una veranda affacciata sul paesaggio e un ampio parcheggio privato. La cucina è tipica friulana, con particolare attenzione a ingredienti locali di qualità e proposte come ravioli di ricotta, brasato friulano e il celebre frico nelle versioni cremosa e croccante. È considerato un punto di riferimento per gli amanti della cucina regionale ad un prezzo accessibile.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moimacco.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Cellini",
+      "address": "Via Dei Celti 2, SS 54, km 110, 33040 Moimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Cellini%2C%20Via%20Dei%20Celti%202%2C%20SS%2054%2C%20km%20110%2C%2033040%20Moimacco%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Cellini è il locale più noto e frequentato di Moimacco, situato in zona industriale con spazi interni ed esterni ideali per cene, eventi e gruppi. Atmosfera contemporanea ma legata alla tradizione, propone pizze cotte nel forno a legna secondo la tradizione napoletana e specialità grigliate di carne e pesce, oltre a piatti tipici friulani. Il menu include anche dolci fatti in casa e opzioni per diete speciali, mantenendo una fascia di prezzo moderata.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moimacco.md"
+    },
+    {
+      "name": "Trattoria Bozzi",
+      "address": "Via Benvenuta Boiani 59, 33040 Moimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Bozzi%2C%20Via%20Benvenuta%20Boiani%2059%2C%2033040%20Moimacco%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Bozzi, fondata nel 1956 nella frazione di Bottenicco, è un locale storico con atmosfera familiare e tradizionale, molto apprezzato per eventi, matrimoni e cerimonie. Offre cucina friulana genuina con piatti semplici, come gnocchi al pomodoro e patate al forno, serviti in ambienti accoglienti con servizi per eventi e una terrazza panoramica. Rappresenta una vera istituzione nel territorio, conosciuta per la qualità dei piatti e la cura nei dettagli.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moimacco.md"
+    },
+    {
+      "name": "Pizzeria Ristorante Le Tre Pietre",
+      "address": "Via Nazionale 2, 33040 Moimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Ristorante%20Le%20Tre%20Pietre%2C%20Via%20Nazionale%202%2C%2033040%20Moimacco%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Le Tre Pietre è una pizzeria-ristorante centrale popolare tra autotrasportatori e residenti, grazie anche a un menù a prezzo fisso molto conveniente. L'ambiente è informale e offre pizze, piatti della cucina locale e piatti di pesce, con un'atmosfera autentica e prezzi accessibili. Il locale è ideale per chi cerca una cucina genuina e senza fronzoli tipica della zona.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moimacco.md"
+    },
+    {
+      "name": "Le Rose di Rudi",
+      "address": "Via Tombe Romane 5, 33040 Moimacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Rose%20di%20Rudi%2C%20Via%20Tombe%20Romane%205%2C%2033040%20Moimacco%20(UD)",
+      "image_url": null,
+      "description": "Le Rose di Rudi è un laboratorio specializzato nella produzione di pizze da asporto e consegne a domicilio, proponendo un'alternativa moderna alla ristorazione tradizionale di Moimacco. Pur non offrendo servizio in sala, si distingue per l'attenzione alla qualità degli impasti e dei condimenti, rendendolo una soluzione pratica e gustosa per famiglie e chi desidera una cena veloce.",
+      "comune_name": "Moimacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/moimacco.md"
+    }
+  ]
+}

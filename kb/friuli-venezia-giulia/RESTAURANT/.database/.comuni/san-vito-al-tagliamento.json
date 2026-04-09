@@ -1,0 +1,239 @@
+{
+  "comune_name": "San Vito al Tagliamento",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md",
+  "extracted_at": "2026-04-09T11:18:38.690Z",
+  "pois": [
+    {
+      "name": "Osteria al Bacco",
+      "address": "Via Mercato, 14 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Bacco%2C%20Via%20Mercato%2C%2014%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Osteria al Bacco è un locale di riferimento nel centro storico, noto per la cucina italiana curata con ingredienti freschi e stagionali. Il menù esalta la tradizione friulana, includendo antipasti misti, gnocchi fatti in casa e coda di rospo, con dessert apprezzati come la crema al forno. Vanta una buona selezione di vini locali e un servizio veloce e cordiale, risultando molto frequentato dai sanvitesi per qualità e prezzi equilibrati.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Osteria Ai Battuti",
+      "address": "San Vito al Tagliamento (PN) – centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ai%20Battuti%2C%20San%20Vito%20al%20Tagliamento%20(PN)%20%E2%80%93%20centro%20storico",
+      "image_url": null,
+      "description": "Osteria Ai Battuti è uno dei locali più apprezzati di San Vito, caratterizzato da un ambiente raccolto e piacevole, adatto sia a cene in coppia che a pranzi di gruppo. La cucina è fortemente radicata nella tradizione friulana, con il risotto come piatto simbolo; la cantina offre una selezione di vini regionali. Il personale è attento e disponibile e i tavoli all'aperto sono disponibili in estate.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Osteria Al Convivio",
+      "address": "Via Guglielmo Marconi, 14 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Convivio%2C%20Via%20Guglielmo%20Marconi%2C%2014%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Osteria Al Convivio propone una cucina italiana tradizionale con specialità di mare e piatti stagionali, tra cui gnocchi fatti in casa e frutti di mare fritti. L'ambiente è accogliente e informale, accessibile anche a persone con disabilità e animali domestici. Il locale presta attenzione alla qualità e alle materie prime, offrendo anche opzioni salutari e una carta dei vini con birre e liquori.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Osteria al Rustico",
+      "address": "San Vito al Tagliamento (PN) – zona parrocchiale di San Martino Vescovo (frazione/area periferica)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Rustico%2C%20San%20Vito%20al%20Tagliamento%20(PN)%20%E2%80%93%20zona%20parrocchiale%20di%20San%20Martino%20Vescovo%20(frazione%2Farea%20periferica)",
+      "image_url": null,
+      "description": "Osteria al Rustico offre una cucina friulana contadina in un ambiente rustico e accogliente. Tra le specialità spiccano il brodo di carne, la polenta, la fonduta di formaggio invernale e dolci al cucchiaio come la crema al forno. Il locale è noto per il personale cortese, posti all'aperto e cibo da asporto, risultando un punto di riferimento per chi cerca autenticità gastronomica locale.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Ristorante La Piramide (Hotel Patriarca Wellness)",
+      "address": "San Vito al Tagliamento (PN) – Via dei Patriots (all'interno dell'Hotel Patriarca)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Piramide%20(Hotel%20Patriarca%20Wellness)%2C%20San%20Vito%20al%20Tagliamento%20(PN)%20%E2%80%93%20Via%20dei%20Patriots%20(all'interno%20dell'Hotel%20Patriarca)",
+      "image_url": null,
+      "description": "Il Ristorante La Piramide, situato nell'Hotel Patriarca Wellness, propone una cucina che unisce la tradizione friulana e salentina, con primi piatti, dessert e pane preparati in casa. Il locale è ideale per banchetti e ricevimenti grazie alle ampie sale, offrendo qualità, cura nel servizio e un'atmosfera accogliente. È tra i ristoranti più referenziati per occasioni speciali a San Vito al Tagliamento.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Borgo Villa Braida",
+      "address": "Via Bottari, 4 – San Vito al Tagliamento (PN)",
+      "website_url": "https://www.villabraida.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Borgo%20Villa%20Braida%2C%20Via%20Bottari%2C%204%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Borgo Villa Braida è un ristorante immerso in un contesto rurale e storico nella frazione di Braida, con menù stagionali ispirati alla cucina locale. Lo chef valorizza ingredienti del territorio, servendo antipasti tipici, risotti e preparazioni di carne. La struttura, adatta anche per eventi e banchetti, unisce eleganza rurale e qualità gastronomica, offrendo ospitalità anche con camere.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Divino (già Il Divino)",
+      "address": "Piazzale Taliano Linteris, 9 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Divino%20(gi%C3%A0%20Il%20Divino)%2C%20Piazzale%20Taliano%20Linteris%2C%209%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Divino, nota pizzeria e ristorante nel centro di San Vito, offre pizza con impasto sottile, piatti di pesce e cucina italiana. Il locale dispone di posti all'aperto, servizio di consegna a domicilio e una carta curata di vini e liquori. È molto apprezzato dalla clientela per la qualità costante, il tiramisù e la versatilità dell'ambiente.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Gran Bar",
+      "address": "Via Maggiore, 40 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gran%20Bar%2C%20Via%20Maggiore%2C%2040%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Gran Bar è un locale polivalente con bar, caffetteria e pizzeria-ristorante, noto per la pizza preparata con ingredienti di qualità, pasta e dolci come il tiramisù. L'ambiente è vivace con terrazza esterna e posti interni, ideale per ogni momento della giornata. Offre Wi-Fi, è accessibile e accetta prenotazioni e carte di credito.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria Antico Grano",
+      "address": "Piazza Centrale, 9 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Antico%20Grano%2C%20Piazza%20Centrale%2C%209%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria Antico Grano si trova nel cuore di San Vito, in Piazza Centrale, e propone pizza e pasta con attenzione alla qualità degli impasti e alla freschezza delle materie prime. Apprezzata dai clienti per il tiramisù, il locale è riconosciuto come miglior pizzeria della città da Restaurant Guru e dispone di dehors estivo e opzioni vegetariane.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Luna Nuova",
+      "address": "Via Isonzo, 6 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Luna%20Nuova%2C%20Via%20Isonzo%2C%206%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Luna Nuova è un locale versatile che offre pizza, piatti di pesce, pasta e brodo. L'ambiente è esotico e vivace, con servizio rapido e posti a sedere interni ed esterni. Il pesce fresco e la varietà del menù sono particolarmente lodati dai clienti, che apprezzano la disponibilità di Wi-Fi, parcheggio e prenotazioni.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Agriturismo Nonis – B&B e Ristoro",
+      "address": "Via Treviso, 17 – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Nonis%20%E2%80%93%20B%26B%20e%20Ristoro%2C%20Via%20Treviso%2C%2017%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Agriturismo Nonis offre un'esperienza gastronomica autentica immersa nella campagna friulana, con ristorazione incentrata sui prodotti del territorio come speck artigianale, gnocchi di patate, polenta e grigliate di carne. L'ambiente è rurale, confortevole e familiare, ideale per chi cerca genuinità e qualità. Il locale è aperto solo nei fine settimana e offre pernottamento in formula B&B.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Agriturismo Al Sgrufolone",
+      "address": "San Vito al Tagliamento (PN) – zona agricola periferica",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Al%20Sgrufolone%2C%20San%20Vito%20al%20Tagliamento%20(PN)%20%E2%80%93%20zona%20agricola%20periferica",
+      "image_url": null,
+      "description": "Agriturismo Al Sgrufolone propone una cucina basata sui prodotti della propria azienda e del territorio, con portate di carni, salumi e verdure stagionali. Il locale, immerso nella campagna friulana, è apprezzato per la genuinità dell'atmosfera e offre la possibilità di consumare pasti all'aperto.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "La Torre del Falco",
+      "address": "Via Mulino Prodolone, 13 – San Vito al Tagliamento (PN) (frazione Prodolone)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Torre%20del%20Falco%2C%20Via%20Mulino%20Prodolone%2C%2013%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)%20(frazione%20Prodolone)",
+      "image_url": null,
+      "description": "La Torre del Falco è un ristorante di cucina italiana situato nella frazione di Prodolone, nei pressi di un vecchio mulino. Il locale è aperto solo nei fine settimana, proponendo antipasti curati e una selezione di vini. La location suggestiva e la natura di locale di nicchia lo rendono ideale per chi cerca esperienze gastronomiche fuori dal centro.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Il Bottegon – Enoteca e Braceria",
+      "address": "San Vito al Tagliamento (PN) – centro o area semicentrale",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Bottegon%20%E2%80%93%20Enoteca%20e%20Braceria%2C%20San%20Vito%20al%20Tagliamento%20(PN)%20%E2%80%93%20centro%20o%20area%20semicentrale",
+      "image_url": null,
+      "description": "Il Bottegon combina le funzioni di enoteca e braceria, offrendo una selezione di vini regionali e nazionali, grigliate di carne, salumi e formaggi. L'ambiente richiama le tradizionali osterie-cantine friulane ed è ideale per soste informali o serate conviviali. La cura nella scelta delle etichette è uno dei punti distintivi del locale.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Wine Bar Al Giardino",
+      "address": "San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Wine%20Bar%20Al%20Giardino%2C%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Wine Bar Al Giardino unisce wine bar e trattoria informale, offrendo piccoli piatti, taglieri di salumi e formaggi e paste veloci abbinati a vini friulani. L'atmosfera rilassata e la presenza di spazio all'aperto sono particolarmente apprezzate per aperitivi lunghi o cene informali in compagnia.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Gusto Antico",
+      "address": "San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gusto%20Antico%2C%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Gusto Antico è un ristorante-pizzeria che richiama la cucina tradizionale friulana e italiana, con piatti che favoriscono la solidità delle ricette classiche. Pizza e piatti italiani rappresentano il menù principale, frequentato da clientela abituale che ne apprezza la familiarità e la continuità.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria Tre Gemme di Nico",
+      "address": "San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Tre%20Gemme%20di%20Nico%2C%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria Tre Gemme di Nico è una pizzeria di quartiere, nota per la pizza preparata con impasti tradizionali. Gestita in modo familiare, il locale offre una proposta genuina e apprezzata dagli habitué, ideale per serate informali o per il servizio d'asporto.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria Mammamia",
+      "address": "San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Mammamia%2C%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria Mammamia è un punto di riferimento per gli amanti della pizza, con farciture classiche e una buona varietà. L'atmosfera familiare e accogliente rende il locale ideale per una cena informale, ed è disponibile anche per asporto.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Pizzeria La Fontana",
+      "address": "San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20La%20Fontana%2C%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria La Fontana serve il quartiere offrendo una proposta semplice e diretta di pizza, probabilmente situata vicino a una fontana storica o piazza secondaria. È parte integrante del tessuto gastronomico quotidiano della città, ideale per residenti alla ricerca di una cena informale.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Latteria di Savorgnano",
+      "address": "Frazione Savorgnano – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Latteria%20di%20Savorgnano%2C%20Frazione%20Savorgnano%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Latteria di Savorgnano, simbolo della tradizione casearia friulana, offre prodotti lattiero-caseari freschi come burrata, gorgonzola, mozzarella e formaggi locali, oltre al gelato artigianale. Ideale per una sosta durante un giro in bicicletta o per acquistare prodotti genuini, è apprezzata per la qualità eccellente e il personale piacevole.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    },
+    {
+      "name": "Ristorante Bar Tio 2000",
+      "address": "Zona Industriale Ponte Rosso – San Vito al Tagliamento (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Bar%20Tio%202000%2C%20Zona%20Industriale%20Ponte%20Rosso%20%E2%80%93%20San%20Vito%20al%20Tagliamento%20(PN)",
+      "image_url": null,
+      "description": "Ristorante Bar Tio 2000, situato nella zona industriale di Ponte Rosso, offre menù da lavoro a prezzi contenuti con piatti della cucina italiana tradizionale. È una scelta pratica per lavoratori della zona, accessibile con ampio parcheggio e ideale per pranzi veloci e convenienti.",
+      "comune_name": "San Vito al Tagliamento",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-vito-al-tagliamento.md"
+    }
+  ]
+}

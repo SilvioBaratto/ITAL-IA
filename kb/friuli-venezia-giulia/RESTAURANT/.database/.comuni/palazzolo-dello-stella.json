@@ -1,0 +1,96 @@
+{
+  "comune_name": "Palazzolo dello Stella",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md",
+  "extracted_at": "2026-04-09T11:10:05.331Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Cacciatore",
+      "address": "Casale Paludo sinistra 9, 33056 Palazzolo dello Stella (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Cacciatore%2C%20Casale%20Paludo%20sinistra%209%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Al Cacciatore è una tipica trattoria friulana a conduzione familiare, immersa nella campagna friulana. Il locale è celebre per la carne alla griglia di alta qualità e una solida cucina friulana tradizionale, con piatti come frico, toc in braida e tagliatelle al ragù di cervo. L'atmosfera è informale e accogliente, ideale per comitive e pranzi in famiglia, con porzioni generose e prezzi corretti.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "Ristorante Da Michele",
+      "address": "Via Moretton, 19, 33056 Palazzolo dello Stella (UD)",
+      "website_url": "https://damichele.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Da%20Michele%2C%20Via%20Moretton%2C%2019%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Pizzeria da Michele offre una cucina poliedrica con specialità di pesce fresco e un'ampia varietà di pizze. Il locale è apprezzato per l'equilibrio tra qualità e convenienza, con menu fissi economici a pranzo e una vasta scelta di piatti per cena. Il servizio è cordiale e il ristorante accoglie sia chi cerca un pasto veloce che chi desidera una cena tranquilla.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "900 all'Isola (Novecento all'Isola)",
+      "address": "Casali Isola Augusta, 4, 33056 Palazzolo dello Stella (UD)",
+      "website_url": "https://www.novecentoallisola.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=900%20all'Isola%20(Novecento%20all'Isola)%2C%20Casali%20Isola%20Augusta%2C%204%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "900 all'Isola è un ristorante rinomato per la sua vocazione alla cucina di mare, con piatti di pesce preparati con cura e creatività. Vanta menù degustazione dal tono raffinato e una selezione di piatti signature come la Frittura Mista e gli Spaghetti al Rosmarino con Mazzancolle. L'atmosfera è elegante, il servizio attento e il locale offre anche servizi di asporto e consegna a domicilio.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "Al Bronzan",
+      "address": "Via Agaril 4, Casali Paludo Destra, 33056 Palazzolo dello Stella (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Bronzan%2C%20Via%20Agaril%204%2C%20Casali%20Paludo%20Destra%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Al Bronzan è un ristorante con vista sulla laguna e sul fiume Stella, noto per la cucina di pesce creativa e originale. Proposte come i ravioli di stoccafisso mantecato e piatti stagionali di pesce fresco ne sono il punto di forza, mentre le carni sono disponibili esclusivamente su prenotazione. L'atmosfera è informale ma curata, ideale per godere della natura circostante.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "Pizzeria Stella",
+      "address": "Via Nazionale 46, 33056 Palazzolo dello Stella (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Stella%2C%20Via%20Nazionale%2046%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Pizzeria Stella propone una ricca selezione di pizze di qualità e una friggitoria specializzata con galetti fritti, panini, kebab e hamburger. Il locale è moderno e informale, perfetto per chi cerca un pasto veloce e conveniente in un ambiente rilassato.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "Antica Osteria Ai Tubi",
+      "address": "Via Nazionale 59, 33056 Palazzolo dello Stella (UD)",
+      "website_url": "https://anticaosteriaaitubi.shop",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Osteria%20Ai%20Tubi%2C%20Via%20Nazionale%2059%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Antica Osteria Ai Tubi combina un arredamento elegante a un ambiente rilassato, con una piacevole corte interna per pranzare all'aperto. La cucina si distingue per un equilibrio tra pesce fresco e carni di qualità, offrendo menu degustazione a prezzo fisso di ispirazione friulana e italiana tradizionale, con grande attenzione agli ingredienti locali e stagionali.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "Trattoria Alla Frasca",
+      "address": "Via Roma 91, 33056 Palazzolo dello Stella (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Frasca%2C%20Via%20Roma%2091%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Alla Frasca è una piccola osteria tradizionale gestita da Manuela Cozzarolo e rappresenta un punto di riferimento per la cucina friulana di base a Palazzolo dello Stella. Le informazioni disponibili sono limitate, pertanto si consiglia di contattare direttamente il locale per dettagli su menu e specialità.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    },
+    {
+      "name": "Trattoria Le Due Regioni Michele",
+      "address": "Via Valderie 14, 33056 Palazzolo dello Stella (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Le%20Due%20Regioni%20Michele%2C%20Via%20Valderie%2014%2C%2033056%20Palazzolo%20dello%20Stella%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Le Due Regioni Michele propone cucina italiana tradizionale con una particolare attenzione alla gastronomia friulana. Pur mancando dettagli specifici sul menu, è conosciuta come un'opzione affidabile nella zona. Per informazioni aggiornate sulle specialità offerte è consigliato contattare il locale.",
+      "comune_name": "Palazzolo dello Stella",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/palazzolo-dello-stella.md"
+    }
+  ]
+}

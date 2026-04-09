@@ -1,0 +1,85 @@
+{
+  "comune_name": "Martignacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md",
+  "extracted_at": "2026-04-09T11:06:28.584Z",
+  "pois": [
+    {
+      "name": "Ristorante Pizzeria Al Podere",
+      "address": "Via Spilimbergo 287, 33035 Martignacco (UD)",
+      "website_url": "https://www.ristorantealpodere.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Al%20Podere%2C%20Via%20Spilimbergo%20287%2C%2033035%20Martignacco%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Al Podere è un punto di riferimento gastronomico a Martignacco, noto per la cucina friulana tradizionale e una selezione di piatti di carne e pesce di alta qualità. Il menù include specialità regionali come pappardelle al ragù di capriolo, risotti stagionali e pizze napoletane cotte in forno a legna, anche da asporto. L'atmosfera è raffinata ma accogliente, con sale interne curate e un giardino esterno ideale per eventi e cerimonie. I prezzi accessibili e la varietà di opzioni senza glutine rendono il locale molto apprezzato per il rapporto qualità-prezzo.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    },
+    {
+      "name": "Osteria Ca' Marian",
+      "address": "Via San Quirino, Faugnacco, 33035 Martignacco (UD)",
+      "website_url": "https://www.osteriacamarian.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ca'%20Marian%2C%20Via%20San%20Quirino%2C%20Faugnacco%2C%2033035%20Martignacco%20(UD)",
+      "image_url": null,
+      "description": "Osteria Ca' Marian, ospitata in una casa colonica del XVII secolo a Faugnacco, offre una cucina friulana genuina con particolare attenzione a risotti stagionali e carni cotte al barbecue. Il locale è noto per piatti come il brodetto di pesce, il risotto con speck e l'arrosto di manzo, tutti preparati con ingredienti da piccoli produttori locali. L'atmosfera è intima e rustica, il servizio cordiale e la qualità elevata hanno meritato all'osteria alte valutazioni su TripAdvisor. I prezzi sono medio-alti ma adeguati alla cura e all'esperienza proposta.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    },
+    {
+      "name": "Trattoria al Picchio",
+      "address": "Via Udine 76/B, 33035 Martignacco (UD)",
+      "website_url": "http://www.trattoriaalpicchio.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Picchio%2C%20Via%20Udine%2076%2FB%2C%2033035%20Martignacco%20(UD)",
+      "image_url": null,
+      "description": "Trattoria al Picchio propone una cucina marchigiana autentica inserita nel contesto friulano, con menù stagionali che combinano prodotti locali e specialità delle Marche e Abruzzo. Le olive all'ascolana e i formaggi artigianali sono tra i piatti forti, e la selezione di vini naturali si concentra su piccoli produttori. Il locale è molto raccolto, con soli 16 posti a sedere e prenotazione obbligatoria, ideale per serate intime o occasioni speciali.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    },
+    {
+      "name": "Osteria con Cucina ai Sbilfs",
+      "address": "Via Spilimbergo 258, 33035 Martignacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20con%20Cucina%20ai%20Sbilfs%2C%20Via%20Spilimbergo%20258%2C%2033035%20Martignacco%20(UD)",
+      "image_url": null,
+      "description": "Osteria con Cucina ai Sbilfs è una rinomata osteria a Martignacco, famosa per i piatti tipici friulani come tagliatelle, ragù e crostini. Il locale si distingue per l'atmosfera accogliente, il servizio informale e l'attenzione alla semplicità e all'autenticità dei sapori. Apprezzata per l'eccellenza della materia prima e una reputazione solida tra residenti e visitatori, rappresenta l'essenza della ristorazione tradizionale friulana.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    },
+    {
+      "name": "Trattoria Quattro Con",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Quattro%20Con%2C%20Martignacco",
+      "image_url": null,
+      "description": "Trattoria Quattro Con è una trattoria storica nota per la cucina friulana tradizionale, dove le ricette vengono tramandate di generazione in generazione senza forzature moderne. Il locale si distingue per l'atmosfera familiare e calorosa, offrendo piatti stagionali genuini che rispecchiano la tradizione gastronomica locale. È considerata una presenza affidabile per chi cerca autenticità e comfort.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    },
+    {
+      "name": "Agriturismo La Tinaja",
+      "address": null,
+      "website_url": "https://latinaja.altervista.org/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20La%20Tinaja%2C%20Martignacco",
+      "image_url": null,
+      "description": "Agriturismo La Tinaja offre un'esperienza di ristorazione immersa nella natura, focalizzata sulla cucina friulana realizzata esclusivamente con materie prime biologiche e stagionali. È il luogo ideale per chi cerca convivialità rurale e vuole assaporare piatti regionali prodotti secondo i cicli naturali. L'atmosfera autentica evidenzia uno stretto legame con la tradizione agricola e il rispetto dell'ambiente.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    },
+    {
+      "name": "Agriturismo Km 6",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Km%206%2C%20Martignacco",
+      "image_url": null,
+      "description": "Agriturismo Km 6 propone cucina tipica friulana affiancata dalla vendita diretta di prodotti artigianali realizzati in loco come formaggi, pane e salumi. Il locale collega il pasto all'esperienza della filiera produttiva, offrendo trasparenza sulla provenienza degli ingredienti e metodologie tradizionali. È una meta per chi vuole assaporare piatti genuini e vivere l'autenticità della campagna friulana.",
+      "comune_name": "Martignacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/martignacco.md"
+    }
+  ]
+}

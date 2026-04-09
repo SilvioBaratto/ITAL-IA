@@ -192,7 +192,7 @@
       <!-- ==========================================================
            DETAILS / INFOBOX CARD
            ========================================================== -->
-      @if (poi.address || poi.neighborhood || coordinates()) {
+      @if (poi.address) {
         <section
           class="bg-surface-raised border border-border rounded-xl p-5 flex flex-col gap-2"
           aria-label="Dettagli"
@@ -200,28 +200,10 @@
           <h2 class="font-display font-semibold text-base text-text mb-1">Dettagli</h2>
 
           <dl class="divide-y divide-border-muted">
-
-            @if (poi.address) {
-              <div class="flex justify-between items-baseline py-2.5 gap-4">
-                <dt class="text-xs font-medium text-text-tertiary shrink-0">Indirizzo</dt>
-                <dd class="text-sm text-text text-right">{{ poi.address }}</dd>
-              </div>
-            }
-
-            @if (poi.neighborhood) {
-              <div class="flex justify-between items-baseline py-2.5 gap-4">
-                <dt class="text-xs font-medium text-text-tertiary shrink-0">Quartiere</dt>
-                <dd class="text-sm text-text text-right">{{ poi.neighborhood }}</dd>
-              </div>
-            }
-
-            @if (coordinates()) {
-              <div class="flex justify-between items-baseline py-2.5 gap-4">
-                <dt class="text-xs font-medium text-text-tertiary shrink-0">Coordinate</dt>
-                <dd class="font-mono text-xs text-text-secondary text-right">{{ coordinates() }}</dd>
-              </div>
-            }
-
+            <div class="flex justify-between items-baseline py-2.5 gap-4">
+              <dt class="text-xs font-medium text-text-tertiary shrink-0">Indirizzo</dt>
+              <dd class="text-sm text-text text-right">{{ poi.address }}</dd>
+            </div>
           </dl>
         </section>
       }

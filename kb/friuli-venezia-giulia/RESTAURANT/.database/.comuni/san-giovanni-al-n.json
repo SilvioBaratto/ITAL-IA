@@ -1,0 +1,151 @@
+{
+  "comune_name": "San Giovanni al N",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md",
+  "extracted_at": "2026-04-09T11:17:41.691Z",
+  "pois": [
+    {
+      "name": "Osteria Cadibon",
+      "address": "Via Nazionale, 34 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Cadibon%2C%20Via%20Nazionale%2C%2034%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria Cadibon è un punto di riferimento per la cucina friulana tipica a San Giovanni al Natisone. Gestita dalla signora Ameris in una casetta accogliente, propone piatti stagionali e tradizionali, con frico e salumi locali come specialità. Offre vini di produzione propria e dispone di un ampio giardino estivo. L’atmosfera familiare e la cura nelle pietanze rispecchiano l’orgoglio del territorio.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Trattoria La Campagnola",
+      "address": "Via Nazionale, 94 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20Campagnola%2C%20Via%20Nazionale%2C%2094%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria La Campagnola offre cucina friulana tradizionale in un ambiente autentico e semplice, con tavoli all'aperto per la stagione calda. I piatti sono quelli tipici regionali e la carta dei vini valorizza le etichette locali. Il locale è facilmente accessibile, anche alle persone con disabilità, ed è apprezzato per la genuinità dell’atmosfera da trattoria di campagna.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Al Ciliegino Ristorante Pizzeria",
+      "address": "Via Nazionale, 10 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Ciliegino%20Ristorante%20Pizzeria%2C%20Via%20Nazionale%2C%2010%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Al Ciliegino è un locale versatile che unisce ristorante e pizzeria, situato in posizione centrale lungo la via Nazionale. È ideale per famiglie e gruppi, grazie all’ambiente informale e accogliente. Recentemente rinnovato nella gestione, propone sia piatti tipici locali che una vasta scelta di pizze, con un'attenzione speciale all’ospitalità e ai servizi per persone con disabilità.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Da Luisa",
+      "address": "Via Trieste, 14 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Luisa%2C%20Via%20Trieste%2C%2014%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Da Luisa è una trattoria familiare amata dai residenti, situata nel cuore del comune. Il locale riflette la tradizione della cucina casalinga friulana, con ricette autentiche e un ambiente caloroso e semplice. La genuinità delle pietanze e l’atmosfera conviviale la rendono una scelta apprezzata da chi cerca la tipicità locale.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Osteria Trattoria Il Buco",
+      "address": "Via Dolegnano di Sopra, 70 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Trattoria%20Il%20Buco%2C%20Via%20Dolegnano%20di%20Sopra%2C%2070%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Osteria Trattoria Il Buco si trova nella zona di Dolegnano di Sopra ed è conosciuta per la cucina casalinga friulana in un contesto semplice e informale. Il locale è frequentato soprattutto dalla clientela locale ed è apprezzato per la sua atmosfera genuina e per essere un indirizzo \"nascosto\" fuori dai circuiti turistici.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Trattoria La Brava",
+      "address": "Via Madonna di Strada, 1 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20La%20Brava%2C%20Via%20Madonna%20di%20Strada%2C%201%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Trattoria La Brava propone cucina friulana tradizionale in un ambiente familiare e rassicurante. È nota per il servizio di consegna e asporto molto apprezzato dalla comunità. Il menù segue la stagionalità e offre i classici piatti regionali, risultando una tappa affidabile per chi cerca sapori autentici e semplicità.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Gioanna",
+      "address": "Via Bolzano, 8 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Gioanna%2C%20Via%20Bolzano%2C%208%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Il locale Gioanna, situato nella zona nord del comune, offre cucina friulana casalinga in un’atmosfera familiare. Il nome richiama la gestione locale e l'accoglienza a conduzione familiare tipica delle piccole osterie, ed è accessibile anche a persone con disabilità. È possibile prenotare tramite WhatsApp.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Charlotte",
+      "address": "Via Dolegnano di Sopra, 58 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Charlotte%2C%20Via%20Dolegnano%20di%20Sopra%2C%2058%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Charlotte è un locale moderno nella zona di Dolegnano di Sopra, caratterizzato da ambienti curati e tavoli all’aperto. L’offerta si distingue per uno stile più contemporaneo rispetto alle tradizionali osterie del territorio, mantenendo un’attenzione particolare all’accoglienza e all’accessibilità.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Il Mastro Birraio",
+      "address": "Via Nazionale, 97 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": "http://www.ilmastrobirraio.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Mastro%20Birraio%2C%20Via%20Nazionale%2C%2097%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Il Mastro Birraio è un birrificio artigianale con cucina che offre piatti da birreria abbinati alle sue birre di produzione propria. Situato sulla via Nazionale, rappresenta un’alternativa interessante alle tipiche trattorie locali e dispone di tavoli all’aperto e servizi per persone con disabilità. È ideale per gli appassionati di birra friulana e chi cerca una proposta innovativa.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Ristorante Asia",
+      "address": "Via delle Rosie, 14 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": "https://www.ristoranteasia.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Asia%2C%20Via%20delle%20Rosie%2C%2014%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Asia propone cucina cinese in un ambiente curato e tranquillo, facilmente accessibile dalla statale Udine-Gorizia. Il menù comprende i piatti classici della tradizione orientale e servizi d’asporto. Il locale è apprezzato anche per essere un punto di riferimento della numerosa comunità cinese presente in città.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Agriturismo Là di Gaspar",
+      "address": "Via Corno, 3 – Dolegnano, 33048 San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20L%C3%A0%20di%20Gaspar%2C%20Via%20Corno%2C%203%20%E2%80%93%20Dolegnano%2C%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Situato nella frazione di Dolegnano, l’Agriturismo Là di Gaspar offre cucina agrituristica con prodotti dell’azienda propria, immerso nella campagna ai piedi delle colline del Collio. Il locale valorizza i sapori friulani in un contesto rurale autentico e storico. Sono preferite le prenotazioni tramite WhatsApp.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Agriturismo Casa Shangri-La",
+      "address": "Via Bolzano, 60 – 33048 San Giovanni al Natisone (UD)",
+      "website_url": "https://www.casashangrila.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Casa%20Shangri-La%2C%20Via%20Bolzano%2C%2060%20%E2%80%93%2033048%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Casa Shangri-La è un agriturismo di eccellenza immerso nei vigneti ai piedi dei Colli Orientali, nato dalla ristrutturazione di una storica dimora rurale. Offre ristorazione agrituristica con prodotti locali e vini propri, oltre a servizi come piscina, campi da tennis e maneggio. L’ambiente è curato e ideale per soggiorni rilassanti e occasioni enogastronomiche.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    },
+    {
+      "name": "Campiello",
+      "address": "San Giovanni al Natisone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Campiello%2C%20San%20Giovanni%20al%20Natisone%20(UD)",
+      "image_url": null,
+      "description": "Campiello è un ristorante con fascia di prezzo medio-alta, noto per l’ambiente raccolto e curato che richiama i caratteristici cortili veneziani. Sebbene le recensioni siano poche, chi lo ha frequentato l’ha valutato positivamente. Per dettagli su orari e prenotazioni, si consiglia di contattare direttamente il locale.",
+      "comune_name": "San Giovanni al N",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/san-giovanni-al-n.md"
+    }
+  ]
+}

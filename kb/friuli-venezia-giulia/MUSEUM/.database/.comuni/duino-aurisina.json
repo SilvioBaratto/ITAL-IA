@@ -1,0 +1,41 @@
+{
+  "comune_name": "Duino Aurisina",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/duino-aurisina.md",
+  "extracted_at": "2026-04-09T10:47:12.731Z",
+  "pois": [
+    {
+      "name": "Castello di Duino — Museo e Residenza Principesca",
+      "address": "Frazione Duino 32, 34011 Duino Aurisina (TS)",
+      "website_url": "https://www.castellodiduino.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Duino%20%E2%80%94%20Museo%20e%20Residenza%20Principesca%2C%20Frazione%20Duino%2032%2C%2034011%20Duino%20Aurisina%20(TS)",
+      "image_url": null,
+      "description": "Il Castello di Duino è la principale attrazione culturale di Duino Aurisina, situato su una spettacolare falesia affacciata sul mare e aperto al pubblico come museo e residenza principesca. Il percorso museale comprende ricche collezioni di arredi, opere d'arte, strumenti musicali d'epoca e testimonianze storiche della famiglia dei Principi della Torre e Tasso, oltre a una famosa scala di scuola palladiana e un fortepiano suonato da Franz Liszt. Tra gli ospiti illustri figurano Rainer Maria Rilke, al quale è dedicata una passeggiata panoramica, e molti personaggi storici europei. Ai visitatori sono offerte visite guidate, eventi e l'accesso a un ampio parco botanico ricco di sculture, terrazze panoramiche e specie floreali rare.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Il Bunker della Kriegsmarine",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Bunker%20della%20Kriegsmarine%2C%20Duino%20Aurisina",
+      "image_url": null,
+      "description": "Il Bunker della Kriegsmarine, situato nel parco del Castello di Duino e visitabile con il biglietto del castello, è un sito museale dedicato alla memoria della Seconda guerra mondiale. Realizzato nel 1943 dalle forze tedesche come difesa contro possibili sbarchi alleati e poi utilizzato dagli inglesi come deposito, il bunker offre un suggestivo percorso sotterraneo di circa 400 mq che racconta la storia militare del Carso costiero. Dal 2006 accoglie i visitatori come esempio di testimonianza storica locale e memoria della guerra.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/duino-aurisina.md"
+    },
+    {
+      "name": "Il Castello Vecchio di Duino (Castelvecchio)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Castello%20Vecchio%20di%20Duino%20(Castelvecchio)%2C%20Duino%20Aurisina",
+      "image_url": null,
+      "description": "Le rovine del Castello Vecchio, affacciate sul Golfo di Panzano e raggiungibili a piedi dal Castello di Duino, sono un affascinante sito medievale di grande importanza storica e paesaggistica. Il castello, risalente al X-XI secolo, conserva tracce della sua funzione difensiva e strategica nel tempo e si lega alla leggenda della Dama Bianca, famosa nella tradizione locale. Oggi è visitabile come rudere panoramico lungo il percorso costiero.",
+      "comune_name": "Duino Aurisina",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/duino-aurisina.md"
+    }
+  ]
+}

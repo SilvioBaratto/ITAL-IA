@@ -1,0 +1,19 @@
+{
+  "comune_name": "Aiello del Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aiello-del-friuli.md",
+  "extracted_at": "2026-04-09T10:41:34.865Z",
+  "pois": [
+    {
+      "name": "Museo della Civiltà Contadina del Friuli Imperiale",
+      "address": "Via Petrarca, 1 — 33041 Aiello del Friuli (UD)",
+      "website_url": "https://www.museociviltacontadinafriuliimperiale.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Civilt%C3%A0%20Contadina%20del%20Friuli%20Imperiale%2C%20Via%20Petrarca%2C%201%20%E2%80%94%2033041%20Aiello%20del%20Friuli%20(UD)",
+      "image_url": null,
+      "description": "Il Museo della Civiltà Contadina del Friuli Imperiale ospita la più vasta collezione etnografica privata della regione ed è tra i principali musei contadini del Nord Italia. Il percorso espositivo, ambientato in un centro agricolo storico restaurato, racconta la vita rurale tra 1500 e 1918 attraverso oltre 25.000 oggetti, 52 sezioni tematiche e 37 botteghe artigiane ricostruite. Particolarmente unici sono la collezione degli aratri storici e le meridiane nel cortile. Il museo offre anche mostre temporanee, attività didattiche e la possibilità di visitare virtualmente le sue collezioni.",
+      "comune_name": "Aiello del Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/aiello-del-friuli.md"
+    }
+  ]
+}

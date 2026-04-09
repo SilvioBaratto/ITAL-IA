@@ -1,0 +1,41 @@
+{
+  "comune_name": "Monfalcone",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monfalcone.md",
+  "extracted_at": "2026-04-09T10:30:38.976Z",
+  "pois": [
+    {
+      "name": "Basilica Arcipretale di Sant'Ambrogio (Duomo di Monfalcone)",
+      "address": "Via Fratelli Rosselli, Monfalcone (GO)",
+      "website_url": "http://www.santambrogiomonfalcone.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20Arcipretale%20di%20Sant'Ambrogio%20(Duomo%20di%20Monfalcone)%2C%20Via%20Fratelli%20Rosselli%2C%20Monfalcone%20(GO)",
+      "image_url": null,
+      "description": "Il duomo di Monfalcone, dedicato a sant'Ambrogio, è la principale chiesa della città e sede del decanato nell'Arcidiocesi di Gorizia. Ricostruita in stile neoromanico dopo la distruzione totale causata dalla Prima Guerra Mondiale, la basilica fu consacrata nel 1929 con l'attuale collocazione decisa dagli architetti Gino Benigni e Francesco Leoni. Elevata a basilica minore da papa Pio XII nel 1940, rappresenta una preziosa testimonianza del processo di ricostruzione identitaria della città e dell'architettura ecclesiastica del primo Novecento.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Santuario della Beata Vergine Marcelliana",
+      "address": "Località Panzano, Monfalcone (GO)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Beata%20Vergine%20Marcelliana%2C%20Localit%C3%A0%20Panzano%2C%20Monfalcone%20(GO)",
+      "image_url": null,
+      "description": "Il santuario della Beata Vergine Marcelliana, situato nel quartiere Panzano, è il luogo di culto più antico di Monfalcone. Le sue origini risalgono al V secolo, e l'edificio attuale, realizzato in stile neoclassico tra il 1841 e il 1844, conserva pregevoli affreschi e una statua della Madonna tardoromanica. Rimasto indenne dalla Prima Guerra Mondiale, è l'unico vero filo di continuità storico-materiale con il passato sacro medievale della città e viene celebrato il 26 settembre con la festa patronale.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Chiesa della Beata Vergine del Rosario",
+      "address": "Zona centrale, Monfalcone (GO) (nelle vicinanze del duomo di Sant'Ambrogio)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Beata%20Vergine%20del%20Rosario%2C%20Zona%20centrale%2C%20Monfalcone%20(GO)%20(nelle%20vicinanze%20del%20duomo%20di%20Sant'Ambrogio)",
+      "image_url": null,
+      "description": "La chiesa della Beata Vergine del Rosario si trova nel centro di Monfalcone, vicino al duomo di Sant'Ambrogio. L'edificio attuale, in stile eclettico post-bellico, fu ricostruito dopo la distruzione della chiesa cinquecentesca durante la Prima Guerra Mondiale e ristrutturato nel 1985. Conserva elementi originali, come il rosone istoriato e il bassorilievo del leone marciano, che richiamano la memoria artistica e religiosa veneziana della città. Viene aperta regolarmente per le celebrazioni della Madonna del Carmine, di Santa Rita e del Santissimo Rosario.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/monfalcone.md"
+    }
+  ]
+}

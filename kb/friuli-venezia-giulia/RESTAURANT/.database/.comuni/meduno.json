@@ -1,0 +1,74 @@
+{
+  "comune_name": "Meduno",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md",
+  "extracted_at": "2026-04-09T11:06:40.653Z",
+  "pois": [
+    {
+      "name": "Ristorante La Stella",
+      "address": "Via Principale 38",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Stella%2C%20Via%20Principale%2038",
+      "image_url": null,
+      "description": "Ristorante La Stella è un punto di riferimento per la cucina friulana contemporanea a Meduno. Il menu varia ogni giorno ed è presentato dal proprietario Regis, valorizzando ingredienti stagionali e locali, come gnocchi artigianali, salumi Lovison, formaggi prodotti in casa e zuppe tipiche. L'atmosfera familiare e la cura per la narrazione culinaria rendono l'esperienza unica, con una carta dei vini ricca di etichette regionali e porzioni generose. La fascia di prezzo è medio-alta e la qualità è confermata da numerose recensioni positive.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md"
+    },
+    {
+      "name": "Agriturismo Ponte Maraldi",
+      "address": "Via Ponte Maraldi 33 a Meduno",
+      "website_url": "http://www.agriturismopontemaraldi.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Ponte%20Maraldi%2C%20Via%20Ponte%20Maraldi%2033%20a%20Meduno",
+      "image_url": null,
+      "description": "Agriturismo Ponte Maraldi offre cucina tradizionale friulana in un ambiente rurale immerso nel verde, proponendo paste fresche, carni selezionate e pani locali. Il menu a prezzo fisso è accessibile, ideale per famiglie e turisti. L'atmosfera è calorosa e familiare, con staff attento, e sono disponibili camere per il pernottamento per chi desidera prolungare il soggiorno.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md"
+    },
+    {
+      "name": "Ai Pradons Agriturismo",
+      "address": "Località Tomba 11",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Pradons%20Agriturismo%2C%20Localit%C3%A0%20Tomba%2011",
+      "image_url": null,
+      "description": "Ai Pradons Agriturismo si distingue per la degustazione di salumi regionali, accompagnati da formaggi tipici e piatti tradizionali friulani. L'ambiente è elegante con un tocco rustico, il servizio è cortese e il prezzo contenuto garantisce un eccellente rapporto qualità-prezzo. La struttura offre anche camere per soggiorni immersi nella tranquillità della campagna.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md"
+    },
+    {
+      "name": "Rifugio Valinis",
+      "address": "Località Valinis al Monte Cjaurlec",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Valinis%2C%20Localit%C3%A0%20Valinis%20al%20Monte%20Cjaurlec",
+      "image_url": null,
+      "description": "Il Rifugio Valinis propone cucina di montagna autentica con piatti friulani come frico, muset con brovada, cacciagione e polenta, utilizzando materie prime locali. La posizione panoramica lo rende meta ideale per escursionisti e sportivi, e il servizio è apprezzato per qualità e cortesia. Il rifugio è noto per la sua atmosfera conviviale e tradizionale.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md"
+    },
+    {
+      "name": "Da Franco Pizzeria",
+      "address": "Piazza della Vittoria 11, 33092 Meduno (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Franco%20Pizzeria%2C%20Piazza%20della%20Vittoria%2011%2C%2033092%20Meduno%20(PN)",
+      "image_url": null,
+      "description": "Da Franco Pizzeria è celebre per pizze preparate con ingredienti locali e farine selezionate, offrendo sia ricette classiche che varianti friulane. Il locale è accogliente, con servizio al tavolo e d'asporto, e il personale è noto per disponibilità e cordialità. La fascia di prezzo popolare rende la pizzeria accessibile a tutti, ed è particolarmente frequentata nei fine settimana.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md"
+    },
+    {
+      "name": "Agriturismo Alle Ruote",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Alle%20Ruote%2C%20Meduno",
+      "image_url": null,
+      "description": "Agriturismo Alle Ruote offre cucina della tradizione friulana con ingredienti genuini provenienti dalle proprie coltivazioni o da produttori locali. La struttura dispone di camere e mini-appartamento in una casa colonica restaurata, ed è immersa nella Val Meduna, ideale per chi cerca un'esperienza autentica e il contatto con la natura. L'atmosfera è quella tipica dell'ospitalità rurale friulana.",
+      "comune_name": "Meduno",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/meduno.md"
+    }
+  ]
+}

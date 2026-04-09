@@ -1,0 +1,63 @@
+{
+  "comune_name": "Clauzetto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/clauzetto.md",
+  "extracted_at": "2026-04-09T10:45:30.597Z",
+  "pois": [
+    {
+      "name": "Museo della Grotta di Pradis",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/il-museo/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Grotta%20di%20Pradis%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Il Museo della Grotta di Pradis è la principale istituzione museale di Clauzetto e si trova nell'altopiano di Pradis, presso il complesso delle Grotte Verdi. Racconta la storia naturale e preistorica del territorio, con particolare attenzione ai ritrovamenti paleontologici e archeozoologici emersi nelle cavità della zona. Il pezzo forte è la ricostruzione dell'Ursus spelaeus, l'orso delle caverne, e una significativa collezione di reperti litici e faunistici legati agli antichi abitatori dell'altopiano. Il museo è gestito dall'Associazione Culturale Pradis APS che organizza visite guidate e attività didattiche per tutte le età.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Grotte Verdi di Pradis — Complesso Naturalistico e Sito Museale",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotte%20Verdi%20di%20Pradis%20%E2%80%94%20Complesso%20Naturalistico%20e%20Sito%20Museale%2C%20Clauzetto",
+      "image_url": null,
+      "description": "Le Grotte Verdi di Pradis costituiscono il più rilevante sito culturale e naturalistico di Clauzetto, formato da una forra calcarea e tre caverne principali. Il complesso è attrezzato per la visita e offre ai visitatori sentieri panoramici, percorsi sotterranei e scorci suggestivi sulle pareti rocciose. Integrato nella rete FVG Underground, è gestito dall'Associazione Lis Aganis — Ecomuseo delle Dolomiti Friulane e rappresenta un'esperienza museale diffusa nel territorio carsico.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Grotta del Rio Secco — Sito Archeologico Paleolitico",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/siti-archeologici/grotta-del-rio-secco/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20del%20Rio%20Secco%20%E2%80%94%20Sito%20Archeologico%20Paleolitico%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Grotta del Rio Secco è un sito archeologico di notevole rilievo situato nel territorio di Clauzetto, noto per le testimonianze di frequentazione umana tra Paleolitico Medio e Superiore. Gli scavi hanno rivelato tracce degli ultimi Neandertal e dei primi Homo sapiens della regione, con datazioni tra 49.000 e 31.000 anni fa. Sebbene non sia interamente visitabile, il sito è incluso nel percorso culturale delle Grotte di Pradis e contribuisce alla comprensione della preistoria locale.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Grotta del Clusantin — Sito Archeologico Epigravettiano",
+      "address": null,
+      "website_url": "https://www.grottedipradis.it/siti-archeologici/grotta-del-clusantin/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta%20del%20Clusantin%20%E2%80%94%20Sito%20Archeologico%20Epigravettiano%2C%20Clauzetto",
+      "image_url": null,
+      "description": "La Grotta del Clusantin è una cavità carsica dell'altopiano di Pradis che ha ospitato gruppi di cacciatori-raccoglitori epigravettiani circa 14.000 anni fa. Gli scavi hanno documentato una specializzazione nella caccia alla marmotta e l'uso di strumenti litici specifici. Il sito è parte del circuito culturale locale e i reperti trovano valorizzazione presso il Museo della Grotta di Pradis e nelle attività divulgative dell'Associazione Culturale Pradis APS.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/clauzetto.md"
+    },
+    {
+      "name": "Ecomuseo Lis Aganis — Cellule Territoriali di Clauzetto",
+      "address": null,
+      "website_url": "https://www.ecomuseolisaganis.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20Lis%20Aganis%20%E2%80%94%20Cellule%20Territoriali%20di%20Clauzetto%2C%20Clauzetto",
+      "image_url": null,
+      "description": "L'Ecomuseo Lis Aganis è una rete museale diffusa che coinvolge il territorio di Clauzetto, promuovendo la conservazione e valorizzazione del patrimonio culturale, naturale e produttivo delle Dolomiti Friulane. Le \"cellule tematiche\" dell'ecomuseo sono dedicate a temi come acqua, sassi e mestieri, con visite guidate e attività didattiche coordinate in collaborazione con le associazioni locali. L'Ecomuseo supporta e integra le esperienze museali e archeologiche della zona.",
+      "comune_name": "Clauzetto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/clauzetto.md"
+    }
+  ]
+}

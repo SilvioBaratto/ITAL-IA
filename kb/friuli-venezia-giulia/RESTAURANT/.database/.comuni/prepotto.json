@@ -1,0 +1,52 @@
+{
+  "comune_name": "Prepotto",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prepotto.md",
+  "extracted_at": "2026-04-09T11:14:08.554Z",
+  "pois": [
+    {
+      "name": "Agriturismo Scribano – Alloggio e Ristoro",
+      "address": "Località Craoretto 22, Prepotto (UD) — CAP 33040",
+      "website_url": "http://www.scribanovini.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Scribano%20%E2%80%93%20Alloggio%20e%20Ristoro%2C%20Localit%C3%A0%20Craoretto%2022%2C%20Prepotto%20(UD)%20%E2%80%94%20CAP%2033040",
+      "image_url": null,
+      "description": "Agriturismo Scribano, gestito dalla famiglia Scribano, è uno dei rari locali con ristorazione nel comune di Prepotto. Situato tra i vigneti di Craoretto, offre cucina tradizionale friulana con ingredienti a km zero e vini di produzione propria, in un ambiente famigliare e accogliente. Il locale dispone di spazi all'aperto, si consiglia la prenotazione, ed è possibile anche pernottare in una delle tre camere disponibili.",
+      "comune_name": "Prepotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prepotto.md"
+    },
+    {
+      "name": "Ronco dello Schioppettino",
+      "address": "Località Brischis 70, Prepotto (UD) — CAP 33040",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ronco%20dello%20Schioppettino%2C%20Localit%C3%A0%20Brischis%2070%2C%20Prepotto%20(UD)%20%E2%80%94%20CAP%2033040",
+      "image_url": null,
+      "description": "Ronco dello Schioppettino è un'azienda agricola con ristoro nella frazione di Brischis, dedita alla valorizzazione della cucina friulana e del vitigno Schioppettino. La cucina regionale si abbina ai vini della casa, in un contesto collinare panoramico. L'ambiente rispecchia la tradizione agrituristica locale ed è aperto generalmente nei fine settimana e su prenotazione.",
+      "comune_name": "Prepotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prepotto.md"
+    },
+    {
+      "name": "Frasca da Cinzia",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Frasca%20da%20Cinzia%2C%20Prepotto",
+      "image_url": null,
+      "description": "La Frasca da Cinzia è un locale di tipo tradizionale friulano situato nel cuore di Prepotto, noto per la sua atmosfera informale e conviviale. Si servono vino di produzione propria o locale, salumi, formaggi, bruschette e piatti semplici della tradizione. L'apertura segue la tipica stagionalità delle frasche e si consiglia di informarsi direttamente in loco.",
+      "comune_name": "Prepotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prepotto.md"
+    },
+    {
+      "name": "Casa di Legno",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20di%20Legno%2C%20Prepotto",
+      "image_url": null,
+      "description": "Casa di Legno è un piccolo ristorante che richiama l'atmosfera rustica della tradizione locale, situato nella zona meridionale del comune. Propone cucina italiana e regionale con ingredienti locali, in un ambiente raccolto legato alla tipicità friulana.",
+      "comune_name": "Prepotto",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/prepotto.md"
+    }
+  ]
+}

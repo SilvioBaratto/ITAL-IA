@@ -1,0 +1,52 @@
+{
+  "comune_name": "Forgaria nel Friuli",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forgaria-nel-friuli.md",
+  "extracted_at": "2026-04-09T11:02:59.648Z",
+  "pois": [
+    {
+      "name": "Ai Glicini",
+      "address": "Via Napoleonica 4, nel cuore del paese",
+      "website_url": "http://www.aiglicini.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ai%20Glicini%2C%20Via%20Napoleonica%204%2C%20nel%20cuore%20del%20paese",
+      "image_url": null,
+      "description": "Ai Glicini è un albergo-ristorante rinomato per la sua cucina friulana d'eccellenza, con una splendida pergola di glicini che crea un'atmosfera magica durante la stagione estiva. La specialità della casa è la trota fresca, proposta in numerose ricette stagionali e classiche, mentre il menu offre anche antipasti con prodotti tipici friulani, frico, gnocchi, polenta e casunziei. Il locale dispone di sale eleganti, ideale per vari eventi, e una cantina con una selezione di rinomati vini regionali. Il servizio è curato e professionale, con prezzi medio-alti.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Agriturismo Verde Friuli",
+      "address": null,
+      "website_url": "http://www.verdefriuli.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Verde%20Friuli%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "Agriturismo Verde Friuli offre un'autentica esperienza rurale friulana, immersa in una posizione panoramica con terrazza sulla valle dell'Arzino. La cucina è genuina e fatta in casa, con specialità come frico con polenta, coniglio in umido, gnocchi al ragù e dolci tradizionali come la panna cotta. Il menu varia secondo le stagioni e valorizza prodotti locali, con porzioni abbondanti e prezzi accessibili. L'atmosfera è accogliente, con una sala interna rustica e terrazza estiva panoramica.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "La Terrazza del Pesce",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Terrazza%20del%20Pesce%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "La Terrazza del Pesce è un chiosco stagionale immerso nella natura vicino al Tagliamento e alla Riserva Naturale Regionale del Lago di Cornino. Il menu è interamente dedicato al pesce d'acqua dolce, in particolare alla trota, preparata in varie versioni a seconda del pescato del giorno. L'atmosfera è informale e conviviale, ideale per una cena rilassata all'aperto con vista sui laghetti. I prezzi sono modesti e l'apertura è nei fine settimana e su richiesta nei periodi di bassa stagione.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forgaria-nel-friuli.md"
+    },
+    {
+      "name": "Laghetti Pakar",
+      "address": null,
+      "website_url": "https://laghettipakar.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Laghetti%20Pakar%2C%20Forgaria%20nel%20Friuli",
+      "image_url": null,
+      "description": "Laghetti Pakar offre un'esperienza unica di pesca sportiva e ristorazione, dove è possibile pescare la trota di marmo e farla cucinare direttamente nella struttura. Il ristorante propone preparazioni semplici e genuine come trota fritta, al forno o bollita, valorizzando la freschezza del pescato. Immerso nel verde della Val d'Arzino, il luogo è adatto a famiglie e appassionati di natura, con tariffe accessibili e atmosfera rilassata.",
+      "comune_name": "Forgaria nel Friuli",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forgaria-nel-friuli.md"
+    }
+  ]
+}

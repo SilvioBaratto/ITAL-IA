@@ -1,0 +1,63 @@
+{
+  "comune_name": "Malborghetto Valbruna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/malborghetto-valbruna.md",
+  "extracted_at": "2026-04-09T10:29:26.364Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale della Visitazione di Maria — Malborghetto (capoluogo)",
+      "address": "Via della Chiesa, Malborghetto (UD), 33010",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20della%20Visitazione%20di%20Maria%20%E2%80%94%20Malborghetto%20(capoluogo)%2C%20Via%20della%20Chiesa%2C%20Malborghetto%20(UD)%2C%2033010",
+      "image_url": null,
+      "description": "La chiesa parrocchiale della Visitazione di Maria, situata nel capoluogo di Malborghetto, è un edificio di origini gotiche che fu ricostruito nel 1809 dopo la Battaglia di Malborghetto. Il campanile, di epoca più recente, è un punto di riferimento per chi percorre la valle. All'interno si conservano lapidi funerarie del XVI e XVII secolo e un altare maggiore di gusto barocco tardivo, a testimonianza della storia plurilingue e multiculturale della comunità locale.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Chiesa di San Gottardo — Bagni di Lusnizza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Gottardo%20%E2%80%94%20Bagni%20di%20Lusnizza%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "La chiesa di San Gottardo, risalente al XV secolo, si trova nella frazione di Bagni di Lusnizza ed è uno degli edifici religiosi più antichi del comune. L'architettura gotica rurale alpina dell'edificio riflette l'influenza germanica e la devozione verso il santo, particolarmente invocato contro le malattie legate all'acqua. La chiesa è un simbolo della stratificazione culturale della Val Canale, legata alle tradizioni dei vescovi di Bamberga.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Chiesa dei Santi Filippo e Giacomo — Ugovizza",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Filippo%20e%20Giacomo%20%E2%80%94%20Ugovizza%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "La chiesa dei Santi Filippo e Giacomo a Ugovizza ha origini medievali ma l'attuale edificio è frutto di una ricostruzione del 1930 in stile neoromanico-neogotico. Il campanile, ricostruito dopo i danni dell'alluvione del 2003, è un elemento distintivo del paese. Sono stati scoperti notevoli affreschi medievali durante restauri novecenteschi, offrendo preziose testimonianze della tradizione pittorica locale tra XIV e XVI secolo.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Chiesa di Santa Caterina — Santa Caterina",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Caterina%20%E2%80%94%20Santa%20Caterina%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "La chiesa di Santa Caterina, edificata nel Quattrocento nella piccola frazione omonima, esprime l'architettura gotica alpina con una struttura semplice e materiali locali. La dedicazione a Santa Caterina d’Alessandria richiama la devozione delle comunità alpine di lavoratori e artigiani. Rappresenta un esempio della capillare organizzazione religiosa medievale della Val Canale, punto di riferimento identitario per la frazione.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/malborghetto-valbruna.md"
+    },
+    {
+      "name": "Chiesa della Santissima Trinità — Valbruna",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20della%20Santissima%20Trinit%C3%A0%20%E2%80%94%20Valbruna%2C%20Malborghetto%20Valbruna",
+      "image_url": null,
+      "description": "La chiesa della Santissima Trinità di Valbruna risale al XVII secolo e fonde elementi del gotico alpino con primi accenti barocchi. La sua dedicazione è insolita nelle Alpi e riflette il clima della Controriforma in una regione di confine. L'edificio, sobrio ed essenziale, è tuttora un punto di riferimento spirituale per residenti e turisti di Valbruna, meta apprezzata per le sue bellezze naturali e la storia religiosa.",
+      "comune_name": "Malborghetto Valbruna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/malborghetto-valbruna.md"
+    }
+  ]
+}

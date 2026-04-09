@@ -1,0 +1,74 @@
+{
+  "comune_name": "Maniago",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md",
+  "extracted_at": "2026-04-09T10:29:38.953Z",
+  "pois": [
+    {
+      "name": "Duomo di San Mauro Martire",
+      "address": null,
+      "website_url": "http://www.comune.maniago.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20San%20Mauro%20Martire%2C%20Maniago",
+      "image_url": null,
+      "description": "Il Duomo di San Mauro Martire è il principale edificio sacro di Maniago, situato in Piazza Italia nel centro storico. Risalente al Quattrocento, presenta caratteristiche del gotico tardivo friulano e notevoli rifacimenti interni di epoca barocca e neoclassica. Vi si conservano preziose pale d'altare di scuola veneto-friulana e un fonte battesimale rinascimentale. La chiesa è centro della parrocchia di San Mauro e ospita ogni anno la processione solenne del patrono.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md"
+    },
+    {
+      "name": "Oratorio della Madonna (Cappella della Beata Vergine)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Oratorio%20della%20Madonna%20(Cappella%20della%20Beata%20Vergine)%2C%20Maniago",
+      "image_url": null,
+      "description": "L'Oratorio della Madonna è una cappella settecentesca situata in Piazza Italia, vicino al Duomo, ed è conosciuta come \"la Chiesetta della Madonna\". Di stile barocco popolare friulano e dimensioni molto contenute, è caratterizzata da una facciata a capanna e un interno con altare centrale. La cappella viene aperta in occasioni di ricorrenze mariane e custodisce ex-voto di tradizione locale.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md"
+    },
+    {
+      "name": "Chiesa di San Lorenzo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Lorenzo%2C%20Maniago",
+      "image_url": null,
+      "description": "La Chiesa di San Lorenzo si trova su un colle a nord del centro di Maniago, accessibile tramite il Sentiero degli Scalini vicino alle rovine del castello. Di origini medievali, ha subito restauri tra il XX e il XXI secolo e mantiene una struttura semplice con abside semicircolare e campaniletto a vela. Il luogo offre una vista panoramica sulla piana e sulle Prealpi Carniche ed è meta di escursionisti durante la bella stagione.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md"
+    },
+    {
+      "name": "Chiesa dei Santi Vito, Modesto e Crescenzia — Maniagolibero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Vito%2C%20Modesto%20e%20Crescenzia%20%E2%80%94%20Maniagolibero%2C%20Maniago",
+      "image_url": null,
+      "description": "La chiesa parrocchiale della frazione Maniagolibero è dedicata ai Santi Vito, Modesto e Crescenzia, martiri paleocristiani venerati nel Friuli. Situata nella centrale Piazza Cavour, l'edificio ha origini medievali con numerosi rifacimenti barocchi e ottocenteschi che ne hanno arricchito gli interni di stucchi e altari laterali. Il culto dei santi titolari è legato a tradizioni antiche della zona e viene celebrato con la festa del 15 giugno.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md"
+    },
+    {
+      "name": "Chiesa di San Floriano — Maniagolibero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Floriano%20%E2%80%94%20Maniagolibero%2C%20Maniago",
+      "image_url": null,
+      "description": "Questa piccola cappella devozionale si trova nella frazione Maniagolibero, lungo Via Giuseppe Mazzini, ed è dedicata a San Floriano, protettore contro incendi e inondazioni. Di stile vernacolare friulano e dimensioni ridotte, presenta una facciata a capanna molto semplice. L'interno ospita un altare con l'immagine del santo e la cappella è ancora oggetto di devozione locale, soprattutto durante la festa del 4 maggio.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md"
+    },
+    {
+      "name": "Chiesa di San Francesco d'Assisi — Dandolo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Francesco%20d'Assisi%20%E2%80%94%20Dandolo%2C%20Maniago",
+      "image_url": null,
+      "description": "La chiesa dedicata a San Francesco d'Assisi si trova nella frazione Dandolo, in Via Vivarina, e presenta un'architettura neoclassica semplificata con interventi effettuati nel Novecento. L'interno, sobrio e a navata unica, ha un altare maggiore recente e serve la piccola comunità rurale della frazione. La dedicazione riflette la possibile influenza della spiritualità francescana nella zona.",
+      "comune_name": "Maniago",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/maniago.md"
+    }
+  ]
+}

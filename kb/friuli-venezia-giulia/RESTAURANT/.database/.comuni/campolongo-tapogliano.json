@@ -1,0 +1,52 @@
+{
+  "comune_name": "Campolongo Tapogliano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campolongo-tapogliano.md",
+  "extracted_at": "2026-04-09T10:56:13.483Z",
+  "pois": [
+    {
+      "name": "Bar Trattoria Alla Stella",
+      "address": "Via L Cadorna, 11",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Alla%20Stella%2C%20Via%20L%20Cadorna%2C%2011",
+      "image_url": null,
+      "description": "Bar Trattoria Alla Stella è uno dei ristoranti più premiati di Campolongo Tapogliano, in cima alle classifiche locali per la sua cucina di pesce fresca e autentica. Il menu varia giornalmente seguendo la disponibilità di pescato, con piatti come baccalà alla vicentina con polenta, spigola e orata preparate al forno o alla griglia, e paste ai frutti di mare ricche di vongole e molluschi. L'atmosfera è informale e accogliente, ideale per famiglie e occasioni speciali; la qualità del servizio e la freschezza degli ingredienti sono costantemente apprezzate dai clienti.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "AgroDolce",
+      "address": "Corso Guglielmo Marconi, 4",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AgroDolce%2C%20Corso%20Guglielmo%20Marconi%2C%204",
+      "image_url": null,
+      "description": "AgroDolce propone una cucina incentrata su carni di qualità superiore, in particolare le bistecche di Black Angus provenienti da allevamenti selezionati, servite con affettati, formaggi e contorni fatti in casa. Il ristorante si trova in una fattoria restaurata dal fascino rurale, circondata da un giardino e dotata di area gioco per bambini, rendendolo perfetto per famiglie e animali domestici. L'atmosfera rilassante e il servizio cordiale contribuiscono a una piacevole esperienza gastronomica, con piatti presentati in modo raffinato e prezzi moderati.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "La Toretta",
+      "address": "Via IX Giugno, 21",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Toretta%2C%20Via%20IX%20Giugno%2C%2021",
+      "image_url": null,
+      "description": "La Toretta si distingue per un menu vario che comprende specialità di mare e terra, la cucina italiana classica rivisitata e piatti influenzati dalla tradizione mediterranea come la paella. Apprezzata per gli antipasti di carne e le proposte di pesce, è famosa anche per i suoi dolci classici come la crema mille foglie e la pannacotta al caramello. L'ambiente è luminoso e accogliente, con possibilità di consumare all'interno o in un'area esterna attrezzata, e offre servizio per asporto. La fascia di prezzo è accessibile e il locale gode di una solida reputazione.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campolongo-tapogliano.md"
+    },
+    {
+      "name": "Trattoria Da Daniela",
+      "address": "Piazza Esercito, 33",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Da%20Daniela%2C%20Piazza%20Esercito%2C%2033",
+      "image_url": null,
+      "description": "Trattoria Da Daniela è rinomata per la sua cucina di pesce, con specialità come la paella e calamari preparati in diverse varianti. Tra le particolarità figurano le rane impanate, un piatto tradizionale della pianura friulana valorizzato con una panatura croccante. Il locale offre un'atmosfera informale e accogliente, con servizio sia in loco che da asporto, operando su prenotazione da giovedì a domenica. I prezzi sono moderati e la trattoria è ideale per chi cerca autenticità e genuinità nella cucina friulana.",
+      "comune_name": "Campolongo Tapogliano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/campolongo-tapogliano.md"
+    }
+  ]
+}

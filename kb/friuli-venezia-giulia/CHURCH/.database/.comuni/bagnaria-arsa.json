@@ -1,0 +1,63 @@
+{
+  "comune_name": "Bagnaria Arsa",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bagnaria-arsa.md",
+  "extracted_at": "2026-04-09T10:19:14.943Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Giorgio Martire — Bagnaria (capoluogo)",
+      "address": "Piazza San Giorgio, frazione Bagnaria",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68234",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%20Martire%20%E2%80%94%20Bagnaria%20(capoluogo)%2C%20Piazza%20San%20Giorgio%2C%20frazione%20Bagnaria",
+      "image_url": null,
+      "description": "La chiesa di San Giorgio Martire è la parrocchiale storica di Bagnaria e patronale dell'intero comune, consacrata nel 1746 su un impianto neoclassico. All'interno custodisce un pregiato altare del Crocefisso e un notevole fonte battesimale rinascimentale in marmo del XVI secolo. La torre campanaria, risalente tra Sette e Ottocento, ospita tre campane storiche e una quarta aggiunta nel 1993. Nel 1950 ha ricevuto il titolo di pieve ad honorem per la sua importanza religiosa.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo — Sevegliano",
+      "address": "Via Vittorio Veneto, Sevegliano (capoluogo comunale)",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68236",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Sevegliano%2C%20Via%20Vittorio%20Veneto%2C%20Sevegliano%20(capoluogo%20comunale)",
+      "image_url": null,
+      "description": "La chiesa di Sant'Andrea Apostolo è la parrocchiale di Sevegliano, eretta tra il 1836 e il 1838 su progetto di Giuseppe Simonetti e consacrata nel 1895. Presenta una facciata neoclassica con tre statue di santi e un elegante campanile in pietra. L'interno, a navata unica, conserva un fonte battesimale attribuito a Pilacorte e tre dipinti dei fratelli Lorenzoni. Ha subito restauri e ammodernamenti nel corso del Novecento.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Chiesa di San Martino Vescovo — Privano",
+      "address": "Frazione Privano, Bagnaria Arsa",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68232/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%20Vescovo%20%E2%80%94%20Privano%2C%20Frazione%20Privano%2C%20Bagnaria%20Arsa",
+      "image_url": null,
+      "description": "La chiesa di San Martino Vescovo, originaria del 1450, sorse come cappella privata della Villa Antonini Dessj e fu quasi interamente rifatta nel 1681 con successivi ampliamenti ottocenteschi. Presenta una pianta a croce latina e una facciata un tempo arricchita da statue, risultando un tipico esempio di architettura sacra rurale friulana. La lunga storia della chiesa testimonia il legame tra patronato nobiliare e devozione popolare nella frazione di Privano.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Chiesa di Santa Maria Assunta — Castions delle Mura",
+      "address": "Frazione Castions delle Mura, Bagnaria Arsa",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20Castions%20delle%20Mura%2C%20Frazione%20Castions%20delle%20Mura%2C%20Bagnaria%20Arsa",
+      "image_url": null,
+      "description": "Costruita nel 1547 e ampiamente ristrutturata nel 1767 per volontà dei conti di Strassoldo, la chiesa di Santa Maria Assunta si trova nella frazione di Castions delle Mura, tra i borghi più antichi del comune. L'edificio mantiene l'impianto cinquecentesco con caratteristiche neoclassiche e ha svolto un ruolo centrale nelle complesse vicende religiose e comunitarie dell'area nel corso dei secoli.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bagnaria-arsa.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo — Campolonghetto",
+      "address": "Frazione Campolonghetto, Bagnaria Arsa",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20%E2%80%94%20Campolonghetto%2C%20Frazione%20Campolonghetto%2C%20Bagnaria%20Arsa",
+      "image_url": null,
+      "description": "La chiesa di San Giacomo, situata nella frazione di Campolonghetto, è un esempio tipico di edilizia sacra rurale friulana con architettura essenziale e rimaneggiamenti ottocenteschi. Storicamente legata ai conti di Strassoldo e alla parrocchiale di Bagnaria, la chiesa è stata punto di riferimento della vita religiosa locale, sede di tradizioni e festività tramandate da generazioni.",
+      "comune_name": "Bagnaria Arsa",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bagnaria-arsa.md"
+    }
+  ]
+}

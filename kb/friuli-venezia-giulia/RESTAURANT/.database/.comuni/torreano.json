@@ -1,0 +1,30 @@
+{
+  "comune_name": "Torreano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/torreano.md",
+  "extracted_at": "2026-04-09T11:21:10.762Z",
+  "pois": [
+    {
+      "name": "Trattoria al Passeggio",
+      "address": "Via Cividale, 9 — Torreano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20al%20Passeggio%2C%20Via%20Cividale%2C%209%20%E2%80%94%20Torreano%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria al Passeggio rappresenta il principale riferimento per la ristorazione a Torreano grazie a una cucina friulana autentica e alla gestione familiare. Il locale propone specialità di selvaggina, faraona, baccalà e funghi porcini, con particolare attenzione alla qualità delle materie prime e alla stagionalità. L'atmosfera è accogliente e genuina, tipica delle trattorie di campagna friulane, e offre anche vini locali selezionati e dolci fatti in casa. Ideale per pranzi in famiglia e chi desidera scoprire la cucina tradizionale friulana in un contesto non turistico.",
+      "comune_name": "Torreano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/torreano.md"
+    },
+    {
+      "name": "Agriturismo Te Cort da Rino",
+      "address": "Torreano (UD) — frazione Cergneu (area collinare a circa 2,5 km dal capoluogo)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Te%20Cort%20da%20Rino%2C%20Torreano%20(UD)%20%E2%80%94%20frazione%20Cergneu%20(area%20collinare%20a%20circa%202%2C5%20km%20dal%20capoluogo)",
+      "image_url": null,
+      "description": "Agriturismo Te Cort da Rino è immerso nelle colline e vigneti di Torreano ed è famoso per la cucina casalinga friulana realizzata con prodotti biologici a km 0 provenienti dalla propria azienda agricola. La struttura, ricavata da un antico casale rurale restaurato, offre un ambiente rustico ed accogliente, ideale per famiglie, eventi privati e chi cerca tranquillità in mezzo alla natura. È certificato biologico, propone vini propri ed è particolarmente apprezzato per l'atmosfera familiare e l'autenticità della cucina contadina locale.",
+      "comune_name": "Torreano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/torreano.md"
+    }
+  ]
+}

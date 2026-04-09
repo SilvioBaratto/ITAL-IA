@@ -1,0 +1,41 @@
+{
+  "comune_name": "Magnano in Riviera",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/magnano-in-riviera.md",
+  "extracted_at": "2026-04-09T10:29:16.475Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale della Santissima Trinità e Beata Vergine del Rosario — Magnano in Riviera (capoluogo)",
+      "address": "Capoluogo di Magnano in Riviera, CAP 33010.",
+      "website_url": "http://www.comune.magnanoinriviera.ud.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20della%20Santissima%20Trinit%C3%A0%20e%20Beata%20Vergine%20del%20Rosario%20%E2%80%94%20Magnano%20in%20Riviera%20(capoluogo)%2C%20Capoluogo%20di%20Magnano%20in%20Riviera%2C%20CAP%2033010.",
+      "image_url": null,
+      "description": "È la principale chiesa parrocchiale del comune, dedicata alla Santissima Trinità e alla Beata Vergine del Rosario, e rappresenta un importante luogo di culto per la comunità locale. La doppia titolazione riflette una radicata devozione mariana, con la festa patronale celebrata la seconda domenica di ottobre. L'edificio, appartenente all'Arcidiocesi di Udine, fu gravemente danneggiato dal terremoto del 1976 e successivamente restaurato negli anni Ottanta.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/magnano-in-riviera.md"
+    },
+    {
+      "name": "Chiesa di San Giacomo Apostolo — Billerio",
+      "address": "Billerio (frazione di Magnano in Riviera), Via Borgo San Giacomo, CAP 33010.",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20Apostolo%20%E2%80%94%20Billerio%2C%20Billerio%20(frazione%20di%20Magnano%20in%20Riviera)%2C%20Via%20Borgo%20San%20Giacomo%2C%20CAP%2033010.",
+      "image_url": null,
+      "description": "Questa chiesa è la parrocchiale della frazione di Billerio e serve una comunità di circa 575 fedeli. Dedicata a San Giacomo il Maggiore, la cui festa si celebra il 25 luglio, è legata alle tradizioni di pellegrinaggio friulane verso Santiago de Compostela. È nota per il suo organo a canne costruito nel 1942, considerato di pregio storico-musicale, e fu restaurata dopo i danni subiti nel terremoto del 1976.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/magnano-in-riviera.md"
+    },
+    {
+      "name": "Chiesa di San Nicola Vescovo — Bueriis",
+      "address": "Bueriis (frazione di Magnano in Riviera), Via Pozz 3, CAP 33010.",
+      "website_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Nicola_(Bueriis)",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicola%20Vescovo%20%E2%80%94%20Bueriis%2C%20Bueriis%20(frazione%20di%20Magnano%20in%20Riviera)%2C%20Via%20Pozz%203%2C%20CAP%2033010.",
+      "image_url": null,
+      "description": "La chiesa parrocchiale della frazione di Bueriis fu costruita nel XVIII secolo e ricostruita tra il 1897 e il 1899 su progetto dell'architetto Angelo Noacco, assumendo un caratteristico stile neoromanico-eclettico. Sorge in posizione panoramica su un rilievo e presenta un organo a canne del 1968. L'edificio, colpito dal terremoto del 1976 e restaurato in seguito, è dedicato a San Nicola, patrono della frazione, festeggiato il 6 dicembre.",
+      "comune_name": "Magnano in Riviera",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/magnano-in-riviera.md"
+    }
+  ]
+}

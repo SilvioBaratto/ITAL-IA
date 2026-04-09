@@ -1,0 +1,19 @@
+{
+  "comune_name": "Frisanco",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/frisanco.md",
+  "extracted_at": "2026-04-09T10:15:51.158Z",
+  "pois": [
+    {
+      "name": "Bar e punto di ritrovo a Frisanco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20e%20punto%20di%20ritrovo%20a%20Frisanco%2C%20Frisanco",
+      "image_url": null,
+      "description": "Questo piccolo bar/osteria di paese rappresenta il principale punto di aggregazione per la comunità di Frisanco. Offre caffè e brioche al mattino, vino e birra nel pomeriggio e talvolta rivende generi di prima necessità. L'atmosfera è quella caratteristica dei bar rurali friulani: accogliente, con pochi tavoli e una clientela locale che si ritrova per conversare in friulano o per giocare a carte.",
+      "comune_name": "Frisanco",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/frisanco.md"
+    }
+  ]
+}

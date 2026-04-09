@@ -1,0 +1,63 @@
+{
+  "comune_name": "Dignano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dignano.md",
+  "extracted_at": "2026-04-09T11:00:19.417Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Friuli",
+      "address": "Piazza Cimolino, 5, 33030 Dignano (UD)",
+      "website_url": "https://www.facebook.com/p/Trattoria-al-Friuli-dal-1923-100054428232405/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Friuli%2C%20Piazza%20Cimolino%2C%205%2C%2033030%20Dignano%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Al Friuli, attiva dal 1923, è una storica istituzione della cucina friulana a Dignano, conosciuta per la fedeltà alle ricette locali e l'uso esclusivo di ingredienti del territorio. Il locale propone un menu di classici come gnocchi, lasagna, speck e una rinomata tiramisù, apprezzati per la loro genuinità e accoglienza. L'atmosfera calda e tradizionale, la cura nel servizio e i prezzi accessibili lo rendono un punto di riferimento per chi cerca autenticità gastronomica friulana.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dignano.md"
+    },
+    {
+      "name": "Trattoria Alla Speranza",
+      "address": "Piazza della Libertà, 10, Carpacco, 33030 Dignano (UD)",
+      "website_url": "https://www.facebook.com/TrattoriaAllaSperanza/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Speranza%2C%20Piazza%20della%20Libert%C3%A0%2C%2010%2C%20Carpacco%2C%2033030%20Dignano%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Alla Speranza è una trattoria a conduzione famigliare situata nella frazione di Carpacco, celebre per le sue specialità di cucina friulana homestyle come baccalà, trippa e calamari. Il locale è apprezzato per l'atmosfera intima e informale, il servizio cordiale e la qualità dei piatti, serviti secondo una programmazione settimanale. I prezzi equi e le numerose recensioni positive confermano la reputazione del locale come uno dei migliori rappresentanti della tradizione culinaria dignanese.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dignano.md"
+    },
+    {
+      "name": "Osteria L'Ombelico Di Bacco",
+      "address": "Via della Villa, 7, Bonzicco, 33030 Dignano (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20L'Ombelico%20Di%20Bacco%2C%20Via%20della%20Villa%2C%207%2C%20Bonzicco%2C%2033030%20Dignano%20(UD)",
+      "image_url": null,
+      "description": "Osteria L'Ombelico Di Bacco si trova nella frazione di Bonzicco e propone un'ampia varietà di piatti italiani e friulani preparati in casa, con grande attenzione ai prodotti stagionali. L'osteria offre antipasti di pesce e verdure, paste fresche, piatti di carne e selvaggina, e pesce cotto sia alla griglia che arrosto. L'ambiente è informale e familiare, ideale per gruppi e famiglie, con numerosi servizi tra cui catering, eventi e un piacevole giardino per la stagione calda.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dignano.md"
+    },
+    {
+      "name": "Ristorante Pizzeria Columbia",
+      "address": "Via Nazionale, 33, Dignano (UD)",
+      "website_url": "http://www.pizzeriacolumbia.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Pizzeria%20Columbia%2C%20Via%20Nazionale%2C%2033%2C%20Dignano%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Columbia è un locale storico di Dignano, attivo dal 1987 e rinomato per le sue pizze cotte nel forno a legna. Oltre alle pizze, propone un menu completo con antipasti, primi e secondi piatti di carne e pesce, adatti a diverse preferenze culinarie. L'atmosfera è calda e accogliente, con il forno a legna visibile che aggiunge un tocco autentico all'ambiente.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dignano.md"
+    },
+    {
+      "name": "Anin da Toni",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Anin%20da%20Toni%2C%20Dignano",
+      "image_url": null,
+      "description": "Anin da Toni è una pizzeria di Dignano particolarmente nota per la varietà delle sue pizze, che spaziano dalle versioni friulane a quelle venete e del Sud Italia. Il locale offre un ambiente accogliente e familiare, ideale per cene informali e incontri tra amici, mantenendo sempre uno standard elevato nella qualità degli ingredienti e nelle preparazioni. L'apertura prolungata, ad eccezione del lunedì, lo rende una scelta versatile per diversi momenti della settimana.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dignano.md"
+    }
+  ]
+}

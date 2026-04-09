@@ -1,0 +1,30 @@
+{
+  "comune_name": "Lignano Sabbiadoro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lignano-sabbiadoro.md",
+  "extracted_at": "2026-04-09T10:29:00.378Z",
+  "pois": [
+    {
+      "name": "Chiesa di Santa Maria del Mare",
+      "address": null,
+      "website_url": "https://www.parrocchialignano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20del%20Mare%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Storica chiesa quattrocentesca di stile gotico-rinascimentale friulano, originariamente situata a Bevazzana e poi traslata nel 1965-1966 nella pineta di Lignano Pineta per salvarla dalle piene del Tagliamento. L'edificio custodisce preziosi affreschi tardogotici, un altare paleocristiano o altomedievale, una scultura della Madonna di Pilacorte, una Madonna in legno dipinto e una protome marmorea romana. È ancora sede di culto e meta di visitatori, apprezzata per la sua storia unica e il patrimonio artistico conservato.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lignano-sabbiadoro.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale della Madonna dell'Adriatico e Cripta di San Giovanni Bosco",
+      "address": null,
+      "website_url": "https://www.parrocchialignano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20della%20Madonna%20dell'Adriatico%20e%20Cripta%20di%20San%20Giovanni%20Bosco%2C%20Lignano%20Sabbiadoro",
+      "image_url": null,
+      "description": "Chiesa centrale per la comunità di Lignano Sabbiadoro, con una storia legata allo sviluppo del paese: la prima costruzione risale al 1937–38, ricostruita dopo la Seconda guerra mondiale e ampliata dal 1989. La chiesa superiore è dedicata alla Madonna dell'Adriatico ed è caratterizzata da architettura moderna e spazi raccolti per i numerosi fedeli e turisti estivi. La cripta conserva la memoria della dedicazione originale a San Giovanni Bosco, protettore della città.",
+      "comune_name": "Lignano Sabbiadoro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lignano-sabbiadoro.md"
+    }
+  ]
+}

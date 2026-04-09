@@ -1,0 +1,184 @@
+{
+  "comune_name": "Aviano",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md",
+  "extracted_at": "2026-04-09T10:02:09.233Z",
+  "pois": [
+    {
+      "name": "Bar Centrale — Centro di Aviano",
+      "address": "Piazza Duomo, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Centrale, affacciato sulla Piazza Duomo, è un locale storico al centro della vita quotidiana di Aviano. Dall'ambiente classico con bancone in legno e tavolini, è ideale sia per una colazione veloce che per un aperitivo all'aperto. Frequentato da diverse generazioni, offre un punto di ritrovo autentico e conviviale, famoso anche per le brioche fresche del mattino.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar Sport — Centro di Aviano",
+      "address": "Piazza Duomo, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Sport si trova nella stessa piazza del Bar Centrale ed è il punto d'incontro degli appassionati di sport del paese. L'atmosfera è informale e accogliente, con un bancone sempre animato soprattutto nei weekend sportivi. Offre colazioni, caffè e spuntini veloci, rappresentando un solido riferimento nella vita sociale di Aviano.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Pasticceria L'Étoile — Centro di Aviano",
+      "address": "Viale San Giorgio, 9, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Pasticceria L'Étoile è una storica pasticceria artigianale di Aviano, rinomata per l'alta qualità di torte, pasticcini e praline. L'atmosfera è elegante e profumata, con tavolini dove gustare colazioni raffinate, mignon e cappuccini serviti con attenzione. È un indirizzo amato dagli avianesi per dolci da ricorrenza e una pausa speciale in centro.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Caffè Stradella — Centro di Aviano",
+      "address": "Centro di Aviano (zona Piazza Duomo), 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Caffè Stradella è un bar di quartiere nel centro storico, semplice e frequentato dai residenti per la pausa caffè. L'ambiente familiare lo rende ideale per chi cerca un luogo autentico per socializzare. Offre espresso, bevande fresche e gelato durante i mesi più caldi, adattandosi alle abitudini stagionali dei clienti.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Al Contrario — Centro di Aviano",
+      "address": "Viale San Giorgio, 12, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Al Contrario è un locale serale moderno, noto per i suoi aperitivi e serate con buffet, cocktail e birre artigianali. Dotato di dehors estivo e accessibilità per disabili, è perfetto per ritrovarsi dopo il lavoro o iniziare una notte tra amici. Spesso ospita eventi e musica, distinguendosi per l’ambiente vivace e la varietà di birre alla spina e in bottiglia.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Mario's Autentik Club Bistrot — Centro di Aviano",
+      "address": "Via Pordenone, 48, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Mario's Autentik Club Bistrot è un bistrot originale che combina cucina Tex-Mex, cocktail d'autore e serate con musica, creando un punto d'incontro giovane e innovativo. L'atmosfera ricorda i locali americani pur mantenendo calore italiano, e il locale è apprezzato per brunch, feste private ed eventi tematici. L’offerta di birre particolari e cocktail creativi attira una clientela dinamica.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "The Bobe Trap — Centro di Aviano",
+      "address": "Viale San Giorgio, 12, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "The Bobe Trap è un locale dallo stile moderno e accogliente, noto tanto per la cucina a base di carne quanto per la ricca proposta di drink e cocktail. Si distingue per eventi tematici, serate musicali e degustazioni, diventando un punto di riferimento per chi cerca un ambiente informale ma curato, ideale per cene o semplici drink serali.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar Bianco — Centro di Aviano",
+      "address": "Piazzale Mario della Puppa, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Bianco, conosciuto anche come Birreria Il Boccale, è famoso per l’ampia selezione di birre alla spina e in bottiglia. Si trova in una zona di aggregazione cittadina ed è ideale per chi ama trascorrere serate informali accompagnate da buona birra e stuzzichini. Il locale si distingue per la sua vocazione da birreria e l’atmosfera accogliente.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar AleMi — Marsure",
+      "address": "Via Trieste, 132, 33081 Marsure di Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar AleMi è il bar di riferimento nella frazione di Marsure. Caratterizzato da uno spazio esterno vivace, scandisce il ritmo della comunità proponendo colazioni, caffè e aperitivi. Qui il servizio è cordiale e i prezzi accessibili, incarnando la tipica atmosfera conviviale del bar di paese friulano.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar Due Lune — Marsure",
+      "address": "Via Trieste, 184, 33081 Marsure di Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Due Lune rappresenta l'altro punto di riferimento a Marsure, aperto sia per il pranzo veloce che per la serata. Offre una selezione di vini e birre alla spina e si distingue per gli orari flessibili che coprono più momenti della giornata. L’ambiente accogliente lo rende un punto di ritrovo essenziale per la comunità locale.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar Ossena — Beorchia/Ornedo",
+      "address": "Via Scussat, 1, 33081 Beorchia — frazione di Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Ossena è il cuore della socialità nella frazione di Beorchia, frequentato dalla gente del posto a tutte le ore. Atmosfera semplice e genuina, tipica dei bar di campagna friulani, qui si incontrano agricoltori e residenti per un caffè, un bicchiere di vino o una birra. È un locale essenziale che incarna la tradizione del bar italiano di paese.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Alla Stella — Giais",
+      "address": "Zona Giais, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il caffè Alla Stella è il punto di sosta della frazione collinare di Giais. Gestione familiare e solidità nel tempo lo rendono un riferimento per chi vive la zona con tranquillità. Si caratterizza per le sue colazioni semplici, il buon caffè e l’atmosfera raccolta tipica dei piccoli paesi di montagna.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar Barbablù — Cortina di Giais",
+      "address": "Via Silvio Benco, 33081 Cortina di Giais — frazione di Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Barbablù spicca per il nome originale e accoglienza calorosa, tipica dei bar di montagna. Punto di ritrovo per residenti, escursionisti e sciatori, propone caffè, bevande calde e spuntini salati, offrendo ristoro e convivialità. È una presenza irrinunciabile per chi transita o soggiorna nella piccola frazione di Cortina di Giais.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar Viavai — Selva di Giais",
+      "address": "Via Selva, 33081 Selva di Giais — frazione di Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Viavai è il punto di incontro principale di Selva di Giais, frequentato da escursionisti e residenti. Atmosfera genuina e servizio essenziale lo rendono perfetto per una pausa durante le attività all'aperto, sia d’estate che d’inverno in direzione Piancavallo. Offre sempre qualcosa di caldo da bere e stuzzichini dopo una camminata.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar da Borta — Pedemonte/Ornedo",
+      "address": "Zona Pedemonte-Ornedo, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar da Borta è una presenza storica nella zona collinare di Aviano, punto di ritrovo per agricoltori, artigiani e ciclisti lungo la pedemontana. Gestione familiare e atmosfera conviviale creano un ambiente semplice, adatto a colazioni e caffè pomeridiani, offrendo ristoro a chi vive o visita questa parte del territorio.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    },
+    {
+      "name": "Bar dei Rifugi a Piancavallo — Piancavallo (frazione di Aviano, 1250 m s.l.m.)",
+      "address": "Piancavallo, 33081 Aviano (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Nella stazione sciistica di Piancavallo si concentrano diversi bar e caffè che servono sia residenti che turisti, con una particolare attenzione alle esigenze stagionali. Qui la colazione e l’aperitivo si vivono con vista sulle Prealpi, tra terrazze panoramiche e locali sulle piste che offrono vin brûlé, buffet e atmosfera apres-ski. È uno dei luoghi più vivaci durante la stagione sciistica e le escursioni estive.",
+      "comune_name": "Aviano",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/aviano.md"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "comune_name": "Forni Avoltri",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md",
+  "extracted_at": "2026-04-09T11:03:19.298Z",
+  "pois": [
+    {
+      "name": "Ristorante Trattoria Al Fogolar",
+      "address": "Località Plan De Rovolo, 1",
+      "website_url": "https://albergoalfogolar.it/it/ristorante",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Trattoria%20Al%20Fogolar%2C%20Localit%C3%A0%20Plan%20De%20Rovolo%2C%201",
+      "image_url": null,
+      "description": "Il Ristorante Trattoria Al Fogolar è uno dei locali più rinomati di Forni Avoltri, specializzato nella cucina carnica autentica e nella preparazione di trota fresca grazie alla vicinanza con il torrente Degano. Il menu offre piatti tradizionali come cjarsons, gnocchi di ricotta e patate, frico con polenta e specialità stagionali a base di erbe, funghi e verdure dell’orto. L’atmosfera accogliente è quella tipica di montagna e la trattoria può ospitare fino a 120 persone, perfetta per feste e riunioni. Il locale è noto anche per la qualità dei salumi e formaggi locali proposti durante tutta la giornata.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Al Sole",
+      "address": "Via Belluno 14",
+      "website_url": "https://www.alsoleromanin.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Al%20Sole%2C%20Via%20Belluno%2014",
+      "image_url": null,
+      "description": "Albergo Al Sole è un albergo storico a conduzione familiare sin dal 1908, con un ristorante che si distingue per la cucina raffinata e il rispetto delle tradizioni locali. La sala è luminosa e spaziosa e i piatti sono preparati con ingredienti rigorosamente locali, come cjarsons, gnocchi di pane, orzotto, frico con polenta e dolci fatti in casa. La terrazza panoramica, perfetta d’estate, offre splendide viste sui monti della Carnia rendendo l’esperienza ancor più suggestiva. Il bar propone grappe e vini regionali.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Bar Ristorante Da Gina",
+      "address": "Via di Sotto, frazione Sigilletto",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Bar%20Ristorante%20Da%20Gina%2C%20Via%20di%20Sotto%2C%20frazione%20Sigilletto",
+      "image_url": null,
+      "description": "Albergo Bar Ristorante Da Gina offre un'esperienza genuina immersa nella natura, con orto, terrazza panoramica e atmosfera familiare. La cucina propone piatti della tradizione carnica come risotto alle erbe di montagna, canederli, cacciagione, polenta ai funghi e dolci ai frutti di bosco, con porzioni abbondanti molto apprezzate dagli ospiti. La struttura è lodata per la posizione strategica, comfort e accoglienza, ed è classificata #2 su TripAdvisor con un rating di 4.4 su 5.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Hotel Ristorante Pizzeria Scarpone",
+      "address": "Corso Italia, 16",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20Pizzeria%20Scarpone%2C%20Corso%20Italia%2C%2016",
+      "image_url": null,
+      "description": "Lo Scarpone è una struttura alberghiera e ristorante a conduzione familiare attiva da oltre 40 anni, famosa per la sua atmosfera piacevole e l’ospitalità tipica delle Alpi Carniche. Il ristorante propone specialità regionali carniche e pizze di qualità, unendo tradizione a una ricca varietà culinaria. Gli ospiti apprezzano il servizio e la qualità dei piatti, mentre l’hotel è il primo in paese su TripAdvisor con 4 stelle su 5.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Bar Ristorante Al Biathlon",
+      "address": "Località Piani di Luzza, 1",
+      "website_url": "https://www.albiathlon.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Al%20Biathlon%2C%20Localit%C3%A0%20Piani%20di%20Luzza%2C%201",
+      "image_url": null,
+      "description": "Bar Ristorante Al Biathlon si trova all’interno del complesso sportivo dell’Arena Carnia, offrendo un’atmosfera unica tra paesaggi verdi e piste da sci. La cucina ripropone sapori autentici di montagna, con piatti tipici carnici come cjarsons, frico con polenta, cacciagione e dolci fatti in casa. Il locale è noto per la cordialità della gestione, l’ottimo rapporto qualità-prezzo e la clientela composta sia da sportivi che turisti.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Osteria al Cral",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Cral%2C%20Forni%20Avoltri",
+      "image_url": null,
+      "description": "L'Osteria al Cral è un punto di riferimento per chi cerca la vera cucina carnica tradizionale, ideale per una serata conviviale con i piatti tipici della zona. Pur essendo meno documentata online, resta un locale apprezzato per l’autenticità dell’offerta gastronomica.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Sottocorona",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Sottocorona%2C%20Forni%20Avoltri",
+      "image_url": null,
+      "description": "L’Albergo Sottocorona combina servizio alberghiero e ristorazione, offrendo specialità della cucina tradizionale carnica in un ambiente confortevole. Con un rating di 4.3 su Google, rappresenta una scelta solida per chi cerca sapori autentici in un contesto familiare.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    },
+    {
+      "name": "Albergo Bardagina",
+      "address": "Via Di Sotto 18, frazione Sigilletto",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Bardagina%2C%20Via%20Di%20Sotto%2018%2C%20frazione%20Sigilletto",
+      "image_url": null,
+      "description": "Albergo Bardagina offre servizio alberghiero e ristorazione nella frazione Sigilletto. È parte dell’offerta turistica locale della valle, proponendo ai visitatori la cucina della tradizione montanara in un ambiente tipico.",
+      "comune_name": "Forni Avoltri",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/forni-avoltri.md"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/brugnera.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Brugnera",
+  "province": "PN",
+  "page_title": "Brugnera",
+  "page_summary": "Guida ai principali bar e risto-bar del comune di Brugnera: Jolly Pizza Risto-Bar nel capoluogo, Ristorante \"Al Tinello\" e Ristorante Mediterraneo nella frazione di Tamai.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/brugnera.md",
+  "processed_at": "2026-04-09T11:58:46.223Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/brugnera__0",
+      "text": "### Jolly Pizza Risto-Bar\n\n**Brugnera (capoluogo)** — Via Puia, 2/B\n\nIl Jolly Pizza Risto-Bar è uno dei locali più presenti nelle ricerche online riferite a Brugnera. Si tratta di un risto-bar moderno e accogliente gestito da Marsela Hoxhaj, che propone pizza a lievitazione lunga — elemento che garantisce maggiore digeribilità e un profumo più ricco — oltre a impasti alternativi con farina di kamut integrale e farina gluten free. La proposta non si limita alla pizza: il locale fa anche cucina alla griglia e alla brace, nonché frittura di pesce, con una trattoria aperta a mezzogiorno. La domenica a pranzo il locale è aperto solo su prenotazione.\n\nCome risto-bar, il Jolly Pizza svolge anche le funzioni tipiche del bar di paese: è un punto di riferimento per chi cerca un caffè o un aperitivo nella zona di Via Puia, che si trova nella fascia meridionale del capoluogo. L'ambiente è descritto come moderno e accogliente, adatto sia alla pausa veloce sia a un pasto più strutturato.",
+      "metadata": {
+        "section_title": "Jolly Pizza Risto-Bar",
+        "links": [],
+        "addresses": [
+          "Brugnera (capoluogo) — Via Puia, 2/B"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/brugnera__1",
+      "text": "### Ristorante \"Al Tinello\"\n\n**Brugnera (capoluogo)**  \nTel.: 0434 624630 — [www.ristorantealtinello.com](https://www.ristorantealtinello.com/)\n\nAttivo dal 1985, Al Tinello è il ristorante più consolidato del capoluogo ed è inserito in OpenStreetMap con orario continuato dal martedì al sabato per pranzo e cena, e la domenica solo a pranzo. Il nome richiama il \"tinello\" delle case signorili di un tempo — quel locale di servizio tra la cucina e la sala da pranzo — e la scelta non è casuale: il locale punta su un'atmosfera intima, raccolta, con attenzione alla tradizione culinaria veneta reinterpretata in chiave moderna.\n\nSebbene sia classificato come ristorante, Al Tinello dispone anche di una terrazza coperta rinnovata, ideale per pranzi e cene all'aria aperta. Per chi si ferma nella zona durante la mattina o il pomeriggio, è un punto di riferimento per gustare la cucina tipica locale in un contesto curato. Il locale può ospitare banchetti fino a 60 coperti ed è adatto a pranzi di lavoro e cene aziendali.",
+      "metadata": {
+        "section_title": "Ristorante \"Al Tinello\"",
+        "links": [
+          {
+            "text": "www.ristorantealtinello.com",
+            "url": "https://www.ristorantealtinello.com/"
+          }
+        ],
+        "addresses": [
+          "Brugnera (capoluogo)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/brugnera__2",
+      "text": "### Ristorante Mediterraneo\n\n**Tamai di Brugnera** — Via Pordenone, 7  \nTel.: 0434 627775 — [www.ristorante-mediterraneo.it](https://www.ristorante-mediterraneo.it/)\n\nNella frazione di Tamai, a nord del capoluogo, si trova il Ristorante Mediterraneo, accessibile in sedia a rotelle e aperto dal martedì alla domenica a cena (19:00–24:00). La proposta è quella della cucina italiana con pizza, e il locale è censito nel catalogo regionale degli esercizi pubblici. Tamai, la più popolosa delle frazioni brugneresi, ha una propria vita di paese autonoma; il Mediterraneo ne è uno dei poli di aggregazione serale. Non è documentato come locale per la colazione o l'aperitivo nella fascia mattutina o pomeridiana, ma la sua posizione ne fa un punto di riferimento per le serate in famiglia o tra amici nella frazione.",
+      "metadata": {
+        "section_title": "Ristorante Mediterraneo",
+        "links": [
+          {
+            "text": "www.ristorante-mediterraneo.it",
+            "url": "https://www.ristorante-mediterraneo.it/"
+          }
+        ],
+        "addresses": [
+          "Tamai di Brugnera — Via Pordenone, 7"
+        ],
+        "image_urls": [],
+        "opening_hours": "dal martedì alla domenica a cena (19:00–24:00)",
+        "prices": null
+      }
+    }
+  ]
+}

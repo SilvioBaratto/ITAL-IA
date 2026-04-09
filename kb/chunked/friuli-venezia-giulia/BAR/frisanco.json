@@ -1,0 +1,37 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/frisanco.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Frisanco",
+  "province": "PN",
+  "page_title": "Frisanco",
+  "page_summary": "Panoramica sulla realtà dei bar a Frisanco: il bar/osteria storico del capoluogo come unico punto di ritrovo autenticamente locale, e la temporanea offerta di ristoro durante il presepe a Poffabro, con assenza di bar strutturati aperti tutto l'anno.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/frisanco.md",
+  "processed_at": "2026-04-09T12:11:55.155Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/frisanco__0",
+      "text": "### Bar e punto di ritrovo a Frisanco\n\nFrisanco capoluogo dispone storicamente di un piccolo bar/osteria di paese, punto di aggregazione fondamentale per la comunità locale. Come avviene in molti comuni montani del pordenonese, questo tipo di locale svolge funzioni multiple: bar mattutino per la colazione con caffè e brioche o fette di pane e marmellata, mescita di vino e birra nel pomeriggio, e talvolta anche rivendita di generi di prima necessità. L'atmosfera è quella tipica del bar rurale friulano: pochi tavoli, il brusio delle conversazioni in friulano, qualche giornale locale sul bancone.\n\nNon risultano, alla data di redazione di questa guida (aprile 2026), locali specifici a Frisanco o nelle sue frazioni con una presenza online strutturata, schede su piattaforme di recensione o comunicazioni ufficiali. Questo riflette una realtà comune a molti borghi montani della provincia di Pordenone: i bar esistono, funzionano e sono vivi nella quotidianità del paese, ma vivono al di fuori dei circuiti della visibilità digitale.",
+      "metadata": {
+        "section_title": "Bar e punto di ritrovo a Frisanco",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/frisanco__1",
+      "text": "### Poffabro: il borgo e i suoi servizi\n\nLa frazione di Poffabro, pur essendo la più conosciuta di Frisanco grazie alla sua bellezza architettonica e al presepe natalizio, non dispone di un'offerta bar strutturata e aperta tutto l'anno. Durante il periodo del presepe (tipicamente da fine novembre a inizio gennaio) vengono allestiti stand e punti di ristoro temporanei dove si possono trovare vin brulé, cioccolata calda, prodotti artigianali locali e dolci tipici del periodo natalizio. Questa è probabilmente l'unica occasione in cui Poffabro assume una dimensione di accoglienza allargata al visitatore esterno.\n\nPer il resto dell'anno, chi visita Poffabro in cerca di un caffè o di una colazione deve orientarsi verso i comuni limitrofi, in particolare **Maniago** (a circa 10 km), che offre una gamma completa di bar, pasticcerie e servizi di ristorazione.",
+      "metadata": {
+        "section_title": "Poffabro: il borgo e i suoi servizi",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

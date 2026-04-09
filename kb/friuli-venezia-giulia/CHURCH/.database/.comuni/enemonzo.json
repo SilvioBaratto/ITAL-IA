@@ -1,0 +1,63 @@
+{
+  "comune_name": "Enemonzo",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/enemonzo.md",
+  "extracted_at": "2026-04-09T10:24:57.181Z",
+  "pois": [
+    {
+      "name": "Pieve Arcipretale dei Santi Ilario e Taziano Martiri",
+      "address": "Via Alla Chiesa 3, 33020 Enemonzo (UD)",
+      "website_url": "https://www.archeocartafvg.it/portfolio-articoli/enemonzo-ud-pieve-dei-santi-ilario-e-taziano/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20Arcipretale%20dei%20Santi%20Ilario%20e%20Taziano%20Martiri%2C%20Via%20Alla%20Chiesa%203%2C%2033020%20Enemonzo%20(UD)",
+      "image_url": null,
+      "description": "La Pieve dei Santi Ilario e Taziano è la principale chiesa di Enemonzo e una delle undici antiche pievi della Carnia, con origini risalenti all'XI secolo. L'attuale edificio, in stile barocco rurale con navata unica e campanile romanico-gotico, fu costruito dopo il sisma del 1700 e consacrato nel 1736. Conserva un importante dipinto di Alessandro Maganza e un pregiato organo a canne, a testimonianza dei legami artistici fra Carnia e area veneta. La chiesa fu gravemente danneggiata dal terremoto del 1976 e restaurata negli anni Ottanta.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Chiesa di San Giorgio",
+      "address": null,
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68404/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giorgio%2C%20Enemonzo",
+      "image_url": null,
+      "description": "Situata nella frazione di Colza, la chiesa di San Giorgio è un esempio significativo di architettura sacra rurale tardo-medievale della Carnia. Eretta probabilmente a fine Quattrocento, presenta una navata unica con presbiterio poligonale e conserva pregiati affreschi realizzati nel 1513 da Pietro Fuluto. Restaurata dopo i danni del terremoto del 1976, la chiesa si distingue per il suo ciclo pittorico tardo-gotico, tra i più importanti del pittore tolmezzino.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Chiesa di San Nicolò",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicol%C3%B2%2C%20Enemonzo",
+      "image_url": null,
+      "description": "La chiesa di San Nicolò si trova nella frazione di Maiaso, sulle colline a nord di Enemonzo. Dedica a San Nicolò di Bari, patrono di viaggiatori e marinai, la sua presenza testimonia l'antichità del culto locale e la fitta rete devozionale del territorio. Si tratta di un edificio di modeste dimensioni, caratteristico delle chiese frazionali carniche, con una documentazione storica frammentaria.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Chiesa di Santa Giuliana",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Giuliana%2C%20Enemonzo",
+      "image_url": null,
+      "description": "La chiesa di Santa Giuliana si trova nella frazione di Fresis e rientra nella tipologia degli oratori frazionali carnici, al servizio delle piccole comunità locali. Dedicata alla martire paleocristiana Santa Giuliana, fu colpita dal terremoto del 1976 e successivamente restaurata. È esempio della capillare organizzazione religiosa della Carnia e delle tradizioni di protezione offerte dalla santa.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/enemonzo.md"
+    },
+    {
+      "name": "Cappella di San Rocco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20di%20San%20Rocco%2C%20Enemonzo",
+      "image_url": null,
+      "description": "La cappella di San Rocco è situata su un colle panoramico sopra la confluenza tra il Rio Esemon e il Tagliamento, offrendo una vista ampia sulla vallata carnica. Luogo devozionale tipico, fu probabilmente eretta in epoca medievale come protezione contro epidemie e pestilenze. Tradizionalmente legata al culto di San Rocco, la cappella testimonia il ruolo delle cappelle rurali nella vita religiosa e sociale delle piccole comunità di Enemonzo.",
+      "comune_name": "Enemonzo",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/enemonzo.md"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "comune_name": "Montenars",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/montenars.md",
+  "extracted_at": "2026-04-09T10:51:29.445Z",
+  "pois": [
+    {
+      "name": "Ecomuseo delle Acque del Gemonese – Siti di Montenars",
+      "address": null,
+      "website_url": "https://www.ecomuseodelleacque.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ecomuseo%20delle%20Acque%20del%20Gemonese%20%E2%80%93%20Siti%20di%20Montenars%2C%20Montenars",
+      "image_url": null,
+      "description": "L'Ecomuseo delle Acque del Gemonese è un museo diffuso che valorizza la memoria storica, la vita quotidiana e il paesaggio prealpino friulano, con particolare attenzione alle testimonianze legate all'acqua, come antichi mulini, lavatoi e roccoli. I siti visitabili di Montenars comprendono mulini ad acqua, lavatoi e il Borgo Lucardi, un nucleo abitativo storico con case a ballatoio del Settecento e Ottocento. L'Ecomuseo non ha una sede centrale nel comune e i percorsi tematici sono liberamente accessibili durante tutto l'anno. Questi luoghi offrono una testimonianza concreta dell'economia rurale tradizionale e del paesaggio culturale locale.",
+      "comune_name": "Montenars",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/montenars.md"
+    }
+  ]
+}

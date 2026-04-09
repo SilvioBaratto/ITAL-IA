@@ -1,0 +1,30 @@
+{
+  "comune_name": "Andreis",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/andreis.md",
+  "extracted_at": "2026-04-09T10:41:44.209Z",
+  "pois": [
+    {
+      "name": "Museo dell'Arte e della Civiltà Contadina",
+      "address": "Andreis, 33080 (PN) — presso il centro storico del paese; per informazioni contattare il Comune di Andreis, tel. 0427 76014",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20dell'Arte%20e%20della%20Civilt%C3%A0%20Contadina%2C%20Andreis%2C%2033080%20(PN)%20%E2%80%94%20presso%20il%20centro%20storico%20del%20paese%3B%20per%20informazioni%20contattare%20il%20Comune%20di%20Andreis%2C%20tel.%200427%2076014",
+      "image_url": null,
+      "description": "Il Museo dell'Arte e della Civiltà Contadina di Andreis espone strumenti, oggetti e documenti che raccontano la vita e le attività tipiche delle comunità montane della Val Cellina e delle Prealpi Carniche tra XIX e XX secolo. La collezione include attrezzi agricoli e pastorali, suppellettili domestiche, abiti tradizionali e elementi d'arredo, offrendo uno spaccato concreto dell'economia di sussistenza locale. L'allestimento si inserisce nella tradizione museale delle valli friulane nata negli anni Settanta, grazie alla passione della comunità per la memoria storica. L'ingresso è generalmente gratuito o a offerta libera.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/andreis.md"
+    },
+    {
+      "name": "Centro Visite del Parco Naturale Dolomiti Friulane — Sede di Andreis",
+      "address": "Via Roma, Andreis, 33080 (PN)",
+      "website_url": "https://www.parcodolomitifriulane.it/centro-visite/centro-visite-di-andreis-pn/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Visite%20del%20Parco%20Naturale%20Dolomiti%20Friulane%20%E2%80%94%20Sede%20di%20Andreis%2C%20Via%20Roma%2C%20Andreis%2C%2033080%20(PN)",
+      "image_url": null,
+      "description": "Il Centro Visite del Parco Naturale Dolomiti Friulane di Andreis è dedicato all'avifauna alpina e si pone come punto di riferimento per l'educazione ambientale nel territorio. Ospita una mostra tematica sugli uccelli delle Dolomiti Friulane e include un'area avifaunistica con voliere per il recupero e la riabilitazione di rapaci feriti. La struttura organizza anche eventi di rilascio degli uccelli e percorsi didattici per tutte le età, promuovendo la tutela e la sensibilizzazione sulla fauna locale.",
+      "comune_name": "Andreis",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/andreis.md"
+    }
+  ]
+}

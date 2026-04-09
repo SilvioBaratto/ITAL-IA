@@ -1,0 +1,52 @@
+{
+  "comune_name": "Bicinicco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bicinicco.md",
+  "extracted_at": "2026-04-09T10:19:52.013Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Pietro Apostolo — Bicinicco (capoluogo)",
+      "address": "Via Roma, Bicinicco",
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68260",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Pietro%20Apostolo%20%E2%80%94%20Bicinicco%20(capoluogo)%2C%20Via%20Roma%2C%20Bicinicco",
+      "image_url": null,
+      "description": "La chiesa di San Pietro Apostolo è il principale edificio religioso del capoluogo di Bicinicco e sede della parrocchia dei Santi Pietro e Paolo, eretta tra il 1717 e il 1736 e consacrata nel 1807. Si distingue per la sua facciata neoclassica con quattro lesene tuscaniche, un campanile a base quadrata e resti dell'antica centa medievale. All'interno custodisce importanti opere d'arte tra cui un altare barocco in marmo di Carrara, una Pietà scultorea del 1942, dipinti sette-ottocenteschi e un prezioso fonte battesimale del 1565.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Chiesa di Sant'Andrea Apostolo — Gris (frazione di Bicinicco)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68261",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Sant'Andrea%20Apostolo%20%E2%80%94%20Gris%20(frazione%20di%20Bicinicco)%2C%20Bicinicco",
+      "image_url": null,
+      "description": "La chiesa di Sant'Andrea Apostolo a Gris è uno dei più importanti monumenti artistici di Bicinicco, nota per il suo ciclo di affreschi rinascimentali che raccontano in 72 scene storie bibliche, realizzato tra il 1523 e il 1531 da Gaspare e Arsenio Negro. Citata già nel 1246, fu ricostruita nel XVI secolo dopo il terremoto del 1511 e custodisce ancora oggi testimonianze architettoniche gotico-rinascimentali e un suggestivo campanile a vela. La decorazione pittorica interna rappresenta una rara Biblia pauperum dell'arte friulana rurale.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Chiesa di San Marco Evangelista — Cuccana (frazione di Bicinicco)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68258",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Marco%20Evangelista%20%E2%80%94%20Cuccana%20(frazione%20di%20Bicinicco)%2C%20Bicinicco",
+      "image_url": null,
+      "description": "La chiesa di San Marco Evangelista a Cuccana ha origini antiche, forse risalenti al IX secolo, ed è stata ricostruita in stile gotico nel XVI secolo, con successivi restauri settecenteschi. L'interno, a navata unica con abside voltata, conserva importanti affreschi cinquecenteschi di soggetto religioso e moralistico, tra cui il ciclo della Vita di san Marco, scene degli Evangelisti, e raffigurazioni di Virtù e Vizi. La presenza di questi affreschi testimonia la vitalità artistica e la devozione popolare della zona.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bicinicco.md"
+    },
+    {
+      "name": "Chiesa di San Giusto Martire — Felettis (frazione di Bicinicco)",
+      "address": null,
+      "website_url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68259",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giusto%20Martire%20%E2%80%94%20Felettis%20(frazione%20di%20Bicinicco)%2C%20Bicinicco",
+      "image_url": null,
+      "description": "La chiesa di San Giusto Martire è la parrocchiale della frazione di Felettis, dedicata al santo titolare molto venerato nella regione. Citata per la prima volta nel 1492, l'edificio attuale venne costruito nel XVIII secolo in stile barocco-neoclassico friulano e restaurato dopo i gravi danni causati dal terremoto del 1976 e dalla grandine del 2023. È un tipico esempio di architettura religiosa rurale del Friuli, punto di riferimento per la comunità locale.",
+      "comune_name": "Bicinicco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/bicinicco.md"
+    }
+  ]
+}

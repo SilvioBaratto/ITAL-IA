@@ -1,0 +1,52 @@
+{
+  "comune_name": "Tavagnacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tavagnacco.md",
+  "extracted_at": "2026-04-09T11:20:43.259Z",
+  "pois": [
+    {
+      "name": "Locanda Al Grop",
+      "address": "Via Giacomo Matteotti, 1 — 33010 Tavagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Locanda%20Al%20Grop%2C%20Via%20Giacomo%20Matteotti%2C%201%20%E2%80%94%2033010%20Tavagnacco%20(UD)",
+      "image_url": null,
+      "description": "La Locanda Al Grop è un ristorante di riferimento a Tavagnacco, noto anche come piccolo albergo di charme con sei suite e situato in una caratteristica corte rurale friulana. La cucina è fortemente legata alla tradizione locale e alla stagionalità, con una particolare attenzione all'asparago bianco durante la primavera e specialità come pasta fresca, baccalà alla friulana, carni di selvaggina e polenta. Il locale è apprezzato per l’atmosfera rustica ed elegante e la curata selezione di vini friulani. In estate il giardino ospita eventi, buffet e corsi di cucina, confermando la vocazione di centro di cultura gastronomica del territorio.",
+      "comune_name": "Tavagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tavagnacco.md"
+    },
+    {
+      "name": "Ristorante Le Magnolie Gasthaus",
+      "address": "Via Madonnina, 54 — 33010 Tavagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Le%20Magnolie%20Gasthaus%2C%20Via%20Madonnina%2C%2054%20%E2%80%94%2033010%20Tavagnacco%20(UD)",
+      "image_url": null,
+      "description": "Le Magnolie Gasthaus propone cucina tipica friulana e piatti di ispirazione mitteleuropea in un ambiente caldo e familiare, con gestione a conduzione familiare. Tra le specialità spicca la Wiener Schnitzel Magnolie, accanto a zuppe, minestre, carni e dolci rigorosamente fatti in casa. Il locale offre anche una selezione di birre tedesche e un originale liquore caldo alla birra, oltre a uno spazio verde esterno in estate e una stube caratteristica per l’inverno. È molto apprezzato per la genuinità delle preparazioni e l'accoglienza autentica.",
+      "comune_name": "Tavagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tavagnacco.md"
+    },
+    {
+      "name": "Wiener Haus",
+      "address": "Via Nazionale, 1 — 33010 Tavagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Wiener%20Haus%2C%20Via%20Nazionale%2C%201%20%E2%80%94%2033010%20Tavagnacco%20(UD)",
+      "image_url": null,
+      "description": "Il Wiener Haus si trova lungo la principale arteria commerciale di Tavagnacco ed è apprezzato per l’atmosfera informale e gli orari estesi, ideale sia per pranzi veloci che per cene informali. Il menu è incentrato su carni e cucina italiana dal gusto semplice ma curato, con servizio di asporto e consegna a domicilio. Le recensioni sottolineano la qualità affidabile della cucina e la praticità della posizione, rendendolo una scelta frequente per lavoratori e famiglie.",
+      "comune_name": "Tavagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tavagnacco.md"
+    },
+    {
+      "name": "Hotel Ristorante Al Parco",
+      "address": "Piazza di Prampero, 1 — 33010 Tavagnacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Ristorante%20Al%20Parco%2C%20Piazza%20di%20Prampero%2C%201%20%E2%80%94%2033010%20Tavagnacco%20(UD)",
+      "image_url": null,
+      "description": "L'Hotel Ristorante Al Parco unisce servizio alberghiero, ristorante e pizzeria nella centrale Piazza di Prampero. Caratterizzato da un ambiente curato e tranquillo, risponde sia alle esigenze di pranzi di lavoro che alle cene in famiglia, e propone una delle pizze più apprezzate della zona secondo i clienti. I servizi includono Wi-Fi e consegna a domicilio, mentre la gestione è lodata per accoglienza e qualità della cucina sia ristorante che pizzeria.",
+      "comune_name": "Tavagnacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tavagnacco.md"
+    }
+  ]
+}

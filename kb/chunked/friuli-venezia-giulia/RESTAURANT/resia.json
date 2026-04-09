@@ -1,0 +1,84 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/resia.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Resia",
+  "province": "UD",
+  "page_title": "Resia",
+  "page_summary": "Panoramica dei principali punti di ristoro e ristoranti nel comune di Resia: osterie tradizionali, baite d’alpeggio stagionali e locali informali nelle diverse frazioni della Val Resia.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/resia.md",
+  "processed_at": "2026-04-09T13:53:43.684Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/resia__0",
+      "text": "### Osteria alla Speranza\n\n**Indirizzo:** Via Prato 3, Resia (33010)  \n**Comune/Frazione:** Prato (sede comunale)\n\nL'Osteria alla Speranza è il principale punto di riferimento per la ristorazione tradizionale nel cuore abitato della Val Resia, situato nella frazione di Prato, dove ha sede il municipio. Propone cucina **regionale resiana e friulana** in un contesto autentico e familiare, lontanissimo da qualsiasi velleità turistica. Frequentata dagli abitanti della valle e dagli escursionisti che percorrono i sentieri del Parco delle Prealpi Giulie, l'osteria è l'emblema della convivialità locale: un posto dove ci si ferma dopo una camminata, ci si incontra tra vicini di diverse frazioni, ci si scalda davanti a un piatto di polenta e formaggio.\n\nIl menù ruota attorno ai prodotti del territorio: **formaggio resiano** in tutte le sue declinazioni (fresco, semi-stagionato, stagionato), taglieri di salumi locali e prodotti dell'aia, **minestre di verdura e cereali** fatte in casa, **selvaggina in umido** nelle stagioni adatte, gnocchi al ragù di capriolo. La polenta è sempre presente, cucinata nel paiolo di rame nel rispetto della tradizione. La carta dei vini è essenziale ma onesta, con qualche etichetta friulana. L'ambiente è rustico e curato nei dettagli, con tavoli in legno, una stube (stufa in maiolica) e la presenza quasi obbligatoria dei suoni e dei dialoghi in lingua resiana.\n\nResia, pur essendo nel profondo entroterra alpino, è raggiungibile da Resiutta (sulla SS13 Pontebbana) imboccando la strada che risale la val, e l'Osteria alla Speranza è la prima meta naturale per chi visita la sede comunale.\n\n**Fascia di prezzo:** €–€€ (molto accessibile)  \n**Cucina:** Regionale resiana e friulana, polenta, formaggi, selvaggina  \n**Adatto a:** Famiglie, escursionisti, appassionati di culture alpine minoritarie\n",
+      "metadata": {
+        "section_title": "Osteria alla Speranza",
+        "links": [],
+        "addresses": [
+          "Via Prato 3, Resia (33010)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€–€€ (molto accessibile)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/resia__1",
+      "text": "### Baita Al Taj — Punto di Ristoro in Val Resia (Stavoli Gnivizza)\n\n**Indirizzo:** Stavoli Gnivizza, Resia (33010)  \n**Telefono:** +39 333 947 1741  \n**Facebook:** [Baita al Taj](https://www.facebook.com/baita.al.taj.carnizza/)\n\nLa **Baita Al Taj** è uno dei luoghi più caratteristici e autentici della Val Resia: un punto di ristoro ricavato in uno **stavolo resiano tipico**, ovvero uno dei tradizionali casali d'alpeggio che per secoli hanno segnato il paesaggio della valle. Gli stavoli — costruzioni rustiche in pietra e legno con funzione di stalla, caseificio, fienile e dormitorio stagionale — erano il cuore pulsante dell'economia pastorale resiana: qui i malgari trascorrevano i mesi estivi con il bestiame, producevano formaggio e burro, vivevano a stretto contatto con la montagna. La Baita Al Taj ha recuperato uno di questi stavoli in prossimità degli omonimi pascoli di Gnivizza e lo ha trasformato in un accogliente punto di ristoro che mantiene intatta l'atmosfera del passato.\n\nLa cucina è definita espressamente come **resiana**, con piatti semplici preparati al momento (*cucina espressa*) utilizzando materie prime biologiche e locali: formaggi artigianali (tra cui il pregiato formaggio resiano), salumi di produzione locale, taglieri misti, polenta, zuppe di montagna e, nelle giornate giuste, specialità stagionali. L'attenzione alla **filiera corta** e ai prodotti biologici è un elemento distintivo che rende la Baita Al Taj un punto di riferimento per chi cerca un'esperienza gastronomica autentica e rispettosa del territorio.\n\nIl locale dispone di **posti a sedere all'esterno** con vista sulle cime del Parco delle Prealpi Giulie — un'esperienza panoramica irripetibile nelle giornate estive. La baita è aperta principalmente nella **stagione primaverile-estiva ed autunnale**, legata alle aperture dei sentieri e ai periodi di maggiore frequentazione escursionistica. Si accettano solo pagamenti in **contanti**. Vista la posizione in un'area remota della valle, è consigliabile contattare in anticipo per verificare le aperture stagionali. La Baita Al Taj è particolarmente apprezzata dai **ciclisti** e dagli **escursionisti** che percorrono i sentieri del parco e le mulattiere dell'Alta Via Resiana.\n\n**Fascia di prezzo:** € (molto economico, prodotti semplici e genuini)  \n**Cucina:** Resiana/regionale biologica, formaggi, salumi, polenta  \n**Pagamento:** Solo contanti  \n**Apertura:** Stagionale (prevalentemente estate-autunno), verificare disponibilità  \n**Adatto a:** Escursionisti, ciclisti, appassionati di natura e tradizioni\n",
+      "metadata": {
+        "section_title": "Baita Al Taj — Punto di Ristoro in Val Resia (Stavoli Gnivizza)",
+        "links": [
+          {
+            "text": "Baita al Taj",
+            "url": "https://www.facebook.com/baita.al.taj.carnizza/"
+          }
+        ],
+        "addresses": [
+          "Stavoli Gnivizza, Resia (33010)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (molto economico, prodotti semplici e genuini)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/resia__2",
+      "text": "### Baita al Botton d'Oro\n\n**Comune/Frazione:** Val Resia (area Resia)\n\nIl **Baita al Botton d'Oro** è un'altra struttura di ristoro in stile baita alpina presente nel territorio del comune di Resia. Come spesso accade nelle realtà di montagna della Val Resia, questa baita apre con apertura stagionale, collegata ai periodi di frequentazione escursionistica della valle. Il nome — \"Botton d'Oro\" — richiama il *Ranunculus acris*, il ranuncolo dorato che fiorisce sui prati d'alpeggio resiani in primavera, uno dei simboli del paesaggio floreale del Parco delle Prealpi Giulie.\n\nCome altre strutture analoghe della valle, propone prodotti genuini dell'alpeggio locale: formaggi, taglieri, polenta, e un ambiente rustico immerso nella natura. È parte di quella rete informale di punti di ristoro stagionali che si attivano in estate per servire i numerosi escursionisti che visitano la valle, e rappresenta un presidio gastronomico della tradizione pastorale resiana.\n\n**Fascia di prezzo:** €  \n**Cucina:** Prodotti locali, baita d'alpeggio  \n**Apertura:** Stagionale\n",
+      "metadata": {
+        "section_title": "Baita al Botton d'Oro",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/resia__3",
+      "text": "### Vecchio Mulino (Bar/Caffè)\n\n**Comune/Frazione:** San Giorgio / Prato, Resia\n\nIl **Vecchio Mulino** è un locale di somministrazione (bar-caffè) situato nelle vicinanze della frazione di San Giorgio, all'ingresso della Val Resia. Come suggerisce il nome, la struttura si trova in prossimità di uno dei vecchi mulini ad acqua che storicamente sfruttavano la forza del torrente Resia — testimonianze del passato produttivo artigianale della valle. Oggi funziona come punto di sosta e ristoro per chi entra in valle, un luogo dove ci si ferma per un caffè, un aperitivo o uno spuntino prima di addentrarsi lungo la strada che risale verso Prato, Gniva e Stolvizza. Negli orari di punta estivi può servire anche piatti semplici. È un punto di riferimento informale per gli abitanti della valle e per i primi visitatori che arrivano dalla SS13 attraverso la gola del Resia.\n\n**Fascia di prezzo:** €\n",
+      "metadata": {
+        "section_title": "Vecchio Mulino (Bar/Caffè)",
+        "links": [],
+        "addresses": [],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/resia__4",
+      "text": "### Un ristorante nell'area di Gniva/Stolvizza\n\n**Indirizzo:** Via Flavia, Resia (area Gniva-Stolvizza)  \n**Telefono:** +39 335 548 8354\n\nNelle frazioni orientali della Val Resia — la zona tra Gniva (*Njïwä*) e Stolvizza (*Solbiza*) — è segnalata la presenza di un locale di ristorazione su Via Flavia. Le frazioni di Gniva e Stolvizza sono le più orientali della valle, le più isolate e le più ricche di tradizioni: Stolvizza in particolare è famosa per la sua chiesa di San Carlo Borromeo (XVIII secolo) e per essere uno dei borghi meglio conservati della Val Resia. L'area è praticata da escursionisti e alpinisti che puntano al Monte Canin (2587 m) e alle cime circostanti.\n\nIl locale — di cui non si dispone di ulteriori dettagli in fonti accessibili — risponde presumibilmente a una vocazione di ristoro locale, rivolta tanto agli abitanti delle frazioni quanto ai visitatori estivi. Per informazioni aggiornate su aperture e menù, si consiglia di contattare direttamente il numero indicato.\n\n**Fascia di prezzo:** Non disponibile  \n**Telefono:** +39 335 548 8354\n",
+      "metadata": {
+        "section_title": "Un ristorante nell'area di Gniva/Stolvizza",
+        "links": [],
+        "addresses": [
+          "Via Flavia, Resia (area Gniva-Stolvizza)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "Non disponibile"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_file": "friuli-venezia-giulia/BAR/.comuni/attimis.md",
+  "region": "friuli-venezia-giulia",
+  "category": "BAR",
+  "comune_name": "Attimis",
+  "province": "UD",
+  "page_title": "Attimis",
+  "page_summary": "Guida ai principali bar del comune di Attimis: il bar di piazza Geaco di Degano Enzo, la Trattoria da Barbe Blas come punto di ritrovo per aperitivi e la Prosciutteria Martinuzzi di Racchiuso, luogo di socialità pre-prandiale e mescita di vini locali.",
+  "source_url": "kb/friuli-venezia-giulia/BAR/.comuni/attimis.md",
+  "processed_at": "2026-04-09T11:56:22.196Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/attimis__0",
+      "text": "### Geaco di Degano Enzo\n\n**Indirizzo:** Piazza Zorutti, 8 – 33040 Attimis (UD)\n**Telefono:** 0432 789357\n\nIl bar di Piazza Zorutti è il punto di riferimento della vita quotidiana ad Attimis. Situato nella piazza principale del capoluogo — intitolata al poeta friulano Pietro Zorutti — è il classico bar di paese dove ci si incontra la mattina per il caffè, dove i pensionati giocano a carte nel pomeriggio e dove, la sera, si può fare un aperitivo senza cerimonie. La gestione è familiare e il locale conserva quell'atmosfera senza pretese tipica dei bar di montagna friulani: bancone di legno, televisione accesa sulle partite, qualche spuntino. La colazione si fa con cornetto e cappuccino; l'aperitivo è spesso accompagnato da un calice di vino locale o da uno spritz preparato alla friulana, con Aperol e prosecco di qualità. Non ci sono siti web né social media: è un luogo che parla per sé, attraverso la fedeltà dei clienti abituali.\n",
+      "metadata": {
+        "section_title": "Geaco di Degano Enzo",
+        "links": [],
+        "addresses": [
+          "Piazza Zorutti, 8 – 33040 Attimis (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/attimis__1",
+      "text": "### Trattoria da Barbe Blas\n\n**Indirizzo:** Borgo Salandri, 5 – 33040 Attimis (UD)\n**Telefono:** 0432 789118\n**Facebook:** facebook.com/TrattoriaDabarbeBlas\n\nLa Trattoria da Barbe Blas, immersa nel verde del Borgo Salandri, è molto più di una semplice trattoria: è uno di quei luoghi dove il confine tra ristorante, osteria e bar da aperitivo si dissolve nell'ospitalità friulana più genuina. Il locale è climatizzato, dispone di tavoli all'aperto nel verde (con ampio parcheggio) e offre la possibilità di partire per camminate nella natura circostante. Con oltre 3.000 seguaci su Facebook e centinaia di visitatori che l'hanno frequentata nel corso degli anni, è uno dei locali più amati dell'area. Il nome — \"Barbe Blas\", ovvero \"Zio Biagio\" in friulano — richiama una tradizione familiare profonda e una cucina saldamente ancorata al territorio. Fermarsi qui per un aperitivo prima di cena, con un bicchiere di Refosco o di Schioppettino accompagnato da qualche affettato locale, è un'esperienza che rispecchia perfettamente la cultura dell'aperitivo rurale friulano.\n",
+      "metadata": {
+        "section_title": "Trattoria da Barbe Blas",
+        "links": [
+          {
+            "text": "facebook.com/TrattoriaDabarbeBlas",
+            "url": "facebook.com/TrattoriaDabarbeBlas"
+          }
+        ],
+        "addresses": [
+          "Borgo Salandri, 5 – 33040 Attimis (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/BAR/attimis__2",
+      "text": "### Ristorante Prosciutteria Martinuzzi\n\n**Indirizzo:** Piazza della Chiesa, 6/2 – 33040 Attimis, frazione Racchiuso (UD)\n**Telefono:** 0432 789038\n**Sito web:** www.prosciutteriamartinuzzi.it\n\nNella piccola frazione di Racchiuso — a pochi minuti di strada dal capoluogo — la Prosciutteria Martinuzzi occupa un posto speciale nell'immaginario enogastronomico locale. Nonostante si tratti principalmente di un ristorante con mescita di vini, la sua funzione come luogo di socialità pre-prandiale è ben nota agli attimesi e ai visitatori che arrivano dalla pianura in cerca di autenticità. Il locale si affaccia sulla piazza della chiesa e dispone di tavoli all'aperto, perfetti per un aperitivo con tagliere di prosciutto di San Daniele e affettati delle Valli del Torre. Adriana Martinuzzi e la sua famiglia hanno costruito negli anni una reputazione solida nella valorizzazione del prosciutto artigianale locale, abbinato ai vini DOC dei Colli Orientali. Fermarsi qui per un calice di Friulano o di Pinot Grigio accompagnato da una selezione di salumi è il modo migliore per capire come il concetto di \"aperitivo\" si declini, in questi borghi di collina, in qualcosa di molto più sostanzioso e conviviale rispetto alla versione cittadina.\n",
+      "metadata": {
+        "section_title": "Ristorante Prosciutteria Martinuzzi",
+        "links": [
+          {
+            "text": "www.prosciutteriamartinuzzi.it",
+            "url": "www.prosciutteriamartinuzzi.it"
+          }
+        ],
+        "addresses": [
+          "Piazza della Chiesa, 6/2 – 33040 Attimis, frazione Racchiuso (UD)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": null
+      }
+    }
+  ]
+}

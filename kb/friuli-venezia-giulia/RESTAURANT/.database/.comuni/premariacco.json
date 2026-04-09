@@ -1,0 +1,96 @@
+{
+  "comune_name": "Premariacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md",
+  "extracted_at": "2026-04-09T11:13:53.674Z",
+  "pois": [
+    {
+      "name": "Trattoria Al Ponte",
+      "address": "Via Ponte Romano, 4 – Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Ponte%2C%20Via%20Ponte%20Romano%2C%204%20%E2%80%93%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Al Ponte è il locale più noto di Premariacco, situato vicino al Ponte Romano sul Natisone e famoso per il suo dehors affacciato sull'acqua, ideale nella bella stagione. La cucina propone piatti friulani tradizionali affiancati da specialità di mare, con pasta fresca fatta in casa, pesce, paella e carne tra le scelte principali. L'ambiente è rustico e familiare, mentre la terrazza esterna è particolarmente apprezzata. Il servizio è considerato efficiente e cordiale, rendendolo un punto di riferimento per residenti e visitatori.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "GIONA'S",
+      "address": "Via Pasubio, 14/B – Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=GIONA'S%2C%20Via%20Pasubio%2C%2014%2FB%20%E2%80%93%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "GIONA'S è un ristorante-pizzeria con cucina alla griglia, apprezzato per l'ampia offerta che spazia dalla pizza a secondi di carne e antipasti locali. Il locale dispone di spazi all'aperto, wi-fi e parcheggio, risultando adatto sia a famiglie che a comitive. È conosciuto per la qualità delle carni alla griglia e dei dolci, in particolare il gelato, e resta uno dei pochi posti a Premariacco dove si può cenare fino a tardi. Attualmente è temporaneamente chiuso, quindi si consiglia di verificare la riapertura.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "Casali Pasch – Spuntino in Campagna",
+      "address": "Casali Pasch, 15 – Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casali%20Pasch%20%E2%80%93%20Spuntino%20in%20Campagna%2C%20Casali%20Pasch%2C%2015%20%E2%80%93%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "Questo locale, situato in campagna, offre un'esperienza gastronomica informale basata su carni alla griglia, tartare di manzo, pollo, salumi e dolci come la apple pie artigianale. L'atmosfera è quella autentica di una fattoria campestre, con posti all'aperto immersi nella natura friulana. Il menu predilige piatti semplici, mentre la selezione di vini locali è curata. È aperto solo alcuni giorni a settimana ed è consigliata la prenotazione, specialmente nel weekend.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "Trattoria San Mauro",
+      "address": "Casali Pasch, 15 – Premariacco (UD), frazione San Mauro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20San%20Mauro%2C%20Casali%20Pasch%2C%2015%20%E2%80%93%20Premariacco%20(UD)%2C%20frazione%20San%20Mauro",
+      "image_url": null,
+      "description": "Trattoria San Mauro è un locale di paese situato nella frazione omonima, con una cucina profondamente radicata nella tradizione friulana e piatti stagionali preparati con ingredienti del territorio. L'ambiente è semplice e accogliente, tipico di una trattoria frequentata soprattutto da residenti e avventori abituali. È il tipico locale dove si riscopre l'autenticità della cucina friulana di una volta.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "Trattoria alla Contadina",
+      "address": "Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20alla%20Contadina%2C%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria alla Contadina propone una cucina friulana genuina e povera, fedele alle ricette tradizionali tramandate nel tempo. I piatti includono polenta con formaggi o funghi, minestre di verdure, carni in umido e dolci casalinghi. L'ambiente ricorda una vecchia casa di campagna, ideale per chi cerca un'esperienza rustica e semplice.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "Albergo Trattoria Basso",
+      "address": "Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Trattoria%20Basso%2C%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "La Trattoria Basso, annessa a un albergo, rappresenta la tradizione friulana dell'ospitalità a gestione familiare. Il menu è basato sulla cucina regionale e la stagionalità dei prodotti, garantendo piatti semplici e sostanziosi per lavoratori, passanti e viaggiatori. Qui si trova un ambiente informale e accogliente, espressione autentica della cultura locale.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "Enoteca Le Pipine",
+      "address": "Piazza Marconi – Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20Le%20Pipine%2C%20Piazza%20Marconi%20%E2%80%93%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "Enoteca Le Pipine è un locale a metà tra wine bar e osteria friulana, situato nel centro del paese. L'ambiente d'epoca e rilassato accompagna una proposta gastronomica fatta di tartine, taglieri di salumi e formaggi locali, oltre ad alcuni piatti caldi abbinati ai vini dei Colli Orientali. È un luogo ideale per aperitivi e serate in compagnia, molto apprezzato dalla clientela locale.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    },
+    {
+      "name": "Sogno Pizza (Di Cani Ismet)",
+      "address": "Premariacco (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sogno%20Pizza%20(Di%20Cani%20Ismet)%2C%20Premariacco%20(UD)",
+      "image_url": null,
+      "description": "Sogno Pizza è una pizzeria di quartiere specializzata in pizza al taglio e d'asporto, perfetta per una cena veloce e senza pretese gourmet. Il locale offre un'opzione accessibile e comoda per chi vive o passa a Premariacco, rispondendo a un bisogno concreto di semplicità e praticità.",
+      "comune_name": "Premariacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/premariacco.md"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "comune_name": "Grado",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grado.md",
+  "extracted_at": "2026-04-09T10:49:33.894Z",
+  "pois": [
+    {
+      "name": "Museo Nazionale di Archeologia Subacquea dell'Alto Adriatico",
+      "address": "Lungomare Nazario Sauro — ex Scuola Elementare «Scaramuzza», 34073 Grado",
+      "website_url": "http://www.comunegrado.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Nazionale%20di%20Archeologia%20Subacquea%20dell'Alto%20Adriatico%2C%20Lungomare%20Nazario%20Sauro%20%E2%80%94%20ex%20Scuola%20Elementare%20%C2%ABScaramuzza%C2%BB%2C%2034073%20Grado",
+      "image_url": null,
+      "description": "Il Museo Nazionale di Archeologia Subacquea dell'Alto Adriatico è il principale museo italiano dedicato all'archeologia marina, situato nell'ex scuola elementare «Scaramuzza». Il cuore della collezione è la nave romana Iulia Felix e il suo carico di anfore, insieme a reperti di pregio come il celebre busto bronzeo di Minerva. Gli spazi espositivi illustrano tecniche navali romane e le campagne di scavo subacqueo condotte nelle acque di Grado, integrando reperti reali con ricostruzioni digitali. L'apertura del museo nel 2025 ha segnato una svolta nel panorama museale della città.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grado.md"
+    },
+    {
+      "name": "Museo Diocesano di Grado",
+      "address": "Campo dei Patriarchi, 34073 Grado (area del complesso basilicale di Sant'Eufemia)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20Diocesano%20di%20Grado%2C%20Campo%20dei%20Patriarchi%2C%2034073%20Grado%20(area%20del%20complesso%20basilicale%20di%20Sant'Eufemia)",
+      "image_url": null,
+      "description": "Il Museo Diocesano di Grado, inaugurato nel 2025, è ospitato negli spazi annessi alla Basilica di Sant'Eufemia. Custodisce oggetti liturgici, arredi sacri, oreficerie e documenti storici legati al Patriarcato di Grado, molti dei quali non erano in precedenza accessibili al pubblico. Il museo permette di approfondire la ricca eredità religiosa e artistica della Chiesa gradese, collegandosi direttamente al contesto storico delle basiliche paleocristiane del centro.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grado.md"
+    },
+    {
+      "name": "Complesso Basilicale di Sant'Eufemia — Basilica Patriarcale, Battistero e Area Archeologica",
+      "address": "Campo dei Patriarchi / Piazza del Patriarcato, 34073 Grado",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78640/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Complesso%20Basilicale%20di%20Sant'Eufemia%20%E2%80%94%20Basilica%20Patriarcale%2C%20Battistero%20e%20Area%20Archeologica%2C%20Campo%20dei%20Patriarchi%20%2F%20Piazza%20del%20Patriarcato%2C%2034073%20Grado",
+      "image_url": null,
+      "description": "Il complesso di Sant'Eufemia è il fulcro storico e spirituale di Grado, costituito da basilica, battistero e area archeologica, esempio insigne di architettura paleocristiana. Vi si trovano un prezioso pavimento musivo del VI secolo, la pala d’oro gotica del 1372, capitelli romani e affreschi tardo-medievali, oltre ai resti archeologici della più antica Basilica della Corte. Pur essendo luogo di culto attivo, il sito ha un ruolo museale per la quantità e qualità dei suoi tesori artistici, resi accessibili ai visitatori tramite percorsi dedicati.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grado.md"
+    },
+    {
+      "name": "Basilica di Santa Maria delle Grazie",
+      "address": "Campo dei Patriarchi, 34073 Grado",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20Santa%20Maria%20delle%20Grazie%2C%20Campo%20dei%20Patriarchi%2C%2034073%20Grado",
+      "image_url": null,
+      "description": "La Basilica di Santa Maria delle Grazie, situata accanto alla basilica di Sant’Eufemia, è una delle più preziose testimonianze dell’arte paleocristiana di Grado. Riedificata nella seconda metà del VI secolo, conserva elementi originali del V secolo come il pavimento musivo geometrico e colonne di recupero romano. Nella navata sinistra si trova una venerata statua lignea della Madonna delle Grazie, importante meta devozionale locale. L’edificio si distingue per la sua architettura compatta e la sovrapposizione di elementi di diverse epoche.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grado.md"
+    },
+    {
+      "name": "Santuario della Madonna di Barbana",
+      "address": "Grado (GO) — Isola di Barbana, laguna di Grado",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Santuario%20della%20Madonna%20di%20Barbana%2C%20Grado%20(GO)%20%E2%80%94%20Isola%20di%20Barbana%2C%20laguna%20di%20Grado",
+      "image_url": null,
+      "description": "Il Santuario della Madonna di Barbana sorge sull'isola omonima nella laguna di Grado ed è abitato da una comunità di Frati Minori da oltre un millennio. Il santuario, fondato secondo la tradizione nel 582 dal patriarca Elia, custodisce testimonianze artistiche di diverse epoche, tra cui colonne della prima chiesa, un altare maggiore con rilievo lagunare e numerosi ex voto di naviganti. Ogni anno è meta della storica processione \"El Perdòn de Barbana\", uno degli appuntamenti religiosi più sentiti del Friuli Venezia Giulia.",
+      "comune_name": "Grado",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/grado.md"
+    }
+  ]
+}

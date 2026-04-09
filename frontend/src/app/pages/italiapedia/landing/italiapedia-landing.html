@@ -5,93 +5,72 @@
 
   <!-- Hero: Featured Region -->
   @if (featuredRegion(); as region) {
-    <section
-      class="bg-gradient-to-br from-primary/5 to-surface rounded-2xl p-6 md:p-8 border border-border/60"
-      aria-labelledby="hero-title"
-    >
-      <div class="flex flex-col gap-4 md:gap-6">
+  <section class="bg-gradient-to-br from-primary/5 to-surface rounded-2xl p-6 md:p-8 border border-border/60"
+    aria-labelledby="hero-title">
+    <div class="flex flex-col gap-4 md:gap-6">
 
-        <!-- Text block -->
-        <div class="flex flex-col gap-2">
-          <div class="flex items-center gap-2">
-            <svg
-              lucideMapPin
-              class="w-5 h-5 text-primary shrink-0"
-              strokeWidth="1.5"
-              aria-hidden="true"
-            ></svg>
-            <span class="text-xs font-semibold uppercase tracking-wider text-primary">
-              In evidenza
-            </span>
-          </div>
-
-          <h1
-            id="hero-title"
-            class="font-display font-bold text-2xl md:text-4xl tracking-tight text-text"
-          >
-            {{ region.name }}
-          </h1>
-
-          <p class="text-text-secondary text-sm md:text-base mt-2">
-            Scopri i luoghi, le tradizioni e le eccellenze di questa regione italiana.
-          </p>
+      <!-- Text block -->
+      <div class="flex flex-col gap-2">
+        <div class="flex items-center gap-2">
+          <svg lucideMapPin class="w-5 h-5 text-primary shrink-0" strokeWidth="1.5" aria-hidden="true"></svg>
+          <span class="text-xs font-semibold uppercase tracking-wider text-primary">
+            In evidenza
+          </span>
         </div>
 
-        <!-- Stats row -->
-        <div class="flex items-center gap-4">
-          @if (loading()) {
-            <div class="h-4 w-24 rounded shimmer-bg"></div>
-            <div class="h-4 w-20 rounded shimmer-bg"></div>
-          } @else {
-            <span class="font-mono text-xs text-text-tertiary">
-              {{ featuredPoiCount() }} luoghi
-            </span>
-            @if (featuredCategoryCount() > 0) {
-              <span class="font-mono text-xs text-text-tertiary" aria-hidden="true">·</span>
-              <span class="font-mono text-xs text-text-tertiary">
-                {{ featuredCategoryCount() }} categorie
-              </span>
-            }
-          }
-        </div>
+        <h1 id="hero-title" class="font-display font-bold text-2xl md:text-4xl tracking-tight text-text">
+          {{ region.name }}
+        </h1>
 
-        <!-- CTA -->
-        <div>
-          <a
-            [routerLink]="['/italiapedia', region.id]"
-            class="inline-flex items-center gap-2 bg-primary text-white rounded-lg px-4 py-2 text-sm font-medium
-                   hover:bg-primary-hover transition-colors focus-visible:outline-primary min-h-11"
-          >
-            <span>Esplora {{ region.name }}</span>
-            <svg
-              lucideArrowRight
-              class="w-4 h-4 shrink-0"
-              strokeWidth="2"
-              aria-hidden="true"
-            ></svg>
-          </a>
-        </div>
-
+        <p class="text-text-secondary text-sm md:text-base mt-2">
+          Scopri i luoghi, le tradizioni e le eccellenze di questa regione italiana.
+        </p>
       </div>
-    </section>
-  } @else {
-    <!-- Hero skeleton while regions load -->
-    <div
-      class="bg-gradient-to-br from-primary/5 to-surface rounded-2xl p-6 md:p-8 border border-border/60"
-      aria-busy="true"
-      aria-label="Caricamento regione in evidenza"
-    >
-      <div class="flex flex-col gap-4">
+
+      <!-- Stats row -->
+      <div class="flex items-center gap-4">
+        @if (loading()) {
+        <div class="h-4 w-24 rounded shimmer-bg"></div>
         <div class="h-4 w-20 rounded shimmer-bg"></div>
-        <div class="h-8 w-56 rounded shimmer-bg"></div>
-        <div class="h-4 w-72 rounded shimmer-bg"></div>
-        <div class="flex gap-4">
-          <div class="h-4 w-24 rounded shimmer-bg"></div>
-          <div class="h-4 w-20 rounded shimmer-bg"></div>
-        </div>
-        <div class="h-10 w-40 rounded-lg shimmer-bg"></div>
+        } @else {
+        <span class="font-mono text-xs text-text-tertiary">
+          {{ featuredPoiCount() }} luoghi
+        </span>
+        @if (featuredCategoryCount() > 0) {
+        <span class="font-mono text-xs text-text-tertiary" aria-hidden="true">·</span>
+        <span class="font-mono text-xs text-text-tertiary">
+          {{ featuredCategoryCount() }} categorie
+        </span>
+        }
+        }
       </div>
+
+      <!-- CTA -->
+      <div>
+        <a [routerLink]="['/italiapedia', region.id]" class="inline-flex items-center gap-2 bg-primary text-white rounded-lg px-4 py-2 text-sm font-medium
+                   hover:bg-primary-hover transition-colors focus-visible:outline-primary min-h-11">
+          <span>Esplora {{ region.name }}</span>
+          <svg lucideArrowRight class="w-4 h-4 shrink-0" strokeWidth="2" aria-hidden="true"></svg>
+        </a>
+      </div>
+
     </div>
+  </section>
+  } @else {
+  <!-- Hero skeleton while regions load -->
+  <div class="bg-gradient-to-br from-primary/5 to-surface rounded-2xl p-6 md:p-8 border border-border/60"
+    aria-busy="true" aria-label="Caricamento regione in evidenza">
+    <div class="flex flex-col gap-4">
+      <div class="h-4 w-20 rounded shimmer-bg"></div>
+      <div class="h-8 w-56 rounded shimmer-bg"></div>
+      <div class="h-4 w-72 rounded shimmer-bg"></div>
+      <div class="flex gap-4">
+        <div class="h-4 w-24 rounded shimmer-bg"></div>
+        <div class="h-4 w-20 rounded shimmer-bg"></div>
+      </div>
+      <div class="h-10 w-40 rounded-lg shimmer-bg"></div>
+    </div>
+  </div>
   }
 
   <!-- Region Groups -->
@@ -102,41 +81,37 @@
 
     <div class="flex flex-col gap-6">
       @for (entry of regionGroups(); track entry.group) {
-        <div>
-          <!-- Group label -->
-          <h3 class="text-xs font-semibold uppercase tracking-wider text-text-secondary mb-3 px-1">
-            {{ entry.label }}
-          </h3>
+      <div>
+        <!-- Group label -->
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-text-secondary mb-3 px-1">
+          {{ entry.label }}
+        </h3>
 
-          <!-- Horizontal scroll row -->
-          <div
-            appHorizontalScroll
-            class="flex gap-3 overflow-x-auto pb-2 snap-x snap-mandatory scrollbar-hidden scrollbar-on-hover"
-            role="region"
-            [attr.aria-label]="entry.ariaLabel"
-            tabindex="0"
-          >
-            @for (region of entry.regions; track region.id) {
-              <div class="snap-start shrink-0">
-                <app-region-card [region]="region" />
-              </div>
-            }
+        <!-- Horizontal scroll row -->
+        <div appHorizontalScroll
+          class="flex gap-3 overflow-x-auto pb-2 snap-x snap-mandatory scrollbar-hidden scrollbar-on-hover"
+          role="region" [attr.aria-label]="entry.ariaLabel" tabindex="0">
+          @for (region of entry.regions; track region.id) {
+          <div class="snap-start shrink-0">
+            <app-region-card [region]="region" />
           </div>
+          }
         </div>
+      </div>
       }
 
       <!-- Skeleton rows while regions are empty (before service resolves) -->
       @if (regionGroups().length === 0) {
-        @for (i of [1, 2, 3, 4]; track i) {
-          <div>
-            <div class="h-3 w-12 rounded shimmer-bg mb-3 mx-1"></div>
-            <div class="flex gap-3 overflow-x-auto pb-2">
-              @for (j of [1, 2, 3, 4]; track j) {
-                <div class="w-44 h-52 md:w-48 md:h-56 rounded-2xl shrink-0 shimmer-bg"></div>
-              }
-            </div>
-          </div>
-        }
+      @for (i of [1, 2, 3, 4]; track i) {
+      <div>
+        <div class="h-3 w-12 rounded shimmer-bg mb-3 mx-1"></div>
+        <div class="flex gap-3 overflow-x-auto pb-2">
+          @for (j of [1, 2, 3, 4]; track j) {
+          <div class="w-44 h-52 md:w-48 md:h-56 rounded-2xl shrink-0 shimmer-bg"></div>
+          }
+        </div>
+      </div>
+      }
       }
     </div>
   </section>

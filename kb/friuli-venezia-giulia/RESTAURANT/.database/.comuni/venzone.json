@@ -1,0 +1,19 @@
+{
+  "comune_name": "Venzone",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/venzone.md",
+  "extracted_at": "2026-04-09T11:24:18.094Z",
+  "pois": [
+    {
+      "name": "Bar Ristorante Caffè Vecchio",
+      "address": "Via Mistruzzi, 2 — 33010 Venzone (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20Caff%C3%A8%20Vecchio%2C%20Via%20Mistruzzi%2C%202%20%E2%80%94%2033010%20Venzone%20(UD)",
+      "image_url": null,
+      "description": "Il Caffè Vecchio è il principale punto di riferimento della ristorazione a Venzone, situato nel cuore del centro storico. A gestione familiare, offre cucina friulana tradizionale preparata con ingredienti locali e di stagione, con piatti emblematici come gli gnocchi di zucca, gli Scrigni di Sauris e selezioni di salumi e formaggi regionali. Il locale si distingue per l'atmosfera accogliente, la presenza del tipico fogolâr friulano, e un apprezzato menu a prezzo fisso a pranzo. Frequentato anche dalla gente del posto, è considerato tappa imprescindibile per chi visita Venzone.",
+      "comune_name": "Venzone",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/venzone.md"
+    }
+  ]
+}

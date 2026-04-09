@@ -1,0 +1,52 @@
+{
+  "comune_name": "Cavazzo Carnico",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavazzo-carnico.md",
+  "extracted_at": "2026-04-09T10:22:05.749Z",
+  "pois": [
+    {
+      "name": "Chiesa parrocchiale di San Daniele Profeta",
+      "address": "Via IV Novembre, 33020 Cavazzo Carnico (UD)",
+      "website_url": "http://www.parrocchiemap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7540047",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20parrocchiale%20di%20San%20Daniele%20Profeta%2C%20Via%20IV%20Novembre%2C%2033020%20Cavazzo%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Daniele Profeta è il principale edificio di culto di Cavazzo Carnico, con origini documentate sin dal 1259. Riedificata in stile neoclassico tra il 1752 e il 1754 su progetto di Domenico Schiavi, ospita importanti pale d'altare di artisti come Domenico Robusti e Pietro Antonio Novelli. L'interno spicca per opere d'arte di pregio come la Pala della Natività della Vergine, testimonianza della cultura veneziana nelle vallate alpine. Dopo il sisma del 1976, la chiesa è stata restaurata e rimane il fulcro religioso del comune.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Pieve di Santo Stefano Protomartire (Cesclans)",
+      "address": "Via del Tiglio 1, Cesclans, 33020 Cavazzo Carnico (UD)",
+      "website_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68304/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pieve%20di%20Santo%20Stefano%20Protomartire%20(Cesclans)%2C%20Via%20del%20Tiglio%201%2C%20Cesclans%2C%2033020%20Cavazzo%20Carnico%20(UD)",
+      "image_url": null,
+      "description": "La Pieve di Santo Stefano Protomartire a Cesclans è uno dei monumenti religiosi più antichi della Carnia, fondata tra il IX e il X secolo su una rupe dominante il Lago di Cavazzo. Ricostruita nel 1777 e nuovamente dopo il terremoto del 1976, la sua storia si intreccia con quella di un castello medievale le cui tracce sono emerse durante i restauri. L'Antiquarium di Cesclans, ricavato nella rupe, custodisce reperti archeologici rinvenuti nelle fondamenta della chiesa. È un punto di riferimento storico e religioso per l'intera vallata.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Chiesa di San Candido (Somplago)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Candido%20(Somplago)%2C%20Cavazzo%20Carnico",
+      "image_url": null,
+      "description": "La chiesa di San Candido sorge su una roccia a strapiombo sulla sponda del Lago di Cavazzo, in una posizione di grande suggestione paesaggistica. L'edificio, di origine romanica con ampliamenti tardogotici nel XV secolo, è caratterizzato da una struttura semplice in pietra locale e abside semicircolare. Dedicata a San Candido, martire della Legione Tebana, rappresenta una cappella votiva inserita nella rete dell'ecomuseo della Val del Lago. Pur priva di opere d'arte di pregio, si distingue per il suo valore devozionale e la posizione unica.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavazzo-carnico.md"
+    },
+    {
+      "name": "Chiesa votiva di San Rocco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20votiva%20di%20San%20Rocco%2C%20Cavazzo%20Carnico",
+      "image_url": null,
+      "description": "Situata in campagna fuori dal centro abitato, la chiesa votiva di San Rocco risale al XVI secolo ed è legata al culto popolare contro la peste. Caratterizzata da arredi barocchi e rococò, testimonia la devozione della comunità verso il patrono San Rocco, la cui festa si celebra il 16 agosto. La chiesa rappresenta un simbolo dell'identità religiosa locale ed è il fulcro delle celebrazioni patronali di Cavazzo Carnico.",
+      "comune_name": "Cavazzo Carnico",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/cavazzo-carnico.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "comune_name": "Tramonti di Sotto",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tramonti-di-sotto.md",
+  "extracted_at": "2026-04-09T11:21:41.986Z",
+  "pois": [
+    {
+      "name": "Albergo Ristorante \"Da Febo\" – Pan & Yoda",
+      "address": "Località Pecol 1a, 33090 Tramonti di Sotto (PN)",
+      "website_url": "https://www.paneyoda.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20%22Da%20Febo%22%20%E2%80%93%20Pan%20%26%20Yoda%2C%20Localit%C3%A0%20Pecol%201a%2C%2033090%20Tramonti%20di%20Sotto%20(PN)",
+      "image_url": null,
+      "description": "L'Albergo Ristorante \"Da Febo\" – Pan & Yoda è il principale punto di riferimento gastronomico di Tramonti di Sotto, noto per la cucina di territorio che valorizza la biodiversità e prodotti locali, tra cui pitina IGP e formaggi tipici. Gestito da Robert e Francesca, offre un'esperienza culinaria attenta alla stagionalità, con opzioni vegetariane e vegane, e una carta vini esclusivamente dedicata ai produttori naturali. La struttura comprende anche 10 stanze con vista lago, una spa privata e propone numerose attività esperienziali, diventando così una meta apprezzata sia da buongustai che da amanti della natura.",
+      "comune_name": "Tramonti di Sotto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tramonti-di-sotto.md"
+    },
+    {
+      "name": "Antica Corte",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica%20Corte%2C%20Tramonti%20di%20Sotto",
+      "image_url": null,
+      "description": "L'Antica Corte è un piccolo locale a conduzione familiare segnalato nelle mappe come punto di ristorazione a Tramonti di Sotto, tipico delle realtà montane friulane. L’apertura potrebbe essere su prenotazione o con orari variabili; non è censita nelle principali guide gastronomiche nazionali. Per dettagli aggiornati su menu e orari si consiglia di rivolgersi alla Pro Loco locale o recarsi direttamente in loco.",
+      "comune_name": "Tramonti di Sotto",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/tramonti-di-sotto.md"
+    }
+  ]
+}

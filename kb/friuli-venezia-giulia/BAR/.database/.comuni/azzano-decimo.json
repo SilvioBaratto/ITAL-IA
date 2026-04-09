@@ -1,0 +1,151 @@
+{
+  "comune_name": "Azzano Decimo",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md",
+  "extracted_at": "2026-04-09T10:02:09.238Z",
+  "pois": [
+    {
+      "name": "Anamar Café",
+      "address": "Piazza Libertà, 62 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "L'Anamar Café si affaccia sulla piazza principale di Azzano Decimo, diventando un punto di riferimento per l'incontro mattutino o durante la giornata. Il locale si distingue per l'atmosfera vivace e familiare, tipica del bar di paese, ed è molto frequentato per colazione e aperitivi. La posizione centrale lo rende anche un simbolo della socialità locale.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Pink Panther",
+      "address": "Piazza Libertà, 76 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Pink Panther è un bar centrale su Piazza Libertà, riconosciuto per il suo nome insolito e la presenza radicata nella vita sociale cittadina. Frequentato soprattutto a colazione e all’aperitivo, compete direttamente con l’Anamar Café, offrendo un’alternativa dinamica agli abitanti di Azzano Decimo. La sua posizione lo rende uno dei luoghi più vivi del centro.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Dolce Caffè",
+      "address": "Viale 25 Aprile, 17 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Dolce Caffè unisce la classica funzione di bar a una proposta dolciaria ricercata, con particolare attenzione a paste e dolci da colazione. Situato su uno dei viali principali, si rivolge a chi cerca un ambiente raccolto e rilassato per iniziare la giornata con una colazione di qualità. È apprezzato per la cura nella selezione delle materie prime e per l’atmosfera intima.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Bar Interno 4",
+      "address": "Borgo Colle, 4 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Interno 4 è un locale di quartiere situato in una via storica, gestito in modo familiare e accogliente. Rappresenta un punto di ritrovo molto apprezzato da chi abita nelle vie circostanti, offrendo un ambiente intimo e una socialità raccolta lontano dal centro. È particolarmente frequentato per la colazione e le pause caffè.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Bar Florio",
+      "address": "Viale I Maggio, 67 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Florio è un tradizionale bar a conduzione familiare situato su uno dei viali principali. Il locale offre colazioni tipiche friulane e si rivolge a una clientela di quartiere, punteggiato da un clima informale e accogliente. È noto come luogo di passaparola e punto d’incontro della zona.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Pasha' Snack Bar & Games",
+      "address": "Via Trento, 2 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Pasha' Snack Bar & Games combina la funzione di bar con un centro giochi, offrendo macchine da gioco e intrattenimenti, probabilmente anche un biliardo. È particolarmente apprezzato da una clientela giovane e da chi cerca un ambiente ludico oltre alla pausa caffè, con anche una piccola offerta di snack.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Bar Al Sole",
+      "address": "Via Villacriccola, 16 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Bar Al Sole si trova in una via periferica e rappresenta il tipico bar di quartiere, frequentato soprattutto dai residenti della zona. Il locale si distingue per l’atmosfera luminosa e accogliente e offre anche una piccola cucina. È un punto di socialità fondamentale per chi non vuole o non può raggiungere il centro.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Pasticceria Gelateria Ai Pini",
+      "address": "Via Trento, 15 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Pasticceria Gelateria Ai Pini è specializzata in produzione artigianale di dolci e gelati, con attenzione anche alle esigenze alimentari moderne come i gelati senza lattosio e la panna fresca. Il locale, presente pure su Instagram, è rinomato per la qualità delle materie prime ed è aperto con orari distintivi, offrendo sia pasticceria che gelateria in una formula unica.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Gelateria Niushara",
+      "address": "Via Trento, 46 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Gelateria Niushara propone gelati artigianali, senza lattosio e panna fresca, ed è apprezzata anche per il servizio di consegna a domicilio. Con orari di apertura estesi tutti i giorni, assicura una presenza stabile per chi cerca un gelato di qualità a qualsiasi ora. La gestione attenta fa di questo locale un punto fermo della dolcezza ad Azzano Decimo.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Snack Bar Al Ponte – Corva",
+      "address": "Via Centrale, 2 – 33082 Corva di Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Lo Snack Bar Al Ponte si trova nella frazione di Corva e funge da unico vero luogo di incontro sociale per i residenti. La gestione familiare crea un ambiente conviviale, ideale per la colazione, la lettura dei giornali o un aperitivo veloce. Il bar offre anche una piccola selezione di snack veloci per la clientela locale.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Bar Borin – Tiezzo",
+      "address": "Via Toti Enrico, 2 – 33082 Tiezzo di Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "Il Bar Borin è il punto di riferimento della frazione di Tiezzo, noto per la gestione personale e per il legame stretto con la comunità locale. Qui ci si incontra per la colazione, un caffè o l’aperitivo serale, in un ambiente dove la dimensione personale e il rapporto diretto tra gestore e clienti sono centrali.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Trattoria Bar da Gian",
+      "address": "Via Piagno, 38 – 33082 Azzano Decimo (PN)",
+      "website_url": null,
+      "maps_url": null,
+      "image_url": null,
+      "description": "La Trattoria Bar da Gian unisce la classica trattoria della pianura friulana alla funzione di bar mattutino e pomeridiano. Offre una cucina semplice e casalinga nelle pause pranzo e cena, mentre il bar serve soprattutto operai, artigiani e residenti per caffè, vino sfuso e aperitivi. Il locale mantiene una presenza viva anche sui social.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    },
+    {
+      "name": "Ca' Muliner – Bar e Ristorante",
+      "address": "Via Borgo Colle, 22 – 33082 Azzano Decimo (PN)",
+      "website_url": "http://camuliner.com",
+      "maps_url": null,
+      "image_url": null,
+      "description": "Ca' Muliner è un albergo con ristorante e servizio bar, situato in un contesto che richiama la tradizione molitoria locale. Offre tavoli all'aperto, servizio da asporto e accesso per disabili, rivolgendosi sia ai residenti che ai turisti di passaggio. La gestione curata e l’identità territoriale lo rendono un luogo ideale per un caffè o un aperitivo in un ambiente caratteristico.",
+      "comune_name": "Azzano Decimo",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/azzano-decimo.md"
+    }
+  ]
+}

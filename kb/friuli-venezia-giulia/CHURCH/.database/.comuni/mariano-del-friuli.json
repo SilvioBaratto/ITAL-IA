@@ -1,0 +1,41 @@
+{
+  "comune_name": "Mariano del Friuli",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mariano-del-friuli.md",
+  "extracted_at": "2026-04-09T10:29:48.953Z",
+  "pois": [
+    {
+      "name": "Chiesa Parrocchiale di San Gottardo Vescovo",
+      "address": "Via Manzoni",
+      "website_url": "https://www.mariano-corona.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Gottardo%20Vescovo%2C%20Via%20Manzoni",
+      "image_url": null,
+      "description": "La Chiesa Parrocchiale di San Gottardo è il principale edificio religioso di Mariano del Friuli, costruita tra il 1756 e il 1762 in stile barocco su progetto dell'architetto Paolo Baroffi. La facciata tardo-barocca, l'interno arricchito da affreschi di Giulio Justolin e opere scultoree e pittoriche dei secoli XVIII–XIX la rendono un punto di riferimento identitario per la comunità, nonché l'unica chiesa della diocesi di Gorizia in cui si celebra la Messa in rito cattolico antico. Particolarmente rilevanti sono l’altare maggiore settecentesco, opere di Giuseppe Tominz e statue lignee cinquecentesche sopravvissute alle incursioni turche.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mariano-del-friuli.md"
+    },
+    {
+      "name": "Cappella della Santissima Trinità (resti del cimitero)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20della%20Santissima%20Trinit%C3%A0%20(resti%20del%20cimitero)%2C%20Mariano%20del%20Friuli",
+      "image_url": null,
+      "description": "La Cappella della Santissima Trinità è la più antica testimonianza dell’edilizia sacra di Mariano del Friuli, di cui rimane solo il presbiterio incorporato nel cimitero comunale. Edificata prima del XV secolo, venne ricostruita nel 1554 dopo le devastazioni ottomane e abbandonata nel Settecento a causa di frequenti allagamenti. Oggi è una suggestiva reliquia storico-artistica e vi fu scoperto, nel 1990, un deposito segreto di armi legato all'Operazione Gladio.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mariano-del-friuli.md"
+    },
+    {
+      "name": "Chiesa dei Santi Maria e Zenone (Corona)",
+      "address": null,
+      "website_url": "https://www.mariano-corona.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Maria%20e%20Zenone%20(Corona)%2C%20Mariano%20del%20Friuli",
+      "image_url": null,
+      "description": "La chiesa parrocchiale della frazione di Corona, dedicata alla Beata Vergine Maria e a San Zenone, fu edificata tra il 1699 e il 1709 in stile barocco rurale. Presenta una facciata sobria con una statua di Santa Maria Assunta e ospita opere d’arte di rilievo, tra cui l’altare maggiore di Pasqualino Lazzarini e una pala settecentesca di Antonio Parodi. Di particolare interesse è anche la Via Crucis moderna realizzata da Gino de Finetti nel 1950.",
+      "comune_name": "Mariano del Friuli",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/mariano-del-friuli.md"
+    }
+  ]
+}

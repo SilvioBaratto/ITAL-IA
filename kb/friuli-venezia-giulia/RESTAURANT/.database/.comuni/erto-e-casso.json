@@ -1,0 +1,63 @@
+{
+  "comune_name": "Erto e Casso",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/erto-e-casso.md",
+  "extracted_at": "2026-04-09T11:01:15.740Z",
+  "pois": [
+    {
+      "name": "Trattoria Cervo Bianco",
+      "address": "Via Val della Bruasa, 26 – 33080 Erto e Casso (PN)",
+      "website_url": "https://cervobiancoerto.it/en/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Cervo%20Bianco%2C%20Via%20Val%20della%20Bruasa%2C%2026%20%E2%80%93%2033080%20Erto%20e%20Casso%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Cervo Bianco è un punto di riferimento gastronomico ad Erto e Casso, immerso in una posizione panoramica con vista sulle Dolomiti e la valle del Vajont. Il locale offre un'atmosfera rustica e accogliente, proponendo piatti tipici della cucina friulana di montagna come gnocchi al burro e formaggio affumicato, risotto ai fiori di sambuco, stufato di selvaggina con polenta e frico. L'attenzione ai prodotti locali, in particolare selvaggina, verdure di stagione e formaggi artigianali, caratterizza la proposta culinaria. Consigliato a chi cerca autenticità e sapori genuini in una cornice naturale d'eccellenza.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Osteria Ristorante Gallo Cedrone",
+      "address": "Via Roma, 37 – 33080 Erto e Casso (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ristorante%20Gallo%20Cedrone%2C%20Via%20Roma%2C%2037%20%E2%80%93%2033080%20Erto%20e%20Casso%20(PN)",
+      "image_url": null,
+      "description": "L'Osteria Ristorante Gallo Cedrone affonda le proprie radici nella tradizione delle antiche taverne friulane, offrendo un ambiente rustico e informale restaurato con cura. Il menù si concentra sui piatti tipici della cucina di montagna, come stufati di selvaggina con polenta, gnocchi con ricotta affumicata, stinchi brasati, frico e lasagna ai radicchio e salsiccia. Atmosfera accogliente e gestione familiare rendono il locale ideale per famiglie e gruppi, garantendo convivialità e autenticità friulana. Il ristorante è apprezzato per la semplicità e la qualità degli ingredienti locali.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Bar Trattoria Julia",
+      "address": "Via 9 Ottobre 1963, 32 – 33080 Erto e Casso (PN)",
+      "website_url": "https://www.trattoriajulia.com/en/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Trattoria%20Julia%2C%20Via%209%20Ottobre%201963%2C%2032%20%E2%80%93%2033080%20Erto%20e%20Casso%20(PN)",
+      "image_url": null,
+      "description": "Bar Trattoria Julia, a conduzione familiare da tre generazioni, è un'istituzione della cucina friulana locale, nota per la cura nella scelta di ingredienti di qualità e nella preparazione di ricette tradizionali. Offre piatti come polenta con frico, carne di fassona, crostini alle erbe aromatiche, carpaccio di cervo, gnocchi e tagliolini fatti in casa. Il locale assicura un'esperienza autentica grazie all'atmosfera accogliente e alla gestione personale, consentendo ai clienti di gustare sapori genuini e specialità stagionali della regione.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Enoteca da Corona",
+      "address": "Via Don Pancino, 24 – 33080 Erto e Casso (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca%20da%20Corona%2C%20Via%20Don%20Pancino%2C%2024%20%E2%80%93%2033080%20Erto%20e%20Casso%20(PN)",
+      "image_url": null,
+      "description": "Enoteca da Corona, nata dalla passione di Marco Corona, occupa una storica abitazione del paese e propone l'atmosfera intima e autentica delle antiche locande di campagna. Si distingue per la selezione enologica di qualità, accompagnata da taglieri di formaggi locali, salumi tipici come la petuccia e piatti della tradizione friulana come frico e bistecca alla fiorentina. L'enoteca è apprezzata per l'ambientazione suggestiva e la possibilità di ospitare gruppi, offrendo un'esperienza enogastronomica curata. La fascia di prezzo riflette l'elevata qualità delle materie prime offerte.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/erto-e-casso.md"
+    },
+    {
+      "name": "Rifugio Cava Buscada",
+      "address": "Val Zemola – Erto e Casso (PN)",
+      "website_url": "https://www.cavabuscada.com/rifugio/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Cava%20Buscada%2C%20Val%20Zemola%20%E2%80%93%20Erto%20e%20Casso%20(PN)",
+      "image_url": null,
+      "description": "Il Rifugio Cava Buscada, situato a 1.800 metri in Val Zemola, offre cucina friulana di montagna all'interno di un edificio storico restaurato nel cuore delle Dolomiti Friulane. Il menù stagionale si incentra su piatti tipici come frico con polenta, stufato di selvaggina e dolci fatti in casa, enfatizzando semplicità, genuinità e prodotti locali. Il rifugio è punto di sosta per escursionisti e propone anche attività legate alla storia mineraria, alla geologia e alla botanica del territorio UNESCO. L'esperienza combina natura, storia e tradizione culinaria.",
+      "comune_name": "Erto e Casso",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/erto-e-casso.md"
+    }
+  ]
+}

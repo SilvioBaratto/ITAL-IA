@@ -1,0 +1,96 @@
+{
+  "comune_name": "Cassacco",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md",
+  "extracted_at": "2026-04-09T10:37:42.149Z",
+  "pois": [
+    {
+      "name": "Castello di Cassacco (Cassimberg)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Cassacco%20(Cassimberg)%2C%20Cassacco",
+      "image_url": null,
+      "description": "Il Castello di Cassacco, noto anche come Cassimberg, è il simbolo storico del comune, con origini che risalgono al XIII secolo. Le sue strutture medievali in rovina dominano il paesaggio collinare e testimoniano la centralità difensiva che il castello ebbe durante il medioevo friulano. Sebbene oggi restino soprattutto ruderi, la mole delle mura e i torrioni raccontano la ricca storia feudale locale. Il sito offre uno scenario suggestivo agli appassionati di storia medievale, pur non essendo organizzato come percorso museale.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Giovanni Battista",
+      "address": null,
+      "website_url": "https://www.diocesiudinese.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giovanni%20Battista%2C%20Cassacco",
+      "image_url": null,
+      "description": "La principale chiesa di Cassacco, dedicata a San Giovanni Battista, ha origini nel XIII secolo e l'attuale edificio fu costruito tra il 1886 e il 1898 su progetto di Angelo Noacco in stile neogotico. Situata nella piazza centrale, è il fulcro della vita religiosa e comunitaria e conserva arredi sacri di valore storico-artistico. È stata restaurata a seguito del terremoto del 1976 e accoglie le principali celebrazioni del paese.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Torre Campanaria di Cassacco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre%20Campanaria%20di%20Cassacco%2C%20Cassacco",
+      "image_url": null,
+      "description": "Costruita nel 1926, la torre campanaria di Cassacco è un importante punto di riferimento panoramico e civico. Si distingue per uno stile eclettico ispirato al campanile del Duomo di Lucca, con quattro ordini di bifore e trifore, dettaglio raro nel contesto friulano. Fu realizzata grazie al contributo della comunità e simboleggia lo spirito collaborativo del paese.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa di San Giusto",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giusto%2C%20Cassacco",
+      "image_url": null,
+      "description": "Situata nella frazione di Montegnacco, la chiesa di San Giusto è uno degli edifici religiosi più antichi del Comune, con origini nel XIII secolo. Ha subito vari ampliamenti e restauri conservando elementi medievali, quali porzioni delle murature e dell'impianto planimetrico originale. Rappresenta un punto di riferimento per la comunità locale ed è stata restaurata dopo i danni del terremoto del 1976.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Villa Gallici Deciani",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Gallici%20Deciani%2C%20Cassacco",
+      "image_url": null,
+      "description": "La Villa Gallici Deciani, nella frazione di Montegnacco, è un esempio di residenza nobiliare friulana del XVII secolo. Appartenente storicamente a famiglie aristocratiche locali, presenta le tipiche caratteristiche architettoniche delle ville di campagna seicentesche e contribuisce al valore paesaggistico della zona. Pur non essendo visitabile come struttura museale, testimonia la presenza della nobiltà rurale nel Friuli.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa di San Marco Evangelista",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Marco%20Evangelista%2C%20Cassacco",
+      "image_url": null,
+      "description": "Questa chiesa della frazione di Raspano nasce sulle basi di una struttura del XIV secolo e presenta una combinazione di elementi neoclassici e romanici, con numerosi interventi edilizi e ampliamenti eseguiti fino al XIX secolo. La facciata ospita un mosaico dedicato a San Marco. Il campanile attuale, realizzato negli anni Cinquanta del Novecento, fu costruito grazie alle donazioni della comunità. L’edificio fu restaurato a seguito dei danni causati dal sisma del 1976.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa di San Martino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Martino%2C%20Cassacco",
+      "image_url": null,
+      "description": "La chiesa di San Martino, costruita nel 1688 a Martinazzo, rappresenta l’architettura religiosa rurale barocca tipica del Friuli seicentesco. Dedicata al popolare santo della carità, è situata al centro della piccola frazione e ha subito restauri dopo il terremoto del 1976. L’edificio riflette la devozione e la storia della comunità locale.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    },
+    {
+      "name": "Chiesa dei Santi Filippo e Giacomo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20dei%20Santi%20Filippo%20e%20Giacomo%2C%20Cassacco",
+      "image_url": null,
+      "description": "La chiesa dei Santi Filippo e Giacomo, realizzata a Conoglano nel 1905, è un esempio di stile eclettico in ambito religioso friulano. Serve come punto di riferimento spirituale per la frazione e le borgate circostanti ed è dedicata a due santi tradizionali della devozione locale. Riflette la tendenza di inizio Novecento a rinnovare gli edifici di culto delle comunità rurali.",
+      "comune_name": "Cassacco",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/LANDMARK/.comuni/cassacco.md"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_file": "friuli-venezia-giulia/RESTAURANT/.comuni/visco.md",
+  "region": "friuli-venezia-giulia",
+  "category": "RESTAURANT",
+  "comune_name": "Visco",
+  "province": "UD",
+  "page_title": "Visco",
+  "page_summary": "Guida ai principali punti di ristorazione del comune di Visco: bar di vicinato, il nuovo Risto Bar, e l’offerta del polo autostradale con autogrill, hamburger restaurant, caffetteria e prosciutteria Dall'Ava all’uscita Visco/A4.",
+  "source_url": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/visco.md",
+  "processed_at": "2026-04-09T14:05:52.989Z",
+  "chunks": [
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/visco__0",
+      "text": "### Risto Bar\n\nIl Risto Bar è il principale punto di riferimento per chi vuole mangiare o fare uno spuntino nel comune di Visco senza avventurarsi sull'autostrada. Aperto nel 2025, il locale si propone con una formula versatile che spazia dalle colazioni del mattino ai pranzi veloci, dagli aperitivi serali alle degustazioni di salumi e formaggi locali. La formula *tagli e degustazioni* è quella più apprezzata: taglieri di prosciutto di San Daniele, Montasio in varie stagionature, salame nostrano friulano e una selezione di vini del territorio, dai bianchi friulani DOC Aquileia ai rossi a base di refosco. L'ambiente è informale e familiare, frequentato dagli abitanti del paese e dai lavoratori della zona. È uno di quei locali nati per rispondere a un bisogno concreto del tessuto locale, più che per intercettare un turismo gastronomico che a Visco difficilmente arriva.\n\n- **Indirizzo:** Via area est, Visco (UD) — loc. tra il centro abitato e la zona commerciale, coordinate approssimative 45.888°N 13.354°E\n- **Contatti:** +39 327 215 8719 · maxfon72@gmail.com\n- **Facebook:** [RISTO BAR 2025](https://www.facebook.com/people/RISTO-BAR-2025/61579314345341/)\n- **Cucina:** colazioni, pranzi veloci, taglieri di salumi e formaggi friulani, aperitivi\n- **Fascia di prezzo:** € (basso, locali abituali e lavoratori)",
+      "metadata": {
+        "section_title": "Risto Bar",
+        "links": [
+          {
+            "text": "RISTO BAR 2025",
+            "url": "https://www.facebook.com/people/RISTO-BAR-2025/61579314345341/"
+          }
+        ],
+        "addresses": [
+          "Via area est, Visco (UD) — loc. tra il centro abitato e la zona commerciale, coordinate approssimative 45.888°N 13.354°E"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (basso, locali abituali e lavoratori)"
+      }
+    },
+    {
+      "chunk_id": "friuli-venezia-giulia/RESTAURANT/visco__1",
+      "text": "### Bar del paese (locale senza insegna mappata)\n\nNel centro storico del paese, in prossimità di Via Montello, esiste un bar di paese non ulteriormente documentato nelle banche dati online. Si tratta del tipico esercizio di vicinato friulano — punto di ritrovo mattutino per il caffè e il giornale, luogo dove si consuma un *tajut* (bicchiere di vino bianco) nel pomeriggio, e spesso unico presidio di socialità in paesi di piccole dimensioni. La colazione si basa su cornetti, *krapfen* friulani e il classico cappuccino; a pranzo possono essere disponibili panini o piatti caldi semplici su richiesta. Non essendo censito con nome sulle piattaforme digitali, i dati di contatto precisi non sono recuperabili con certezza.\n\n- **Indirizzo:** centro di Visco, zona Via Montello / Via Pietro Giolitti (ca. 45.891°N 13.348°E)\n- **Fascia di prezzo:** € (tipico bar di paese)",
+      "metadata": {
+        "section_title": "Bar del paese (locale senza insegna mappata)",
+        "links": [],
+        "addresses": [
+          "centro di Visco, zona Via Montello / Via Pietro Giolitti (ca. 45.891°N 13.348°E)"
+        ],
+        "image_urls": [],
+        "opening_hours": null,
+        "prices": "€ (tipico bar di paese)"
+      }
+    }
+  ]
+}

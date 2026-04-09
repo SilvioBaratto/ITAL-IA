@@ -1,0 +1,41 @@
+{
+  "comune_name": "Vito D Asio",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vito-d-asio.md",
+  "extracted_at": "2026-04-09T11:24:57.573Z",
+  "pois": [
+    {
+      "name": "Agriturismo Paradiso",
+      "address": "Località Mont, Anduins, 33090 Vito d'Asio (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Paradiso%2C%20Localit%C3%A0%20Mont%2C%20Anduins%2C%2033090%20Vito%20d'Asio%20(PN)",
+      "image_url": null,
+      "description": "Immerso nella contrada di Mont sopra Anduins, l'Agriturismo Paradiso offre una cucina stagionale basata principalmente su prodotti propri e ingredienti locali. Il menu varia secondo le stagioni, proponendo piatti come frico di malga, polenta con funghi e selvaggina, cjarsons e dolci fatti in casa. L'atmosfera è familiare e informale, particolarmente adatta a gruppi, famiglie ed escursionisti che apprezzano la genuinità della tradizione contadina friulana.",
+      "comune_name": "Vito D Asio",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vito-d-asio.md"
+    },
+    {
+      "name": "Da Renzo",
+      "address": "Via Galantz, Galantz / San Francesco, 33090 Vito d'Asio (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Renzo%2C%20Via%20Galantz%2C%20Galantz%20%2F%20San%20Francesco%2C%2033090%20Vito%20d'Asio%20(PN)",
+      "image_url": null,
+      "description": "Da Renzo è un piccolo ristorante situato nella contrada Galantz di San Francesco, noto per la sua cucina casalinga e i prezzi contenuti. Il locale serve piatti tradizionali della montagna friulana come polenta, frico, primi al sugo di selvaggina e secondi di carne, oltre a salumi e formaggi locali. È frequentato soprattutto da residenti e escursionisti, offrendo un ambiente familiare e autentico.",
+      "comune_name": "Vito D Asio",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vito-d-asio.md"
+    },
+    {
+      "name": "L'Ortal",
+      "address": "Via Jacopo Ortis, Casiacco / Cjasiât, 33090 Vito d'Asio (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=L'Ortal%2C%20Via%20Jacopo%20Ortis%2C%20Casiacco%20%2F%20Cjasi%C3%A2t%2C%2033090%20Vito%20d'Asio%20(PN)",
+      "image_url": null,
+      "description": "L'Ortal, nella frazione di Casiacco, è bar e osteria di paese, punto di riferimento per la vita sociale del borgo. Qui si possono gustare piatti semplici, come paste, grigliate, affettati e formaggi locali, soprattutto nei fine settimana. Il locale offre un'atmosfera tipica e accogliente, ideale per chi desidera vivere l'autenticità e la convivialità della Val d'Arzino.",
+      "comune_name": "Vito D Asio",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/vito-d-asio.md"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "comune_name": "Monfalcone",
+  "province": "GO",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md",
+  "extracted_at": "2026-04-09T11:07:25.465Z",
+  "pois": [
+    {
+      "name": "Al Pesce d'Oro",
+      "address": "Via dei Bagni Nuova 19",
+      "website_url": "http://www.alpescedoro.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Pesce%20d'Oro%2C%20Via%20dei%20Bagni%20Nuova%2019",
+      "image_url": null,
+      "description": "Al Pesce d'Oro è un rinomato ristorante di Monfalcone, celebre per il pesce fresco fornito quotidianamente da pescatori proprietari. L'ambiente è raffinato ed esclusivo, con menu che cambiano in base al pescato del giorno e piatti signature come spaghetti allo scoglio e tagliolini al granchio. La selezione di vini friulani e l'orto di proprietà completano un'esperienza gourmet. Il livello di servizio è elevato, con prezzi medio-alti.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Osteria Alla Fortuna",
+      "address": "Via Garibaldi 19",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Alla%20Fortuna%2C%20Via%20Garibaldi%2019",
+      "image_url": null,
+      "description": "Osteria Alla Fortuna è un locale storico di Monfalcone che offre un'atmosfera accogliente e familiare. Specializzata nella cucina friulana e casalinga, propone sia piatti di pesce che ricette di carne, con specialità tipiche come la jota, gli gnocchi e i cjarsons. È ideale per chi cerca autenticità e semplicità a prezzi contenuti.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Ocean Restaurant",
+      "address": "Via Consiglio d'Europa 42",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ocean%20Restaurant%2C%20Via%20Consiglio%20d'Europa%2042",
+      "image_url": null,
+      "description": "Ocean Restaurant, guidato dallo chef Roberto Centassi, si distingue per una cucina che equilibra tradizione e modernità, con un focus sulle specialità di pesce fresco. Offre sia piatti classici come il baccalà mantecato che proposte creative. L'ambiente è moderno e confortevole, ideale per chi cerca un'esperienza raffinata con prezzi medio-alti.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "La Rocca",
+      "address": "Piazza della Repubblica 3 (o Via San Francesco 49)",
+      "website_url": "http://osterialarocca.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Rocca%2C%20Piazza%20della%20Repubblica%203%20(o%20Via%20San%20Francesco%2049)",
+      "image_url": null,
+      "description": "Osteria La Rocca si trova in una suggestiva scuderia secolare riconvertita, mantenendo intatto il fascino storico e familiare. Il menu propone piatti tradizionali del nord Italia, come gnocchi con sugo di goulash e tagliatelle ai funghi, in un'atmosfera intima. La conduzione familiare garantisce continuità alla tradizione e attenzione ai dettagli.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Nautec Bar Ristorante",
+      "address": "Via Consiglio d'Europa 36",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Nautec%20Bar%20Ristorante%2C%20Via%20Consiglio%20d'Europa%2036",
+      "image_url": null,
+      "description": "Nautec Bar Ristorante è situato nella Marina Monfalcone, offrendo una splendida vista sul porto turistico e un ampio portico per godersi aperitivi. Propone una buona selezione di piatti di pesce fresco accompagnati da un servizio cordiale, e dispone anche di piscina. La fascia di prezzo è medio-bassa e sono disponibili sia menù à la carte che formule fisse.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "La Rosa dei Venti",
+      "address": "Via Consiglio d'Europa 38",
+      "website_url": "http://www.ristorantemarinalepanto.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Rosa%20dei%20Venti%2C%20Via%20Consiglio%20d'Europa%2038",
+      "image_url": null,
+      "description": "La Rosa dei Venti è un ristorante elegante situato presso Marina Lepanto, noto per un menu equilibrato tra tradizione e creatività, con pesce e carne selezionati dallo chef ogni giorno. L'ambiente raffinato è adatto a cerimonie ed eventi speciali, con dolci curati e la possibilità di rilassarsi nella Club House. Aperto tutto l'anno, offre sia spazi interni che esterni.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Marina Hannibal Ristorante",
+      "address": "Via dei Bagni Nuova 41",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Marina%20Hannibal%20Ristorante%2C%20Via%20dei%20Bagni%20Nuova%2041",
+      "image_url": null,
+      "description": "Marina Hannibal Ristorante si trova nella suggestiva cornice portuale di Monfalcone e si distingue per la sua atmosfera popolare e genuina. La cucina propone specialità di pesce come baccalà mantecato, fritto misto e antipasti tradizionali, in formula prevalentemente self-service a prezzi molto accessibili. È ideale per chi ama mangiare bene senza spendere troppo.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Alle Comari",
+      "address": "Via dell'Agraria 54",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alle%20Comari%2C%20Via%20dell'Agraria%2054",
+      "image_url": null,
+      "description": "Alle Comari è un ristorante specializzato in cucina di mare, noto per la freschezza del pesce e le grigliate miste. Il menu offre anche fritto misto, spaghetti alle vongole e altre classiche preparazioni di pesce, il tutto cucinato in modo semplice ma accurato. Il locale è apprezzato per l'ambiente informale e accogliente.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Il Vitigno",
+      "address": "Via San Vincenzo De' Paoli 10",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Vitigno%2C%20Via%20San%20Vincenzo%20De'%20Paoli%2010",
+      "image_url": null,
+      "description": "Il Vitigno è una raffinata enoteca e trattoria di riferimento per gli amanti del vino, con una vasta selezione di etichette nazionali e internazionali, soprattutto friulane. La cucina propone specialità pensate per accompagnare i vini e prodotti tipici regionali. L'atmosfera è intima e ideale per cene romantiche ed esperienze enogastronomiche.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Ristorante Gabi",
+      "address": "Salita alla Rocca 1",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Gabi%2C%20Salita%20alla%20Rocca%201",
+      "image_url": null,
+      "description": "Ristorante Gabi offre una cucina casalinga d'ispirazione balcanica, gestita con cura da Marinko Grbavac. Il menu propone piatti come gnocco con goulash, tagliatella ai funghi e la tipica lubianska con ajvar, il tutto accompagnato da una selezione di birre. L'atmosfera è informale e accogliente, perfetta per pranzi veloci o cene rilassate.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Yumiko Ristorante",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Yumiko%20Ristorante%2C%20Monfalcone",
+      "image_url": null,
+      "description": "Yumiko Ristorante è uno dei principali ristoranti giapponesi di Monfalcone, noto per l'autenticità dei suoi piatti asiatici serviti in un ambiente elegante e rinnovato. È il luogo ideale per gustare cucina giapponese di qualità lontano dalle catene standard. La fascia di prezzo è medio-bassa.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Ristorante Giapponese Oishii",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Giapponese%20Oishii%2C%20Monfalcone",
+      "image_url": null,
+      "description": "Ristorante Giapponese Oishii è apprezzato per la varietà di piatti giapponesi, dal sushi al sashimi fino ai piatti cotti e dolci, sempre preparati con freschezza. L'atmosfera moderna e pulita rende il locale una delle scelte migliori per gli amanti della cucina nipponica a Monfalcone. È valutato molto positivamente online.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Sushi Mio",
+      "address": "Via IX Giugno 89",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Mio%2C%20Via%20IX%20Giugno%2089",
+      "image_url": null,
+      "description": "Sushi Mio offre un menu di cucina giapponese e cinese, con servizio di asporto e consegna. È ideale per chi cerca piatti veloci e gustosi da consumare a casa, con un buon assortimento di sushi e specialità asiatiche. I prezzi sono contenuti e accessibili.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Pizzeria Al Gambero",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Al%20Gambero%2C%20Monfalcone",
+      "image_url": null,
+      "description": "Pizzeria Al Gambero è una storica pizzeria di Monfalcone attiva dal 1982, famosa per l'impasto tradizionale e la qualità degli ingredienti utilizzati. Gestita dai fratelli Buonocore, rappresenta un punto di riferimento per chi desidera una buona pizza in città a prezzi economici.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    },
+    {
+      "name": "Pizzeria Trattoria Al Giardino",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Trattoria%20Al%20Giardino%2C%20Monfalcone",
+      "image_url": null,
+      "description": "Pizzeria Trattoria Al Giardino propone piatti tipici della cucina italiana insieme a pizze cotte nel forno a legna. L'atmosfera è accogliente e piacevole, adatta a cene in famiglia o tra amici. Offre una combinazione di ristorante tradizionale e pizzeria.",
+      "comune_name": "Monfalcone",
+      "province": "GO",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/monfalcone.md"
+    }
+  ]
+}

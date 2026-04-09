@@ -1,0 +1,30 @@
+{
+  "comune_name": "Dignano",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dignano.md",
+  "extracted_at": "2026-04-09T10:11:59.640Z",
+  "pois": [
+    {
+      "name": "Bar da Rico",
+      "address": "Piazza Plebiscito 14, Bonzicco (frazione di Dignano), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20da%20Rico%2C%20Piazza%20Plebiscito%2014%2C%20Bonzicco%20(frazione%20di%20Dignano)%2C%2033030",
+      "image_url": null,
+      "description": "Il Bar da Rico è situato nella piazza principale della frazione di Bonzicco, rappresentando un punto di ritrovo essenziale per la comunità locale. Locale multifunzione, apre al mattino per le colazioni con caffè, cappuccino e dolci da forno, e resta attivo per aperitivi e momenti di socialità nel pomeriggio e in prima serata. La sua atmosfera è tipicamente friulana, con il bancone come fulcro del locale, luogo di incontro per il tradizionale 'tajut' accompagnato da salumi e formaggi locali. È un bar autentico e genuino, molto apprezzato dai residenti della zona.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dignano.md"
+    },
+    {
+      "name": "Bar Da Ques Dignano",
+      "address": "Via Ca' Vincenzo 15, Bonzicco (frazione di Dignano), 33030",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Da%20Ques%20Dignano%2C%20Via%20Ca'%20Vincenzo%2015%2C%20Bonzicco%20(frazione%20di%20Dignano)%2C%2033030",
+      "image_url": null,
+      "description": "Il Bar Da Ques Dignano è un bar di quartiere nella zona abitata di Bonzicco, noto per il suo carattere familiare legato al nome dei gestori. Il locale propone colazioni e aperitivi in un'atmosfera da osteria tipica del territorio, dove gli abitanti si ritrovano per scambiare notizie e socializzare. È il punto di riferimento per la comunità locale, e qui lo spritz si ordina secondo la tradizione, senza fronzoli. L'ambiente è semplice e informale, perfetto per chi cerca autenticità friulana.",
+      "comune_name": "Dignano",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/BAR/.comuni/dignano.md"
+    }
+  ]
+}

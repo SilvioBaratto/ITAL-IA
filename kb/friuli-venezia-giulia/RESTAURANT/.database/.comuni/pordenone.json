@@ -1,0 +1,239 @@
+{
+  "comune_name": "Pordenone",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md",
+  "extracted_at": "2026-04-09T11:12:31.690Z",
+  "pois": [
+    {
+      "name": "La Vecia Osteria del Moro",
+      "address": "Corso Vittorio Emanuele II, 63 – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Vecia%20Osteria%20del%20Moro%2C%20Corso%20Vittorio%20Emanuele%20II%2C%2063%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "La Vecia Osteria del Moro è uno storico locale situato in un antico convento trecentesco nel cuore del centro storico di Pordenone. L'atmosfera è autentica e venata di storia, con menu improntato sulla cucina regionale friulana e una selezione di vini locali della DOC Friuli Grave. Il servizio è attento e l'ambiente tranquillo, frequentato principalmente dagli abitanti locali in cerca di vera cucina pordenonese.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Trattoria Al Lido",
+      "address": "via Venchieredo / lungofiume Noncello – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Al%20Lido%2C%20via%20Venchieredo%20%2F%20lungofiume%20Noncello%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Trattoria Al Lido si trova vicino al fiume Noncello, ed è celebre per la sua cucina di pesce freschissimo e l'atmosfera vivace frequentata dai locali. I piatti forti sono le tagliateline all'aragosta e gli spaghetti ai frutti di mare, con una pizza molto apprezzata che la rende adatta a gruppi diversi. Il locale offre un menu in inglese e la prenotazione è consigliata nei fine settimana.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Dal Cico",
+      "address": "centro storico di Pordenone – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dal%20Cico%2C%20centro%20storico%20di%20Pordenone%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Dal Cico è un punto di riferimento nel centro storico di Pordenone, specializzato in carne alla griglia e con una selezione di vini di qualità. Il menù propone anche eccellenti primi di pesce e una ricca lista di pizze. L'ambiente è confortevole, aperto tutti i giorni con orario continuato, ideale sia per pranzi informali che per cene in famiglia.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Dok – Il Gusto del Prosciutto",
+      "address": "Pordenone (PN), zona nord della città",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dok%20%E2%80%93%20Il%20Gusto%20del%20Prosciutto%2C%20Pordenone%20(PN)%2C%20zona%20nord%20della%20citt%C3%A0",
+      "image_url": null,
+      "description": "Dok è un locale unico nel panorama cittadino, collegato a una struttura di produzione del prosciutto che offre degustazioni guidate e piatti a base di ingredienti locali. Il protagonista del menù è il prosciutto stagionato fino a 20 mesi, abbinato a formaggi del territorio e vini friulani. Ideale per un'esperienza gastronomica approfondita e genuina, è consigliato per chi desidera scoprire i prodotti friulani alla fonte.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Al Cavaliere Perso",
+      "address": "Pordenone (PN), zona centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cavaliere%20Perso%2C%20Pordenone%20(PN)%2C%20zona%20centro%20storico",
+      "image_url": null,
+      "description": "Al Cavaliere Perso è un piccolo ristorante a conduzione familiare che offre una cucina casalinga friulana, con piatti stagionali seguendo il mercato locale. L'ambiente è raccolto e ospitale, il servizio caloroso e i prezzi contenuti. È il luogo ideale per chi cerca autenticità e materie prime fresche tipiche della campagna pordenonese.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Al Cenacolo",
+      "address": "Pordenone (PN), centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Cenacolo%2C%20Pordenone%20(PN)%2C%20centro%20storico",
+      "image_url": null,
+      "description": "Ristorante dall'atmosfera raccolta, Al Cenacolo si distingue per la gradevole corte interna dove gustare grigliate di carne e pesce all'aperto nelle stagioni miti. Il menù si basa principalmente su piatti alla griglia, con una carta dei vini curata e un servizio competente. L'ambiente silenzioso lo rende un luogo piacevole per pranzi e cene in centro.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Al Boccon Divino",
+      "address": "Pordenone (PN), zona sud della città",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Boccon%20Divino%2C%20Pordenone%20(PN)%2C%20zona%20sud%20della%20citt%C3%A0",
+      "image_url": null,
+      "description": "Al Boccon Divino è una pizzeria informale dalla spiccata vocazione locale, ideale per cene tra amici o in famiglia. La pizza ai quattro formaggi ottiene consensi unanimi, così come il vino bianco frizzante della casa. Il personale parla anche inglese, l'ambiente è amichevole e il rapporto qualità-prezzo competitivo.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Dry Bridge",
+      "address": "Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Dry%20Bridge%2C%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Dry Bridge è un wine bar moderno nel centro di Pordenone che unisce un'ottima selezione di vini friulani a una cucina attenta agli ingredienti stagionali e locali. Il menù varia e il tiramisù è particolarmente apprezzato. L'atmosfera è elegante, perfetta sia per un aperitivo che per una cena rilassata.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "La Ferrata",
+      "address": "Pordenone (PN), centro",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferrata%2C%20Pordenone%20(PN)%2C%20centro",
+      "image_url": null,
+      "description": "La Ferrata è un diner semplice vicino alla stazione ferroviaria che propone cucina veneta tradizionale, ideale per un pranzo veloce. Piatti come risi e bisi, baccalà alla vicentina e bigoli all'anatra riscontrano sempre successo, e i prezzi sono particolarmente contenuti.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Piazzetta Sanmarco Tredici",
+      "address": "Pordenone (PN), zona Piazza San Marco",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazzetta%20Sanmarco%20Tredici%2C%20Pordenone%20(PN)%2C%20zona%20Piazza%20San%20Marco",
+      "image_url": null,
+      "description": "Situato nella centralissima Piazza San Marco, il locale offre hamburger artigianali di alta qualità in un ambiente familiare e accogliente, particolarmente adatto anche a famiglie con bambini. Gli ingredienti freschi e il pane artigianale rendono l'offerta superiore alla media della città.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Urban Farmhouse",
+      "address": "Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Urban%20Farmhouse%2C%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Urban Farmhouse porta il concept farm-to-table a Pordenone proponendo hamburger gourmet preparati con ingredienti stagionali e di alta qualità. Il locale offre una terrazza esterna per la bella stagione e si caratterizza per lo stile contemporaneo e il legame con il territorio agricolo.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "America Graffiti",
+      "address": "Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=America%20Graffiti%2C%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "America Graffiti è un ristorante in stile diner retrò americano anni '50/'60, noto per la sua atmosfera ricercata e la cucina a base di hamburger, hot dog e milkshake. Apprezzato dalla clientela giovane e da chi cerca un pasto originale, si distingue per la scenografia immersiva e la qualità degli ingredienti.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Boi Gordo's",
+      "address": "Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Boi%20Gordo's%2C%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Boi Gordo's è la churrascaria di Pordenone, specializzata in grigliate brasiliane di carne all-you-can-eat servite direttamente al tavolo. L'ambiente è adatto anche a pranzi di lavoro e la formula rodízio garantisce una vasta scelta di tagli accompagnati da tipici contorni brasiliani.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "La Grande Cina",
+      "address": "Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grande%20Cina%2C%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "La Grande Cina è il ristorante cinese più noto di Pordenone, apprezzato per il rapporto qualità-prezzo, la gestione cordiale e i piatti della cucina classica sino-italiana. Frequentato soprattutto dai residenti abituali, è ideale per pranzi veloci e informali.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Osteria Mingot",
+      "address": "via/zona Borgomeduna o area pericentrale – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Mingot%2C%20via%2Fzona%20Borgomeduna%20o%20area%20pericentrale%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Osteria Mingot è un solido punto di riferimento per la cucina friulana autentica, nota per piatti come frico con polenta, musetto con brovada, jota e minestre di orzo. Frequentata da clienti affezionati, mantiene lo spirito conviviale delle tradizionali osterie di Pordenone.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Ristorante Al Vecchio Mulino",
+      "address": "area periferica di Pordenone, zona Noncello",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Al%20Vecchio%20Mulino%2C%20area%20periferica%20di%20Pordenone%2C%20zona%20Noncello",
+      "image_url": null,
+      "description": "Il Ristorante Al Vecchio Mulino occupa uno storico spazio legato all'antica tradizione molitoria di Pordenone, con ambiente rustico e cucina fortemente ancorata al territorio friulano. Paste fresche, risotti e secondi di carne tipici della regione sono i protagonisti di un menù che privilegia la genuinità e il calore del legno e delle stufe.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Pizzeria al Noncello",
+      "address": "lungofiume Noncello – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20al%20Noncello%2C%20lungofiume%20Noncello%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Pizzeria al Noncello è un locale all'aperto lungo le rive del Noncello, famoso per la sua pizza napoletana rivisitata in chiave friulana. La posizione lo rende uno dei punti di ritrovo più vivaci d'estate, molto frequentato da famiglie e gruppi di amici.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Osteria del Gallo",
+      "address": "Pordenone (PN), area centro storico",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20del%20Gallo%2C%20Pordenone%20(PN)%2C%20area%20centro%20storico",
+      "image_url": null,
+      "description": "L'Osteria del Gallo incarna la vera tradizione friulana, con piatti poveri e genuini come frittate con le erbe, trippa con polenta, bollito misto e vini locali selezionati. È un punto di incontro per la clientela abituale, con atmosfera semplice e accogliente tipica delle osterie di una volta.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Ristorante La Terrazza – Hotel Moderno",
+      "address": "Viale Martelli, 1 – 33170 Pordenone (PN)",
+      "website_url": "https://www.hotelmodernopordenone.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Terrazza%20%E2%80%93%20Hotel%20Moderno%2C%20Viale%20Martelli%2C%201%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "Situato nell'Hotel Moderno, il Ristorante La Terrazza propone cucina friulana rivisitata con un tocco moderno, servita anche su una terrazza esterna ideale per la bella stagione. Il servizio è professionale e internazionale, e il menù spazia dai classici locali al pesce d'acqua dolce, rivolgendosi sia a una clientela di affari che a viaggiatori.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Agriturismo Le Grazie",
+      "address": "frazione San Gregorio-Le Grazie – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Le%20Grazie%2C%20frazione%20San%20Gregorio-Le%20Grazie%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "L'Agriturismo Le Grazie offre cucina friulana agrituristica realizzata con prodotti di produzione propria, come salumi, formaggi, verdure e miele. L'ambiente rurale, a breve distanza dal centro di Pordenone, e la vera cucina di campagna a km zero lo rendono perfetto per pranzi domenicali in famiglia.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    },
+    {
+      "name": "Trattoria Alla Pergola",
+      "address": "frazione Vallenoncello – 33170 Pordenone (PN)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Pergola%2C%20frazione%20Vallenoncello%20%E2%80%93%2033170%20Pordenone%20(PN)",
+      "image_url": null,
+      "description": "La Trattoria Alla Pergola è il ritrovo storico della frazione Vallenoncello, celebre per la sua pergola estiva e la cucina friulano-veneta stagionale. L'ambiente tipico di quartiere, l'onestà della cucina e i prezzi accessibili la rendono una meta classica per pranzi e cene tra abitanti del luogo.",
+      "comune_name": "Pordenone",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/pordenone.md"
+    }
+  ]
+}

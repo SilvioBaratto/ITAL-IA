@@ -1,0 +1,250 @@
+{
+  "comune_name": "Muggia",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md",
+  "extracted_at": "2026-04-09T11:09:03.001Z",
+  "pois": [
+    {
+      "name": "MYTILUS - Ristorante sul Mare",
+      "address": "Via per Lazzaretto 20",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=MYTILUS%20-%20Ristorante%20sul%20Mare%2C%20Via%20per%20Lazzaretto%2020",
+      "image_url": null,
+      "description": "Mytilus è un ristorante di lusso affacciato sul mare vicino al confine con la Slovenia, celebre per piatti di pesce e carni di altissima qualità. L'ambiente elegante, con aree verdi curate e un esclusivo sunset bar, offre un'atmosfera raffinata da beach club e ristorante gourmet, ideale sia per cene romantiche che per occasioni speciali. Il panorama marino impreziosisce ulteriormente l'esperienza gastronomica, rendendo Mytilus uno dei punti di riferimento della cucina muggesana.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "SAL DE MAR",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=SAL%20DE%20MAR%2C%20Muggia",
+      "image_url": null,
+      "description": "Sal de Mar è uno dei ristoranti di pesce più rinomati di Muggia, situato in un edificio storico sul porto che fu una ex fabbrica di sale. Il locale spicca per la freschezza eccezionale del pescato, le preparazioni della tradizione adriatica e il servizio attento. Specialità come la pasta alle vongole sono preparate secondo tecniche triestine, mentre l'atmosfera conserva il fascino mercantile del passato.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "TRATTORIA AL CASTELLO",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=TRATTORIA%20AL%20CASTELLO%2C%20Muggia",
+      "image_url": null,
+      "description": "La Trattoria al Castello, fondata nel 1992, gode di una posizione panoramica sulla Salita delle Mura a pochi passi dal castello di Muggia. Il locale propone cucina italiana e specialità di pesce fresco, con un giardino fiorito che offre una location magica in primavera. Rinomata per la calorosa accoglienza e un servizio multilingue, è molto apprezzata anche su TripAdvisor dove vanta una valutazione media di 4.4 stelle.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "OSTERIA AL CORRIDOIO",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=OSTERIA%20AL%20CORRIDOIO%2C%20Muggia",
+      "image_url": null,
+      "description": "L'Osteria al Corridoio si trova in Via Dante Alighieri, nel centro storico di Muggia, e rappresenta un punto di riferimento locale per la cucina di pesce fresco e piatti mediterranei. L'offerta varia in base al pescato del giorno, includendo specialità come pasta gamberetti e tartufi, sardine fritte e muscoli ripieni. L'ambiente conviviale unisce abitanti, famiglie e turisti desiderosi di assaporare l'autenticità muggesana.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "ALLA TAPPA PIZZERIA TRATTORIA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=ALLA%20TAPPA%20PIZZERIA%20TRATTORIA%2C%20Muggia",
+      "image_url": null,
+      "description": "Alla Tappa, fondata nel 1988, è una pizzeria e trattoria storica situata in Via di Santa Barbara. Il locale offre un vastissimo menu con più di 50 pizze, compresi impasti senza glutine, oltre a piatti di carne, selvaggina, pesce e cucina friulana-istriana. I grandi spazi interni, il giardino pensile estivo e il parcheggio privato la rendono ideale per eventi e celebrazioni, mantenendo intatta la passione familiare nella gestione.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "TRATTORIA SPLENDOR",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=TRATTORIA%20SPLENDOR%2C%20Muggia",
+      "image_url": null,
+      "description": "La Trattoria Splendor, gestita dalla signora Laura, è un piccolo locale rustico in Via Dante Alighieri con circa 20 coperti. Con piatti di pesce e proposte mediterranee preparate ogni giorno, si distingue per la semplicità e la genuinità della cucina, i prezzi accessibili e un'atmosfera autentica. È molto apprezzata dai locali, ma si consiglia di prenotare vista la limitata disponibilità di posti.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "TRATTORIA ALLA MARINA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=TRATTORIA%20ALLA%20MARINA%2C%20Muggia",
+      "image_url": null,
+      "description": "Situata in Via Alessandro Manzoni con una terrazza affacciata sul mare, la Trattoria alla Marina offre cucina di pesce tipica della tradizione triestina, come spaghetti alle vongole e sardine panate. Gli interni conservano arredi tradizionali, mentre la terrazza crea un'atmosfera romantica e accogliente, ideale per gustare piatti freschi con vista panoramica.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "ANTICA TRATTORIA PRIMAVERA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=ANTICA%20TRATTORIA%20PRIMAVERA%2C%20Muggia",
+      "image_url": null,
+      "description": "L'Antica Trattoria Primavera, in Via Gabriele D'Annunzio, combina l'offerta di ristorante e steakhouse, con piatti tipici istriani, di pesce e carni cotte sotto campana. Il menù è ampio e variegato, molto apprezzato su TripAdvisor dove riceve una valutazione di 4.0 stelle. Gli ospiti ne lodano le porzioni abbondanti e la rapidità del servizio.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "TRATTORIA LA RISORTA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=TRATTORIA%20LA%20RISORTA%2C%20Muggia",
+      "image_url": null,
+      "description": "La Trattoria la Risorta, sulla Riva E. De Amicis, si distingue per la sua specializzazione in piatti di pesce tradizionali, ingrediente freschissimo e una location sul waterfront perfetta per cene romantiche. L'ambiente rinnovato è tranquillo e accogliente, e il locale è molto attivo sui social con aggiornamenti costanti sui piatti offerti.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "AL RISTORO MUGGIA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AL%20RISTORO%20MUGGIA%2C%20Muggia",
+      "image_url": null,
+      "description": "Situato nella località Lazzaretto, Al Ristoro Muggia propone una cucina equilibrata tra pesce e carne in un contesto costiero suggestivo. L'atmosfera è raccolta e la vista marina rende l'esperienza particolarmente rilassante e immersiva.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "LA BUSSOLA DI STEFANO'S KITCHEN",
+      "address": "Via Manzoni 5",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=LA%20BUSSOLA%20DI%20STEFANO'S%20KITCHEN%2C%20Via%20Manzoni%205",
+      "image_url": null,
+      "description": "La Bussola, guidata dallo Chef Stefano, si trova a due passi dal porto e vanta una lunga esperienza nella cucina di pesce triestina. Il locale offre una terrazza panoramica, piatti di pesce fresco, carni selezionate e dessert fatti in casa. È molto frequentato come testimoniano le centinaia di recensioni online e gode di buona fama per la genuinità e la freschezza delle sue portate.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "SAN ROCCO BEACH RESORT PIZZERIA RESTAURANT BAR",
+      "address": "Strada per Lazzaretto 2",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=SAN%20ROCCO%20BEACH%20RESORT%20PIZZERIA%20RESTAURANT%20BAR%2C%20Strada%20per%20Lazzaretto%202",
+      "image_url": null,
+      "description": "San Rocco Beach Resort, sulla Baia di Trieste, unisce ristorazione, pizzeria, spiaggia attrezzata e terrazza panoramica in una struttura storica fondata nel 1929. Il ristorante propone specialità di carne, pesce e pizze con farine biologiche, mentre l'ampia offerta lo rende meta ideale per chi abbina spiaggia e gastronomia durante tutto l'anno.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "RISTORANTE AZIENDA AGRICOLA SCHERIANI",
+      "address": "Via Darsella di S. Bartolomeo",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=RISTORANTE%20AZIENDA%20AGRICOLA%20SCHERIANI%2C%20Via%20Darsella%20di%20S.%20Bartolomeo",
+      "image_url": null,
+      "description": "L'Azienda Agricola Scheriani offre una cucina genuina di tradizione regionale, privilegiando carni alla griglia e piatti cotti lentamente in forno. Situato in posizione panoramica, il ristorante è noto per specialità come lo stinco al forno e per l'atmosfera tranquilla con viste spettacolari sulla costa. Accolto favorevolmente sia su Google che su TripAdvisor, si distingue anche per il parcheggio ampio gratuito.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "AGRITURISMO BOSCO FIORITO",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AGRITURISMO%20BOSCO%20FIORITO%2C%20Muggia",
+      "image_url": null,
+      "description": "Agriturismo Bosco Fiorito offre una vera esperienza di cucina friulana immersa nel verde, puntando sulla genuinità dei prodotti locali e delle ricette tradizionali. L'ambiente rustico e attrezzato consente di godere della cucina tipica in un contesto rurale rilassante.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "AI DUE LEONI",
+      "address": "Riva De Amicis 13/A",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=AI%20DUE%20LEONI%2C%20Riva%20De%20Amicis%2013%2FA",
+      "image_url": null,
+      "description": "Ai Due Leoni è una trattoria rustica affacciata direttamente sul porto, specializzata in pesce e cucina semplice valorizzata dalla cura del proprietario. Propone un ambiente informale con tavoli anche all'esterno, particolarmente piacevole per gruppi e per chi cerca sapori autentici in un contesto suggestivo.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "PIZZERIA AQUILA DI PROCENTESE GIULIA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=PIZZERIA%20AQUILA%20DI%20PROCENTESE%20GIULIA%2C%20Muggia",
+      "image_url": null,
+      "description": "Pizzeria Aquila di Procentese Giulia è nota a Muggia per la qualità eccellente delle sue pizze tradizionali, vantando ottime recensioni. Si rivolge a chi cerca un pasto veloce e gustoso, restando un punto di riferimento affidabile per gli amanti della pizza.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "PIZZERIA ALLA MAMOLA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=PIZZERIA%20ALLA%20MAMOLA%2C%20Muggia",
+      "image_url": null,
+      "description": "La Pizzeria Alla Mamola è celebre per le porzioni abbondanti e i prezzi accessibili, risultando una soluzione ideale per famiglie e gruppi di amici che desiderano una serata informale all'insegna della pizza.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "RISTORANTE PIZZERIA MARCONI",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=RISTORANTE%20PIZZERIA%20MARCONI%2C%20Muggia",
+      "image_url": null,
+      "description": "Ristorante Pizzeria Marconi occupa una posizione centrale nella piazza principale di Muggia e combina pizze cotte al forno con piatti di pesce misto. La location strategica lo rende una scelta popolare sia per i turisti che per chi desidera una cena conviviale nel cuore del paese.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "LA CAMBUSIERA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=LA%20CAMBUSIERA%2C%20Muggia",
+      "image_url": null,
+      "description": "La Cambusiera è una pizzeria rinomata per la qualità delle sue pizze e rappresenta una valida scelta per chi cerca un'esperienza di ristorazione informale e veloce a Muggia.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "IL BILATERALE",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=IL%20BILATERALE%2C%20Muggia",
+      "image_url": null,
+      "description": "Il Bilaterale si propone come l'eccellenza della pizza a Muggia, combinando ingredienti selezionati, tradizione e innovazione per offrire un'esperienza unica nel panorama delle pizzerie locali.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "PANE E PIZZA MUGGIA",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=PANE%20E%20PIZZA%20MUGGIA%2C%20Muggia",
+      "image_url": null,
+      "description": "Pane e Pizza Muggia offre non solo pizze tipiche ma anche prodotti da forno e dolci di qualità, diventando un punto di riferimento per chi desidera pane fresco, pasticceria e pizza in un'unica soluzione.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    },
+    {
+      "name": "ANTICO CAFFÈ MARCONI",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=ANTICO%20CAFF%C3%88%20MARCONI%2C%20Muggia",
+      "image_url": null,
+      "description": "L'Antico Caffè Marconi, situato nella piazza principale di Muggia, propone un'offerta informale di bevande e pasti leggeri. Per molti residenti e turisti rappresenta un punto di incontro e una tappa piacevole durante la visita al centro storico.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/muggia.md"
+    }
+  ]
+}

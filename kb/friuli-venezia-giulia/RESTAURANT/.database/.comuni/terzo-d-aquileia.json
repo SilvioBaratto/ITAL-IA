@@ -1,0 +1,19 @@
+{
+  "comune_name": "Terzo D Aquileia",
+  "province": null,
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/terzo-d-aquileia.md",
+  "extracted_at": "2026-04-09T11:20:43.262Z",
+  "pois": [
+    {
+      "name": "Agriturismo Zorat",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Zorat%2C%20Terzo%20D%20Aquileia",
+      "image_url": null,
+      "description": "Agriturismo Zorat rappresenta il fulcro della ristorazione a Terzo d'Aquileia, gestito dalla famiglia Zorat in un'atmosfera rurale autentica. Propone piatti tipici della tradizione contadina friulana con ingredienti di produzione o filiera locale, tra cui frico, salumi, zuppe di legumi e dolci casalinghi. I vini DOC Aquileia prodotti in loco accompagnano i pasti, offrendo un'esperienza genuina e legata al territorio. Il locale è apprezzato per la sua accoglienza familiare, l'onestà della cucina e la qualità costante, secondo numerose recensioni positive.",
+      "comune_name": "Terzo D Aquileia",
+      "province": null,
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/terzo-d-aquileia.md"
+    }
+  ]
+}

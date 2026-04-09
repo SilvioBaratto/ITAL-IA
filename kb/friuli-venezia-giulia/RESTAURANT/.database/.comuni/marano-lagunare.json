@@ -1,0 +1,107 @@
+{
+  "comune_name": "Marano Lagunare",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md",
+  "extracted_at": "2026-04-09T11:06:16.227Z",
+  "pois": [
+    {
+      "name": "Ristorante Ai Tre Canai",
+      "address": "Via Udine 36, 33050 Marano Lagunare (UD)",
+      "website_url": "https://www.ristoranteaitrecanai.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Ai%20Tre%20Canai%2C%20Via%20Udine%2036%2C%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Ristorante Ai Tre Canai è il punto di riferimento gastronomico di Marano Lagunare, capitanato dal pescatore-cuoco Giorgio Dal Forno. La cucina è incentrata sul pescato quotidiano della laguna, offrendo piatti come bisato in speo e boreto alla maranese, entrambi premiati e rappresentativi della tradizione locale. L'atmosfera è autentica e conviviale, con il cuoco che interagisce direttamente con gli ospiti. Fascia di prezzo medio-alta, prenotazione consigliata.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Trattoria Alla Nave",
+      "address": "Piazza Marii 9, 33050 Marano Lagunare (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Alla%20Nave%2C%20Piazza%20Marii%209%2C%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Alla Nave è una trattoria caratteristica posizionata sulla piazza principale di Marano Lagunare, rinomata per la sua cucina friulana e ospitalità genuina. Offre piatti di pesce fresco proveniente dal mercato ittico locale, come antipasti di pesce crudo e linguine al nero di seppia con bottarga. Il menu varia quotidianamente secondo il pescato, con un'atmosfera calorosa e prezzi moderati.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Alla Laguna – Vedova Raddi",
+      "address": "Piazzetta Garibaldi 1, 33050 Marano Lagunare (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Alla%20Laguna%20%E2%80%93%20Vedova%20Raddi%2C%20Piazzetta%20Garibaldi%201%2C%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Alla Laguna – Vedova Raddi è un'osteria-ristorante storica affacciata sul porto e di fronte al mercato ittico, garantendo freschezza assoluta. Specialità come moleche, spaghetti alle vongole e minestra di pesce di Marano celebrano la cucina lagunare. Locale premiato dalla Guida Michelin, mantiene ricette centenarie e un'atmosfera caratteristica, con una fascia di prezzo tra 33 e 70 euro.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Trattoria Barcaneta",
+      "address": "Piazza Marii 7, 33050 Marano Lagunare (UD)",
+      "website_url": "https://www.trattoriabarcaneta.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria%20Barcaneta%2C%20Piazza%20Marii%207%2C%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Trattoria Barcaneta propone una cucina stagionale e creativa, reinterpretando la tradizione friulana con raffinatezza contemporanea. Il menu varia ogni giorno secondo il pescato del mercato ittico, con piatti come spaghettino ai ricci di mare e ravioli con capesante e gamberi. L'ambiente è caratteristico, situato in una piazza medievale, con prezzi moderati-alti e una cucina curata.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Taverna al Pescatore",
+      "address": "Via San Vito 18, Marano Lagunare (UD)",
+      "website_url": "https://www.tavernaalpescatore.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Taverna%20al%20Pescatore%2C%20Via%20San%20Vito%2018%2C%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Taverna al Pescatore è un locale storico affacciato sulla laguna, gestito da una famiglia di lunga esperienza. Il menu ruota attorno al pesce fresco del giorno, cucinato secondo metodologie tradizionali e ricette friulane tramandate da generazioni. L'atmosfera è autentica e la fascia di prezzo moderata, ideale per chi cerca una ristorazione genuina e locale.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Osteria Porta del Mar",
+      "address": "Via Porto del Friuli 2, Marano Lagunare (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Porta%20del%20Mar%2C%20Via%20Porto%20del%20Friuli%202%2C%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Osteria Porta del Mar è una moderna osteria con un ambiente informale e curato, focalizzata sulla semplicità e la qualità del pesce fresco di laguna. Il fritto misto è la specialità principale, affiancata da sardine in saor e polpo in svariate preparazioni. Con un menu essenziale e prezzi accessibili, è ideale per chi cerca autenticità senza eccessi.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Osteria Ai Coloniali",
+      "address": "Via Sinodo 10, 33050 Marano Lagunare (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ai%20Coloniali%2C%20Via%20Sinodo%2010%2C%2033050%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Osteria Ai Coloniali è un locale storico sulla strada principale di Marano Lagunare, rappresentando la cucina casalinga e genuina della comunità. La cucina spazia dalla tradizione friulana a piatti di pesce locale acquistato direttamente al mercato ittico. L'ambiente è accogliente, frequentato da pescatori e visitatori, con fascia di prezzo moderata.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Osteria In Tressa",
+      "address": "Piazza Case Operaie 5, Marano Lagunare (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20In%20Tressa%2C%20Piazza%20Case%20Operaie%205%2C%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Osteria In Tressa è una piccola osteria casalinga che offre piatti della cucina tradizionale friulana e ricette centenarie del borgo. L'ambiente è intimo e informale, tipico della comunità di pescatori locale, con prenotazione consigliata per via dei posti limitati. La gestione familiare garantisce una ristorazione semplice ma di qualità.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    },
+    {
+      "name": "Agriturismo Ittico Al Vigneto",
+      "address": "Via Udine 10, Marano Lagunare (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Agriturismo%20Ittico%20Al%20Vigneto%2C%20Via%20Udine%2010%2C%20Marano%20Lagunare%20(UD)",
+      "image_url": null,
+      "description": "Agriturismo Ittico Al Vigneto propone una ristorazione incentrata sui prodotti locali della laguna, con menu prevalentemente a base di pesce. L'azienda è a conduzione familiare e alimentata principalmente dal pescato e dagli allevamenti propri, offrendo il modello più autentico di cucina \"a km 0\" friulana. Fascia di prezzo moderata.",
+      "comune_name": "Marano Lagunare",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/marano-lagunare.md"
+    }
+  ]
+}

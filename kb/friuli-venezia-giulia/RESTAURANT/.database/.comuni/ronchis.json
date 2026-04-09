@@ -1,0 +1,19 @@
+{
+  "comune_name": "Ronchis",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchis.md",
+  "extracted_at": "2026-04-09T11:16:10.116Z",
+  "pois": [
+    {
+      "name": "Il Biergarten",
+      "address": "Via della Levata 4, Ronchis (UD)",
+      "website_url": "http://www.ilbiergarten.com",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Biergarten%2C%20Via%20della%20Levata%204%2C%20Ronchis%20(UD)",
+      "image_url": null,
+      "description": "Il Biergarten è un ristorante-birreria all'aperto, caratterizzato da un giardino estivo e da una formula conviviale ispirata alla tradizione austro-germanica, tipica del Friuli di confine. Propone una selezione di birre artigianali e industriali, accompagnate da piatti che spaziano tra varie tradizioni gastronomiche. Il locale è particolarmente adatto a famiglie e gruppi, e si distingue per l'atmosfera informale e il suo sito web moderno.",
+      "comune_name": "Ronchis",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/ronchis.md"
+    }
+  ]
+}

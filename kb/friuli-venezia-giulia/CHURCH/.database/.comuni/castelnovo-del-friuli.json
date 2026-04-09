@@ -1,0 +1,41 @@
+{
+  "comune_name": "Castelnovo del Friuli",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castelnovo-del-friuli.md",
+  "extracted_at": "2026-04-09T10:21:34.315Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Nicolò Vescovo — loc. Vigna (Chiesa di Borc)",
+      "address": null,
+      "website_url": "http://www.comune.castelnovo-del-friuli.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Nicol%C3%B2%20Vescovo%20%E2%80%94%20loc.%20Vigna%20(Chiesa%20di%20Borc)%2C%20Castelnovo%20del%20Friuli",
+      "image_url": null,
+      "description": "La Chiesa di San Nicolò Vescovo, conosciuta anche come 'Chiesa di Borc', è il principale edificio di culto di Castelnovo del Friuli e un simbolo visivo del comune. Sorge sui resti di un castello medievale di cui la torre è stata trasformata in campanile. L'attuale edificio, progettato dall'architetto Girolamo D'Aronco e consacrato nel 1895, vanta importanti opere d'arte rinascimentale e barocca, tra cui una statua di Donato Casella e varie tele e altari storici. La chiesa rappresenta un notevole esempio di architettura eclettica dell'Ottocento friulano.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castelnovo-del-friuli.md"
+    },
+    {
+      "name": "Chiesa di San Carlo Borromeo — loc. Paludea",
+      "address": "via Centrale",
+      "website_url": "https://itinerariculturalifvg.it/le-colline-argillose-di-castelnovo-del-friuli/paludea/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Carlo%20Borromeo%20%E2%80%94%20loc.%20Paludea%2C%20via%20Centrale",
+      "image_url": null,
+      "description": "La Chiesa di San Carlo Borromeo, situata nella frazione di Paludea, ha origini antiche e fu ricostruita su progetto di Domenico Chiaradia e Giacomo Della Mea tra il 1934 e il 1960. L'edificio si caratterizza per uno stile eclettico con richiami romanico-lombardi, facciata a capanna e un interno a navata unica con cappelle laterali. La chiesa custodisce una preziosa statua rinascimentale di San Daniele e varie opere devozionali, testimoniando la vitalità religiosa e artistica della comunità locale.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castelnovo-del-friuli.md"
+    },
+    {
+      "name": "Chiesetta di San Daniele di Colle Monaco — loc. Celante",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesetta%20di%20San%20Daniele%20di%20Colle%20Monaco%20%E2%80%94%20loc.%20Celante%2C%20Castelnovo%20del%20Friuli",
+      "image_url": null,
+      "description": "Questa piccola cappella rurale si trova nella borgata di Celante ed è dedicata a San Daniele, patrono locale molto venerato nel Friuli occidentale. Non si conosce la data precisa di fondazione né sono documentate opere d'arte di rilievo al suo interno. La chiesetta testimonia l'antica e diffusa devozione popolare della Val Cosa e rappresenta un semplice ma significativo esempio di architettura religiosa campestre della zona.",
+      "comune_name": "Castelnovo del Friuli",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/castelnovo-del-friuli.md"
+    }
+  ]
+}

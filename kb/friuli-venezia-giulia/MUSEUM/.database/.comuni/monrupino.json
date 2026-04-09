@@ -1,0 +1,30 @@
+{
+  "comune_name": "Monrupino",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/monrupino.md",
+  "extracted_at": "2026-04-09T10:51:21.574Z",
+  "pois": [
+    {
+      "name": "Casa Carsica — *Kraška hiša* (Repen / Rupingrande)",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Carsica%20%E2%80%94%20*Kra%C5%A1ka%20hi%C5%A1a*%20(Repen%20%2F%20Rupingrande)%2C%20Monrupino",
+      "image_url": null,
+      "description": "La Kraška hiša di Repen è la principale attrazione culturale di Monrupino e rappresenta un'autentica casa contadina carsica, allestita come museo etnografico visitabile. La struttura conserva arredi, costumi, attrezzi agricoli e oggetti di devozione che illustrano la vita rurale e le tradizioni della comunità slovena locale tra il XVIII e il XX secolo. Il museo funge anche da centro di documentazione per eventi come le celebri Nozze Carsiche, offrendo così uno sguardo unico sulle pratiche e la cultura materiale del Carso triestino. L'accesso è possibile su prenotazione tramite il Comune di Monrupino.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/monrupino.md"
+    },
+    {
+      "name": "Rocca di Monrupino e Santuario di Santa Maria Assunta — *Tabor*",
+      "address": null,
+      "website_url": "https://www.diocesi.trieste.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Rocca%20di%20Monrupino%20e%20Santuario%20di%20Santa%20Maria%20Assunta%20%E2%80%94%20*Tabor*%2C%20Monrupino",
+      "image_url": null,
+      "description": "La Rocca di Monrupino, nota anche come Tabor, è un complesso storico-religioso di grande valore con strati di storia che vanno dalla protostoria all'epoca moderna. Il sito ospita il Santuario di Santa Maria Assunta, chiesa consacrata nel 1512 e più volte rimaneggiata, che custodisce pale d'altare, opere barocche e la suggestiva 'pietra della fertilità', legata a antichi culti locali. Il colle offre un panorama eccezionale sul Carso e, pur non essendo un museo tradizionale, costituisce un autentico patrimonio artistico, religioso e culturale del territorio.",
+      "comune_name": "Monrupino",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/monrupino.md"
+    }
+  ]
+}

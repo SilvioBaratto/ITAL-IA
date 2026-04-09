@@ -1,0 +1,30 @@
+{
+  "comune_name": "Dogna",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dogna.md",
+  "extracted_at": "2026-04-09T11:00:36.518Z",
+  "pois": [
+    {
+      "name": "Osteria Ai Ors",
+      "address": "Frazione Vidali 11, 33010 Dogna (UD)",
+      "website_url": "https://www.tripadvisor.com/Restaurant_Review-g11946464-d6115080-Reviews-Osteria_Ai_Ors-Dogna_Province_of_Udine_Friuli_Venezia_Giulia.html",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Ai%20Ors%2C%20Frazione%20Vidali%2011%2C%2033010%20Dogna%20(UD)",
+      "image_url": null,
+      "description": "Osteria Ai Ors è l'unica osteria di Dogna e rappresenta il cuore della ristorazione locale, nota per la cucina friulana tradizionale servita in un ambiente intimo e montano. Il locale è apprezzato per le porzioni generose, i prodotti freschi e le specialità tipiche come il frico con patate, le tagliatelle con selvaggina e il goulash con polenta. Con oltre 100 recensioni positive e una valutazione di 4,5 stelle, offre un'atmosfera accogliente e genuina. Il personale è conosciuto per la cortesia e la passione nel raccontare le ricette della tradizione.",
+      "comune_name": "Dogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dogna.md"
+    },
+    {
+      "name": "Malga Plan Dei Spadovai",
+      "address": "Località Plan dei Spadovai, 33010 Dogna (UD)",
+      "website_url": "https://www.turismofvg.it/en/farmhouses/malga-plan-dai-spadovai?LangSetCMS=en",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Malga%20Plan%20Dei%20Spadovai%2C%20Localit%C3%A0%20Plan%20dei%20Spadovai%2C%2033010%20Dogna%20(UD)",
+      "image_url": null,
+      "description": "Malga Plan Dei Spadovai è un agriturismo e rifugio montano immerso nella natura della Valle del Dogna, attivo durante il periodo di alpeggio. Offre un'esperienza autentica con cucina basata su prodotti freschi dell'azienda agricola, in particolare formaggi e latticini prodotti in loco, oltre a piatti tradizionali carnici e carni di qualità. L'ambiente è ideale per escursionisti e chi cerca la tradizione montana friulana. Dispone di camere per il pernottamento e una ristorazione semplice e genuina a prezzi economici.",
+      "comune_name": "Dogna",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/dogna.md"
+    }
+  ]
+}

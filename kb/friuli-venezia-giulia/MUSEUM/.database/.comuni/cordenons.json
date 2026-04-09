@@ -1,0 +1,52 @@
+{
+  "comune_name": "Cordenons",
+  "province": "PN",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordenons.md",
+  "extracted_at": "2026-04-09T10:45:59.253Z",
+  "pois": [
+    {
+      "name": "Centro Culturale \"Aldo Moro\" – Biblioteca Civica e Spazio Espositivo",
+      "address": "Via Crosera, 33084 Cordenons (PN)",
+      "website_url": "https://www.comune.cordenons.pn.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Culturale%20%22Aldo%20Moro%22%20%E2%80%93%20Biblioteca%20Civica%20e%20Spazio%20Espositivo%2C%20Via%20Crosera%2C%2033084%20Cordenons%20(PN)",
+      "image_url": null,
+      "description": "Il Centro Culturale \"Aldo Moro\" è il principale fulcro della vita culturale di Cordenons e ospita la Biblioteca Civica Comunale, un auditorium e spazi espositivi temporanei. Sebbene non sia un museo formale, qui si tengono mostre d’arte figurativa, esposizioni fotografiche e eventi storici dedicati alla memoria industriale locale. La biblioteca conserva importanti documenti e fotografie sulla storia e il dialetto del territorio, configurandosi come un punto di riferimento quasi museale per la comunità.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordenons.md"
+    },
+    {
+      "name": "Villa Badini Pasqualini – Patrimonio Architettonico e Storico",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Badini%20Pasqualini%20%E2%80%93%20Patrimonio%20Architettonico%20e%20Storico%2C%20Cordenons",
+      "image_url": null,
+      "description": "Villa Badini Pasqualini rappresenta il principale esempio di architettura civile nobiliare a Cordenons, risalente alla seconda metà del Seicento. Pur non essendo aperta come museo, la villa testimonia la presenza signorile del territorio e vanta un parco storico annesso. Essa è apprezzata per le sue soluzioni architettoniche di impronta palladiana adattate al contesto friulano e riveste un rilevante interesse culturale e paesaggistico.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordenons.md"
+    },
+    {
+      "name": "Villa Galvani – Memoria dell'Imprenditoria Locale",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa%20Galvani%20%E2%80%93%20Memoria%20dell'Imprenditoria%20Locale%2C%20Cordenons",
+      "image_url": null,
+      "description": "Villa Galvani fu la residenza di una delle più importanti famiglie imprenditoriali di Cordenons, legata allo sviluppo industriale locale. L’edificio si distingue anche per l’ampio parco, uno dei pochi spazi verdi storici nel centro. Pur non essendo accessibile come museo, la villa è significativa per la memoria storica dell’industrializzazione del territorio fra Ottocento e Novecento.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordenons.md"
+    },
+    {
+      "name": "Memoria delle Cartiere – Patrimonio Industriale Diffuso",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Memoria%20delle%20Cartiere%20%E2%80%93%20Patrimonio%20Industriale%20Diffuso%2C%20Cordenons",
+      "image_url": null,
+      "description": "Il patrimonio industriale delle cartiere costituisce un elemento fondamentale della storia di Cordenons, con origini nel XVII secolo e uno sviluppo massimo tra XIX e XX secolo. Anche se non esiste un museo formale dedicato alla produzione della carta, la memoria di questa industria è conservata attraverso ricerche storiche, esposizioni occasionali al Centro Culturale e la Biblioteca Civica, nonché pubblicazioni e iniziative locali.",
+      "comune_name": "Cordenons",
+      "province": "PN",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/cordenons.md"
+    }
+  ]
+}

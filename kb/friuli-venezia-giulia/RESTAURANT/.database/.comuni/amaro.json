@@ -1,0 +1,63 @@
+{
+  "comune_name": "Amaro",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/amaro.md",
+  "extracted_at": "2026-04-09T10:52:44.540Z",
+  "pois": [
+    {
+      "name": "Bar Ristorante AL Cison",
+      "address": "Via San Valentino 10, 33020 Amaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ristorante%20AL%20Cison%2C%20Via%20San%20Valentino%2010%2C%2033020%20Amaro%20(UD)",
+      "image_url": null,
+      "description": "Bar Ristorante AL Cison è un locale caratteristico di Amaro, immerso in una suggestiva area naturale vicino a un laghetto e popolato da fauna locale. La cucina valorizza le specialità carniche stagionali e i prodotti del territorio, offrendo piatti come trote di fiume, faraona con castagne e ragù di selvaggina con funghi o zucca. L'atmosfera è rilassante e informale, con prezzi accessibili e un'offerta che spazia dalla tradizione friulana alla cucina internazionale. È ideale per famiglie e gruppi in cerca di autenticità e qualità.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/amaro.md"
+    },
+    {
+      "name": "La Tavola di Carnia",
+      "address": "Via Valli di Carnia 2, 33020 Amaro (UD)",
+      "website_url": "https://www.latavoladicarnia.com/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tavola%20di%20Carnia%2C%20Via%20Valli%20di%20Carnia%202%2C%2033020%20Amaro%20(UD)",
+      "image_url": null,
+      "description": "La Tavola di Carnia è una realtà multifunzionale che comprende mensa self-service, ristorante raffinato (Tan Bon) e bar snack, situata in posizione strategica all'uscita del casello autostradale di Amaro. Offre una vasta scelta fra cucina tradizionale e contemporanea, con specialità di pesce il venerdì e una selezione di vini locali e nazionali. È apprezzata sia dai residenti che dai turisti, vantando una valutazione positiva su TripAdvisor e una gestione attenta alla qualità e alla varietà dell'offerta. Il locale si distingue per la flessibilità e la capacità di soddisfare diverse esigenze di clientela.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/amaro.md"
+    },
+    {
+      "name": "Albergo Ristorante al Gambero",
+      "address": "Via Nazionale 1, 33020 Amaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Albergo%20Ristorante%20al%20Gambero%2C%20Via%20Nazionale%201%2C%2033020%20Amaro%20(UD)",
+      "image_url": null,
+      "description": "L'Albergo Ristorante al Gambero è una struttura tradizionale situata nel centro di Amaro, che offre sia ospitalità alberghiera che ristorazione. Pur avendo poche informazioni pubbliche dettagliate, è noto per la sua storia consolidata e per essere incluso nelle principali directory locali. È una scelta adatta a chi desidera un punto di riferimento stabile per esplorare la Carnia e i suoi sapori.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/amaro.md"
+    },
+    {
+      "name": "Osteria al Fogolar",
+      "address": "Via Roma 60, 33020 Amaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Fogolar%2C%20Via%20Roma%2060%2C%2033020%20Amaro%20(UD)",
+      "image_url": null,
+      "description": "L'Osteria al Fogolar deve il suo nome al tradizionale camino carnico, il fogolar, che contribuisce a creare un'atmosfera autentica e accogliente, specialmente nei mesi invernali. La proposta culinaria è focalizzata sulla cucina carnica, con una selezione curata di salumi e formaggi locali che rispecchiano la tradizione della Carnia. Il locale è apprezzato per l'informalità e l'attenzione alla qualità degli ingredienti, rendendolo ideale per chi cerca un'esperienza genuina della cucina montana friulana.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/amaro.md"
+    },
+    {
+      "name": "Ristorante Bar Mensa Sermen",
+      "address": "Via Valli di Carnia 3, 33020 Amaro (UD)",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Bar%20Mensa%20Sermen%2C%20Via%20Valli%20di%20Carnia%203%2C%2033020%20Amaro%20(UD)",
+      "image_url": null,
+      "description": "Il Ristorante Bar Mensa Sermen offre una combinazione di servizi di mensa, ristorante e bar, rappresentando un punto di riferimento per la ristorazione quotidiana ad Amaro. Sebbene le informazioni dettagliate siano limitate, la sua presenza nelle directory ufficiali attesta la sua operatività locale. È indicato per chi cerca soluzioni rapide e pratiche per i pasti.",
+      "comune_name": "Amaro",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/RESTAURANT/.comuni/amaro.md"
+    }
+  ]
+}

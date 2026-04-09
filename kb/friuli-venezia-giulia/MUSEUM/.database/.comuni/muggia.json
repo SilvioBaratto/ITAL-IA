@@ -1,0 +1,63 @@
+{
+  "comune_name": "Muggia",
+  "province": "TS",
+  "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muggia.md",
+  "extracted_at": "2026-04-09T10:52:08.281Z",
+  "pois": [
+    {
+      "name": "Civico Museo Archeologico di Muggia",
+      "address": "Casa Veneta, centro storico di Muggia (via della Casa Veneta)",
+      "website_url": "https://muggiacultura.eu/cultura/luoghi/civico-museo-archeologico/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Civico%20Museo%20Archeologico%20di%20Muggia%2C%20Casa%20Veneta%2C%20centro%20storico%20di%20Muggia%20(via%20della%20Casa%20Veneta)",
+      "image_url": null,
+      "description": "Il Civico Museo Archeologico di Muggia, inaugurato nel 1997 e ospitato nella storica Casa Veneta, offre un affascinante percorso che attraversa 25 siti archeologici del territorio, con materiali datati dall'età del bronzo al medioevo. Il museo si sviluppa su tre livelli con un'esposizione cronologica e tematica, evidenziando reperti dalle necropoli locali, una stele mitraica di rara importanza e testimonianze di villaggi subacquei di epoca romana. L'istituzione è ideale per chi desidera scoprire la storia antica di Muggia in un contesto raccolto e ben documentato.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muggia.md"
+    },
+    {
+      "name": "Museo d'Arte Moderna \"Ugo Carà\"",
+      "address": "Via Roma, 9 — 34015 Muggia (TS)",
+      "website_url": "https://www.museougocara.eu/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo%20d'Arte%20Moderna%20%22Ugo%20Car%C3%A0%22%2C%20Via%20Roma%2C%209%20%E2%80%94%2034015%20Muggia%20(TS)",
+      "image_url": null,
+      "description": "Il Museo d'Arte Moderna \"Ugo Carà\" custodisce la principale collezione pubblica dedicata allo scultore e designer muggesano Ugo Carà, con opere che spaziano dalla ceramica alla scultura, dal design agli oggetti d'arte. Ospitato in un edificio contemporaneo progettato da Claudio Farina, si distingue per la qualità architettonica e per il dialogo con la storia e la tradizione navale locale. Il museo offre una collezione permanente arricchita da spazi per mostre temporanee e ha ospitato eventi con artisti di fama nazionale e internazionale.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muggia.md"
+    },
+    {
+      "name": "Sala Comunale d'Arte \"Giuseppe Negrisin\"",
+      "address": "Piazza Marconi, 1 — sotto i portici del Municipio — 34015 Muggia (TS)",
+      "website_url": "https://muggiacultura.eu/cultura/luoghi/sala-comunale-darte-giuseppe-negrisin/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Sala%20Comunale%20d'Arte%20%22Giuseppe%20Negrisin%22%2C%20Piazza%20Marconi%2C%201%20%E2%80%94%20sotto%20i%20portici%20del%20Municipio%20%E2%80%94%2034015%20Muggia%20(TS)",
+      "image_url": null,
+      "description": "La Sala Comunale d'Arte \"Giuseppe Negrisin\" si trova in una posizione centrale, sotto i portici del Municipio di Muggia, e rappresenta uno degli spazi espositivi più vivi della città. Intitolata al rinomato artista locale Giuseppe Negrisin, ospita ogni anno numerose mostre temporanee dedicate all'arte moderna, contemporanea e alla creatività del territorio, fungendo da punto di incontro per iniziative artistiche collettive e personali.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muggia.md"
+    },
+    {
+      "name": "Parco Archeologico di Muggia Vecchia (*Castrum Muglae*)",
+      "address": null,
+      "website_url": "https://muggiacultura.eu/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Parco%20Archeologico%20di%20Muggia%20Vecchia%20(*Castrum%20Muglae*)%2C%20Muggia",
+      "image_url": null,
+      "description": "Il Parco Archeologico di Muggia Vecchia si estende su una collina panoramica e conserva i resti di insediamenti dall'età del ferro al medioevo, inclusi reperti di castelliere, tracce romane e parti del borgo medievale. Al centro dell'area si trova la Basilica di Santa Maria Assunta, importante testimonianza dell'architettura romanica regionale e scrigno di sculture marmoree e affreschi antichi. Il sito è liberamente accessibile e offre un'affascinante immersione nella storia stratificata di Muggia.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muggia.md"
+    },
+    {
+      "name": "Castello di Muggia — Futuro Centro Culturale",
+      "address": "Calle Lauri, 8 — 34015 Muggia (TS)",
+      "website_url": "https://www.castellodimuggia.it/",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Castello%20di%20Muggia%20%E2%80%94%20Futuro%20Centro%20Culturale%2C%20Calle%20Lauri%2C%208%20%E2%80%94%2034015%20Muggia%20(TS)",
+      "image_url": null,
+      "description": "Il Castello di Muggia, costruzione fortificata del 1374, domina il centro urbano e il golfo con la sua torre centrale e le mura merlate ben conservate. Dopo un lungo periodo di residenza privata e iniziative artistiche, è in fase di trasformazione in centro culturale accessibile al pubblico con apertura prevista entro il 2026. Il complesso ospiterà visite guidate ed eventi, offrendo sia valore storico che nuove opportunità culturali per la cittadina.",
+      "comune_name": "Muggia",
+      "province": "TS",
+      "source_file": "kb/friuli-venezia-giulia/MUSEUM/.comuni/muggia.md"
+    }
+  ]
+}

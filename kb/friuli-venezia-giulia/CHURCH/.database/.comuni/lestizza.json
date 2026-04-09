@@ -1,0 +1,129 @@
+{
+  "comune_name": "Lestizza",
+  "province": "UD",
+  "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md",
+  "extracted_at": "2026-04-09T10:29:00.376Z",
+  "pois": [
+    {
+      "name": "Chiesa di San Giacomo — Lestizza (capoluogo)",
+      "address": "Piazza San Biagio, Lestizza",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Giacomo%20%E2%80%94%20Lestizza%20(capoluogo)%2C%20Piazza%20San%20Biagio%2C%20Lestizza",
+      "image_url": null,
+      "description": "La chiesa di San Giacomo, situata nel cuore del borgo di Lestizza, rappresenta un esempio del barocco veneziano del XVII secolo con successivi rifacimenti. Recentemente restaurata, ospita preziosi altari lignei seicenteschi e un altare maggiore decorato da una pala di G. Pietro Coda. Il culto di San Giacomo, protettore dei pellegrini, è testimoniato dall'iconografia e dagli arredi interni.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Biagio Vescovo e Martire — Lestizza (capoluogo)",
+      "address": "Via della Chiesa 13, 33050 Lestizza UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Biagio%20Vescovo%20e%20Martire%20%E2%80%94%20Lestizza%20(capoluogo)%2C%20Via%20della%20Chiesa%2013%2C%2033050%20Lestizza%20UD",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Biagio è il fulcro religioso del capoluogo di Lestizza, ricostruita in stile barocco e neoclassico nel XVIII secolo all'interno di un'antica cortina medievale. All'interno si trovano raffinati altari marmorei realizzati dai fratelli Mattiussi, esemplari della scultura udinese del Settecento. Il luogo continua a essere centro delle principali festività civili e religiose del comune.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo — Galleriano",
+      "address": "Piazza San Martino 4, 33050 Lestizza (Galleriano) UD",
+      "website_url": "http://www.prolocogalleriano.it",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%20%E2%80%94%20Galleriano%2C%20Piazza%20San%20Martino%204%2C%2033050%20Lestizza%20(Galleriano)%20UD",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di San Martino Vescovo, monumento principale di Galleriano, riflette una lunga stratificazione artistica dal Medioevo al XX secolo. Caratteristici sono il campanile con angelo girevole, l'altare maggiore barocco di Francesco Fosconi e le statue di Luca Paleari. L'edificio conserva anche affreschi ottocenteschi e la copia fotografica di un trittico rinascimentale ora esposto al Museo Diocesano di Udine.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Campestre di San Giovanni Evangelista — Galleriano",
+      "address": "via San Giovanni, Galleriano",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Campestre%20di%20San%20Giovanni%20Evangelista%20%E2%80%94%20Galleriano%2C%20via%20San%20Giovanni%2C%20Galleriano",
+      "image_url": null,
+      "description": "Questa piccola chiesa campestre del XIV secolo sorge ai margini di Galleriano e rappresenta uno degli edifici sacri più antichi del territorio. Restaurata più volte nel Novecento, mantiene la tipica semplicità delle cappelle rurali friulane. Il piccolo parco retrostante, curato dai volontari, funge da spazio per manifestazioni religiose e ricreative, conferendo al luogo un'atmosfera suggestiva integrata nel paesaggio.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Martino Vescovo — Nespoledo",
+      "address": "Via Vittorio Veneto 36, 33050 Lestizza (Nespoledo) UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Martino%20Vescovo%20%E2%80%94%20Nespoledo%2C%20Via%20Vittorio%20Veneto%2036%2C%2033050%20Lestizza%20(Nespoledo)%20UD",
+      "image_url": null,
+      "description": "La chiesa parrocchiale di Nespoledo, dedicata a San Martino di Tours, risale nei suoi rifacimenti tra XVII e XVIII secolo su un impianto più antico. È circondata da resti di cortina difensiva medievale e testimonia la funzione protettiva delle chiese nel periodo delle incursioni turche. La presenza nelle vicinanze di una cappella campestre e di una cappella gentilizia arricchisce il patrimonio religioso locale.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Campestre di Sant'Antonio Abate — Nespoledo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Campestre%20di%20Sant'Antonio%20Abate%20%E2%80%94%20Nespoledo%2C%20Lestizza",
+      "image_url": null,
+      "description": "Questo oratorio rurale, dedicato a sant'Antonio Abate, si trova in aperta campagna tra Nespoledo e le frazioni limitrofe. Si tratta di un piccolo edificio ad aula unica, tipico delle cappelle votive friulane, dove la benedizione degli animali era tradizionalmente molto sentita dalla comunità agricola locale, specialmente il 17 gennaio, festa del santo.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Cappella Gentilizia \"Tosonorum\" — Nespoledo",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Gentilizia%20%22Tosonorum%22%20%E2%80%94%20Nespoledo%2C%20Lestizza",
+      "image_url": null,
+      "description": "La cappella gentilizia Tosonorum è una testimonianza di architettura sacra privata, probabilmente costruita dalla famiglia Toson o Tosoni tra XVII e XVIII secolo. Situata a Nespoledo, riflette la tradizione friulana delle cappelle padronali, segno di devozione familiare e di prestigio sociale nell'ambiente rurale veneziano.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di Santa Maria — Santa Maria di Sclaunicco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20Santa%20Maria%20%E2%80%94%20Santa%20Maria%20di%20Sclaunicco%2C%20Lestizza",
+      "image_url": null,
+      "description": "La parrocchiale di Santa Maria di Sclaunicco, documentata sin dal 1255, è dedicata alla Vergine Maria. L'attuale edificio, frutto di ampliamenti tra XVII e XVIII secolo, occupa una posizione centrale nel borgo. La presenza di una cappella votiva nelle vicinanze testimonia la vitalità del culto mariano e la tradizione di devozione popolare del territorio.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Cappella Votiva — Santa Maria di Sclaunicco",
+      "address": null,
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Cappella%20Votiva%20%E2%80%94%20Santa%20Maria%20di%20Sclaunicco%2C%20Lestizza",
+      "image_url": null,
+      "description": "Questa piccola cappella votiva, tipica della devozione popolare friulana, si trova nell'abitato di Santa Maria di Sclaunicco. Destinata a ex voto o protezione, riflette la tendenza a integrare elementi religiosi diffusi all'interno del paesaggio agrario, sottolineando il carattere sacro della frazione stessa.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Michele Arcangelo — Sclaunicco",
+      "address": "Via S. Giovanni Bosco 9, 33050 Lestizza (Sclaunicco) UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Michele%20Arcangelo%20%E2%80%94%20Sclaunicco%2C%20Via%20S.%20Giovanni%20Bosco%209%2C%2033050%20Lestizza%20(Sclaunicco)%20UD",
+      "image_url": null,
+      "description": "La parrocchiale di San Michele Arcangelo, ricostruita nel XVIII secolo su impianti precedenti, sorge nel borgo di Sclaunicco, noto per antichi ritrovamenti archeologici. L'edificio presenta caratteristiche barocche e neoclassiche, con navata unica e campanile quadrato, e rappresenta il centro della vita spirituale locale.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    },
+    {
+      "name": "Chiesa Parrocchiale di San Giusto Martire — Villacaccia",
+      "address": "Fraz.ne Villacaccia, 33050 Lestizza UD",
+      "website_url": null,
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiesa%20Parrocchiale%20di%20San%20Giusto%20Martire%20%E2%80%94%20Villacaccia%2C%20Fraz.ne%20Villacaccia%2C%2033050%20Lestizza%20UD",
+      "image_url": null,
+      "description": "La parrocchiale di Villacaccia, dedicata a San Giusto martire, è il principale edificio religioso della frazione più antica del comune. Realizzata tra XVII e XVIII secolo in stile barocco e neoclassico, la sua dedicazione testimonia antichi legami devozionali con Trieste. La chiesa, situata in un borgo storicamente significativo, rimane punto di riferimento per la vita comunitaria.",
+      "comune_name": "Lestizza",
+      "province": "UD",
+      "source_file": "kb/friuli-venezia-giulia/CHURCH/.comuni/lestizza.md"
+    }
+  ]
+}
