@@ -1,6 +1,167 @@
 # Chiese e Luoghi di Culto — Friuli Venezia Giulia
 
-Guida completa per comune. Generata il 10/04/2026.
+Guida completa per comune. Generata il 15/05/2026.
+
+---
+
+## Aiello del Friuli
+
+Aiello del Friuli (_Dael_ in friulano) è un piccolo comune della bassa pianura friulana, situato a circa 30 km da Udine, in provincia di Udine, nell'arcidiocesi di Gorizia. Nonostante le dimensioni contenute — poco più di 2.000 abitanti — il territorio comunale, che comprende la frazione di Joannis (_Uanis_) e le località di Novacco e Uttano, custodisce un patrimonio di architettura sacra di notevole interesse storico e artistico. Le radici cristiane del luogo affondano nel Medioevo: il nome stesso del paese potrebbe derivare dal latino _sacellum_ («piccolo luogo sacro»), a testimonianza di una vocazione religiosa che risale almeno al tempo della fondazione di Aquileia (181 a.C.) e agli insediamenti romani che ne seguirono.
+
+L'appartenenza all'arcidiocesi di Gorizia — anziché a quella di Udine — riflette la lunga stagione asburgica che caratterizzò questi territori dal 1516 al 1918, quando il paese faceva parte della Contea Principesca di Gorizia e Gradisca. Questa eredità si legge chiaramente nell'architettura ecclesiastica locale: le chiese parrocchiali seicentesche e settecentesche, con le loro facciate a lesene, le cupole affrescate e gli altari in marmo di Carrara, rivelano la cifra stilistica del barocco mitteleuropeo che filtrò in questa pianura attraverso i canali della committenza nobiliare austriaca. Accanto alle grandi parrocchiali sopravvivono cappelle campestri, un complesso conventuale domenicano e i resti dell'antica pieve medievale, costruendo un paesaggio devozionale stratificato e ancora ben leggibile.
+
+---
+
+### Chiesa Parrocchiale di Sant'Ulderico Vescovo
+
+**Comune:** Aiello del Friuli (capoluogo)  
+**Indirizzo:** Via Guglielmo Marconi  
+**Coordinate:** 45°52′20.69″N 13°21′50.58″E  
+**Stile architettonico:** Barocco  
+**Epoca di costruzione:** 1683–1691 (consacrazione 1742)  
+**Arcidiocesi:** Gorizia — Decanato di Visco
+
+La chiesa di Sant'Ulderico Vescovo è la parrocchiale del capoluogo di Aiello del Friuli e costituisce il monumento religioso più importante del comune. La storia della devozione al luogo è però ben più antica dell'edificio attuale: una primitiva chiesa sorse ad Aiello già nel **XII secolo**, e di essa sopravvive ancora l'abside, oggi dedicata a San Nicolò e inglobata nel Parco della Rimembranza al centro del paese (si veda la voce dedicata più avanti).
+
+L'edificio attuale fu costruito tra il **1683 e il 1691** per volontà congiunta del principe Giovanni Cristiano di Eggenberg con la consorte Ernestine, del pievano Giobatta Michilini e del conte Ulderico della Torre. La committenza aristocratica asburgica è evidente nell'ambizione architettonica del progetto: la facciata è decorata da **lesene** e articolata da quattro nicchie che ospitano altrettante statue dei santi. Il **campanile** fu aggiunto nel 1699; la sagrestia nel 1753. La chiesa fu solennemente consacrata il 10 giugno **1742** dal vescovo di Pedena, Bonifacio Giuseppe Cecotti.
+
+Tra il **1877 e il 1878** fu realizzato l'attuale pavimento in **pietra carsolina bianca e nera**, elegante alternanza cromatica che accompagna il visitatore fin sotto la cupola. Quest'ultima rappresenta il vero capolavoro dell'interno: **affrescata nel 1900** dal pittore goriziano **Clemente Delneri**, offre una composizione scenografica di grande impatto visivo, che gioca con le prospettive illusionistiche tipiche della tradizione barocca tarda.
+
+Sul **altare laterale dedicato a Sant'Antonio abate** si conserva la pala raffigurante *Sant'Antonio Abate con santi*, opera del pittore **Pietro Bainville**. Dello stesso autore è la tela sull'altare della Consolazione, raffigurante la *Madonna della Cintura*, altra testimonianza di quella pittura sacra di gusto neoclassico-romantico diffusa nel Friuli orientale a cavallo tra Sette e Ottocento.
+
+La chiesa fu interamente ristrutturata alla fine del XX secolo, conservando intatta la leggibilità storica dell'impianto.
+
+**Sito di riferimento:** [Chiese delle diocesi italiane – CEI](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78544/)
+
+---
+
+### Chiesa Parrocchiale di Sant'Agnese Vergine e Martire
+
+**Comune:** Joannis, frazione di Aiello del Friuli  
+**Coordinate:** 45°52′32.72″N 13°20′44.03″E  
+**Stile architettonico:** Barocco, Neoclassico  
+**Epoca di costruzione:** 1742–1749 (consacrazione 1822)  
+**Arcidiocesi:** Gorizia — Decanato di Visco
+
+La parrocchiale di Joannis è dedicata a **Sant'Agnese Vergine e Martire**, patrona della frazione, la cui festa è celebrata ogni anno nella domenica successiva al 21 gennaio. La storia dell'edificio di culto in questa località risale almeno alla prima metà del XVII secolo: nel **1651** fu inoltrata la richiesta di costruire una nuova chiesa al centro del borgo (la primitiva sorgeva nell'antica _centa_ esterna al paese), il permesso fu accordato e la prima pietra posta il **26 giugno 1652**, con il completamento dell'edificio nel 1653.
+
+L'attuale parrocchiale fu però eretta in forme ben più ambiziose su iniziativa del pievano di Visco Giovanni Ottavio de Gorizzutti e del cappellano Giacomo Comelli, tra il **1742 e il 1749**. Il campanile fu avviato anch'esso nel 1742 ma completato soltanto nel **1778**; nel 1905 se ne rese necessaria la parziale ricostruzione per ragioni statiche. La chiesa fu consacrata dall'arcivescovo di Gorizia e Gradisca **Joseph Walland** il 29 settembre **1822**. L'edificio subì un restauro nel XX secolo e un secondo intervento tra il **2011 e il 2012**.
+
+L'interno conserva un patrimonio artistico di prim'ordine per un paese di queste dimensioni:
+
+- **Fonte battesimale del 1575**, superstite dell'edificio precedente e testimonianza preziosa della continuità liturgica del luogo.
+- **Altare maggiore in marmo di Carrara**, arricchito da statue dei Santi Sebastiano e Rocco, opere di raffinata scultura settecentesca.
+- **Dipinto dell'Ascensione**, risalente al **XVI secolo**, tra le opere più antiche conservate nel comune.
+- **Dipinto dell'Immacolata** (1856), opera di **Luigi Pletti**.
+- **Martirio di Sant'Agnese** (1736), dipinto di autore ignoto, di notevole qualità pittorica.
+- **Organo ottocentesco**, strumento di pregio che testimonia la ricca vita musicale sacra di questa comunità.
+
+**Sito di riferimento:** [BeWeB – Beni Ecclesiastici in Web](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78543/)
+
+---
+
+### Complesso Conventuale di San Domenico
+
+**Comune:** Aiello del Friuli (capoluogo), borgata dei Frati  
+**Stile architettonico:** Barocco  
+**Epoca di costruzione:** Chiesa iniziata nel 1716  
+**Ordine religioso:** Domenicani (oggi uso abitativo)
+
+Il complesso conventuale di San Domenico rappresenta la testimonianza più rilevante della presenza degli ordini mendicanti nel territorio di Aiello del Friuli. L'insieme si articola in tre elementi distinti: la **chiesa**, il **campanile** e il **corpo del convento**. La chiesa fu iniziata nel **1716**, in piena stagione barocca, e ne recepisce il gusto per gli spazi luminosi e la decorazione controllata.
+
+Dopo la soppressione degli ordini religiosi in epoca napoleonica e poi asburgica, il convento fu gradualmente dismesso dalla sua funzione originaria e convertito a **uso abitativo**, destino comune a molti complessi conventuali della pianura friulana. La chiesa, tuttavia, conserva la sua identità architettonica originaria e rimane un punto di riferimento devozionale per il paese: ancora oggi, nella borgata dei Frati ad agosto, si tiene annualmente la **Festa di San Domenico**, che mantiene viva la memoria della presenza domenicana nel territorio.
+
+Il campanile si affianca alla chiesa come elemento verticale che segna il paesaggio del centro abitato, dialogando con la torre parrocchiale di Sant'Ulderico.
+
+---
+
+### Abside di San Nicolò e Parco della Rimembranza (Antica Pieve di Aiello)
+
+**Comune:** Aiello del Friuli (capoluogo), Parco della Rimembranza  
+**Stile architettonico:** Romanico (XII secolo)  
+**Tipologia:** Rudere di pieve, cappella votiva
+
+Al centro del Parco della Rimembranza — il memoriale comunale dedicato ai caduti di tutte le guerre — si conserva uno dei frammenti architettonici più antichi del comune: l'**abside della primitiva chiesa di Aiello**, risalente al **XII secolo**. Questo è tutto ciò che resta della prima grande chiesa parrocchiale del paese, che sorgeva in questa posizione prima che l'attuale parrocchiale di Sant'Ulderico fosse eretta alla fine del Seicento.
+
+L'abside, dedicata a **San Nicolò**, costituisce una cappella autonoma all'interno del parco pubblico e rappresenta un raro esempio di architettura romanica sopravvissuto nella pianura friulana orientale, zona che ha subìto nei secoli distruzioni belliche, inondazioni e ristrutturazioni continue. La sua posizione al centro del parco-memoriale le conferisce un doppio valore: storico-architettonico e civico-devozionale, poiché è il luogo in cui la comunità di Aiello ricorda insieme i propri caduti e le proprie radici cristiane medievali.
+
+---
+
+### Cappella della Madonna di Colloredo
+
+**Comune:** Aiello del Friuli (capoluogo)  
+**Tipologia:** Cappella votiva campestre  
+**Stile architettonico:** Tradizione popolare friulana
+
+La **Cappella della Madonna di Colloredo** è una delle cappelle votive di maggiore pregio storico e artistico del comune di Aiello del Friuli. La veduta della cappella — immersa nella campagna friulana, con la sua tipica architettura a edicola — è talmente rappresentativa del paesaggio locale da essere stata scelta come immagine principale del profilo fotografico del comune. La devozione mariana connessa a questa piccola cappella affonda le radici nella pietà popolare friulana, che ha sempre costellato il territorio di piccoli luoghi sacri campestri, punti di riferimento spirituale per i contadini durante il lavoro nei campi.
+
+Le cappelle votive — dette localmente _ancone_ o _mâdonètes_ — sono una caratteristica peculiare del paesaggio della bassa friulana: costruite spesso in corrispondenza di incroci stradali, confini di proprietà o luoghi ritenuti sacri per eventi straordinari, esse costituiscono una rete di devozione minuta ma capillare che intreccia storia religiosa e memoria collettiva. La cappella della Madonna di Colloredo ne è uno degli esempi più significativi a livello comunale.
+
+---
+
+### Cappella del Crist (Cappella dal Crist)
+
+**Comune:** Aiello del Friuli (capoluogo)  
+**Tipologia:** Cappella votiva  
+**Stile architettonico:** Tradizione popolare friulana
+
+La **Cappella dal Crist** (in friulano: cappella del Cristo) è una delle cappelle votive di particolare pregio storico situate all'interno dell'abitato di Aiello del Friuli. Come tutte le edicole votive del territorio, rappresenta un presidio della devozione popolare che ha accompagnato la vita quotidiana degli aiellesi attraverso i secoli. Il nome friulano — _dal Crist_ — indica con ogni probabilità la presenza di un crocifisso o di una rappresentazione della Passione di Cristo, tipologia iconografica molto diffusa nelle cappelle rurali del Friuli.
+
+Queste piccole architetture, benché modeste nelle dimensioni, possiedono spesso una storia locale molto radicata: venivano erette da famiglie o dalla comunità intera in voto dopo calamità naturali, epidemie o eventi bellici, oppure per segnare i confini spirituali del villaggio. La loro conservazione è affidata alla cura della comunità locale.
+
+---
+
+### Cappella di Santa Lucia nella Centa di Joannis
+
+**Comune:** Joannis, frazione di Aiello del Friuli  
+**Tipologia:** Cappella affrescata, parte del complesso della Centa  
+**Stile architettonico:** Tradizione medievale/rinascimentale friulana
+
+All'interno del complesso della **Centa** di Joannis — l'antico nucleo rurale che costituiva il primo insediamento del paese, circondato da edifici in pietra medievali come la _Canipa_ (magazzino per derrate) e la _Casa del Curato_ — si trova una **cappella affrescata dedicata a Santa Lucia**. Questo piccolo oratorio custodisce una tradizione devozionale di grande interesse etnografico: al suo interno, fino in epoca recente, sgorgava una **sorgiva d'acqua** che i fedeli ritenevano miracolosa, utilizzata tradizionalmente per lavare gli occhi nella credenza di ottenere guarigioni dalla vista malata, in accordo con l'iconografia tradizionale della santa martire siracusana patrona dei non vedenti.
+
+Ancora oggi, il **13 dicembre**, giorno della festa di Santa Lucia, nella Centa viene celebrata la Messa aperta a tutta la popolazione, mantenendo viva una tradizione secolare. La cappella è visitabile in primavera e in autunno nell'ambito dell'iniziativa regionale _Castelli Aperti_, oppure su prenotazione per gruppi.
+
+Il complesso della Centa riveste anche un'importanza archeologica: negli scavi del 2006 sono emerse le prime 13 tombe di una necropoli altomedievale (IX–X secolo), probabilmente di popolazione slava insediata nell'area.
+
+---
+
+### Resti della Chiesa di Sant'Agnese in Centa (Joannis)
+
+**Comune:** Joannis, frazione di Aiello del Friuli, area del vecchio cimitero  
+**Tipologia:** Rudere di chiesa medievale  
+**Epoca:** Medioevo (prima della chiesa eretta nel 1652–1653)
+
+Nell'area dell'antico cimitero di Joannis — in uso fino al 1904, quando fu abbandonato in favore del nuovo sito all'opposto dell'abitato — sopravvivono i resti della **primitiva chiesa di Sant'Agnese in Centa**, la più antica chiesa della frazione, che precedette gli edifici del 1652–1653 e del 1742–1749. L'edificio fu volontariamente **demolito nel 1906** per decisione dell'allora amministrazione comunale, ma il perimetro murario e alcuni elementi strutturali rimangono visibili nell'area del vecchio cimitero, insieme alle tombe della famiglia Strassoldo, antica casata nobile legata al territorio.
+
+La documentazione storica di questo edificio è affidata principalmente all'opuscolo *La villa di Ioannis* di Augusto Geat, pubblicato negli *Studi Goriziani* nel 1975, che ne descrive diffusamente le caratteristiche architettoniche. I resti, insieme all'antico cimitero, costituiscono una delle testimonianze più toccanti della stratificazione storica di Joannis.
+
+---
+
+### Cappelle e Ancone Votive nel Territorio Comunale
+
+**Comune:** Aiello del Friuli, territorio rurale  
+**Tipologia:** Edicole votive, ancone, cappelle campestri  
+**Stile architettonico:** Tradizione popolare friulana
+
+Il territorio di Aiello del Friuli è punteggiato da numerose **cappelle e ancone votive** distribuite tanto all'interno degli abitati quanto nella campagna aperta, lungo i confini dei campi, agli incroci stradali e presso le rive dei corsi d'acqua. Questa rete di architettura devozionale minuta è uno dei tratti più caratteristici della bassa friulana orientale e risponde a una secolare tradizione di pietà popolare che integrava la vita spirituale istituzionale con la religiosità quotidiana del mondo contadino.
+
+Le _ancone_ (dal latino _icona_) sono edicole murali spesso dipinte o scolpite, incassate nelle pareti delle case o dei fienili; le cappelle campestri sono invece edifici autonomi, talvolta dotati di piccola abside e campaniletto. Ad Aiello, tra quelle di «particolare pregio storico e artistico» segnalate dalla storiografia locale, spiccano — oltre alla cappella della Madonna di Colloredo e alla Cappella dal Crist — diverse edicole nei campi della frazione di Novacco e lungo le rogge che attraversano il territorio comunale.
+
+La loro presenza capillare conferisce al paesaggio di Aiello del Friuli quella dimensione di _territorio sacralizzato_ tipica delle comunità rurali friulane, dove il confine tra spazio profano e spazio spirituale era tradizionalmente molto labile.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia, voce *Aiello del Friuli*: [https://it.wikipedia.org/wiki/Aiello_del_Friuli](https://it.wikipedia.org/wiki/Aiello_del_Friuli)
+- Wikipedia, voce *Chiesa di Sant'Ulderico (Aiello del Friuli)*: [https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Ulderico_(Aiello_del_Friuli)](https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Ulderico_(Aiello_del_Friuli))
+- Wikipedia, voce *Chiesa di Sant'Agnese (Aiello del Friuli)*: [https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agnese_(Aiello_del_Friuli)](https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agnese_(Aiello_del_Friuli))
+- Wikipedia, voce *Joannis*: [https://it.wikipedia.org/wiki/Joannis](https://it.wikipedia.org/wiki/Joannis)
+- BeWeB – Beni Ecclesiastici in Web (CEI), scheda Chiesa di Sant'Ulderico: [https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78544/](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78544/)
+- BeWeB – Beni Ecclesiastici in Web (CEI), scheda Chiesa di Sant'Agnese: [https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78543/](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78543/)
+- Augusto Geat, *La villa di Ioannis*, in *Studi Goriziani*, 1975
+- Sito del Comune di Aiello del Friuli: [http://www.comune.aiellodelfriuli.ud.it](http://www.comune.aiellodelfriuli.ud.it)
+- Viaggiare in Friuli Venezia Giulia – scheda Chiesa di Sant'Agnese: [http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?aiello-chiesa-agnese](http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?aiello-chiesa-agnese)
 
 ---
 
@@ -2574,6 +2735,105 @@ La **cappella dedicata a Padre Massimiliano Kolbe** fu realizzata nel 1984 per s
 - Fondazione Friuli — Parrocchia di Santa Maria della Purificazione: [https://fondazionefriuli.it/cosa-facciamo/progetti/parrocchia-di-santa-maria-della-purificazione/](https://fondazionefriuli.it/cosa-facciamo/progetti/parrocchia-di-santa-maria-della-purificazione/)
 - Comune di Campoformido — Chiese: [http://www.comune.campoformido.ud.it/index.php?id=33597](http://www.comune.campoformido.ud.it/index.php?id=33597)
 - Viaggio in Friuli Venezia Giulia — Campoformido: [http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?id=10820,0,0,1,0,0](http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?id=10820,0,0,1,0,0)
+
+---
+
+## Campolongo Tapogliano
+
+Piccolo comune della Bassa Friulana nato nel 2009 dalla fusione dei preesistenti comuni di Campolongo al Torre e Tapogliano, Campolongo Tapogliano si estende per circa 11 km² a breve distanza dal confine con la provincia di Gorizia. Il territorio comprende quattro centri abitati — Campolongo al Torre (sede comunale), Tapogliano, Cavenzano e San Leonardo — e conta poco più di 1.100 abitanti. Nonostante le ridotte dimensioni, il comune custodisce un patrimonio sacro coerente e significativo: quattro edifici di culto cattolico, tutti appartenenti all'**Arcidiocesi di Gorizia** e al **Decanato di Visco**, che rispecchiano i caratteri tipici dell'architettura religiosa rurale friulana di età moderna. Si tratta di fabbricati settecenteschi eretti su luoghi di devozione medievali, nei quali si stratificano lasciti artistici, rifacimenti barocchi e restauri ottocenteschi, inseriti in un paesaggio agrario di pianura che il Torre e i canali di bonifica continuano a plasmare.
+
+---
+
+### Chiesa Parrocchiale di San Giorgio Martire — Campolongo al Torre
+
+**Indirizzo:** Piazza Indipendenza, Campolongo al Torre
+**Coordinate:** 45°51′50″N, 13°23′42″E
+**Stile:** Barocco rurale friulano
+**Costruzione:** 1696–1734; consacrata il 28 aprile 1736
+**Arcidiocesi:** Gorizia — Decanato di Visco
+
+La prima attestazione documentale di una chiesa a Campolongo al Torre risale al **1362**, collocandosi pienamente nella tradizione delle *pievi* e degli oratori rurali che nel Medioevo strutturavano la vita religiosa della pianura friulana sotto l'egida del Patriarcato di Aquileia. Sul medesimo sito sorse nei secoli successivi un edificio che, giunto a declino strutturale alla fine del Seicento, fu demolito nel **1696** per lasciare posto all'attuale parrocchiale. I lavori partirono dalla costruzione del presbiterio ma subirono una lunga interruzione, riprendendo soltanto nel **1715** per concludersi nel **1734**.
+
+La cerimonia di consacrazione fu officiata il **28 aprile 1736** dal patriarca di Aquileia **Daniele Dolfin** (1688–1762), figura di primo piano nel panorama ecclesiastico del Nordest italiano in età settecentesca. Tra il **1755 e il 1770** fu innalzato il campanile; nel **1800** la sacrestia fu ricostruita, e nel **1865** il soffitto della navata ricevette una decorazione ad affresco.
+
+La **facciata a capanna**, rivolta a sud-est e intonacata, è tripartita da quattro **lesene tuscaniche** sorreggenti un **timpano triangolare**; ai lati del portale principale — sovrastato da una finestra rettangolare — si aprono quattro nicchie destinate ad accogliere statue di santi. La composizione riecheggia lo schema della facciata parrocchiale settecentesca diffuso nell'area veneto-friulana, sobria e funzionale senza rinunciare a una certa solennità di impianto.
+
+L'interno si sviluppa su un'**unica navata** e conserva due opere pittoriche di rilievo:
+
+- un **dipinto su tela del 1633** attribuito a **Gasparo Cordobense**, di soggetto devozionale, testimonianza della cultura figurativa della Controriforma nel Friuli veneto;
+- una **pala d'altare raffigurante san Luigi Gonzaga**, eseguita nel **1752**, in linea con la devozione gesuitica al giovane santo canonizzato nel 1726.
+
+Il patrono della parrocchia è **san Giorgio martire**, festeggiato solennemente ogni anno.
+
+**Sito di riferimento:** [Chiese Italiane — CEI, scheda n. 78550](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78550)
+
+---
+
+### Chiesa Parrocchiale di San Martino Vescovo — Tapogliano
+
+**Indirizzo:** Piazza Libertà, Tapogliano
+**Coordinate:** 45°52′30″N, 13°24′04″E
+**Stile:** Barocco tardivo; facciata novecentesca (1937, restaurata 2024)
+**Costruzione:** 1682–1690; consacrata il 21 novembre 1695
+**Arcidiocesi:** Gorizia — Decanato di Visco
+
+La storia religiosa di Tapogliano affonda le radici in un luogo di culto cristiano risalente, con buona probabilità, al **XIII–XIV secolo**, periodo in cui la rete parrocchiale della Bassa Friulana si consolidò sotto la guida spirituale del Patriarcato di Aquileia. La struttura medievale era dotata di un **campanile eretto nel 1588**, ancora oggi integrato nell'assetto planivolumetrico del complesso ecclesiastico.
+
+L'edificio attuale fu costruito a partire dal **1682** e ultimato nel **1690**; la consacrazione avvenne il **21 novembre 1695**. Nel corso dei secoli successivi la fabbrica fu oggetto di interventi conservativi: il campanile fu restaurato nel **1790**, la pavimentazione interamente rifatta nel **1875**. La **facciata attuale**, non originaria secentesca bensì realizzata nel **1937**, conferisce all'edificio un aspetto più solenne e regolare di quanto non fosse in origine. Un recente restauro concluso nel **2024** ha restituito alla facciata un aspetto curato, rendendo la chiesa il principale punto di riferimento visivo e spirituale della Piazza Libertà di Tapogliano.
+
+La parrocchia è dedicata a **san Martino di Tours** (316/317–397), il vescovo gallo-romano la cui agiografia — soprattutto l'episodio del mantello diviso con il povero — ispirò per secoli la devozione popolare nell'intera area padano-veneta e friulana. Molte delle chiese intitolate a san Martino in Friuli testimoniano l'espansione medievale del monachesimo benedettino e dei pellegrinaggi verso Tours.
+
+**Sito di riferimento:** [Chiese Italiane — CEI, scheda n. 78551](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78551) | [Parrocchiemap](http://www.parrocchiemap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7500079)
+
+---
+
+### Oratorio di Santa Margherita da Cortona — Tapogliano
+
+**Località:** Tapogliano, Campolongo Tapogliano
+**Stile:** Architettura religiosa rurale (cappella/oratorio)
+**Arcidiocesi:** Gorizia — Decanato di Visco
+
+Nella frazione di Tapogliano sorge l'**oratorio dedicato a Santa Margherita da Cortona** (1247–1297), la santa francescana penitente originaria della Toscana, beatificata nel 1515 e canonizzata nel **1728** da papa Benedetto XIII. Il culto di Margherita si diffuse con rinnovata intensità in tutta la pianura padano-veneta e friulana nel corso del Settecento, proprio in coincidenza con la sua canonizzazione, e numerosi piccoli oratori rurali le furono intitolati in quel periodo.
+
+L'oratorio di Tapogliano si inserisce nel novero dei piccoli edifici sacri che costellano la Bassa Friulana: cappelle e oratori di patronato privato o comunitario, eretti per assolvere a bisogni devozionali locali e spesso associati a ville nobiliari o borghi agricoli. Data l'intitolazione e la collocazione geografica, è verosimile una fondazione **settecentesca**, posteriore al 1728. Non si dispone attualmente di documentazione pubblica dettagliata sulle opere d'arte conservate all'interno o sulla cronologia precisa della costruzione; la sua esistenza è attestata dai registri dell'Arcidiocesi di Gorizia e dalla voce del comune nella letteratura topografica locale.
+
+---
+
+### Chiesa di Santa Maria Assunta — Cavenzano
+
+**Indirizzo:** Cavenzano, Campolongo Tapogliano
+**Coordinate:** 45°51′45″N, 13°23′14″E
+**Stile:** Barocco tardo-settecentesco
+**Costruzione:** 1766–1781; consacrata il 23 agosto 1795
+**Arcidiocesi:** Gorizia — Decanato di Visco
+
+La piccola frazione di Cavenzano vanta una tradizione religiosa documentata fin dal **1506**, anno della prima citazione archivistica di una chiesa locale. Una testimonianza del **1526** precisa che tale edificio non sorgeva nell'attuale posizione, bensì nella località denominata *Logar*. Nel **1616** don **Daniele Iustolino** lasciò per testamento una somma destinata alla costruzione di una nuova chiesa nel villaggio; l'edificio risultante fu ristrutturato nel **1699** e nuovamente tra il **1724 e il 1725**.
+
+Nella seconda metà del Settecento si decise di erigere un **terzo edificio** di culto. I permessi edilizi furono ottenuti nel **1759**, i lavori iniziarono nel **1766** e la fabbrica poteva dirsi completata già nel **1781**. Il **24 dicembre 1781** la chiesa fu benedetta dal parroco don **Pietro Braga**, con delega dell'arcivescovo di Udine **Giovanni Girolamo Gradenigo**. Il **13 dicembre 1782** fu benedetto il **fonte battesimale** e collocato il Santissimo Sacramento nel tabernacolo dell'altar maggiore. Nel **1787** l'**altare maggiore** fu trasferito dall'antica chiesa a quella nuova; nel **1791** venne realizzata la **cantoria**, il soppalco ligneo destinato all'organo e al coro. La **consacrazione solenne** fu celebrata il **23 agosto 1795** dall'arcivescovo di Udine **Pietro Antonio Zorzi**.
+
+Nel **1810** fu collocato un **organo** proveniente dalla soppressa chiesa di **San Domenico di Aiello del Friuli**, arricchendo ulteriormente la dotazione liturgica dell'edificio e documentando, al contempo, le dinamiche di redistribuzione del patrimonio ecclesiastico che seguirono le soppressioni napoleoniche.
+
+Il **campanile** presenta una storia costruttiva particolarmente articolata. Tra il **1769 e il 1790** fu realizzata, su progetto dell'architetto **Sebastiano Lotti**, una torre bassa a base quadrata; nel **1824** questa fu sopraelevata di un ordine. Solo tra il **1884 e il 1885**, a oltre un secolo dall'avvio dei lavori, fu finalmente completata la **cuspide**, conferendo al campanile la sua forma definitiva e aggiungendo un elemento verticale caratteristico al profilo rurale di Cavenzano.
+
+La chiesa, orientata liturgicamente e dotata di fonte battesimale consacrato, assolveva pienamente alla funzione di parrocchiale autonoma per la piccola comunità di Cavenzano, all'interno del più ampio sistema delle parrocchie della Bassa Friulana afferenti all'Arcidiocesi di Gorizia.
+
+**Sito di riferimento:** [BeWeB — Beni ecclesiastici in web, scheda n. 78553](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/78553/) | [Chiese Italiane — CEI, scheda n. 78553](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=78553)
+
+---
+
+## Fonti
+
+- Wikipedia, voce *Campolongo Tapogliano*: <https://it.wikipedia.org/wiki/Campolongo_Tapogliano>
+- Wikipedia, voce *Chiesa di San Giorgio Martire (Campolongo Tapogliano)*: <https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_Martire_(Campolongo_Tapogliano)>
+- Wikipedia, voce *Chiesa di San Martino Vescovo (Campolongo Tapogliano)*: <https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_Vescovo_(Campolongo_Tapogliano)>
+- Wikipedia, voce *Chiesa di Santa Maria Assunta (Cavenzano)*: <https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Cavenzano)>
+- Wikipedia, voce *Tapogliano*: <https://it.wikipedia.org/wiki/Tapogliano>
+- Wikipedia, voce *Campolongo al Torre*: <https://it.wikipedia.org/wiki/Campolongo_al_Torre>
+- Conferenza Episcopale Italiana — Chiese Italiane (schede nn. 78550, 78551, 78553): <https://chieseitaliane.chiesacattolica.it/>
+- BeWeB — Ufficio nazionale per i beni culturali ecclesiastici della CEI: <https://www.beweb.chiesacattolica.it/>
+- Turismo FVG — Campolongo Tapogliano: <https://www.turismofvg.it/Localita/Campolongo-Tapogliano>
+- Parrocchiemap — Parrocchia di San Giorgio Martire: <https://www.pmap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7500066>
+- Parrocchiemap — Parrocchia di San Martino Vescovo: <http://www.parrocchiemap.it/parrocchiemap/consultazione/parrocchie/scheda.jsp?icsc=7500079>
 
 ---
 
@@ -11342,6 +11602,95 @@ La piccola comunità di Monrupino ha mantenuto viva questa tradizione anche attr
 
 ---
 
+## Montenars
+
+Montenars (in friulano *Montenârs*, in sloveno *Gorjani*) è un piccolo comune montano della provincia di Udine, incastonato nella conca valliva percorsa dal torrente Orvenco alle pendici del monte Cuarnan (1.372 m). Con circa 500 abitanti distribuiti nelle tre frazioni di San Giorgio, Sant'Elena e Santa Maria Maddalena, il comune appartiene all'Arcidiocesi di Udine (Forania della Pedemontana, Comunità Pastorale di Gemona del Friuli) e venera come patrona sant'Elena Imperatrice, la cui festa cade il 18 agosto.
+
+Il patrimonio religioso di Montenars è indissolubilmente legato alla memoria del **terremoto del Friuli del 6 maggio 1976** (*Orcolat*), il quale — con epicentro strumentale localizzato tra Gemona e Artegna, a pochissimi chilometri dal centro abitato — colpì il comune con intensità Mercalli IX-X, causando 35 vittime e distruggendo o gravemente danneggiando pressoché tutti gli edifici, inclusi i luoghi di culto. La rinascita delle chiese si intreccia quindi con la straordinaria opera di ricostruzione che fruttò al comune la **Medaglia d'Oro al Merito Civile** (decreto presidenziale del 12 dicembre 2002). La storia ecclesiastica del territorio affonda le radici nell'alto Medioevo: il toponimo *Montenars* è ricondotto da alcuni studiosi a un'*arimannia* longobarda di montagna, suggerendo una presenza insediativa e verosimilmente cultuale già in epoca longobarda (VII-VIII sec.).
+
+---
+
+### Chiesa Parrocchiale di Sant'Elena Imperatrice — Frazione Sant'Elena
+
+**Comune:** Montenars (UD), frazione Sant'Elena, via Bulons  
+**Stile architettonico:** Ricostruzione post-sismica (1977-1980 ca.), linguaggio sobriamente moderno con rimandi alla tradizione rurale friulana  
+**Epoca di costruzione originaria:** Antecedente al XVIII secolo; attestazioni documentarie indirette nel contesto della pieve del Gemonese; ricostruita integralmente dopo il 1976
+
+La chiesa parrocchiale dedicata a **Sant'Elena Imperatrice** — la madre di Costantino il Grande, venerata per aver ritrovato la Vera Croce a Gerusalemme — è il fulcro religioso e identitario dell'intero comune. Prima del sisma del 1976, l'edificio rispecchiava la tipologia della chiesa rurale friulana del Settecento-Ottocento: aula longitudinale a navata unica, facciata a capanna, campanile in pietra locale. Il terremoto del 6 maggio 1976 la rese inagibile, e le successive scosse dell'11 e 15 settembre dello stesso anno ne compromisero definitivamente la struttura preesistente.
+
+La ricostruzione, avviata con la partecipazione attiva della comunità montenarese — distintasi per lo spirito di sacrificio e per la velocità del recupero, citata espressamente nella motivazione della Medaglia d'Oro al Merito Civile —, restituì alla frazione il suo edificio di culto entro i primi anni Ottanta. Il nuovo impianto privilegia soluzioni formali semplici e materiali locali (pietra, legno), in armonia con il paesaggio montano circostante. All'interno si conservano elementi devozionali tradizionali, tra cui immagini votive e suppellettile liturgica recuperata o ricostruita dopo il sisma.
+
+La parrocchia di Montenars — canonicamente identificata come *S. Elena Imperatrice* — è retta nell'ambito della Comunità Pastorale di Gemona del Friuli, con recapito in Via Curminie 1, 33010 Montenars UD (tel. 0432 980608; e-mail: gemona@diocesiudine.it).
+
+**Rilevanza storica:** Sede parrocchiale del comune, testimone della ricostruzione post-sismica come atto collettivo di identità civile e religiosa.  
+**Sito web:** [www.diocesiudine.it](https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-pedemontana-1673/cp-di-gemona-del-friuli-1716/montenars-371/)
+
+---
+
+### Chiesa di San Giorgio — Frazione San Giorgio
+
+**Comune:** Montenars (UD), frazione San Giorgio  
+**Stile architettonico:** Edificio rurale friulano; ricostruito/restaurato dopo il 1976  
+**Epoca di costruzione originaria:** Tradizione cultuale di origine medievale (titolazione a san Giorgio diffusa in area friulana già dall'XI-XII sec.)
+
+La frazione di **San Giorgio**, collocata nella parte più occidentale del territorio comunale, deve il suo stesso nome alla chiesa titolata al santo guerriero e martire, tra i patroni più invocati nel mondo longobardo e carolingio. La diffusione del culto georgiano nel Friuli risale all'Alto Medioevo, quando le chiese a lui dedicate fungevano spesso da centri di aggregazione per comunità rurali di recente insediamento o di confine.
+
+Anche questa chiesa subì danni ingenti nel terremoto del 1976 — il comune di Montenars si trovava nell'area di massima intensità della scossa principale — e venne successivamente restaurata o ricostruita nell'ambito dei piani di recupero del patrimonio edilizio civile e religioso della zona. L'edificio attuale, pur nell'essenzialità formale propria della tradizione architettonica alpina friulana (aula monoabsidata o a navata unica, campanile a vela o a torre snella), conserva la funzione di luogo di culto della comunità della frazione e di riferimento identitario per il borgo.
+
+**Rilevanza storica:** Testimonianza della capillare rete di chiese rurali che contraddistingue il Friuli montano; la titolazione a san Giorgio richiama le stratificazioni devozionali medievali del territorio.
+
+---
+
+### Chiesa di Santa Maria Maddalena — Frazione Santa Maria Maddalena (Flaipano)
+
+**Comune:** Montenars (UD), frazione Santa Maria Maddalena; borgata di Flaipano  
+**Stile architettonico:** Ricostruzione integrale post-sismica (1976-1977); primo edificio ricostruito nel comune dopo il terremoto  
+**Epoca di costruzione originaria:** Precedente al 1976; ricostruita dai *Claps Furlans* immediatamente dopo il sisma
+
+La frazione di **Santa Maria Maddalena**, che comprende la borgata di **Flaipano** (*Flaipan* in friulano, *Fejplan* in sloveno), è teatro di uno degli episodi più emblematici della rinascita post-terremoto in Friuli. La borgata di Flaipano fu **completamente distrutta** dalle scosse del 6 maggio 1976 e delle successive repliche autunnali; in modo straordinario, fu però anche il **primo nucleo abitativo del Friuli a essere integralmente ricostruito**, grazie all'iniziativa spontanea del comitato *Claps Furlans* («Pietre Friulane»), che operò senza ricorso a contributi pubblici e in tempi brevissimi.
+
+La chiesa dedicata a **Santa Maria Maddalena** — santa penitente e apostola, la cui festa ricorre il 22 luglio — è il luogo di culto di questa frazione e porta il nome patronale della stessa. La sua ricostruzione, parte integrante del recupero del borgo, ne fa un monumento alla tenacia e alla coesione della piccola comunità montenarese. L'edificio attuale esprime il linguaggio sobrio e funzionale delle ricostruzioni friulane degli anni Settanta, con pianta semplice, tetto a falde in coppi e campanile essenziale. Al suo interno si custodisce la continuità devozionale della comunità, che fino all'inizio del Novecento utilizzava il dialetto sloveno (*po nasen*) come lingua d'uso quotidiano: un tratto culturale che colloca Flaipano nel peculiare territorio di confine tra il mondo romanzo-friulano e quello slavo, noto come **Slavia Friulana**.
+
+**Rilevanza storica:** Simbolo della ricostruzione post-sismica autonoma e solidale; testimonianza della pluralità linguistica e culturale (friulana e slovena) del territorio montano udinese.
+
+---
+
+### Cappella del Redentore — Cima del Monte Cuarnan (1.372 m s.l.m.)
+
+**Comune:** Montenars (UD), cima del Monte Cuarnan  
+**Stile architettonico:** Cappella votiva alpina; piccolo oratorio di vetta  
+**Epoca di costruzione:** XX secolo (data precisa non documentata nelle fonti disponibili)
+
+Sul **Monte Cuarnan** (1.372 m), la cima che chiude a nord la conca di Montenars e rappresenta il punto culminante del territorio comunale, si trova una **Chiesetta del Redentore**, piccolo oratorio di vetta di tipologia diffusa nelle aree alpine italiane. La presenza di una cappella sulla sommità della montagna risponde a una tradizione devozionale radicata nelle comunità alpine, che vedevano nelle quote più elevate luoghi di intercessione privilegiata e di ringraziamento per la protezione accordata ai pastori, ai boscaioli e agli abitanti dei borghi di fondovalle.
+
+La cappella è raggiungibile percorrendo il sentiero del Monte Cuarnan, un tracciato escursionistico di media difficoltà che parte dalle frazioni del comune. Dalla cima — e dalla soglia della cappella — si gode di un **panorama eccezionale** sull'intera pianura friulana, sulle Prealpi Carniche e Giulie, sul Tagliamento e, nelle giornate limpide, sull'Adriatico. La Chiesetta del Redentore costituisce pertanto non solo un luogo di culto e di preghiera, ma anche una meta escursionistica di rilievo inserita nella rete sentieristica dell'Ecomuseo delle Acque e della Riserva della Biosfera UNESCO Alpi Giulie / Julijske Alpe.
+
+**Rilevanza storica e paesaggistica:** Esempio di architettura votiva alpina; punto terminale di un percorso di devozione popolare montanara; belvedere sull'intero Friuli da una quota che domina visivamente il territorio attraversato dal terremoto del 1976.  
+**Sito web (Turismo FVG):** [www.turismofvg.it/locality/montenars](https://www.turismofvg.it/locality/montenars)
+
+---
+
+## Note sul patrimonio religioso e l'impatto sismico
+
+Il comune di Montenars non possiede, allo stato attuale delle fonti disponibili, chiese con cicli pittorici di pregio ascrivibili a maestri documentati, né complessi monastici o cattedrali. Ciò è in parte conseguenza del terremoto del 1976, che — con epicentro nell'area compresa tra Gemona, Artegna e Lusevera, praticamente sulla soglia del territorio comunale — provocò la distruzione pressoché totale dell'edificato storico, cancellando gli eventuali arredi e le suppellettili liturgiche preesistenti. La ricostruzione avvenne in larga misura con criteri funzionali e antisismici, privilegiando la solidità strutturale rispetto alla ricchezza decorativa.
+
+Il valore del patrimonio sacro di Montenars è dunque soprattutto di natura **antropologica, devozionale e paesaggistica**: le quattro chiese e cappelle del comune (Sant'Elena Imperatrice, San Giorgio, Santa Maria Maddalena, Cappella del Redentore) costituiscono i nodi di una rete cultuale che ha attraversato la catastrofe sismica e ha contribuito alla rinascita di una comunità montana premiata con la massima onorificenza civile della Repubblica Italiana.
+
+---
+
+## Fonti
+
+- Wikipedia, *Montenars*, [https://it.wikipedia.org/wiki/Montenars](https://it.wikipedia.org/wiki/Montenars)
+- Wikipedia, *Flaipano*, [https://it.wikipedia.org/wiki/Flaipano](https://it.wikipedia.org/wiki/Flaipano)
+- Wikipedia, *Terremoto del Friuli del 1976*, [https://it.wikipedia.org/wiki/Terremoto_del_Friuli_del_1976](https://it.wikipedia.org/wiki/Terremoto_del_Friuli_del_1976)
+- Arcidiocesi di Udine — Annuario, *Parrocchia di Montenars (S. Elena Imperatrice)*, [https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-pedemontana-1673/cp-di-gemona-del-friuli-1716/montenars-371/](https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-pedemontana-1673/cp-di-gemona-del-friuli-1716/montenars-371/)
+- TurismoFVG, *Montenars*, [https://www.turismofvg.it/locality/montenars](https://www.turismofvg.it/locality/montenars)
+- Comuni Italiani, *Montenars*, [https://www.comuni-italiani.it/030/061/](https://www.comuni-italiani.it/030/061/)
+- Wiki Comuni Italiani, *Montenars*, [https://rete.comuni-italiani.it/wiki/Montenars](https://rete.comuni-italiani.it/wiki/Montenars)
+- Quirinale della Repubblica Italiana, *Medaglia d'Oro al Merito Civile — Comune di Montenars*, [https://www.quirinale.it/onorificenze/insigniti/48752](https://www.quirinale.it/onorificenze/insigniti/48752)
+
+---
+
 ## Montereale Valcellina
 
 Montereale Valcellina (in friulano *Montreâl*) è un comune della provincia di Pordenone, situato alla confluenza del torrente Cellina con la pianura pedemontana, tra il monte Fara e il monte Spia, a 317 metri sul livello del mare. Il territorio comunale si estende per circa 68 km² con un'escursione altimetrica che supera i 1 400 metri, comprendendo le frazioni di Grizzo, Malnisio e San Leonardo Valcellina.
@@ -11963,6 +12312,265 @@ Nei pressi del Castello Superiore di Brazzacco si trova la **Cappella di San Leo
 
 ---
 
+## Mossa
+
+Mossa (_Mosse_ in friulano) è un piccolo comune di circa 1.500 abitanti nella provincia di Gorizia, situato alla destra orografica dell'Isonzo, ai margini della pianura del Preval e in contatto con le prime propaggini del Collio. Il territorio, posto a soli pochi chilometri dal confine con la Slovenia, vanta una stratificazione insediativa che risale al Neolitico — come testimoniato dal ritrovamento di asce in pietra, monete romane e una necropoli slava — e che trova nella dimensione religiosa uno dei suoi fili conduttori più longevi. La prima documentazione scritta del paese risale al 1064, in relazione a una donazione al Duomo di Aquileia compiuta dalla contessa Edvige «di Mossa»; già nel XIII secolo la località è attestata come sede pievana nell'ambito della diocesi aquileiese, segno di un'organizzazione ecclesiastica radicata ben prima dei conflitti che avrebbero segnato il destino di questi luoghi.
+
+Le vicende belliche della Prima Guerra Mondiale rappresentano uno spartiacque drammatico per il patrimonio sacro mossese: la chiesa parrocchiale cinquecentesca, posta in periferia nel borgo Zenta, fu praticamente rasa al suolo dall'artiglieria austriaca nel 1915, e con essa andarono perduti affreschi medievali che l'Ufficio Belle Arti aveva individuato tra le rovine senza riuscire a preservare. La ricostruzione, avvenuta negli anni Venti del Novecento, diede vita a un nuovo edificio di culto al centro del paese, mentre il santuario mariano del Preval — la cui tradizione cultuale risale al X secolo — ha conosciuto un ulteriore ciclo di abbandono e rinascita nel secondo Novecento. Il patrimonio religioso di Mossa è dunque piccolo per numero di edifici, ma straordinariamente denso di storia.
+
+---
+
+### Chiesa parrocchiale di Sant'Andrea Apostolo
+
+**Indirizzo:** Via XXIV Maggio, Mossa (GO)  
+**Diocesi:** Arcidiocesi di Gorizia — Decanato di Cormons  
+**Coordinate:** 45°56′17.54″N, 13°32′54.46″E
+
+#### Storia e architettura
+
+La parrocchia di Mossa affonda le proprie radici in un documento trecentesco che la indica già come sede pievana, e la sua prima chiesa fisica sorse nel XVI secolo nel borgo Zenta, alla periferia del paese. L'edificio cinquecentesco fu ampliato nel corso del Settecento e solennemente consacrato il 21 maggio 1759 dal principe arcivescovo Carlo Michele d'Attems, al quale si deve anche l'elevazione a parrocchiale nel 1898. Possedeva un campanile simile per tipologia a quello della chiesa di Prosecco (San Martino Vescovo, Trieste), in uno stile di derivazione classica che lo storico dell'arte Andrea Moschetti descriveva come dotato di «buona architettura classica».
+
+Il 24 maggio 1915, con l'ingresso dell'Italia nel conflitto mondiale, l'artiglieria austriaca concentrò il fuoco sulle colline della Pubrida e sulla piana sottostante, provocando il crollo totale del tetto e danneggiando gravemente le murature. Tra le macerie emersero — a guerra finita — tracce di affreschi di epoca medievale, poi lasciati deperire. I resti dell'edificio rimasero in loco fino agli anni Trenta del Novecento, mentre la torre campanaria fu demolita soltanto nel 1961.
+
+Il lungo cammino verso la ricostruzione coinvolse l'arcivescovo Francesco Borgia Sedej, diversi parroci succedutisi rapidamente e, in modo determinante, l'avvocato Luigi Pettarin, che ottenne i risarcimenti pubblici necessari. La popolazione di Mossa, interpellata nel 1926, espresse in modo plebiscitario la volontà di costruire il nuovo tempio non sul sito dell'antica chiesa periferica, ma nel cuore del paese, in località «Mezzavilla».
+
+L'incarico progettuale fu affidato all'architetto goriziano **Silvano Baresi** (o Barich), con contratto firmato il 10 agosto 1926. L'impresa costruttrice fu quella del mossese Giovanni Medeot & c., per un importo forfettario di 310.000 lire (a cui si aggiunsero circa 100.000 lire per le rifiniture). La prima pietra fu benedetta da monsignor Francesco Castelliz, delegato arcivescovile, poco dopo la firma del contratto. I lavori procedettero speditamente: nel novembre 1926 erano già in corso gli scavi per le fondazioni, nell'aprile 1927 fu posato il tetto, e nell'agosto dello stesso anno la chiesa era pronta per essere aperta al culto.
+
+Lo stile è **neobarocco**, a navata unica, con una sobria facciata in cui spicca un rosone centrale. Il portale e lo zoccolo della facciata principale sono realizzati in **pietra d'Aurisina**, la pregiata pietra carsica estratta vicino a Trieste. L'altare maggiore fu solennemente consacrato il 14 agosto 1927 dal principe arcivescovo Sedej.
+
+#### Opere d'arte e arredi
+
+- **Altare maggiore** — opera di **Amerigo Valent** di Aurisina, scelto in una selezione che aveva visto concorrere anche il bozzetto di Giovanni Battista Novelli. Realizzato in marmo, è l'elemento plastico di maggiore pregio dell'interno.
+- **Organo** — strumento prodotto dalla ditta padovana **Domenico Malvestio e figlio**, collocato nella cantoria sopra l'ingresso principale alla vigilia dell'inaugurazione (agosto 1927). Rappresenta un esempio della produzione organaria veneta del primo Novecento.
+- **Madonna del Preval** — statua lignea policroma del **XV secolo**, attribuita alla **scuola tolmezzina** (area di Tolmezzo, Carnia), originariamente venerata nel Santuario del Preval e portata in salvo nella chiesa parrocchiale dopo decenni di abbandono dell'edificio santuariale. Conservata in una cappella laterale, è il pezzo più antico e artisticamente rilevante del patrimonio mobile della parrocchia.
+- **Campane** — il campanile ospita tre campane in bronzo: la prima (1.600 kg, fonditore Broili di Udine, 1911), la seconda (1.000 kg, Colbacchini, 1927) e la terza (700 kg, De Poli, 1933, rifusa successivamente).
+
+**Sito di riferimento:** [Chiese italiane – Conferenza Episcopale Italiana](https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=78659)
+
+---
+
+### Santuario di Santa Maria Regina dei Popoli (Santuario del Preval)
+
+**Località:** Piana del Preval, a nord del centro abitato di Mossa (GO)  
+**Diocesi:** Arcidiocesi di Gorizia
+
+#### Storia e tradizione
+
+Il Santuario del Preval sorge in una delle zone più suggestive del territorio mossese: la pianura umida del Preval, posta al confine con il comune di San Floriano del Collio e a ridosso della frontiera italo-slovena. Tracce archeologiche e documenti d'archivio attestano la presenza di un **edificio di culto in quest'area già nel X secolo**, in un luogo dove la tradizione popolare vuole che alcuni contadini abbiano trovato un'immagine della Madonna — elemento fondante di molti santuari mariani del Friuli medievale.
+
+La venerazione mariana legata al Preval si intreccia con la storia della **statua lignea della Madonna del Preval**, un'opera databile al **XV secolo** e attribuita alla **scuola tolmezzina**, la bottega scultorea carnica che produsse alcune delle più significative Madonne lignee del Friuli tardogotico e rinascimentale. Questa scultura fu per secoli il fulcro devozionale del santuario, prima di essere trasferita nella chiesa parrocchiale di Sant'Andrea (v. sopra) a causa dello stato di degrado dell'edificio.
+
+Il santuario conobbe lunghi periodi di abbandono nel corso del Novecento, in parte conseguenza della vicinanza alla linea del fronte durante la Grande Guerra e delle successive trasformazioni agricole della piana (bonificata e trasformata in zona coltivata durante il periodo fascista). L'edificio attuale è il risultato di una **ricostruzione compiuta nei primi anni Novanta**, inaugurata ufficialmente nel **1995**. Pochi anni dopo, per volere di **papa Giovanni Paolo II**, il santuario assunse il nome di **Santa Maria Regina dei Popoli**, in un gesto che ne sottolineava il significato ecumenico e transfrontaliero.
+
+#### Caratteristiche architettoniche e contesto
+
+L'edificio attuale è di modeste dimensioni e di impostazione semplice, in linea con la tradizione delle cappelle votive rurali del Friuli isontino. Non conserva opere d'arte di rilievo al proprio interno — la statua della Madonna è stata trasferita nella parrocchiale — ma il suo valore risiede nella continuità cultuale millenaria e nel contesto paesaggistico: il santuario è inserito nella **Zona di Interesse Comunitario (SIC) IT3330001 «Palude del Preval»**, un'area umida di grande pregio naturalistico nell'ambito del progetto europeo Natura 2000, raggiungibile attraverso una rete di piste ciclabili realizzata dalla Provincia di Gorizia.
+
+Il santuario costituisce oggi una tappa devozionale e turistica per i pellegrini e i cicloturisti che percorrono il Collio isontino, in un territorio che ha nel paesaggio agro-silvo-pastorale e nella storia della frontiera i propri tratti identitari più forti.
+
+---
+
+### Chiesa di San Carlo Borromeo (Colle Blanchis)
+
+**Località:** Colle Blanchis, Mossa (GO)  
+**Diocesi:** Arcidiocesi di Gorizia
+
+La chiesa di San Carlo Borromeo è situata sul colle Blanchis, una delle modeste alture che interrompono la pianura mossese. Si tratta di un edificio di culto di piccole dimensioni, la cui intitolazione a **Carlo Borromeo** (canonizzato nel 1610) suggerisce una fondazione non anteriore al XVII secolo, in un periodo in cui la devozione al santo milanese si diffuse capillarmente nei territori asburgici dell'Italia nord-orientale, anche come risposta alla Riforma protestante. L'edificio si inserisce nella tipologia delle **chiese votive collinari** diffuse nel Carso e nel Collio goriziano, spesso erette da famiglie nobili o da comunità rurali in risposta a voti pronunciati in occasione di pestilenze, carestie o eventi bellici. Non sono disponibili notizie dettagliate sulle decorazioni interne o su eventuali restauri moderni.
+
+---
+
+### Cappella di Villa Codelli (dedicata a Santa Maria Assunta)
+
+**Località:** Borgo Vallisella, Mossa (GO)
+
+#### Storia
+
+La cappella palatina annessa a Villa Codelli rappresenta uno dei rari esempi di architettura religiosa privata sopravvissuta nel territorio mossese. La villa — antica residenza della principale famiglia signorile del paese, oggi sede di un'azienda agricola — si erge sulla collinetta che domina il borgo Vallisella. L'edificio fu fatto costruire dalla famiglia **Cobenzl**, una delle più potenti casate aristocratiche del Goriziano, cui nel **1759** subentrarono i **Codelli**.
+
+La cappella dedicata a **Santa Maria Assunta** risale al **XVI secolo** ed è stata ricostruita «quasi interamente nel Settecento», presumibilmente in concomitanza con i lavori di ristrutturazione della villa voluti dai nuovi proprietari Codelli dopo il 1759. Proprio questa cappella palatina rivestì un ruolo cruciale durante e dopo la Prima Guerra Mondiale: tra il 1915 e il 1927, prima della costruzione della nuova chiesa parrocchiale, le celebrazioni liturgiche per la comunità mossese si svolsero in questo edificio privato, che divenne di fatto il centro religioso del paese per oltre un decennio. L'autorità militare aveva infatti negato il permesso di allestire una baracca-cappella, come era stato fatto nel vicino Lucinico.
+
+L'edificio è di proprietà privata e non è normalmente accessibile al pubblico. Sul piano architettonico rispecchia la tipologia delle **cappelle gentilizie settecentesche** del Friuli Venezia Giulia: sobria nelle forme esterne, con interni presumibilmente affrescati o decorati secondo il gusto tardo-barocco prevalente nella regione nell'epoca della ricostruzione.
+
+---
+
+### Monumento a San Giovanni Nepomuceno (Borgo Zenta)
+
+**Località:** Borgo Zenta, Mossa (GO)
+
+Nel borgo Zenta — la zona periferica dove sorgeva l'antica chiesa parrocchiale cinquecentesca distrutta nel 1915 — è conservata una **statua di San Giovanni Nepomuceno**, il martire boemo (1345–1393) canonizzato nel 1729 e divenuto uno dei santi più venerati nell'impero asburgico. La diffusione del suo culto nei territori della Venezia Giulia è strettamente legata alla dominazione austriaca: le sue effigi, spesso collocate presso ponti, crocicchi o ai margini dei borghi, sono un elemento caratteristico del paesaggio devozionale del Friuli isontino e del Carso. La statua mossese del borgo Zenta si inserisce in questa tradizione, testimoniando la capillarità della pietà popolare di matrice asburgica in un territorio che fu austro-ungarico fino al 1918.
+
+---
+
+## Note e fonti
+
+- Wikipedia italiana, voce «Mossa» — [https://it.wikipedia.org/wiki/Mossa](https://it.wikipedia.org/wiki/Mossa)
+- Wikipedia italiana, voce «Chiesa di Sant'Andrea Apostolo (Mossa)» — [https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Andrea_Apostolo_(Mossa)](https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Andrea_Apostolo_(Mossa))
+- Ministero della Cultura / Beni Culturali, *Chiese distrutte di Gorizia — Sant'Andrea Mossa* — [https://www.chiesedistruttegorizia.beniculturali.it/santandreamossa.php](https://www.chiesedistruttegorizia.beniculturali.it/santandreamossa.php)
+- Conferenza Episcopale Italiana, *Le chiese delle diocesi italiane*, scheda 78659 — [https://chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=78659)
+- Turismo FVG, scheda comune di Mossa — [https://www.turismofvg.it/localita/mossa](https://www.turismofvg.it/localita/mossa)
+- Moschetti A., *I danni ai monumenti ed alle opere d'arte nelle Venezie nella guerra mondiale 1915-1918*, vol. IV, Venezia, Ferrari, 1931, p. 52.
+- Mlakar L., Debeni L., *Sacra itinera, dalla Fototeca della Biblioteca del Seminario*, Gorizia, Edizioni della Laguna, 2007.
+- Ferrari L., Degrassi D. (a cura di), *Mossa nella storia*, Comune di Mossa / Istituto di storia sociale e religiosa, Mossa-Gorizia, 2009.
+- *Novecento a Gorizia. Ricerca di una identità. Urbanistica e architettura*, Venezia, Marsilio, 2000, scheda p. 92.
+- Sito istituzionale del Comune di Mossa — [http://www.comune.mossa.go.it/](http://www.comune.mossa.go.it/)
+
+---
+
+## Muggia
+
+Muggia (in sloveno *Milje*, in istroveneto *Muja*) è il comune più meridionale del Friuli Venezia Giulia e l'unico lembo d'Istria rimasto sotto sovranità italiana dopo il Trattato di Osimo del 1975. Adagiata sul promontorio omonimo, affacciata sul Golfo di Trieste e confinante a est con la Slovenia, Muggia custodisce un patrimonio religioso straordinariamente ricco rispetto alle sue dimensioni: nove luoghi di culto attivi, che spaziano dall'alto Medioevo al secondo Novecento, testimoniando secoli di dominazioni – aquileiese, veneziana, asburgica – e di devozione popolare istriana.
+
+La stratificazione architettonica sacra di Muggia riflette la sua storia pluricentenaria: dall'insediamento longobardo documentato dai plutei di Muggia Vecchia (VIII-IX secolo), al gotico veneziano del duomo del XV secolo, passando per le fondazioni francescane del Trecento, le cappelle votive erette dopo le grandi pestilenze del XVII secolo e le costruzioni parrocchiali del secondo Novecento sorte per servire la popolazione in espansione verso le frazioni industriali. Il patrono della città è i Santi Giovanni e Paolo, festeggiati il 26 giugno.
+
+---
+
+### Duomo dei Santi Giovanni e Paolo
+
+**Comune:** Muggia (capoluogo)  
+**Indirizzo:** Piazza Marconi, 34015 Muggia (TS)  
+**Diocesi:** Trieste  
+**Sito web:** [diocesi.trieste.it](https://www.diocesi.trieste.it/decanati-e-parrocchie/parrocchie/santi-giovanni-e-paolo/)
+
+Il duomo dei Santi Giovanni e Paolo è il principale luogo di culto cattolico di Muggia, sede della parrocchia omonima e chiesa patronale della città. L'edificio sorge nel cuore del centro storico, affacciato sulla Piazza Marconi, ed è il monumento più rappresentativo dell'architettura gotico-veneziana dell'Istria settentrionale.
+
+**Storia e architettura.** Costruito sui resti di una precedente basilica paleocristiana a tre absidi, il duomo fu consacrato dal vescovo di Trieste Arlongo dei Visgoni il 29 dicembre 1263. L'impianto romanico originario venne profondamente trasformato tra il 1444 e il 1467, quando la facciata fu rivestita in lastre di pietra bianca calcarea, creando uno dei più preziosi esempi di stile gotico-veneziano della regione. Il completamento dei lavori è attestato da un'epigrafe che ricorda il podestà veneziano Pietro Dandolo (1466-1467). Nel 1865 la parte superiore della facciata, che aveva perso la verticalità, fu rifatta; il coro fu allungato nel 1873 e nel 1877 fu consacrato un nuovo altare maggiore.
+
+La facciata è uno dei capolavori del tardo gotico istriano: è dominata da un imponente rosone con al centro l'immagine della *Madonna con il Bambino* e tre epigrafi commemorative. Nella lunetta del portale ad arco inflesso è scolpita in alto rilievo la *Santissima Trinità adorata dai Santi Giovanni e Paolo*. Due slanciate finestre gotiche bifore affiancano il portale. La forma a tribolo degli archetti del rosone e delle bifore costituisce un motivo decorativo coerente che rimanda all'architettura istro-veneta coeva, e trova un confronto diretto nella cattedrale dell'Assunzione di Maria di Ossero (isola di Lussino).
+
+L'interno è suddiviso in tre navate. I radicali restauri degli anni Trenta del Novecento eliminarono gli altari barocchi laterali, restituendo la chiesa a una sobria essenzialità romanico-gotica. Lungo le pareti si conservano ancora alcuni fanali processionali dei secoli XVIII e XIX appartenuti alle antiche confraternite muggesane. Un frammento eccezionale di affresco del XIV secolo — parte di un ciclo pittorico che in origine decorava l'intera navata centrale — è tuttora visibile sulla muratura. Sulla cantoria in controfacciata si trova l'organo a canne **Mascioni** *opus 939*, costruito nel 1971 a trasmissione mista (meccanica per manuali e pedale, elettrica per i registri), con 16 registri su due manuali e pedale, restaurato e ampliato a 18 registri nel 1991.
+
+Il **campanile**, base quadrata e 35 metri di altezza, è articolato in quattro piani abbelliti da cornici di trachite euganea; l'ultimo piano presenta eleganti bifore. La sua costruzione risale presumibilmente a prima del duomo stesso, e l'orologio è documentato fin dal Trecento.
+
+---
+
+### Basilica Santuario Plebanale di Santa Maria Assunta (Muggia Vecchia)
+
+**Comune:** Muggia Vecchia (colle a ovest del centro abitato, a circa 172 m s.l.m.)  
+**Diocesi:** Trieste  
+**Sito web:** [diocesi.trieste.it](http://www.diocesi.trieste.it/decanati-e-parrocchie/parrocchie/santa-maria-assunta/)
+
+La basilica santuario di Santa Maria Assunta è il monumento medievale più antico e più significativo dell'intero comune di Muggia. Sorge sul colle di Muggia Vecchia — il *Castrum Muglae* romano e medievale — all'interno del **Parco Archeologico di Muggia Vecchia**, che ospita anche i resti dell'abitato medievale distrutto nel XIV-XV secolo. L'edificio è l'unica struttura rimasta in piedi del borgo collinare originario.
+
+**Storia.** Prima dell'attuale chiesa ne esisteva una precedente, forse dell'VIII o IX secolo, della quale sopravvivono elementi liturgici di eccezionale importanza. L'attuale basilica fu edificata in parte nell'XI secolo e completata nel XIII secolo, periodo al quale risale anche il campanile. La pieve di Muggia Vecchia era officiata da un capitolo di canonici ed era uno dei centri religiosi più importanti del distretto prima della distruzione del borgo. La chiesa fu restaurata tra il 1950 e il 1951 e divenne parrocchiale nel 1982; oggi è sede del Centro Diocesano Vocazioni della Diocesi di Trieste.
+
+**Architettura.** L'edificio misura 12,25 × 18,30 metri ed è di stile romanico. La facciata è a salienti, con un piccolo campaniletto a vela. L'interno è tripartito in tre navate.
+
+**Opere d'arte.** Il tesoro più antico e raro della basilica sono le due **transenne (plutei) di arte longobarda**, databili all'VIII-IX secolo — al periodo del re longobardo Liutprando o alla cosiddetta *Rinascenza liutprandea*. Si tratta di grandi lastre di marmo a reticolo scolpito con motivi vegetali e geometrici intrecciati, che fungevano da balaustre della primitiva chiesa preesistente. Per tipologia e raffinatezza del lavoro, i plutei muggesani sono stati confrontati con la lapide di Cumiano conservata nel Museo dell'Abbazia di San Colombano a Bobbio. Sono posti a destra e sinistra dell'ingresso interno. Completano il patrimonio artistico gli **affreschi dei secoli XIV e XV** che decorano le pareti dell'edificio, con soggetti sacri di scuola locale e italo-adriatica, e l'ambone con leggio medievale.
+
+---
+
+### Chiesa di San Francesco d'Assisi
+
+**Comune:** Muggia (capoluogo)  
+**Diocesi:** Trieste (suffraganea della parrocchia dei Santi Giovanni e Paolo)
+
+La chiesa di San Francesco d'Assisi è uno dei più antichi edifici religiosi del centro storico di Muggia, già cappella del convento dei Padri Minori Conventuali Francescani. È considerata uno scrigno di arte medievale e rinascimentale, grazie alle tre importanti opere pittoriche conservate al suo interno.
+
+**Storia.** I francescani conventuali si insediarono a Muggia tra il 1330 e il 1340. La chiesa annessa al loro convento fu completata tra il 1410 e il 1411. È a pianta rettangolare, con abside poligonale, tipica dell'architettura mendicante trecentesca e quattrocentesca. Dopo la soppressione del convento, l'edificio fu sconsacrato e poi restituito al culto come chiesa suffraganea della parrocchia dei Santi Giovanni e Paolo.
+
+**Opere d'arte.** L'interno conserva tre opere di notevole valore:
+- Una **tempera trecentesca** raffigurante la *Madonna allattante* (*Madonna del Latte*), attribuita alla scuola bolognese o marchigiana, esempio del filone dell'iconografia mariana dell'Italia centro-padana del XIV secolo.
+- Una **Pietà (Vesperbild) quattrocentesca**, attribuita alla scuola salisburghese (Austria meridionale), testimonianza degli intensi scambi artistici tra l'area adriatica e quella alpino-danubiana sotto la dominazione asburgica.
+- Una **pala d'altare seicentesca** raffigurante la *Madonna della Cintola*, opera di **Pietro Liberi** (Padova 1614 – Venezia 1687), pittore veneziano di fama internazionale, noto per l'eleganza cromatica e la morbidezza delle forme di ascendenza tizianesca e rubensiana.
+
+Nella chiesa è permanentemente esposta una collezione di presepi provenienti da varie parti d'Italia e del mondo.
+
+---
+
+### Chiesa del Cristo (già Chiesa della Visitazione di Maria Vergine)
+
+**Comune:** Muggia (capoluogo)  
+**Diocesi:** Trieste
+
+Conosciuta oggi dai muggesani come "Chiesa del Cristo", questo piccolo edificio sacro è uno dei più antichi del borgo medievale, con una data di fondazione documentata con precisione. Sorge nel centro storico di Muggia.
+
+**Storia.** La chiesa fu completata il 1° novembre 1347 per volontà di ser Raffaele di ser Steno, esponente del partito filo-veneziano che in quegli anni sosteneva la causa della dedizione di Muggia alla Repubblica di Venezia. Era originariamente dedicata alla Visitazione di Maria Vergine. Al suo interno si conserva una **epigrafe in caratteri gotici** con lo stemma gentilizio di ser Raffaele di ser Steno, che attesta la data di fondazione e la dedica alla Vergine: è un documento epigrafico di grande interesse storico, che collega l'edificio sacro alle vicende politiche trecentesche della comunità muggesana.
+
+**Architettura e arredi.** L'interno conserva un **altare barocco del XVIII secolo**, affiancato da quattro fanali da processione di foggia settecentesca. La pianta è semplice, a navata unica, con caratteristiche dell'architettura religiosa minore veneto-istriana.
+
+---
+
+### Chiesetta di San Sebastiano (*Cesa de Mezo*)
+
+**Comune:** Muggia – Salita Ubaldini (a metà strada tra il centro e Muggia Vecchia)  
+**Diocesi:** Trieste
+
+La "Cesa de mezo" (dialetto muggesano per "Chiesa di mezzo") è uno dei luoghi di culto più suggestivi e meno conosciuti di Muggia. Sorge a metà del percorso penitenziale che collegava il centro cittadino al santuario di Muggia Vecchia, lungo l'antica *Strada del perdòn*, usata per devozione durante le feste religiose.
+
+**Storia.** L'edificio fu probabilmente costruito dopo la **pestilenza del 1446**, come atto votivo della comunità per ringraziare della grazia ricevuta — o per propiziare la protezione del santo dalla malattia. San Sebastiano era tradizionalmente invocato, insieme a San Rocco, come protettore dalla peste.
+
+**Architettura.** Ha pianta rettangolare con facciata a capanna e un piccolo rosone. L'essenzialità dell'edificio riflette il carattere di cappella votiva rurale.
+
+**Opere d'arte.** All'interno si conservano alcune **rustiche statue devozionali** raffiguranti la *Madonna del Buon Consiglio*, *San Michele Arcangelo*, *San Biagio*, *San Sebastiano* e *Sant'Antonio Abate*: un piccolo pantheon della devozione popolare istriana tardo-medievale e moderna.
+
+---
+
+### Chiesetta di San Rocco
+
+**Comune:** Muggia – Frazione San Rocco (Porto San Rocco)  
+**Diocesi:** Trieste (dipende dalla parrocchia di San Matteo Apostolo di Zindis)  
+**Coordinate:** 45°36′22″N 13°45′18″E
+
+La chiesa di San Rocco si trova nella frazione omonima di Muggia, nei pressi del porto San Rocco, e rappresenta un esempio dell'architettura religiosa neogotica ottocentesca nel contesto industriale-portuale della costa muggesana.
+
+**Storia.** La devozione a San Rocco a Muggia nasce dalla grande **pestilenza del 1631**: la comunità eresse allora un piccolo luogo di culto nei pressi del lazzaretto, per grazia ricevuta dopo la cessazione dell'epidemia. Questa originaria chiesa fu poi inglobata nel 1857 nell'area del **Cantiere Navale "San Rocco"**, in fase di costruzione. Per far spazio a un nuovo bacino cantieristico, il vecchio edificio fu demolito e la chiesa attuale fu riedificata nel **1864** nei pressi del porto nascente.
+
+**Architettura.** L'edificio è di **stile neogotico**, con facciata semplice sopra la quale è infissa una lastra marmorea che riassume la storia del luogo di culto. La pala dell'altare maggiore, che secondo il quotidiano triestino *Il Diavoletto* del 7 aprile 1865 raffigurava la *Maria Assunta in cielo* con ai piedi la nuova chiesa e il cantiere navale, è andata perduta entro il 1960, così come le altre opere di pregio originarie, come documentato dal professor Giuseppe Cuscito nel volume *Le chiese di Trieste* (1992). La chiesa era luogo di visita abituale dell'**Arciduca Luigi Salvatore d'Asburgo-Lorena**, figlio del Granduca Leopoldo II di Toscana, che vi si recava in preghiera anche negli ultimi anni della sua vita.
+
+Attualmente la chiesa è aperta al culto solo per la Messa vigilare del sabato nel periodo estivo; durante il resto dell'anno è aperta alle sole visite turistiche.
+
+---
+
+### Chiesa di Santa Barbara
+
+**Comune:** Muggia – Frazione Santa Barbara (*Korošci* in sloveno)  
+**Diocesi:** Trieste
+
+La chiesa della piccola frazione collinare di Santa Barbara — che deve il nome alla santa patrona delle miniere e dei lavoratori a rischio, venerata anche a protezione dei cantieri navali vicini — fu edificata nella **seconda metà dell'Ottocento** in sostituzione di una piccola cappella attestata nella stessa località già nel XVII secolo. L'edificio è di fattura modesta, come le molte chiese parrocchiali rurali costruite nell'area della Provincia di Trieste durante il periodo asburgico, caratterizzate da un impianto longitudinale a navata unica con campanile laterale. Serve la comunità di una zona in cui la minoranza slovena è storicamente presente, confermando la funzione di presidio identitario e spirituale delle chiese rurali muggesane.
+
+---
+
+### Chiesa di San Matteo Apostolo (Zindis)
+
+**Comune:** Muggia – Frazione Zindis  
+**Diocesi:** Trieste
+
+La chiesa parrocchiale di San Matteo Apostolo nella frazione di Zindis è l'esempio più recente di architettura religiosa a Muggia, costruita per rispondere alle esigenze spirituali della popolazione delle frazioni periferiche nate o cresciute in relazione all'industria cantieristica del dopoguerra.
+
+**Storia.** I lavori iniziarono nel **1970** su progetto degli architetti **Carlo Celli** e **Dario Tognon**. L'edificio fu consacrato il **7 ottobre 1973**, contestualmente all'istituzione della nuova parrocchia autonoma di Zindis-San Rocco-Lazzaretto, che staccandosi dalla parrocchia del Duomo acquisì giurisdizione su un'ampia fascia del territorio comunale.
+
+**Architettura.** L'edificio riflette i dettami dell'architettura religiosa del Concilio Vaticano II: spazi accoglienti, luce naturale abbondante, orientamento dell'assemblea verso l'altare, con un linguaggio sobrio e funzionale tipico della produzione ecclesiale italiana degli anni Sessanta-Settanta. La chiesa di San Matteo è anche parrocchia di riferimento per la Chiesetta di San Rocco.
+
+---
+
+### Chiesa di Aquilinia (Frazione di Aquilinia-Stramare)
+
+**Comune:** Muggia – Frazione Aquilinia-Stramare (*Žavlje* in sloveno)  
+**Diocesi:** Trieste
+
+La chiesa della frazione di Aquilinia-Stramare rappresenta un caso particolare nell'architettura religiosa del Novecento: si tratta di una **struttura prefabbricata**, eretta nel 1962 in risposta alla crescita demografica della frazione costiera di Aquilinia, sviluppatasi nel secondo dopoguerra.
+
+**Storia.** La chiesa fu costruita nel **1962** e aperta al culto dal vescovo **Antonio Santin** il 29 luglio dello stesso anno. Il vescovo Santin, grande protagonista della vita ecclesiastica triestina nel periodo del confine orientale, conferì alla piccola chiesa la dignità di parrocchiale il **21 marzo 1964**, riconoscendo la necessità pastorale di una presenza religiosa autonoma in questa zona periferica del comune. È uno dei pochi esempi di chiesa prefabbricata nell'ambito della diocesi di Trieste, emblema di un'epoca in cui la rapidità costruttiva rispondeva alle urgenze di una comunità in formazione.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia italiana, voce *Muggia* — [it.wikipedia.org/wiki/Muggia](https://it.wikipedia.org/wiki/Muggia)
+- Wikipedia italiana, voce *Duomo di Muggia (Chiesa dei Santi Giovanni e Paolo)* — [it.wikipedia.org/wiki/Duomo_di_Muggia](https://it.wikipedia.org/wiki/Duomo_di_Muggia)
+- Wikipedia italiana, voce *Basilica di Santa Maria Assunta (Muggia Vecchia)* — [it.wikipedia.org/wiki/Basilica_di_Santa_Maria_Assunta_(Muggia_Vecchia)](https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_Assunta_(Muggia_Vecchia))
+- Wikipedia italiana, voce *Chiesa di San Rocco (Muggia)* — [it.wikipedia.org/wiki/Chiesa_di_San_Rocco_(Muggia)](https://it.wikipedia.org/wiki/Chiesa_di_San_Rocco_(Muggia))
+- Diocesi di Trieste, Parrocchie — [diocesi.trieste.it](https://www.diocesi.trieste.it/decanati-e-parrocchie/parrocchie/)
+- Parco Archeologico di Muggia Vecchia — [parcodimuggiavecchia.it](https://web.archive.org/web/20201019025541/http://parcodimuggiavecchia.it/it/content/la-fase-medievale-del-parco-di-muggia-vecchia)
+- Giuseppe Cuscito, *Le Chiese di Trieste*, Trieste, Italo Svevo, 1992
+- *Guida rossa Friuli-Venezia Giulia*, Milano, Touring Club Editore, 1999, pp. 202-203, ISBN 88-365-1162-7
+- *Friuli Venezia Giulia – Guida storico artistica naturalistica*, Trieste, Bruno Fachin Editore, 2004, p. 36, ISBN 88-85289-69-X
+- Comune di Muggia, Edifici storici — [comune.muggia.ts.it](http://www.comune.muggia.ts.it)
+- Percorsi Provincia di Trieste, *Parco e Santuario di Muggia Vecchia* — [percorsiprovinciats.it](http://percorsiprovinciats.it/home/dettagliomap/440)
+- Mascioni Organs, *Elenco organi* — [mascioni-organs.com](http://www.mascioni-organs.com/elenco-nuovi)
+
+---
+
 ## Muzzana del Turgnano
 
 Comune della Bassa Friulana in provincia di Udine (coord. 45°49′N 13°08′E, 7 m s.l.m.), con circa 2 320 abitanti. Il territorio comunale si distende tra i boschi planiziali di querco-carpineto — l'avanzo più significativo dell'antica *Silva Lupanica* — e la Laguna di Marano, percorso dal fiume Cormor. La storia religiosa di Muzzana del Turgnano è modesta nei numeri, ma non per questo priva di interesse: al centro dell'abitato si erge la chiesa parrocchiale dedicata a San Vitale Martire, patrono del paese, la cui festa è celebrata il 28 aprile. La parrocchia appartiene alla Forania della Bassa Friulana dell'Arcidiocesi di Udine. L'unica frazione del comune, Casali Franceschinis, è affidata pastoralmente alla parrocchia capoluogo.
@@ -12052,6 +12660,214 @@ Muzzana del Turgnano conta una sola frazione, Casali Franceschinis. Non sono doc
 - *Organi Nacchini e Dacci di Muzzana del Turgnano e Marano Lagunare (Udine)*, Bologna, Bongiovanni CD GB5038-2, 1994
 - Autori vari, *Muzzana - Villa Muciana*, a cura di Giuliano Bini, Associazione culturale "la bassa", 2003, p. 448
 - Wikipedia, *Muzzana del Turgnano*: <https://it.wikipedia.org/wiki/Muzzana_del_Turgnano>
+
+---
+
+## Nimis
+
+Nimis (in friulano *Nimis*, in sloveno *Neme* o *Nieme*) è un comune di circa 2.600 abitanti della provincia di Udine, collocato alle prime pendici delle Prealpi Giulie nella fascia pedemontana a nord di Tarcento. Il territorio, solcato dai torrenti Torre e Cornappo, si estende dal fondovalle fino alle frazioni montane oltre i 900 metri di quota. Il toponimo, attestato nell'antichità come *Nemas*, potrebbe derivare dalla radice celtica *Nem* (santuario, recinto sacro) o *Nim* (bosco), suggerendo la presenza in loco di un antico bosco sacro pre-romano.
+
+La storia ecclesiastica di Nimis affonda le radici nel pieno periodo longobardo: scavi condotti nel 1964 sotto la pavimentazione dell'odierna pieve hanno portato alla luce i resti di una prima basilica risalente alla metà del VI secolo. Da quella fondazione scaturì la *pieve* di Nimis, una delle più antiche e influenti dell'Arcidiocesi di Udine, che esercitò giurisdizione su Nimis stessa, su Attimis, su Povoletto e sulle popolazioni slave delle montagne circostanti per tutta la durata del Medioevo. La vocazione multiculturale del territorio — con comunità di lingua friulana nelle pianure e comunità slavofone nelle frazioni montane — ha prodotto una rete di piccole chiese rurali capillarmente diffusa, ciascuna con la propria storia di fondazione, di distruzione (spesso per sisma) e di ricostruzione.
+
+Il comune è classificato in zona sismica 1 (sismicità alta): il terremoto del 1348 distrusse la pieve medievale, quelli del 1511, del 1746 e del 1931 danneggiarono ripetutamente gli edifici sacri, e il catastrofico terremoto del Friuli del 1976 — che provocò il crollo o la grave lesione di numerose chiese — lasciò tracce profonde in quasi ogni luogo di culto del territorio. La ricostruzione post-sismica degli anni Settanta e Ottanta ha pertanto segnato in modo determinante l'aspetto attuale di molti edifici.
+
+Sul fronte artistico, Nimis vanta uno strettissimo legame con il pittore locale **Tita Gori** (Nimis, 1870–1941), le cui opere a fresco e a olio decorano più chiese del comune, rendendo il territorio una sorta di museo diffuso della pittura sacra tardottocentesca e primo-novecentesca friulana.
+
+---
+
+### Pieve arcipretale dei Santi Gervasio e Protasio
+
+**Comune:** Nimis, piazza Antoniutti  
+**Stile:** tardogotico con interventi barocchi e novecenteschi  
+**Epoca di costruzione:** prima basilica VI secolo; edificio attuale XIV secolo  
+**Arcidiocesi:** Udine — Forania della Pedemontana
+
+La pieve dei Santi Gervasio e Protasio è il principale luogo di culto di Nimis e uno dei complessi religiosi di maggiore antichità dell'intera area pedemontana udinese. Gli scavi del 1964 condotti sotto il pavimento hanno portato alla luce i resti di una basilica paleocristiana risalente alla metà del VI secolo, edificata durante il periodo longobardo: da essa prese avvio la *pieve* di Nimis, punto di riferimento liturgico per un vastissimo territorio montano-collinare che comprendeva, nell'alto Medioevo, le comunità di Attimis, Povoletto e le frazioni slave delle Prealpi.
+
+Il terremoto del 1348 distrusse l'edificio medievale frutto di successive stratificazioni ed ampliamenti. La pieve attuale venne dunque costruita nel corso del XIV secolo e fu in seguito ristrutturata nel 1714, nel 1898, nel 1934, nel 1964 e nell'anno 2000.
+
+**Opere d'arte e caratteristiche:** L'interno conserva affreschi di tre epoche distinte — medievale, rinascimentale e del primo Novecento — che testimoniano la continuità devozionale e artistica del luogo. I cicli pittorici di **Tita Gori** (Nimis, 1870–1941) costituiscono la parte più ampia del patrimonio decorativo interno. Nel 1964, in occasione della ristrutturazione, il vecchio altare maggiore con le statue dei santi patroni e il sovrastante affresco del Gori raffigurante l'*Agnus Dei* vennero rimossi e non si trovano più: al loro posto campeggia un nuovo altare in marmo sormontato da un grande **mosaico della Scuola Mosaicisti di Spilimbergo**, su disegno di Fred Pittino, raffigurante la *Vergine in trono col Bambino* affiancata dai santi Gervasio e Protasio e da San Giovanni Battista. Nelle absidi laterali si trovano altri due altari di metà Novecento.
+
+Nella navata sinistra sono appese due tele: una *Madonna del Rosario* del XVIII secolo di fattura popolare e un *Battista* di inizio Ottocento. Accanto all'ingresso si trova il **fonte battesimale in pietra del XV secolo**, con copertura moderna in rame, testimonianza preziosa dell'arte lapidaria tardomedievale locale. Sul pavimento sono visibili gli **scavi che mostrano i resti tardoantichi** della basilica originaria, lasciati deliberatamente a vista come memento della stratificazione storica del sito. Il piccolo organo nella navata sinistra fu restaurato nel 1979 dalla ditta organara Zanin.
+
+**Sito web:** [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68578)
+
+---
+
+### Santuario della Madonna delle Pianelle
+
+**Comune:** Nimis, su un'altura lungo la strada statale per Tarcento  
+**Stile:** barocco con facciata neoclassica e portico novecentesco  
+**Epoca di costruzione:** 1467; ristrutturazione 1773–1778; facciata 1900  
+**Arcidiocesi:** Udine
+
+Il santuario della Madonna delle Pianelle è il luogo di culto mariano più venerato di Nimis e attorno ad esso gravita la festa più sentita della comunità locale, l'Ottavario della Madonna (1–8 settembre). Sorge su una piccola collinetta ad ovest del centro abitato, visibile dalla strada statale che conduce a Tarcento.
+
+La fondazione risale al **1467** (alcune fonti riportano il 1476): la tradizione vuole che la chiesa sia stata costruita a seguito di un'apparizione mariana e del miracolo dello spostamento spontaneo delle fondamenta in un sito più idoneo. L'edificio attuale fu integralmente ristrutturato tra il 1773 e il 1778, assumendo l'aspetto barocco che in buona parte conserva. Nel 1900 fu aggiunto "per volontà del popolo" — come recita l'iscrizione sulla facciata — un **portico neoclassico a tre arcate** che precede l'ingresso, e fu rifatta la facciata stessa, mantenendo le finestre e il portale in pietra del XVIII secolo; nello stesso intervento fu realizzata la cantoria in controfacciata, con due finestre che la illuminano dall'esterno.
+
+Il campanile, quadrangolare con cella campanaria aperta a bifore, fu costruito nel 1647 e sopraelevato nel 1886; contiene tre campane del 1925 che si suonano ancora a mano, secondo l'uso tradizionale.
+
+**Opere d'arte e caratteristiche:** L'interno è riccamente decorato *a trompe-l'œil* con cassettoni, bordure e fregi, e si articola in un'aula di medie dimensioni e in un presbiterio separato da arco sacro e balaustrata marmorea. La venerata **statua della Vergine**, collocata sull'altare maggiore, è scolpita in pietra d'Aurisina e risale al Quattrocento: è opera di un artista locale di ispirazione fiamminga. I colori furono rinfrescati all'inizio del Novecento da un decoratore friulano che vi aggiunse anche il fondale.
+
+L'**altare maggiore in marmi policromi** con quattro colonne corinzie e arco spezzato è un voto di Giuseppe Liruti del 1731. I due **altari laterali in marmo bianco di Carrara e rosso di Verona** con colonne di ordine composito e putti furono eseguiti nel 1783–1784 da **Giacomo Pischiutti di Gemona**.
+
+Gli affreschi sulle pareti laterali, eseguiti nel 1926 e nel 1933 da **Giacomo Monai** (allievo di Tita Gori) con aiuti, narrano in quattro pannelli la vita della Madonna: la Presentazione al Tempio, l'Immacolata Concezione, l'Assunzione e l'Annunciazione. Il soffitto originale con la *Nascita di Maria*, dipinto dallo stesso Monai, crollò nel terremoto del 1976; ne restano soltanto frammenti del dipinto centrale e le cornici decorative.
+
+Sul presbiterio, Monai affrescò anche lo *Spirito Santo* con i titoli di Maria tratti dalle litanie lauretane.
+
+La **pala dell'altare sinistro** è un affresco della *Sacra Famiglia* eseguito nel 1889 da **Tita Gori** — prima opera pubblica del pittore, donata per devozione al santuario mariano del suo paese natale. La pala dell'altare destro, raffigurante *San Valentino, Sant'Osvaldo e San Nicola*, dipinta nel 1786 da **Giulio Antonio Manin**, fu purtroppo distrutta nell'incendio del 9 settembre 2018; nel 2019 la chiesa fu restaurata dalla ditta Milan e la pala sostituita con una riproduzione fotografica su tela. Al 2025 è in corso la realizzazione *ex novo* di una nuova pala di sostituzione.
+
+I più antichi affreschi del santuario erano opera di **Gian Paolo Thanner**: rovinati dall'umidità nel corso dei secoli e imbiancati, sono stati in parte recuperati in frammenti e collocati nel Duomo di Santo Stefano di Nimis su appositi tabelloni.
+
+Il piccolo **organo Zanin del 1896** è stato recentemente restaurato con il contributo di una fondazione locale.
+
+**Sito web:** [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68567/)
+
+---
+
+### Duomo di Santo Stefano (Borgata Centa)
+
+**Comune:** Nimis, località Centa  
+**Stile:** rinascimentale con rifacimenti successivi  
+**Arcidiocesi:** Udine
+
+Il Duomo di Santo Stefano si trova nella borgata di Centa, uno dei nuclei storici originali di Nimis (nel Medioevo il paese era organizzato attorno a due *cente*, raggruppamenti di case in forma circolare con al centro una piazza). L'edificio custodisce i **frammenti degli affreschi di Gian Paolo Thanner** provenienti dal santuario della Madonna delle Pianelle, recuperati durante i restauri del santuario dopo secoli di degrado e attualmente esposti su tabelloni all'interno dell'edificio. Il Duomo di Santo Stefano costituisce dunque, anche al di là del suo valore architettonico autonomo, un importante polo documentario per la pittura sacra locale tra XVII e XVIII secolo.
+
+---
+
+### Chiesa di Santa Maria Maddalena (Cergneu Inferiore)
+
+**Comune:** Nimis, frazione Cergneu Inferiore (sloveno: *Dolenjena*), sulle pendici del Castello di Cergneu  
+**Stile:** romanico-gotico  
+**Epoca di costruzione:** 1323  
+**Arcidiocesi:** Udine
+
+La chiesa di Santa Maria Maddalena è uno dei monumenti medievali più integri del territorio di Nimis. Fu costruita nel **1323** da Pietro, Giovanni e Corrado di Cergneu, discendenti della famiglia dei Savorgnano, come chiesa castrense in prossimità del castello di famiglia, i cui resti si trovano a pochi passi dall'edificio. In origine dedicata ai **Santi Pietro e Paolo**, fu riconsacrata a Santa Maria Maddalena nel XV secolo.
+
+La chiesa è raggiungibile a piedi in pochi minuti dal centro di Cergneu Inferiore, percorrendo una stretta scalinata in pietra che sale verso nord lungo le pendici della montagna: la sua posizione isolata e panoramica le conferisce un fascino paesaggistico del tutto particolare.
+
+**Opere d'arte e caratteristiche:** L'edificio presenta un **ampio porticato con tre aperture ad arco a tutto sesto** su tre lati; due aperture sono provviste di muretto-seduta, mentre la terza permette l'accesso alla chiesa. La facciata è a capanna e nel punto più alto è dotata di una **bifora campanaria**, poiché l'edificio è privo di torre campanaria separata. Il portale di accesso è in pietra. L'interno a pianta rettangolare conserva i **resti di affreschi medievali su tre pannelli** alle pareti; il soffitto è a vista con capriate in legno e tavelline in cotto, il pavimento in mattonelle di cotto. Un arcosanto a tutto sesto separa l'aula dal piccolo presbiterio quadrato, con altare in pietra. L'edificio è privo di sacrestia.
+
+Nella liturgia locale, oltre all'italiano, è tradizionalmente in uso lo **sloveno**, sia nella forma standard sia nel locale dialetto *po nasem* (la lingua slovena del Natisone), testimonianza del radicato plurilinguismo delle frazioni montane di Nimis.
+
+**Sito web:** [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68573/Chiesa+di+Santa+Maria+Maddalena)
+
+---
+
+### Chiesa della Santissima Trinità (Pecolle di Cergneu)
+
+**Comune:** Nimis, frazione Pecolle (coordinate: 46°13′11″N, 13°19′01″E)  
+**Stile:** gotico rurale con porticato aperto  
+**Epoca di costruzione:** inizi del XVI secolo (ampliata 1746)  
+**Arcidiocesi:** Udine
+
+La chiesa della Santissima Trinità sorge a Pecolle, piccola frazione montana del comune di Nimis, immersa nel verde delle Prealpi Giulie. Fu edificata **nei primi anni del 1500** su un terreno donato da Gregorio di Attimis. Nel 1746 l'edificio fu ampliato con la costruzione della sacrestia e del campanile; fu restaurato dopo i terremoti del 1746, del 1931 e del 1976.
+
+**Opere d'arte e caratteristiche:** La chiesa è preceduta da un **porticato con tre aperture ad arco a tutto sesto**, in parte chiuse da muretti, che costituisce un elemento tipico dell'architettura religiosa rurale friulana. Il portale d'ingresso è sormontato da un **arco ogivale in pietra**, e ai suoi fianchi si aprono due piccole finestre quadrate. L'aula rettangolare presenta sulle pareti laterali **finestre ogivali** e i resti di **affreschi** di difficile datazione; le **capriate lignee** del soffitto sono a vista. L'arco santo a tutto sesto introduce al presbiterio pentagonale, rialzato di due gradini, con **volta a crociera a costolonature in pietra** — elemento di qualità costruttiva che denota la competenza dei maestri d'opera che operarono nel cantiere cinquecentesco. Ai lati dell'arco santo si trovano due affreschi incorniciati. Il campanile è parzialmente inglobato nei muri perimetrali meridionali dell'edificio. La pavimentazione è in **cotto a spina di pesce**.
+
+**Sito web:** [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68568/)
+
+---
+
+### Chiesa di Sant'Elena Imperatrice (Chialminis)
+
+**Comune:** Nimis, frazione Chialminis (friulano: *Cjalminis*; sloveno: *Vizont*)  
+**Stile:** gotico rurale  
+**Epoca di costruzione:** XIV secolo  
+**Arcidiocesi:** Udine
+
+La chiesa di Sant'Elena Imperatrice a Chialminis è uno dei luoghi di culto più antichi del versante montano del comune di Nimis, databile al XIV secolo. Chialminis è una delle frazioni slavofone del territorio: accanto all'italiano e al friulano, vi si parla tuttora in forma residuale il dialetto sloveno beneciano locale. La chiesa di Sant'Elena, dedicata alla madre dell'imperatore Costantino e tradizionale protettrice dei cristiani d'Oriente, riflette il carattere di cerniera culturale di questa zona, al confine tra la sfera linguistica romanza e quella slava.
+
+---
+
+### Chiesa di San Giacomo (Cergneu)
+
+**Comune:** Nimis, frazione Cergneu  
+**Stile:** rurale  
+**Arcidiocesi:** Udine
+
+La chiesa di San Giacomo è il luogo di culto della borgata di Cergneu, nella parte montana del territorio. È patrona della festa paesana del **25 luglio** (sagra di San Giacomo a Cergneu), una delle ricorrenze più sentite della comunità locale. La chiesa è citata nel già menzionato **Catapan di Cergneu** (redatto attorno al 1497), uno dei più antichi documenti in dialetto sloveno riguardanti le Valli del Torre: un atto di donazione alla confraternita di Santa Maria di Cergneu registra un pascolo posto in Monte di Prato, e la stessa confraternita organizzava la vita devozionale attorno alla chiesa di San Giacomo.
+
+---
+
+### Chiesa di San Giorgio sul Monte Zuccon
+
+**Comune:** Nimis, Monte Zuccon (sopra Monteprato e Nimis)  
+**Stile:** sacello medievale (oggi in rovina)  
+**Arcidiocesi:** Udine
+
+La chiesa di San Giorgio sul Monte Zuccon è uno dei luoghi di culto storicamente più significativi del territorio nimense, per quanto oggi ridotta a rudere. Si tratta di un **antichissimo sacello** nato all'interno del *Castrum Nemas*, il castello longobardo di Nimis citato da **Paolo Diacono** nella sua *Historia Langobardorum* (VIII secolo) come teatro dell'uccisione di Arnefrido, figlio di Lupo Duca del Friuli. Il *castrum* sorgeva su un'altura sopra il paese, e la chiesa castrense di San Giorgio era l'unico luogo di culto disponibile per le popolazioni slave che si erano insediate sulle montagne circostanti a partire dal VI secolo.
+
+Nel **1642** la chiesa di San Giorgio divenne sede del **Vicariato degli Slavi** — una suddivisione della parrocchia di Nimis creata appositamente per la cura pastorale delle comunità slavofone di Cergneu, Torlano, Chialminis, Monteprato e Monteaperta — amministrata da un sacerdote che conosceva i dialetti slavi e celebrava la messa nelle chiese di montagna. Il Vicariato rappresentò per oltre due secoli l'unico presidio ecclesiastico regolare per queste comunità isolate.
+
+Alla fine del XVIII secolo l'edificio era ormai in stato rovinoso e non più idoneo al culto. Nel 1819 la *vicinia* di Monteprato ottenne il diritto di demolire la chiesa e di utilizzarne le pietre per costruire un nuovo edificio all'interno del paese, su un terreno donato dal notaio Valentino di Benedetto. La nuova chiesa di Monteprato fu benedetta nel 1821, inglobando così fisicamente la memoria dell'antico sacello castrense.
+
+---
+
+### Chiesa di San Giorgio a Monteprato
+
+**Comune:** Nimis, frazione Monteprato (friulano: *Mondiprât*; sloveno: *Karnica*), 566 m s.l.m.  
+**Stile:** neoclassico  
+**Epoca di costruzione:** consacrata nel 1889 (edificio precedente benedetto nel 1821)  
+**Arcidiocesi:** Udine
+
+La chiesa di San Giorgio a Monteprato è l'edificio sacro della piccola comunità montanara di Monteprato, distante circa 5 km dal capoluogo e collocata su un altipiano dominante la valle del Rio Montana, con una vista straordinaria sulla pianura friulana. La sua storia è strettamente legata alla demolizione della chiesa di San Giorgio sul Monte Zuccon (v. sopra): le pietre dell'antico sacello longobardo furono riutilizzate nel 1821 per la costruzione di un primo oratorio nel paese. Questo primo edificio si rivelò presto insufficiente e nel 1889 fu sostituito dall'attuale chiesa, progettata dall'architetto **Raimondo D'Aronco**, uno dei maggiori protagonisti del Liberty italiano e triestino.
+
+**Opere d'arte e caratteristiche:** L'edificio è ad **aula con abside semicircolare**, orientato nord-sud e rialzato rispetto alla strada. L'interno **neoclassico** è caratterizzato da **colonne corinzie** raccordate da un'ampia cornice e da una **volta a botte** illuminata da finestre sui due lati. L'area presbiteriale è sovrastata da un **cupolino** e termina con il catino absidale: entrambi sono **affrescati da Tita Gori** (Nimis, 1870–1941), che qui realizzò alcune delle sue composizioni più apprezzate, caratterizzate da una luminosità calda e da una qualità pittorica superiore rispetto alla media della produzione devozionale coeva.
+
+---
+
+### Chiesa di San Giovanni Battista (Ramandolo)
+
+**Comune:** Nimis, frazione Ramandolo (friulano: *Ramandul*)  
+**Arcidiocesi:** Udine
+
+La chiesa di San Giovanni Battista a Ramandolo è il luogo di culto della celebre frazione vinicola di Nimis, famosa in tutto il Friuli per la produzione dell'omonimo vino DOCG da uve Verduzzo friulano coltivate sulle colline attorno al borgo. La posizione di Ramandolo — a cavallo tra la pianura friulana (di tradizione romanza) e le colline slavofone — si riflette nel suo stesso nome: secondo una diffusa interpretazione, il toponimo deriva dall'indicazione dell'antico confine linguistico, *Romàndul* nel senso di "ultimo luogo linguisticamente romanzo" prima della zona slavofona. La chiesa, di modeste dimensioni, rappresenta il punto di riferimento devozionale per la comunità locale e il fulcro della vita religiosa della frazione.
+
+---
+
+### Chiesa di Sant'Antonio Abate (Torlano)
+
+**Comune:** Nimis, frazione Torlano (friulano: *Torlàn*)  
+**Arcidiocesi:** Udine
+
+La chiesa di Sant'Antonio a Torlano è legata a una storia particolarmente drammatica: il **24 agosto 1944**, nell'abitato di Torlano, si consumò uno dei più gravi eccidi della resistenza friulana, in cui reparti delle Waffen-SS tedesche trucidarono 33 civili, tra cui donne e bambini. Il relativo fascicolo d'indagine fu occultato e rinvenuto solo nel 1994 nell'ambito del cosiddetto *Armadio della Vergogna*. La chiesa costituisce un punto di riferimento spirituale e memoriale per la comunità, in un contesto in cui la devozione religiosa e la memoria storica si intrecciano inscindibilmente.
+
+Torlano era sede dal **1642** del già citato Vicariato degli Slavi (suddivisione della parrocchia di Nimis per la cura pastorale delle comunità slavofone): la chiesa del paese fu quindi per circa due secoli il principale centro liturgico della montagna, con messe celebrate in lingua slovena per le comunità delle frazioni montane. Il Vicariato fu abolito nel 1885, quando la costruzione di chiese locali nelle singole frazioni rese possibile l'assistenza spirituale in loco.
+
+---
+
+### Chiesa di San Mauro Abate (Molmentèt)
+
+**Comune:** Nimis, borgata Molmentèt  
+**Arcidiocesi:** Udine
+
+La chiesa di San Mauro Abate a Molmentèt prende il nome dalla storica *strada di San Mauro*, asse viario di origine romana che collegava il borgo Valle al fiume Torre, costituendo una delle principali arterie di comunicazione dell'antico territorio nimense. La borgata di Molmentèt è legata anche a un'interessante ipotesi etymologica: il suo nome deriverebbe dalla presenza nell'area di *monumenti sepolcrali* di età romana (da *monumentum* a *Molmentet*), a testimonianza di quanto profondo fosse il substrato romano nel territorio di Nimis e nelle sue campagne.
+
+---
+
+### Chiesa di San Giuseppe (Vallemontana)
+
+**Comune:** Nimis, frazione Vallemontana (friulano: *Valdimontane*; sloveno: *Konoleč*)  
+**Arcidiocesi:** Udine
+
+La chiesa di San Giuseppe è il luogo di culto della frazione di Vallemontana, situata in posizione intermedia tra il capoluogo e le frazioni più alte di Monteprato. La località si trova nel fondovalle del Rio Montana, all'imbocco della salita verso le frazioni montane: rappresenta quindi un nodo di passaggio storico tra la pianura e le alture prealpine. Dedicata a San Giuseppe, patrono dei lavoratori e delle famiglie, la chiesa riflette la natura prevalentemente agricola e pastorale della comunità locale.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia italiana: *Nimis*, *Pieve dei Santi Gervasio e Protasio (Nimis)*, *Chiesa della Madonna delle Pianelle*, *Chiesa della Santissima Trinità (Nimis)*, *Chiesa di Santa Maria Maddalena (Nimis)*, *Monteprato*
+- Conferenza Episcopale Italiana — BeWeB (Beni Ecclesiastici in Web): schede degli edifici di culto del comune di Nimis — [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it)
+- Chiese delle Diocesi Italiane (CEI): [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it)
+- Venuti Tarcisio, *Chiesette votive da Tarcento a Cividale*, La Nuova Base, 1977
+- Fabretti Bruno (a cura di), *Come eravamo* (raccolta fotografica), Aviani & Aviani ed.
+- IPAC Regione FVG — Inventario del Patrimonio Artistico e Culturale: [ipac.regione.fvg.it](http://www.ipac.regione.fvg.it)
+- ArcheoCartaFVG: [archeocartafvg.it](https://www.archeocartafvg.it/portfolio-articoli/nimis-ud-fraz-cergneu-inferiore-chiesa-santa-maria-maddalena-dei-santi-pietro-paolo-apostoli/)
+- Comune di Nimis — sito istituzionale: [comune.nimis.ud.it](https://www.comune.nimis.ud.it)
+- Dom (rivista della minoranza slovena): *Cergneu e le sue chiese storiche* (21 dicembre 2011)
+- Paolo Diacono, *Historia Langobardorum*, VIII secolo (per i riferimenti al *Castrum Nemas*)
+- Manoscritto di Cergneu (*Catapan di Cergneu*), ca. 1497
 
 ---
 
@@ -12436,6 +13252,110 @@ La "Madonna di cera" conservata nel santuario è oggetto di particolare devozion
 - Touring Club Italiano, *Guida rossa Friuli-Venezia Giulia*, Milano, TCI, 1999, pp. 502–503, ISBN 88-365-1162-7
 - Bruno Fachin Editore, *Friuli Venezia Giulia – Guida storico artistica naturalistica*, 2004, p. 207, ISBN 88-85289-69-X
 - ValleCormor, *Chiesa parrocchiale di San Giorgio – Pagnacco* — [http://www.vallecormor.com/punti/pagnacco/chiesa-parrocchiale-di-san-giorgio-pagnacco/](http://www.vallecormor.com/punti/pagnacco/chiesa-parrocchiale-di-san-giorgio-pagnacco/)
+
+---
+
+## Palazzolo dello Stella
+
+Palazzolo dello Stella (_Palaçûl_ in friulano, _Palassôl_ nella variante locale) è un comune di circa 2.900 abitanti situato nella Bassa Friulana, nella provincia di Udine, attraversato dal fiume Stella che sfocia nella Laguna di Marano. La sua posizione lungo la Via Annia — il tracciato romano che collegava Concordia Sagittaria ad Aquileia — e la fertilità della pianura hanno favorito un insediamento antico, attestato già in epoca preistorica. Il territorio comunale comprende il capoluogo e le frazioni di Modeano, Piancada e La Fraida.
+
+Il patrimonio di architettura sacra del comune, pur modesto nella quantità, rispecchia fedelmente le vicende religiose della Bassa Friulana: l'antichissima pieve medievale, poi ricostruita in forme neoclassiche, costituisce il fulcro devozionale della comunità; attorno ad essa gravitano una serie di edifici minori — oratori, cappelle e chiese succursali — che scandiscono il territorio parrocchiale fino alle frazioni lagunari. Tutti gli edifici appartengono all'Arcidiocesi di Udine, Forania della Bassa Friulana.
+
+---
+
+### Pieve Arcipretale di Santo Stefano Protomartire
+
+**Comune:** Palazzolo dello Stella (capoluogo)  
+**Indirizzo:** Via del Rio 3, 33056 Palazzolo dello Stella (UD)  
+**Coordinate:** 45°48′23.58″N, 13°04′45.4″E  
+**Stile:** Neoclassico  
+**Epoca di costruzione:** XVIII–XIX secolo (ricostruzione); origini medievali  
+**Consacrazione:** 27 settembre 1890  
+**Arcidiocesi:** Udine — Forania della Bassa Friulana  
+**Sito web:** [diocesiudine.it](https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-bassa-friulana-1665/cp-di-palazzolo-dello-stella-1682/palazzolo-dello-stella-388/)
+
+La pieve di Palazzolo dello Stella è uno degli edifici sacri più antichi della Bassa Friulana. Secondo la tradizione storica, l'origine della pieve risale al **V secolo**, probabilmente sorta sui resti di strutture romane tornate alla luce nel corso degli scavi moderni; la sua esistenza è tuttavia documentata con certezza a partire dal **XII–XIII secolo**, quando era inserita nell'arcidiaconato inferiore del **Patriarcato di Aquileia**, la grande istituzione ecclesiastica che governò il Friuli per quasi un millennio fino alla sua soppressione nel 1751.
+
+Nel **1655** un violento incendio distrusse l'edificio preesistente. La comunità provvide a riedificarlo, ma l'edificio attuale è il frutto di una seconda ricostruzione avviata nel **1796**, su progetto di maestranze friulane, in accordo con il gusto neoclassico dominante nell'area veneto-friulana di fine Settecento. La nuova chiesa fu consacrata solennemente il **27 settembre 1890**. Nel **1906** la parrocchiale riacquistò il titolo onorifico di **pieve matrice**, che aveva perso in un periodo imprecisato della sua storia. Nel **1980**, in applicazione delle norme liturgiche postconciliari, furono installati nel presbiterio un nuovo ambone e un altare rivolto verso i fedeli. Tra il **2000 e il 2001** l'intero edificio fu sottoposto a un importante restauro su progetto dell'architetto **Giovanni Moretti** e del geometra **Domenico Giangiacomo**.
+
+#### Architettura esterna
+
+La **facciata a capanna**, orientata a sudovest, è scandita da quattro **lesene ioniche** sorreggenti un **timpano triangolare** al cui centro si apre un oculo quadrilobato oggi murato. Al centro del prospetto si trova il **portale architravato** in pietra, inquadrato da cornice a nastri polilobati, sovrastato da una finestra rettangolare anch'essa tamponata. L'insieme comunica la compostezza tipica del neoclassicismo provinciale friulano, sobrio ma ben proporzionato.
+
+Il sagrato, sopraelevato rispetto alla quota stradale, è raggiungibile attraverso tre arcate sul lato meridionale, delimitato da plinti a guglia, e recintato da ringhiere in ferro. Sul lato meridionale dell'edificio si trova il **campanile**, torre quadrata autonoma rispetto alla navata, sulla cui parete meridionale è affrescata una **meridiana** — dettaglio decorativo caratteristico delle torri campanarie friulane. La cella campanaria presenta una monofora per ciascun lato ed è coperta da tetto a quattro falde.
+
+#### Architettura interna
+
+L'interno si articola in un'**unica navata** rettangolare, con paraste su base lapidea e capitello ionico che sostengono una trabeazione modanata e aggettante, sulla quale si imposta una **volta a botte** decorata da pitture. Lungo le fiancate si aprono due cappelle laterali per lato, ad arco a tutto sesto; il lato sinistro ospita anche la nicchia del **fonte battesimale**. Sulla destra è collocato un **pulpito aereo** settecentesco, affacciato sulla navata. Il pavimento è in lastre di marmo beige chiaro, con una corsia centrale a losanghe grigio-beige delimitata da bordi grigi.
+
+Il **presbiterio**, sopraelevato di due gradini, è introdotto dall'arco santo poggiante su due **colonne ioniche libere** — soluzione di rara eleganza nel panorama ecclesiastico della Bassa Friulana. L'arco absidale a tutto sesto introduce l'**abside quadrata con angoli smussati** (a sguincio), coperta da volta a vela; le pareti absidali presentano un'arcata sommitale di coronamento. Il soffitto del presbiterio è a volta ribassata a quattro vele. L'altare maggiore, adeguato alle norme postconciliari, riutilizza elementi di una balaustra marmorea, conferendo continuità materica con l'arredo storico della chiesa.
+
+La volta della navata e il catino absidale conservano **dipinti di carattere devozionale** databili tra Otto e Novecento, tipici dell'artigianato pittorico friulano dell'epoca. Gli altari laterali nelle cappelle minori ospitano pale d'altare di tradizione locale, non ancora pienamente indagate dalla critica specialistica.
+
+---
+
+### Chiesa della Beata Vergine del Suffragio
+
+**Comune:** Palazzolo dello Stella (capoluogo)  
+**Stile:** Barocco–tardo barocco, con elementi neoclassici  
+**Epoca:** XVIII–XIX secolo
+
+La chiesa della Beata Vergine del Suffragio è un edificio di culto secondario situato nel capoluogo comunale, dedicato alla devozione per le anime del Purgatorio — tema particolarmente sentito nella pietà popolare friulana tra Seicento e Settecento, quando le confraternite del Suffragio erano attive in quasi ogni paese della regione. L'edificio, di dimensioni raccolte, svolse per secoli la funzione di **oratorio confraternale**, ospitando le riunioni e le celebrazioni liturgiche della locale confraternita di suffragio, impegnata nella preghiera e nelle opere di misericordia a favore dei defunti.
+
+La struttura architettonica riflette i modelli correnti nell'edilizia religiosa minore della Bassa Friulana del XVIII secolo: pianta semplice ad aula, facciata a capanna con portale modanato, campaniletto a vela. L'interno conserva un altare dedicato alla Vergine, con elementi decorativi tipici della pietà mariana locale. La chiesa è citata tra i beni culturali del comune di Palazzolo dello Stella e rappresenta una testimonianza della ricca vita religiosa comunitaria che animava i piccoli centri della pianura friulana prima delle trasformazioni del XIX e XX secolo.
+
+---
+
+### Chiesa di San Bartolomeo Apostolo
+
+**Comune:** Palazzolo dello Stella (capoluogo o frazioni)  
+**Stile:** Rurale, forme tradizionali friulane  
+**Epoca:** Origini medievali, rimaneggiamenti moderni
+
+La chiesa di San Bartolomeo è uno degli edifici di culto del territorio comunale di Palazzolo dello Stella, dedicato all'apostolo Bartolomeo, figura venerata nell'area nordadriatica fin dall'Alto Medioevo. Le dediche a San Bartolomeo sono frequenti nei centri rurali della pianura e della fascia lagunare friulana, spesso associate a insediamenti sorti in prossimità di vie d'acqua o percorsi di transumanza.
+
+L'edificio, di dimensioni modeste, appartiene alla tipologia dell'oratorio rurale friulano: struttura ad aula semplice, con facciata a salienti o a capanna, campanile ridotto. È censito tra i monumenti di interesse storico-artistico del comune all'interno del Catalogo regionale dei beni culturali del Friuli Venezia Giulia (IPAC). La chiesa, benché non sottoposta a tutela diretta di rilievo nazionale, costituisce un elemento identitario del paesaggio sacro locale e testimonia la continuità della devozione comunitaria nel lungo periodo.
+
+---
+
+### Chiesa di Sant'Antonio Abate
+
+**Comune:** Palazzolo dello Stella (capoluogo o frazioni)  
+**Stile:** Tradizionale friulano, con rifacimenti ottocenteschi  
+**Epoca:** XVIII–XIX secolo
+
+La dedicazione a Sant'Antonio Abate (17 gennaio) è tra le più diffuse nella devozione popolare friulana, strettamente legata alla benedizione degli animali domestici e alla protezione del bestiame — tradizione di fondamentale importanza per le comunità rurali della pianura. La chiesa di Sant'Antonio Abate a Palazzolo dello Stella è un edificio di culto minore che ha accompagnato per secoli la vita agricola e pastorale del territorio comunale.
+
+La struttura si inserisce nel tessuto edilizio del capoluogo o di una delle sue frazioni come cappella votiva o oratorio di quartiere, con forme architettoniche semplici e sobrie, tipiche dell'edilizia sacra minore della Bassa Friulana. La ricorrenza del santo (13 giugno per Sant'Antonio da Padova, o 17 gennaio per Sant'Antonio Abate) è tuttora celebrata con processioni e festeggiamenti comunitari, come documentato dalla presenza nel comune del _Comitato Festeggiamenti S. Antonio_, associazione locale attiva nell'organizzazione delle celebrazioni annuali.
+
+---
+
+### Chiesa di Santa Caterina Vergine e Martire — Piancada
+
+**Comune:** Palazzolo dello Stella, frazione di **Piancada**  
+**Indirizzo:** Via della Laguna 119, 33056 Palazzolo dello Stella (UD)  
+**Stile:** Tradizionale friulano, con rifacimenti moderni  
+**Epoca:** Origini pre-moderna, struttura attuale XIX–XX secolo  
+**Arcidiocesi:** Udine — Forania della Bassa Friulana  
+**Sito web:** [diocesiudine.it](https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-bassa-friulana-1665/cp-di-palazzolo-dello-stella-1682/piancada-389/)
+
+La frazione di Piancada, situata nella parte meridionale del territorio comunale in prossimità della Laguna di Marano, è sede di una **parrocchia autonoma** dedicata a **Santa Caterina d'Alessandria, Vergine e Martire** — una delle sante più venerate nel Medioevo cristiano, patrona di numerose pievi rurali del patriarcato di Aquileia. La parrocchia di Piancada è canonicamente unita alla comunità parrocchiale di Palazzolo dello Stella, condividendone il parroco residente.
+
+La chiesa si trova lungo Via della Laguna, arteria che collega la frazione con il sistema lagunare di Marano, e conserva il ruolo di punto di riferimento spirituale per la piccola comunità locale. Il territorio di Piancada è caratterizzato da una particolare cultura devozionale legata all'ambiente lagunare: la festa del _Perdon di Piancada_, i cui festeggiamenti in onore della **Madonna della Salute** si tengono il terzo fine settimana di novembre, testimonia la persistenza di una devozione mariana radicata nel mondo dei pescatori e degli agricoltori della bassa pianura friulana.
+
+L'architettura della chiesa riflette i modelli correnti dell'edilizia parrocchiale rurale friulana del XIX e XX secolo: impianto ad aula rettangolare, facciata semplice, campanile. L'edificio è inserito nel sistema delle chiese della Bassa Friulana afferenti all'Arcidiocesi di Udine.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia — _Palazzolo dello Stella_, [it.wikipedia.org/wiki/Palazzolo_dello_Stella](https://it.wikipedia.org/wiki/Palazzolo_dello_Stella)
+- Wikipedia — _Chiesa di Santo Stefano Protomartire (Palazzolo dello Stella)_, [it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_Protomartire_(Palazzolo_dello_Stella)](https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_Protomartire_\(Palazzolo_dello_Stella\))
+- Conferenza Episcopale Italiana — _Le Chiese delle Diocesi Italiane_, scheda n. 68612: [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68612)
+- Arcidiocesi di Udine — _Annuario delle Comunità Parrocchiali, Forania della Bassa Friulana_: [diocesiudine.it](https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-bassa-friulana-1665/cp-di-palazzolo-dello-stella-1682/)
+- IPAC Regione Friuli Venezia Giulia — _Inventario del Patrimonio Architettonico e Culturale_, scheda 630, Palazzolo dello Stella
+- G. G. Corbanese, _Il Friuli, Trieste e l'Istria dalla preistoria alla caduta del Patriarcato di Aquileia_, Del Bianco Editore, Udine, 1984
+- Wikidata — Q112313453, Chiesa di Santo Stefano Protomartire (Palazzolo dello Stella): [wikidata.org/wiki/Q112313453](https://www.wikidata.org/wiki/Q112313453)
 
 ---
 
@@ -13037,6 +13957,321 @@ Il santuario è meta di pellegrinaggio locale, particolarmente frequentato in oc
 
 ---
 
+## Pavia di Udine
+
+Pavia di Udine (_Pavie_ in friulano) è un comune sparso di circa 5.400 abitanti nella pianura friulana, situato immediatamente a sud di Udine, in provincia di Udine. Il suo territorio si articola in una dozzina di frazioni e località — tra cui Percoto, Lauzacco (sede municipale), Risano, Lumignacco, Chiasottis, Cortello, Persereano, Popereacco, Ronchi, Muris e Selvuzzis — ognuna delle quali conserva almeno un luogo di culto di interesse storico-artistico.
+
+La stratificazione religiosa del comune riflette la complessità storica della pianura friulana: insediamenti romani, dominio patriarcale aquileiese, giurisdizione dell'abbazia di Rosazzo su Pavia e Percoto a partire dal 1135, e poi il lungo periodo veneziano dal 1420 al 1797. Queste vicende hanno lasciato un patrimonio ecclesiastico insolitamente ricco per un comune rurale di pianura: chiese parrocchiali di fondazione medievale, oratori gentilizi annessi alle numerose ville nobiliari, cappelle votive e santuari mariani. La devozione popolare si intreccia con il mecenatismo delle famiglie aristocratiche che scelsero queste campagne per le loro dimore estive, dotandole di cappelle affrescate da pittori di scuola veneziana e friulana.
+
+---
+
+### Chiesa di Sant'Ulderico — Pavia di Udine (capoluogo)
+
+**Stile e datazione:** Barocco-neoclassico; costruita nel XVIII secolo, consacrata il 28 ottobre 1773 dall'arcivescovo Giovanni Girolamo Gradenigo. Ristrutturata negli anni ottanta del Novecento.
+
+La parrocchiale di Pavia di Udine, dedicata al santo patrono del comune (festività il 4 luglio), sorge al centro del capoluogo in via Selvuzzis. Un luogo di culto era già presente in questo sito fin dal XV secolo; l'edificio attuale sostituisce integralmente il precedente e appartiene al periodo di intensa rinnovazione delle parrocchiali della diocesi udinese nel pieno Settecento. La facciata mostra una decorazione sobria: nella lunetta del portale principale è raffigurato Sant'Ulderico, affresco di Enrico De Cilia eseguito nel XX secolo. Due delicati angeli marmorei affiancano il portale e reggono lo stemma del patriarca Girolamo Gradenigo, testimonianza del legame secolare tra questa parrocchia e la sede arcivescovile di Udine.
+
+**Opere d'arte:**
+- **Affreschi di Sebastiano Santi** (1840): la navata e il coro sono decorati con un ciclo pittorico raffigurante l'*Adorazione dei Magi*, la *Cena di Emmaus*, la *Resurrezione* e i *Quattro Evangelisti*. Sebastiano Santi (1788–1866) fu uno dei principali decoratori ecclesiastici del Friuli nella prima metà dell'Ottocento, attivo anche nel Duomo di Udine.
+- **Polittico di Giovanni Floreani** (1594): pregevole opera tardomanierista con le scene dell'*Annunciazione*, la *Madonna col Bambino* e i *Santi Stefano, Giovanni Battista e Pietro*.
+- **Altare maggiore** in marmi policromi, ornato da statue dei Santi Ulderico e Agostino scolpite nel 1852 da Luigi Minisini.
+- **Pala di San Giovanni Battista** di Odorico Politi, posta presso l'altare dedicato al Battista.
+- **Battistero ligneo** di pregevole fattura artigianale.
+- **Altare del Rosario**, ulteriore elemento dell'arredo liturgico settecentesco.
+
+La torre campanaria, visibile da Udine, è uno dei punti di riferimento paesaggistici della pianura sud-udinese.
+
+**Sito web:** [Le chiese delle diocesi italiane – CEI](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68642)
+
+---
+
+### Chiesa di San Giovanni dei Battuti — Pavia di Udine (capoluogo)
+
+**Stile e datazione:** Romanico-gotico; databile al XV secolo (si parla di una "quattrocentesca chiesetta"), con successive modifiche.
+
+Piccolo edificio religioso situato nel centro di Pavia di Udine, filiale della parrocchiale di Sant'Ulderico e iscritto nel catasto ecclesiastico della diocesi di Udine. Secondo la tradizione orale locale, il paese di Pavia sarebbe sorto attorno a questa cappella, sviluppandosi lungo le direttrici tracciate dalla centuriazione romana. In origine la chiesa sorgeva isolata in mezzo alle campagne; il progressivo espandersi dell'abitato l'ha poi inglobata nel tessuto urbano del capoluogo.
+
+L'interno è a pianta rettangolare con abside costruita in epoca posteriore rispetto al corpo originale, segno di un ampliamento liturgico che ne ha alterato l'aspetto primitivo. La peculiarità architettonica più rilevante è il **ciclo di affreschi sulla facciata**, opera del pittore **Rocco da Venezia**, che dipinse finte architetture prospettiche e un'*Annunciazione* — oggi molto sbiadita dalle intemperie, ma ancora leggibile negli elementi compositivi principali. La medesima mano è attribuibile agli affreschi interni dell'abside, parzialmente sostituiti nel corso dell'Ottocento da pitture raffiguranti il *Martirio di San Giovanni Battista* e *San Giovanni Evangelista con l'aquila*.
+
+La chiesa rappresenta uno dei rari esempi nel comune di pittore veneziano attivo in ambito rurale friulano, e il suo ciclo di affreschi, pur nel degrado causato dall'esposizione esterna, conserva un rilevante valore storico-artistico come testimonianza della penetrazione della cultura figurativa lagunare nella pianura udinese.
+
+**Sito web:** [BeWeB – Beni ecclesiastici in web](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/84901/)
+
+---
+
+### Santuario della Beata Vergine di Muris — Muris
+
+**Stile e datazione:** Neoclassico; ricostruito nel 1847. Prima attestazione documentaria di un luogo di culto: 1367.
+
+Il santuario si trova nella minuscola frazione di Muris (circa 10 abitanti), a sud del territorio comunale, sulle sponde del Torrente Torre. La denominazione *Muris* — plurale del friulano *mûr*, "muro" — allude verosimilmente ai resti di strutture murarie romane presenti nell'area: il santuario sorge infatti sopra i resti di una **villa rustica romana**, in prossimità di un antico guado fluviale, circostanza che ne sottolinea la continuità sacrale dal mondo pagano al cristiano.
+
+La prima menzione documentaria di un luogo di culto dedicato alla Madonna in questo sito risale al **1367**. Nel corso del XVII e XVIII secolo l'edificio venne progressivamente ampliato e abbellito, acquisendo la fisionomia di un santuario meta di pellegrinaggi locali. Nel 1805 furono costruite la sacrestia e la casa del custode. Le vicende napoleoniche si abbatterono duramente sul santuario: nel **1809** le truppe francesi lo ridussero a deposito di munizioni e nel **1811** fu demolito. La comunità locale non si arrese e nel **1847** il santuario fu integralmente riedificato nella sobria forma neoclassica attuale, con facciata a timpano e interno a navata unica.
+
+Il santuario è rinomato per la ricca raccolta di **ex voto** che tappezzano le pareti interne, testimonianza viva della devozione mariana popolare del territorio, in particolare dei fedeli delle campagne circostanti tra Pavia di Udine e il Basso Friuli.
+
+**Sito web:** [BeWeB – Beni ecclesiastici in web](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68645/)
+
+---
+
+### Chiesa di San Martino Vescovo — Percoto
+
+**Stile e datazione:** Origini medievali; rimaneggiamenti in età moderna.
+
+Percoto (_Percût_ in friulano, dal termine sloveno *prehod* che significa "passaggio, guado") è la frazione più popolosa del comune, con oltre 1.400 abitanti. La chiesa parrocchiale è dedicata a San Martino di Tours, patrono della frazione, la cui festa cade l'11 novembre. La prima attestazione di Percoto risale al 1184, e la parrocchia risulta già separata dalla pieve di Buttrio nel medioevo, quando il paese passò sotto la giurisdizione dell'abbazia di Rosazzo per donazione del patriarca Pellegrino di Ortenburg (1135).
+
+L'edificio attuale è frutto di rimaneggiamenti avvenuti in più fasi, secondo la prassi costruttiva comune alle parrocchiali rurali friulane che spesso conservano elementi gotici e rinascimentali reimpiegati in strutture seicentesche o settecentesche. Il campanile e il corpo della navata presentano le proporzioni tipiche dell'architettura ecclesiale della pianura udinese del XVII–XVIII secolo. La chiesa è il punto di riferimento spirituale di Percoto, sede della distilleria Nonino e centro economico e demografico del comune.
+
+---
+
+### Chiesa di San Girolamo — Poporeacco
+
+**Stile e datazione:** Origini trecentesche; rimaneggiata nei secoli XVI e XX.
+
+Il piccolo borgo di Poporeacco (_Paparià_ in friulano), che conserva quasi intatte le caratteristiche rurali di origine medievale, è citato per la prima volta nel 1293. La chiesa di San Girolamo, con le sue origini nel Trecento, è uno degli edifici religiosi più antichi del territorio comunale. Le successive trasformazioni — un primo intervento nel XVI secolo e un restauro nel XX — ne hanno modificato l'aspetto originale, ma la pianta e alcune membrature strutturali riconducono ancora all'impianto gotico primitivo.
+
+La facciata si apre verso la corte padronale del borgo. Di fronte all'edificio padronale annesso si rileva, sul fronte sud, una meridiana e un **affresco votivo**, inserito nella parete esterna della costruzione adiacente: un dettaglio devozionale comune nelle campagne friulane, dove immagini sacre erano apposte sui muri delle case padronali come protezione e voto di ringraziamento.
+
+---
+
+### Cappella gentilizia di Sant'Ulderico — Ronchi
+
+**Stile e datazione:** Seicentesca (coeva alla villa Kechler-Della Porta, costruzione secentesca).
+
+La piccola cappella di Sant'Ulderico si trova esternamente al borgo di Ronchi, annessa alla villa Kechler-Della Porta, imponente dimora patrizia seicentesca caratterizzata da un corpo centrale con scale convergenti sul poggiolo balaustrato e due leoni a guardia del portale. La cappella gentilizia, come era consuetudine per le ville nobiliari friulane, costituisce l'oratorio privato della famiglia proprietaria.
+
+L'edificio presenta un'**aula rettangolare** con **portico antistante sorretto da due colonne circolari**, soluzione architettonica che richiama la tradizione dei portici rurali friulani. La facciata è completata dalla **bifora della cella campanaria**, elemento che conferisce all'insieme un'eleganza sobria e proporzionata. La dedicazione a Sant'Ulderico, stesso titolare della parrocchiale del capoluogo, rivela la continuità devozionale dei proprietari con la tradizione religiosa locale.
+
+---
+
+### Chiesa di Sant'Agata — Lauzacco
+
+**Stile e datazione:** Edificio rinnovato in età moderna; impianto tradizionale della parrocchiale di pianura.
+
+Lauzacco (_Lauçàc_ in friulano), sede municipale del comune sparso di Pavia di Udine con circa 1.000 abitanti, è citato per la prima volta nel 1226. La chiesa dedicata a Sant'Agata è la parrocchiale della frazione e centro liturgico della comunità lauzacchese. La vicinanza della **Villa Beretta** settecentesca, con la sua annessa cappella gentilizia, ha fatto di Lauzacco un polo sia civile che religioso: villa e chiesa si fronteggiano come emblema del doppio potere — secolare e spirituale — che ha caratterizzato questo territorio nei secoli del dominio veneziano.
+
+---
+
+### Cappella di San Nicolò — Lauzacco (annessa a Villa Beretta)
+
+**Stile e datazione:** Settecentesca; coeva alla villa.
+
+La Villa Beretta (XVIII secolo), imponente dimora nobiliare con retrostante parco cintato da **mura merlate**, è dotata di una cappella gentilizia annessa, oggi intitolata a **San Nicolò**. La cappella segue il modello dell'oratorio privato di villa diffuso nel Settecento friulano: spazio liturgico ad uso esclusivo dei proprietari e dei loro dipendenti, ma aperto alla comunità nelle festività del santo patrono. L'inserimento nell'articolato sistema di mura merlate del parco conferisce alla cappella una suggestiva connotazione paesaggistica.
+
+---
+
+### Chiesa di San Canziano Martire — Risano
+
+**Stile e datazione:** Origini cinquecentesche; trasformazioni seicentesche e settecentesche.
+
+Risano (_Risan_ in friulano) è citata per la prima volta nel 1248 e fu sotto il dominio patriarcale fino al 1420, poi veneziano fino al 1797. La parrocchiale di San Canziano martire, con le sue origini nel XVI secolo, presenta la caratteristica tipologica più originale dell'intero comune: il **campanile addossato alla facciata poggiante su colonne**. Questa soluzione, che crea un loggiato d'ingresso alla chiesa, è una variante locale del campanile porticato diffuso in alcune zone del Friuli e del Veneto orientale.
+
+Il nucleo più antico del borgo si trova nei pressi della chiesa, che funge da polo aggregativo della piazza principale di Risano, dove si trovano anche pregevoli edifici civili con portali in pietra e stemmi nobiliari. Di fronte alla chiesa si trova una costruzione di pregio, con aperture riquadrate in pietra e portale architravato, già residenza della famiglia Orter poi dell'Istituto Renati. La chiesa è fiancheggiata dalla celebre **colonna di Santa Sabida** (Santa Sabina), riqualificata nel tempo come colonna mariana, elemento di devozione popolare senza eguali nel territorio comunale.
+
+---
+
+### Chiesa della Santissima Trinità — Risano
+
+**Stile e datazione:** Cinquecentesca; conserva elementi rinascimentali.
+
+Poco distante dalla parrocchiale di San Canziano si trova la **chiesa della Santissima Trinità**, piccolo edificio cinquecentesco che rappresenta uno dei rari casi nel comune di architettura sacra rinascimentale integra. Sorge lungo la via che conduce dall'asse principale di Risano verso l'ala ovest della villa Agricola-Pighin, in un contesto di costruzioni rurali di pregio. La chiesa della Trinità assolveva probabilmente funzione di cappella campestre o di oratorio per il rione meridionale del borgo, in alternativa o a completamento della parrocchiale.
+
+---
+
+### Cappella di San Vitale — Risano (annessa a Villa Agricola-Pighin)
+
+**Stile e datazione:** Coeva alla villa; XVII–XVIII secolo.
+
+La villa Agricola-Pighin con attigua cappella gentilizia intitolata a **San Vitale** si inserisce nel ricco sistema di dimore nobiliari con oratorio privato che caratterizza il territorio di Pavia di Udine. A ridosso della villa si rilevano costruzioni padronali con facciate caratterizzate da aperture allineate e disposte simmetricamente con riquadri in pietra; internamente sono presenti affreschi, mentre sul fronte si rileva la già citata colonna di Santa Sabida. La cappella di San Vitale testimonia la devozione dei proprietari verso il martire paleocristiano, culto diffuso nell'area aquileiese fin dall'Alto Medioevo.
+
+---
+
+### Chiesa di San Marino — Chiasottis
+
+**Stile e datazione:** Origini medievali; ciclo di affreschi di Giulio Quaglio.
+
+Chiasottis (_Cjasotis_ in friulano, citata per la prima volta nel 1290) conserva nella sua piazzetta centrale la chiesa dedicata a **San Marino**, che presenta uno dei cicli pittorici di maggiore interesse artistico dell'intero comune: gli **affreschi di Giulio Quaglio** (1660–1751), pittore di origine comasca formatosi tra Milano e Venezia, particolarmente attivo in Friuli dove lasciò importanti testimonianze tra cui gli affreschi del Castello di Spessa e lavori per committenze nobiliari dell'area udinese. La presenza di Quaglio a Chiasottis testimonia il rango della committenza locale e la circolazione di artisti di primo livello anche in contesti rurali.
+
+Il moderno paesino di Chiasottis è caratterizzato da una suddivisione fondiaria di origine romana (centuriazione), che si riflette nell'impianto regolare del borgo. La chiesa si trova nella piazzetta che costituisce il cuore civile e religioso della comunità.
+
+---
+
+### Oratorio gentilizio di Villa Strassoldo — Chiasottis
+
+**Stile e datazione:** Cinquecentesca; affreschi interni.
+
+La cinquecentesca Villa Strassoldo, annessa al piccolo borgo di Chiasottis, è dotata di un **oratorio gentilizio affrescato** che costituisce uno degli esempi meglio conservati di cappella privata di villa nel comune. Le famiglie Strassoldo, di origine patriarcale, furono tra le principali famiglie nobiliari del Friuli: la loro presenza a Chiasottis testimonia l'estensione della loro rete di possedimenti nella pianura udinese. Gli affreschi dell'oratorio, di datazione cinquecentesca, si collocano nel filone della pittura devozionale friulana di età rinascimentale.
+
+---
+
+### Cappella di San Leonardo — Cortello (annessa a Villa Caiselli-Carlutti)
+
+**Stile e datazione:** Settecentesca; quattro lesene in facciata, timpano soprastante.
+
+Cortello (_Curtiel_ in friulano, prima citazione nel 1275, ma con origini romani attestate da urne cinerarie ritrovate presso la villa stessa) è dominato dalla **Villa Caiselli-Carlutti**, pregevole costruzione seicentesca con saloni interni decorati da **affreschi di Giovanni Battista Canal** e ampia scala in pietra con balaustra in ferro battuto. Esternamente alla villa si trova la **cappella di San Leonardo**, edificio settecentesco la cui facciata è scandita da **quattro lesene** e sormontata da un **timpano**, in accordo con il linguaggio neoclassico adottato dagli architetti friulani di tardo Settecento.
+
+San Leonardo, protettore dei prigionieri e dei contadini, era uno dei santi più venerati nelle campagne friulane. La cappella, legata alla committenza nobiliare dei Caiselli, si inserisce nel sistema devozionale della villa padronale e dei suoi dipendenti agricoli. Il notevole muro perimetrale in ciottoli di fiume che delimita l'intero complesso costituisce uno degli elementi paesaggistici più caratteristici del borgo di Cortello.
+
+---
+
+### Chiesa di Sant'Andrea Apostolo — Persereano
+
+**Stile e datazione:** Origini medievali; rifacimenti in età moderna.
+
+Persereano (_Passariàn_ in friulano) è citato per la prima volta nel 1031 (_Perseriano_), il che ne fa una delle località più anticamente documentate del comune. La parrocchiale di **Sant'Andrea Apostolo** è il centro liturgico della piccola comunità di Persereano. La chiesa si trova in posizione adiacente a casa Marcotti, in asse con l'impianto storico del borgo. La donazione del 1166 da parte del patriarca Vodalrico ad Enrico di Manzano del villaggio di Persereano documenta il radicamento medievale del sito. La parrocchiale attuale, frutto di rimaneggiamenti successivi al nucleo medievale, conserva nel contesto del borgo una funzione identitaria e comunitaria.
+
+Nelle vicinanze si trova la **Villa Florio** settecentesca, ricca di una pregevole biblioteca, di un archivio storico e di un oratorio privato, elemento quest'ultimo che testimonia la stratificazione del sacro tra devozione pubblica (la parrocchiale) e privata (l'oratorio di villa) nel piccolo borgo rurale.
+
+---
+
+### Oratorio privato di Villa Florio — Persereano
+
+**Stile e datazione:** Settecentesco; annesso alla villa.
+
+L'**oratorio privato di Villa Florio** è una delle cappelle gentilizie più raffinate del territorio di Pavia di Udine, per il rango della famiglia proprietaria: i Florio, nobili friulani, avevano dotato la loro dimora settecentesca di biblioteca, archivio storico e cappella, a dimostrazione di una cultura signorile di respiro non solo locale. L'oratorio, annesso alla villa, seguiva la tipologia dell'oratorio privato di permesso vescovile, riservato alla famiglia e ai suoi ospiti ma dotato di tutte le suppellettili liturgiche necessarie alla celebrazione della messa. La sua presenza accanto alla parrocchiale di Sant'Andrea testimonia la duplicità devozionale caratteristica dell'aristocrazia agraria friulana del Settecento.
+
+---
+
+### Chiesa di Sant'Andrea Apostolo — Lumignacco
+
+**Stile e datazione:** Origini medievali; affreschi interni di interesse storico-artistico.
+
+Lumignacco (_Lumignà_ in friulano, prima citazione nel 1293) è la frazione più settentrionale del comune e confina direttamente con il territorio di Udine. La chiesa dedicata a **Sant'Andrea Apostolo** conserva **affreschi interni di interesse artistico**, che la distinguono tra le chiese del comune. Il patronato di Sant'Andrea, comune a Lumignacco e a Persereano, riflette la diffusione del culto andreno nella diocesi di Aquileia, di cui Pavia di Udine faceva parte prima della costituzione dell'arcidiocesi di Udine.
+
+Il borgo di Lumignacco si segnala anche per la presenza di Villa Della Torre-De Senibus-Bearzi, di palazzo Calice e della seicentesca casa loggiato detta "Vatican" — denominazione che suggerisce un edificio di particolare imponenza nel paesaggio rurale locale. La chiesa di Sant'Andrea costituisce il perno spirituale di questo sistema di architetture civili e rappresenta uno degli esempi più interessanti di chiesa rurale con apparato decorativo pittorico nel comune.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia – [Pavia di Udine](https://it.wikipedia.org/wiki/Pavia_di_Udine)
+- Wikipedia – [Chiesa di Sant'Ulderico (Pavia di Udine)](https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Ulderico_(Pavia_di_Udine))
+- Wikipedia – [Chiesa di San Giovanni dei Battuti (Pavia di Udine)](https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_dei_Battuti_(Pavia_di_Udine))
+- Wikipedia – [Santuario della Beata Vergine di Muris](https://it.wikipedia.org/wiki/Santuario_della_Beata_Vergine_di_Muris)
+- Wikipedia – [Percoto](https://it.wikipedia.org/wiki/Percoto)
+- Conferenza Episcopale Italiana – [Le chiese delle diocesi italiane](https://chieseitaliane.chiesacattolica.it/)
+- BeWeB – Ufficio Nazionale per i Beni Culturali Ecclesiastici della CEI: [edificio 68642](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68642/), [edificio 84901](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/84901/), [edificio 68645](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68645/)
+- Arcidiocesi di Udine – Forania del Friuli Centrale
+
+---
+
+## Pinzano al Tagliamento
+
+Piccolo comune della Media Val Tagliamento in provincia di Pordenone, Pinzano al Tagliamento (in friulano *Pinçan*) conta circa 1.500 abitanti distribuiti tra il capoluogo e le frazioni di Valeriano, Manazzons e alcune località minori. Nonostante le sue modeste dimensioni, il territorio comunale custodisce un patrimonio di architettura sacra di straordinario pregio, con testimonianze che spaziano dall'Alto Medioevo fino al Settecento. La presenza capillare di edifici religiosi — pievi, chiese parrocchiali, oratori, cappelle votive — riflette la ricchezza spirituale di una comunità insediata in un crocevia naturale tra la pianura friulana e le valli prealpine del Cosa e dell'Arzino.
+
+Il dato più rilevante sul piano artistico è il legame del territorio con Giovanni Antonio de' Sacchis, detto **il Pordenone** (1483–1539), massimo pittore friulano del Rinascimento. Due delle chiese del comune conservano sue opere di importanza critica: la pieve di Valeriano ospita quello che è a lungo stato considerato il suo primo affresco datato con certezza (1506), mentre la parrocchiale di Pinzano reca il segno del suo intervento maturo. Il terremoto del Friuli del 1976 colpì duramente l'intero comune, causando 14 vittime e distruggendo o gravemente lesionando quasi tutti gli edifici storici. La ricostruzione, condotta con rigore filologico e attenzione alla conservazione del patrimonio artistico, valse al comune la Medaglia d'Oro al Merito Civile nel 2002.
+
+---
+
+### Chiesa di San Martino Vescovo — Pinzano (capoluogo)
+
+**Indirizzo:** Via Vittorio Veneto, Pinzano al Tagliamento  
+**Diocesi:** Concordia-Pordenone (Forania di Spilimbergo)  
+**Stile:** Neoclassico con elementi rinascimentali  
+**Coordinate:** 46°10′55.78″N 12°56′46.03″E
+
+La chiesa parrocchiale di San Martino è l'edificio sacro più significativo del capoluogo e uno dei più ricchi della zona sotto il profilo artistico. La prima nota scritta di un oratorio dedicato a San Martino in Pinzano risale al **1294**, quando si trattava ancora di un semplice luogo di culto dipendente dalla pieve matrice di Valeriano. La struttura rimase di modesta entità fino al **1520**, anno in cui venne avviato un primo importante ampliamento che comportò la ricostruzione del presbiterio e la costruzione di tre cappelle laterali: due sul fianco destro e una sul sinistro, asimmetria spiegata dalla presenza dell'antico campanile addossato proprio alla navata sinistra.
+
+È in questa fase che l'edificio acquista la sua dimensione artistica più preziosa: **Giovanni Antonio de' Sacchis, detto il Pordenone**, affrescò le cappelle laterali negli anni **1526 e 1527**, lasciando opere di grande impatto visivo. Spicca tra queste la *Madonna col Bambino* e, di particolare intensità narrativa, la scena del **Martirio di San Sebastiano**. Dallo stesso periodo — benché di autore ignoto — è la cosiddetta **Madonna del cassonetto**, un dipinto conservato entro un cassonetto ligneo decorato, proveniente dalla distrutta cappella di Ognissanti in castello. Dalla medesima origine discende il gruppo ligneo della *Pietà*, visibile sul primo altare della navata sinistra.
+
+Sul finire del Seicento, il maestro **Antonio De Adamo** procedette alla trasformazione delle cappelle laterali in vere e proprie navate, dando all'impianto una configurazione più ampia e solenne. Un'iscrizione in rosso sull'intonaco esterno del muro nord ricorda questo intervento: *"SER ANTONIO DE ADAMO … CIESA DE PINZANO ANNO 1690"*. Nel **1773** avvenne l'ampliamento definitivo, che portò la lunghezza delle navate a 17 metri, ai quali si aggiungono i 7,35 metri del coro, contestualmente ingrandito; nello stesso anno l'edificio fu riconsacrato. Il vecchio campanile addossato alla navata sinistra fu demolito e sostituito da una nuova torre campanaria alta 35 metri, curiosamente staccata dalla facciata principale, che ospita tre campane dal peso complessivo di circa 36 quintali.
+
+La **facciata** fu completata nel **1755**. Al di sopra del portale principale — opera del lapicida **Carlo da Carona**, datata **1508** e quindi anteriore alla ristrutturazione settecentesca della facciata — campeggia un **mosaico** eseguito nel **1934** dal pinzanese Vittorino Rugo, raffigurante san Martino nell'atto di donare il mantello. L'**altare maggiore** risale al **1757**. Di grande rilievo è la **pala d'altare** raffigurante *Sant'Antonio in Gloria*, datata **1740** e opera di **Gianantonio Guardi** (fratello del più celebre Francesco): il dipinto partecipò alla mostra monografica dedicata all'artista tenutasi a Venezia nel **1965**, attestandone il valore critico riconosciuto a livello nazionale. L'**organo** posto sopra l'ingresso, ancora perfettamente funzionante, è dei primi dell'Ottocento.
+
+Durante la **Prima guerra mondiale** la chiesa fu adibita a ospedale militare e magazzino di scorte, e le funzioni liturgiche furono trasferite alla vicina chiesa della Santissima. Il **terremoto del 1976** arrecò gravi danni alla struttura, che fu restituita alla comunità ecclesiastica solo dieci anni dopo: una lapide commemorativa posta sopra la porta laterale destra ricorda sia il bicentenario della consacrazione (1773–1973) sia la riapertura post-sisma del 1986. La parrocchia divenne autonoma soltanto nel **1940**, quando la diocesi di Concordia la elevò da curazia a parrocchia indipendente da quella di Valeriano.
+
+La chiesa non è normalmente aperta al pubblico al di fuori delle celebrazioni religiose.
+
+**Fonti online:**
+- BeWeB – Ufficio nazionale per i beni culturali ecclesiastici (CEI): [https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65627/](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65627/)
+
+---
+
+### Pieve di Santo Stefano — Valeriano
+
+**Diocesi:** Concordia-Pordenone  
+**Stile:** Romanico con influssi gotici  
+**Coordinate:** 46°10′05.48″N 12°55′00.05″E
+
+La pieve di Santo Stefano a Valeriano è il monumento religioso più antico e storicamente più significativo dell'intero comune di Pinzano al Tagliamento. Le sue radici risalgono all'Alto Medioevo: l'istituzione pievana discende dall'**antica pieve di San Pietro a Travesio** e viene menzionata per la prima volta in una **bolla papale di papa Urbano III nel 1186**, quando è già annoverata tra le pievi della diocesi di Concordia. La sua competenza territoriale si estendeva all'incirca sull'intero odierno comune, con chiese filiali tra cui la chiesa di San Martino in Pinzano e la chiesa di San Biagio in Manazzons.
+
+L'edificio attuale fu costruito nel **1492**, come testimoniano due iscrizioni: una apposta a destra del portale d'ingresso, l'altra sull'architrave del portale stesso. Quest'ultimo, **finemente scolpito**, è attribuito al lapicida **Giovanni da Campilongo detto il Pilacorte**, uno degli artefici più apprezzati del tardo Quattrocento friulano. La facciata si presenta sobria e composta, con blocchi di pietra a vista parzialmente intonacata; l'unico elemento decorativo oltre al portale è un oculo in mattoni. L'impianto interno è a **navata unica con copertura a botte a tutto sesto**, l'altezza massima dal pavimento raggiunge 7,92 metri; l'abside è poligonale a tre lati.
+
+Il patrimonio artistico della pieve è di eccezionale qualità. Sull'altare di destra si trova il celebre **trittico ad affresco di Giovanni Antonio de' Sacchis, il Pordenone**, firmato e datato **1506**, raffigurante *San Valeriano*, *San Michele Arcangelo* e *San Giovanni Battista*. Questa tavola è stata a lungo considerata la **prima opera datata con certezza** dell'artista, e come tale riveste un'importanza straordinaria per la storia dell'arte italiana del Rinascimento: essa mostra già la potenza compositiva e il vigore cromatico che avrebbero caratterizzato il percorso maturo del pittore pordenonese. Il trittico fu fortunatamente risparmiato dal terremoto del 1976. Sulla parete opposta si trova una **Trinità** realizzata dal pittore spilimberghese **Marco Tiussi** nel **1535**, opera che imita per impostazione il trittico del Pordenone, rivelando l'influenza che il maestro esercitò sugli artisti della zona.
+
+Ulteriori elementi di rilievo sono: l'**altare maggiore del 1757**, opera dello scultore pinzanese **Francesco Sabbadini**; il pregevole **coro ligneo a diciannove stalli** del XVI secolo, con decorazioni intagliate e intarsiate a motivi geometrici di notevole finezza artigianale. La pieve fu eretta a sede parrocchiale e mantenne la sua posizione di chiesa madre dell'intero territorio fino al **1940**, quando Pinzano ottenne la propria parrocchia autonoma.
+
+Il terremoto del **1976** arrecò danni gravissimi all'edificio: il campanile crollò per buona parte della propria altezza. Dopo lunghi e complessi lavori di ristrutturazione, che restituirono all'edificio le sue sobrie forme romanico-gotiche originarie, la chiesa fu solennemente riconsacrata il **22 dicembre 1985** dal parroco don Enrico Todesco. La chiesa non è normalmente aperta al pubblico al di fuori delle celebrazioni religiose.
+
+**Fonti online:**
+- BeWeB – CEI: [https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65628/](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65628/)
+
+---
+
+### Chiesa di Santa Maria dei Battuti — Valeriano
+
+**Diocesi:** Concordia-Pordenone  
+**Stile:** Gotico (facciata con cicli pittorici quattrocenteschi)  
+**Epoca:** Eretta intorno al 1300; cicli pittorici della facciata eseguiti nei secoli XIV–XVI
+
+La chiesa di Santa Maria dei Battuti è un piccolo edificio sacro che sorge sul lato nord della piazza principale di Valeriano, eretta intorno al **1300** dalla **confraternita dei Battuti** (o Flagellanti) di Valeriano. Questa corporazione laica di carattere religioso raccoglieva devoti dediti alla penitenza e alle opere di carità; il culto dei Battuti era diffuso in tutta la regione friulana, e le confraternite da essi fondate promossero la costruzione di numerosi oratori e la committenza di opere pittoriche di qualità.
+
+Benché di ridotte dimensioni, l'edificio è noto principalmente per la sua **facciata quattrocentesca**, che è stata definita «una preziosa antologia che raccoglie e illustra i tre secoli d'oro della pittura»: si tratta di un palinsesto affrescato che documenta visivamente l'evoluzione stilistica della pittura locale dal Trecento al Cinquecento. All'interno si conservano dipinti di pregio, tra cui una **Natività del Pordenone** risalente al **1527**, altra attestazione del legame privilegiato tra il grande pittore e il territorio di Pinzano.
+
+La chiesa è da sempre percepita come un importante monumento della devozione popolare e un documento vivo della vita religiosa medievale della comunità di Valeriano. Anche questo edificio fu danneggiato dal sisma del 1976 e successivamente restaurato.
+
+---
+
+### Chiesa della Santissima Trinità — Pinzano (capoluogo)
+
+**Diocesi:** Concordia-Pordenone  
+**Stile:** Barocco rurale / Settecentesco  
+**Epoca:** Origini probabilmente cinquecentesche; edificio attuale ricostruito nel XVIII secolo
+
+La chiesa della Santissima Trinità — comunemente denominata **"la Santissima"** dagli abitanti di Pinzano — sorge a valle del paese, nei pressi dell'attuale cimitero comunale. La sua posizione si trovava lungo l'antica **strada pedemontana** che conduceva al traghetto del Tagliamento, importante via di comunicazione che collegava Pinzano e la Val d'Arzino con la pianura friulana; questa collocazione geografica conferiva alla chiesa un ruolo di riferimento devozionale per i viaggiatori e i pellegrini che percorrevano il tratto.
+
+Le origini dell'edificio sono probabilmente **cinquecentesche**, ma esso si trovava in un sito diverso dall'attuale — forse nel tratto di greto pianeggiante del Tagliamento immediatamente a valle, denominato il *"saletto"*. Il trasferimento nel luogo attuale e la ricostruzione avvennero nel **Settecento**, verosimilmente in seguito alla **grande piena del Tagliamento del 1740**, che potrebbe aver distrutto la struttura precedente: un'epigrafe posta sulla facciata principale allude a questo evento. Significativo il fatto che la chiesa sia dedicata alla Trinità: delle sole tre chiese con questa dedicazione presenti nell'intera diocesi, tutte sorgono nei pressi di un corso d'acqua, suggerendo una sovrapposizione cristiana su antiche devozioni pagane legate all'elemento idrico.
+
+In età settecentesca la chiesa godeva di una certa importanza religiosa: era sede di una confraternita e meta di **processioni propiziatorie** provenienti da tutta la Val d'Arzino. Dal **1723 al 1730**, per decreto vescovile, fu concessa l'**indulgenza plenaria** ai fedeli che la visitavano nella Solennità della Santissima Trinità, attestando il carattere semi-santuariale dell'edificio in quel periodo. Dal 1897 circa le fu affiancato il cimitero comunale. Danneggiata dal terremoto del 1976, cadde in disuso per un lungo periodo; nel **2006** si conclusero i lavori di ristrutturazione e restauro che la riportarono al culto. Oggi la Santissima è normalmente chiusa al pubblico, ma ospita ogni anno la celebrazione del **1° novembre** in ricordo dei defunti del cimitero adiacente.
+
+---
+
+### Chiesa di San Biagio Vescovo — Manazzons
+
+**Diocesi:** Concordia-Pordenone  
+**Stile:** Non documentato con precisione; edificio di carattere rurale  
+**Epoca:** Medievale (citata come filiale della pieve di Valeriano)
+
+La chiesa di San Biagio Vescovo è il luogo di culto della frazione di **Manazzons**, la più settentrionale del comune di Pinzano al Tagliamento, ubicata sulle pendici boscose che si affacciano verso il Monte Santo (407 m s.l.m.) e il torrente Pontaiba. L'edificio è storicamente citato come **chiesa filiale** della pieve di Santo Stefano a Valeriano, a ulteriore conferma dell'estensione del controllo ecclesiastico esercitato dalla pieve matrice sull'intero territorio comunale. Il patrono è **san Biagio di Sebaste**, vescovo e martire, la cui festa è celebrata il **3 febbraio**.
+
+La piccola frazione — che conta circa ottanta abitanti — mantiene viva la tradizione devozionale legata al proprio patrono. L'edificio, di carattere prettamente rurale, non è documentato nel dettaglio dalle fonti storiche disponibili, ma testimonia la pervasività del presidio religioso anche nelle località più isolate del territorio pedemontano. Come gli altri edifici sacri del comune, anche la chiesa di Manazzons fu interessata dai danni del terremoto del 1976 e dai successivi interventi di ricostruzione.
+
+---
+
+### Oratorio di San Severo — Valeriano (scomparso)
+
+**Stile:** Non determinabile  
+**Epoca:** Origini incerte, probabilmente alto-medievale o medievale
+
+Lungo la strada comunale che collega Valeriano con la località di Borgo Mizzari esisteva in passato una piccola cappella intitolata a **San Severo**, che ha dato il nome alla zona tuttora denominata *"San Severo"*. Secondo una tradizione locale, la cappella sarebbe stata **eretta sui resti di un antico tempio pagano**, rendendola uno dei luoghi di culto cristiani più antichi dell'intero Friuli. Sebbene non sia possibile verificare tale leggenda con fonti documentarie, essa si inserisce in un pattern ampiamente attestato nella regione friulana, dove numerosi oratori e pievi sorsero su luoghi di culto preesistenti, in una continuità sacrale che attraversa l'antichità classica e il Medioevo cristiano.
+
+L'oratorio fu demolito nel corso del tempo e la **statua lignea di San Severo** fu collocata in una nicchia votiva (ancona) lungo la strada per Pinzano, finché nel **2002** fu trafugata da ignoti. L'episodio del furto ha lasciato una lacuna nel tessuto devozionale della comunità, privandola di un'immagine sacra radicata nella memoria collettiva da secoli.
+
+---
+
+## Fonti e riferimenti bibliografici
+
+- Alberta Maria Bulfon, *Le chiese di Valeriano*, Deputazione di Storia Patria per il Friuli, collana "Monumenti storici del Friuli", 2016.
+- Emanuele Candido (già parroco di Pinzano), *La chiesa di Pinzano*, memoria scritta, dicembre 2010.
+- Arrigo Sedran, Enrico Todesco, *Valeriano: storia e arte*, Sequals, 1992.
+- Manlio Scatton, *Pinzano: dalla Signoria ai Savorgnan. Storia di nobili e di popolo*, Fontanafredda, 1994.
+- Vittorino Zanette (già parroco di Pinzano), *Pinzano al Tagliamento (note storiche dal 1901 al 1968)*, memoria scritta, 4 novembre 1968.
+- *Pinzano al Tagliamento: il territorio e la sua gente*, Pordenone, Edizioni l'Omino Rosso, 2011.
+- *Eredità da salvare. Viaggio multimediale nelle valli della pedemontana*, CD-ROM, Comune di Pinzano al Tagliamento.
+- BeWeB – Ufficio nazionale per i beni culturali ecclesiastici (CEI): [https://www.beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it)
+- Wikipedia italiana — voci: *Pinzano al Tagliamento*, *Chiesa di San Martino (Pinzano al Tagliamento)*, *Chiesa di Santo Stefano (Valeriano)*, *Valeriano (Pinzano al Tagliamento)*, *Il Pordenone*, *Manazzons*.
+
+---
+
 ## Pocenia
 
 Pocenia (_Pucinie_ in friulano) è un piccolo comune della bassa pianura friulana sud-occidentale, posto a circa 9 metri sul livello del mare, attraversato dai fiumi Stella e Torsa. Il territorio conta poco più di 2.200 abitanti distribuiti tra il capoluogo e le frazioni di Torsa, Paradiso e Roveredo. L'insediamento risale probabilmente all'epoca romana, ma fu soprattutto dopo il dominio patriarcale di Aquileia che il paesaggio ecclesiastico prese forma definitiva: cappelle rurali e chiese parrocchiali nate come dipendenze della grande pieve di Palazzolo dello Stella, emancipatesi gradualmente nel corso del Cinquecento e del Seicento. Tutta l'area appartiene all'Arcidiocesi di Udine, all'interno della Forania della Bassa Friulana.
@@ -13217,6 +14452,466 @@ La storia della frazione è antichissima: Mezzomonte è attestata già nel **963
 - BeWeB – Ufficio Nazionale per i Beni Culturali Ecclesiastici (CEI), scheda edificio n. 65631: [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65631/)
 - Le Chiese delle Diocesi Italiane (CEI), scheda parrocchia San Giacomo Apostolo, Polcenigo: [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=65631)
 - Sito ufficiale del Comune di Polcenigo: [comune.polcenigo.pn.it](https://www.comune.polcenigo.pn.it)
+
+---
+
+## Pontebba
+
+Pontebba (in friulano *Pontêbe*, in tedesco *Pontafel*, in sloveno *Tablja*) è un comune montano di poco più di 1.300 abitanti situato nel Canal del Ferro, al confine tra le Alpi Carniche e le Alpi Giulie, nella provincia di Udine. Posta storicamente sul crinale di frontiera tra la Repubblica di Venezia e l'Impero asburgico — il torrente Pontebbana divideva fisicamente i due stati — la cittadina ha assorbito nel corso dei secoli influenze artistiche e religiose tanto italiane e veneziane quanto mitteleuropee, tirolesi e carinziane. Questa duplice anima si rispecchia in modo vivido nel patrimonio sacro locale: accanto a stilemi gotici d'oltralpe sopravvivono dipinti veneziani del Seicento, altari barocchi di tradizione asburgica e cicli di affreschi novecenteschi di gusto narrativo-popolare. Il territorio comunale comprende le frazioni di Laglesie San Leopoldo, Pietratagliata, Studena Bassa, Studena Alta, Aupa e Casali in Piano, ciascuna dotata di un proprio luogo di culto che documenta la capillare devozione delle comunità rurali alpine.
+
+---
+
+### Pieve di Santa Maria Maggiore — Pontebba (capoluogo)
+
+**Stile e cronologia.** L'attuale pieve è un edificio neogotico costruito tra il **1883** e il **1903** su progetto dell'architetto **Girolamo D'Aronco**; fu consacrata nel 1888 ma i lavori di completamento si protrassero fino all'inizio del Novecento. Essa sorge sul sedime di una chiesa gotica più antica, eretta nel **1504** su disegno di Johann Komaue ed ampliata nel corso del XVII secolo. L'edificio fu restaurato tra il 1922 e il 1942. La facciata a salienti, il campanile snello e le slanciate finestre ogivali conferiscono all'insieme un'elegante coerenza neomedievale, coerente con i dettami del revival gotico diffuso in area austro-italiana tra Otto e Novecento.
+
+**Opere d'arte e rilevanza storica.** Il pezzo di maggior pregio è il cosiddetto **Flügelaltar** («altare alato» o «altare con ante»), un magnifico trittico ligneo tardo-gotico **datato 1517**, dichiarato **monumento nazionale**. L'opera è attribuita al **Maestro Enrico da Villaco** (Heinrich von Villach), fondatore e massimo esponente della bottega carinziana di Villaco, ed è ritenuta il prototipo — mai eguagliato per qualità — di una serie di altari analoghi diffusi in numerose chiese austriache. La struttura, composta da un corpo centrale e due ante mobili apribili come pagine di un libro liturgico, custodisce sculture e dipinti che rivelano un sensibile influsso rinascimentale italiano innestato sulla tradizione germanica: le figure si muovono con naturalismo e morbidezza cromatica propri della cosiddetta *Scuola danubiana*, pur mantenendo l'eleganza lineare del gotico internazionale. La Vergine Maria occupa il fulcro dell'opera, attorniata da santi e angeli intagliati con perizia straordinaria fin nei minimi dettagli. All'interno si conserva inoltre una **tela di Palma il Giovane** (Jacopo Negretti, 1548–1628), raffigurante la *Madonna con i santi Rocco e Sebastiano*, eseguita nel terzo decennio del XVII secolo: opera che testimonia la penetrazione della pittura veneziana anche nelle valli alpine di frontiera.
+
+**Sito web:** [Le chiese delle diocesi italiane – CEI](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68652)
+
+---
+
+### Chiesa di San Giovanni Battista — Pontebba Nova (Pontafel)
+
+**Stile e cronologia.** Questa chiesa si trova nel quartiere di **Pontebba Nova**, corrispondente all'antico borgo di *Pontafel* già appartenente all'Impero austro-ungarico (Carinzia) prima dell'annessione del 1919. Le prime notizie certe la collocano intorno al **1368**; anticamente dipendeva dalla parrocchiale di Ugovizza. Visite di Vicari Patriarcali nel 1514 la trovarono in stato di abbandono; dal Seicento fu progressivamente arricchita di quadri e statue lignee. L'edificio attuale fu **costruito nel 1713** e **consacrato nel 1784**. Attorno al 1830 fu aggiunto un imponente protiro (portico esterno), poi demolito nel Novecento e ricostruito in forme più contenute tra il 2004 e il 2005. Il campanile massiccio con tetto a cipolla richiama la tradizione architettonica mitteleuropea. La chiesa fu rinnovata dopo il terremoto del Friuli del 1976.
+
+**Opere d'arte e rilevanza storica.** L'interno presenta **altari marmorei in stile barocco**: sull'altare maggiore campeggia la statua lignea di *San Giovanni Battista con Gesù*; l'altare destro reca la statua del *Sacro Cuore*, quello sinistro la statua della *Madonna*. La cappella laterale è dotata di un altare dedicato al Santissimo Sacramento. In una nicchia sul prospetto esterno si trova una statua di *San Giovanni*. Il coro conserva **elementi gotici** con soffitto a cupola, testimonianza dell'impianto medievale originario. È andata perduta la lapide del 1734 di Maria di Weidmansdorf, moglie del barone Francesco de Rechbach, che documentava i legami nobiliari tra la comunità di confine e le famiglie aristocratiche carinziane.
+
+**Sito web:** [Le chiese delle diocesi italiane – CEI](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68655)
+
+---
+
+### Chiesa di Santa Geltrude — Laglesie San Leopoldo (frazione di Pontebba)
+
+**Stile e cronologia.** La chiesa si trova nella frazione di **Laglesie San Leopoldo** (in tedesco *Leopoldskirchen*), a circa 4 km dal capoluogo. Le origini del sacello risalgono all'inizio del **XII secolo**, quando il vescovo di Bamberga **Ottone I** (1102–1139) fece erigere in questa località — già gravitante nell'orbita ecclesiastica germanica — una cappella dedicata a santa Geltrude. L'**attuale chiesa fu edificata nel 1334**, mantenendo la medesima intitolazione. Gravemente danneggiata durante la **prima guerra mondiale**, fu restaurata al termine del conflitto; ulteriori lavori si resero necessari dopo il **terremoto del Friuli del 1976**.
+
+**Opere d'arte e rilevanza storica.** Dell'impianto medievale trecentesco si conservano all'interno le **volte costolonate**, elemento di notevole interesse architettonico che documenta la diffusione del vocabolario gotico nelle vallate alpine friulane sotto l'influenza del mondo germanico. Santa Geltrude — figlia di Pipino il Vecchio e fondatrice del monastero di Nivelles († 659), il cui culto è particolarmente radicato nella Germania settentrionale — rivela il carattere tedesco della devozione locale, a riprova della lunga influenza bamberghese su queste comunità. Il ciclo di **affreschi interni** fu realizzato tra il **1946 e il 1948** da **Antonio Morocutti** di Pontebba, in collaborazione con **Decio Deotto** di Verzegnis: un'opera di devozione post-bellica che intreccia linguaggio accademico e sensibilità locale.
+
+**Sito web:** [BeWeB – Ufficio nazionale beni culturali ecclesiastici CEI](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68657/)
+
+---
+
+### Chiesa di San Rocco — Casali in Piano (frazione di Pontebba)
+
+**Stile e cronologia.** La primitiva chiesa di San Rocco fu eretta nel **1624** a memoria della vittoria riportata dai Veneti sugli Arciducali nel corso della guerra gradiscana del **1616**: un voto di ringraziamento collettivo per la fine del conflitto, espressione di quella religiosità civica che intrecciava vicende politico-militari e devozione popolare. Il 28 settembre **1885** una disastrosa alluvione distrusse l'edificio; la preziosa tela conservata al suo interno fu salvata. La chiesa fu **ricostruita in posizione più sicura** e **consacrata il 26 settembre 1886** dall'Abate di Moggio, monsignor L. Zucchiatti.
+
+**Opere d'arte e rilevanza storica.** L'edificio conserva una **tela di Palma il Giovane** (Jacopo Negretti, 1548–1628), miracolosamente sottratta alle acque dell'alluvione del 1885: la presenza di un'opera del maestro veneziano in un piccolo oratorio rurale di frontiera testimonia la capillare irradiazione della pittura della Serenissima lungo le vie commerciali alpine che percorrevano il Canal del Ferro. La chiesa, dedicata a san Rocco protettore dalla peste, richiama il ciclo di epidemie che funestarono periodicamente le comunità montane e che alimentarono la devozione verso questo santo taumaturgo.
+
+---
+
+### Chiesa dello Spirito Santo — Pietratagliata (frazione di Pontebba)
+
+**Stile e cronologia.** La presenza di un oratorio a **Pietratagliata** è documentata fin verso il **1500**; la chiesa di «Pietra Taiata» è menzionata nel 1509, durante la guerra di Cambrai. L'**edificio attuale fu eretto nel 1748** e ampliato nel **1892**, anno in cui fu costruito anche il piccolo campanile.
+
+**Opere d'arte e rilevanza storica.** Nel **1902** fu collocata in apposita nicchia la statua di *Sant'Antonio*. L'anno seguente, **1903**, l'artista gemonese **Barazzutti** affrescò il **coro**: un ciclo pittorico tardo-ottocentesco che fonde iconografia devozionale e gusto decorativo di area friulana. La chiesa rappresenta un tipico esempio di luogo di culto alpino plasmato da successive stratificazioni costruttive e artistiche nell'arco di quasi cinque secoli.
+
+---
+
+### Chiesa dei Santi Gioacchino e Anna — Aupa (frazione di Pontebba)
+
+**Stile e cronologia.** La graziosa cappella votiva di **Aupa** fu eretta tra il **1910 e il 1912** per iniziativa degli abitanti della frazione, che la vinsero in una disputa con la vicina Studena Alta sulla localizzazione dell'edificio. La costruzione, completamente autonoma rispetto all'intervento parrocchiale, testimonia il forte senso comunitario delle piccole frazioni alpine. Danneggiata durante la prima guerra mondiale (1915–1918), fu **completamente ricostruita nel tetto e in gran parte delle opere murarie** al termine del conflitto.
+
+**Rilevanza storica.** La dedica ai santi Gioacchino e Anna — genitori della Vergine Maria secondo la tradizione apocrifa — è tipica di una devozione mariana diffusa nelle campagne friulane a cavallo tra Otto e Novecento. La storia della cappella riflette le travagliate vicende del fronte dell'Isonzo e del Canal del Ferro: molte piccole chiese rurali friulane furono distrutte o gravemente danneggiate durante il conflitto e ricostruite nei decenni successivi come atti di ringraziamento e di riaffermazione dell'identità comunitaria.
+
+---
+
+### Chiesa di San Giuseppe — Studena Bassa (frazione di Pontebba)
+
+**Stile e cronologia.** Il culto cristiano a **Studena Bassa** è documentato fin al basso medioevo: fino al 1400 esisteva in loco una modesta cappella dove i monaci benedettini dell'abbazia di Moggio officiavano settimanalmente. I lavori per l'edificio attuale iniziarono nel **1912**; la chiesa fu parzialmente danneggiata durante la **prima guerra mondiale** e, dopo alcuni interventi di riparazione, venne **benedetta e aperta al culto nel 1925**.
+
+**Rilevanza storica.** La connessione con l'abbazia benedettina di Moggio Udinese — la quale esercitò la propria influenza religiosa su questo territorio dal 1119 al 1773 — è un elemento di continuità storica che percorre trasversalmente tutte le chiese del comune di Pontebba. San Giuseppe, titolare dell'edificio, riflette la devozione novecentesca al padre putativo di Cristo, culto incoraggiato dalla Chiesa cattolica a partire dal decreto *Quemadmodum Deus* (1870) di Pio IX.
+
+---
+
+### Cappella di Sant'Antonio — Studena Alta (frazione di Pontebba)
+
+**Stile e cronologia.** Una primitiva cappella votiva esisteva all'incrocio della strada con il sentiero per Studena Alta. Nel **1936**, quando i lavori per le nuove strade dirette alla Val Aupa e al Passo di Pramollo comportarono la demolizione dell'antico manufatto, fu eretta l'attuale cappella, **inaugurata e benedetta nel 1938** per volontà del parroco don G. B. Boria.
+
+**Rilevanza storica.** Piccola edicola votiva di tipo alpino, espressione della devozione popolare a sant'Antonio di Padova diffusissima in tutto il Friuli montano. La sua storia illustra come i lavori infrastrutturali del Ventennio fascista abbiano spesso determinato la ricostruzione o il riposizionamento di edicole e cappelle rurali, adattando la rete devozionale al nuovo assetto viario.
+
+---
+
+### Chiesa del Calvario — Pontebba (capoluogo)
+
+**Stile e cronologia.** Le origini di questo oratorio sono incerte: l'edificio era certamente in piedi **prima del 1800**, come attesta un documento di quell'epoca che descrive il parroco di Pontafel intento a guidare una processione di fedeli da Pontebba fino a questo luogo di culto. Un documento del **1885** ne attribuisce la proprietà alla chiesa parrocchiale di Pontafel. Nel corso degli anni il manufatto ha subito gravi danni per **incendi e terremoti**, in particolare quello del **1976**.
+
+**Rilevanza storica.** Le chiese del Calvario — tipicamente collocate su alture o ai margini degli abitati — rispondono alla tradizione devozionale delle Vie Crucis alpine, che si sviluppò intensamente nel contesto della Controriforma e raggiunse la propria massima diffusione tra Sei e Ottocento. La presenza di tale edificio a Pontebba documenta l'adesione della comunità di frontiera alle pratiche devozionali della Chiesa post-tridentina, comuni tanto al versante italiano quanto a quello austriaco delle Alpi.
+
+---
+
+## Fonti
+
+- Wikipedia – [Pontebba](https://it.wikipedia.org/wiki/Pontebba)
+- Wikipedia – [Pieve di Santa Maria Maggiore (Pontebba)](https://it.wikipedia.org/wiki/Pieve_di_Santa_Maria_Maggiore_(Pontebba))
+- Wikipedia – [Chiesa di San Giovanni Battista (Pontebba)](https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_(Pontebba))
+- Wikipedia – [Chiesa di Santa Geltrude (Pontebba)](https://it.wikipedia.org/wiki/Chiesa_di_Santa_Geltrude_(Pontebba))
+- Conferenza Episcopale Italiana – [Le chiese delle diocesi italiane](https://chieseitaliane.chiesacattolica.it/)
+- BeWeB – Ufficio nazionale per i beni culturali ecclesiastici della CEI: [edificio 68657](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68657/)
+- Comune di Pontebba – [Sito istituzionale](http://www.comune.pontebba.ud.it/)
+
+---
+
+## Porcia
+
+Porcia (pronuncia _Porcìa_, in friulano occidentale _Purcìa_) è un comune di circa 15.000 abitanti situato nella pianura pordenonese, a breve distanza dal capoluogo. Già feudo della nobile famiglia dei Porcia, legata al Patriarcato di Aquileia, il comune conserva un patrimonio di edifici sacri che spaziano dal pieno medioevo all'età contemporanea. Le chiese di Porcia riflettono secoli di stratificazioni artistiche: si trovano affreschi trecenteschi accanto a pale cinquecentesche di pittori legati alla cerchia del Pordenone, preziosi arredi lignei seicenteschi e cappelle campestri di rara autenticità. Il patrono del comune è san Giorgio, festeggiato il 23 aprile.
+
+---
+
+### Chiesa di San Giorgio (Parrocchiale di Porcia)
+
+**Comune:** Porcia (centro storico)  
+**Stile architettonico ed epoca:** Architettura sacra di impianto cinquecentesco, con ampliamenti ottocenteschi
+
+La parrocchiale di San Giorgio è il principale luogo di culto di Porcia e il più ricco sul piano artistico. Citata per la prima volta in un documento del 1262, fu probabilmente riedificata intorno al 1560 e ulteriormente ampliata nel 1846. L'interno a navata unica custodisce un **coro ligneo intarsiato e scolpito risalente al Seicento**, che costituisce uno dei pezzi più pregiati dell'arredo liturgico del pordenonese.
+
+Notevolissime sono le **ante dell'organo**, dipinte da Isacco Fischer, raffiguranti *San Giorgio che uccide il drago*, *La conversione di San Paolo* e *L'Annunciazione*. Spiccano inoltre due pale d'altare di grande valore: la **Pala di San Giorgio** di **Jacopo Negretti detto Palma il Giovane** — uno dei massimi protagonisti della pittura veneziana tardo-cinquecentesca — e la **Pala di Santa Lucia** attribuita a **Francesco da Milano**, pittore attivo nel Cinquecento.
+
+Accanto alla chiesa si erge il **campanile**, alto 44 metri, con basamento in pietra quadrangolare databile al 1488 e fusto eretto probabilmente nel 1555 (data incisa nell'intonaco interno). Secondo la tradizione avrebbe dovuto imitare il campanile di San Marco a Venezia, ma la costruzione fu interrotta. La struttura interna è a doppia canna muraria con rampe elicoidali.
+
+**Sito web:** [www.comune.porcia.pn.it](http://www.comune.porcia.pn.it)
+
+---
+
+### Chiesa della Beata Vergine Assunta
+
+**Comune:** Porcia (centro storico)  
+**Stile architettonico ed epoca:** Rinascimentale, costruzione 1555–1560 su preesistenza medievale (prima attestazione 1369); rimaneggiata nel 1892
+
+La chiesa della Beata Vergine Assunta, piccolo gioiello rinascimentale del centro di Porcia, ha origini attestate almeno al 1369. L'edificio attuale fu ricostruito in forme rinascimentali tra il 1555 e il 1560 e subì rimaneggiamenti nel 1892. Il prospetto è sobrio; la torre campanaria adiacente, con cuspide in cotto, è di modeste dimensioni ma di forme eleganti.
+
+All'interno si conservano **tre altari in legno intagliati e dorati del XVII secolo**, opera della **bottega dei Ghilarduzzi**, artigiani-artisti attivi nel Friuli occidentale. Tra i dipinti emergono: i **teleri di Isacco Fischer** di gusto barocco, raffiguranti *San Giovanni Battista*, *San Girolamo* e i *quattro Evangelisti*; la **Pala dell'Assunta** di **Andrea Vicentino** (pittore veneziano, 1542 ca. – 1617 ca.), esponente del tardo manierismo lagunare; un **crocifisso ligneo** databile all'ultimo quarto del XV secolo e una **Madonna quattrocentesca in legno** proveniente dalla scomparsa chiesa di San Michele Arcangelo a Talponedo. Di straordinario interesse sono gli **affreschi di Girolamo de Stefanelli**, databili al XVI secolo, che decorano le pareti interne.
+
+---
+
+### Pieve di San Vigilio (frazione di Pieve)
+
+**Comune:** Porcia — frazione di Pieve  
+**Stile architettonico ed epoca:** Romanico-medievale con successive integrazioni; prima attestazione documentaria 1187, origini probabilmente paleocristiane (VI secolo)
+
+La pieve di San Vigilio, che dà il nome alla frazione omonima, è l'edificio sacro più antico del territorio di Porcia e uno dei più significativi dell'intera area pordenonese. Sorge su un terrapieno rialzato all'interno della centa (recinto difensivo), a testimonianza del ruolo strategico che il sito rivestiva nell'organizzazione del territorio altomedievale. La prima menzione documentaria risale al 1187, ma alcuni studiosi ritengono che in questo luogo esistesse già nel VI secolo una struttura di culto.
+
+Nonostante i rimaneggiamenti seicenteschi che hanno alterato l'aspetto originario, l'interno conserva parte dei **preziosi affreschi della seconda metà del XIII secolo**, tra i più antichi sopravvissuti nel territorio comunale. Notevole anche la **acquasantiera del Pavanello** (1643), elegante manufatto lapideo. Il campanile, con cella a monofora e tetto a capanna, accentua il carattere di austerità romanica dell'insieme.
+
+---
+
+### Cappella di Sant'Agnese (Roraipiccolo)
+
+**Comune:** Porcia — frazione di Roraipiccolo  
+**Stile architettonico ed epoca:** Romanico-medievale, XIII secolo; cappella campestre rurale
+
+La cappella di Sant'Agnese, in località Roraipiccolo, è una delle testimonianze medievali più autentiche e meglio conservate del comprensorio pordenonese. Risalente al XIII secolo, si presenta come una piccola cappella campestre a **navata unica con tetto a capanna e capriate a vista**, con abside e campanile integrati nella struttura. La semplicità formale dell'edificio è in contrasto con la straordinaria ricchezza degli affreschi interni.
+
+Gli **affreschi** coprono un arco temporale notevole, dal XIII al XVI secolo, e documentano l'evoluzione della pittura sacra locale. Il pezzo più celebre è il **ciclo attribuito a Pomponio Amalteo** — pittore nato a Motta di Livenza nel 1505, allievo del Pordenone di cui sposò la figlia, e massimo esponente della pittura rinascimentale nel Friuli occidentale — raffigurante una *Madonna con Bambino tra le sante Agnese e Caterina d'Alessandria*, affresco di grande finezza compositiva e cromatica.
+
+Nel corso di restauri è stata rinvenuta una **croce enkolpion** probabilmente risalente al XII secolo: si tratta di una croce bivalve di origine **bizantina**, usata come reliquiario portato al collo, reperto eccezionale che testimonia la penetrazione di influenze culturali orientali in questo territorio. Nelle tre cappelle laterali si conservano sculture raffiguranti la Madonna, Gesù e Sant'Agnese.
+
+---
+
+### Tempietto di San Michele Arcangelo (Talponedo)
+
+**Comune:** Porcia — frazione di Talponedo  
+**Stile architettonico ed epoca:** Settecentesco (XVIII secolo) su preesistenza medievale (attestato dal XIII secolo)
+
+Il tempietto dedicato a San Michele Arcangelo nella frazione di Talponedo rappresenta un caso raro di edificio sacro con continuità di utilizzo plurisecolare. La sua esistenza è già confermata da documenti del Duecento, ma l'edificio attuale presenta forme settecentesche. Storicamente notevole è la sua doppia funzione: oltre al culto, l'edificio fu adibito a **ospedale e ospizio per pellegrini**, testimoniando la rete di assistenza legata al sistema delle chiese rurali medievali.
+
+L'interno conserva **opere d'arte lapidee e lignee** di pregio. Da questa cappella, già nel XIX secolo, fu trasferita alla chiesa della Beata Vergine Assunta nel centro di Porcia una **Madonna quattrocentesca in legno**, oggi parte del patrimonio artistico della parrocchiale.
+
+---
+
+### Chiesa di Sant'Antonio (frazione Sant'Antonio)
+
+**Comune:** Porcia — frazione di Sant'Antonio  
+**Stile architettonico ed epoca:** Architettura sacra contemporanea, XX secolo; progetto dell'architetto Silvano Varnier
+
+La chiesa di Sant'Antonio, nella frazione omonima, è un esempio di architettura sacra moderna realizzata dall'architetto **Silvano Varnier** come espressione della nuova concezione dello spazio liturgico post-conciliare. L'edificio dialoga con il contesto industriale della zona — la frazione è anche sede dello stabilimento Electrolux Italia (già Industrie Zanussi), celebre opera dell'architetto Gino Valle (1959–1965), che rappresenta un landmark dell'architettura industriale italiana del secondo Novecento.
+
+All'interno della chiesa sono custoditi: un **crocifisso ligneo del Cinquecento** recuperato dalla soffitta della chiesa di Palse e successivamente restaurato dal parroco; e **due statue in marmo** — una raffigurante la Madonna con il Bambino e l'altra il patrono Sant'Antonio — opera dello scultore veneziano **Antonio Dal Zotto**, eseguita nel 1861.
+
+---
+
+### Chiesa di San Giuseppe (Spinazzedo)
+
+**Comune:** Porcia — località Spinazzedo  
+**Stile architettonico ed epoca:** Barocca, XVII secolo; coro rifatto nel XVIII secolo
+
+La piccola chiesa di San Giuseppe sorge in località Spinazzedo, nella campagna porciese. Costruita nel XVII secolo, fu parzialmente rifatta nel Settecento, quando venne rimodellato il coro. La **facciata a capanna** presenta al centro il portale d'ingresso e un piccolo rosone; l'interno è a **navata unica**. L'edificio è rappresentativo della tipologia della cappella rurale veneto-friulana di età moderna, caratterizzata da sobrietà formale e raccoglimento delle dimensioni.
+
+---
+
+### Chiesa dei Santi Martino e Vigilio (Palse)
+
+**Comune:** Porcia — frazione di Palse  
+**Stile architettonico ed epoca:** Neogotico/eclettico, costruita tra il 1902 e il 1906 in sostituzione di una cappella medievale preesistente
+
+La parrocchiale della frazione di Palse è un edificio di fine Ottocento-inizio Novecento che sostituì una più antica cappella medievale. Pur non avendo le caratteristiche dell'antico, conserva un patrimonio pittorico di interesse regionale. Sull'altare maggiore si trovano i **dipinti ottocenteschi di Ignazio Kollman**, tra cui spiccano *Madonna con Bambino* e *San Martino e il povero*. Degno di nota è anche l'**affresco di Giuseppe De Lorenzi** raffigurante il *Giudizio Universale*, nonché la **Pala del Rosario** attribuita al pittore carnico **Osvaldo Gortanutti**. Presso questa chiesa era conservato il **crocifisso ligneo cinquecentesco** poi trasferito alla chiesa di Sant'Antonio nella frazione omonima.
+
+---
+
+## Fonti
+
+- Wikipedia, voce *Porcia* — [https://it.wikipedia.org/wiki/Porcia](https://it.wikipedia.org/wiki/Porcia)
+- Wikipedia, voce *Pomponio Amalteo* — [https://it.wikipedia.org/wiki/Pomponio_Amalteo](https://it.wikipedia.org/wiki/Pomponio_Amalteo)
+- Wikipedia, voce *Andrea Vicentino* — [https://it.wikipedia.org/wiki/Andrea_Vicentino](https://it.wikipedia.org/wiki/Andrea_Vicentino)
+- Wikipedia, voce *Jacopo Palma il Giovane* — [https://it.wikipedia.org/wiki/Jacopo_Palma_il_Giovane](https://it.wikipedia.org/wiki/Jacopo_Palma_il_Giovane)
+- Sito istituzionale Comune di Porcia — [http://www.comune.porcia.pn.it](http://www.comune.porcia.pn.it)
+- Beweb – Beni Ecclesiastici in Web, Conferenza Episcopale Italiana — [https://www.beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it)
+
+---
+
+## Pordenone
+
+Pordenone è il principale centro del Friuli occidentale e capoluogo dell'omonima provincia, sorto come porto fluviale sul Noncello — il cui nome latino *Portus Naonis* ne rivela l'origine commerciale. La città vanta un patrimonio di architettura sacra di straordinaria densità, segnato in modo indelebile dalla presenza di Giovanni Antonio de' Sacchis, detto **il Pordenone** (1483/84–1539), il massimo pittore friulano del Rinascimento. Le sue opere — affreschi, pale d'altare, figure di santi — punteggiano chiese e cappelle tanto nel centro urbano quanto nelle frazioni, creando un vero e proprio «museo diffuso» intorno alla figura del pittore nato in questa stessa città. Accanto al corpus sacchisiano, Pordenone conserva una stratificazione eccezionale che va dalle pievi di fondazione aquileiese fino alle audaci sperimentazioni del XX secolo, con la chiesa del Beato Odorico progettata da Mario Botta. La diocesi di Concordia-Pordenone, con sede vescovile stabilita in città dal 1974, raccoglie questa molteplicità di epoche e stili entro un territorio relativamente compatto.
+
+---
+
+### Concattedrale di San Marco Evangelista (Duomo)
+
+**Città/comune:** Pordenone (centro storico)  
+**Coordinate:** 45°57′15″N, 12°39′39″E  
+**Stile architettonico:** romanico-gotico con rifacimenti rinascimentali, barocchi e neoclassici  
+**Epoca:** seconda metà del XIII secolo; consacrata nel 1468; rimaneggiamenti nel XVI, XVII e XVIII secolo
+
+Il Duomo di San Marco è il monumento simbolo di Pordenone e concattedrale della diocesi di Concordia-Pordenone dal 26 ottobre 1974, quando la sede vescovile fu trasferita da Portogruaro. La comunità cristiana locale dipendeva originariamente dalla pieve dei Santi Ilario e Taziano di Torre, di probabile fondazione aquileiese; nel 1278 la chiesa di San Marco fu elevata a pieve autonoma, a sancire il crescente peso di Pordenone rispetto alla decadente Torre.
+
+L'edificio attuale fu iniziato nella seconda metà del Duecento in forme romanico-gotiche sui resti di una costruzione preesistente. La parte più fedele all'impianto originario è visibile nell'abside trecentesco, nel tiburio e soprattutto nel **campanile**, avviato nel 1291 e completato nel 1347 fino alla cella campanaria (la cuspide è seicentesca): alto 79,47 metri, interamente in mattoni a vista con trifore e archetti pensili in cotto, è il simbolo per eccellenza della città. Nel XVI secolo furono realizzate le sei cappelle laterali; nel XVIII secolo l'architetto svizzero-italiano **Domenico Rossi** sopraelevò la navata e riplasmò l'interno in chiave barocco-neoclassica.
+
+**Opere d'arte principali:**
+- **Portale maggiore** (1511) di **Giovanni Antonio Pilacorte**: lunetta con *Cristo Passo*, stipiti con i Segni zodiacali, architrave con scene della Creazione.
+- **Acquasantiera** (1508) di **Pilacorte**, con stemma del Comune di Pordenone.
+- **Pala della Madonna della Misericordia** (1515-16) di **il Pordenone**: opera di altissima qualità, con evidente influsso di Tiziano e Sebastiano del Piombo; la Vergine accoglie sotto il manto committenti e santi, sullo sfondo un castello e una porta urbica. Prima cappella laterale destra.
+- **Affreschi sul pilastro ottagonale destro** di *il Pordenone*: *Sant'Erasmo* (1512-14), *San Rocco* (1515-18, considerato autoritratto del pittore), *Madonna con Bambino*.
+- **Cappella Montereale-Mantica**: interamente affrescata nel 1554-55 da **Giovanni Maria Zaffoni detto il Calderari**, allievo del Pordenone. Le pareti raffigurano *Storie della Vergine* (Visitazione, Assunzione, Pentecoste, Ascensione, Cena di Emmaus); sulla volta *Santi Anna e Gioacchino, Nascita di Maria, Presentazione al Tempio, Sposalizio*. Pala d'altare con la *Fuga in Egitto* (1565) di **Pomponio Amalteo**. Il sarcofago del 1511 custodisce la committente Luisa Mantica.
+- **Cappella dei Santi Pietro e Paolo (Cappella Ricchieri)**: affreschi 1414-20 attribuiti a un seguace di **Gentile da Fabriano** con *Simboli degli evangelisti*, *Santi e Angeli*, *Vedute di città*; statua lignea seicentesca *Cristo risorto* di Filippo de Porri.
+- **Dipinto di Marcello Fogolino** (1523): *San Francesco con i Santi Daniele e Giovanni Battista*, nella cappella di sinistra.
+- **Affresco sulla volta** (2000) di Antonio Boatto: *Trinità nel Vangelo di San Marco*.
+- **Vetrate** (2014) del maestro Albano Poli.
+- Altari marmorei di **Giovanni Battista Bettini** di Portogruaro (XVIII sec.) e dei fratelli Groppelli (1732).
+
+Il terremoto del 1976 causò gravi danni; i restauri del 1997 hanno rafforzato la struttura con tiranti in acciaio.
+
+**Sito web:** [diocesi.concordia-pordenone.it](https://www.diocesi.concordia-pordenone.it)
+
+---
+
+### Chiesa di Santa Maria degli Angeli, detta «del Cristo»
+
+**Città/comune:** Pordenone, Piazza del Cristo  
+**Coordinate:** 45°57′24″N, 12°39′38″E  
+**Stile architettonico:** romanico-gotico originario; rifacimento neoclassico (1760)  
+**Epoca:** 1309
+
+La chiesa fu edificata nel 1309 come cappella dell'ospedale di Santa Maria degli Angeli, gestito dalla confraternita dei **Battuti**. L'appellativo popolare «del Cristo» deriva dal crocifisso ligneo quattrocentesco, un tempo venerato come miracoloso, posto al centro dell'altare maggiore. Nel corso del Trecento e Quattrocento beneficiò di indulgenze papali e divenne meta di pellegrinaggi dalla diocesi. Nel 1665 fu ceduta al monastero delle monache agostiniane; alla loro partenza (1771), tornò cappella ospedaliera.
+
+Il rifacimento del 1760 alterò profondamente l'aspetto originario: furono murati il rosone e le finestre a sesto acuto, rialzate le pareti, costruito un nuovo soffitto in stile neoclassico. I bombardamenti del 28 dicembre 1944 devastarono la chiesa, distruggendo il soffitto affrescato da **Pietro Venier**. Rapidamente ricostruita, fu riaperta nel giugno 1946; tra il 1967 e il 1968 i restauri portarono alla luce il prezioso ciclo di **affreschi trecenteschi**.
+
+**Opere d'arte principali:**
+- **Portale in pietra d'Istria** (1510) di **Giovanni Antonio Pilacorte**, con lunetta raffigurante *Maria Vergine in trono tra due angeli*.
+- **Ciclo di affreschi trecenteschi** (XIV sec.): la Natività con Maria Maddalena e San Domenico, e altre scene sacre.
+- **Santa Barbara** di **Gianfrancesco da Tolmezzo** (XV sec.).
+- **Crocifisso ligneo** quattrocentesco di **Giovanni Teutonico** (Johannes Teutonicus), scultura di artista nordico di grande potenza espressiva.
+- **Affresco dell'Assunta** sul soffitto (post-1946) di **Tiburzio Donadon**.
+
+---
+
+### Chiesa della Santissima Trinità, detta «la Santissima»
+
+**Città/comune:** Pordenone, Viale delle Grazie 55  
+**Coordinate:** 45°57′07″N, 12°39′47″E  
+**Stile architettonico:** gotico-rinascimentale con interventi neogotici  
+**Epoca:** 1526-1539; progetto del sacerdote-notaio-architetto *pre' Ippolito Morone*
+
+Una delle architetture più singolari di Pordenone: la chiesa presenta una **pianta ottagonale** esterna, con copertura piramidale, mentre l'interno è circolare, espressione rinascimentale della circolarità e dell'armonia dell'universo. Sorge lungo il fiume Noncello, in posizione isolata e suggestiva. La costruzione si deve all'intraprendenza del pordenonese *pre' Ippolito Morone*, vicario del Duomo, notaio e autodidatta dell'architettura.
+
+**Opere d'arte principali:**
+- **Affreschi cinquecenteschi** di **Giovanni Maria Zaffoni detto il Calderari**: *Diluvio universale e arca di Noè*, *Sacrificio di Isacco*, e altre scene bibliche. Straordinariamente, nello sfondo di alcune composizioni è raffigurata una **veduta rinascimentale della città di Pordenone**, documento iconografico di grande valore storico.
+- Abside affrescato.
+
+---
+
+### Chiesa di San Giorgio
+
+**Città/comune:** Pordenone (Borgo San Giorgio)  
+**Coordinate:** 45°57′38″N, 12°39′29″E  
+**Stile architettonico:** neoclassico  
+**Epoca:** completata e consacrata nel 1873; seconda parrocchiale della città dal 1588
+
+Costruita su un piccolo oratorio trecentesco dedicato a San Giorgio, la chiesa subì numerose trasformazioni nel corso dei secoli fino alla consacrazione solenne del 1873. La **facciata neoclassica** e il caratteristico **campanile a colonna di stile toscano-dorico** sono entrambi opera dell'architetto **Giovanni Battista Bassi** (la torre campanaria, iniziata nel 1852, fu ultimata solo nel 1914). La statua di San Giorgio in cima al campanile fu rinnovata nel 1961 dagli scultori **Pierino Sam** e Giulio Piccini.
+
+Episodio storico degno di nota: il 28 dicembre 1944 una bomba sfondò il tetto cadendo sul pavimento senza esplodere, salvando la chiesa.
+
+**Opere d'arte principali:**
+- **Pala dell'altare maggiore** di **Gasparo Narvesa**: *San Giorgio che uccide il drago*, vivace composizione tardomanierista.
+- **Dipinti** di **Michelangelo Grigoletti** (XIX sec.): *Sant'Anna* e *Santa Lucia*.
+- **Pala di Sant'Antonio** di **Pio Rossi**.
+- **Affreschi** di **Tiburzio Donadon** nella zona absidale e sulla volta: *Annunciazione*, *Santi e Angeli*.
+- **Via Crucis** di Mario Moretti.
+- **Organo a canne** di **G.B. De Lorenzi** (opera n. 25, 1841), restaurato nel 2007 da Francesco Zanin jr.
+
+**Sito web:** [www.parrocchiasangiorgiopn.it](http://www.parrocchiasangiorgiopn.it)
+
+---
+
+### Santuario della Beata Vergine delle Grazie
+
+**Città/comune:** Pordenone (quartiere Le Grazie)  
+**Stile architettonico:** neogotico  
+**Epoca:** 1899-1921; in sostituzione di un santuario seicentesco preesistente
+
+Il santuario è dedicato alla Madonna delle Grazie, patrona di Pordenone insieme a San Marco evangelista, e la festa del 8 settembre è uno dei momenti più sentiti della vita religiosa cittadina. La costruzione neogotica, edificata tra il 1899 e il 1921, sostituì un edificio precedente del XVII secolo. La chiesa custodisce uno dei **più grandi organi moderni d'Italia**, strumento di notevole portata sonora che rende l'edificio un importante polo per la musica sacra dell'intero Friuli occidentale.
+
+---
+
+### Pieve dei Santi Ilario e Taziano — frazione di Torre
+
+**Città/comune:** Pordenone, via Vittorio Veneto, frazione Torre  
+**Coordinate:** 45°58′03″N, 12°40′53″E  
+**Stile architettonico:** neoclassico (chiesa attuale)  
+**Epoca:** origini nel VII secolo; costruzione attuale 1873-1885, progetto dell'ing. Damiano Roviglio
+
+Questa pieve ha radici antichissime: il culto dei santi **Ilario e Taziano** — martiri aquileiesi del 284 — fu introdotto da missionari provenienti da Aquileia, probabilmente già nel VII secolo, facendone una delle prime pievi della diocesi concordiese. La chiesa è menzionata nella bolla di **papa Urbano III** del 1187. Fu la chiesa matrice dell'intera area: nel 1278 Pordenone le fu sottratta e la chiesa di San Marco elevata a pieve autonoma, segnando il declino di Torre. L'edificio attuale, in stile neoclassico, fu eretto tra il 1873 e il 1885; la prima pietra fu posta nel 1873, il presbiterio completato nel 1877, l'intera struttura ultimata nel 1885. Il campanile risale al 1777.
+
+La **facciata a salienti** è tripartita da lesene corinzie raccordate da ghirlande, con portale timpanato e nicchie laterali con statue di San Giuseppe e San Paolo. Sul sagrato si trova il busto in bronzo di mons. Giuseppe Lozer, opera dello scultore **Pierino Sam**.
+
+**Opere d'arte principali:**
+- **Copia della pala** di **Giovanni Antonio de' Sacchis detto il Pordenone** (originale 1520, conservato nel Museo Diocesano di Concordia-Pordenone): *Santi Ilario e Taziano con la Beata Vergine Maria, Sant'Antonio Abate, San Giovanni Battista e Angeli*.
+- **Acquasantiera** (1532) di **Donato Casella** da Carona.
+
+---
+
+### Chiesa dei Santi Ruperto e Leonardo — frazione di Vallenoncello
+
+**Città/comune:** Pordenone, via Chiesa di Vallenoncello  
+**Coordinate:** 45°56′02″N, 12°38′32″E  
+**Stile architettonico:** ricostruzione tra XVIII e XIX secolo  
+**Epoca:** origini nel 1056; ricostruzioni nel XV, XVIII-XIX sec.
+
+Nel 1056 l'arcivescovo di Salisburgo, entrato in possesso di Vallenoncello, vi consacrò una piccola chiesa a **San Ruperto** (il santo evangelizzatore della Baviera e dell'Illirico, patrono di Salisburgo). Il titolo doppio — con San Leonardo di Noblac — riflette la stratificazione devozionale medievale. La chiesa attuale è frutto di una ricostruzione tra Sette e Ottocento. La parrocchia fu eretta nei primi anni del XVII secolo.
+
+**Opere d'arte principali:**
+- **Pala d'altare maggiore** del **Pordenone** (XVI sec.): opera di rilevante importanza nel corpus sacchisiano.
+- **Dipinto** del **Calderari** (Giovanni Maria Zaffoni): *Natività di Cristo*.
+- **Organo a canne** Michelotto (2006): 18 registri su due manuali e pedale.
+- Scultura in bronzo di **Pierino Sam** sul sagrato: alpini che si sorreggono in reciproco soccorso.
+
+---
+
+### Chiesa di San Lorenzo Martire — frazione di Rorai Grande
+
+**Città/comune:** Pordenone, Piazzale San Lorenzo, Rorai Grande  
+**Coordinate:** 45°57′58″N, 12°38′12″E  
+**Stile architettonico:** neoromanico  
+**Epoca:** origini nel XII secolo; costruzione attuale 1909-1923, progetto di **Domenico Rupolo**; consacrata nel 1949
+
+L'originaria cappella di Rorai Grande, filiale della pieve di Torre, risale al XII secolo. Nel Quattrocento fu sostituita da una nuova chiesa; nel 1605 il vicario diocesano la elevò a curaziale; nel 1736 fu eretta parrocchia autonoma. Il progetto neoromanico di **Domenico Rupolo** fu iniziato nel 1909, interrotto dalla Grande Guerra, ultimato nel 1923. La facciata in mattoni rossi con inserti in pietra bianca presenta tre grandi pinnacoli, un rosone con croce inscritta e un portale con bassorilievo del 1553.
+
+**Opere d'arte principali:**
+- **Affreschi** iniziati da **Giovanni Antonio de' Sacchis (il Pordenone)** e terminati da **Marcello Fogolino**: *Presentazione di Maria Vergine al Tempio*, *Fuga in Egitto*, *Sposalizio di Maria Vergine*, *Madonna della Cintola*.
+- **Fonte battesimale** realizzato in collaborazione dallo scultore rinascimentale **Donato Casella** con il figlio **Alvise Casella**: opera di pregio della scultura friulana del Cinquecento.
+- **Pala di Santa Lucia** di **Michelangelo Grigoletti** (XIX sec.).
+
+---
+
+### Chiesa di Sant'Ulderico — frazione di Villanova
+
+**Città/comune:** Pordenone, frazione Villanova  
+**Coordinate:** 45°56′01″N, 12°40′31″E  
+**Stile architettonico:** architettura medievale con aggiunte secentesche e restauri liberty  
+**Epoca:** prima citazione 1292; abside XIV sec.; parrocchiale dal 1542; cappelle laterali XVII sec.; restauro 2009
+
+La piccola chiesa di Villanova è strettamente legata alla memoria del **Beato Odorico da Pordenone** (fra' Odorico Mattiussi, 1280-1331), il francescano nativo di Villanova che raggiunse la Cina e l'Asia orientale prima di Marco Polo, lasciando un celebre *Relatio* dei suoi viaggi. Sul sagrato antistante si erge la **statua in bronzo del Beato Odorico** opera di **Pierino Sam**.
+
+Il fianco meridionale è impreziosito da un affresco esterno raffigurante **San Cristoforo**, attribuito a **Giovanni Antonio de' Sacchis**. L'interno — decorato con motivi floreali in stile liberty — custodisce un imponente ciclo affrescato.
+
+**Opere d'arte principali:**
+- **Ciclo di affreschi** (1514-15) di **Giovanni Antonio de' Sacchis (il Pordenone)**: *Scene della vita di Gesù*, *Profeti, Dottori della Chiesa, Santi ed Evangelisti*.
+- **Altare** di **Giovanni Antonio Pilacorte**, scultore rinascimentale di area lombardo-friulana.
+- **Affresco esterno** (*San Cristoforo*) del Pordenone sul lato meridionale.
+
+---
+
+### Chiesetta del Corpus Domini (o di San Ruperto) — Vallenoncello
+
+**Città/comune:** Pordenone, Via della Chiesa 4, Vallenoncello  
+**Coordinate:** 45°55′33″N, 12°38′08″E  
+**Stile architettonico:** rinascimentale  
+**Epoca:** XV secolo; consacrata nel 1488
+
+Piccolo edificio sussidiario di fondazione rinascimentale, con facciata a capanna e campaniletto a vela monoforo. L'interno, coperto da un'armatura lignea con travi decorate a motivi geometrici, conserva sulla parete sinistra **resti di un affresco** raffigurante San Cristoforo, attribuibili a **Pietro Gorizio** e **Mercurio Pisani**, pittori del XVI-XVII secolo di cui rimane solo il nome. Secondo la tradizione ecclesiastica, la fondazione dell'ente risalirebbe al IV secolo.
+
+---
+
+### Chiesa di San Leonardo in Sylvis — Vallenoncello
+
+**Città/comune:** Pordenone, Via della Chiesa 4, Valle del Romito (Vallenoncello)  
+**Coordinate:** 45°54′48″N, 12°37′48″E  
+**Stile architettonico:** romanico (esterno e struttura); portale neoclassico; interni barocchi  
+**Epoca:** XIV secolo
+
+La chiesa si erge su uno spazio erboso nella Valle del Romito, in posizione isolata e di grande suggestione paesaggistica. Di fondazione quattrocentesca, è chiesa sussidiaria della diocesi di Concordia-Pordenone. La facciata a capanna presenta un portale neoclassico timpanato e un piccolo campanile a vela con un'unica campana.
+
+**Opere d'arte principali:**
+- **Affresco del XIV secolo** (*San Michele Arcangelo*) sulla parete sinistra interna: testimonianza della pittura medievale friulana.
+- **Altare in marmi policromi** (1727) con statua lignea del Santo titolare.
+
+---
+
+### Oratorio di San Bernardino — Rorai Cappuccini
+
+**Città/comune:** Pordenone, circoscrizione Rorai-Cappuccini  
+**Stile architettonico:** barocco  
+**Epoca:** XVII-XVIII secolo
+
+Gradevole edificio barocco con interno decorato da affreschi di buona scuola, espressione del gusto decorativo seicentesco nella periferia pordenonese. Testimonia la capillare diffusione del culto delle confraternite e degli ordini mendicanti nel territorio.
+
+---
+
+### Cappella di Sant'Anna — Vallenoncello
+
+**Città/comune:** Pordenone, via Segaluzza, Vallenoncello  
+**Stile architettonico:** architettura religiosa minore settecentesca  
+**Epoca:** XVIII secolo
+
+Piccolo edificio settecentesco, unico luogo di culto pordenonese dedicato a Sant'Anna, madre di Maria. La cappella è oggi parzialmente inglobata dai capannoni dell'area industriale di Vallenoncello, cresciuta impetuosamente durante il boom economico del dopoguerra: la sua sopravvivenza è simbolicamente significativa come testimonianza del paesaggio rurale pre-industriale della frazione.
+
+---
+
+### Chiesa della Sacra Famiglia — viale Cossetti
+
+**Città/comune:** Pordenone, viale Cossetti  
+**Stile architettonico:** architettura religiosa del XX secolo  
+**Epoca:** XX secolo
+
+Esempio di architettura sacra contemporanea nel tessuto urbano pordenonese. Le **vetrate** sono state realizzate su progetto dello scultore pordenonese **Pierino Sam** (1921-2010), la cui firma artistica caratterizza numerosi edifici religiosi della città. Dello stesso autore è il **crocifisso in bronzo** sul portale di ingresso.
+
+---
+
+### Chiesa del Beato Odorico — progetto Mario Botta
+
+**Città/comune:** Pordenone  
+**Stile architettonico:** architettura contemporanea  
+**Epoca:** 1990-1992; progetto dell'architetto **Mario Botta** (Mendrisio, 1943)
+
+Una delle realizzazioni più significative dell'architettura sacra contemporanea in Friuli Venezia Giulia, progettata dal celebre architetto ticinese Mario Botta — autore di altri edifici religiosi di rilievo internazionale, tra cui la Cattedrale di Evry e la cappella sul Monte Tamaro. La chiesa è intitolata al **Beato Odorico da Pordenone**, il francescano nativo di Villanova che nel Trecento percorse l'Asia fino alla Cina. L'edificio esprime la poetica bottiana della geometria pura applicata allo spazio sacro.
+
+---
+
+## Fonti
+
+- Wikipedia IT — *Concattedrale di San Marco Evangelista (Pordenone)* — [it.wikipedia.org/wiki/Duomo_di_Pordenone](https://it.wikipedia.org/wiki/Duomo_di_Pordenone)
+- Wikipedia IT — *Chiesa dei Santi Ilario e Taziano (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_dei_Santi_Ilario_e_Taziano_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Ilario_e_Taziano_(Pordenone))
+- Wikipedia IT — *Chiesa del Cristo (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_del_Cristo_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_del_Cristo_(Pordenone))
+- Wikipedia IT — *Chiesa della Santissima Trinità (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_della_Santissima_Trinità_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Trinità_(Pordenone))
+- Wikipedia IT — *Chiesa di San Giorgio (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_(Pordenone))
+- Wikipedia IT — *Chiesa dei Santi Ruperto e Leonardo* — [it.wikipedia.org/wiki/Chiesa_dei_Santi_Ruperto_e_Leonardo](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Ruperto_e_Leonardo)
+- Wikipedia IT — *Chiesa di San Lorenzo Martire (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_di_San_Lorenzo_Martire_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_di_San_Lorenzo_Martire_(Pordenone))
+- Wikipedia IT — *Chiesa di Sant'Ulderico (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_di_Sant'Ulderico_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ulderico_(Pordenone))
+- Wikipedia IT — *Chiesa di San Leonardo in Sylvis* — [it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_in_Sylvis](https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_in_Sylvis)
+- Wikipedia IT — *Chiesa del Corpus Domini (Pordenone)* — [it.wikipedia.org/wiki/Chiesa_del_Corpus_Domini_(Pordenone)](https://it.wikipedia.org/wiki/Chiesa_del_Corpus_Domini_(Pordenone))
+- Wikipedia IT — *Pordenone* (sezione Monumenti e luoghi d'interesse) — [it.wikipedia.org/wiki/Pordenone](https://it.wikipedia.org/wiki/Pordenone)
+- Wikipedia IT — *Il Pordenone* (Giovanni Antonio de' Sacchis) — [it.wikipedia.org/wiki/Il_Pordenone](https://it.wikipedia.org/wiki/Il_Pordenone)
+- BeWeB — Beni Ecclesiastici in Web, Conferenza Episcopale Italiana — [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it)
+- Diocesi di Concordia-Pordenone — [diocesi.concordia-pordenone.it](https://www.diocesi.concordia-pordenone.it)
+- Comune di Pordenone — [comune.pordenone.it](https://www.comune.pordenone.it)
 
 ---
 
@@ -13438,6 +15133,234 @@ Il comune di Povoletto (_Paulêt_ in friulano), situato nella fascia pedemontana
 
 ---
 
+## Pozzuolo del Friuli
+
+Pozzuolo del Friuli (_Puçui_ in friulano) è un comune di circa 6.900 abitanti situato nell'alta pianura friulana, a una decina di chilometri a sud di Udine, in provincia di Udine. Il territorio comprende il capoluogo e le frazioni di Cargnacco, Carpeneto, Sammardenchia, Terenzano e Zugliano. Nonostante le dimensioni contenute, il comune vanta un patrimonio di architettura religiosa notevolmente ricco e variegato: alle chiese parrocchiali di ciascuna frazione — alcune costruite o ricostruite in età neoclassica e ottocentesca, altre affrescate da maestri locali tra Quattrocento e Cinquecento — si affiancano oratori nobiliari, sacelli campestri e il grandioso Tempio Nazionale di Cargnacco, monumento del Novecento dedicato ai caduti della Campagna di Russia. La stratificazione storica è profonda: il comune è già attestato come insediamento ecclesiastico nel documento con cui l'imperatore Berengario I donò il castello al Patriarcato di Aquileia nel 921, e il territorio fu scenario delle devastazioni turche del 1477 e del 1499 e della celebre Battaglia di Pozzuolo del 1917.
+
+---
+
+### Chiesa Parrocchiale di Sant'Andrea Apostolo — Pozzuolo del Friuli (capoluogo)
+
+**Comune/Frazione:** Pozzuolo del Friuli, capoluogo, Via Mortegliano 12  
+**Stile architettonico ed epoca:** Neoclassico, seconda metà del XIX secolo  
+**Patrono e festa:** Sant'Andrea Apostolo, 30 novembre
+
+La chiesa parrocchiale del capoluogo sorge nel cuore del paese, dedicata a sant'Andrea Apostolo, patrono della comunità. L'edificio attuale fu progettato nel 1853 dall'architetto udinese Andrea Scala e costruito sul sito dell'anteriore chiesa medievale — di cui si ignora la fisionomia esatta — che era rimasta gravemente danneggiata nel corso delle ripetute invasioni turche di fine Quattrocento (1477 e 1499). La nuova fabbrica fu ultimata e aperta al culto nel 1892, con quasi quarant'anni di cantiere, segno delle difficoltà economiche che caratterizzavano la comunità rurale friulana di quel periodo. Il campanile, aggiunto in un secondo tempo, è annesso al fianco della navata ed è visibile da larga parte del territorio circostante.
+
+L'impianto è a pianta longitudinale in stile neoclassico, con facciata sobria e ordinata tipica dell'architettura ecclesiastica udinese della seconda metà dell'Ottocento. L'interno conserva arredi e dipinti devozionali coerenti con la tradizione locale. Nei pressi del sagrato si trovano il sacello di Sant'Antonio di Padova e l'oratorio della Beata Vergine della Salute, piccole cappelle votive di origine settecentesca o ottocentesca che testimoniano la vivace pratica devozionale popolare del territorio.
+
+**Contatti:** Parrocchia di Pozzuolo del Friuli — Tel. 0432 669059  
+**Arcidiocesi di Udine**, Forania del Friuli Centrale
+
+---
+
+### Oratorio di Santa Croce — Pozzuolo del Friuli (capoluogo)
+
+**Comune/Frazione:** Pozzuolo del Friuli, capoluogo (presso la Fondazione Sabbatini)  
+**Stile architettonico ed epoca:** Barocco-veneto, XVII–XVIII secolo
+
+L'oratorio di Santa Croce è annesso alla Villa Gradenigo Sabbatini, dimora patrizia del XVIII secolo situata ai margini del capoluogo, nei pressi della zona dei _Castellieri_ — i resti delle cinte difensive dell'età del Bronzo che dominano la pianura circostante. L'oratorio era la cappella privata della famiglia nobiliare Sabbatini e seguiva il consueto modello delle cappelle gentilizie friulane: un vano monoaula con accesso diretto dalla residenza, destinato all'uso esclusivo della famiglia e dei dipendenti della tenuta.
+
+La villa, oggi sede secondaria dell'ERSA (Agenzia regionale per lo sviluppo rurale del Friuli Venezia Giulia), conserva l'impianto originario seicentesco-settecentesco. L'oratorio, pur di dimensioni modeste, rappresenta un'importante testimonianza delle fondazioni religiose private di matrice aristocratica veneziana nel Friuli di età lagunare (1420–1797).
+
+---
+
+### Oratorio di Santa Vittoria — Pozzuolo del Friuli (capoluogo)
+
+**Comune/Frazione:** Pozzuolo del Friuli, capoluogo (presso la Casa dei Nobili Masotti)  
+**Stile architettonico ed epoca:** Barocco, XVII secolo
+
+Secondo oratorio privato del capoluogo, l'oratorio di Santa Vittoria era la cappella annessa alla Villa Masotti, edificio del XVII secolo situato nel cuore del capoluogo, vicino alla piazza principale. Come l'oratorio di Santa Croce, anche questo spazio di culto era riservato alla famiglia proprietaria — i nobili Masotti, tra le famiglie di rilievo nell'area friulana durante il periodo veneziano. La dedicazione a Santa Vittoria, martire paleocristiana, è un elemento ricorrente nella cultura religiosa friulana di età post-tridentina, che privilegiava figure del martirologio romano capaci di esaltare la virtù della fedeltà alla fede. L'oratorio è integrato nella struttura della villa, a testimonianza di un modello insediativo nel quale casa e cappella formavano un'unità inscindibile.
+
+---
+
+### Sacello di Sant'Antonio di Padova e Oratorio della Beata Vergine della Salute — Pozzuolo del Friuli (capoluogo)
+
+**Comune/Frazione:** Pozzuolo del Friuli, capoluogo  
+**Stile architettonico ed epoca:** Devozionale popolare, XVIII–XIX secolo
+
+Nei dintorni della chiesa parrocchiale e lungo le vie del capoluogo si trovano due piccoli edifici di culto di matrice popolare: il sacello di Sant'Antonio di Padova e l'oratorio della Beata Vergine della Salute. Questi spazi di devozione — spesso semplici edicole coperte o piccoli vani monoaula — erano (e restano) luoghi di preghiera quotidiana per la comunità locale, legati a pratiche votive di protezione dal morbo, dalla siccità e dalle calamità naturali.
+
+L'oratorio della Beata Vergine della Salute testimonia la diffusione, nel Friuli tra Seicento e Settecento, del culto mariano legato alla salute e alla protezione dalle epidemie, propagatosi attraverso la diocesi veneziana di Udine e i modelli devozionali della Controriforma. Il sacello di Sant'Antonio riflette invece la capillare presenza del culto antoniano nell'area friulana, favorita dalla vicinanza con il Veneto padovano.
+
+---
+
+### Chiesetta Campestre della Santissima Trinità in Ferraria — Pozzuolo del Friuli
+
+**Comune/Frazione:** Pozzuolo del Friuli, località Ferraria  
+**Stile architettonico ed epoca:** Rurale, XVI–XVII secolo
+
+La piccola chiesa campestre dedicata alla Santissima Trinità sorge nella località Ferraria, nel territorio del capoluogo, ed è uno degli esempi più caratteristici di architettura rurale religiosa della pianura friulana. Le chiese campestri (_cjastelârs_ o cappelle di campagna) erano elementi fondamentali del paesaggio devozionale friulano: punti di riferimento per i contadini che lavoravano i campi, mete di processioni e rogazioni stagionali, luoghi di preghiera e sosta in aperta campagna lontano dai centri abitati.
+
+La dedicazione alla Trinità, poco comune per piccole cappelle rurali (solitamente dedicate a santi del calendario agricolo o mariani), potrebbe indicare un'origine legata a un voto comunitario o a una devozione specifica della famiglia proprietaria del fondo. L'edificio, di dimensioni modeste, conserva la caratteristica forma a navata unica con facciata a capanna e campaniletto a vela, tipica delle cappelle campestri della pianura friulana.
+
+---
+
+### Chiesetta di San Martino al Cimitero — Pozzuolo del Friuli (capoluogo)
+
+**Comune/Frazione:** Pozzuolo del Friuli, capoluogo, area cimiteriale  
+**Stile architettonico ed epoca:** Medievale-rinnovata, XIX secolo
+
+La piccola chiesa di San Martino al cimitero di Pozzuolo del Friuli è un edificio di culto funerario che accompagnava i riti di sepoltura della comunità del capoluogo. La devozione a san Martino Vescovo — figura centrale nel calendario religioso friulano, patrono di numerose pievi storiche della regione — ha radici longobarde e carolingie, periodo in cui il culto martiniano si diffuse capillarmente nell'Europa settentrionale e nelle regioni alpine.
+
+L'edificio attuale, pur rifatto o restaurato in epoca moderna, conserva la funzione di spazio di raccoglimento funebre e testimonia la continuità di un culto locale plurisecolare. La presenza di una cappella dedicata a san Martino sia al cimitero del capoluogo sia come titolo della parrocchiale di Terenzano riflette l'importanza di questo santo nell'identità religiosa dell'intero comune.
+
+---
+
+### Tempio Nazionale "Madonna del Conforto" — Cargnacco
+
+**Comune/Frazione:** Cargnacco (frazione di Pozzuolo del Friuli), Piazza IV Novembre  
+**Stile architettonico ed epoca:** Razionalismo monumentale italiano, 1949–1955  
+**Architetto:** Giacomo Della Mea  
+**Sito web:** [www.tempiodicargnacco.org](https://www.tempiodicargnacco.org)
+
+Il Tempio Nazionale "Madonna del Conforto" — universalmente noto come **Tempio di Cargnacco** — è il monumento religioso di maggior rilievo del comune e uno dei più significativi luoghi di memoria della Seconda Guerra Mondiale nell'intero Friuli. Fu voluto da don Carlo Caneva, già cappellano militare e reduce della Campagna di Russia, e dal senatore Amor Tartufoli, con l'obiettivo di onorare la memoria dei quasi centomila caduti e dispersi italiani nella tragica spedizione sul fronte orientale (1941–1943). Il progetto fu affidato all'architetto Giacomo Della Mea, anch'egli reduce di Russia e dunque testimone diretto delle vicende commemorative.
+
+I lavori iniziarono il 9 ottobre 1949 e il tempio fu consacrato l'11 settembre 1955. L'edificio è imponente: alto 25 metri, lungo 51 e largo 22. La facciata in mattoni — scelta volutamente "povera" per alludere alla semplicità dei soldati — è tripartita con una parte centrale dominante e due volumi laterali arretrati, che creano un ritmo plastico di grande forza espressiva. I tre grandi ingressi sono sormontati da archi su due ordini, con avelli di marmo bianco incisi con gladii romani; sei nicchie accolgono le campane, mentre una croce luminosa corona il tutto, visibile di notte a grande distanza.
+
+L'interno è coperto da un sistema di volte a botte trasversali in serie che convoglia la luce naturale dall'alto dei fianchi laterali — soluzione analoga a quella adottata da Giovanni Muzio nella chiesa di Sant'Antonio a Cremona — creando un'atmosfera raccolta e solenne. L'abside termina con una grande apertura circolare nel pavimento che permette di vedere la cripta sottostante, dove si trovano l'arca sepolcrale del milite ignoto e gli elenchi alfabetici di tutti i dispersi.
+
+Il programma artistico interno è di straordinaria ricchezza e coinvolse i migliori artisti friulani del dopoguerra:
+- **Ceramiche monumentali** sulle pareti laterali, opera di Ugo Galliussi, Enore Pezzetta e Andrea Pavon, raffiguranti le battaglie, la ritirata di Russia e la prigionia nei lager sovietici.
+- **Sculture** di Giulio e Max Piccini: la statua della *Madonna del Conforto* in marmo bianco (scolpita da Giovanni Patat d'Artegna su disegno di Max Piccini), una statua di Sant'Antonio in bronzo e la Via Crucis in terracotta.
+- **Mosaici** di Fred Pittino, realizzati dalla Scuola Mosaicisti di Spilimbergo: nell'abside la *Pietà*, sulle pareti laterali episodi della ritirata, della prigionia e del ritorno; sopra la porta principale un grande mosaico raffigurante la battaglia di Woroschilowa, tratto da un dipinto di Danila Merlin.
+- **Vetrate** di Arrigo Poz e Sandro Riccardi di Netro, con scene della ritirata della Divisione Celere e della vita nei campi di concentramento.
+- **Affresco** di Ugo Galliussi raffigurante il sacrificio di don Mazzoni.
+- **Altare maggiore** in marmo bianco di Vicenza, su disegno di Giacomo Della Mea, con formelle in bronzo raffiguranti i simboli degli Evangelisti, opera di Giulio e Max Piccini.
+- **Bassorilievi bronzei** di Massimo Facchin (Belluno) ai lati della scala del presbiterio, con momenti salienti delle battaglie e figure di donne russe che portano nutrimento ai soldati italiani.
+
+Nel piazzale antistante sono collocati dodici cippi in memoria delle divisioni e dei reparti dell'Armata Italiana in Russia (ARMIR).
+
+Il Tempio è sede parrocchiale della comunità di Cargnacco e appartiene all'Arcidiocesi di Udine, Forania del Friuli Centrale.
+
+---
+
+### Antica Chiesa di Sant'Andrea Apostolo — Cargnacco (sconsacrata)
+
+**Comune/Frazione:** Cargnacco (frazione di Pozzuolo del Friuli), Via Manzoni  
+**Stile architettonico ed epoca:** Medievale-rinnovata, prima attestazione 1473  
+
+L'antica chiesa di Sant'Andrea Apostolo di Cargnacco, situata accanto all'attuale canonica lungo Via Manzoni, è documentata a partire dal 1473 dai registri della Curia Arcivescovile di Udine. È dunque uno degli edifici di culto più antichi del comune. La dedicazione a sant'Andrea Apostolo — la stessa del capoluogo — suggerisce un'antica unità pastorale o un legame liturgico tra le due comunità, entrambe sotto la giurisdizione del Patriarcato di Aquileia prima e dell'Arcidiocesi di Udine poi.
+
+L'edificio fu affiancato e poi soppiantato dal grande Tempio della Madonna del Conforto costruito nel secondo dopoguerra, che diventò la nuova parrocchiale. L'antica chiesa è oggi sconsacrata, ma conserva il suo impianto architettonico medievale e continua a far parte del tessuto urbano di Cargnacco come testimonianza materiale di cinque secoli di vita comunitaria e religiosa.
+
+---
+
+### Chesetta dei Santi Ilario e Taziano — Cargnacco (in rovina)
+
+**Comune/Frazione:** Cargnacco (frazione di Pozzuolo del Friuli), già nel bosco di Cargnacco  
+**Stile architettonico ed epoca:** Medievale; prima attestazione 1558, descritta "antichissima" nel 1607
+
+Una lettera della Curia Arcivescovile di Udine del 1558 attesta la presenza, nel bosco di Cargnacco, di una piccola chapel dedicata ai Santi Ilario e Taziano. Una descrizione del 1607 la definisce già "antichissima", lasciando intendere origini molto precedenti al XVI secolo, forse altomedievali. I Santi Ilario e Taziano sono patroni dell'area concordiese-udinese, con una forte presenza cultuale nella pianura friulana fin dal periodo paleocristiano.
+
+La chesetta si trovava nel punto dove oggi Via Buttrio incrocia la ferrovia, all'inizio dell'attuale zona industriale Z.I.U., presso le Acciaierie Bertoli Safau. Non si hanno notizie della cappella successive al 1796, e si ritiene che sia caduta in rovina agli inizi del XIX secolo. La sua scomparsa è emblematica del processo di trasformazione del paesaggio rurale friulano che accompagnò le riforme giuseppiniste, poi napoleoniche, durante le quali molte cappelle campestri periferiche furono abbandonate o demolite.
+
+---
+
+### Chiesa Parrocchiale di Santa Maria Assunta — Carpeneto
+
+**Comune/Frazione:** Carpeneto (frazione di Pozzuolo del Friuli), Via Antonini 6  
+**Stile architettonico ed epoca:** Neoclassico-barocco, XVIII–XIX secolo
+
+La chiesa parrocchiale di Santa Maria Assunta è il principale edificio di culto della frazione di Carpeneto, la più piccola del comune. La dedicazione alla Vergine Assunta è tra le più diffuse nella tradizione ecclesiastica friulana e si ritrova in numerose pievi storiche della pianura udinese. L'edificio attuale appartiene al filone della ricostruzione ecclesiastica settecentesca-ottocentesca tipica del Friuli veneto, con impianto a navata unica, facciata sobria e campanile annesso.
+
+A Carpeneto si segnala anche la **Chiesa di San Michele al cimitero**, piccolo edificio funerario dedicato all'Arcangelo Michele — tradizionalmente associato al transito dell'anima e al giudizio divino, e per questo scelto come patrono di molte cappelle cimiteriali. La presenza di due edifici di culto in una frazione di dimensioni molto ridotte è indicativa della densità della pratica religiosa nel tessuto rurale friulano pre-industriale.
+
+**Contatti:** Parrocchia di Carpeneto — Tel. 0432 669059  
+**Arcidiocesi di Udine**, Forania del Friuli Centrale
+
+---
+
+### Chiesa Parrocchiale di San Leonardo — Sammardenchia
+
+**Comune/Frazione:** Sammardenchia (frazione di Pozzuolo del Friuli), Piazza 24 maggio  
+**Stile architettonico ed epoca:** Barocco-neoclassico, 1736–1776; consacrata 1829  
+
+La chiesa parrocchiale di San Leonardo confessore è uno degli edifici di culto di maggior interesse storico-artistico del comune. Sorge sulla piazza principale di Sammardenchia, su cui si affacciava già una chiesa medievale precedente, e fu ricostruita a partire dal 1736 sotto gli auspici della famiglia nobile Savorgnan, giurisdicenti della comunità, che finanziarono e orientarono l'intera operazione. I lavori durarono quarant'anni, fino al 1776, a testimonianza di un cantiere complesso e delle risorse economiche impegnate.
+
+La consacrazione avvenne il 6 novembre 1829, nel giorno onomastico di San Leonardo confessore — scelta liturgicamente significativa che riflette la precisa volontà di ancorare la nuova chiesa alla tradizione agiografica locale. San Leonardo di Noblac, patrono dei carcerati e degli schiavi, era molto venerato nella pianura friulana per la sua associazione con la liberazione e la protezione. L'edificio fu costruito con pietra e laterizi, con pianta a croce latina, forma che in Friuli indicava spesso un livello di committenza elevata e ambizioni architettoniche superiori alla media parrocchiale.
+
+Alla parete di fondo dell'interno è addossato un **monumentale altare tardo rinascimentale del XVI secolo**, elemento di grande pregio che sopravvisse dalla fabbrica precedente o fu trasferito da un'altra sede. L'altare cinquecentesco rappresenta uno dei più preziosi arredi sacri del comune, testimonianza diretta della cultura figurativa manierista friulana. Di fronte a esso si trova l'**altare maggiore del XVIII secolo**, aggiunto nel corso della ricostruzione settecentesca. Annesso al fianco destro della facciata è il campanile, costruito in sincronia con la chiesa.
+
+La chiesa fu restaurata nel 1990 dopo il terremoto del Friuli del 1976, che aveva danneggiato numerosi edifici del comune.
+
+La nota nota storico-archeologica di Sammardenchia è che la frazione sorge su una delle più vaste comunità neolitiche finora conosciute non solo in Italia ma in tutta Europa (V millennio a.C.), che conferisce a questo piccolo borgo una profondità storica straordinaria.
+
+---
+
+### Chiesa Parrocchiale di San Martino Vescovo — Terenzano
+
+**Comune/Frazione:** Terenzano (frazione di Pozzuolo del Friuli), Piazza Terenzio 3  
+**Stile architettonico ed epoca:** Eclettico-storicista, 1888; ristrutturata 1982  
+**Architetto:** Girolamo D'Aronco  
+
+La chiesa parrocchiale di San Martino Vescovo di Terenzano è un edificio di architettura sacra di notevole interesse anche per la firma del suo progettista: l'architetto Girolamo D'Aronco (1840–1909), fratello maggiore del più celebre Raimondo D'Aronco, figure centrali nell'architettura friulana di fine Ottocento. La chiesa fu consacrata nel 1888, in piena stagione eclettica, e fu ristrutturata in seguito al terremoto del Friuli del 1976, con interventi completati nel 1982 che hanno conservato le linee essenziali dell'impianto originario.
+
+La dedicazione a San Martino Vescovo (martino di Tours) è di grande antichità nel Friuli: il culto martiniano penetrò nella regione in epoca longobarda-carolingia attraverso la rete delle pievi, e numerose chiese della pianura udinese recano ancora questa intitolazione che rimanda a un substrato religioso d'alto medioevo. La presenza della chiesa su una piazza denominata "Piazza Terenzio" — che rievoca il toponimo romano da cui deriva il nome della frazione — aggiunge un significativo strato storico all'architettura dell'edificio.
+
+La facciata ottocentesca, con il caratteristico campanile, domina il piccolo centro di Terenzano, frazione che si affaccia sull'autostrada A23 Palmanova-Tarvisio.
+
+**Contatti:** Parrocchia di Terenzano — Tel. 0432 560040  
+**Arcidiocesi di Udine**, Forania del Friuli Centrale
+
+---
+
+### Chiesa Parrocchiale di San Michele Arcangelo — Zugliano
+
+**Comune/Frazione:** Zugliano (frazione di Pozzuolo del Friuli), Via Chiesa 1  
+**Stile architettonico ed epoca:** Neoclassico, 1830; consacrata 1896  
+
+La chiesa parrocchiale di San Michele Arcangelo è la chiesa principale della frazione di Zugliano, già attestata come insediamento dal 1305, e si erge come fulcro della piazza del paese insieme alla settecentesca Villa Job. La storia dell'edificio di culto locale risale all'epoca medievale: una prima cappella sorse in età medievale, e fu poi rifatta seguendo le istanze architettoniche della Controriforma.
+
+Il 28 aprile 1804 il vicario capitolare Mattia Capellari concesse ai fedeli il permesso di riedificare la chiesa; il nuovo edificio fu portato a compimento nel 1830 e consacrato il 2 agosto 1896 dal monsignor Pietro Antonio Antivari. La chiesa fu restaurata dopo il terremoto del Friuli del 1976 e adeguata alle norme liturgiche postconciliari intorno al 1980.
+
+La **facciata a capanna**, rivolta a settentrione, è caratterizzata da due cornici laterali in blocchi di pietra e presenta il portale d'ingresso affiancato da colonne che sorreggono una mensola, con finestra sopra; il prospetto è coronato dal timpano triangolare. Vicino alla parrocchiale si erge il **campanile a base quadrata**, la cui cella presenta bifore su ogni lato ed è coronata da un basso tetto a quattro falde.
+
+L'interno si sviluppa su una **navata unica**, le cui pareti sono scandite da lesene sorreggenti la trabeazione modanata e aggettante, con archi a tutto sesto che ritmano gli spazi. Il presbiterio, rialzato di alcuni gradini, è introdotto dall'arco santo, voltato a crociera e chiuso dalla parete di fondo piatta.
+
+La dedicazione a san Michele Arcangelo — protettore dei guerrieri, psicopompo e vincitore del male — è tra le più antiche e diffuse nella tradizione ecclesiale alto-medievale dell'Italia settentrionale e dell'area friulano-veneta.
+
+**Contatti:** Parrocchia di Zugliano — Via Chiesa 1, 33050 Pozzuolo del Friuli; Tel. 0432 560040 (condiviso con Terenzano)  
+**Arcidiocesi di Udine**, Forania del Friuli Centrale
+
+---
+
+### Chiesetta Campestre di San Daniele — Zugliano
+
+**Comune/Frazione:** Zugliano (frazione di Pozzuolo del Friuli), in mezzo ai campi  
+**Stile architettonico ed epoca:** Gotico-tardo medievale, fine XIV secolo; restaurata 1999  
+
+La piccola chiesa campestre di San Daniele, immersa nei campi intorno alla frazione di Zugliano, è uno dei luoghi di culto più antichi e pittoreschi del territorio comunale. L'edificio risale alla fine del XIV secolo e conserva, sulle sue pareti interne, un ciclo di **affreschi databili al 1510–1525** che costituisce una delle più preziose testimonianze pittoriche del comune e una delle più interessanti dell'area udinese.
+
+Sulla parete sinistra si trova la traccia più antica presente nella chiesa — una semplice immagine di _una mano_, considerata di epoca romanica — che testimonia la frequentazione del luogo già in età precedente l'edificio attuale. Il ciclo principale è opera di un **ignoto pittore udinese dalla forte personalità** (o forse due pittori appartenenti alla medesima cultura figurativa), che intorno al 1510–1525 dipinse tre riquadri con figure di santi spesso accompagnati da iscrizioni esplicative e dal nome del donatore:
+
+- **Santi Vescovi Gottardo e Biagio** (arco trionfale, circa 1520–25): figure piuttosto deboli, attribuite a un pittore di modesta qualità.
+- **San Cristoforo e San Bonifacio** (circa 1510): figure elaborate, di alta qualità, con San Cristoforo che guada un corso d'acqua ricco di pesci improbabili — iconografia tradizionale del gigantesco portatore di Cristo.
+- **San Rocco e Santa Lucia**: figure riassuntive nella linea ma efficaci nel colore a zona.
+- **San Simone e San Daniele** (circa 1510): le figure più notevoli del ciclo. Il **San Daniele**, di qualità eccezionale, è rappresentato frontale, bloccato nel movimento, con una mannaia in mano (strumento del suo martirio) e un rotolo nell'altra; sul copricapo è dipinta la stessa chiesetta a lui intitolata, testimonianza di un raffinato gioco metalinguistico. A terra si accucciano due leoni "umanizzati". Nell'angolo appare inginocchiato il donatore, _Battista di Giuliano di Porpetto_, identificato come contadino dalla zappa accanto a lui. Il **San Simone** è pure accompagnato dal donatore, identificato come cacciatore dalla presenza di un arco e di una freccia.
+
+La qualità delle figure di San Daniele e di San Simone rivela la mano di un pittore capace di sentire gli umori popolari e di tradurli in immagini accessibili e emotivamente coinvolgenti, con una gestione del colore e del movimento che si discosta dai modelli accademici udinesi del tempo per raggiungere un'espressività diretta e potente.
+
+La chiesa fu restaurata nel 1999 e la sua decorazione pittorica è stata oggetto di studi da parte della Soprintendenza ai Beni Culturali del Friuli Venezia Giulia. Gli affreschi devozionali ottocenteschi ancora presenti su alcune facciate di Via Failutti nel borgo di Zugliano completano il quadro della straordinaria ricchezza di espressione religiosa popolare di questa comunità.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia, «Pozzuolo del Friuli», it.wikipedia.org (consultato maggio 2026)
+- Wikipedia, «Tempio di Cargnacco», it.wikipedia.org (consultato maggio 2026)
+- Wikipedia, «Cargnacco», it.wikipedia.org (consultato maggio 2026)
+- Wikipedia, «Zugliano (Pozzuolo del Friuli)», it.wikipedia.org (consultato maggio 2026)
+- Wikipedia, «Chiesa di San Michele Arcangelo (Pozzuolo del Friuli)», it.wikipedia.org (consultato maggio 2026)
+- Arcidiocesi di Udine — Annuario, «CP di Pozzuolo del Friuli», diocesiudine.it (consultato maggio 2026)
+- BeWeB — Ufficio Nazionale per i Beni Culturali Ecclesiastici (CEI), scheda n. 68676 (Tempio di Cargnacco) e n. 68679 (San Michele Arcangelo, Zugliano)
+- Conferenza Episcopale Italiana, «Le chiese delle diocesi italiane», chieseitaliane.chiesacattolica.it
+- Sito ufficiale del Comune di Pozzuolo del Friuli, comune.pozzuolo.udine.it
+- Tempio di Cargnacco, sito ufficiale: tempiodicargnacco.org
+- Curia Arcivescovile di Udine, documenti storici sulla Chiesa di Sant'Andrea Apostolo di Cargnacco (1473) e sulla Chesetta dei Santi Ilario e Taziano (1558, 1607, 1796)
+
+---
+
 ## Pradamano
 
 Pradamano (_Pradaman_ in friulano) è un comune di circa 3.500 abitanti nella provincia di Udine, situato a pochi chilometri a sud-est del capoluogo, alla quota di 96 metri sul livello del mare. Il suo territorio comunale comprende la frazione di Lovaria e la località di Casali di Cerneglons Vecchio. Nonostante le dimensioni contenute, il comune custodisce un patrimonio religioso di discreto interesse: tre edifici di culto di epoca moderna e tardo-medievale, legati all'arcidiocesi di Udine e alla forania del Friuli Orientale. Il patrono del comune è santa Cecilia, la cui festa cade il 22 novembre.
@@ -13542,6 +15465,285 @@ Pradamano è un comune di pianura che, pur non annoverando monumenti religiosi d
 
 ---
 
+## Prata di Pordenone
+
+Prata di Pordenone è un comune di circa 8.400 abitanti situato nella pianura del Friuli occidentale, in provincia di Pordenone, al confine con il Veneto. Il territorio comunale comprende le frazioni di Ghirano, Prata di Sopra, Prata di Sotto (sede comunale), Puja e Villanova, nonché le località di le Monde, Borgo Passo e Peressine. Il nome del comune deriva dalla famiglia comitale dei Da Prata, signori feudali che dominarono quest'area tra il XII e il XV secolo, lasciando tracce indelebili nel patrimonio architettonico sacro e funerario.
+
+La presenza cristiana a Prata è documentata almeno dal XIII secolo: una chiesa annessa al locale castello compare già nel testamento del conte Guecello II (7 agosto 1262). Il territorio ricadeva originariamente nella giurisdizione della pieve di San Vigilio, da cui si affrancò nel XIV secolo con l'erezione della propria parrocchia. Ecclesiasticamente il comune è diviso tra due diocesi: il capoluogo e le frazioni settentrionali appartengono alla **Diocesi di Concordia-Pordenone**, mentre la frazione di Ghirano, storicamente legata al vescovado di Ceneda, è ancora oggi compresa nella **Diocesi di Vittorio Veneto**.
+
+L'architettura religiosa di Prata di Pordenone rispecchia le principali stagioni stilistiche del Friuli occidentale: dal gotico trecentesco dei sepolcri cavallereschi, alle testimonianze pittoriche rinascimentali di fine Quattrocento, fino al neoclassicismo settecentesco e ottocentesco che caratterizza le grandi parrocchiali. Notevole è la presenza di opere di pittori veneti e friulani di primo piano — Jacopo Amigoni, Gasparo Narvesa, Gianfrancesco da Tolmezzo — che collocano il piccolo comune in un circuito artistico di respiro regionale.
+
+---
+
+### Chiesa di Santa Lucia Vergine e Martire — Prata di Pordenone (capoluogo)
+
+**Via Roma 37, Prata di Pordenone — Diocesi di Concordia-Pordenone**
+
+La chiesa parrocchiale di Santa Lucia è l'edificio religioso più importante del comune e il fulcro visivo del centro storico del capoluogo, dove sorge affiancata all'ex municipio, oggi sede di rappresentanza. Le sue origini si confondono con la storia stessa del castello dei conti Da Prata: la prima menzione di una cappella in loco risale al testamento del conte Guecello II, datato 7 agosto 1262, e si ritiene che l'edificio primitivo fosse la cappella gentilizia del castello. Nel corso del XIV secolo la chiesa fu eretta a parrocchiale, affrancandosi dalla pieve di San Vigilio.
+
+Risparmiata durante la distruzione del borgo per mano dell'esercito veneziano nel 1419, la chiesa subì ripetute minacce a causa delle esondazioni del fiume Meduna. Tra il 1530 e il 1537 il parroco don Antonio Boarata promosse la costruzione di un nuovo edificio — benedetto nel 1542 — su un terreno rialzato da lui stesso donato nel 1525. Tra il 1722 e il 1725 l'edificio fu rimodernato e ripristinato, poi significativamente ampliato nel 1772 utilizzando anche i materiali ricavati dalla demolizione di antiche cappelle della zona. Nel 1843 vennero costruite le due grandi cappelle che formano il transetto e nel 1856 fu rifatto il pavimento. Il vescovo di Concordia Andrea Casasola consacrò solennemente la chiesa l'11 ottobre 1857. Agli inizi del Novecento la facciata fu interamente ricostruita nelle forme attuali. Un grave incendio il 21 agosto 2007 danneggiò l'interno; il lungo restauro si concluse nel 2011.
+
+**Architettura.** La facciata, rivolta a ponente, è in stile neoclassico: tripartita da quattro semicolonne di ordine ionico che poggiano su un alto basamento e sorreggono trabeazione e timpano triangolare dentellato. Al centro si apre il portale d'ingresso sormontato da una mensola. I prospetti laterali sono ritmati da lesene e interrotti dalle sporgenze delle cappelle e dei locali di servizio. Il campanile a base quadrata, addossato alla navata, presenta una cella campanaria rifatta nel 1908 con trifore su ciascun lato e coronamento a merlatura in stile guelfo.
+
+L'interno è a navata unica, sulle cui pareti si aprono quattro cappelle laterali. Lesene scandiscono le pareti e sorreggono la cornice su cui s'imposta la volta.
+
+**Patrimonio artistico.**
+
+- **Jacopo Amigoni** (1682–1752), *Madonna del Rosario tra San Domenico e Santa Rosa*, pala d'altare, ca. 1740. Opera del pittore di formazione veneziana — uno dei protagonisti del Rococò insieme a Sebastiano Ricci e Giandomenico Pellegrini — che già si era stabilito a Venezia prima di intraprendere una brillante carriera internazionale tra Monaco, Londra e Madrid. Il dipinto si distingue per il "fraseggiare largo e aperto, l'indeterminatezza dei contorni e la vaporosità del colore", caratteristiche tipiche della sua maturità.
+
+- **Gasparo Narvesa** (Pordenone, attivo 1620–1660 ca.), *San Carlo Borromeo, Sant'Antonio Abate e San Floriano*, pala d'altare, 1630. Narvesa fu uno dei più apprezzati pittori pordenonesi del Seicento, erede della tradizione di Giovanni Antonio de' Sacchis detto il Pordenone.
+
+- **Bartolomeo Modolo** (scultore veneziano), *Santi Giacomo e Lucia*, due statue marmoree, 1748. Collocate sull'altar maggiore, sono le uniche opere note in Friuli di questo artefice.
+
+- **Domenico Fabris** (Osoppo, 1814–1901), *Gloria di Santa Lucia* (Trionfo di S. Lucia), affresco del soffitto della navata. Fabris fu uno dei protagonisti della pittura accademica friulana ottocentesca, apprezzato per i grandi cicli decorativi sacri.
+
+- **Lorenzo Gavagnin** (Venezia, 1809–1887), *Assunta tra gli Angeli*, pala ottocentesca, oggi collocata sulla parete destra dell'ingresso laterale. Gavagnin fu pittore veneto di solida cultura accademica, attivo anche in territorio friulano.
+
+**Sito web:** [www.parrocchiapratapn.it](http://www.parrocchiapratapn.it)  
+**Scheda CEI:** [chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=65691)
+
+---
+
+### Tempio di San Giovanni dei Cavalieri — Prata di Pordenone (capoluogo)
+
+**Prata di Pordenone — già pertinenza della famiglia Da Prata**
+
+L'antico tempio di San Giovanni dei Cavalieri è forse il monumento di maggiore rilevanza storico-artistica dell'intero comune. Risalente al XIV secolo, era strettamente legato alla potente famiglia comitale dei Da Prata, protagonisti della storia del Friuli medievale, e al suo interno custodisce un complesso lapideo funerario di eccezionale qualità, considerato una delle testimonianze più significative della scultura gotica in Friuli.
+
+La chiesa prendeva il nome dalla sua originaria funzione di luogo di sepoltura privilegiato per i membri della famiglia comitale e per il clero a essa legato. L'edificio presentava strutture gotiche caratteristiche dell'architettura religiosa friulana del Trecento, con uso della pietra locale e coperture a volta.
+
+**Patrimonio artistico — Scultura gotica trecentesca.**
+
+Il corpus scultoreo funerario conservato nel tempio è di altissimo livello qualitativo e storico:
+
+- **Lastra tombale del presbitero Giacomo da Prata**, 1330. Sigillo tombale trecentesco con la raffigurazione del defunto, prezioso documento dell'iconografia funeraria della chiesa friulana nel primo Trecento.
+
+- **Lastra tombale del presbitero Bonaccorso**, 1337. Sigillo tombale analogo al precedente, nello stile tipico della scultura gotica padano-veneta.
+
+- **Arca di Pileo da Prata**, 1325. Sarcofago monumentale del membro della famiglia comitale Da Prata, significativo esempio del gusto funerario aristocratico del tempo.
+
+- **Monumento funebre di Nicolò da Prata e Caterina di Castrucco**, 1344. È considerato il pezzo più pregevole del complesso. Arricchito da figure in bassorilievo raffiguranti la *Madonna con Bambino*, *San Francesco* e *San Giovanni Battista*, il monumento è attribuito a un collaboratore diretto di **Andriolo de Santi**, il grande scultore veneziano attivo tra Venezia e Padova nel Trecento e autore delle tombe monumentali nella Basilica di Sant'Antonio a Padova. Il raffronto stilistico con le opere certe di de Santi rivela la medesima qualità nel modellato dei panneggi e nell'espressività dolce delle figure sacre.
+
+Questo complesso scultoreo, nel suo insieme, colloca Prata di Pordenone in un circuito artistico che guarda direttamente a Venezia e Padova, testimoniando il ruolo di cerniera culturale svolto dalla famiglia Da Prata tra il Friuli e l'area lagunare.
+
+---
+
+### Chiesa dei Santi Simone e Giuda — Prata di Sopra
+
+**Prata di Sopra, frazione di Prata di Pordenone**
+
+Piccola chiesa rurale nella frazione di Prata di Sopra, la chiesa dei Santi Simone e Giuda è un gioiello dell'arte pittorica friulana di fine Quattrocento. La sua prima menzione documentata risale al testamento di Guecello II di Prata del 7 agosto 1262, che la cita come una delle chiese del feudo: si tratta dunque di un edificio di antica fondazione medievale, probabilmente strutturato nelle sue forme definitorie gotiche nel corso del XIII–XIV secolo.
+
+L'importanza dell'edificio risiede nell'eccezionale ciclo di affreschi che decora l'abside e i vani di transizione, tra i rarissimi esempi superstiti di pittura murale tardo-gotica e proto-rinascimentale nel Pordenonese.
+
+**Architettura.** L'edificio è di modeste dimensioni, con struttura a navata unica, abside semicircolare e arco trionfale che separa lo spazio presbiteriale dalla navata. La copertura a volta a botte dell'abside e la presenza dell'arco trionfale decorato con affreschi suggeriscono una struttura originaria duecentesca o trecentesca, rimaneggiata nel corso del Quattrocento.
+
+**Patrimonio artistico — Ciclo di affreschi di Pietro Gorizio (1498).**
+
+Il ciclo pittorico è attribuito al pittore **Pietro Gorizio**, artista attivo nella pianura friulana e veneta tra la fine del XV e l'inizio del XVI secolo, la cui opera si inserisce nel contesto della pittura tardogotica dell'area triveneta, con aperture verso il rinascimento padovano-veneziano:
+
+- **Dottori della Chiesa nelle vele delle volte** dell'abside: figure di santi teologi e dottori dipinti con raffinata attenzione al dettaglio delle vesti e degli attributi iconografici.
+
+- **Crocifissione**, sulla parete di fondo dell'abside: composizione di grande impatto emotivo, con la figura del Cristo crocifisso al centro e le figure dolenti ai lati.
+
+- **Sacrificio di Caino e Abele** e **Annunciazione** nell'arco trionfale: due soggetti biblici di raro trattamento nell'arte regionale, che testimoniano la cultura iconografica del committente.
+
+- **Sante nel sottarco**: figure di sante martiri con attributi identificativi, in un registro narrativo tipico della devozione popolare dell'epoca.
+
+Il ciclo è datato al 1498 e rappresenta uno degli esempi più integri di decorazione murale sacra quattrocentesca nel territorio del comune. La qualità della linea e la resa cromatica, pur nella semplicità propria di un contesto rurale, inseriscono l'opera nel panorama della pittura friulana di fine Quattrocento.
+
+---
+
+### Capitello Brunetta con affresco di Gianfrancesco da Tolmezzo — Prata di Pordenone (capoluogo)
+
+**Via del Capitello (di fronte a Palazzo Brunetta), Prata di Pordenone**
+
+Non una chiesa in senso stretto, ma un capitello stradale — ovvero una piccola edicola votiva collocata sul lato della via — che custodisce una delle opere d'arte più preziose dell'intero comune: un affresco raffigurante la *Madonna in trono con il Bambino*, opera attribuita al pittore carnico **Gianfrancesco da Tolmezzo** (Socchieve, 1450 – 1511) e datata intorno al 1499–1500.
+
+**Contesto storico.** Il capitello è quanto rimane di un oratorio più vasto che, secondo la tradizione orale, presentava una facciata a capanna sormontata da un campanile monoforo. La struttura fu demolita intorno al 1940 per consentire l'ampliamento della strada all'incrocio. Per la devozione popolare, l'affresco fu preservato e lasciato in situ; il piccolo edificio che lo custodisce è stato restaurato nel 2017.
+
+**L'opera.** L'affresco mostra la *Madonna in trono che sorregge con il braccio destro il Bambino*, in piedi sulle sue ginocchia, con una mela nella mano sinistra — chiaro rimando iconografico alla Redenzione e al Nuovo Adamo. Il dipinto rivela la qualità più alta di Gianfrancesco da Tolmezzo: «purissimo l'ovale della Madonna, gradevole l'insistenza grafica, dolcissimo il sentimento che anima i personaggi» (Fossaluzza). La condizione conservativa è precaria per i danni accumulati nei secoli, ma la bellezza del modellato e la delicatezza cromatica rimangono percepibili.
+
+**L'autore.** Gianfrancesco da Tolmezzo è considerato il massimo pittore friulano del Quattrocento e il fondatore della scuola di pittura tolmezzina. Formatosi presso Dario da Treviso e influenzato da Mantegna, sviluppò uno stile personalissimo che fonde il tardogotico nordico con il rinascimento veneto. La *Madonna del Capitello Brunetta* si inserisce nel corpus delle sue opere tarde — contemporanea, per esempio, all'affresco del 1499 nel Castello di Torre di Pordenone — e mostra la sua piena maturità stilistica.
+
+---
+
+### Chiesa dei Santi Pietro e Paolo — Ghirano
+
+**Ghirano, frazione di Prata di Pordenone — Diocesi di Vittorio Veneto (Forania Sacilese)**
+
+La parrocchiale di Ghirano è il principale edificio di culto della frazione più meridionale del comune, situata alla confluenza dei fiumi Meduna e Livenza, in un'area di antichissima frequentazione umana documentata già nell'VIII–X secolo. Il 7 maggio 908 la corte di Ghirano risultava donata al vescovo di Ceneda (l'odierna Vittorio Veneto) dal re Berengario del Friuli: questo documento — il più antico del comune — attesta la pertinenza ecclesiastica del villaggio alla diocesi cenedese, che si è mantenuta fino a oggi.
+
+La storia della parrocchia di Ghirano è segnata da pluralità di sedi. L'originaria chiesa parrocchiale, dedicata ai Santi Pietro e Paolo, si trovava presso il cimitero. Nel 1419, dichiarata inagibile, fu la chiesa di San Francesco nel centro del paese ad assumere *de facto* la funzione parrocchiale, anche se la parrocchialità ufficiale fu trasferita soltanto nel 1770. Quando anche San Francesco divenne insufficiente per la cresciuta comunità, si decise di costruire una nuova, più grande parrocchiale.
+
+**L'edificio attuale** fu progettato dall'architetto **Antonio Maggion** e costruito tra il **1797 e il 1846**, anno in cui fu consacrata (11 giugno 1846). Il campanile attuale, visibile da molti chilometri sulla pianura, fu eretto tra il 1947 e il 1951 in sostituzione di una piccola torre sul fianco est della chiesa. Le gravi alluvioni del 1965 e del 1966 causarono danni all'edificio, che fu restaurato nel 1968.
+
+**Architettura.** La chiesa presenta una facciata neoclassica dal disegno pulito e proporzionato, con portale centrale sormontato da timpano e campanile snello che svetta sulla pianura circostante. La pianta è a navata unica con cappelle laterali, schema tipico del neoclassicismo religioso friulano-veneto di fine XVIII secolo.
+
+**Patrimonio artistico.**
+
+- **Altari**: L'interno conserva altari di pregio attribuiti a pittori e artigiani locali, che documentano la committenza parrocchiale ottocentesca.
+
+- **Organo De Lorenzi** (1873): Il pezzo più prezioso della chiesa è l'organo costruito nel 1873 dalla bottega di **Giovanni Battista De Lorenzi**, celebre organaro veneto. È uno strumento a trasmissione meccanica con 25 canne, collocato nella cantoria sopra la porta maggiore, con cassa armonica in stile neoclassico. Originariamente collocato in un'altra chiesa, fu trasferito nella sua sede attuale per volontà di don Giovanni Mane, parroco dal 1888 al 1908. Lo strumento fu restaurato una prima volta nel 1968 dall'organaro Alfredo Piccinelli e una seconda volta nel 2003 dalla ditta **Francesco Zanin di Codroipo**. Il restauro fu inaugurato il 7 ottobre 2004 con un concerto dell'organista Sandro Carnelos.
+
+La presenza di un organo De Lorenzi integro e restaurato è di particolare rilevanza musicale e storica: la bottega De Lorenzi è una delle più importanti della tradizione organaria veneto-friulana dell'Ottocento.
+
+**Scheda CEI:** [beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/82566/)
+
+---
+
+### Cappella-Museo di Santa Barbara (Museo della Miniera) — Prata di Pordenone (capoluogo)
+
+**Prata di Pordenone**
+
+A Prata di Pordenone esiste uno spazio che unisce memoria storica e devozione religiosa in modo del tutto originale: il **Museo della Miniera**, dedicato alla storia degli emigranti friulani che lavorarono nelle miniere di carbone in Belgio e in altri paesi europei nel secondo dopoguerra.
+
+Il museo, fondato dall'associazione ex minatori GEMP e donato al Comune nel 2009, illustra la vita dei minatori attraverso la ricostruzione di una galleria, attrezzi originali, fotografie e documenti. I reperti provengono principalmente dalla miniera di carbone di Roton (Belgio). Il museo è un monito alle tragedie del passato, in particolare alla catastrofe di Marcinelle dell'8 agosto 1956, in cui perirono numerosi emigrati friulani.
+
+In questo contesto storico e memoriale, il museo è anche un **capitello**, cioè una cappella dedicata a **Santa Barbara**, patrona dei minatori. Vi vengono celebrate funzioni religiose in sua memoria, in uno spazio che fa confluire la devozione popolare dei minatori con la testimonianza storica. La scelta di Santa Barbara come patrona non è casuale: nella tradizione cattolica, questa santa è invocata contro le morti improvvise e i pericoli del sottosuolo, e la sua venerazione era profondamente radicata tra le comunità di minatori friulani in Belgio.
+
+Questo luogo — al confine tra museo, memoriale e cappella votiva — rappresenta una forma di architettura sacra "minore" ma di grande intensità umana e spirituale.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia (it), *Prata di Pordenone*: [it.wikipedia.org/wiki/Prata_di_Pordenone](https://it.wikipedia.org/wiki/Prata_di_Pordenone)
+- Wikipedia (it), *Chiesa di Santa Lucia (Prata di Pordenone)*: [it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_(Prata_di_Pordenone)](https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_(Prata_di_Pordenone))
+- Wikipedia (it), *Chiesa dei Santi Pietro e Paolo (Ghirano)*: [it.wikipedia.org/wiki/Chiesa_dei_Santi_Pietro_e_Paolo_(Ghirano)](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Pietro_e_Paolo_(Ghirano))
+- Wikipedia (it), *Ghirano*: [it.wikipedia.org/wiki/Ghirano](https://it.wikipedia.org/wiki/Ghirano)
+- Wikipedia (it), *Gianfrancesco da Tolmezzo*: [it.wikipedia.org/wiki/Gianfrancesco_da_Tolmezzo](https://it.wikipedia.org/wiki/Gianfrancesco_da_Tolmezzo)
+- Wikipedia (it), *Jacopo Amigoni*: [it.wikipedia.org/wiki/Jacopo_Amigoni](https://it.wikipedia.org/wiki/Jacopo_Amigoni)
+- Conferenza Episcopale Italiana — BeWeB, *Chiesa di Santa Lucia Vergine e Martire*: [beweb.chiesacattolica.it/edificidiculto/edificio/65691](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65691/)
+- Conferenza Episcopale Italiana — BeWeB, *Chiesa dei Santi Pietro e Paolo (Ghirano)*: [beweb.chiesacattolica.it/edificidiculto/edificio/82566](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/82566/)
+- Parrocchia Santa Lucia Vergine e Martire, Prata di Pordenone: [parrocchiapratapn.it](http://www.parrocchiapratapn.it)
+- Pordenone With Love (Comune di Pordenone), scheda *Chiesa parrocchiale di Santa Lucia*: [pordenonewithlove.it](http://www.pordenonewithlove.it/it/cosa-fare/cultura/architetture/chiesa-parrocchiale-di-santa-lucia)
+- Comune di Prata di Pordenone: [comune.prata.pn.it](http://www.comune.prata.pn.it)
+- Fossaluzza G., *Pittura in Friuli. Il Quattrocento*, Electa, Milano.
+- Bergamini G. — Tavano S., *Storia dell'arte nel Friuli-Venezia Giulia*, Reana del Rojale, Chiandetti, 1984.
+
+---
+
+## Prato Carnico
+
+Prato Carnico (_Prât di Cjargne_ in friulano, _Prât_ nella variante carnica locale) è un comune sparso di poco meno di 800 abitanti situato nella Val Pesarina, una delle otto vallate principali della Carnia, in provincia di Udine. La sede municipale si trova nella frazione Pieria, mentre il capoluogo storico che dà il nome al comune è la frazione Prato. Il territorio, compreso tra le aguzze Dolomiti Pesarine a nord e i monti Novarza e Pieltinis a sud, è suddiviso in dieci frazioni abitate (Prato, Osais, Pesariis, Pieria, Pradumbli, Sostasio, Avausa, Prico, Truia, Croce), ciascuna dotata di una propria chiesa o cappella votiva. Questa diffusa capillarità del patrimonio religioso è tratto caratteristico dell'insediamento carnico: ogni villaggio, per quanto piccolo, si è dotato nel corso dei secoli medievali e moderni di un luogo di culto autonomo, spesso dedicato a un santo protettore locale o regionale. Il patrono dell'intero comune è San Canciano Martire, che dà il nome alla parrocchiale capoluogo e alla denominazione storica della vallata, documentata nelle carte della Serenissima come _Canale di San Canciano_.
+
+---
+
+### Chiesa di San Canciano Martire — Prato (frazione capoluogo)
+
+La chiesa parrocchiale di Prato Carnico sorge nella frazione Prato ed è dedicata a San Canciano Martire, uno dei tre martiri aquileiesi (insieme a Canzio e Canzianilla) venerati in tutta la Carnia fin dall'alto Medioevo. Le prime attestazioni di una cappella in questo luogo risalgono al 1316; un edificio di stile gotico fu costruito nel 1430, con una volta decorata da dipinti di pregio.
+
+Nella prima metà del Seicento l'edificio versava in condizioni precarie: nel 1633 il vicario abbaziale minacciò l'interdizione se non fossero stati eseguiti urgenti lavori. Il catastrofico terremoto del 26 luglio 1700 (con le scosse successive del 28 e del 29 luglio) danneggiò gravemente sia la chiesa che il campanile; tra il 1709 e il 1710 la navata fu riedificata, mentre il campanile fu lasciato nella sua nuova conformazione inclinata, diventando nel tempo un elemento identitario del paesaggio vallivo. Il 7 settembre 1857 l'arcivescovo di Udine Giuseppe Luigi Trevisanato decretò l'interdizione della struttura ormai pericolante e delegò provvisoriamente le funzioni parrocchiali alla piccola chiesa di Pieria.
+
+La prima pietra del nuovo edificio fu posta il 5 maggio 1858; il progetto fu curato dagli architetti **Marino De Crignis** e **Girolamo D'Aronco** (padre del più celebre Raimondo). La chiesa fu aperta al culto il 1° novembre 1860, sebbene non ancora completata in ogni parte, e consacrata dall'arcivescovo Andrea Casasola il 13 settembre 1868. Il terremoto del Friuli del 1976 arrecò nuovi danni all'edificio, restaurato e consolidato nel decennio successivo; ulteriori lavori di adeguamento degli impianti furono eseguiti nel 2013.
+
+**Architettura.** La facciata a capanna è caratterizzata da una cornice orizzontale a circa due terzi dell'altezza, una porzione centrale leggermente rientrante racchiusa da un arco a tutto sesto in cui si apre il portale d'ingresso architravato, e un timpano aggettante coronato da un oculo. L'interno è a navata unica coperta da volta a vela, con presbiterio concluso da abside poligonale.
+
+**Opere d'arte.** Il pezzo più prezioso è l'**altare a sportelli (Flügelaltar) dei Santi Canzio, Canziano e Canzianilla**, opera del maestro intagliatore **Michele Parth** datata **1534**: raffigura la _Natività_ nel pannello centrale e ospita le statue dei Santi Pietro, Paolo, Giovanni Battista e Giovanni Evangelista. Si tratta di un raro esempio di polittico ligneo tardogotico di cultura austriaco-tirolese sopravvissuto nelle Alpi carniche. Completano il corredo artistico l'**organo di Giovanni Battista De Lorenzi** (1865), l'**altare maggiore** proveniente da Ampezzo, e un ciclo di **dieci tele raffiguranti i Misteri del Rosario**, di ambito veneto-friulano.
+
+- **Arcidiocesi:** Udine – Forania della Montagna
+- **Sito di riferimento:** [Fondazione Friuli – Parrocchia di Prato Carnico](https://fondazionefriuli.it/cosa-facciamo/progetti/parrocchia-di-prato-carnico/)
+
+---
+
+### Il Campanile Pendente ("Il Tor") — Prato (frazione capoluogo)
+
+Adiacente all'attuale parrocchiale, il campanile medievale della primitiva chiesa di San Canciano costituisce uno dei monumenti più caratteristici e curiosi della Val Pesarina. Danneggiato irrimediabilmente dal terremoto del 26 luglio 1700, il campanile fu lasciato inclinato così come il sisma lo aveva reso, mentre la chiesa fu abbattuta e ricostruita. Nel corso dei secoli la torre pendente, nota in friulano carnico come _il Tor_, è diventata simbolo del comune e attrazione per i visitatori. L'inclinazione è ancora oggi ben visibile e conferisce al complesso sacro un aspetto singolare, quasi una risposta alpina alla ben più celebre torre di Pisa. Il manufatto è in muratura di pietra locale con copertura a cipolla e rappresenta una testimonianza diretta della violenza dei terremoti storici che hanno periodicamente colpito la Carnia.
+
+---
+
+### Chiesa di San Leonardo — Osais (frazione)
+
+La chiesa di San Leonardo, situata nella frazione Osais a 710 m s.l.m., è il monumento di maggior rilievo artistico dell'intero comune di Prato Carnico grazie al suo straordinario ciclo di affreschi cinquecenteschi. Il 9 aprile 1391 il villaggio di Osais ottenne dalla competente autorità ecclesiastica il diritto di costruire una chiesa propria dedicata a San Leonardo di Noblac, protettore dei carcerati e dei lavoratori, particolarmente venerato nell'area alpina. I lavori procedettero lentamente e la chiesa fu consacrata il 20 ottobre 1497.
+
+**Affreschi di Pietro Fuluto (1506).** La gloria artistica della chiesa è il ciclo di affreschi firmato e datato da **Pietro Fuluto** (Tolmezzo, c. 1475 – post 1519), uno dei più significativi pittori carnici del primo Cinquecento, formatosi nella tradizione della scuola tolmezzina. Sull'iscrizione della parete destra si legge ancora _opera de Piero Fulut… 1506_. Il soffitto del corpo a pianta esagonale è diviso in **15 eleganti scomparti** dipinti con: _Annunciazione_, _Padre Eterno_, _Dottori della Chiesa_, _San Giorgio_, gli _Evangelisti_ e una serie di _Profeti_. Le pareti sono interamente dedicate a **Scene della vita di San Leonardo**, ambientate in fantastici paesaggi con castelli fiabeschi e palazzi di pura invenzione, in un linguaggio pittorico che unisce l'influenza tardogotica veneto-friulana a una vivace narrazione popolare. Si tratta della prima opera documentata e firmata di Fuluto.
+
+**Sculture e altari.** L'**ancona lignea sull'altare destro**, dedicata a San Leonardo, è opera di **Antonio Tironi da Bergamo** (documentata da contratto del 9 giugno 1526): intagliata, dorata e dipinta, presenta sei sculture su due ordini a tre scomparti ciascuno, raffiguranti _Madonna con il Bambino_, _Sant'Andrea_, _San Gallo_, _San Pietro_, _San Giovanni Battista_ e _San Leonardo_. L'**altare sinistro di San Valentino**, proveniente dalla bottega dei **Comuzzo**, conserva un'ancona seicentesca attribuita a **Giovanni Antonio Agostani**.
+
+La chiesa fu rifatta e ampliata nella seconda metà del Settecento e riconsacrata il 4 giugno 1790; il coro originario fu trasformato in sacrestia. Il campanile, accostato alla parete nord, ha uno zoccolo quadrato in pietra con accesso ad arco a tutto sesto e copertura a cipolla. La facciata orientata verso ovest presenta tre piccole aperture in stile gotico e un motivo a dentelli lungo gli spioventi.
+
+- **Arcidiocesi:** Udine – Forania della Montagna
+
+---
+
+### Chiesa dei Santi Filippo e Giacomo — Pesariis (frazione)
+
+La parrocchiale di Pesariis, la più grande frazione del comune con i suoi 178 abitanti, sorge nel borgo famoso in tutto il mondo per la produzione di orologi. La prima menzione di una cappella a Pesariis risale al 1348; nel **1505 Gianfrancesco da Tolmezzo** — il geniale fondatore della scuola di pittura carnico-tolmezzina e uno dei massimi esponenti dell'arte friulana del Quattrocento — decorò l'edificio con un ciclo di affreschi. Questo prezioso patrimonio fu però distrutto nel 1700, quando il crollo del campanile lesionato dal terremoto abbatté l'intera chiesa. La chiesa fu ricostruita a partire dal 1711 e consacrata nel 1736.
+
+L'attuale edificio risale alla seconda metà dell'Ottocento: la prima pietra fu posta il 15 aprile 1861 su progetto dell'architetto **Girolamo D'Aronco** (lo stesso che collaborò alla parrocchiale di Prato). Il nuovo tempio fu consacrato dall'arcivescovo di Udine Andrea Casasola il 28 settembre 1872. Negli anni Ottanta del Novecento la chiesa fu adeguata alle norme postconciliari con la rimozione delle balaustre e l'aggiunta dell'altare rivolto verso l'assemblea; un'ulteriore ristrutturazione fu eseguita tra il 2013 e il 2014.
+
+**Architettura.** La facciata a capanna, rivolta a levante e coronata dal timpano, si articola in tre parti: la centrale, leggermente rientrante, presenta il portale d'ingresso e una trifora murata; le ali laterali mostrano specchiature decorative. Il campanile a pianta quadrata, su alto basamento a scarpa, termina con cella campanaria ad archi monoforati e cupola a cipolla su tamburo ottagonale. L'interno è a navata unica con cappelle laterali introdotte da ampi archi a tutto sesto; le pareti sono scandite da paraste che reggono la trabeazione modanata su cui si imposta la volta a botte; il presbiterio è introdotto da una serliana e rialzato di alcuni gradini.
+
+- **Arcidiocesi:** Udine – Forania della Montagna
+- **Sito diocesi:** [Diocesi di Udine – Pesariis, Santi Filippo e Giacomo](https://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-200/forania-della-montagna-1672/cp-di-gorto-1710/pesariis-428/)
+
+---
+
+### Chiesa di Sant'Antonio da Padova — Pieria (sede municipale)
+
+La frazione Pieria, sede del municipio di Prato Carnico, ospita la piccola chiesa dedicata a **Sant'Antonio da Padova**. Durante il periodo dell'interdizione della parrocchiale di Prato (1857–1860), questo edificio svolse temporaneamente le funzioni di chiesa parrocchiale dell'intera vallata, dimostrando il suo ruolo centrale nella vita religiosa locale. L'edificio, per dimensioni e proporzioni, presenta somiglianze con la chiesa di Osais, suggerendo un'origine medievale o tardomedievale comune. Si inserisce nel tessuto urbanistico del borgo accanto alla storica Casa del Popolo (ora Biblioteca Comunale intitolata al senatore Fermo Solari), che fu la prima Casa del Popolo costruita in Carnia e la seconda nell'intera regione Friuli Venezia Giulia. La chiesa rimane il fulcro della vita religiosa della fraction sede municipale.
+
+---
+
+### Chiesa di Sant'Osvaldo — Avausa (frazione)
+
+La frazione Avausa (in friulano _Davôse_, variante locale _Davousa_), a 652 m s.l.m. con circa 120 abitanti, è dotata di una chiesa dedicata a **Sant'Osvaldo**, re di Northumbria e martire (604–642), la cui devozione si diffuse nell'arco alpino attraverso la mediazione dei pellegrini medievali e delle rotte commerciali transalpine. Il culto di Sant'Osvaldo è particolarmente radicato in Carnia e nelle valli alpine orientali, dove il santo anglosassone era invocato come protettore dei viandanti e dei malati. La chiesa di Avausa rappresenta una delle tante piccole pievi di villaggio che punteggiano la Val Pesarina, fedele al modello carnico dell'autonomia religiosa di ogni insediamento. L'edificio si presenta nella tipologia della chiesa rurale alpina con campanile a copertura a cipolla, caratteristica delle valli carniche.
+
+---
+
+### Chiesa di San Gottardo — Sostasio (frazione)
+
+La frazione Sostasio (_Sostâs_ in friulano), a 690 m s.l.m. con circa 83 abitanti, conserva una chiesa dedicata a **San Gottardo** (San Godehard di Hildesheim, vescovo tedesco dell'XI secolo). La venerazione di San Gottardo nelle Alpi è strettamente legata ai valichi montani che portano il suo nome (il celebre passo del Gottardo in Svizzera ne è l'esempio più noto): il santo era invocato come patrono dei viaggiatori di montagna e proteggeva le comunità alpine dai pericoli della neve e del ghiaccio. La presenza di questa dedicazione in una piccola frazione carnica testimonia le antiche connessioni devozionali e commerciali tra le valli alpine e i grandi centri religiosi transalpini, intensificate dai traffici della Repubblica di Venezia, che utilizzava queste valli per il rifornimento di legname per la flotta. La chiesa segue la tipologia delle cappelle di villaggio carniche, con la sua presenza discreta ma essenziale nella vita comunitaria della frazione.
+
+---
+
+### Chiesa di San Pietro — Pradumbli (frazione)
+
+La frazione Pradumbli (_Predumbli_ in friulano), a 678 m s.l.m. con circa 56 abitanti, è dotata di una chiesa dedicata a **San Pietro Apostolo**. La dedicazione a San Pietro è tra le più antiche e diffuse del Patriarcato di Aquileia, la grande istituzione ecclesiastica che per secoli governò la vita religiosa dell'intera Friuli: il principe degli apostoli era venerato in ogni villaggio come garante del legame con la sede apostolica romana. La chiesa di Pradumbli si inserisce nel fitto reticolo di edifici sacri che caratterizza la Val Pesarina, dove ogni frazione, anche la più piccola, ha mantenuto nel tempo il proprio luogo di culto come centro identitario della comunità. Nei pressi della frazione si trova la zona artigianale e industriale di Chiampeas (_Cjampeas_) e la grotta nota come _Cjamarada di Cjampeas_.
+
+---
+
+### Chiesa di San Lugano — Truia (frazione)
+
+La frazione Truia (_Truje_ in friulano, variante locale _Truja_), con i suoi **881 m s.l.m.** è la frazione più elevata del comune e probabilmente il primo nucleo abitato sorto nella vallata, anche se il primo documento storico che la menziona risale al XIV secolo, dove è citata come _Villa de Troy_. Nel 1511 la località fu decimata dalla peste. La sua chiesa è dedicata a **San Lugano** (o Lugano di Como), un santo vescovo della tradizione locale carnica e alpina, la cui venerazione si radica nelle prime evangelizzazioni delle valli alpine nordorientali. La dedica a San Lugano in un insediamento così antico e isolato suggerisce un'origine della parrocchia risalente all'Alto Medioevo, quando i missionari comasco-lombardi penetrarono nelle valli carniche lungo i percorsi commerciali verso il nord. L'edificio, in posizione panoramica sulla Val Pesarina, è un simbolo della tenace resistenza religiosa di questo villaggio alpino, colpito nei secoli da epidemie e progressivo spopolamento.
+
+---
+
+### Chiesetta di Santa Maria di Caravaggio — Prico (frazione)
+
+La frazione Prico (_Prî_ in friulano), a 747 m s.l.m. con soli 23 abitanti, la meno popolosa tra le frazioni di Prato Carnico, conserva una piccola chiesa dedicata alla **Madonna di Caravaggio**. La devozione alla Madonna di Caravaggio — figura mariana legata alle apparizioni del 1432 a Giannetta de' Vacchi presso Caravaggio (Bergamo) — si diffuse ampiamente nel Nord Italia a partire dal Quattrocento e raggiunse anche le valli alpine più remote attraverso i mercanti e i lavoratori stagionali (_cramars_ e artigiani carnici) che percorrevano le rotte commerciali tra la Carnia e la pianura lombardo-veneta. La presenza di una cappella mariana dedicata alla Madonna di Caravaggio in un così piccolo villaggio alpino testimonia la vivacità degli scambi culturali e religiosi che animavano queste comunità montane, apparentemente isolate ma in realtà connesse a reti devozionali sovraregionali. La piccola chiesa di Prico funge da punto di raccoglimento spirituale per questa comunità residuale.
+
+---
+
+### Cappella della Madonna di Culzei — Culzei (borgata)
+
+Nei pressi della borgata di **Culzei** (_Culzei_ in friulano), un insieme di casolari e stavoli a 970 m s.l.m. sopra le frazioni abitate della valle, sorge la **Cappella della Madonna di Culzei**. Questo piccolo oratorio è tipico delle cappelle votive di montagna disseminate sulle malghe e lungo i sentieri pastorali carnici: edifici umili nelle forme ma densi di significato spirituale per le comunità di pastori e malghesi che li frequentavano durante la stagione estiva in alpeggio. La cappella di Culzei è un presidio religioso nei pascoli d'alta quota della Val Pesarina, dove le famiglie dei pastori ricercavano la protezione della Vergine per il bestiame e per i lavori stagionali. La sua posizione isolata, a quasi mille metri di quota tra prati e boschi di abete, la rende un elemento caratteristico del paesaggio religioso alpino carnico.
+
+---
+
+## Note sulla perdita degli affreschi di Gianfrancesco da Tolmezzo a Pesariis
+
+È utile segnalare che la cappella originaria di Pesariis, decorata nel **1505 da Gianfrancesco da Tolmezzo** — il maestro carnico considerato il maggior pittore friulano del Quattrocento, la cui opera è documentata in numerose chiese della Carnia e del Friuli — fu completamente distrutta nel 1700 quando il campanile, lesionato dal terremoto, cadde sull'edificio demolendolo. Quegli affreschi, che avrebbero costituito uno dei cicli pittorici più importanti della Val Pesarina, sono irrimediabilmente perduti. Sopravvive invece integro il ciclo di Pietro Fuluto a Osais, realizzato un anno dopo (1506), che rappresenta oggi la più significativa testimonianza della scuola pittorica tolmezzina nell'intero comune.
+
+---
+
+## Fonti
+
+- Wikipedia IT, _Prato Carnico_: [https://it.wikipedia.org/wiki/Prato_Carnico](https://it.wikipedia.org/wiki/Prato_Carnico)
+- Wikipedia IT, _Chiesa di San Canciano Martire (Prato Carnico)_: [https://it.wikipedia.org/wiki/Chiesa_di_San_Canciano_Martire_(Prato_Carnico)](https://it.wikipedia.org/wiki/Chiesa_di_San_Canciano_Martire_(Prato_Carnico))
+- Wikipedia IT, _Chiesa di San Leonardo (Osais)_: [https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_(Osais)](https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_(Osais))
+- Wikipedia IT, _Chiesa dei Santi Filippo e Giacomo (Prato Carnico)_: [https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Filippo_e_Giacomo_(Prato_Carnico)](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Filippo_e_Giacomo_(Prato_Carnico))
+- Wikipedia IT, _Pietro Fuluto_: [https://it.wikipedia.org/wiki/Pietro_Fuluto](https://it.wikipedia.org/wiki/Pietro_Fuluto)
+- Wikipedia IT, _Gianfrancesco da Tolmezzo_: [https://it.wikipedia.org/wiki/Gianfrancesco_da_Tolmezzo](https://it.wikipedia.org/wiki/Gianfrancesco_da_Tolmezzo)
+- Wikipedia IT, _Pesariis_: [https://it.wikipedia.org/wiki/Pesariis](https://it.wikipedia.org/wiki/Pesariis)
+- Conferenza Episcopale Italiana, _Le chiese delle diocesi italiane_: [https://chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it)
+- Diocesi di Udine, _Annuario parrocchie_: [https://www.diocesiudine.it](https://www.diocesiudine.it)
+- Fondazione Friuli, _Parrocchia di Prato Carnico_: [https://fondazionefriuli.it/cosa-facciamo/progetti/parrocchia-di-prato-carnico/](https://fondazionefriuli.it/cosa-facciamo/progetti/parrocchia-di-prato-carnico/)
+- Dizionario Biografico dei Friulani, _Pietro Fuluto_: [https://www.dizionariobiograficodeifriulani.it/fuluto-pietro/](https://www.dizionariobiograficodeifriulani.it/fuluto-pietro/)
+
+---
+
 ## Pravisdomini
 
 Pravisdomini è un piccolo comune della provincia di Pordenone (circa 3.470 abitanti), situato nella pianura friulana sud-occidentale ai confini con il Veneto, a un'altitudine di 10 metri sul livello del mare. Il toponimo deriva dal latino *pratum vice domini*, con riferimento ai prati amministrati dal visdomino — il vicario patriarcale e vescovile in temporalibus — per conto del Patriarca di Aquileia o del Vescovo di Concordia. Il territorio, già centuriato in età romana come parte dell'agro di Concordia Sagittaria, registra le prime notizie scritte dopo l'anno Mille; dal XIV secolo la sua storia si lega in modo stretto al feudo di Frattina e alla circoscrizione ecclesiastica della Diocesi di Concordia-Pordenone. Nel 1420 Pravisdomini passò sotto la Serenissima Repubblica di Venezia, nel 1434 ottenne l'autonomia parrocchiale distaccandosi dalla pieve di Azzano Decimo, e nel 1477 subì le devastazioni dell'incursione turca che flagellò l'intero Friuli. Il patrimonio sacro del comune — distribuito tra il capoluogo e le frazioni di Barco, Frattina e Panigai — riflette questa storia stratificata di fede, committenza nobiliare e sopravvivenza alle catastrofi.
@@ -13632,6 +15834,82 @@ La chiesa di San Giuliano, situata nella frazione di Panigai — la più meridio
 - Le chiese delle diocesi italiane – Conferenza Episcopale Italiana (schede CEI): [https://chieseitaliane.chiesacattolica.it/](https://chieseitaliane.chiesacattolica.it/)
 - Fondo Ambiente Italiano – Chiesa parrocchiale di Sant'Antonio: [https://www.fondoambiente.it/luoghi/chiesa-parrocchiale-di-sant-antonio](https://www.fondoambiente.it/luoghi/chiesa-parrocchiale-di-sant-antonio)
 - Comune di Pravisdomini (sito istituzionale): [http://www.comune.pravisdomini.pn.it](http://www.comune.pravisdomini.pn.it)
+
+---
+
+## Precenicco
+
+Precenicco (_Prissinins_ in friulano) è un piccolo comune della Bassa Friulana situato sulle rive del fiume Stella, nell'ex provincia di Udine, a pochi chilometri dalla laguna di Marano. Con circa 1.460 abitanti distribuiti tra il capoluogo e la frazione di Titiano, il comune ha una storia religiosa di notevole rilievo legata alla presenza medievale dell'Ordine Teutonico e alla successiva gestione gesuitica.
+
+Il tessuto devozionale del comune è essenzialmente concentrato nella chiesa parrocchiale di San Martino Vescovo, patrono del paese, la cui festa si celebra l'11 novembre. La limitata estensione del comune e la sua collocazione nella pianura lagunare non hanno favorito la moltiplicazione di edifici di culto, ma la chiesa parrocchiale compensa con la qualità delle opere d'arte conservate al suo interno.
+
+---
+
+### Chiesa parrocchiale di San Martino Vescovo
+
+**Comune:** Precenicco (UD)  
+**Indirizzo:** Piazza Roma  
+**Arcidiocesi:** Udine (Forania della Bassa Friulana)  
+**Sito web:** [orarimesse.pmap.it – Chiesa di San Martino Vescovo](https://orarimesse.pmap.it/orariomesse/chiesa-di-san-martino-vescovo/51242)  
+**Scheda CEI:** [Le chiese delle diocesi italiane (cod. 68692)](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68692)
+
+#### Storia
+
+Le origini religiose di Precenicco risalgono al XIII secolo. Intorno al 1220 Mainardo II, conte di Gorizia, donò il paese e il suo territorio all'Ordine dei Cavalieri Teutonici di Santa Maria in Gerusalemme, i quali vi fondarono una pieve. La presenza teutonica segnò profondamente la vita religiosa locale per quattro secoli. Nel 1623, con l'estinzione della commenda dell'Ordine Teutonico, la pieve passò al Patriarcato di Aquileia e l'anno successivo il territorio fu affidato ai Padri della Compagnia di Gesù.
+
+La chiesa fu edificata tra il **1624 e il 1625**, al tempo del passaggio dalla gestione teutonica a quella gesuitica, ad opera di maestranze friulane. La struttura fu ristrutturata nel corso del XVIII secolo — epoca a cui risale in particolare il soffitto a cassettoni della sacrestia. Nel **1751** la parrocchia entrò a far parte dell'Arcidiocesi di Gorizia, per poi essere aggregata nel **1818** all'Arcidiocesi di Udine. La chiesa fu solennemente consacrata il **31 luglio 1821**. Un radicale intervento di restauro fu condotto nel **2007**, che ha interessato l'intero edificio: dalla bonifica degli intonaci al rifacimento degli infissi e degli impianti termici ed elettrici.
+
+#### Architettura
+
+Lo stile architettonico è **neoclassico**, con reminiscenze barocche nell'articolazione degli altari interni. L'edificio si articola ad aula rettangolare con impianto a croce latina, orientato ovest–est. Il presbiterio è rettangolare, lievemente ristretto rispetto all'aula, e conclude con un'abside rettangolare a parete piana.
+
+Il **prospetto principale** è di bicromia ocra con decorazioni in bianco. La facciata è tripartita da quattro paraste doriche su alti plinti di base, binate quelle angolari e raccordate da cornice. La trabeazione e il timpano presentano cornici tripartite che si girano all'attacco delle fiancate. Il portale centrale è incorniciato da modanature e sormontato da un timpano spezzato con anfora centrale — un motivo neoclassico che conferisce eleganza alla facciata. La **torre campanaria** è autonoma e si trova antistante la facciata sul lato meridionale.
+
+L'**interno** sviluppa l'aula con pareti scandite in cinque sezioni da paraste; quelle doppie definiscono la sezione centrale affiancata da due cappelle per lato, aperte con arcate a tutto sesto. Le cappelle laterali ospitano i confessionali, ciascuno sormontato da un clipeo con busto. Una **bussola d'ingresso** in controfacciata regge la cantoria su due colonnine, estesa quanto la larghezza dell'aula, con organo a canne al centro.
+
+La **pavimentazione** è in lastre bicrome rosse e bianche disposte a losanga — un motivo decorativo tipico della tradizione friulana settecentesca.
+
+Il **capocroce**, sopraelevato di tre gradini, accede al presbiterio attraverso un arco santo impostato sulla trabeazione angolare; le pareti sono scandite da paraste corinzie. Il soffitto dell'area presbiteriale è a crociera con ampie fasce. Il soffitto a botte dell'aula è ripartito in quattro unghioni rilevati, due per ciascuna fiancata, a contenere le finestre rettangolari.
+
+#### Opere d'arte
+
+- **Altare maggiore in stile barocco** (1623): costruito in marmi policromi, è il pezzo più antico e pregiato della chiesa. Risale alla fase teutonica/gesuitica e anticipa di poco la costruzione dell'edificio attuale, suggerendo che potesse far parte di una struttura precedente o che sia stato realizzato contestualmente alla fondazione.
+
+- **Dipinti sull'altare maggiore**: due tele raffiguranti _Gesù Cristo nel Getsemani_ e _L'Ultima Cena_, opere di interesse devozionale che arricchiscono l'apparato pittorico del presbiterio.
+
+- **Quadro con i Santi Atanasio, Antonio e Valentino**: pala d'altare che documenta la devozione locale per santi venerati nel territorio friulano-veneto.
+
+- **Due statue lignee di Luigi Pizzini**: sculture scolpite da Luigi Pizzini, scultore attivo nel Friuli tra Otto e Novecento. Le sue opere in legno si caratterizzano per la resa plastica accurata e la sensibilità narrativa tipica della tradizione scultorea friulana.
+
+- **Statua della Madonna del Rosario di Giovanni Costantini**: opera scultorea devozionale, firmata da Giovanni Costantini, che riflette la devozione mariana del rosario particolarmente diffusa nelle campagne friulane.
+
+- **Quattro altari laterali**: arricchiscono le cappelle dell'aula, documentando la stratificazione devozionale della comunità parrocchiale nel corso dei secoli XVIII–XIX.
+
+- **Organo a canne**: collocato sulla cantoria in controfacciata, è documentato nelle _Disposizioni foniche degli organi a canne_ del Friuli-Venezia Giulia (Wikibooks). La sua presenza testimonia la continuità di una tradizione musicale liturgica nel piccolo comune.
+
+- **Soffitto a cassettoni della sacrestia**: risalente al restauro settecentesco, rappresenta un elemento decorativo di pregio che rimanda ai modi del Rinascimento tardivo adattato alla scala locale.
+
+#### Note liturgiche
+
+A seguito dell'adeguamento post-conciliare (anni 1970–1980), le balaustre originali sono state rimosse e sono stati aggiunti nuovi arredi liturgici: un altare in legno e metallo a mensa monopode con frontale decorato a sbalzo su rame, un ambone a tribuna trilatera con facce decorate a sbalzo su rame, e la cattedra in asse.
+
+---
+
+### Nota sulla frazione di Titiano
+
+Titiano è l'unica frazione del comune di Precenicco, situata nel territorio a nord del capoluogo. Le fonti consultate non documentano la presenza di una chiesa autonoma o cappella con rilievo storico-artistico nella frazione; la vita religiosa della comunità rurale gravitava e gravita tuttora attorno alla parrocchiale del capoluogo. Non si esclude l'esistenza di piccole edicole votive o cappelle campestri legate alla devozione popolare diffusa nella Bassa Friulana, ma questi manufatti devozionali minori non raggiungono la soglia di rilevanza storico-artistica che rende opportuna una trattazione specifica in una guida dell'architettura sacra.
+
+---
+
+## Fonti
+
+- Wikipedia, _Chiesa di San Martino Vescovo (Precenicco)_: <https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_Vescovo_(Precenicco)>
+- Wikipedia, _Precenicco_: <https://it.wikipedia.org/wiki/Precenicco>
+- Conferenza Episcopale Italiana – Le chiese delle diocesi italiane, scheda edificio cod. 68692: <https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68692>
+- Edi Pozzetto (a cura di), _Precenicco: una comunità nella storia_, Udine, Forum, 2012.
+- G. G. Corbanese, _Il Friuli, Trieste e l'Istria dalla Preistoria alla caduta del Patriarcato di Aquileia_, vol. 24, p. 283.
+- Wikibooks, _Disposizioni foniche di organi a canne / Precenicco – Chiesa di San Martino Vescovo_: <https://it.wikibooks.org/wiki/Disposizioni_foniche_di_organi_a_canne/Italia/Friuli-Venezia_Giulia/Ente_di_decentramento_regionale_di_Udine/Precenicco/Precenicco_-_Chiesa_di_San_Martino_Vescovo>
+- Arcidiocesi di Udine – Parrocchie dell'arcidiocesi: <https://it.wikipedia.org/wiki/Parrocchie_dell%27arcidiocesi_di_Udine>
 
 ---
 
@@ -13982,6 +16260,144 @@ Il campaniletto a vela originale, ora scomparso, è un dettaglio che colloca que
 
 ---
 
+## Pulfero
+
+Pulfero (in sloveno *Podbonesec*, in friulano *Pulfar*) è un piccolo comune montano di poco più di 800 abitanti della provincia di Udine, situato lungo le rive del Natisone tra i contrafforti del Monte Matajur e del Monte Mia, a circa 29 chilometri dal capoluogo provinciale. Appartenente storicamente alla *Benečija* — la Slavia Veneta, il lembo di territorio friulano colonizzato da popolazioni slave nel VII secolo al seguito degli Avari —, il comune presenta un patrimonio di architettura sacra minore eccezionalmente ricco rispetto alle sue dimensioni demografiche. Le "chiese vicinali", come le definisce la tradizione locale, sono disseminate sui fianchi boscosi del Matajur e del Craguonza-Mladesiena oppure nel fondovalle, costruite spesso su precedenti postazioni militari o luoghi di culto preesistenti, e costituirono per secoli il fulcro della vita religiosa e comunitaria delle singole contrade.
+
+La lunga appartenenza al Patriarcato di Aquileia prima, e alla Repubblica di Venezia poi, unita al peculiare substrato culturale slavo-cattolico, ha lasciato tracce stilistiche riconoscibili: il **gotico sloveno**, diffuso dalla scuola di Škofja Loka, convive con altari lignei barocchi dorati (*zlati oltar*) prodotti dalla bottega di Caporetto, in un sincretismo che è la cifra artistica distintiva delle Valli del Natisone. Il territorio del comune conta tre parrocchie — Antro, Brischis ed Erbezzo — afferenti alla forania del Friuli Orientale dell'Arcidiocesi di Udine.
+
+---
+
+### Santuario rupestre di San Giovanni d'Antro (Antro, frazione di Tarcetta)
+
+**Stile e epoca:** Gotico sloveno (cappella-presbiterio, 1477); navata ricavata nell'antro naturale (ristrutturazione tardo seicentesca)
+
+Il santuario di San Giovanni d'Antro — in dialetto locale *Svet Ivan u Čelè*, in sloveno *Landarska jama* — è il monumento più singolare e di maggiore rilevanza storico-artistica dell'intero comune di Pulfero, e uno dei luoghi di culto più particolari del Friuli orientale. L'edificio sacro è interamente costruito all'interno di una grotta carsica che si apre a 348 metri s.l.m. sulla parete verticale del Monte Mladesiena, raggiungibile salendo i 114 gradini di una scalinata in pietra addossata alla roccia.
+
+Il primo documento che attesta l'uso religioso del sito risale all'**889**, quando il re **Berengario del Friuli** concesse al Diacono Felice la *ecclesia de Antro* con i terreni circostanti e l'area del monte Olosa: un diploma che fa di San Giovanni d'Antro uno dei luoghi di culto documentati più antichi del Friuli orientale. All'interno della grotta è conservata ancora oggi la lapide sepolcrale latina del medesimo diacono, risalente al IX secolo. Prima di diventare luogo di culto, la cavità era stata frequentata sin dal Neolitico e nella tarda età del ferro; in periodo romano fece parte del sistema difensivo della *Regio X Venetia et Histria*. All'epoca delle invasioni barbariche servì da rifugio per gli abitanti locali — a tale periodo si ricollega la leggenda della **Regina Vida**, che qui si sarebbe asserragliata con il suo popolo per ingannare Attila.
+
+Le prime opere murarie permanenti risalgono al XII-XIII secolo, quando l'antro fu adibito a fortilizio a protezione di un sottostante castello. Nel **1477**, il maestro **Andrea von Lach (Andrej di Škofja Loka)** e il suo collaboratore Jacob realizzarono la **cappella-presbiterio** nella forma tuttora visibile: un vano di 6,48 × 3,60 metri con soffitto a **volta stellata in stile tardo gotico sloveno**, accessibile attraverso un arco a sesto acuto in pietra calcarea. Una lapide murata all'interno reca incise in caratteri gotici minuscoli le parole «*maister andre von lack ja / 1mo 4mo 7mo 7 cob*», a ricordo del mastro costruttore. La struttura fu consolidata dopo i terremoti del 1511 e del 1513.
+
+Nel **1530**, **Jernej di Škofja Loka** (o allievi della sua bottega) affrescò le pareti della cappella. In fondo all'altare della cappella-presbiterio si trovano una **statuetta in pietra della Madonna con Bambino** in stile neoclassico dei primi del Seicento, affiancata da due angeli in marmo di fattura barocca. La cappella fu consacrata nel **1547** dal vescovo di Cattaro, Luca Bisanzio.
+
+Alla fine del XVII - inizio XVIII secolo, il **salone principale della grotta** (la Sala di San Giovanni, ca. 16 × 10 metri, con pareti e volta di nuda roccia e pavimento in lastroni di pietra) fu trasformato in chiesa maggiore. In questo spazio fu collocato il magnifico **altare ligneo dorato barocco** (*zlati oltar*), capolavoro di **Jernej Vrtav** — italianizzato in **Bartolomeo Ortari** (Caporetto, 1647–1725) — uno dei più importanti intagliatori del legno della Slavia friulana. L'altare reca le statue di **San Giovanni Battista**, **San Giovanni Evangelista** e **Santo Stefano**: le sculture attualmente visibili sono copie recenti degli originali del XVI-XVII secolo, conservati presso il **Museo Diocesano e Gallerie del Tiepolo di Udine**. Un antico crocifisso in legno del XVII secolo completa l'arredo.
+
+Il complesso comprende anche una sagrestia, una canonica interna alla grotta e una **loggetta aperta** sul panorama della vallata del Natisone. Dal 2021 la gestione turistica è curata dall'Associazione Culturale e Socio Assistenziale Tarcetta.
+
+**Rilevanza:** Sito di interesse speleologico, storico-monumentale e devozionale di prima grandezza; inserito nel catasto regionale delle grotte del Friuli Venezia Giulia (n. 4).
+
+**Sito web:** [catastogrotte.regione.fvg.it](https://catastogrotte.regione.fvg.it)
+
+---
+
+### Parrocchia di San Silvestro Papa (Antro, frazione di Tarcetta)
+
+**Stile e epoca:** Non determinato con precisione; sede parrocchiale storicamente legata al santuario rupestre
+
+La parrocchia di San Silvestro Papa è la comunità ecclesiale che ha storicamente avuto cura del territorio di Antro e del santuario di San Giovanni d'Antro. La parrocchia afferisce alla forania del Friuli Orientale dell'Arcidiocesi di Udine. La devozione a san Silvestro è diffusa nelle Valli del Natisone e si inquadra nel contesto della pietà popolare slavo-cattolica che ha caratterizzato per secoli queste comunità di confine. La parrocchia di Antro è una delle tre parrocchie del territorio comunale di Pulfero, insieme a quella di Brischis e di Erbezzo.
+
+---
+
+### Chiesa parrocchiale di San Floriano Martire (Brischis)
+
+**Stile e epoca:** Gotico sloveno nella struttura originaria (1477); ampliamento barocco (1713–1718); restauro ottocentesco (1835)
+
+La chiesa parrocchiale di San Floriano Martire a Brischis (*Brišča* in sloveno), una delle frazioni del capoluogo di Pulfero, è la sede della parrocchia di San Floriano Martire di Brischis, anch'essa afferente alla forania del Friuli Orientale dell'Arcidiocesi di Udine.
+
+Un luogo di culto esisteva a Brischis già nel Medioevo; l'edificio fu **parzialmente ricostruito nel 1477** per opera dello stesso architetto che lavorò alla cappella di San Giovanni d'Antro, il maestro **Andrea di Škofja Loka**, segno della profonda unità culturale e stilistica delle Valli del Natisone nel tardo Quattrocento. L'edificio fu ampliato tra il **1713 e il 1718** e restaurato nel **1835**.
+
+La **facciata** presenta nella parte inferiore un rivestimento di lastre grigie; la parte superiore è coronata da un **timpano triangolare** al centro del quale si apre un oculo circolare. L'interno è ad **unica navata**, con soffitto a **volta a botte**, e il presbiterio è rialzato di due gradini rispetto all'aula. San Floriano è il patrono del comune di Pulfero, la cui festa si celebra il 4 maggio.
+
+**Coordinate:** 46°10′04.51″N, 13°29′23.23″E
+
+---
+
+### Chiesa parrocchiale di Sant'Andrea Apostolo (Erbezzo)
+
+**Stile e epoca:** Tardo-storicista (ricostruzione del 1903); campanile del 1893
+
+La chiesa parrocchiale di Sant'Andrea Apostolo è la sede della parrocchia di Erbezzo (*Arbeč* in sloveno), terza delle tre parrocchie del comune di Pulfero, afferente alla forania del Friuli Orientale dell'Arcidiocesi di Udine. L'edificio attuale è frutto di una **ricostruzione del 1903**, mentre il **campanile**, che sorge su area antistante la chiesa, risale al **1893**. La storia religiosa di Erbezzo è strettamente connessa alle tradizioni della comunità slovena locale; la parrocchia serviva storicamente anche le numerose contrade e i villaggi dispersi sui versanti del Craguonza e del Mladesiena.
+
+Nelle immediate vicinanze di Montefosca (frazione di Pulfero) si trova inoltre la **Grotta di Sant'Andrea**, una cavità carsica di interesse speleologico e di antica frequentazione religiosa, legata alla devozione per l'apostolo titolare della parrocchia.
+
+---
+
+### Chiesa di San Giacomo Apostolo (Biacis, frazione di Tarcetta)
+
+**Stile e epoca:** Origini medievali (XII–XIII sec.); struttura attuale dal 1520
+
+La chiesa di San Giacomo Apostolo sorge nella contrada di Biacis (*Bijača* in sloveno), nel cuore del territorio storicamente appartenente alla **Banca di Antro**, il consesso assembleare con cui le comunità slave della valle del Natisone gestivano i propri affari amministrativi e giudiziari durante l'era del Patriarcato di Aquileia. Non lontano dalla chiesa si trovava la celebre **lastra di pietra sotto i tigli**, intorno alla quale si riunivano gli eletti della Banca.
+
+Le **origini del sacello risalgono ai secoli XII–XIII**. La costruzione attualmente visibile fu portata a termine nel **1520**, quando si procedette a un consistente consolidamento reso necessario dai gravi danni causati dai **terremoti del 1511 e del 1513**, che devastarono numerosi edifici delle Valli del Natisone. La chiesa è dedicata a San Giacomo Maggiore e la sua presenza testimonia l'importanza religiosa e civile che Biacis rivestiva nell'organizzazione comunitaria della Slavia veneta.
+
+A luglio la contrada festeggia i Santi Anna e Giacomo con riti religiosi e intrattenimenti musicali, secondo una tradizione che si protrae ininterrotta da secoli.
+
+---
+
+### Chiesa di San Donato Martire (Lasiz, frazione di Tarcetta)
+
+**Stile e epoca:** Origini medievali (XII–XIII sec.); affreschi del XVI secolo; prima citazione documentaria nel 1294
+
+La piccola chiesa di San Donato Martire si trova a Lasiz (*Laze* in sloveno), frazione di Tarcetta, sulle pendici del monte *Kraguojnca* a **426 metri di altitudine**. Si tratta di uno dei sacelli montani più antichi del territorio: la **prima menzione documentaria risale al 1294**, ma la sua costruzione originaria è da porsi tra il XII e il XIII secolo.
+
+L'interno della chiesa, attualmente spoglio, conserva importanti **affreschi del XVI secolo** sulle pareti, i soli elementi decorativi superstiti dopo le perdite subite nel corso dei secoli. Anticamente il sacello era arredato con un **altare ligneo dorato** (*zlati oltar*), un tipo di manufatto ligneo-scultoreo tipico della Slavia friulana e realizzato dalle botteghe artigiane locali, oggi non più in situ. La posizione isolata, a elevata quota, e la presenza di affreschi rinascimentali fanno di questa piccola chiesa uno degli esempi più significativi di architettura sacra minore montana del Friuli orientale.
+
+---
+
+### Chiesa di San Leonardo Abate (Rodda)
+
+**Stile e epoca:** XVI secolo; consacrata nel 1568; altare ligneo del 1689
+
+La chiesa di San Leonardo Abate sorge nella frazione di Rodda (*Ruonac* in sloveno), dedicata a **San Leonardo di Noblac**, il santo francese protettore dei prigionieri e dei poveri molto venerato nelle campagne dell'Europa medievale. L'edificio fu costruito **verso la metà del XVI secolo** e **consacrato nel 1568**. Il principale elemento di pregio artistico è l'**altare ligneo**, databile al **1689** e appartenente alla tradizione degli *zlati oltar* barocchi tipici delle valli del Natisone: manufatti intagliati e indorati prodotti dalle botteghe locali, espressione del gusto devozionale della comunità slavo-cattolica del Friuli orientale.
+
+---
+
+### Chiesa di San Zenone (Rodda)
+
+**Stile e epoca:** Origini medievali (prima citazione 1455; consacrata 1493); frammento pittorico del XIII–XIV secolo
+
+La chiesa di San Zenone a Rodda è uno dei sacelli più antichi della frazione: **citata per la prima volta nel 1455**, fu **consacrata nel 1493**. Il suo valore artistico è legato alla presenza di un **frammento pittorico del XIII–XIV secolo**, vestigio della decorazione ad affresco di origine medievale che un tempo doveva ornare le pareti interne dell'edificio. La sopravvivenza di questo frammento, nonostante i secoli trascorsi e le calamità sismiche che hanno ripetutamente colpito la zona, testimonia la continuità della frequentazione devozionale di questo piccolo luogo di culto.
+
+---
+
+### Chiesa di Sant'Ulderico (Rodda, contrada Tuomaz)
+
+**Stile e epoca:** Romanico (XIII–XIV sec.); altare ligneo dorato della fine del XVII secolo
+
+La chiesa di Sant'Ulderico si trova in posizione **isolata sopra il paese di Tuomaz**, nella zona alta della frazione di Rodda. L'edificio fu costruito **presumibilmente tra il XIII e il XIV secolo** in **stile romanico**, confermando la stratificazione storica del patrimonio sacro di Rodda, dove convivono tre chiese di epoche diverse a breve distanza l'una dall'altra. Verso la fine del Seicento la chiesa fu dotata di un **altare ligneo dorato** (*zlati oltar*), in accordo con la moda devozionale che in quegli anni stava rinnovando l'arredo interno di numerosi sacelli delle Valli del Natisone. A luglio si tiene la tradizionale **Festa di San Ulderico in monte**, con visita alla chiesa e sagra paesana, una delle manifestazioni folkloristiche più radicate del calendario locale di Rodda.
+
+---
+
+### Chiesa di Santo Spirito (Spignon)
+
+**Stile e epoca:** Seconda metà del XV secolo; consacrata nel 1547; ricostruita nel 1949
+
+La chiesa di Santo Spirito sorge nella contrada di Spignon (*Varh* in sloveno), sulle pendici montane al di sopra del fondovalle. L'edificio originario fu **eretto nella seconda metà del XV secolo** e **consacrato nel 1547**, dopo i lavori di consolidamento resi necessari dai danni provocati dai terremoti del 1511 e del 1513 — le stesse scosse sismiche che avevano compromesso quasi tutte le chiese della valle. Fu tuttavia **completamente distrutta nel corso della seconda guerra mondiale**, quando le operazioni belliche si abbatterono pesantemente sull'intero territorio delle Valli del Natisone. L'edificio attualmente visibile è una **ricostruzione del 1949**, realizzata sulle macerie della chiesa originaria e che ne perpetua la devozione al soffio vivificante dello Spirito Santo, invocato da secoli dalle comunità montane di questa area di confine.
+
+---
+
+### Chiesa di San Nicola e sue rovine (Pegliano)
+
+**Stile e epoca:** Chiesa originale costruita intorno al 1370 (ora in rovina); nuova chiesa del 1850
+
+A Pegliano (*Ofijan* in sloveno) esisteva una chiesa dedicata a **San Nicolò**, eretta intorno al **1370** in posizione isolata tra i boschi lontano dall'abitato, secondo una tipologia insediativa frequente nel medioevo delle Valli del Natisone, dove i luoghi di culto sorgevano spesso in siti appartati di valenza contemplativa o difensiva. Di questa chiesa trecentesca rimangono oggi visibili **soltanto i ruderi e le mura di cinta**, testimonianza silenziosa di un culto secolare. Nel **1850** le pietre del sacello diroccato furono riutilizzate per la costruzione di una **nuova chiesa**, anch'essa dedicata al medesimo santo patrono, che sorse nei pressi del paese e che tuttora serve la piccola comunità di Pegliano.
+
+---
+
+## Fonti e riferimenti
+
+- Wikipedia italiana, voce *Pulfero* — [https://it.wikipedia.org/wiki/Pulfero](https://it.wikipedia.org/wiki/Pulfero)
+- Wikipedia italiana, voce *San Giovanni d'Antro* — [https://it.wikipedia.org/wiki/San_Giovanni_d%27Antro](https://it.wikipedia.org/wiki/San_Giovanni_d%27Antro)
+- Wikipedia italiana, voce *Chiesa di San Floriano (Pulfero)* — [https://it.wikipedia.org/wiki/Chiesa_di_San_Floriano_(Pulfero)](https://it.wikipedia.org/wiki/Chiesa_di_San_Floriano_(Pulfero))
+- Wikipedia italiana, voce *Bartolomeo Ortari* — [https://it.wikipedia.org/wiki/Bartolomeo_Ortari](https://it.wikipedia.org/wiki/Bartolomeo_Ortari)
+- TurismoFVG — Scheda Pulfero: [https://www.turismofvg.it/localita/pulfero](https://www.turismofvg.it/localita/pulfero)
+- Catasto Regionale delle Grotte del FVG, cavità n. 4: [https://catastogrotte.regione.fvg.it](https://catastogrotte.regione.fvg.it)
+- Conferenza Episcopale Italiana, *Le chiese delle diocesi italiane* — scheda San Floriano Martire, Brischis (Pulfero): [https://chieseitaliane.chiesacattolica.it](https://chieseitaliane.chiesacattolica.it)
+- Olinto Marinelli, *Guida delle Prealpi Giulie*, Società Alpina Friulana, Udine, 1912
+- *Note d'arte e di storia*, a cura della parrocchia di Antro, 1966
+
+---
+
 ## Ragogna
 
 Ragogna (_Ruvigne_ in friulano) è un piccolo comune sparso di circa 2.800 abitanti nella provincia di Udine, arroccato sul Monte di Ragogna che sovrasta la stretta del Tagliamento nei pressi di Pinzano. La sua storia religiosa è straordinariamente densa per le dimensioni del territorio: il sito, citato già nel VI secolo da Venanzio Fortunato come _Reunia_ e nel VIII secolo da Paolo Diacono nella _Historia Langobardorum_, ospitò una delle pievi più antiche del Friuli occidentale, con un battistero paleocristiano e stratificazioni artistiche che vanno dall'XI al XX secolo. Il terremoto del 1976 causò gravi danni al patrimonio edilizio del comune, ma molte chiese furono ricostruite o restaurate preservando i cicli di affreschi e le opere d'arte mobili di eccezionale interesse. Ragogna conserva oggi sei edifici di culto di rilevanza storico-artistica distribuiti tra le sue frazioni principali: San Pietro, Pignano, Villuzza, San Giacomo e la località montana di San Giovanni in Monte.
@@ -14242,6 +16658,113 @@ Il valore del sito risiede nella sua testimonianza della presenza francescana ne
 - Conferenza Episcopale Italiana — Le chiese delle diocesi italiane (scheda n. 68743): [https://chieseitaliane.chiesacattolica.it/](https://chieseitaliane.chiesacattolica.it/)
 - Diocesi di Udine — Annuario degli enti ecclesiastici, Forania della Montagna: [http://www.diocesiudine.it/](http://www.diocesiudine.it/)
 - *Viaggio in Friuli Venezia Giulia* — scheda su Raveo: [http://www.viaggioinfriuliveneziagiulia.it/](http://www.viaggioinfriuliveneziagiulia.it/)
+
+---
+
+## Reana del Rojale
+
+Comune di circa 4.700 abitanti situato a nord di Udine, ai piedi delle Prealpi Carniche e Giulie, delimitato a est dal fiume Torre. Il suo territorio si articola in numerose frazioni — Reana, Qualso, Ribis, Rizzolo, Vergnacco, Valle, Remugnano, Cortale, Zompitta — ciascuna dotata di un proprio luogo di culto che testimonia una stratificazione religiosa plurisecolare. Le chiese del comune appartengono tutte all'Arcidiocesi di Udine e alla Forania della Pedemontana. La presenza di pievi romaniche, cappelle campestri duecentesche e santuari di pellegrinaggio barocchi restituisce l'immagine di un territorio profondamente radicato nella tradizione cattolica friulana, segnato dai terremoti del 1511 e del 1976 ma capace ogni volta di ricostruire il proprio patrimonio sacro.
+
+---
+
+### Chiesa dei Santi Felice e Fortunato — Reana del Rojale (capoluogo)
+
+**Stile e datazione:** Neoclassico; origini nel 1115 circa, rifabbricata nel 1341 e nel 1431, ampliata e portata all'assetto odierno nel corso del XVIII secolo (lavori avviati nel 1744).
+
+La chiesa parrocchiale di Reana è il più antico edificio del comune. Una prima modesta cappella dedicata ai martiri aquileiesi Felice e Fortunato fu costruita intorno al 1115; nel 1341 venne eretta una seconda chiesa sullo stesso sito. L'edificio, che dipendeva dalla pieve di Tricesimo, divenne troppo piccolo con la crescita della popolazione: nel 1461 fu affidato al maestro Brusino, muratore udinese, l'incarico di aggiungere una cappella quadrata dietro l'altare maggiore. Nel 1568 la chiesa fu eretta a parrocchiale. Sulla facciata sono murati il nome del costruttore originario — *maestro Nicolò* — e la data 1431.
+
+L'ampliamento settecentesco, avviato sotto il parroco Cudicio nel 1744, conferì all'edificio la struttura neoclassica attuale. La consacrazione solenne avvenne il 29 dicembre 1923 per mano dell'arcivescovo Antonio Anastasio Rossi. La sacrestia fu aggiunta nel 1927; negli anni 1933–34 Ubaldo Toso di Tarcento eseguì la decorazione pittorica interna; nel 1938 la ditta Del Fabbro di Reana realizzò la facciata. Il terremoto del 1976 danneggiò il campanile — che conserva la struttura di un'antica torre di osservazione — la cui sopraelevazione ottocentesca (1884) fu rimossa; la chiesa tornò agibile nel 1980.
+
+**Descrizione e opere d'arte:** L'interno è a navata unica con rientranze laterali ospitanti statue devozionali, tra cui la *Madonna Assunta in mezzo agli Angeli*, portata in processione ogni 15 agosto. Il presbiterio, rialzato di tre gradini, è dominato da un altare in legno di quercia con incisioni raffiguranti scene di lavoro contadino. Nel vecchio coro si conserva un **ciclo di affreschi datato 1481**, di notevole importanza per la pittura tardo-medievale friulana. Lungo le pareti navali è presente una Via Crucis pittorica.
+
+**Sito web:** [viaggioinfriuliveneziagiulia.it](http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?reana_chiesa_felice_fortunato_martiri)
+
+---
+
+### Chiesa di Santa Maria Assunta — Qualso
+
+**Stile e datazione:** Barocco-neoclassico; origini nel XIII secolo, forma attuale dal 1701–1712.
+
+La parrocchiale di Qualso — frazione collinare il cui nome deriva dal latino *collis* — è documentata già nel Duecento, con un primo consistente ampliamento nel 1456. Il **terremoto del Friuli del 1511** la distrusse interamente; venne però subito ricostruita. Tra il 1701 e il 1704 l'edificio fu nuovamente ampliato; nel 1712 fu eretta la **torre campanaria**, esterna al corpo della chiesa e posta verso nord. Nel 1863 la facciata crollò a causa di una tromba d'aria e fu prontamente ripristinata. Il sisma del 1976 causò pesanti danni alle strutture verticali: si intervenne con cordoli di collegamento e capriate metalliche per la copertura; nel 2009 fu rifatto il manto del tetto e tinteggiate le pareti esterne.
+
+**Descrizione e opere d'arte:** La facciata è scandita da lesene in stile ionico su alto basamento, con cornicione e timpano modanato con oculo circolare al centro; il portale è in pietra modanata. L'aula interna è a pianta rettangolare con presbiterio leggermente ribassato, abside semicircolare interna e cappelle laterali su entrambi i lati. Le pareti conservano **tracce di affreschi** e dipinti entro cornici a stucco nel soffitto a vela. La pavimentazione è in lastre di marmo grigio disposte a losanga. In controfacciata si trova la cantoria sopra la bussola d'ingresso.
+
+---
+
+### Chiesa di San Giuseppe e San Luigi — Qualso
+
+**Stile e datazione:** Neoromanicaromani/eclettico del primo Novecento; completata nel 1926.
+
+Opera dell'architetto **Provino Valle** (Udine, 1887–1955) — padre di Gino Valle e di Elena Valle (Lella Vignelli), tra i protagonisti dell'architettura friulana del Novecento —, questa chiesa fu progettata su commissione delle **Fornaci Cattarossi**, stabilimento industriale attivo nelle immediate vicinanze di Qualso. Valle, noto principalmente per opere civili udinesi quali il Tempio Ossario dei Caduti d'Italia e lo Stadio Moretti, qui adottò un linguaggio di richiamo romanico che dialoga con la tradizione edilizia locale. La chiesa fu completata nel 1926.
+
+**Rilevanza storica e artistica:** Il manufatto rappresenta un raro esempio di architettura religiosa industriale nel Friuli del primo Novecento, commissionata non dalla comunità parrocchiale bensì da una proprietà privata per i propri operai. Testimonia il legame tra sviluppo manifatturiero e pratica religiosa che caratterizzò le fabbriche friulane del periodo fascista.
+
+---
+
+### Chiesa di Santa Maria la Vecchia — Ribis
+
+**Stile e datazione:** Romanico; documentata dal XIV secolo, forse con origini ancora più antiche.
+
+Questa piccola chiesa campestre di Ribis è stata chiamata per secoli *la Bella* per la qualità della sua architettura; dal XVII secolo assunse il nome *la Vecchia* per distinguersi dal nuovo Santuario della Beata Vergine del Carmine (1648) costruito nella stessa frazione. L'edificio è stato più volte modificato nel corso dei secoli ed è stato recentemente riportato all'aspetto originale attraverso un attento intervento di restauro.
+
+**Descrizione e opere d'arte:** La facciata a capanna presenta un portale architravato sormontato da un **occhio circolare**; lungo la linea di gronda corre un motivo di **archetti pensili in cotto**, tipico dell'architettura romanica padana. L'aula è rettangolare; l'abside, di particolare pregio architettonico, è coperta da una **volta a crociera con costoloni** impostati su peducci in pietra e convergenti in una rosetta stellata al centro. Un contratto del 1559 documenta che il pittore **Giacomo Secante** — allievo del Pordenone, autore di affreschi nel Castello di Udine e di un trittico nel Duomo di Udine — si era impegnato a dipingere la volta e la facciata del coro; di quegli affreschi, tuttavia, non è rimasta alcuna traccia.
+
+**Sito web:** [BeWeB – Beni Ecclesiastici in Web](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68748/)
+
+---
+
+### Santuario della Beata Vergine del Carmine — Ribis
+
+**Stile e datazione:** Barocco; costruito nel 1648–1649, restauri nel XVIII secolo e nel 2008–2009.
+
+Il Santuario di Ribis è l'edificio religioso di maggior richiamo devozionale del comune. Già in epoca medievale nel sito esisteva una piccola **edicola con una statua della Madonna col Bambino** oggetto di grande venerazione; accanto era stata edificata una cappella. L'attuale santuario fu costruito tra il 1648 e il 1649 da **Sebastiano da Riu** e, per delibera del **Senato Veneto**, ricevette il titolo di *chiesa regia* o *chiesa ducale*; lo stesso decreto stabilì che i curati di Ribis fossero chiamati *abati*, conferendo all'istituzione un prestigio ecclesiastico del tutto insolito per un piccolo centro rurale. A cavallo tra Sei e Settecento fu edificata la **canonica annessa**, che fungeva anche da **ospizio per i pellegrini**, a conferma del ruolo del santuario come meta di pellegrinaggio locale. Nel corso del XVIII secolo l'edificio fu restaurato. All'inizio del XIX secolo divenne filiale della parrocchiale di Reana; nel 1895 subì lavori di ampliamento. Nel XX secolo fu eretta nuovamente a chiesa parrocchiale. L'ultimo ciclo di restauri risale al **2008–2009**.
+
+**Rilevanza storica:** Il titolo di "chiesa ducale" concesso dalla Repubblica di Venezia, la figura degli abati-curati e l'annessa struttura ospitaliera collocano questo santuario in una posizione del tutto eccezionale nel panorama delle chiese rurali della Pedemontana udinese.
+
+**Sito web:** [Diocesi di Udine](http://www.diocesiudine.it/wd-annuario-enti/arcidiocesi-di-udine-1517391927/forania-della-pedemontana-1673/ribis-444/)
+
+---
+
+### Chiesa di San Giacomo in Tavella — Ribis (loc. Tavella)
+
+**Stile e datazione:** Romanico campestre; costruita nel XIII secolo.
+
+Piccola chiesa campestre posta appena fuori dall'abitato di Ribis, in una posizione isolata nella campagna che conserva ancora oggi un carattere di rustico isolamento. L'edificio risale al **Duecento** e costituisce una delle testimonianze più antiche dell'architettura religiosa del comune. La dedicazione a San Giacomo Maggiore evoca la tradizione delle chiese poste lungo percorsi di transito, talvolta legate alla rete dei cammini verso Santiago de Compostela o, più probabilmente nel contesto friulano, a percorsi di devozione locale lungo il fondovalle del Torre.
+
+**Sito web:** [BeWeB – Beni Ecclesiastici in Web](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/68746/)
+
+---
+
+### Chiesa dei Santi Rocco e Sebastiano — Rizzolo
+
+**Stile e datazione:** Romanico-gotico; consacrata nel 1307, coro del 1457, campanile inizio XVI secolo.
+
+La storia di questa chiesa è intrecciata con le vicende politico-militari del Friuli medievale. L'edificio originario fu costruito dal nobile **Bertoldo da Rizzolo**; verso la fine del XIII secolo il **conte di Gorizia** saccheggiò e distrusse il paese di Rizzolo, inclusa la chiesa. Riedificata sullo stesso sito, fu **consacrata nel 1307**. Nel 1457 fu aggiunto il coro; il campanile fu costruito ai primi del XVI secolo. Alla fine dell'Ottocento, quando la comunità decise di costruire una chiesa più grande e capiente, l'antica parrocchiale fu retrocessa a **cappella del cimitero**; nel **1924** fu trasformata in **tempietto dedicato ai caduti** della Prima guerra mondiale.
+
+**Descrizione:** L'edificio ha pianta rettangolare con abside quadrata; la facciata presenta un **portico con tre archi**, elemento tipologico che richiama le chiese rurali romaniche del Friuli pedemontano. La doppia destinazione — memoriale militare e cappella cimiteriale — conferisce al luogo una stratificazione simbolica particolarmente intensa.
+
+**Sito web:** [Chiese delle diocesi italiane – CEI](https://chieseitaliane.chiesacattolica.it/chieseitaliane/stampaapprofondimento.jsp?guest=true&sercd=68759)
+
+---
+
+### Chiesa dei Santi Tommaso e Marco — Vergnacco
+
+**Stile e datazione:** Origini medievali; documentata dal 1360.
+
+La frazione di Vergnacco — il cui nome compare per la prima volta in un documento del XIII secolo come *Verniacum* — possiede una chiesa dedicata ai **Santi Tommaso e Marco**, attestata in un documento del **1360**. Sebbene le fonti disponibili non forniscano dettagli approfonditi sull'assetto architettonico attuale, la menzione trecentesca la colloca tra le più antiche chiese del comune e testimonia la precoce organizzazione religiosa delle frazioni collinari di Reana del Rojale. La chiesa è riconducibile alla tipologia della piccola cappella rurale di area pedemontana, edificata con materiali lapidei locali e rimaneggiata nel corso dei secoli.
+
+---
+
+## Fonti
+
+- Wikipedia italiana: voci *Reana del Rojale*, *Chiesa dei Santi Felice e Fortunato (Reana del Rojale)*, *Chiesa di Santa Maria Assunta (Qualso)*, *Chiesa di San Giuseppe e San Luigi*, *Chiesa di Santa Maria la Vecchia (Ribis)*, *Chiesa della Beata Vergine del Carmine (Ribis)*, *Chiesa di San Giacomo in Tavella*, *Chiesa dei Santi Rocco e Sebastiano (Rizzolo)*, *Provino Valle*, *Giacomo Secante*
+- BeWeB – Ufficio nazionale per i beni culturali ecclesiastici della CEI: schede edifici 68746, 68748
+- Chiese delle diocesi italiane – CEI: scheda edificio 68755, 68759
+- Diocesi di Udine – Annuario enti: Forania della Pedemontana, Ribis
+- *Friuli Venezia Giulia – Guida storico artistica naturalistica*, Bruno Fachin Editore, 2004, p. 222, ISBN 88-85289-69-X
+- Viaggio in Friuli-Venezia Giulia: [viaggioinfriuliveneziagiulia.it](http://www.viaggioinfriuliveneziagiulia.it)
+- Dizionario Biografico dei Friulani – voce *Provino Valle* (Istituto Pio Paschini)
+- Martina Lorenzoni, voce *Secante*, Dizionario Biografico degli Italiani, vol. 91, Treccani, 2018
 
 ---
 
@@ -16160,6 +18683,261 @@ Il terremoto del **6 maggio 1976** colpì San Daniele con minore violenza rispet
 - Gaberschek, Carlo, *Scultura in Friuli. Il Romanico*, 1981, p. 48.
 - Guida Rossa TCI, *Friuli-Venezia Giulia*, Milano, Touring Club Editore, 1999, p. 406. ISBN 88-365-1162-7.
 - AA.VV., *Friuli Venezia Giulia — Guida storico artistica naturalistica*, Trieste, Bruno Fachin Editore, 2004, p. 224. ISBN 88-85289-69-X.
+
+---
+
+## San Dorligo della Valle
+
+San Dorligo della Valle (in sloveno: *Občina Dolina*) è un piccolo comune della provincia di Trieste, ai confini con la Slovenia, nel cuore del Carso triestino. Il territorio, storicamente soggetto alla giurisdizione ecclesiastica diretta del vescovo di Trieste — che vi esercitava al contempo la signoria temporale attraverso il castello di Moccò — conserva un patrimonio religioso di straordinaria antichità. Dalla pieve matrice del XIII secolo, seconda per vetustà nell'intera diocesi tergestina, fino ai santuari di devozione popolare e alle cappelle secentesche disseminate nelle frazioni carsiche, il paesaggio religioso di San Dorligo rispecchia secoli di convivenza tra cultura latina e cultura slovena, tra la Chiesa di Roma e le comunità sloveno-carsiche che ne hanno nutrito la vita liturgica. La Seconda Guerra Mondiale e il riassestamento dei confini del 1947–1954 hanno ulteriormente modellato questo territorio: alcune parrocchie videro la propria chiesa madre restare al di là del confine jugoslavo e dovettero ricostituirsi sul versante italiano, lasciando tracce profonde nella topografia ecclesiastica locale.
+
+---
+
+### Chiesa Plebanale di Sant'Ulderico Vescovo e Confessore (Pieve Matrice)
+
+**Ubicazione:** San Dorligo della Valle / Dolina (capoluogo comunale), centro storico  
+**Denominazione slovena:** *Prafarna cerkev Svetega Urha škofa in spoznavalca*  
+**Tipologia:** Pieve Matrice / Chiesa parrocchiale principale  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°36′03.49″N 13°51′32.5″E
+
+**Epoca e stile architettonico:** La prima attestazione documentale risale al **1247**, quando un atto capitolare menziona il plebano Andrea; la pieve è considerata la seconda per antichità nell'intera Diocesi di Trieste, dopo la basilica di Muggia Vecchia. La struttura romanico-medievale fu distrutta nell'incendio appiccato dalle truppe veneziane durante la Guerra degli Uscocchi nel **1615** e ricostruita tra il **1626 e il 1724**, sotto il pievano Benco Fogarin vicario del vescovo. L'aspetto attuale è **barocco** (XVII–XVIII secolo) con interventi neoclassici nelle modifiche settecentesche; la pianta è rettangolare a navata unica con profonda abside pentagonale. Il completamento degli interni, inclusa l'affrescatura, avvenne nel **1877–1879** per volontà del decano cavalier Jurij Jan. Il campanile attuale, alto 26 m e distaccato dalla chiesa, fu costruito tra il 1790 e il 1792, colpito da un fulmine nel 1918 e interamente ricostruito nel **1953**.
+
+**Rilevanza storica:** La pieve rappresenta il nucleo attorno al quale si è formato l'intero abitato di Dolina. Già nel **1298** i documenti attestano la *Domus domini episcopi* nelle immediate vicinanze, confermando la coincidenza tra potere spirituale e temporale. Nel 1727, il catapano diocesano registrava 22 villaggi, oltre 40 chiese filiali e circa 5.000 anime sotto la sua giurisdizione; nel 1790 le chiese dipendenti erano salite a 42, distribuite su tutto il Carso triestino fino all'Istria. Nel **1763** l'imperatrice **Maria Teresa d'Austria** donò alla pieve un prezioso parato liturgico e un calice, testimonianza dell'attenzione della corona asburgica verso questo presidio di frontiera. La messa domenicale si celebra tuttora in **lingua slovena**, nel segno della continuità con la comunità di rito latino di lingua slava che ha sempre abitato queste terre.
+
+**Opere d'arte e arredi liturgici:**
+- **5 altari monumentali** del XVII e XVIII secolo in marmi policromi
+- **Pulpito sfarzoso in marmo**
+- **Fonte battesimale** del Seicento
+- **Affreschi interni del 1877**, commissionati dal decano cavalier Jurij Jan
+- **Presbiterio barocco** con antica cattedra vescovile, opera del **Tavčer d'Idria** (1877)
+- **Organo a canne** della ditta F. **Goršič di Lubiana** (1878)
+- **Statua lignea della Madonna della Pieve** (XIV secolo; una copia fu donata dall'Arcivescovo Giampaolo Crepaldi il 4 luglio 2022)
+- **Tre campane:** Sant'Ulderico (Do, 1952, fonderia Lucio Broili, Udine), San Martino (Mi, 1952, Broili), Vergine Maria (Sol, 1922, fonderia Francesco e Romeo Lapagna, Trieste)
+- **Orologio** della ditta Solari di Pesariis
+
+Il sagrato con le antiche mura di cinta — in parte ancora visibili — circoscriveva un *oppidum* (luogo parzialmente fortificato); vi era un cimitero già dal Quattrocento. Il "Passaggio del Nonzolo" è uno dei tre accessi storici, usato dal sacrestano della contigua "Casa del Nonzolo" (demolita nel 1833 per fare spazio all'edificio scolastico asburgico).
+
+**Sito web:** [www.diocesi.trieste.it](https://www.diocesi.trieste.it)
+
+---
+
+### Chiesa di San Giovanni Battista
+
+**Ubicazione:** Bagnoli della Rosandra / Boljunec  
+**Denominazione slovena:** *Cerkev Sv. Ivana Krstnika*  
+**Tipologia:** Chiesa parrocchiale  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°36′53.84″N 13°51′31.37″E
+
+**Epoca e stile architettonico:** L'iscrizione sulla facciata reca la data **1663**, collocando la costruzione nel pieno Seicento. L'edificio è notevole per conservare un **impianto basilicale a più navate**, caratteristica unica nel panorama delle chiese del Carso triestino, solitamente organizzate a navata unica.
+
+**Rilevanza storica:** Il paese di Bagnoli è menzionato in documenti fin dal **1276**. L'intitolazione a San Giovanni Battista è tradizionalmente collegata alla presenza di un bacino idrico utilizzato dall'acquedotto romano che serviva Tergeste: il rito battesimale per immersione avrebbe trovato in questo luogo una sede naturale. Nel **1852** il territorio divenne cappellania dipendente dalla Pieve di Sant'Ulderico; la parrocchia autonoma fu eretta il **27 settembre 1954** (riconoscimento civile con D.P. del 21 dicembre 1965 e Gazzetta Ufficiale del 18 gennaio 1987). Il territorio parrocchiale comprende Bagnoli/Boljunec, Mattonaia/Krmenka e Lacotišče. La chiesa filiale più importante è il **Santuario di Santa Maria in Siaris** nella Val Rosandra (vedi scheda successiva).
+
+**Fonti:** Wendy D'Ercole, *Aspetti dell'architettura a Bagnoli: la chiesa di San Giovanni*, SIASPT, 2000 (OCLC 887025484)
+
+---
+
+### Santuario di Santa Maria in Siaris (Marija na Pečah)
+
+**Ubicazione:** Riserva Naturale della Val Rosandra, territorio di San Dorligo della Valle; accessibile esclusivamente a piedi lungo il sentiero della valle  
+**Denominazione slovena:** *Cerkev Sv. Marije na Pečah* (Madonna sulle rocce)  
+**Tipologia:** Santuario / Cappella di pellegrinaggio; dipendente dalla parrocchia di San Giovanni Battista (Bagnoli della Rosandra)  
+**Coordinate:** 45°37′01.03″N 13°52′34.2″E
+
+**Epoca e stile architettonico:** L'edificio risale al **XIV secolo** o anche a epoca precedente. La data **1647** è incisa sull'architrave dell'entrata, a ricordo di un restauro e ampliamento seicentesco. La struttura è una cappella rupestre di modeste dimensioni, perfettamente inserita nel paesaggio carsico della val Rosandra, tra le pareti rocciose da cui deriva il nome sloveno.
+
+**Rilevanza storica:** Uno dei più antichi luoghi di pellegrinaggio del territorio triestino. Già nel **1330** lo statuto della **Confraternita del SS. Sacramento (dei Battuti)** di Trieste prevedeva, come penitenza per i bestemmiatori, il pellegrinaggio scalzo a questa chiesa, distante 12 km dal monastero della confraternita. Nel **1497** un testamento cita una vigna lasciata "ai monaci sulle rocce". La tradizione popolare vuole che **Carlo Magno** ne abbia ordinato la costruzione e che vi avrebbe voluto essere sepolto. Nei due secoli successivi al 1647 l'edificio fu più volte abbandonato e vandalizzato, data l'inaccessibilità del sito. Gli ultimi decenni hanno visto restauri privati e la ripresa della tradizionale **processione** lungo la Val Rosandra, che ogni anno richiama fedeli da tutta la provincia di Trieste e dalla Slovenia.
+
+**Scheda BeWeB (CEI):** [www.beweb.chiesacattolica.it/edificidiculto/edificio/44024](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/44024/)
+
+---
+
+### Chiesa di Sant'Antonio Abate (Prebenico)
+
+**Ubicazione:** Prebenico / Prebeneg  
+**Denominazione slovena:** *Cerkev svetega Antona puščavnika*  
+**Tipologia:** Chiesa filiale della Pieve Matrice di Sant'Ulderico (Dolina)  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°35′12.34″N 13°50′57.81″E
+
+**Epoca e stile architettonico:** La prima attestazione documentale risale all'**11 giugno 1444** (*ecclesia S. Antonio de Prebenicho*). L'edificio attuale fu probabilmente ricostruito o ampiamente ristrutturato nella seconda metà del XVII secolo; la **consacrazione** è documentata al **24 luglio 1672**. Lo stile è romanico-barocco rurale. L'elemento architettonico più caratteristico è l'**imponente campanile in pietra** eretto davanti alla facciata su un **portico quadrato aperto su tre lati** con ampie **arcate a tutto sesto**; la **cella campanaria** si affaccia su quattro fronti con **bifore**; a coronamento si erge un **tamburo esagonale** sormontato dalla **guglia**. La navata è unica con **abside poligonale**.
+
+**Rilevanza storica:** Come molti edifici di culto del Carso triestino, la chiesa fu devastata nell'incursione veneziana del **1615** (Guerra degli Uscocchi) e successivamente ricostruita. La sua posizione nella lista delle chiese filiali della Pieve di Dolina la conferma come presidio spirituale attivo sin dal Medioevo nel villaggio di Prebenico.
+
+**Opere d'arte e arredi liturgici:**
+- **Acquasantiera in pietra** datata 1695
+- **Pala dei Santi Filippo e Giacomo** (XVIII–XIX secolo)
+- **Statua dell'Angelo Custode**
+- **Statua di Santa Norburga**
+- **Statua di San Giuseppe con il Bambino**
+- **Altare maggiore** in stile **tardogotico** ornato da marmi policromi (probabilmente XVII secolo)
+- **Ancona** con nicchia contenente la statua di **Sant'Antonio Abate**
+- **Pala dell'Addolorata**
+
+**Scheda BeWeB (CEI):** [www.beweb.chiesacattolica.it/edificidiculto/edificio/44025](https://www.beweb.chiesacattolica.it/edificidiculto/edificio/44025/)  
+**Fonti:** Giuseppe Cuscito, *Le chiese di Trieste*, Edizioni Italo Svevo, 1992, pp. 99–100
+
+---
+
+### Santuario di San Giuseppe Sposo della Beata Vergine Maria
+
+**Ubicazione:** San Giuseppe della Chiusa / Ricmanje  
+**Denominazione slovena:** *Sv. Jožef Ženin B.D. Marije*  
+**Tipologia:** Chiesa parrocchiale e Santuario  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°37′34″N 13°50′27.4″E
+
+**Epoca e stile architettonico:** Il luogo è documentato come sito di culto fin dal **1645**, quando vi si consacra una chiesa intitolata a **San Giorgio Martire**. Nel **1693**, con approvazione di **papa Innocenzo XII**, fu costituita la **Confraternita in onore di San Giuseppe**. In seguito a un **fatto prodigioso avvenuto all'altare del Santo nel 1749**, la chiesa fu rededdicata a San Giuseppe Sposo della B.V. Maria ed elevata a **Santuario** nel 1750. La nuova chiesa attuale fu costruita tra il **1769 e il 1771** e consacrata nel **1771** dal vescovo **Antonio Herberstein**. Lo stile è **barocco settecentesco**; elemento architettonico di rilievo sono le **due torri campanarie** che fiancheggiano la facciata, caratteristica insolita nel panorama delle chiese rurali carsiche.
+
+**Rilevanza storica:** Nel **1778** l'edificio fu eretto a cappellania filiale della Pieve di Sant'Ulderico, e nel **1905** costituita in parrocchia autonoma. La chiesa è nota anche per un episodio ecclesiologico singolare: tra il **1900 e il 1909** la comunità parrocchiale fu protagonista di un movimento di separazione dalla Chiesa cattolica, che rientrò dopo complesse trattative. Il diritto di patronato — ovvero il diritto comunitario di designare il proprio parroco — riconosciuto alla comunità alla fondazione della parrocchia fu revocato dalla Santa Sede nel **1963**. I registri parrocchiali risalgono al 1778. Il territorio parrocchiale comprende San Giuseppe della Chiusa/Ricmanje, Log, Puglie/Polje e Domio/Domjo.
+
+**Chiese filiali:**
+- Chiesa di Sant'Orsola a Log (XVII secolo; vedi scheda)
+- Oratorio di San Leopoldo Bogdan Mandić a Domio/Domjo (inaugurato il 21 gennaio 1979)
+
+---
+
+### Chiesa di Sant'Antonio Abate (Sant'Antonio in Bosco)
+
+**Ubicazione:** Sant'Antonio in Bosco / Boršt  
+**Denominazione slovena:** *Sv. Anton puščavnik*  
+**Tipologia:** Chiesa parrocchiale  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°37′26.62″N 13°51′30.6″E
+
+**Epoca e stile architettonico:** Costruita tra il **1° luglio 1841 e il 1845**, consacrata nel **1847**. Lo stile è **neoclassico** (prima metà XIX secolo). La facciata a capanna è tripartita da quattro **lesene** che sorreggono il **timpano triangolare**; il portale centrale è sormontato da una **finestra semicircolare** e affiancato da due **nicchie**.
+
+**Rilevanza storica:** Una precedente chiesa del paese, dedicata a **Santa Maria** e consacrata nel **1636**, divenne chiesa cimiteriale nel XIX secolo a seguito della costruzione del nuovo edificio parrocchiale al centro del villaggio. Questa successione è esemplare del processo di trasformazione dell'insediamento rurale carsico nel periodo asburgico.
+
+**Chiese filiali:**
+- Chiesa di San Lorenzo a San Lorenzo/Jezero (XVII secolo)
+
+---
+
+### Chiesa di San Bartolomeo Apostolo (Caresana)
+
+**Ubicazione:** Caresana / Mačkolje  
+**Denominazione slovena:** *Sv. Jernej Apostol*  
+**Tipologia:** Chiesa parrocchiale  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°35′21.87″N 13°50′15.48″E  
+**Sito web:** [www.zupnijamackolje.eu](http://www.zupnijamackolje.eu/)
+
+**Epoca e stile architettonico:** Costruita nel **1652** come chiesa filiale della parrocchia di **San Tommaso di Ospo** (oggi Osek, Slovenia, parrocchia costituita intorno al 1600); consacrata l'**8 febbraio 1658** dal vescovo di Trieste **Antonio Marenzi**.
+
+**Rilevanza storica:** Il territorio di Caresana si trovava a cavallo tra i possedimenti della **Serenissima Repubblica Veneta** e della **Casa d'Austria**, il che conferisce all'edificio un interesse storico-diplomatico oltre che religioso. Il **25 luglio 1963** fu eretta la parrocchia, con territorio formato dalla parte rimasta nella diocesi di Trieste dopo il riassestamento dei confini del 1954 e da una porzione distaccata dalla pieve di Sant'Ulderico. Il riconoscimento civile avvenne con decreto n. 780 del 13 agosto 1964; l'attività parrocchiale indipendente iniziò il **1° ottobre 1969**. Il territorio parrocchiale comprende Caresana/Mačkolje, Crociata/Križpot e Monte d'Oro/Mont.
+
+---
+
+### Chiesa della Beata Vergine Immacolata (Pesek)
+
+**Ubicazione:** Pesek / Pese, lungo la SS 14 della Venezia Giulia  
+**Denominazione slovena:** *Blažena Marija Brezmadežna*  
+**Tipologia:** Chiesa parrocchiale (Parrocchia di San Tommaso Apostolo / *Sv. Tomaž Apostol*)  
+**Diocesi:** Trieste — Decanato di Opicina  
+**Coordinate:** 45°37′41.17″N 13°53′46.4″E
+
+**Epoca e stile architettonico:** Progettata dall'architetto **Vilko Čekuta** e costruita nel **1954**, in architettura religiosa degli anni Cinquanta del Novecento.
+
+**Rilevanza storica:** La parrocchia di San Tommaso di Grozzana risale al **1645**; la sua chiesa parrocchiale originale rimase in territorio jugoslavo dopo la Seconda Guerra Mondiale. A seguito del Memorandum di Londra (1954), la sede della parrocchia fu trasferita nella nuova chiesa di Pesek, costruita appositamente nell'anno stesso. La sede fu ufficialmente trasferita il **25 luglio 1963** (riconoscimento civile il 19 agosto 1964). L'originaria **chiesa di San Tommaso Apostolo a Grozzana** (in Slovenia) è entrata a fare parte della ricostituita **Diocesi di Koper/Capodistria** nel 1977. Il territorio parrocchiale comprende Grozzana/Gročana, Draga, Pesek e Bottazzo/Botač. **Nota:** Grozzana è l'abitato più elevato dell'intera Provincia di Trieste (494–510 m s.l.m.).
+
+---
+
+### Chiesa della Santissima Trinità (Crogole)
+
+**Ubicazione:** Crogole / Kroglje  
+**Denominazione slovena:** *Cerkev Svete Trojice*  
+**Tipologia:** Chiesa filiale della Pieve Matrice di Sant'Ulderico (Dolina)  
+**Diocesi:** Trieste
+
+**Epoca:** XVII secolo (secondo la lista delle chiese filiali della Pieve Matrice). Rientra nel gruppo delle piccole chiese rurali carsiche erette o ricostruite nel Seicento, dopo le devastazioni della Guerra degli Uscocchi del 1615.
+
+---
+
+### Chiesa di Sant'Orsola (Log)
+
+**Ubicazione:** Log (presso San Giuseppe della Chiusa / Ricmanje)  
+**Denominazione slovena:** *Cerkev sv. Uršule*  
+**Tipologia:** Chiesa filiale della parrocchia di San Giuseppe della Chiusa (Ricmanje)  
+**Diocesi:** Trieste
+
+**Epoca:** XVII secolo. La tradizione locale la definisce "la seicentesca chiesa di Sant'Orsola", collocandola nel contesto della ricostruzione post-1615 tipica del Carso triestino.
+
+---
+
+### Chiesa di San Lorenzo (San Lorenzo/Jezero)
+
+**Ubicazione:** San Lorenzo / Jezero  
+**Denominazione slovena:** *Cerkev sv. Lovrenca*  
+**Tipologia:** Chiesa filiale della parrocchia di Sant'Antonio Abate (Sant'Antonio in Bosco)  
+**Diocesi:** Trieste
+
+**Epoca:** XVII secolo. Il piccolo paese, citato nello statuto comunale come *San Lorenzo/Jezero*, conserva questa chiesa risalente al Seicento.
+
+---
+
+### Chiesa di San Martino (Brce/Berce)
+
+**Ubicazione:** Brce / Berce (presso Dolina, nel capoluogo)  
+**Denominazione slovena:** *Cerkev sv. Martina*  
+**Tipologia:** Chiesa filiale della Pieve Matrice di Sant'Ulderico (Dolina)
+
+**Rilevanza storica:** Menzionata nei documenti medievali come *"villa s. Martini"*, identificata in un atto del **1326** come *"sub S.ti Odorici ... c/o villa S. Martini"*. Il villaggio di *Sancti Martini* è uno degli abitati storici dell'antico distretto di Moccò, sotto il controllo dei vescovi-signori di Trieste. Il ricordo di questa intitolazione sopravvive nella **campana mezzana** del campanile della Pieve di Dolina (fusa nel 1952, dedicata a San Martino).
+
+---
+
+### Chiesa di Sant'Antonio Abate (Moccò/Zabrežec)
+
+**Ubicazione:** Moccò / Zabrežec  
+**Denominazione slovena:** *Cerkev sv. Antona — Moccò*  
+**Tipologia:** Cappella / Chiesa filiale della Pieve Matrice di Sant'Ulderico  
+**Diocesi:** Trieste
+
+**Rilevanza storica:** Il sito di Moccò è il centro storico-amministrativo dell'antico distretto vescovile di Trieste nel Carso. Il **Castello di Moccò** — fortezza medievale dei vescovi di Trieste — fu distrutto nel **1511**; nei secoli successivi i signori di San Servolo costruirono il **palazzo Fünfenberg** sulle sue rovine. La cappella di Sant'Antonio si inserisce in questo contesto di insediamento plurisecolare di straordinario interesse storico.
+
+---
+
+### Cappella Cimiteriale di Santa Maria (Sant'Antonio in Bosco)
+
+**Ubicazione:** Sant'Antonio in Bosco / Boršt  
+**Diocesi:** Trieste
+
+**Epoca e storia:** Consacrata nel **1636** come chiesa principale del paese, originariamente dedicata a Santa Maria. Con la costruzione della nuova parrocchiale neoclassica (1841–1847), fu declassata a **chiesa cimiteriale**, funzione che conserva tuttora. La sua sopravvivenza è la testimonianza materiale della stratificazione storica degli edifici di culto nelle comunità carsiche, dove la nuova chiesa è stata costruita senza demolire la precedente.
+
+---
+
+### Oratorio di San Leopoldo Bogdan Mandić (Domio)
+
+**Ubicazione:** Domio / Domjo (sotto la parrocchia di San Giuseppe della Chiusa / Ricmanje)  
+**Denominazione slovena:** *Oratorij sv. Leopolda Bogdana Mandića*  
+**Tipologia:** Oratorio / Luogo di culto comunitario  
+**Diocesi:** Trieste
+
+**Data di fondazione:** Inaugurato al culto e benedetto il **21 gennaio 1979** dal vescovo **Lorenzo Bellomi**. Intitolato a **San Leopoldo Bogdan Mandić** (1866–1942), frate cappuccino originario di Herceg Novi (Montenegro), canonizzato da Giovanni Paolo II nel 1983, che divenne simbolo della pastorale di riconciliazione per le comunità di lingua slovena dell'area adriatica.
+
+---
+
+### Chiese filiali storiche della Pieve (note dal solo nome)
+
+La Pieve Matrice di Dolina nel 1790 contava **42 chiese filiali** distribuite sull'intero Carso triestino. Alcune di quelle appartenenti al territorio dell'attuale comune di San Dorligo della Valle sono note attraverso gli elenchi storici ma non dispongono di documentazione architettonica dettagliata accessibile:
+
+- **Chiesa di Sant'Andrea** (*Cerkev sv. Andreja*) — Dolina (capoluogo)
+- **Chiesa di San Rocco** (*Cerkev sv. Roka*) — Monte di San Rocco (rilievo tra Bagnoli e Dolina)
+- **Chiesa di San Michele Arcangelo** (*Cerkev sv. Mihaela Nadangela*) — Bagnoli della Rosandra/Boljunec
+
+Per le schede complete di questi edifici, il riferimento specialistico è Giuseppe Cuscito, *Le chiese di Trieste*, Edizioni Italo Svevo, 1992.
+
+---
+
+## Fonti
+
+- **Cuscito, Giuseppe** — *Le chiese di Trieste*, Trieste: Edizioni Italo Svevo, 1992 (opera di riferimento fondamentale per tutte le chiese minori del territorio)
+- **D'Ercole, Wendy** — *Aspetti dell'architettura a Bagnoli: la chiesa di San Giovanni*, Società Istriana di Archeologia e Storia Patria (SIASPT), 2000 (OCLC 887025484)
+- **Gasparo, Dario** — *La Val Rosandra e l'ambiente circostante*, Trieste: Lint Editoriale, 2008 (ISBN 978-88-8190-240-8)
+- **Wikipedia IT** — Voci: *San Dorligo della Valle*, *Pieve Matrice di Sant'Ulderico*, *Chiesa di Santa Maria in Siaris*, *Chiesa di Sant'Antonio Abate (Prebenico)*, *Bagnoli della Rosandra*, *San Giuseppe della Chiusa*, *Sant'Antonio in Bosco*, *Caresana (Trieste)*, *Pesek*, *Val Rosandra*
+- **Diocesi di Trieste** — Schede parrocchiali (Decanato di Opicina / Decanato di prevalenza slovena): [www.diocesi.trieste.it](https://www.diocesi.trieste.it)
+- **BeWeB — Beni Ecclesiastici in Web (CEI)** — Edificio 44024 (S. Maria in Siaris) e 44025 (S. Antonio Abate, Prebenico): [www.beweb.chiesacattolica.it](https://www.beweb.chiesacattolica.it)
+- **Triestestoria (Archivio Diplomatico di Trieste)** — Fonti archivistiche medievali dal XIII secolo: [triestestoria.altervista.org/paesi/dolina.html](http://triestestoria.altervista.org/paesi/dolina.html)
 
 ---
 

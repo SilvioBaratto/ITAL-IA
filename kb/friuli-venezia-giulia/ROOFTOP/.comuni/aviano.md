@@ -1,0 +1,46 @@
+## Aviano
+
+Aviano è un comune pedemontano della ex provincia di Pordenone che si estende per oltre 113 km², dalle pianure veneto-friulane a poco più di 90 metri sul livello del mare fino alle vette del massiccio del Monte Cavallo, che tocca i 2.251 metri con Cima Manera. Questo straordinario dislivello rende il territorio avianese uno dei più ricchi di punti panoramici dell'intera regione Friuli Venezia Giulia: si passa dai belvedere collinari del borgo storico alle terrazze naturali delle Prealpi Carniche, offrendo scenari che spaziano dalla pianura friulana e veneta fino alle Dolomiti e, nelle giornate più limpide, fino all'Adriatico.
+
+### Belvedere del Castello di Aviano (frazione Castello)
+
+Arroccata su una collina a circa 200 metri sul livello del mare, la frazione di Castello conserva i resti dell'antico castello avianense edificato intorno all'XI secolo per volontà del Patriarcato di Aquileia. Del complesso medievale sopravvivono due torri, parte del mastio e una porzione della cinta muraria, all'interno della quale si trovano la Chiesa delle Sante Maria e Giuliana — eretta nel 1583 in stile rinascimentale — e alcune abitazioni storiche. L'area del castello, raggiungibile a piedi dal centro di Aviano lungo un breve sentiero in salita, offre un belvedere naturale sulla pianura circostante: verso sud si stende la pianura pordenonese sino ai primi profili del Veneto, verso est si intravedono i campanili di San Quirino e Roveredo in Piano, mentre verso ovest lo sguardo si perde nella campagna friulana. Il tramonto, quando il sole scende dietro i colli del Cansiglio, tinge di arancio e rosso l'intera piana sottostante. L'accesso all'area è **gratuito** e sempre aperto. L'orario migliore è il tardo pomeriggio, in particolare d'estate quando il sole tramonta tardi.
+
+### Santuario della Madonna del Monte
+
+Posto su un'altura boscosa a breve distanza dal centro di Aviano, il Santuario della Madonna del Monte fu edificato nel 1615 sul luogo di una presunta apparizione mariana avvenuta secondo la tradizione nel 1510, ed in seguito rimaneggiato in stile barocco. Il percorso devozionale che sale al santuario attraversa una vegetazione mista di querce e castagni e, una volta raggiunta la piccola spianata antistante la chiesa, rivela un panorama che abbraccia la pianura a sud e il colle del Castello verso nord-est. Pur trattandosi di un'altura modesta, la posizione sopraelevata rispetto al tessuto urbano di Aviano garantisce una prospettiva ariosa sulle campagne circostanti. La visita è **gratuita**; il santuario è particolarmente frequentato durante la festa patronale e nei mesi primaverili ed estivi. L'orario migliore per il panorama è la mattina presto, quando la pianura si presenta sgombra da foschia.
+
+### Terrazza panoramica del Colle di San Giorgio
+
+A circa 264 metri sul livello del mare, il Colle di San Giorgio è un'altura verde alla periferia di Aviano, nota anche per ospitare un esemplare monumentale di acero campestre (*Acer campestre*) con una circonferenza del fusto di oltre 6 metri, classificato tra gli alberi monumentali d'Italia. Il colle è raggiungibile percorrendo strade campestri dal centro del paese e offre una vista libera sulla pianura pordenonese a sud, con la sagoma del Monte San Floriano ad est e i profili delle Prealpi a nord. È un punto di osservazione **gratuito**, privo di strutture fisse ma apprezzato da camminatori e ciclisti locali. L'autunno, quando l'acero monumentale si tinge di giallo oro, è la stagione più suggestiva.
+
+### Pian delle More — Belvedere d'alta quota
+
+A 1.170 metri sul livello del mare, il Pian delle More è un ampio pianoro prativo tra i boschi del massiccio del Cavallo, nel territorio montano di Aviano. Vi si accede da Piancavallo attraverso sentieri segnalati del CAI (in particolare il sentiero n. 976 e le diramazioni verso le malghe). La piana è celebre anche per un faggio monumentale con una circonferenza del fusto di 470 cm, anch'esso censito nell'elenco nazionale degli alberi monumentali d'Italia. Dal bordo del pianoro si aprono panorami verso la pianura veneto-friulana a sud-est, con la città di Pordenone che si distingue nelle giornate limpide, e verso le cime delle Prealpi Carniche e Bellunesi a nord. L'accesso è **gratuito** ma richiede buon equipaggiamento escursionistico. Il periodo migliore va da giugno a ottobre; il tramonto estivo, con le luci radenti che illuminano i pascoli, è uno spettacolo memorabile.
+
+### Piancavallo — Terrazze panoramiche della stazione montana
+
+La frazione di Piancavallo, a 1.280 metri sul livello del mare in una conca del versante orientale del Monte Cavallo, è la principale destinazione turistica del comune di Aviano e rappresenta anche il suo più accessibile punto panoramico d'alta quota. Nata alla fine degli anni Sessanta come stazione sciistica — la prima in Italia a dotarsi di un sistema di innevamento artificiale — Piancavallo è oggi frequentata tutto l'anno. Il piazzale centrale della stazione, circondato da alberghi e chalet, costituisce già di per sé un ottimo belvedere: nelle giornate terse si spazia dalla pianura friulana fino all'Adriatico, con i campanili di Pordenone, Porcia e Fontanafredda ben visibili nella pianura. A est si aprono le vallate del Cellina e del Meduna. Il tramonto visto da Piancavallo, quando il sole scende dietro il Cansiglio e le Dolomiti d'Ampezzo si tingono di rosa, è uno degli spettacoli naturali più apprezzati di questa parte del Friuli. L'accesso alla località è **gratuito** e raggiungibile in auto tutto l'anno dalla SS 251; d'inverno potrebbe rendersi necessario l'uso di catene da neve.
+
+### Rifugio Semenza e area degli impianti di risalita
+
+Dai piedi delle piste di Piancavallo, gli impianti di risalita — funzionanti anche in estate su richiesta o durante eventi specifici — portano a quote comprese tra i 1.400 e i 1.600 metri, aprendo panorami ancora più ampi sul gruppo del Cavallo e sull'intero pedemonte friulano. In prossimità della stazione superiore della seggiovia si trovano aree attrezzate frequentate da escursionisti e famiglie. Il Rifugio Semenza (CAI Pordenone), posto in quota nell'area del massiccio del Cavallo raggiungibile da Piancavallo, è meta escursionistica con un panorama a 360° sulle Prealpi Carniche, le Dolomiti e la pianura. La frequentazione è stagionale, generalmente da giugno a settembre; il rifugio offre ristorazione con prodotti locali. **Pagamento** richiesto per consumazioni; il pernottamento è a pagamento. La mattina presto è il momento migliore per godere della visibilità massima prima che si formino le nubi di calore estive.
+
+### Vetta del Monte Cavallo — Cima Manera (2.251 m)
+
+La vetta principale del massiccio del Cavallo, denominata Cima Manera, è il punto più elevato del comune di Aviano e, con i suoi 2.251 metri, uno dei più alti dell'intera ex provincia di Pordenone. Raggiungibile a piedi da Piancavallo attraverso sentieri CAI (percorso impegnativo, circa 3–4 ore di cammino per escursionisti allenati), la cima offre uno dei panorami più vasti della regione: nelle giornate di massima limpidezza si riconoscono le principali vette delle Alpi Carniche e Giulie, le Dolomiti di Brenta, il Gruppo di Brenta, la pianura veneto-friulana fino alla laguna di Venezia e, verso est, la catena del Carso. Su una delle cime del Monte Cavallo è stata posta una **Madonna in bronzo**, opera dello scultore pordenonese Pierino Sam (1921–2010), che aggiunge un elemento spirituale alla già suggestiva veduta alpina. L'ascensione è **gratuita** ma richiede esperienza escursionistica, abbigliamento adeguato e attrezzatura per la montagna. Il periodo ideale va da luglio a settembre; il tramonto e l'alba in quota sono esperienze indimenticabili.
+
+### Ristoranti con vista a Piancavallo
+
+La stazione di Piancavallo conta diversi esercizi di ristorazione che abbinano la cucina friulana e montana a una piacevole prospettiva sulla pianura. Tra i più apprezzati vi sono i rifugi e i ristoranti direttamente affacciati sulla vallata, dove sedendosi in terrazza si gode una vista continua dalla pianura fino alle cime circostanti. I menù propongono tipicamente polenta con funghi, selvaggina, formaggi di malga e vini del Friuli. La maggior parte dei locali è aperta sia in stagione invernale sia estiva, con chiusura nei periodi di bassa stagione (generalmente novembre e parte di maggio). I prezzi sono nella norma della ristorazione montana italiana. La terrazza di questi locali è particolarmente piacevole nelle sere d'estate, quando il calar del sole sulla pianura trasforma l'orizzonte in uno spettacolo di colori caldi.
+
+---
+
+## Fonti
+
+- Wikipedia — *Aviano* (it.wikipedia.org/wiki/Aviano), consultato aprile 2026
+- Wikipedia — *Piancavallo* (it.wikipedia.org/wiki/Piancavallo), consultato aprile 2026
+- Wikipedia — *Monte Cavallo (Prealpi Bellunesi)* (it.wikipedia.org/wiki/Monte_Cavallo_(Prealpi_Bellunesi)), consultato aprile 2026
+- PromoTurismoFVG — *Aviano* (turismofvg.it/localita/aviano), consultato aprile 2026
+- Ministero delle Politiche Agricole Alimentari e Forestali — *Elenco degli alberi monumentali d'Italia* (aggiornamento 5.5.2021), alberi del comune di Aviano
+- Comune di Aviano — *Sito istituzionale* (comune.aviano.pn.it)

@@ -1,0 +1,99 @@
+## Trivignano Udinese
+
+Adagiato nella Bassa Friulana a soli 43 metri sul livello del mare, il comune di Trivignano Udinese (in friulano: *Trivignan*) conta poco più di 1.500 abitanti distribuiti su una superficie di 18,46 km² nella pianura a sud-est di Udine. È un territorio di bonifica antica, dove la geometria delle campagne irrigue si interrompe ogni tanto con la sagoma di un campanile, un muro di pietra grigia, un portale intagliato che tradisce secoli di civiltà contadina e signorile insieme. Il comune è composto dal capoluogo e da tre frazioni — Clauiano, Melarolo e Merlana — cui si aggiungono diverse località sparse (Casali Mantica, Casali Fornaciata, Dogana Vecchia, Casali Comugne-Marcotti, Località San Marco, Località San Michele). L'idioma friulano nella variante centro-orientale affiora ancora nelle conversazioni quotidiane e nei toponimi ufficiali, sanciti dal DPReg 016/2014. La comunità è iscritta all'Associazione Nazionale Città del Vino, segno di un legame profondo con la viticoltura che attraversa secoli di storia locale. Patrono del comune è san Teodoro, festeggiato il 9 novembre.
+
+### Il capoluogo: via Palma e il nucleo civico
+
+Il capoluogo di Trivignano Udinese si sviluppa attorno all'asse di via Palma, dove sorge la chiesa parrocchiale, e lungo le strade che convergono verso il municipio. L'impianto urbanistico è quello tipico dei centri rurali friulani di pianura: case strette e alte con il fronte sulla strada, corti interne nascoste da portoni arcuati, orti e rustici che si aprono verso i campi. Il centro non ha la compattezza monumentale di una città, ma possiede una quiete raccolta e un senso di continuità con il paesaggio agricolo circostante. Passeggiando tra le vie del capoluogo si coglie l'essenza della Bassa Friulana: cielo largo, filari di vite, il profilo piatto dell'orizzonte e, sullo sfondo, nelle giornate limpide, la catena delle Prealpi Carniche.
+
+### La Chiesa di San Teodoro: cuore religioso e artistico del comune
+
+La chiesa parrocchiale di San Teodoro, che si affaccia su via Palma, è il monumento più significativo del capoluogo e uno dei più importanti dell'intero comune. Le sue origini risalgono almeno al 1306, quando una prima chiesa sul sito fu incendiata durante gli scontri tra il conte di Gorizia e il patriarca di Aquileia. Ricostruita nel 1308 e consacrata dal patriarca di Aquileia Ottobuono di Razzi insieme a ben undici vescovi, l'edificio attuale fu invece eretto a partire dal 1639 e consacrato il 6 gennaio 1663 dal patriarca Giovanni Dolfin. La facciata è scandita da quattro paraste doriche in pietra che tripartiscono il prospetto, sormontate da una trabeazione aggettante e da un timpano con volute laterali — un lessico barocco di sobria eleganza provinciale. L'interno, a navata unica voltata a botte con quattro cappelle laterali, conserva opere di notevole valore: la pala della *Madonna con Bambino con i Santi Giacomo, Girolamo e Nicolò* dipinta da Giacomo Secante sul finire del Cinquecento, gli affreschi del soffitto della navata con la *Santa Maria Assunta* eseguiti nel 1783 da Domenico Molinari, la pala di *San Teodoro* sull'altare maggiore attribuita a Leonardo Carlevarijs (XVII secolo) e la statua marmorea della *Beata Vergine del Rosario* riferita a Enrico Merengo. Il campanile, rialzato nel 1836, domina il profilo del capoluogo con la sua siluette caratteristica.
+
+### La Chiesa di San Michele Arcangelo
+
+A breve distanza dalla parrocchiale principale si trova la chiesa di San Michele Arcangelo, che si inserisce nel tessuto religioso del capoluogo come secondo polo di devozione. La presenza di più edifici sacri in un comune piccolo come Trivignano Udinese riflette la stratificazione storica delle comunità rurali friulane, dove ogni quartiere o nucleo abitativo tendeva a dotarsi della propria cappella o chiesa, spesso legata a confraternite, corporazioni artigiane o famiglie nobili locali. La chiesa di San Michele rappresenta questa dimensione devozionale capillare, offrendo al visitatore attento la possibilità di leggere nel paesaggio sacro del comune la complessità della sua storia sociale.
+
+### Clauiano: il Borgo più bello d'Italia
+
+La frazione di Clauiano — *Clauian* in friulano standard, *Clovian* nella variante centro-orientale parlata localmente — è senza dubbio la perla dell'intero comune e uno dei luoghi più suggestivi della pianura friulana. Riconosciuta nel 2004 con l'ingresso nel prestigioso circuito dei *Borghi più belli d'Italia*, Clauiano è un borgo medievale di circa 450 abitanti che ha saputo conservare intatta la propria pianta storica attraverso secoli di trasformazioni. La prima citazione documentata risale al 1013, quando il patriarca Poppone, inaugurando la ricostruita basilica di Aquileia, menzionò Clauiano come territorio che passava sotto il controllo diretto del capitolo aquileiese. Dal 1420, con la caduta del Patriarcato, il borgo entrò nell'orbita della Serenissima, da cui provengono numerosi segni architettonici tuttora visibili. Camminando per le sue strade lastricate si ha la sensazione rara di attraversare un tempo sospeso: le pietre e i sassi (*piéris* e *clàps* in friulano) narrano ancora le necessità e le ambizioni di generazioni di contadini e signori di campagna.
+
+### Il nucleo medievale di Clauiano: portali, corti e strade lastricate
+
+Il nucleo più antico di Clauiano si concentra attorno alla chiesa di San Giorgio e lungo via Borgo San Martino. Qui gli edifici più antichi risalgono al XV secolo, mentre più numerose sono le costruzioni dei secoli XVII e XVIII che mostrano il tipo edilizio per eccellenza della pianura friulana: la fronte principale sulla strada, un portale in pietra bianca dall'arco elegante, e la corte interna — il cuore pulsante della vita domestica e produttiva. Ogni portale ha la sua grammatica: conci squadrati, chiave di volta lavorata, qualche volta una data incisa o uno stemma gentilizio. Le corti interne nascondono pozzi in pietra, vasche dell'acquaio, logge colonnate e, negli edifici più importanti, fienili e cantine che testimoniano l'economia mista di una comunità che viveva di vite, cereali, gelso e bachi da seta. Passeggiare a piedi per il borgo, percorrendo vicoli stretti e affacciandosi sui portoni socchiusi, è un'esperienza che non richiede guide né musei: il borgo stesso è il museo.
+
+### Casa Gardellini: la dimora più antica del borgo
+
+Casa Gardellini è considerata il più antico edificio civile di Clauiano, risalente al XV secolo. Sulla facciata si conserva una caratteristica decorazione bianca e rossa con motivi a losanga, rara testimonianza dell'ornamentazione medievale applicata all'architettura rurale friulana. La casa rappresenta il punto di partenza ideale per qualsiasi visita al borgo: osservandola si comprende come l'architettura contadina friulana riuscisse, anche in un piccolo borgo di campagna, a esprimere dignità estetica e cura del dettaglio.
+
+### Villa Ariis: l'eleganza veneto-friulana del Settecento
+
+Villa Ariis è il complesso padronale di maggior respiro architettonico a Clauiano, tipico esempio dell'edilizia nobiliare veneto-friulana del XVIII secolo. È composta dall'abitazione principale, dai rustici annessi e da un grande orto recintato da una muraglia merlata con due colonne in pietra — un'articolazione che ricorda la struttura delle ville venete della terraferma. La facciata presenta un portale in pietra sormontato da una bifora e, sopra, il Leone di San Marco, simbolo dell'appartenenza alla Serenissima. Due patere in pietra ai lati del primo piano sono interpretate dagli studiosi come relitti di antiche libagioni propiziatori, tracce di un sincretismo religioso che sopravvive nella pietra. La villa è ancora oggi una dimora privata di notevole fascino.
+
+### Casa Palladini: la corte friulana integra
+
+Il complesso di casa Palladini rappresenta uno degli esempi meglio conservati di corte friulana del XVIII secolo nel territorio del comune. Disposta su una pianta a forma di Z su due corti, la struttura comprende abitazioni, rustici e la casa padronale, con tutti gli elementi originari ancora integri. Tra i dettagli più preziosi: il tipico fogolâr (*focolare*) con cappa e camino nelle forme venete, il colonnato della loggia, la meridiana sulla facciata principale, la colonna in pietra che regge il portico davanti alla stalla, le vasche in pietra dell'acquaio nelle corti e i caminetti del granaio — ambienti che servivano per riscaldare le stanze dove si allevavano i bachi da seta, attività un tempo fondamentale per l'economia locale. Ogni angolo di casa Palladini racconta un aspetto preciso della vita rurale friulana del Settecento.
+
+### Casa Bellotto e il Complesso Bosco: architetture di fine Settecento
+
+Casa Bellotto, datata 1791, si distingue per la facciata con muratura a vista e il portale centrale ad arco con conci in pietra lavorate, esempio di edilizia civile di buon livello a cavallo tra Sette e Ottocento. Poco distante, il complesso padronale Bosco ha assunto le forme attuali nel XVIII secolo ma conserva sulla facciata dei fabbricati rustici scritte e decorazioni geometriche risalenti al XVI secolo, segno di una continuità d'uso dell'area produttiva attraverso le epoche. I rustici erano destinati alla produzione e alla conservazione del vino, del tabacco, delle granaglie e all'allevamento del baco da seta — attività che in parte sopravvivono ancora oggi, in particolare la viticoltura.
+
+### Villa Manin di Clauiano: la presenza nobiliare veneziana
+
+Tra le dimore signorili di Clauiano spicca Villa Manin, pregevole residenza nobiliare settecentesca della pianura friulana appartenuta a uno dei più importanti casati della Serenissima — la stessa famiglia che possedeva la sontuosa villa di Passariano (oggi sede di importanti mostre d'arte). La villa clauianese era un grande centro produttivo, come rivelano i fabbricati rurali circostanti e soprattutto il *foledôr* — l'enorme tinaia a lato dell'abitazione padronale. La villa di forme classiche è preceduta da una corte d'onore. Insieme ad altre residenze del borgo (casa Menotti, casa de Checo, casa Marcuzzi Zanuttini, casa Zof Piano), i cui splendidi portali e le finestre riquadrate in pietra confermano la dignità del luogo, Villa Manin testimonia come Clauiano fosse nel Settecento un borgo ricco e vitale, capace di attirare le famiglie più in vista della nobiltà friulana e veneziana.
+
+### Casa Foffani: il palazzotto dell'Ottocento
+
+Casa Foffani rappresenta la variante ottocentesca del palazzo urbano friulano, con soffitti arricchiti da stucchi settecenteschi — evidentemente riutilizzati o copiati da modelli del secolo precedente. I fabbricati rustici annessi, come nel resto del borgo, erano destinati alla produzione e conservazione del vino, del tabacco e delle granaglie, con ambienti specifici per il commercio dei prodotti agricoli. La casa è un bel documento dell'attività borghese nel borgo nel periodo post-napoleonico.
+
+### La Chiesa di San Giorgio Martire a Clauiano
+
+La chiesa parrocchiale di Clauiano, dedicata a San Giorgio Martire, è stata consacrata il 23 giugno 1767 come ricorda un'iscrizione su lapide, ma le sue radici sono più antiche: nell'alto Medioevo a Clauiano esistevano due chiese, dedicate a San Martino e a San Giorgio; dopo la demolizione della prima, la chiesa di San Giorgio divenne il fulcro comunitario del borgo, il luogo dove ci si riuniva per dirimere le questioni pubbliche. Nella facciata a capanna, scandita da quattro lesene tuscaniche, domina il portale architravato con sopra un oculo contenente un rilievo del *Padreterno*; il campanile con cupolino in rame emerge sopra il prospetto principale. L'interno a navata unica conserva opere di rilievo: il prezioso fonte battesimale cinquecentesco scolpito da Carlo da Carona, l'altare maggiore di Pasquale Lazzarin del XVII secolo, le pale del *Crocifisso tra i Santi* e di *San Giorgio e il drago*, nonché il dipinto dell'*Adorazione dei Magi* attribuito al pittore carnico Osvaldo Gortanutti. La chiesa fu restaurata dopo il terremoto del Friuli del 1976.
+
+### La Chiesa di San Marco: gli affreschi trecenteschi nella quiete della campagna
+
+Poco fuori dal nucleo edificato di Clauiano, appartata tra i campi, sorge la piccola chiesa di San Marco. Di origini trecentesche ma ampiamente rimaneggiata nel XVI secolo, è composta da un'aula rettangolare con abside semicircolare. Al suo interno, affiorano tracce di affreschi della prima metà del XV secolo di grande interesse storico-devozionale: Apostoli benedicenti, la Madonna in trono col Bambino, simboli degli evangelisti, un albero della vita. Sono immagini ingenue e potenti di un mondo contadino che affidava alle pareti della chiesa il proprio senso del sacro e della comunità. Raggiungere questa cappella campestre è un piccolo atto di scoperta: si cammina tra i filari e le siepi della campagna friulana fino a trovare, quasi nascosta, questa silenziosa testimonianza di fede medievale. La storia documentata della chiesa è antica: già nei primi secoli del Cristianesimo nell'area sorse una chiesa dedicata a San Marco, che nel 1077 divenne sede plebanale prima che tale funzione passasse alla chiesa di Trivignano.
+
+### Melarolo: la frazione agricola con la chiesa di San Bartolomeo
+
+La frazione di Melarolo si inserisce nel mosaico del comune come nucleo prevalentemente agricolo, caratterizzato dal tipico paesaggio della Bassa Friulana: orti, campi coltivati, case rurali con corti chiuse e rustici. Il cuore spirituale della frazione è la chiesa di San Bartolomeo Apostolo, che segna il ritmo delle stagioni con le proprie celebrazioni. Il nome stesso della frazione evoca un passato rurale e medievale. Melarolo è lambita dalla via che porta a Clauiano e a Merlana, inserita nella rete di piccole strade campestri che collegano le frazioni del comune in un sistema di relazioni di vicinato antico.
+
+### Merlana: la piccola frazione con la chiesa neoclassica
+
+Merlana (*Merlane* in friulano) è la più piccola delle frazioni di Trivignano Udinese, con poco più di 140 abitanti distribuiti in circa 50 edifici. Posta a 46 m slm, dista 2,53 km in linea d'aria dal capoluogo e 1,46 km da Clauiano. Il nucleo è dominato dalla chiesa di Santa Caterina, edificata in stile neoclassico accanto a un campanile più antico a pianta quadrata — l'accostamento di linguaggi architettonici diversi che si incontra spesso nell'edilizia religiosa rurale friulana, dove il campanile medievale sopravvive alla ricostruzione della chiesa in forme più moderne. La patrona è Santa Caterina, festeggiata il 25 novembre. La piccola dimensione di Merlana non ne sminuisce il carattere: è un borgo raccolto, dove le case si stringono attorno alla chiesa in un abbraccio protettivo, tipico dei nuclei rurali della pianura.
+
+### Dogana Vecchia: un toponimo che racconta di confini e commerci
+
+Tra le località sparse del comune, Dogana Vecchia è forse quella più evocativa dal punto di vista storico. Il nome rimanda a un antico punto di controllo e riscossione dei dazi, probabilmente collocato lungo una delle vie di comunicazione che attraversavano il territorio in epoca medievale o moderna. In una regione di confine come il Friuli — terra di passaggio tra il mondo latino, quello slavo e quello germanico — le dogane erano luoghi cruciali di incontro, scambio e a volte conflitto. Oggi rimane solo il nome a testimoniare questa funzione, mentre il paesaggio agricolo circostante ha cancellato ogni struttura materiale, lasciando alla toponomastica il compito di conservare la memoria.
+
+### Casali Mantica e Casali Fornaciata: le corti coloniche della pianura
+
+Le località Casali Mantica e Casali Fornaciata appartengono alla tipologia delle corti coloniche sparse, strutture produttive agricole che punteggiavano la pianura friulana prima della grande trasformazione del Novecento. Il termine *casali* indica un insieme di edifici agricoli legati a una stessa proprietà o comunità di lavoro: fienili, stalle, granai, abitazioni del colono e spesso la casa del proprietario o fattore. Casali Mantica richiama un cognome di tradizione friulana, mentre Fornaciata evoca probabilmente la presenza di una fornace per la produzione di laterizi — elemento fondamentale in una pianura ricca di argilla e povera di pietra da taglio. Queste locality, oggi spesso ridotte a pochi edifici rurali, custodiscono i segni di un'economia agraria che ha plasmato il paesaggio della Bassa per secoli.
+
+### Casali Comugne-Marcotti e Località San Michele: le propaggini del territorio
+
+I Casali Comugne-Marcotti e la Località San Michele completano il quadro delle aree abitate del comune. Comugne — dal latino *communia*, terre comuni — rimanda a un'organizzazione collettiva dell'uso del suolo, con pascoli e incolti gestiti dalla comunità dei villaggio, istituzione medievale sopravvissuta in molti luoghi del Friuli fino all'Ottocento. La Località San Michele, con la propria chiesa omonima, è l'ennesima testimonianza di come il sacro fosse distribuito capillarmente sul territorio, con piccole cappelle e oratori che marchiavano ogni crocevia e ogni nucleo di case, trasformando il paesaggio agricolo in un paesaggio devo­zionale continuo.
+
+### La cultura del vino: Trivignano Udinese e le Città del Vino
+
+L'appartenenza di Trivignano Udinese all'Associazione Nazionale Città del Vino non è un dato burocratico ma riflette una vocazione produttiva radicata. La pianura friulana a sud di Udine, pur non avendo la fama delle colline del Collio o dei Colli Orientali, è terra di viticoltura antica: i rustici dei borghi di Clauiano, Melarolo e del capoluogo conservano ancora le cantine e le tinaie — i *foledôr* — dove il vino veniva prodotto e custodito. Villa Manin di Clauiano ne è l'esempio più eloquente, con il suo enorme foledôr che testimonia produzioni su scala signorile. Oggi i vigneti si alternano ai campi di mais e soia nel paesaggio della Bassa, e la tradizione vitivinicola sopravvive in alcune aziende agricole locali che mantengono vivo il legame tra questo lembo di pianura e la cultura del vino friulano.
+
+### Il friulano centro-orientale: l'identità linguistica del comune
+
+Una nota di carattere culturale e identitario merita la questione linguistica. Trivignano Udinese è inserito nell'ambito territoriale di tutela della lingua friulana ai sensi della legge 482/99 e delle leggi regionali 15/96 e 29/2007. La variante parlata qui appartiene al friulano centro-orientale, distinguendosi per alcune specificità fonetiche rispetto al friulano standard: lo stesso nome di Clauiano diventa *Clovian* nella parlata locale, mentre il comune si dice *Trivignan*. Questa sopravvivenza della lingua regionale in un piccolo comune di pianura, a pochi chilometri da Udine, è un fatto culturalmente significativo: testimonia la resistenza delle identità locali di fronte all'omologazione linguistica e la vitalità di una comunità che ha scelto di valorizzare il proprio patrimonio immateriale attraverso il riconoscimento ufficiale della toponomastica friulana.
+
+---
+
+## Fonti
+
+- Wikipedia, *Trivignano Udinese*, it.wikipedia.org
+- Wikipedia, *Clauiano*, it.wikipedia.org
+- Wikipedia, *Merlana*, it.wikipedia.org
+- Wikipedia, *Chiesa di San Teodoro (Trivignano Udinese)*, it.wikipedia.org
+- Wikipedia, *Chiesa di San Giorgio Martire (Trivignano Udinese)*, it.wikipedia.org
+- *I borghi più belli d'Italia — Clauiano*, borghipiubelliditalia.it
+- Manuela Alessandris et al., *Piéris e clàps. Itinerario artistico nel borgo di Clauiano*, Comune di Trivignano Udinese, 1999
+- Aa.Vv., *Trivignano Udinese e la sua storia. Caratteri di una comunità della Bassa Friulana*, Comune di Trivignano Udinese, 2003
+- ARLEF, *Toponomastica ufficiale in lingua friulana (DPReg 016/2014)*, arlef.it
+- Conferenza Episcopale Italiana, *Le chiese delle diocesi italiane*, chieseitaliane.chiesacattolica.it
+- Arcidiocesi di Udine, *Forania del Friuli Centrale*, diocesiudine.it

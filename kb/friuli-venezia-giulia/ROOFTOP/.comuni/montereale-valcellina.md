@@ -1,0 +1,53 @@
+## Montereale Valcellina
+
+Montereale Valcellina (in friulano *Montreâl*) è un comune di circa 4.200 abitanti nella provincia di Pordenone, posto a 317 metri sul livello del mare su un terrazzo alluvionale stretto fra il torrente Cellina, il Monte Fara, il Monte Castelo e il Monte Spia. Costituisce la porta della spettacolare Valcellina, un canyon scavato dal torrente Cellina nelle rocce calcaree delle Prealpi Carniche. Il territorio comunale copre un'escursione altimetrica notevole — dai 170 ai 1.641 metri — che genera una varietà di scenari panoramici straordinaria. Il comune comprende il capoluogo e le frazioni di Grizzo, Malnisio e San Leonardo, oltre alle borgate di Borgo Alzetta, Cao Malnisio, Castelu e San Rocco. Non esistono rooftop bar né terrazze panoramiche commerciali, ma i monti, i torrioni calcarei e i belvedere naturali offrono punti di vista di eccezionale qualità.
+
+### Ruderi del Castrum Montis Regalis — Belvedere sul terrazzo di Montereale
+
+Sopra il capoluogo si conservano i ruderi del castello medievale, noto come *Castrum Montis Regalis*, posti su uno sperone che domina l'intero terrazzo alluvionale di Montereale. La posizione è stata scelta proprio per il controllo visivo sull'imbocco della Valcellina e sulla pianura pordenonese a sud. Da qui lo sguardo spazia sul fondovalle del Cellina incassato fra pareti calcaree, sui tetti del capoluogo sottostante e, nelle giornate terse, verso la pianura friulana fino all'orizzonte. Il sito è documentato nell'Archeocarta del Friuli Venezia Giulia e l'accesso è libero. Raggiungibile a piedi dal centro storico con una breve salita. Gratuito. La luce del tardo pomeriggio, con il sole che illumina le pareti rocciose della stretta del Cellina a ovest, regala il momento visivamente più intenso.
+
+### Monte Spia — Il guardiano della Valcellina
+
+Il Monte Spia (circa 1.000 m) è una delle cime che chiudono il comune di Montereale a nord, affacciata direttamente sulla stretta del torrente Cellina. Il nome stesso — "spia" — richiama la funzione di osservazione del rilievo: da questa altura si controlla l'intero ingresso della gola calcarea. Il panorama abbraccia l'imbocco della Valcellina, i versanti boscosi delle Prealpi Carniche, il pianoro di Montereale e, nelle giornate limpide, la pianura fino alle propaggini della Laguna di Venezia. Il percorso è escursionistico, parte dalla viabilità del capoluogo e risale i versanti nord del comune. Nessuna struttura in quota; portare acqua e cibo. Accesso gratuito. Il momento migliore è la mattina presto in primavera e autunno, quando la foschia si dirada e le cime assumono colori vividi.
+
+### Monte Fara — Panorama sulla pianura pordenonese
+
+Il Monte Fara è uno dei rilievi che delimitano il comune di Montereale a est, posto a ridosso del confine con Aviano. Il versante meridionale guarda verso la pianura pordenonese con un panorama aperto e vasto sulla campagna friulana, dove emergono il profilo del Friuli collinare e, nelle giornate terse, il campanile di Pordenone. Il versante settentrionale si affaccia invece sul canyon del Cellina, creando un contrasto visivo notevole tra le pianure agricole a valle e le pareti rocciose delle gole a monte. Il percorso di accesso è escursionistico; non ci sono strutture di accoglienza. L'accesso è gratuito. Il tramonto offre la prospettiva più bella, quando la pianura si tinge di rosa e i monti a nord si sagomano contro il cielo.
+
+### Stretta del Cellina — Belvedere naturale sulla gola
+
+La *Stretta del Cellina* è il cuore naturale del territorio di Montereale Valcellina: un canyon spettacolare in cui il torrente Cellina ha inciso nei secoli una gola profonda nelle rocce calcaree delle Prealpi Carniche. La strada che risale la gola verso Barcis — un percorso pedonale e ciclabile in larga parte, chiuso alle auto in determinati tratti — è costellata di belvedere naturali affacciati sulle pareti verticali di roccia bianca, sul nastro verde-azzurro del torrente e sul bosco fitto che riveste i versanti. In primavera, con la neve sciolta che alimenta la portata del Cellina, l'acqua assume colori turchese di grande bellezza. La stretta è area di tutela ambientale. L'accesso è libero e gratuito. I belvedere migliori si trovano nei pressi della strettoia principale, a pochi chilometri a nord del capoluogo; l'ora del tramonto, con la luce che filtra lateralmente nel canyon, è quella più suggestiva.
+
+### Osservatorio Astronomico di Grizzo — Vista su monti e cielo stellato
+
+Nella frazione di Grizzo, a pochi chilometri dal capoluogo, si trova l'Osservatorio Astronomico di Grizzo, gestito dal *Gruppo Ricerche Chei del Talpa*. Situato in posizione rialzata rispetto alla pianura, lontano dall'inquinamento luminoso della costa adriatica, l'osservatorio offre un doppio tipo di panorama: diurno, sulla campagna pordenonese e sulle Prealpi circostanti; notturno, su un cielo di qualità eccezionale per il Friuli occidentale. Le attività di divulgazione astronomica sono periodicamente aperte al pubblico; per informazioni e orari di apertura si consiglia di contattare direttamente il gruppo. La visita serale consente di abbinare la fruizione del paesaggio prealpino al tramonto con l'osservazione delle stelle subito dopo il crepuscolo. Accesso generalmente gratuito nelle serate pubbliche.
+
+### Chiesa di Santa Maria Assunta — Sagrato e veduta sul capoluogo
+
+La chiesa parrocchiale neoclassica di Santa Maria Assunta, risalente al XVIII secolo, è il fulcro visivo del capoluogo di Montereale. La facciata principale e il sagrato rialzato offrono già di per sé un affaccio sul tessuto storico del paese e sui monti che lo circondano. Il campanile, per quanto non aperto al pubblico in modo continuativo, costituisce il punto più elevato del centro storico e svetta visibile da tutta la pianura sottostante. Dal sagrato si gode una veduta sull'intreccio di tetti in pietra e intonaco del borgo medievale e sulle cime prealpine che lo chiudono a nord. Accesso libero e gratuito. Contattare la parrocchia per informazioni su eventuali aperture della torre campanaria.
+
+### Borgata di San Leonardo — Belvedere sulla Valcellina superiore
+
+La frazione di San Leonardo è situata in posizione leggermente sopraelevata rispetto al fondovalle, affacciata sulla parte alta della Valcellina. Dal piccolo nucleo si apre una veduta particolarmente intensa sull'intreccio di valli e crinali delle Prealpi Carniche, con il Monte Fara a est e le creste che separano il comune di Montereale da quelli di Andreis e Barcis a nord. La borgata custodisce l'Oratorio dello Spirito Santo, un piccolo edificio sacro che aggiunge interesse culturale alla visita. L'atmosfera del luogo, con poche case in sasso e orti familiari, è quella tipica dei borghi pedemontani friulani rimasti quasi immutati. Accesso libero e gratuito. Il momento migliore è il tardo mattino, quando la luce illumina frontalmente i versanti rocciosi del fondovalle.
+
+### Centrale Idroelettrica "A. Pitter" di Malnisio — Vista industriale sul Cellina
+
+La Centrale Idroelettrica Antonio Pitter a Malnisio (frazione di Montereale Valcellina) non è propriamente un belvedere panoramico tradizionale, ma la sua posizione sul corso del torrente Cellina e l'imponenza architettonica dell'edificio — un palazzo di architettura liberty con condotte forzate sul versante — creano un'ambientazione di grande impatto visivo. Il complesso fu costruito tra il 1900 e il 1905, divenne il primo impianto trifase d'Italia e la seconda centrale al mondo per potenza installata; la linea elettrica che da qui raggiungeva Venezia era la più lunga del mondo. Oggi è aperta come sede museale. Dalle aree esterne, lungo le condotte forzate e il canale di alimentazione che scende dal Cellina, si godono viste panoramiche sul versante montano e sulla gola del torrente. Orari di visita variabili; contattare il Comune di Montereale per informazioni. A pagamento per la visita interna; le aree esterne sono liberamente accessibili.
+
+### Grizzo — Balcone sulle Prealpi Carniche
+
+La frazione di Grizzo, posta su un terrazzo alluvionale a quota leggermente superiore rispetto al capoluogo, è uno dei punti panoramici naturali più accessibili del comune. La posizione intermedia tra la pianura pordenonese a sud e le prime creste prealpie a nord consente di godere di un panorama a tutto tondo: da un lato la pianura aperta fino a Pordenone e Spilimbergo, dall'altro le pareti calcaree che delimitano la Valcellina, le creste boscose del Monte Fara e del Monte Spia e, nelle giornate limpide, il profilo delle Dolomiti Friulane a nord-est. Grizzo ospita anche la chiesa parrocchiale di San Bartolomeo e la Chiesa della Fradese (XIV secolo), che aggiungono interesse storico alla visita. Accesso libero e gratuito. Il tramonto, quando la pianura si stende in ombra e i monti si accendono di luce rossastra, è il momento più bello.
+
+### Terrazzo alluvionale di Montereale — Vista a volo d'uccello dalla pedemontana
+
+L'intero terrazzo alluvionale su cui sorge il capoluogo di Montereale Valcellina è di per sé un punto panoramico di grande qualità. Posto sospeso tra la pianura pordenonese e l'imbocco della Valcellina, il terrazzo offre una prospettiva rara: da un lato il pianoro agricolo del Friuli occidentale si stende piatto fino all'orizzonte con le cime del Cansiglio e dei Colli Euganei (nelle giornate eccezionali) sullo sfondo; dall'altro la Valcellina si apre improvvisamente come una porta verso l'alto, con le pareti calcaree che si innalzano verticali. I bordi del terrazzo — percorribili a piedi lungo le strade comunali — sono i punti migliori per cogliere questo doppio paesaggio. Gratuito. Il mattino presto in autunno, con la nebbia che avvolge la pianura e la Valcellina che emerge al sole, crea effetti di luce indimenticabili.
+
+---
+
+## Fonti
+
+- Wikipedia — *Montereale Valcellina*, [https://it.wikipedia.org/wiki/Montereale_Valcellina](https://it.wikipedia.org/wiki/Montereale_Valcellina)
+- Wikipedia — *Centrale idroelettrica Antonio Pitter*, [https://it.wikipedia.org/wiki/Centrale_idroelettrica_Antonio_Pitter](https://it.wikipedia.org/wiki/Centrale_idroelettrica_Antonio_Pitter)
+- Turismo FVG — *Montereale Valcellina*, [https://www.turismofvg.it/localita/montereale-valcellina](https://www.turismofvg.it/localita/montereale-valcellina)
+- Archeocarta FVG — *Montereale Valcellina, Castello medievale*, [https://www.archeocartafvg.it/portfolio-articoli/montereale-valcellina-pn-castello-medievale/](https://www.archeocartafvg.it/portfolio-articoli/montereale-valcellina-pn-castello-medievale/)
+- Comune di Montereale Valcellina — sito istituzionale, [https://www.comune.monterealevalcellina.pn.it](https://www.comune.monterealevalcellina.pn.it)

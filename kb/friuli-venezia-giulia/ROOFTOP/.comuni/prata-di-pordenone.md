@@ -1,0 +1,46 @@
+## Prata di Pordenone
+
+Prata di Pordenone (PN) è un comune di circa 8.300 abitanti situato nella pianura friulano-veneta, a 18 metri sul livello del mare, al confine con la provincia di Treviso. Il territorio è interamente pianeggiante: non esistono colline, terrazze naturali o belvedere classici come quelli che si trovano nelle zone prealpine o costiere del Friuli Venezia Giulia. Ciononostante, la posizione geografica del comune — al crocevia tra la pianura veneta e il Friuli occidentale, con le Prealpi Carniche e le Dolomiti Friulane visibili all'orizzonte nelle giornate limpide — offre scorci di grande respiro visivo. I punti di osservazione privilegiati sono i campanili delle chiese parrocchiali, alcuni angoli fluviali nella frazione di Ghirano e i giardini storici di Villa Brunetta. Di seguito una rassegna di tutto ciò che il territorio comunale offre dal punto di vista panoramico.
+
+### Campanile della Chiesa di Santa Lucia (capoluogo)
+
+Il campanile della chiesa parrocchiale di Santa Lucia, nel cuore del capoluogo di Prata di Sotto, è la struttura più alta del comune. La chiesa, ampliata nel 1772 con facciata neoclassica scandita da quattro semicolonne ioniche, è affiancata da un solido campanile che svetta sopra i tetti del paese. Dalle altezze del campanile — in passato accessibile per le operazioni di manutenzione delle campane — si apre uno sguardo a 360° sulla pianura friulano-veneta: verso nord-ovest si intravedono le prime propaggini delle Prealpi Carniche, verso est la campagna si distende fino ai margini dell'alta pianura pordenonese, mentre verso sud il territorio si fonde con la pianura veneta trevigiana. Il campanile non è regolarmente aperto al pubblico; eventuali aperture straordinarie sono organizzate in occasione di feste patronali (13 dicembre, giorno di Santa Lucia) o iniziative culturali del comune. L'accesso è gratuito quando disponibile. Il momento migliore per salire è la mattina presto o nelle serate autunnali, quando la visibilità è massima e le cime dolomitiche si stagliano con nitidezza.
+
+### Campanile della Chiesa dei Santi Pietro e Paolo — Ghirano
+
+Nella frazione di Ghirano, posta alla confluenza dei fiumi Meduna e Livenza (15 m s.l.m.), il campanile della chiesa parrocchiale dei Santi Pietro e Paolo — edificata tra il 1797 e il 1846 — è uno dei punti elevati più caratteristici del territorio meridionale del comune. Anche in questo caso, l'eventuale accesso al campanile è limitato a occasioni speciali organizzate dalla parrocchia, ma il semplice esterno dell'edificio e il sagrato offrono già una prospettiva visiva interessante: la piatta campagna circostante si apre liberamente verso il cielo, e nelle giornate terse è possibile scorgere le vette delle Prealpi Carniche a nord. L'ora del tramonto, quando la luce radente colora i campi coltivati e i filari di vite o mais tipici di questa zona, regala effetti cromatici di notevole bellezza. Accesso gratuito allo spazio esterno; visite al campanile su richiesta alla parrocchia.
+
+### Confluenza Meduna–Livenza, Ghirano
+
+La frazione di Ghirano deve la sua esistenza e il suo nome alla posizione strategica alla confluenza tra il fiume Meduna e il fiume Livenza. Questo angolo fluviale, documentato già nel X secolo, costituisce uno dei punti di osservazione naturale più suggestivi dell'intero territorio comunale. Dal bordo degli argini — accessibili a piedi o in bicicletta — si gode di una veduta ampia sul doppio corso d'acqua e sulla campagna circostante: i canneti, i pioppi e i salici che orlano le rive creano un paesaggio dal sapore antico. Nelle giornate di bassa pressione invernale o primaverile, il riflesso del cielo sulle acque del Livenza produce panorami quasi pittorici. La confluenza è raggiungibile percorrendo le strade campestri che si dipartono dal centro di Ghirano in direzione sud-ovest. Accesso libero e gratuito, consigliato nelle ore della luce diffusa del mattino o nel tardo pomeriggio.
+
+### Campanile della Chiesa dei Santi Simone e Giuda — Prata di Sopra
+
+La piccola chiesa dei Santi Simone e Giuda, nella frazione di Prata di Sopra, è uno degli edifici sacri più antichi del comune: la sua esistenza è attestata già nel testamento di Guecello II di Prata del 7 agosto 1262. Il campanile, pur di dimensioni contenute, emerge con eleganza sulla pianura e rimane visibile da diversi punti del territorio circostante. L'interno dell'edificio conserva affreschi rinascimentali di pregio (attribuiti a Pietro Gorizio, 1498), ma è la sagoma verticale del campanile a costituire un riferimento visivo nel paesaggio della frazione. Non è normalmente aperto all'ascesa pubblica; la sua importanza panoramica risiede soprattutto nel valore paesaggistico che aggiunge alla scena rurale circostante, con i campi coltivati che si distendono verso i comuni confinanti di Brugnera e Pasiano di Pordenone. Accesso al sagrato libero e gratuito.
+
+### Giardino di Villa Brunetta
+
+Villa Brunetta è uno degli edifici storici più notevoli di Prata di Pordenone: caratteristica per l'altezza della parte centrale, è arricchita da un giardino con statue e da interni decorati con arredi settecenteschi, caminetti e affreschi. Sebbene non si tratti di un belvedere in senso stretto, il corpo centrale della villa — per la sua inusuale verticalità rispetto al contesto pianeggiante — offre una prospettiva sopraelevata sul parco e sui campi circostanti. Le statue nel giardino dialogano con il paesaggio aperto alle spalle della villa, dove la campagna si estende verso i comuni limitrofi. Il giardino non è sempre aperto al pubblico; le visite avvengono in occasione di eventi culturali, aperture straordinarie o su appuntamento con i proprietari privati. Rappresenta un punto di interesse visivo e storico-artistico che si inserisce piacevolmente nel contesto della pianura pordenonese. Ingresso soggetto a variazione; informarsi presso l'ufficio comunale o la Pro Loco.
+
+### Panorama agricolo verso le Prealpi Carniche — Strade campestri di Peressine e Le Monde
+
+Le località di Peressine e Le Monde, ubicate nella porzione più settentrionale del territorio comunale, offrono forse il panorama naturale più aperto e suggestivo di Prata di Pordenone. Percorrendo le strade bianche e i sentieri campestri che collegano queste piccole borgate al resto del comune, lo sguardo si apre verso nord senza ostacoli: le Prealpi Carniche e, in condizioni di ottima visibilità, le cime del Gruppo del Cavallo e le Dolomiti Friulane fanno da quinta scenografica a un paesaggio agricolo typicamente friulano, con mais, soia, vite e frutteti che si alternano in una pianura perfectamente piatta. L'orizzonte visivo è particolarmente ampio in autunno, dopo la raccolta dei raccolti, e in inverno, quando la presenza di neve sulle vette prealpine accentua il contrasto con la verde pianura. Accesso libero e gratuito lungo le strade comunali. Il momento migliore è l'alba o il tardo pomeriggio invernale.
+
+### Il Palazzo Municipale ex Villa Morosini Memmo
+
+L'attuale sede del municipio di Prata di Pordenone occupa i locali dell'antica Villa Morosini Memmo, risalente alla fine del Cinquecento. L'edificio, che si affaccia sulla piazza centrale del capoluogo insieme alla chiesa di Santa Lucia, costituisce un punto di riferimento visivo nel tessuto urbano del comune. Pur non offrendo un belvedere vero e proprio, la loggia e il prospetto della villa permettono di inquadrare il profilo della chiesa e del campanile di Santa Lucia in un insieme architettonico di notevole coerenza storica. La piazza antistante è lo spazio pubblico principale del comune e rappresenta il cuore della vita civile di Prata. Accessibile liberamente negli orari di apertura degli uffici comunali; ingresso gratuito agli spazi esterni.
+
+### Note sul contesto panoramico di Prata di Pordenone
+
+È opportuno sottolineare con onestà che Prata di Pordenone, situata a soli 18 metri sul livello del mare in piena pianura friulano-veneta, non dispone di belvedere, terrazze panoramiche, rooftop bar, punti di osservazione artificiali, fari costieri né alture naturali degne di questo nome. Non esiste alcun ristorante o locale noto per la "vista panoramica" nel senso classico del termine. La bellezza del paesaggio locale è di tipo orizzontale: non è il colpo d'occhio dall'alto a fare la differenza, bensì la qualità della luce della pianura, la scansione ordinata dei campi coltivati, il profilo inaspettatamente suggestivo delle cime prealpine all'orizzonte nelle giornate limpide. Per chi cerca vere esperienze di quota e panorami a 360°, i comprensori prealpini vicini — Polcenigo, Aviano, Budoia — distano meno di trenta chilometri e offrono un contesto orograficamente del tutto diverso.
+
+---
+
+## Fonti
+
+- Wikipedia IT — *Prata di Pordenone*: <https://it.wikipedia.org/wiki/Prata_di_Pordenone>
+- Wikipedia IT — *Ghirano*: <https://it.wikipedia.org/wiki/Ghirano>
+- Turismo FVG — *Prata di Pordenone*: <https://www.turismofvg.it/localita/prata-di-pordenone>
+- Comune di Prata di Pordenone — Sito istituzionale: <http://www.comune.prata.pn.it>
+- Wikipedia IT — *Chiesa di Santa Lucia (Prata di Pordenone)*: <https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_(Prata_di_Pordenone)>
+- Wikipedia IT — *Chiesa dei Santi Pietro e Paolo (Ghirano)*: <https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Pietro_e_Paolo_(Ghirano)>

@@ -1,6 +1,6 @@
 # Bar e Caffetterie — Friuli Venezia Giulia
 
-Guida completa per comune. Generata il 10/04/2026.
+Guida completa per comune. Generata il 15/05/2026.
 
 ---
 
@@ -96,6 +96,127 @@ Chi visita Amaro e dintorni e desidera una colazione più elaborata o un'esperie
 - Pagine Gialle — scheda Biker'S Bar Amaro UD: https://www.paginegialle.it/amaro-ud/biker-s-bar
 - Wikipedia — Amaro (Italia): https://it.wikipedia.org/wiki/Amaro_(Italia)
 - Pagine Gialle — ricerca bar Amaro UD: https://www.paginegialle.it/ricerca/bar/amaro-ud
+
+---
+
+## Ampezzo
+
+Ampezzo (_Dimpeç_ in friulano carnico, _Petsch_ in tedesco) è un piccolo comune montano della Carnia, in provincia di Udine, che sorge a 560 metri sul livello del mare su un vasto sperone roccioso tra il Tagliamento e il Lumiei, lungo la statale che da Tolmezzo sale al Passo della Mauria verso il Cadore. Con 874 abitanti censiti al febbraio 2026, distribuiti tra il capoluogo e le frazioni di Oltris, Voltois e Cima Corso, Ampezzo è uno di quei borghi montani dove la vita sociale si concentra attorno a pochi luoghi fisici ben precisi: la piazza, la chiesa, il municipio e, naturalmente, il bar.
+
+Il paese ha un carattere particolare, carico di storia: nel settembre-ottobre 1944 fu per breve tempo capitale della _Repubblica libera della Carnia_, una zona partigiana che cercò di autogestirsi durante la guerra di liberazione. Questa memoria storica — celebrata ogni anno con cerimonie pubbliche e intrecciata nel nome della piazza principale, Piazza Zona Libera 1944 — conferisce ad Ampezzo un'identità civica che va ben oltre le sue dimensioni. Le medaglie d'oro al merito civile riconoscono il sacrificio della comunità locale.
+
+In un contesto come questo, la cultura del bar segue fedelmente i ritmi e i valori della montagna carnica: sobrietà, convivialità autentica, ritmi lenti. Non ci sono pasticcerie artigianali indipendenti, né gelaterie o caffetterie specialty: Ampezzo è troppo piccola e troppo montana per sostenere una simile diversificazione dell'offerta. Ma ci sono uno o due locali che fungono da bar a pieno titolo — uno dei quali è censito come tale anche su OpenStreetMap — e diversi alberghi e trattorie dotati di bancone, dove la gente del posto si ferma a fare colazione, a bere un caffè a metà mattina o un aperitivo la sera prima di cena.
+
+La colazione ampezzana segue le tradizioni dell'intera Carnia: un espresso o un _capo in b_ (cappuccino servito nel bicchiere, variante tipicamente friulana), accompagnato da un cornetto o da qualche biscotto. Difficile trovare la brioche sfogliata alla panna o il croissant al pistacchio che nelle città fanno la fortuna delle pasticcerie di tendenza; qui si fa colazione come si è sempre fatto, con semplicità e senza fronzoli. D'estate, quando i camminatori e i ciclisti che percorrono la statale del Tagliamento o si avventurano verso il Passo Pura fanno tappa ad Ampezzo, i bar si animano un poco di più; d'inverno il ritmo si fa ancora più quieto, scandito dalle nevicate e dal calore dei locali riscaldati.
+
+Per l'aperitivo, la scelta tipica è lo spritz — nella versione friulana con l'Aperol o con il Select, accompagnato da qualche stuzzichino — oppure un _tajut_ di vino bianco friulano, consumato al bancone o ai tavolini fuori nelle giornate di bel tempo. La tradizione dolciaria locale vive soprattutto nelle case private e nelle numerose sagre che animano il paese nel corso dell'anno: la _Festa del pane e dei prodotti da forno_ (primo weekend di giugno) celebra esplicitamente l'arte bianca locale, con pane, dolci e prodotti da forno venduti e degustati per le strade, mentre le sagre patronali di agosto (SS. Pietro e Paolo, Sant'Ubaldo, festa alpina a Caprizi) offrono l'occasione per assaggiare specialità carniche come la _gubane_, gli _strucchi_, il _frico_ e i salumi del territorio. A pochi chilometri a nord, la vicina **Sauris** (15 km) è rinomata per il suo prosciutto affumicato IGP: non è insolito trovare il prosciutto di Sauris tra gli stuzzichini dell'aperitivo nei bar e nelle osterie di Ampezzo, a testimonianza dei legami gastronomici profondi che uniscono i borghi della stessa vallata carnica.
+
+---
+
+### Osteria al Vatican
+
+**Ampezzo** — Via Nazionale, 21 — Tel. +39 328 2745547
+
+L'Osteria al Vatican è l'unico locale censito su OpenStreetMap come _bar_ ad Ampezzo capoluogo (verifica settembre 2025) e rappresenta probabilmente il punto di ritrovo più diretto per chi cerca un caffè, un aperitivo o una sosta informale nel centro del paese. Situato al civico 21 di Via Nazionale — la strada principale che attraversa Ampezzo — si trova a poca distanza dalla Piazza Zona Libera 1944 e dal municipio, in una posizione baricentrica rispetto alla vita del paese.
+
+Il nome Vatican, non insolito per un locale di paese nella tradizione friulana e veneta, suggerisce un'origine nei soprannomi familiari o topografici tipici dei borghi alpini. Come quasi tutti i bar di questa fascia montana, l'ambiente è essenziale e familiare: è il posto dove ci si incontra dopo la messa domenicale, dove i pensionati scambiano due parole nel pomeriggio, dove i più giovani si ritrovano nei fine settimana. La colazione vi è quella classica — espresso, cappuccino, cornetto — e l'aperitivo si limita alle proposte standard dello spritz e del vino locale. Non è disponibile un sito web; per informazioni è consigliabile contattare direttamente il numero indicato.
+
+---
+
+### Hotel Colmajer — Bar
+
+**Ampezzo** — Via Nazionale, 5 — Tel. +39 0433 80922
+
+L'Hotel Colmajer è il principale albergo di Ampezzo, un tre stelle situato all'inizio di Via Nazionale, dotato di 23 camere e di un bar-ristorante aperto anche ai non ospiti. Verificato attivo nel settembre 2025 secondo i dati OpenStreetMap, il Colmajer rappresenta la struttura ricettiva più completa del paese e il suo bar è frequentato sia dai viaggiatori in transito sulla statale del Tagliamento sia dai residenti locali.
+
+In un paese di queste dimensioni, il bar dell'hotel svolge spesso una funzione sociale analoga a quella di un bar autonomo: è un luogo dove fermarsi per la colazione prima di partire per un'escursione verso il Passo Pura o la Val Lumiei, dove prendere un aperitivo alla fine di una giornata di trekking, dove chiacchierare con chi viene da fuori. Il ristorante offre cucina tradizionale carnica — piatti a base di patate, formaggi locali, selvaggina, erbe di montagna — e il bancone segue naturalmente le stesse tradizioni. D'estate, con la terrazza o i tavolini all'aperto, l'atmosfera si fa più vivace grazie al passaggio di ciclisti, escursionisti e turisti che risalgono la valle.
+
+---
+
+### Albergo dal Cortesan — Bar
+
+**Ampezzo** — Via Nazionale, 170 — Tel. +39 0433 811090
+
+Posto all'altro capo di Via Nazionale rispetto al Colmajer, l'Albergo dal Cortesan è un due stelle con 8 camere e un bar-ristorante anch'esso aperto alla clientela esterna. Il nome _Cortesan_ — che nella toponomastica carnica indica spesso una corte o un cortile (dal friulano _cortisan_) — suggerisce un legame con la struttura architettonica dei vecchi palazzi di pietra ampezzani, caratterizzati da logge in legno (le _linde_) e ampi androni.
+
+Con il suo numero di camere contenuto, il Cortesan ha il carattere di un piccolo albergo a gestione familiare, dove il rapporto con i clienti è diretto e personale. Il bar, pur non avendo la dimensione di un locale indipendente, offre i servizi essenziali per chi si ferma in paese: caffè, aperitivi, qualcosa da mangiare a pranzo. È anche un punto di riferimento per chi percorre la statale 52bis del Mauria, che attraversa Ampezzo collegando Tolmezzo con il Cadore bellunese.
+
+---
+
+### Bar alla Vittoria / Trattoria "Alla Vittoria dal 1925"
+
+**Ampezzo** — Via Nazionale, 51 — Tel. +39 0433 80384 / +39 331 8551942 — _Ristorante solo su prenotazione_
+
+La Vittoria è la presenza storica più significativa nella ristorazione di Ampezzo: attiva almeno dal 1925, è una di quelle istituzioni gastronomiche che sopravvivono nelle piccole comunità montane grazie alla fedeltà dei clienti di lunga data e alla qualità invariata della cucina tradizionale. Con un secolo di storia alle spalle, ha attraversato la seconda guerra mondiale, la Repubblica libera della Carnia, il terremoto del Friuli del 1976 e le trasformazioni socioeconomiche che hanno svuotato molti borghi carnichi. Il locale è censito su tuttocittà.it come _Bar alla Vittoria_, a conferma che la funzione di bar è presente accanto a quella ristorativa.
+
+Anche se la parte ristorante opera su prenotazione — modalità ormai comune nei piccoli locali montani di qualità, dove il cuoco prepara i piatti del giorno sapendo già quante persone servirà — il bancone è parte integrante della storia sociale del paese. La colazione e il caffè sono disponibili per chi si ferma anche senza prenotazione nelle ore mattutine; per aperitivo e pasti si consiglia di contattare in anticipo. La cucina propone le specialità della tradizione carnica: _frico_ con patate, zuppe di erbe, carni di selvaggina, formaggi d'alpeggio, dolci come la _gubane_ ripiena di noci e uvetta.
+
+---
+
+### Osteria con cucina da Gio
+
+**Ampezzo** — Via Nazionale, 81 — Tel. +39 0433 80337
+
+L'Osteria con cucina da Gio è un altro esercizio di ristorazione presente lungo Via Nazionale, il corridoio commerciale e sociale principale di Ampezzo. Come suggerisce la formula _osteria con cucina_, si tratta di un locale che unisce la funzione del bar e del punto di incontro informale con quella di una cucina semplice, aperta ai pasti principali. In un paese piccolo come Ampezzo, dove le categorie di bar, osteria e trattoria si sovrappongono naturalmente, posti come l'osteria da Gio svolgono un ruolo cruciale nella vita quotidiana: sono il posto dove il muratore si ferma a bere un vino dopo il lavoro, dove la famiglia pranza la domenica senza troppe formalità, dove il passante chiede indicazioni e resta a chiacchierare.
+
+Non è disponibile un sito web. Come per tutti i piccoli esercizi carnichi, si consiglia di telefonare in anticipo per verificare gli orari di apertura, che variano sensibilmente tra stagione estiva e invernale.
+
+---
+
+### Osteria con cucina Monte Jof — Allo Skilift
+
+**Ampezzo, Cima Corso** — Strada esterna Corso — Tel. +39 366 4412730
+
+Questa osteria si trova non nel capoluogo ma nella frazione di Cima Corso, raggiungibile dalla statale 52bis verso il Passo Pura, in una zona che d'inverno è frequentata per le attività sciistiche su piccola scala e d'estate per l'escursionismo verso il Monte Nuvole e i pascoli d'alta quota. Il riferimento allo _Skilift_ nel nome indica la vicinanza a un impianto di risalita locale, quello che in passato serviva i pendii intorno a Cima Corso.
+
+I rifugi e le osterie di montagna legate agli impianti sciistici hanno una cultura del caffè e dell'aperitivo molto specifica: il _vin brulé_ e la grappa dopo lo sci, il caffè corretto a metà mattina, lo spritz nel tardo pomeriggio prima di scendere a valle. Anche il periodo invernale con poco innevamento — sempre più frequente a queste quote negli ultimi anni — non cancella del tutto la vocazione del locale come punto di sosta per camminatori con le ciaspole o con le scarpe da trekking. D'estate il locale diventa meta per chi percorre il sentiero verso il Passo Pura (partenza delle cronoscalate podistiche che si tengono ogni anno a giugno).
+
+---
+
+### Albergo Al Pura
+
+**Ampezzo, Passo Pura** — Strada esterna Corso — Tel. +39 0433 811168 — [www.albergoalpura.it](http://www.albergoalpura.it)
+
+L'Albergo Al Pura si trova in prossimità del Passo Pura, a circa 900 metri di quota, sul territorio comunale di Ampezzo ma in una posizione di crinale che segna il confine tra la Carnia e le Prealpi Carniche verso la Val Tramontina. L'albergo ha un bar aperto ai passanti, ed è il punto di sosta naturale per chi percorre la statale o si arrampica a piedi lungo il sentiero che sale dal capoluogo (8,5 km con 850 metri di dislivello, teatro ogni anno della Cronoscalata Ampezzo-Passo Pura).
+
+Il bar dell'Al Pura ha la caratteristica atmosfera dei locali d'alta quota: legno, calore, un bancone dove fermarsi dopo la fatica del cammino. La caffetteria propone i classici della montagna — espresso, caffè corretto con la grappa, camomilla — e d'estate anche qualche bibita fresca con vista sulla foresta demaniale di Ampezzo, una delle più belle della Carnia, attraversata da sentieri ben segnati verso i pascoli e le malghe del Passo Pura e del Monte Nuvole. Per chi arriva in questo angolo remoto della Val Tagliamento e cerca non solo un ristoro fisico ma anche un momento di vera pace montana, il bar dell'Al Pura ha tutto ciò che serve.
+
+---
+
+### Rifugio Tita Piaz
+
+**Ampezzo, Passo Pura** — Località Passo Pura — Tel. +39 0433 86273 — [www.rifugiotitapiaz.com](http://www.rifugiotitapiaz.com)
+
+Il Rifugio Tita Piaz è un punto di riferimento per l'escursionismo estivo e invernale nel comprensorio del Passo Pura e delle Prealpi Carniche. Come tutti i rifugi alpini, dispone di un banco bar che serve caffè, bevande calde e fredde, birra artigianale e qualche piatto della tradizione montanara. L'intitolazione a Tita Piaz (1879–1948), il grande alpinista trentino detto «il diavolo delle Dolomiti», conferisce al rifugio un'identità legata alla cultura alpinistica.
+
+Frequentato da escursionisti, famiglie e appassionati di funghi e frutti di bosco nella bella stagione, il rifugio propone anche la colazione ai partenti per le escursioni mattutine e, nelle giornate di sabato e domenica estivi, si trasforma in un luogo di socialità alpina dove il confine tra il caffè post-cammino e l'aperitivo pre-discesa si fa quasi impercettibile. L'ambiente è quello tipico dei rifugi del CAI: rustico, familiare, con il profumo del legno e della resina.
+
+---
+
+### Nota sull'offerta complessiva del comune
+
+Ampezzo è, per dimensioni e per carattere, un borgo montano della Carnia profonda: 874 abitanti, tre frazioni, un'economia mista tra industria leggera (zone industriali nel fondovalle) e turismo escursionistico-naturalistico. In questo contesto, la struttura dei servizi di bar e caffetteria riflette fedelmente la realtà del territorio.
+
+Non esistono ad Ampezzo pasticcerie artigianali autonome, gelaterie di qualità, caffetterie specialty o torrefazioni. Per queste offerte occorre spostarsi verso i centri più grandi della Carnia: **Tolmezzo** (20 km), che è il capoluogo della Carnia e offre una gamma molto più ampia di bar, pasticcerie e caffetterie; oppure verso **Villa Santina** (sulla direttrice est) o **Forni di Sopra** (verso ovest), che come centri turistici montani più noti dispongono di maggiore varietà. Per il gelato artigianale, **Tolmezzo** e **Gemona del Friuli** sono le destinazioni più vicine.
+
+Chi visita Ampezzo non lo fa per le caffetterie, ma per la storia (la Repubblica libera della Carnia, la Resistenza), per la natura (la foresta demaniale, il Passo Pura, il Tagliamento), per le sagre e le feste di paese che animano l'estate carnica. In questo contesto, i bar e le osterie del paese offrono un'accoglienza genuina e senza pretese, dove un caffè al mattino o uno spritz la sera diventano occasioni di contatto autentico con una comunità di montagna che ha saputo mantenere la propria identità attraverso secoli di storia difficile.
+
+---
+
+## Fonti
+
+- OpenStreetMap contributors — nodo #10939855296, "Osteria al Vatican", Via Nazionale 21, Ampezzo (amenity=bar, verifica settembre 2025): https://www.openstreetmap.org/node/10939855296
+- OpenStreetMap contributors — nodo #3734157573, "Hotel Colmajer", Via Nazionale 5, Ampezzo (amenity=restaurant, bar=yes, verifica settembre 2025): https://www.openstreetmap.org/node/3734157573
+- OpenStreetMap contributors — nodo #3734155747, "Albergo dal Cortesan", Via Nazionale 170, Ampezzo (amenity=restaurant, bar=yes): https://www.openstreetmap.org/node/3734155747
+- Wikivoyage, voce "Ampezzo (Italia)" — elenco di ristoranti, osterie e alberghi: https://it.wikivoyage.org/wiki/Ampezzo_(Italia)
+- Wikipedia, voce "Ampezzo (Italia)" — dati demografici, storici e geografici: https://it.wikipedia.org/wiki/Ampezzo_(Italia)
+- Comuni-italiani.it, scheda Ampezzo (codice ISTAT 030003): https://www.comuni-italiani.it/030/003/index.html
+- Carnia.it — informazioni sul territorio e la gastronomia carnica: https://www.carnia.it/it/comune/ampezzo/
+- Sito istituzionale del Comune di Ampezzo: https://www.comune.ampezzo.ud.it/
+- Rifugio Tita Piaz (sito ufficiale): http://www.rifugiotitapiaz.com
+- Albergo Al Pura (sito ufficiale): http://www.albergoalpura.it
+- tuttocittà.it — ricerca bar e ristoranti ad Ampezzo UD: https://www.tuttocitta.it/bar/ampezzo-ud/
+- MisterImprese.it — ricerca bar e caffè ad Ampezzo (0 risultati trovati, conferma della scarsità dell'offerta): https://www.misterimprese.it/friuli-venezia-giulia/udine/ampezzo/bar-e-caffe.html
 
 ---
 
@@ -2834,6 +2955,353 @@ Chi visita Cimolais alla ricerca di un caffè o di una colazione è consigliato 
 
 ---
 
+## Cividale del Friuli
+
+Cividale del Friuli — Cividât in friulano, Čedad in sloveno — è una città di poco più di diecimila abitanti in provincia di Udine, fondata come Forum Iulii dai Romani e poi capitale del primo ducato longobardo in Italia, tanto da entrare a far parte nel 2011 del patrimonio UNESCO "Italia Langobardorum". Il suo centro storico medievale, arroccato sulla riva rocciosa del Natisone e attraversato dal mitico Ponte del Diavolo, è uno dei borghi più affascinanti del Friuli e attira ogni anno migliaia di visitatori. Tutto questo contesto storico e paesaggistico plasma profondamente la cultura del bar e del caffè cividalese: ci si ferma a fare colazione in una piazzetta con vista sul duomo, si sorseggia un vino bianco dei Colli Orientali seduti all'aperto mentre i bambini giocano sotto i portici, ci si ritrova la sera per un aperitivo in una delle numerose enoteche disseminate nel centro storico.
+
+La tradizione dolciaria di Cividale è dominata dalla **gubana**, il dolce più amato e più identitario dell'intera zona delle Valli del Natisone. Si tratta di un lievitato avvolto a chiocciola, farcito con un ripieno ricco e profumato di noci, nocciole, uvetta, pinoli, canditi, amaretto, grappa e rhum. La gubana si mangia a colazione inzuppata nel caffè, come merenda pomeridiana, o come fine pasto bagnata con un bicchierino di Slivovitz o di grappa di Picolit. Accanto alla gubana troviamo gli **strucchi**, piccoli ravioli dolci fritti ripieni dello stesso impasto, che una volta erano il dolce delle feste popolari e oggi si trovano tutto l'anno nelle migliori pasticcerie. Cividale celebra ogni anno il **Gubana Day**, una gara tra produttori locali che premia la gubana artigianale più buona: la partecipazione dei panifici e delle pasticcerie cittadine trasforma questo concorso in una vera e propria festa della comunità.
+
+Sul fronte dell'aperitivo, Cividale si muove in sintonia con la tradizione friulana: il rito dello **spritz** è ugualmente sentito, ma la proposta enologica locale aggiunge una dimensione d'eccellenza grazie ai vini dei Colli Orientali del Friuli, con i loro Friulano, Ribolla Gialla, Malvasia, Refosco e Pignolo. Non è raro che l'aperitivo si trasformi in un calice di vino bianco locale — servito fresco, magari con un crostino al prosciutto San Daniele o al formaggio Montasio stagionato. La piazza principale, Piazza Paolo Diacono, e la scenografica Piazza del Duomo sono il cuore pulsante della vita sociale: in estate, i dehors dei bar si moltiplicano e la passeggiata serale tra i vicoli illuminati del centro storico è l'aperitivo vero e proprio.
+
+---
+
+### Caffè ai Patriarchi
+
+**Indirizzo:** Piazza del Duomo, 10 – Cividale del Friuli (UD)
+**Tel.:** 333 8706896
+**Orari:** lunedì–venerdì 07:00–19:00; sabato 07:00–13:00
+
+Affacciato direttamente sulla maestosa Piazza del Duomo, il Caffè ai Patriarchi è uno dei punti di riferimento della colazione cividalese. La posizione è semplicemente imbattibile: davanti alla cattedrale di Santa Maria Assunta con il suo celebre altare di Ratchis, a pochi passi dal Museo Cristiano. La mattina, il caffè si riempie di lavoratori, turisti e cividalesi di passaggio che si fermano per un espresso e un cornetto prima di iniziare la giornata. L'atmosfera è quella del bar di quartiere nel senso più nobile del termine — rapido, cordiale, con il banco ben fornito di paste fresche. Il locale è accessibile anche a persone con mobilità ridotta. La posizione privilegiata lo rende inoltre una sosta quasi obbligata per chi visita i monumenti longobardi del centro.
+
+---
+
+### Caffè Longobardo
+
+**Indirizzo:** Piazza Paolo Diacono, 2 – Cividale del Friuli (UD)
+**Tel.:** 0432 732519
+
+Il nome è già tutto un programma: situato nell'angolo di Piazza Paolo Diacono — la grande piazza porticata che è il cuore della vita civile di Cividale — il Caffè Longobardo porta inciso nel nome il patrimonio storico della città. La piazza, dedicata al monaco e storico longobardo Paolo Diacono nato proprio a Cividale nell'VIII secolo, è uno dei salotti all'aperto più belli del Friuli: colonnati medievali, palazzi rinascimentali e un'atmosfera d'altri tempi. Il Caffè Longobardo si inserisce naturalmente in questo scenario, offrendo un punto di sosta per il caffè del mattino, il pranzo veloce o l'aperitivo serale sotto i portici. È uno di quei locali che i cividalesi frequentano da sempre, quasi per abitudine, e che rappresentano l'ossatura della socialità del borgo.
+
+---
+
+### Bar Mitteleuropa
+
+**Indirizzo:** Piazza della Resistenza, 16 – Cividale del Friuli (UD)
+**Orari:** giovedì–martedì 07:00–24:00 (chiuso mercoledì)
+
+Il nome "Mitteleuropa" evoca perfettamente l'identità di Cividale: una città al confine tra mondi — latino, germanico e slavo — che per secoli ha vissuto nell'orbita dell'impero asburgico e che conserva ancora oggi una forte impronta mitteleuropea nella sua architettura, nella sua cucina e nel suo stile di vita. Il Bar Mitteleuropa, affacciato sulla Piazza della Resistenza, è aperto praticamente tutto il giorno fino alla mezzanotte, un orario insolito per un piccolo comune friulano che lo rende un punto di ritrovo serale quando molti altri locali abbassano le serrande. Ideale sia per la colazione mattutina che per un aperitivo tardivo, riflette bene quella vocazione da crocevia di culture che caratterizza questa parte del Friuli orientale.
+
+---
+
+### Caffè San Marco
+
+**Indirizzo:** Largo Boiani, 7 – Cividale del Friuli (UD)
+**Tel.:** 0432 731001
+**Web:** www.fvgusto.com/caffe-san-marco
+
+Il Caffè San Marco si trova nel Largo Boiani, non lontano dal centro storico, ed è un locale che unisce la funzione di bar tradizionale a quella di punto di incontro per residenti e visitatori. Il nome "San Marco" richiama la plurisecolare presenza veneziana a Cividale (la città passò sotto il dominio della Serenissima nel Quattrocento), e il locale è censito nel circuito FVG Gusto, che promuove la ristorazione e l'enogastronomia di qualità in Friuli Venezia Giulia. È uno dei pochi bar della zona ad avere una presenza online dedicata, il che indica una certa attenzione alla comunicazione e alla proposta.
+
+---
+
+### Bar Centrale
+
+**Indirizzo:** Largo Beata Benvenuta Boiani, 2 – Cividale del Friuli (UD)
+**Orari:** giovedì–martedì 08:00–21:30 (chiuso mercoledì)
+
+Il Largo Beata Benvenuta Boiani — intitolato alla beata domenicana nata a Cividale nel XIII secolo — è uno degli spazi pubblici del centro storico che fanno da cerniera tra il cuore medievale e i quartieri più moderni della città. Il Bar Centrale è esattamente quello che il nome promette: un bar di quartiere, frequentato dai cividalesi per il caffè del mattino e l'aperitivo del tardo pomeriggio. L'orario di apertura, che si estende fino alle 21:30, lo rende un punto di riferimento anche per chi vuole una birra o un calice di vino prima di cena. È il classico locale senza grandi pretese dove la gente del posto si ferma due volte al giorno, un luogo che racconta la vita quotidiana di Cividale meglio di qualsiasi guida turistica.
+
+---
+
+### Bar Caffetteria Al Viavai
+
+**Indirizzo:** Via Borgo di Ponte, 39 – Cividale del Friuli (UD)
+**Tel.:** 340 2718856
+**Orari:** lunedì–sabato 07:30–21:00
+
+Via Borgo di Ponte è una delle strade più caratteristiche di Cividale: porta verso il celebre Ponte del Diavolo, il simbolo della città, e percorre il quartiere che si sviluppa lungo la riva del Natisone. Il Bar Caffetteria Al Viavai — gestito da Francesco Frisone — è un locale dall'anima doppia: di mattina serve colazioni con il ritmo del bar di quartiere, con l'espresso corretto e il cornetto di fretta; dal pomeriggio fino alla sera propone aperitivi e stuzzichini con un'atmosfera più rilassata. L'orario continuato dal mattino fino alle 21:00, sei giorni su sette, testimonia un locale che vive del passaggio costante di persone — residenti del rione, turisti che vanno a vedere il Ponte del Diavolo, ciclisti che percorrono la pista ciclabile lungo il fiume.
+
+---
+
+### Basta Poco
+
+**Indirizzo:** Via Borgo di Ponte, 16 – Cividale del Friuli (UD)
+**Orari:** lunedì 08:30–12:40; martedì–sabato 08:30–12:40, 16:00–19:00
+
+Pochi numeri civici più su lungo Via Borgo di Ponte rispetto all'Al Viavai, il Basta Poco è un piccolo bar a conduzione familiare con orari da bottega tradizionale — aperto solo la mattina e nel primo pomeriggio, chiuso nel weekend. Il nome, schietto e senza fronzoli come spesso lo è il carattere friulano, suggerisce un locale essenziale, senza eccessi, dove si va per il caffè veloce o per fare due chiacchiere con il titolare. Questi piccoli bar di vicinato, con orari ridotti e una clientela fidelizzata di residenti, sono sempre meno ma rappresentano un tessuto sociale fondamentale per i quartieri di periferia.
+
+---
+
+### Alle Antiche Mura
+
+**Indirizzo:** Via Pietro Zorutti, 2 – Cividale del Friuli (UD)
+**Orari:** martedì–domenica 06:00–21:00
+
+Il nome evoca immediatamente il contesto storico della città: le antiche mura medievali di Cividale sono ancora visibili in diversi punti del perimetro urbano, e Via Zorutti — intitolata al poeta friulano Pietro Zorutti, nato a Cividale nel 1792 — si sviluppa proprio nei pressi del tessuto storico più antico. Alle Antiche Mura è uno dei bar che apre più presto in città: l'orario di apertura dalle 06:00 lo rende una meta per i madrugadores — panettieri, operai, artigiani — che cercano un caffè caldo prima che la città si svegli. L'apertura continuata fino alle 21:00, sei giorni su sette, ne fa un locale versatile che copre colazione, pranzo veloce e aperitivo.
+
+---
+
+### Bar agli Sportivi
+
+**Indirizzo:** Via Pietro Zorutti, 15 – Cividale del Friuli (UD)
+**Tel.:** 0432 730305
+
+Il Bar agli Sportivi, gestito dalla famiglia Burello, si trova lungo Via Zorutti a poca distanza dalle Antiche Mura. Il nome richiama la tradizione dei bar vicini agli impianti sportivi o frequentati da chi pratica sport — una categoria di locali molto radicata nel tessuto sociale friulano, dove il dopo-partita di calcio o la sosta dopo la corsa domenicale sono momenti collettivi importanti. È il tipo di bar che non troverete sulle guide turistiche ma che i cividalesi conoscono bene, dove il caffè si paga poche decine di centesimi e si sa sempre il nome di chi è al bancone.
+
+---
+
+### Nuvolacaffè
+
+**Indirizzo:** Via Guglielmo Marconi, 8/15 – Cividale del Friuli (UD)
+**Tel.:** 339 5811433
+**Orari:** lunedì–venerdì 07:00–19:30 (chiuso sabato e domenica)
+
+Nuvolacaffè è un bar dal nome evocativo — che rimanda alla leggerezza della schiuma del cappuccino o ai profumi volatili del caffè appena macinato — situato in Via Marconi, una delle arterie che collegano il centro storico con la zona più moderna della città. L'orario, solo nei giorni feriali dalle 7:00 alle 19:30, e la chiusura nel weekend lo qualificano come un locale frequentato principalmente da lavoratori e impiegati — un bar da ufficio nel senso più benevolo del termine, dove la colazione è un rito quotidiano condiviso tra colleghi. Il locale offre prima colazione e cucina italiana.
+
+---
+
+### Bar Caffè alla Stazione
+
+**Indirizzo:** Viale Libertà, 47 – Cividale del Friuli (UD)
+**Tel.:** 0432 731332
+
+Il Viale Libertà conduce alla stazione ferroviaria di Cividale, capolinea della pittoresca ferrovia che collega la città a Udine in circa venti minuti (le Ferrovie Udine-Cividale, note come FUC o "Treno del Natisone"). Il Bar Caffè alla Stazione è il classico bar di stazione — un luogo di transito e attesa, frequentato da pendolari, studenti, turisti in arrivo e partenza. La colazione qui ha un sapore diverso: frettolosa, con un occhio all'orologio e uno al binario. L'espresso si beve in piedi al banco, si sfoglia il giornale locale, si saluta qualcuno che si conosce. È un bar che racconta la vita di una piccola città di provincia con tutto il suo ritmo quotidiano.
+
+---
+
+### Bar da Laura
+
+**Indirizzo:** Piazza Foro Giulio Cesare, 3 – Cividale del Friuli (UD)
+**Tel.:** 0432 700965
+
+Piazza Foro Giulio Cesare — il nome richiama le origini romane della città, fondata da Giulio Cesare come Forum Iulii — è uno degli spazi pubblici del centro storico dove la vita quotidiana si mescola con la storia. Il Bar da Laura è uno di quei locali col nome proprio del gestore (o della gestitrice), un marchio di garanzia nel Friuli: significa che c'è una persona dietro al bancone che si prende cura del locale, che conosce i clienti per nome, che prepara il caffè come si deve. La piazza è frequentata tutto il giorno, e il bar è un punto di sosta naturale per chi abita o lavora nei dintorni.
+
+---
+
+### Cividatum
+
+**Indirizzo:** Corso Giuseppe Mazzini, 38 – Cividale del Friuli (UD)
+**Tel.:** 0432 1971269
+
+Il Corso Mazzini è la via principale dello shopping e della passeggiata a Cividale, l'asse commerciale che attraversa il centro storico. Il nome Cividatum è un latinismo che richiama l'antico nome romano della città — Civitas — e che evoca l'identità longobarda e medievale che Cividale porta con orgoglio. Situato sul corso principale, è inevitabilmente un locale di passaggio, ma anche un punto di sosta per chi fa acquisti o passeggia nel centro. La posizione sul corso lo rende un osservatorio privilegiato sulla vita cittadina: si può sedersi e guardare sfilare i cividalesi nelle loro occupazioni quotidiane, in una scena che non è cambiata poi molto dagli anni Cinquanta.
+
+---
+
+### Bar Al Borgo
+
+**Indirizzo:** Via Carlo Alberto, 45 – Cividale del Friuli (UD)
+**Tel.:** 333 3606917
+
+Via Carlo Alberto si sviluppa nel quartiere settentrionale del centro storico di Cividale, a pochi passi dalla zona universitaria e dalle scuole superiori che fanno di Cividale un polo educativo per i paesi delle Valli del Natisone. Il Bar Al Borgo è un locale di quartiere frequentato sia da residenti che da studenti — due categorie di clienti con esigenze diverse ma che coesistono pacificamente attorno a un bancone. I ragazzi che vengono da San Pietro al Natisone, Prepotto o Torreano e frequentano le scuole a Cividale spesso fanno colazione qui prima delle lezioni.
+
+---
+
+### Bar Ai Buoni Amici
+
+**Indirizzo:** Via Borgo San Pietro – Cividale del Friuli (UD)
+**Orari:** martedì–domenica 07:15–13:00, 15:00–24:00
+
+Il nome "Ai Buoni Amici" è uno di quei nomi augurativi che tanti bar italiani portano da generazioni — e che spesso si avverano, perché i locali con quel nome tendono davvero ad avere una clientela fedele e affezionata. L'orario è interessante: apre presto la mattina ma soprattutto è aperto fino alla mezzanotte sei giorni su sette, il che lo rende uno dei pochi bar del quartiere di Borgo San Pietro ad avere una vera vocazione serale. Chi abita in questa parte della città può recarsi qui dopo cena per una birra artigianale, un amaro o semplicemente per fare due chiacchiere.
+
+---
+
+### Bar Tre Scalini
+
+**Indirizzo:** Via Borgo San Pietro – Cividale del Friuli (UD)
+
+Sempre nel quartiere di Borgo San Pietro, il Bar Tre Scalini è un altro locale di vicinato che serve la parte nord-occidentale della città. Il nome evoca un'architettura locale — forse i tre gradini di un ingresso, un dettaglio architettonico che ha dato il nome al locale come spesso accade nei piccoli paesi — e richiama quella tradizione di denominazione dei bar legata ai luoghi fisici del quartiere. È il bar del dopo-messa domenicale, del cappuccino tra compaesani, del brindisi improvvisato per un compleanno.
+
+---
+
+### Bar Tre Colonne
+
+**Indirizzo:** Via Adelaide Ristori, 5 – Cividale del Friuli (UD)
+
+Via Adelaide Ristori è una via del centro storico nei pressi del teatro cittadino, intitolata alla celebre attrice tragica del XIX secolo. Il Bar Tre Colonne — il cui nome richiama probabilmente un elemento architettonico del locale o dell'edificio che lo ospita — è un punto di riferimento per il quartiere. Come molti bar del centro storico di Cividale, si inserisce in un tessuto urbano denso, medievale, dove ogni vicolo e ogni piazzetta nasconde un luogo di incontro. Tre colonne evocano solidità, permanenza, la sensazione che il locale sia lì da tanto tempo e che continuerà ad esserci.
+
+---
+
+### All'Arsenale
+
+**Indirizzo:** Piazza Dante Alighieri, 9 – Cividale del Friuli (UD)
+
+La Piazza Dante Alighieri è uno degli spazi pubblici del centro di Cividale che non ha la fama delle piazze principali ma è frequentata quotidianamente dai residenti del rione. Il bar All'Arsenale — il cui nome potrebbe richiamare un antico uso militare dell'edificio o della zona — è un locale che vive di questa frequentazione di vicinato. In Friuli, i bar di piazza hanno una funzione sociale importantissima: sono il luogo dove si decide come votare alle elezioni comunali, dove si commenta la partita dell'Udinese, dove si pianifica la gita in montagna.
+
+---
+
+### Caffè Vidussi
+
+**Indirizzo:** Via Domenico Rubini, 16 – Cividale del Friuli (UD)
+
+Il cognome Vidussi è uno dei cognomi tipicamente friulani che porta in sé secoli di storia locale. Il Caffè Vidussi, situato in Via Domenico Rubini — intitolata a un patriota cividalese del Risorgimento — è un locale accessibile anche a persone con disabilità motoria, un dettaglio non trascurabile in un centro storico spesso caratterizzato da selciati irregolari e gradini. La via è nel cuore del centro storico e il caffè serve i residenti del quartiere con la regolarità silenziosa dei locali che non cercano i riflettori ma sono indispensabili al tessuto quotidiano della città.
+
+---
+
+### Osteria Udinese Caffè
+
+**Indirizzo:** Via Silvio Pellico, 8 – Cividale del Friuli (UD)
+
+Il doppio nome "Osteria Udinese Caffè" dice già molto: un locale che unisce la tradizione dell'osteria friulana — vino, crostini, frico — con quella del caffè. Via Silvio Pellico porta il nome del patriota e scrittore delle "Mie Prigioni", e si sviluppa in una zona del centro storico leggermente defilata rispetto ai grandi flussi turistici, il che fa di questo locale un ritrovo prevalentemente per locali. Il titolo "Udinese" potrebbe rimandare a un gestore originario del capoluogo di provincia, a una ricetta tipica, o semplicemente a un'identità regionale sentita.
+
+---
+
+### La Plera
+
+**Indirizzo:** Via Alessandro Manzoni, 23 – Cividale del Friuli (UD)
+
+Il nome "La Plera" è un termine friulano che designa la pietra, la roccia — e richiama immediatamente le caratteristiche geologiche di Cividale, costruita sopra uno sperone di arenaria sopra le acque del Natisone, con il celebre Ipogeo Celtico scavato nella roccia. Via Manzoni è una delle vie del centro che si allontana leggermente dalla zona monumentale principale verso i quartieri residenziali. La Plera è un bar con un'anima solida — come la pietra evocata dal nome — frequentato da chi abita in zona e cerca un punto di riferimento senza fronzoli.
+
+---
+
+### Bar da Mario
+
+**Indirizzo:** Via Carraria, 64 – Cividale del Friuli (UD)
+**Tel.:** 0432 700824
+
+Via Carraria è la strada che porta verso la frazione di Carraria, a est del centro storico, seguendo la riva nord del Natisone verso le campagne. Il Bar da Mario — gestito dalla signora Marina Specogna, a riprova di quanto spesso i "bar con nome maschile" siano gestiti da donne in Friuli — è un locale di periferia che serve la comunità residente in questa fascia orientale del comune. È il bar dove ci si ferma prima di andare al lavoro nei campi o nei laboratori artigianali della zona, dove ci si conosce tutti e la confidenza tra gestore e clienti è totale.
+
+---
+
+### Al Pellegrino
+
+**Indirizzo:** Zona est del centro urbano (area Via Carraria) – Cividale del Friuli (UD)
+**Gestore:** Bardus Ivano & C. SNC
+
+L'Al Pellegrino — nome che evoca il viandante, il pellegrino di passaggio che si ferma a ristorarsi — è un caffè situato nella parte orientale dell'abitato, verso le coordinate di Via Carraria. Il nome ha una connotazione quasi medievale, in linea con il carattere storico della città, e richiama i tempi in cui Cividale era un importante nodo sulla Via dei Longobardi e dei pellegrini che si dirigevano verso Aquileia e poi verso i santuari adriatici. Oggi è semplicemente un bar di quartiere, ma il nome porta con sé questo peso storico con leggerezza.
+
+---
+
+### Enoteca l'Elefante
+
+**Indirizzo:** Piazza Paolo Diacono, 19 – Cividale del Friuli (UD)
+
+Piazza Paolo Diacono ospita non solo bar ma anche enoteche, e l'Elefante è uno di quei locali che la sera si trasforma in un punto di riferimento per chi ama il vino. Il nome evoca la forza, la memoria — l'elefante non dimentica — e quella permanenza nel territorio che caratterizza i migliori vini del Friuli. La posizione sulla piazza principale è privilegiata, con la possibilità di sedersi all'aperto nelle serate estive e guardare la vita del centro storico scorrere sui sampietrini medievali. La selezione vinicola si concentra naturalmente sui vini DOC dei Colli Orientali del Friuli, con particolare attenzione ai produttori locali.
+
+---
+
+### Civico 39 – Wine Bar ed Enoteca
+
+**Indirizzo:** Piazza Paolo Diacono, 39 – Cividale del Friuli (UD)
+**Tel.:** 349 5977016 (anche WhatsApp)
+**Orari:** lunedì–martedì, giovedì–domenica 07:30–22:30 (chiuso mercoledì)
+
+Il Civico 39 è forse il locale più raffinato di Cividale per chi ama il vino. Enoteca, wine bar e lounge in uno, si trova all'angolo di Piazza Paolo Diacono e vanta una sala interna da circa quindici coperti e un'ampia area esterna che può ospitare oltre cinquanta persone — un vero dehors d'atmosfera nel cuore del centro storico. La proposta enologica è volutamente internazionale, con una particolare passione per i vini d'Alsazia (Riesling, Gewürztraminer, Pinot Gris), per le etichette austriache e argentine, accanto ai migliori vini friulani. Si ordina un calice e arrivano crostini e tartine: non è un aperitivo banale ma una vera degustazione guidata dal personale, descritto dai clienti come amichevole e molto preparato. Aperto anche la mattina presto per il caffè — uno dei pochi wine bar che fa da bar vero e proprio fin dalle 07:30 — è uno dei locali più versatili e frequentati di Cividale, apprezzato sia dai residenti che dai turisti. Merita una visita sia la mattina, per un espresso perfetto sulla piazza medievale, sia la sera, per scoprire un calice di Friulano o di Champagne all'aperto sotto le stelle.
+
+---
+
+### Barcollando
+
+**Cividale del Friuli (UD)**
+
+Il nome "Barcollando" è tra i più originali della scena dei bar cividalesi — un nome che gioca sulla doppia lettura del "barcollare" (camminare a zig-zag, come dopo qualche calice di troppo) e del "bar + collando" (il collante del bar, il luogo che tiene insieme la comunità). Situato nel quartiere occidentale della città, è frequentato da una clientela giovane e variegata e ha una spiccata vocazione serale. È uno di quei locali che si distingue per personalità, per atmosfera, per la capacità di creare un senso di appartenenza tra chi lo frequenta.
+
+---
+
+### Forum Juli
+
+**Indirizzo:** Piazza San Francesco, 4 – Cividale del Friuli (UD)
+**Tel.:** 0432 732928
+
+Piazza San Francesco si trova nei pressi della chiesa di San Francesco, nel quartiere settentrionale del centro storico. Il Forum Juli è un locale che porta nel nome la storia romana della città — Forum Iulii era il nome con cui Giulio Cesare aveva fondato il primo insediamento, da cui derivano sia il nome di Cividale che quello dell'intera regione Friuli. Il bar ha un che di orgoglioso nel portare questo nome: è come rivendicare l'appartenenza a una storia millenaria ogni volta che si chiede un caffè. Serve la piazza e il quartiere circostante con regolarità discreta.
+
+---
+
+### Bar All'Hostaria
+
+**Cividale del Friuli (UD) – zona fluviale**
+
+Il Bar All'Hostaria è situato nella zona meridionale del comune, nei pressi del Natisone, in un'area più periferica rispetto al centro storico. Il termine "hostaria" è la variante arcaica e dialettale di "osteria", e rimanda a una tradizione di ospitalità semplice e genuina. È il tipo di locale che esiste da decenni, frequentato da famiglie del quartiere, da pescatori che d'estate seguono il Natisone e da chi abita nella zona residenziale a sud del centro. La cucina è semplice, il vino sfuso è ancora di casa, e la zuppa di fagioli — una volta — ci stava sempre.
+
+---
+
+### Pasticceria Gelateria Ducale
+
+**Indirizzo:** Piazza Alberto Picco, 24 – Cividale del Friuli (UD)
+**Tel.:** 0432 730707
+**Orari:** martedì–domenica 07:00–13:00, 15:00–20:00; lunedì solo mattina (in variazione stagionale)
+
+La Pasticceria Gelateria Ducale — gestita dalla famiglia Zorzenone (Roberto e Paolo) — è la migliore istituzione dolciaria di Cividale del Friuli e una delle realtà pasticcere più apprezzate dell'intera provincia di Udine. Situata nella bella Piazza Alberto Picco, a poca distanza dal centro storico, il Ducale propone un'offerta che è un vero catalogo della tradizione dolciaria friulana: paste fresche e secche, pasticcini mignon, torte personalizzate su ordinazione, semifreddi, torte gelato e — soprattutto — la gubana e gli strucchi di propria produzione. La **gubanetta "lumachina"**, una versione "bonsai" della gubana classica, è una trovata della famiglia Zorzenone che è diventata celebre in tutta la regione: la forma a lumaca ricorda la chiocciola della gubana tradizionale ma in formato individuale, perfetto da portare come regalo o da gustare come snack. Le recensioni dei clienti sono unanimi: "frequento questa pasticceria da quando sono bambina" scrive una cividalese, "le gubanette prodotte sono insuperabili". La gelateria è artigianale, con una selezione di gelati a latte e frutta che cambia con le stagioni. Una visita è obbligatoria.
+
+---
+
+### Panificio del Foro – Bar e Pasticceria Artigianale
+
+**Indirizzo:** Piazza Alberto Picco, 20 – Cividale del Friuli (UD)
+**Tel.:** 0432 731308
+**Orari:** lunedì–sabato 07:00–13:00 (chiuso domenica)
+**Web:** www.panificiodelforo.com / www.gubana.eu
+
+Il Panificio del Foro è una delle realtà produttive più orgogliosamente cividalesi che si possano trovare. Oltre alla straordinaria produzione di pane artigianale (disponibile in numerose varietà di farine e formati), il panificio realizza a mano i dolci tipici della tradizione friulana: la **gubana a pasta lievitata** e la **gubana a pasta sfoglia**, gli **strucchi cotti al forno** (oltre alla versione fritta), focacce dolci e biscotti. Il Panificio del Foro ha vinto ben cinque edizioni del concorso **Gubana Day** (2006, 2008, 2009, 2010, 2017), il che lo pone ai vertici assoluti della produzione di gubana nel Friuli. La sede principale di Cividale offre anche servizio bar e caffetteria: ci si siede, si prende un caffè e si accompagna con una fetta di gubana appena sfornata — un'esperienza semplice e autentica che vale il viaggio. Il Panificio del Foro ha anche uno shop online (www.gubana.eu) per ordinare i prodotti direttamente a casa. Ha filiali a Moimacco, Premariacco e Udine.
+
+---
+
+### Zuckerfee – Pasticceria Artigianale
+
+**Indirizzo:** Piazza Paolo Diacono, 29 – Cividale del Friuli (UD)
+**Orari:** martedì–sabato 07:00–19:30; domenica 07:30–19:30 (chiuso lunedì)
+
+Il nome Zuckerfee — "Fata dello Zucchero" in tedesco — rivela immediatamente le influenze mitteleuropee e asburgiche che pervadono la cultura di Cividale, città che per secoli ha guardato più a Vienna che a Roma. La pasticceria si trova in posizione privilegiatissima sulla Piazza Paolo Diacono, la piazza principale della città, e con i suoi orari estesi (aperta sei giorni su sette, anche la domenica mattina) si rivela uno dei punti di riferimento più frequentati per la colazione e la merenda. Una pasticceria aperta la domenica in un centro storico è un dono per i turisti che arrivano nel weekend: si può fare una colazione con brioche o pasticcino artigianale seduti all'aperto sulla piazza medievale, con vista sui portici e sul via vai dei visitatori. Il nome tedesco suggerisce anche una sensibilità per i dolci di tradizione austro-ungarica — strudel di mele, krapfen, torte di sfoglia — accanto ai classici della tradizione friulana.
+
+---
+
+### Al Pellegrino – Caffè nella Zona di Carraria
+
+**Indirizzo:** Zona Via Carraria – Cividale del Friuli (UD)
+
+(Si veda la scheda nel paragrafo dei bar di quartiere più sopra.)
+
+---
+
+### Bar Trattoria Ippolito – Gagliano
+
+**Indirizzo:** Strada di Gagliano, 64 – Gagliano (Cividale del Friuli), UD
+**Tel.:** 380 7603930
+
+La frazione di Gagliano si trova a pochi chilometri a sud-est del centro di Cividale, verso le colline e le prime propaggini del Carso friulano. La Bar Trattoria Ippolito è il tipo di locale che nelle campagne friulane svolge una funzione multipla: bar la mattina, trattoria a mezzogiorno, punto di incontro la sera. Le trattorie-bar di campagna come questa sono presidi di cultura locale: si mangiano i tajarin fatti in casa, si beve il vino locale acquistato direttamente dal produttore della zona, si festeggia il compleanno con gli amici del paese. È accessibile in auto e rappresenta un'alternativa piacevole al centro storico per chi vuole immergersi nel Friuli rurale.
+
+---
+
+### l'Osteriute – Gagliano / Purgessimo
+
+**Gagliano / zona meridionale del comune di Cividale del Friuli (UD)**
+
+Il termine "Osteriute" è il diminutivo friulano di "osteria" — una piccola osteria, intima, a misura d'uomo. Il locale è situato nella zona meridionale del comune, tra le frazioni di Gagliano e Purgessimo, in area collinare. Come molti locali di campagna del Friuli, è privo di pretese ma ricco di autenticità: un bancone, qualche tavolo, il vino locale e la conversazione che scorre senza fretta. È il Friuli autentico, quello che non ha bisogno di marketing ma che resiste grazie alla fedeltà dei suoi frequentatori.
+
+---
+
+### Borgu' Bruna – Purgessimo
+
+**Indirizzo:** Via Ugo Foscolo, 47 – Purgessimo (Cividale del Friuli), UD
+**Tel.:** 0432 730345
+
+Purgessimo è una delle frazioni del comune di Cividale del Friuli, situata a nord-est verso il confine con la Slovenia, nel cuore delle Valli del Natisone. Il bar Borgù Bruna — il nome friulano "borgù" significa borgo — è il punto di incontro della comunità di questa piccola frazione. In luoghi come Purgessimo, dove la vita è scandita dai ritmi dell'agricoltura e della vita rurale, il bar è l'unico presidio di socialità del paese: ci si trova per il caffè della mattina, per un bicchiere dopo il lavoro nei campi, per festeggiare le ricorrenze. Bruna — il nome proprio che completa il titolo — richiama la gestrice o fondatrice del locale, quel volto umano che in Friuli fa tutta la differenza.
+
+---
+
+## Tradizioni dolciarie e cultura del caffè a Cividale del Friuli
+
+Cividale del Friuli non è solo una città di monumenti: è anche una città dove la cultura del cibo e del bere è fortemente radicata nell'identità locale. La **gubana** — il dolce per eccellenza del Natisone — è molto più di una specialità gastronomica: è un simbolo di appartenenza, una ricetta che ogni famiglia custodisce gelosamente e che i panifici e le pasticcerie locali producono con varianti minime ma significative. Il **Gubana Day**, manifestazione annuale che si svolge di solito in autunno, porta a Cividale produttori da tutta la regione e attira appassionati da ogni parte del Friuli.
+
+Accanto alla gubana, la tradizione vuole che a colazione ci si fermi per un **caffè in piedi al banco**, possibilmente con un **cornetto burro** (in Friuli si dice "corneto al butîr") o con una fetta di gubana. Il **cappuccino** è ancora molto diffuso, mentre le tendenze specialty coffee arrivano più lentamente in questi centri di medie dimensioni rispetto alle grandi città. L'**espresso corretto** con grappa o con sambuca è un'abitudine radicata, specialmente nei bar di quartiere.
+
+Per l'**aperitivo**, Cividale vive il classico rito friulano: il **tajut** (il "taglio" di vino bianco o rosso in bicchiere) è preferito a molti cocktail elaborati, e nei bar che fanno anche enoteca si propongono calici dei Colli Orientali del Friuli — DO locale di straordinario livello, con il Friulano, la Ribolla Gialla, il Picolit dolce e il Ramandolo DOCG. Lo spritz con Aperol o Select è comunque presente, spesso accompagnato da cicchetti locali: frico croccante (il formaggio Montasio fritto), crostini con speck o prosciutto San Daniele, bruschette con salsiccia di Sauris.
+
+In estate, l'aperitivo all'aperto con vista sul Ponte del Diavolo o sui portici medievali è una delle esperienze più belle che Cividale del Friuli possa offrire — e che nessuna guida turistica riesce pienamente a descrivere senza averla vissuta.
+
+---
+
+## Fonti
+
+- PagineGialle.it – ricerca bar, pasticcerie, gelaterie a Cividale del Friuli (UD): [paginegialle.it](https://www.paginegialle.it/ricerca/bar%20e%20caffe'/cividale-del-friuli-ud)
+- Panificio del Foro – sito ufficiale: [www.gubana.eu](https://www.gubana.eu) / [www.panificiodelforo.com](https://www.panificiodelforo.com)
+- Civico 39 – scheda PagineGialle: [paginegialle.it](https://www.paginegialle.it/bar-civico-39-cividale-del-friuli-ud)
+- Pasticceria Gelateria Ducale – scheda PagineGialle: [paginegialle.it](https://www.paginegialle.it/pasticceria-gelateria-ducale-cividale-del-friuli)
+- OpenStreetMap – dati POI comuni di Cividale del Friuli (via Overpass API, maggio 2026): [openstreetmap.org](https://www.openstreetmap.org)
+- Wikipedia – voce "Cividale del Friuli": [it.wikipedia.org](https://it.wikipedia.org/wiki/Cividale_del_Friuli)
+- Wikivoyage – voce "Cividale del Friuli": [it.wikivoyage.org](https://it.wikivoyage.org/wiki/Cividale_del_Friuli)
+- Turismo FVG – pagina Cividale del Friuli: [turismofvg.it](https://www.turismofvg.it/localita/cividale-del-friuli)
+
+---
+
 ## Claut
 
 Claut è un piccolo comune montano della Valcellina, incastonato tra le Prealpi Carniche nella provincia di Pordenone, a circa 613 metri sul livello del mare. Con poco meno di 900 abitanti distribuiti tra il capoluogo e le sue numerose frazioni — Basoia, Cellino di Sopra, Cellino di Sotto, Contrón, Creppi, Lesis, Matàn, Pinedo, Massurìe e Mariáe — Claut è un borgo di dimensioni contenute dove la vita sociale gravita attorno a pochi, ma radicati, punti di ritrovo. La sua vocazione turistica, legata alla montagna, alla natura e all'artigianato locale (è famosa la produzione delle *papusse*, le tradizionali calzature friulane realizzate a Pinedo), porta un flusso di visitatori soprattutto nella stagione estiva e invernale, grazie anche allo Stadio del Ghiaccio con pista di pattinaggio e curling.
@@ -3359,6 +3827,236 @@ Per chi si trova in zona e desidera una colazione o un caffè più elaborato, i 
 - Albergo Alle Alpi — sito ufficiale: [www.albergoallealpi.com](https://www.albergoallealpi.com)
 - Wikipedia — voce "Comeglians": [it.wikipedia.org/wiki/Comeglians](https://it.wikipedia.org/wiki/Comeglians)
 - Carnia.it — scheda turistica del territorio: [www.carnia.it/it/node/comeglians](https://www.carnia.it/it/node/comeglians)
+
+---
+
+## Cordenons
+
+Cordenons è un comune di circa 18.000 abitanti in provincia di Pordenone, che confina direttamente a nord-ovest con il capoluogo di cui costituisce, di fatto, una propaggine residenziale e industriale. Nonostante la vicinanza a Pordenone — che assorbe buona parte della vita commerciale e del divertimento serale dell'area — Cordenons ha sviluppato nel tempo una propria rete di locali di quartiere, osterie di tradizione friulana e, più di recente, pub e birrerie che servono la numerosa popolazione locale. Non si tratta di un comune con una scena caffetteria d'avanguardia o con storici caffè letterari, ma di un tessuto vivo di bar di prossimità dove i cordenonesi fanno colazione la mattina, si fermano per un caffè dopo la spesa e si ritrovano per l'aperitivo serale.
+
+La cultura del bar a Cordenons segue il ritmo veneto-friulano: colazione veloce al bancone con cappuccino o caffè macchiato e una brioches (qui spesso chiamata ancora "croissant" o "cornetto"), pausa di metà mattina e — la parte più radicata nella vita sociale locale — l'aperitivo del tardo pomeriggio o della prima serata, spesso accompagnato da stuzzichini o da un tagliere. Lo spritz Aperol (o Campari, secondo i gusti) è la bevanda dell'ora d'aperitivo per eccellenza, ma nelle birrerie specializzate si trova anche una buona selezione di birre artigianali e importate. Vale la pena sapere che in zona è radicata anche l'abitudine di consumare il cosiddetto *tajut* — il mezzo bicchiere di vino bianco locale — nelle osterie più tradizionali, un'usanza che accomuna Cordenons al resto della provincia pordenonese e al vicino Friuli.
+
+---
+
+### Bar Pashà – Snack Bar (Centro, Piazza della Vittoria)
+
+**Indirizzo:** Piazza della Vittoria, 59 – 33084 Cordenons (PN)
+**Telefono:** 340 6595768
+
+Il Pashà Snack Bar è il locale di riferimento della piazza principale di Cordenons, la Piazza della Vittoria, che costituisce il cuore civico del comune. La posizione centrale, di fronte al municipio e a pochi passi dalla chiesa parrocchiale, lo rende un punto di passaggio obbligato per chi attraversa il centro nelle ore di punta della mattina e del tardo pomeriggio. Con un orario di apertura che si estende dalla prima mattina fino alle 2 di notte praticamente tutti i giorni della settimana, il Pashà è uno dei locali più longevi nelle sue fasce orarie: serve colazioni, pranzi veloci, aperitivi e si trasforma in un ritrovo serale nei fine settimana. La denominazione "snack bar" rimanda a un format misto tra bar classico e punto di ristoro leggero, con panini, toast e stuzzichini sempre disponibili. La piazza in cui si trova, pavimentata e raccolta, offre nelle belle stagioni la possibilità di consumare all'aperto, rendendo l'aperitivo serale una piacevole pausa prima di cena.
+
+---
+
+### Caffè Nogaredo – Pordenone Fan Club (Nogaredo, Via Sclavons)
+
+**Indirizzo:** Via Sclavons, 194 – 33084 Cordenons (PN)
+**Telefono:** 0434 541662
+**Facebook:** facebook.com/CaffeNogaredo
+
+Nella frazione di Nogaredo, percorrendo la lunga Via Sclavons che attraversa la parte orientale del comune, si trova il Caffè Nogaredo, locale che unisce la funzione di bar di quartiere a quella di edicola e rivendita di giornali. Il soprannome "Pordenone Fan Club" inciso nell'insegna e nella pagina Facebook rivela la vera anima del posto: è il punto di ritrovo degli appassionati del Pordenone Calcio, la squadra locale, e più in generale un luogo fortemente identitario per la comunità di Nogaredo. Non è raro che, nelle sere di partita o nel fine settimana, i tavoli siano occupati da gruppi che commentano i risultati sportivi davanti a una birra o a uno spritz. La mattina, come ogni bar di periferia che si rispetti, apre presto e serve le colazioni ai pendolari e agli operai della zona industriale che circonda questa parte del comune. La combinazione con l'edicola — sempre meno comune negli ultimi anni — lo rende un punto di socialità genuina, dove si compra il giornale, si fa due chiacchiere e ci si aggiorna sulle notizie locali.
+
+---
+
+### Bar Nogaredo (Nogaredo, Via Sclavons)
+
+**Indirizzo:** Via Sclavons, 208 – 33084 Cordenons (PN)
+**Telefono:** 0434 317933
+
+A poca distanza dal Caffè Nogaredo, quasi di fronte lungo la stessa arteria di Via Sclavons, si trova il Bar Nogaredo, gestito dalla famiglia Wang Feng. Come molti bar di quartiere nel pordenonese, questo locale è emblematico di una trasformazione avvenuta negli ultimi vent'anni in tutta la pianura friulano-veneta: la gestione di bar tradizionali è passata in molti casi a famiglie di origine cinese, che hanno mantenuto la formula del bar italiano (caffè, cappuccino, brioche, aperitivo) adattandola alle proprie esigenze. Il Bar Nogaredo è un punto di riferimento per i residenti della frazione, con un'offerta semplice e un servizio cordiale. Per chi si trova in zona e ha bisogno di un caffè rapido o di una sosta, è una scelta pratica e senza pretese.
+
+---
+
+### Padovan Eva (Centro, Via Monte Grappa)
+
+**Indirizzo:** Via Monte Grappa, 76 – 33084 Cordenons (PN)
+**Telefono:** 0434 313988
+
+Il bar gestito da Eva Padovan in Via Monte Grappa è uno dei locali di quartiere del centro residenziale di Cordenons, il tipo di posto che i friulani chiamerebbero semplicemente "il bar sotto casa". La via Monte Grappa, interna e tranquilla, è abitata da famiglie del comune e il bar di Eva è il luogo dove ci si ferma la mattina prima di andare a lavorare, si fa la pausa caffè di metà giornata e ci si incontra il sabato mattina per un caffè liscio o un'ombra di vino bianco. La gestione a conduzione familiare e il nome proprio della titolare rispecchiano un modello di esercizio tipicamente friulano, dove il bar è un'estensione del salotto di casa e il gestore conosce per nome buona parte della clientela.
+
+---
+
+### Bar Vesuvio / Bar Pesa (Centro, Via Monte Grappa)
+
+**Indirizzo:** Via Monte Grappa, 78 – 33084 Cordenons (PN)
+**Telefono:** 0434 930341
+
+Curiosità geografica: al civico 78 di Via Monte Grappa, praticamente adiacente al bar di Eva Padovan, si trova il Bar Vesuvio (noto anche come "Bar Pesa"), gestito dalla famiglia Pascale. Il nome "Vesuvio" tradisce origini meridionali del gestore — un fenomeno non insolito nel Nordest, dove negli anni del boom economico molte famiglie del Sud si trasferirono per lavorare nelle fabbriche del distretto industriale pordenonese. La presenza di due bar a pochissima distanza sulla stessa via parla di una densità abitativa e di una frequentazione locale che giustifica entrambi: ognuno ha la sua clientela fidelizzata, i suoi orari preferiti, il suo carattere. Il soprannome "Pesa" potrebbe riferirsi alla vicinanza con una storica pesa pubblica o con un punto di riferimento topografico locale.
+
+---
+
+### Bidinost Herman (Centro, Via Battisti)
+
+**Indirizzo:** Via Cesare Battisti, 28 – 33084 Cordenons (PN)
+**Telefono:** 0434 930164
+
+Il bar di Herman Bidinost in Via Cesare Battisti è uno di quei locali dove il cognome friulano del gestore dice già tutto sull'identità del posto. "Bidinost" è un cognome tipicamente radicato nella zona pedemontana del pordenonese e del friulano, e la gestione porta con sé quella continuità familiare e quella fedeltà alle abitudini locali che caratterizza i bar di paese meglio sopravvissuti alla standardizzazione. Via Cesare Battisti attraversa il centro di Cordenons non lontano dalla piazza principale, e questo bar è frequentato da una clientela mista di residenti storici del quartiere, artigiani e lavoratori della zona. La colazione, l'aperitivo e il *tajut* nel primo pomeriggio sono le tre anime di questo posto.
+
+---
+
+### Al Gatto Bianco (Centro, Via Maestra area)
+
+**Posizione:** Centro-est di Cordenons (coord. approx. 45.987, 12.703)
+**Instagram:** @algattobianco_cordenons
+
+Il nome evocativo — "Al Gatto Bianco" — distingue questo bar nel panorama dei locali di Cordenons. La presenza di un profilo Instagram dedicato suggerisce una gestione attenta all'immagine e probabilmente orientata a una clientela più giovane rispetto ai bar di quartiere di lunga tradizione. Sebbene i dati verificati siano limitati (il locale non compare sui principali portali con scheda completa), la geolocalizzazione lo pone nella zona centrale-orientale del comune. Il nome ha un sapore quasi mitteleuropeo, richiamando la tradizione dei locali con nomi d'animale tipici del Friuli e dell'Austria, e potrebbe indicare un'atmosfera curata, con una certa attenzione alla proposta di bevande e all'arredo.
+
+---
+
+### Mai Dire Bar (Cordenons ovest)
+
+**Posizione:** Cordenons occidentale (coord. approx. 45.983, 12.692)
+**Instagram:** @maidirebar
+
+Il gioco di parole nel nome — "Mai Dire Bar" richiama il famoso programma televisivo "Mai Dire Mai" della Gialappa's Band — dà subito il tono di questo locale: ironia, leggerezza, un'atmosfera informale e probabilmente orientata a un pubblico giovane o giovane-adulto. Si tratta di un bar della zona occidentale di Cordenons, più periferica rispetto al centro, il che lo rende verosimilmente un punto di ritrovo di quartiere con una propria identità. La presenza su Instagram, seppure con un numero di post ancora contenuto, indica una gestione moderna e la volontà di comunicare con la clientela attraverso i social media. Da segnalare per chi cerca un'alternativa ai locali più convenzionali del centro.
+
+---
+
+### Bar Turrin (Pasch, Via Pasch)
+
+**Indirizzo:** Via Pasch, 114 – frazione Pasch, 33084 Cordenons (PN)
+
+Nella frazione di Pasch, nella parte settentrionale del territorio comunale di Cordenons, si trova il Bar Turrin, uno dei locali più "rurali" del comune. La sua collocazione in una frazione periferica lo qualifica come bar di comunità nel senso più autentico: un posto dove i residenti della zona si fermano la mattina, dove i bambini passano dopo la scuola e dove gli anziani trascorrono parte del loro tempo libero. I bar nelle frazioni di questo tipo sono spesso anche punti di riferimento sociali in senso lato, quasi come circoli, dove circolano le notizie del paese, si organizzano le partite a carte e si festeggia qualsiasi ricorrenza. Il cognome "Turrin" è un cognome friulano-veneto radicato nel pordenonese.
+
+---
+
+### Bar Step (Via Maestra)
+
+**Indirizzo:** Via Maestra, 71 – 33084 Cordenons (PN)
+**Telefono:** 0434 930674
+
+Gestito dalla famiglia Lin Zhi Hang, il Bar Step è un altro esempio della presenza cinese nella gestione dei bar di quartiere del comune. La Via Maestra è una delle vie di scorrimento interne di Cordenons, e il bar serve principalmente la clientela di passaggio e i residenti della zona. Come per altri esercizi simili, la formula è quella del bar italiano classico: caffetteria, bibite, piccola pasticceria da banco, eventuale offerta di aperitivi. L'accessibilità e la praticità sono i punti di forza di questo tipo di locale.
+
+---
+
+### Bar al Ponte Meduna (Musil, Via Musil)
+
+**Indirizzo:** Via Musil, 48 – 33084 Cordenons (PN)
+**Telefono:** 0434 29937
+
+Situato in Via Musil, nella zona nord-orientale di Cordenons al confine con Pordenone, il Bar al Ponte Meduna prende il nome dall'omonimo ponte sul torrente Meduna che separa — o meglio collega — i due comuni. La posizione è strategica: chi percorre la strada tra Cordenons e Pordenone in direzione del centro di quest'ultima può fermarsi qui per un caffè o una sosta. La gestione Ye Haiwei indica ancora una volta la diffusa presenza di imprenditori cinesi nel settore della ristorazione e dei bar dell'area pordenonese. In passato lo stesso indirizzo ha ospitato anche il "Pasha' Snack Bar & Games", un locale con vocazione più ludica e di intrattenimento, il che suggerisce che questa zona di confine ha storicamente attirato diverse tipologie di locali.
+
+---
+
+### Bar Trattoria alla Passeggiata (Portolana, Via Portolana)
+
+**Indirizzo:** Via Portolana, 48 – 33084 Cordenons (PN)
+**Telefono:** 0434 532000
+
+La denominazione "Bar Trattoria alla Passeggiata", gestita dalla S.n.c. dei fratelli Polo Ermes e Gabriele, evoca immediatamente quella tipologia di locale che in Friuli si trova spesso ai margini dei paesi, lungo le vie di comunicazione secondarie o nei pressi di percorsi campestri: il posto dove ci si ferma a mangiare qualcosa di semplice dopo una passeggiata domenicale, dove si beve un bicchiere di vino locale prima di rientrare a casa. Via Portolana si trova nella zona settentrionale del comune, vicino alla frazione di Romans, in un contesto più aperto e meno densamente edificato rispetto al centro. La formula mista bar-trattoria è tipica del Friuli rurale e garantisce che, in qualsiasi ora si arrivi, si trovi qualcosa da mettere sotto i denti.
+
+---
+
+### Bierengel – Birreria Bavarese (Via Sclavons)
+
+**Indirizzo:** Via Sclavons, 52 – 33084 Cordenons (PN)
+**Telefono:** 0434 537050
+**Orari:** ogni giorno 19:00–24:00
+**Sito web:** www.bierengel.it
+**Servizi:** tavoli all'aperto, asporto, accessibile ai disabili
+
+Il Bierengel è senza dubbio il locale più caratteristico e originale di Cordenons nel panorama dei bar e dei locali da aperitivo/cena. Si tratta di una birreria tedesco-bavarese situata lungo la via Sclavons, il principale asse est-ovest del comune, e propone un'esperienza gastronomica decisamente insolita per l'area: cucina tedesca autentica abbinata a una selezione di birre importate di qualità. Il nome stesso — "Bierengel" significa letteralmente "angelo della birra" in tedesco — stabilisce subito le coordinate culturali del posto.
+
+Il menu è un affascinante intreccio tra tradizione alpina germanica e prodotti locali friulani. Tra i piatti forti si trovano i **Knödel** (canederli) in tre varianti — agli spinaci, al formaggio, e alla "Pressa" — gli **Spätzle**, i **Wienerschnitzel** e **Zigeunerschnitzel** (cotolette viennese e alla tzigana) e lo stinco al forno. Notevole è il **Tagliere della Stube** — il grande piatto misto da condivisione a 39 euro — che include salumi friulani di qualità come la *pitina di cervo*, la *pitina di pecora*, il landjäger e lo speck, affiancati da formaggio e kren (rafano): un felice matrimonio tra l'anima mitteleuropea del Friuli e la tradizione bavarese. Le birre proposte includono la Mönchshof Original (una pils al 4,9%), la Wold Top "Against the Grain" (birra gluten-free al 4,5%) e la versione analcolica Mönchshof Naturtrüb's, oltre a un ampio catalogo di birre in bottiglia e lattina consultabile sul sito. I tavoli all'aperto, disponibili nelle stagioni più miti, rendono il Bierengel un'ottima scelta anche per una serata estiva en plein air. È aperto tutte le sere fino a mezzanotte, sabato e domenica compresi, e accoglie sia chi cerca una cena completa che chi vuole fermarsi per una birra e uno spuntino.
+
+---
+
+### Snoopy Pub (Pasch, Viale Dolomiti)
+
+**Indirizzo:** Viale Dolomiti, 17 – 33084 Cordenons (PN)
+**Telefono:** 338 4932783
+**Orari:** martedì–domenica 18:00–03:00; lunedì chiuso
+
+Nella zona settentrionale del comune, non lontano dalla frazione di Pasch, lo Snoopy Pub è il locale notturno per eccellenza di Cordenons: apre nel tardo pomeriggio e rimane operativo fino alle tre di notte durante la settimana, trasformandosi nel fine settimana (sabato aperto dalle 18) in un punto di riferimento per chi cerca musica, compagnia e un ambiente più giovane. Come suggerisce la recensione raccolta su Yelp — *"Porzioni abbondanti e cibo buono. Il personale di sala è cortese. Vi consiglio di prenotare perché è spesso pieno"* — il locale è frequentato e tende a riempirsi, soprattutto nei fine settimana. Dotato di dehors e di uno schermo TV, offre anche stuzzichini e piatti semplici. Il nome Snoopy, iconico personaggio dei Peanuts, si ritrova in diversi pub italiani degli anni Ottanta e Novanta ed è un marker generazionale: il locale ha probabilmente una storia di alcuni decenni e una clientela in parte fidelizzata da anni.
+
+---
+
+### Osteria al Curtif (Cordenons ovest)
+
+**Posizione:** zona ovest di Cordenons (coord. approx. 45.984, 12.692)
+
+L'Osteria al Curtif — il cui nome dialettale *curtif* significa letteralmente "cortile" in friulano e veneto — è uno di quei piccoli locali tradizionali che mantengono viva la cultura dell'osteria di paese. Quasi non compare nelle guide online e non ha una scheda completa sui principali portali, il che la rende ancor più autentica agli occhi di chi cerca esperienze genuine. La recensione raccolta su Yelp da parte di un avventore offre un ritratto preciso: *"Cucina tradizionale friulana, curata, posto carino e accogliente, servizio buono. Ci tornerei."* Il curtile — ovvero il cortile interno — è da sempre nella cultura rurale friulana il luogo della socialità familiare e di vicinato, e il nome del locale evoca esattamente quella dimensione di intimità conviviale. Si ordina qui il *tajut* di vino bianco, si mangia qualcosa di semplice e stagionale, si chiacchiera senza fretta. Un posto da scoprire direttamente, senza troppe aspettative, per ritrovare l'autentico spirito dell'osteria friulana.
+
+---
+
+### Bar Pizzeria Sport (Nogaredo, Via Sclavons)
+
+**Indirizzo:** Via Sclavons, 22/A – 33084 Cordenons (PN)
+**Telefono:** 0434 932640
+**Orari:** martedì–domenica 08:00–14:00 e 17:00–22:00; lunedì chiuso
+**Facebook:** Pizzeria-SPORT-106821730989309
+
+La denominazione "Sport" ricorre in decine di bar e pizzerie del Friuli e del Veneto: è quasi un'etichetta socioculturale, che rimanda ai bar aperti vicino ai campi sportivi o ai campetti di calcio, o semplicemente a un'identità di bar popolare e maschile dove ci si ferma prima e dopo la partita. Il Bar Pizzeria Sport di Via Sclavons a Cordenons segue questo solco: è un locale misto che serve colazioni la mattina, pizze e piatti di cucina casalinga a pranzo e la sera, con il bar sempre aperto. La pagina Facebook conferma la presenza online, con una comunicazione orientata a promo locali e proposte della settimana. La posizione sulla via Sclavons, nelle vicinanze di Bierengel e Caffè Nogaredo, lo inserisce nel "corridoio" di locali della parte orientale del comune.
+
+---
+
+### Caffè Pasticceria La Rosa (San Giacomo, Via Nazario Sauro)
+
+**Indirizzo:** Via Nazario Sauro, 23 – 33084 Cordenons (PN)
+**Telefono / WhatsApp:** 391 7725977
+**Instagram:** @caffelarosa_cordenons
+
+La Caffè Pasticceria La Rosa è il punto di riferimento dolciario di Cordenons e l'unico esercizio che abbina esplicitamente la funzione di caffetteria a quella di pasticceria nella zona di San Giacomo (Sant Jacum nel dialetto locale), una delle frazioni abitate del comune. La presenza su Instagram con un profilo dedicato — @caffelarosa_cordenons — suggerisce una gestione moderna e attenta alla comunicazione visiva, con vetrine di dolci e preparazioni che vengono fotografate e condivise. La rosa come simbolo richiama eleganza e cura: ci si aspetta qui una proposta di piccola pasticceria artigianale, torte su ordinazione e prodotti da forno accompagnati da un buon caffè. L'indirizzo in Via Nazario Sauro è in una zona residenziale tranquilla, che si presta bene alla sosta mattutina per la colazione o al pomeriggio con un caffè e una pasta. Per chi è in cerca di una pasticceria locale di qualità a Cordenons senza doversi spostare a Pordenone, La Rosa è la scelta principale.
+
+---
+
+### Pasticceria Artigianale (Cordenons centro)
+
+**Telefono / WhatsApp:** 0434 932637 – 389 5375146
+
+Un secondo esercizio con vocazione pasticcera è presente nel territorio di Cordenons, sebbene il nome commerciale non risulti sempre visibile sulle piattaforme online. L'insegna del locale, censita su Pagine Gialle tra le pasticcerie del comune, si descrive come specializzata in *"torte, piccola pasticceria, monoporzioni, biscotteria, vini, aperitivi e tanto altro"*: una formula che unisce il banco dolci classico (brioche, mignon, torte per cerimonie) a un'offerta di vini e aperitivi. Questo tipo di pasticceria-bar è diffuso in tutto il Friuli e garantisce una doppia funzione nelle fasce orarie: dolciaria al mattino e nel pomeriggio, più conviviale nella fascia preserale. Per informazioni e orari è consigliabile contattare direttamente il numero indicato.
+
+---
+
+### Ristorante alla Campana (Centro, Piazza della Vittoria)
+
+**Indirizzo:** Piazza della Vittoria, 39 – 33084 Cordenons (PN)
+**Telefono:** 0434 932025
+**Orari:** martedì–domenica 12:00–14:00 e 19:00–22:00; lunedì chiuso
+**Sito web:** www.allacampana.it
+**Servizi:** patio esterno sulla piazza, accessibile ai disabili
+
+Affacciato sulla stessa Piazza della Vittoria dove si trova il Pashà Snack Bar, il Ristorante alla Campana è il locale gastronomico più rappresentativo del centro di Cordenons. La sua storia è quella del ristorante di paese che nel tempo ha affinato la propria identità senza snaturarla: cucina veneto-friulana rivisitata in chiave moderna, con attenzione alla stagionalità e ai prodotti del territorio. Come recita il sito ufficiale, *"il menù segue la stagionalità delle materie prime: piatti di pesce e proposte di carne tipici della tradizione veneto-friulana rivisitati in chiave moderna"*. Il patio esterno che guarda la piazza e la chiesa è uno degli spazi più gradevoli di tutto il comune per un pranzo o una cena nelle belle stagioni. Sebbene sia principalmente un ristorante, anche il bar è accessibile ai clienti di passaggio e il locale è un punto di riferimento per gli aperitivi del venerdì e sabato sera, quando la piazza si anima.
+
+---
+
+### Bar Hotel Naonis (Via Musil)
+
+**Indirizzo:** Via Musil, 1 – 33084 Cordenons (PN)
+**Telefono:** 0434 541014
+
+L'Hotel Naonis — tre stelle, situato in Via Musil al confine con Pordenone — dispone di un bar interno aperto anche ai non ospiti. I bar degli hotel di questa categoria, nell'area pordenonese, sono spesso frequentati da professionisti in trasferta, visitatori di fiere (il polo fieristico di Pordenone è nelle vicinanze) e residenti del quartiere che cercano un ambiente tranquillo e climatizzato. La colazione dell'hotel è ovviamente il servizio principale, ma il bar è accessibile anche per un caffè veloce o un aperitivo. Il nome "Naonis" rimanda all'antico nome romano della città di Pordenone (Forum Iulii Nonarum), un riferimento colto al territorio che indica attenzione all'identità locale da parte della struttura.
+
+---
+
+### Bar Hotel Antica Locanda (Via Sclavons)
+
+**Indirizzo:** Via Sclavons, 53 – 33084 Cordenons (PN)
+**Telefono:** 0434 581369
+**Sito web:** www.hotelanticalocanda.it
+
+Sempre sulla via Sclavons, a poca distanza dal Bierengel, si trova l'Antica Locanda, un hotel tre stelle con annesso bar. La denominazione "Antica Locanda" evoca la tradizione delle locande di posta che punteggiavano le vie di comunicazione del Friuli, offrendo ristoro ai viaggiatori. Il sito web conferma una gestione tradizionale, con camere, parcheggio e un bar interno. Come per l'Hotel Naonis, anche qui il bar è accessibile alla clientela esterna: è un'opzione per una colazione tranquilla o un aperitivo in un ambiente sobrio, a metà tra il bar di quartiere e la sala dell'albergo.
+
+---
+
+## Note sulla scena dei bar a Cordenons
+
+Cordenons non ha un caffè storico paragonabile ai grandi caffè di Trieste, Udine o Pordenone città: si tratta di un comune prevalentemente residenziale e industriale, il cui tessuto urbano è cresciuto rapidamente nel dopoguerra senza sedimentare quella cultura dei caffè letterari o di piazza che caratterizza i centri storici più antichi. La sua identità gastronomica, in questo senso, è quella di una comunità lavoratrice e di periferia, dove il bar è innanzitutto un servizio di quartiere — un posto per fare colazione in fretta, per bere un caffè in piedi al bancone, per ritrovarsi tra amici la sera.
+
+Ciò che Cordenons offre di peculiare è la varietà di microidentità dei suoi locali: il bar con la piazza, il bar-edicola del tifoso, la birreria bavarese insolita per il contesto, l'osteria con il nome dialettale del cortile, la pasticceria di frazione. È una galassia di luoghi piccoli e fortemente locali, che rispecchiano la composizione sociale del comune — friulani d'origine, famiglie del Sud trasferitesi negli anni del boom, nuovi residenti di origine cinese — e che nel loro insieme offrono un ritratto fedele della vita quotidiana di un comune medio del Friuli occidentale contemporaneo.
+
+Per la **specialty coffee** di terza ondata, le torrefazioni artigianali e i cocktail bar ricercati, il riferimento rimane Pordenone città, raggiungibile in pochi minuti. Chi si trova a Cordenons e vuole vivere l'esperienza del bar locale autentico, tuttavia, ha tutto quello che serve per farlo.
+
+---
+
+## Fonti
+
+- Pagine Gialle – paginegialle.it: schede bar e caffè di Cordenons (PN), consultato maggio 2026
+- Pagine Bianche – paginebianche.it: ricerca bar e caffetteria a Cordenons, consultato maggio 2026
+- Yelp Italia – yelp.it: ricerca "bar" e "caffè colazione" a Cordenons, consultato maggio 2026
+- OpenStreetMap / Overpass API: dati geospaziali locali di Cordenons (query bounding box 45.96–46.01, 12.67–12.74), consultato maggio 2026
+- Bierengel – bierengel.it: menu e informazioni ufficiali, consultato maggio 2026
+- Ristorante alla Campana – allacampana.it: descrizione e menu, consultato maggio 2026
+- Nominatim (OSM): geolocalizzazione indirizzi Cordenons, consultato maggio 2026
 
 ---
 
@@ -8057,6 +8755,85 @@ Non esiste a Marano — almeno non nei dati disponibili — alcuna torrefazione 
 
 ---
 
+## Mariano del Friuli
+
+Mariano del Friuli è un piccolo comune di circa 1.520 abitanti nella provincia di Gorizia, incastonato nel cuore del territorio del Collio — una delle denominazioni vinicole più prestigiose d'Italia. Il paese fa parte dell'associazione nazionale "Città del Vino", e la sua identità è profondamente legata alla viticoltura e alla cultura contadina del Friuli Venezia Giulia. Come avviene in molti comuni rurali di questa fascia, la vita sociale si concentra attorno alla piazza principale e a pochi locali storici, dove la gente del posto si ritrova la mattina per il caffè e la sera per un bicchiere di vino o uno spritz.
+
+La scena dei bar è, comprensibilmente, assai contenuta: Mariano del Friuli non possiede un tessuto commerciale denso come quello di Gorizia o di Cormons (distante appena 4-5 km), ma offre tutto il necessario per la socialità quotidiana del paese. La colazione si fa al bar di piazza, il gelato si prende alla gelateria storica sulla piazza, e l'aperitivo spesso coincide con il vino di produzione locale. Non mancano la trattoria con annesso bar per il quartiere e qualche agriturismo nella frazione di Corona, dove la logica dell'ospitalità rurale si intreccia con quella vinicola del Collio.
+
+---
+
+### Gelateria La Girandola
+
+**Piazza del Municipio, 4 — Mariano del Friuli (GO)**
+Telefono: +39 0481 699813 | Sito web: [www.lagirandola.com](http://www.lagirandola.com)
+
+La Girandola è il punto di riferimento principale di Mariano del Friuli per colazione, gelato, pasticceria e serata. Si tratta di una gelateria artigianale che fa parte di una piccola rete regionale presente anche a Gorizia (due sedi), Pasian di Prato, Tricesimo e Cussignacco, ma il punto di Mariano si distingue per essere l'unico della catena ad aprire già alle otto di mattina — un segnale inequivocabile della sua funzione di bar-colazione per i residenti.
+
+La Girandola si presenta come *"Gelateria Artigianale Bar Pasticceria"*: in un unico spazio si trovano quindi il banco del bar con caffetteria, la vetrina dei gelati artigianali e una proposta di pasticceria. La mattina è il momento del caffè e della brioche, nel pomeriggio dominano i gelati e i dolci, mentre la sera — la Girandola rimane aperta fino a mezzanotte (mezzanotte e mezza il venerdì e il sabato) — diventa naturalmente uno dei punti di ritrovo del paese per un gelato dopo cena o per un aperitivo.
+
+È chiusa il mercoledì.
+
+---
+
+### Bar Roma
+
+**Piazza del Municipio, 9 — Mariano del Friuli (GO)**
+Telefono: +39 0481 69558
+
+Il Bar Roma occupa un posto simbolico nel tessuto sociale di Mariano del Friuli: è il classico bar di piazza del paese italiano, affacciato direttamente su Piazza del Municipio a pochi passi dalla Girandola. In un comune di queste dimensioni, il bar di piazza è anche il crocevia della vita quotidiana — il luogo dove si beve il caffè la mattina, si leggono le notizie, ci si scambia due parole con il vicino, si gioca a carte nel pomeriggio e si prende l'aperitivo prima di cena.
+
+Il Bar Roma non ha una presenza online strutturata né un sito web, ed è esattamente il tipo di locale che non ha bisogno di farsi pubblicità: la sua clientela è locale e fedele, e la sua ragione di esistere è servire la comunità da generazioni. Nessun orario ufficiale è rintracciabile online, ma nei bar di questa tradizione si lavora solitamente dall'alba al tardo pomeriggio o sera.
+
+---
+
+### Bar Trattoria Manzoni
+
+**Via Alessandro Manzoni, 92 — Mariano del Friuli (GO)**
+Telefono/WhatsApp: 349 7307957
+Titolari: Murgut Marzia e Possamai Stefano S.n.c.
+
+Il Bar Trattoria Manzoni si trova nella parte meridionale del paese, lungo Via Manzoni, lontano dalla piazza principale. È un locale ibrido di tipo tipicamente friulano: il banco del bar convive con la sala della trattoria, e i due mondi si alternano nell'arco della giornata. La mattina è il momento del bar — caffè, magari una grappa o un'ombra per chi inizia presto la giornata di lavoro nei campi — poi arriva il pranzo della trattoria, e nel tardo pomeriggio si torna all'aperitivo.
+
+La gestione familiare, il contatto telefonico via WhatsApp e l'assenza di una presenza digitale strutturata parlano di un locale radicato nel quartiere, che vive di rapporti personali. In contesti rurali come questo, la trattoria-bar è spesso il vero cuore sociale della zona, più della piazza.
+
+---
+
+### Autobar (Via Manzoni)
+
+**Via Alessandro Manzoni — Mariano del Friuli (GO)**
+
+Lungo Via Manzoni, nella zona sud del comune, è presente un piccolo edificio adibito a bar classificato nelle mappe OpenStreetMap come "Autobar". Il nome suggerisce una funzione di bar di passaggio o di sosta lungo strada, forse legato alla viabilità che attraversa il territorio comunale. Non sono disponibili numero di telefono, orari o ulteriori informazioni: potrebbe trattarsi di un locale a carattere stagionale o con apertura ridotta. Chi percorre Via Manzoni in direzione di Cormons potrebbe trovarlo aperto; in assenza di conferme recenti, è consigliabile verificarne l'operatività prima di farci affidamento.
+
+---
+
+### Agriturismo Villa De Finetti *(frazione di Corona)*
+
+**Via Trieste, 1 — Corona, Mariano del Friuli (GO)**
+
+Nella frazione di Corona, l'unico nucleo abitato distinto dal capoluogo comunale, si trova l'Agriturismo Villa De Finetti. Non è un bar nel senso stretto del termine, ma in un territorio come il Collio gli agriturismi svolgono spesso una funzione analoga: accoglienza, degustazione di vini locali, pasti in un contesto rurale con tavoli all'aperto (dispone di posti a sedere esterni). Per chi visita Mariano del Friuli con un interesse per il vino locale, Villa De Finetti rappresenta un punto naturale di sosta per scoprire i vini del Collio direttamente sul territorio che li produce. La logica non è quella del caffè al volo ma dell'ospitalità lenta, tipica della tradizione agricola friulana.
+
+---
+
+### Una nota sul contesto vinicolo
+
+Mariano del Friuli si trova all'interno della DOC Collio, e questo colora inevitabilmente anche la cultura del bar e dell'aperitivo locale. Lo spritz è popolare come altrove in Friuli, ma qui si affianca naturalmente alla proposta di vini bianchi locali — Friulano, Malvasia, Pinot Grigio — che in qualsiasi bar del paese si possono trovare al bicchiere a prezzi locali. L'aperitivo a Mariano ha spesso il sapore diretto e senza fronzoli del vino di vigna, servito con qualche salume del posto.
+
+Per chi cerca una scena enologica più strutturata con enoteche, wine bar dedicati o degustazioni formali, il riferimento naturale rimane **Cormons** (4-5 km), capoluogo vinicolo della zona con un'offerta assai più ampia che include l'Enoteca Regionale del Friuli Venezia Giulia.
+
+---
+
+## Fonti
+
+- **OpenStreetMap / Overpass API** — dati geografici e classificazione dei locali (nodi OSM: 3081490476, 3653002602, 582584269, 36358502; 6443789069, 9805513758)
+- **Nominatim Geocoder (OpenStreetMap)** — verifica indirizzi e assegnazione alle frazioni
+- **Pagine Gialle** — conferma Bar Trattoria Manzoni ([paginegialle.it](https://www.paginegialle.it))
+- **La Girandola** — sito ufficiale della catena ([www.lagirandola.com](http://www.lagirandola.com)), orari e descrizione del locale di Mariano del Friuli
+- **Associazione Nazionale Città del Vino** — status di Mariano del Friuli come Città del Vino
+- Ricerca effettuata il 14 maggio 2026
+
+---
+
 ## Martignacco
 
 Martignacco (_Martignà_ in friulano) è un comune di circa 6.800 abitanti situato nell'alta pianura friulana, a una decina di chilometri a ovest di Udine. Il territorio comprende le frazioni di Casanova, Ceresetto, Faugnacco, Nogaredo di Prato e Torreano, distribuite in un paesaggio quasi interamente pianeggiante che si apre verso le prime colline a nord. Nonostante le sue dimensioni contenute, Martignacco si è affermato come un polo commerciale di rilievo regionale grazie alla presenza di **Città Fiera**, uno dei centri commerciali più grandi del Nordest d'Italia, che sorge lungo Via Antonio Bardelli. Questo elemento ha profondamente influenzato il tessuto dei consumi locali: accanto ai bar di quartiere dove i martignacchesi vanno a fare colazione e a bersi uno spritz in compagnia, si trovano anche esercizi inseriti nella grande distribuzione commerciale, frequentati da visitatori provenienti da tutto il Friuli.
@@ -8488,6 +9265,450 @@ La tradizione dell'*osmiza* (mescita temporanea di vino in casa del produttore),
 
 ---
 
+## Monfalcone
+
+Monfalcone (in dialetto bisiacco *Mofalcon*, in friulano *Monfalcon*, in sloveno *Tržič*) è una città di circa 31.000 abitanti nella provincia di Gorizia, sulla fascia costiera settentrionale del Mar Adriatico. Polo industriale legato alla Fincantieri — i cantieri navali più importanti d'Italia — la città vive una socialità intensa e pragmatica, dove il bar è anzitutto luogo di ritrovo prima del turno di lavoro, durante la pausa, e nelle serate tra colleghi. La cultura del caffè qui riflette in parte l'eredità triestina (pochi chilometri a sud-est), con il rito dello "sgambetto" mattutino — espresso e brioche in piedi al banco — ma anche l'aperitivo pomeridiano con spritz che è diventato un rituale irrinunciabile nelle piazze e sui viali alberati del centro.
+
+La città è attraversata dal Corso del Popolo e da via Duca d'Aosta, due arterie commerciali con una forte concentrazione di bar. La Piazza della Repubblica è il salotto cittadino per eccellenza, sede dei caffè più frequentati. Verso il mare, la frazione di Marina Julia si anima d'estate con i bar da spiaggia, mentre la zona di Panzano, più periferica ma vivace, ha i propri locali di quartiere che aprono alle prime luci dell'alba per i lavoratori dei cantieri.
+
+---
+
+### Pasticceria Tamburin
+
+**Indirizzi:** Via Cesare Toti, 1 (sede storica) · Via Eugenio Valentinis, 63 (nuova sede)  
+**Sito web:** [tamburinpasticceria.it](https://www.tamburinpasticceria.it/)  
+**Tel.:** +39 0481 410496
+
+La Pasticceria Tamburin è una delle istituzioni dolciarie più longeve di Monfalcone, con radici che affondano nel 1930. Domenico Tamburin aprì i suoi primi panifici a Pola e Fasana, nell'Istria ancora italiana, assieme ai figli Ferdinando e Marino. Le vicende della Seconda guerra mondiale e dell'esodo istriano portarono la famiglia a trasferirsi a Monfalcone nel 1947, dove impiantarono la loro arte con la medesima passione. Oggi è la quarta generazione — Greta e Guerrino — a custodire e rinnovare questa tradizione, avendo aperto una seconda sede in via Valentinis.
+
+Il legame con il territorio è profondissimo: la pasticceria Tamburin ha preparato le torte per le cerimonie di varo delle navi della Fincantieri e, fatto memorabile, per la visita del principe Carlo d'Inghilterra. Il laboratorio sforna ogni giorno torte personalizzate, mignon, biscotteria da tè e pane artigianale — bianco, ai cinque cereali, alla soya, al kamut — con una selezione manuale delle materie prime. La zona bar propone espresso, cioccolata calda, thè e infusi, affiancati da una piccola ma curata selezione di vini regionali e italiani. Chi vuole può accompagnarsi con un tagliere di salumi e formaggi del territorio, trasformando la colazione in uno spuntino serio. Per chi passa da Monfalcone e vuole portarsi a casa un ricordo gustoso, i mignon e la biscotteria da tè sono la scelta più riuscita.
+
+---
+
+### Pasticcerie Maritani — Caffè Municipio
+
+**Indirizzo:** Piazza Unità d'Italia, 1  
+**Tel.:** +39 0481 755801 · **Email:** info@maritani.it  
+**Sito web:** [maritani.it](https://www.maritani.it/)
+
+Maritani è, senza esagerazione, la pasticceria di riferimento dell'intera provincia di Gorizia. Fondata tre generazioni fa, è l'**unica pasticceria del Friuli Venezia Giulia iscritta all'Accademia Maestri Pasticceri Italiani (AMPI)**, la più prestigiosa associazione di categoria italiana. Gambero Rosso l'ha premiata ripetutamente, riconoscendola come punto di riferimento assoluto per l'eccellenza artigianale.
+
+Il Caffè Municipio, affacciato sulla Piazza Unità d'Italia nel cuore di Monfalcone, è la vetrina più rappresentativa. L'ambiente è curato, con seating esterno che d'estate prolunga la socialità in piazza. La filosofia produttiva è fondata sul lievito madre da rinfresco — dal 2024 Maritani è entrata nel Consorzio per la Tutela del Lievito Madre da Rinfresco — e su una lunga lievitazione che garantisce digeribilità e profumo. I lievitati da forno, i biscotti artigianali, i dolci della tradizione giuliana e il pan di Spagna sono tra i prodotti più amati. Da non perdere la linea "Profumo di Trieste", che include anche un omonimo liquore artigianale che racconta l'identità culturale di quest'area di confine. Colazione ideale: un espresso con brioche burro e marmellata, o un cornetto sfogliato al naturale.
+
+---
+
+### Pasticcerie Maritani — Caffè Carducci
+
+**Indirizzo:** Monfalcone (sede secondaria in centro città)
+
+Oltre al Caffè Municipio, Maritani gestisce il Caffè Carducci, altra sede cittadina che replica la stessa filosofia di qualità certificata e l'identico standard nella produzione artigianale. È il posto ideale per chi vuole fare colazione fuori dalla piazza principale, in un contesto leggermente più raccolto ma con la stessa garanzia sul prodotto. Come al Caffè Municipio, l'offerta comprende l'intera gamma di dolci artigianali Maritani, espresso di qualità, brioche e lievitati del laboratorio.
+
+---
+
+### Goppion Caffetteria
+
+**Indirizzo:** Via Duca d'Aosta, 72
+
+Su via Duca d'Aosta, una delle arterie commerciali di Monfalcone, si trova la Goppion Caffetteria, locale che porta in città il nome di uno dei torrefattori veneti più rinomati, la Goppion Caffè di Treviso. La torrefazione Goppion è nota per la qualità delle miscele e per la sua storia ultracentenaria. Qui la gestione è affidata a Good Food S.r.l., che abbina la caffetteria a una funzione di panificio: un mix quotidiano che attira tanto chi cerca un espresso ben estratto quanto chi vuole comprare pane fresco. L'ambiente è semplice e funzionale, tipico bar di quartiere dove la qualità della tazza è il vero punto di forza.
+
+---
+
+### Casa del Caffè
+
+**Indirizzo:** Piazza Camillo Benso Conte di Cavour, 11  
+**Tel.:** +39 0481 790355
+
+Affacciato sulla Piazza Cavour, uno degli spazi pubblici di Monfalcone dove la gente del posto si incontra lontano dal turismo, la Casa del Caffè è un ritrovo dal nome eloquente. La collocazione sulla piazza lo rende punto di sosta naturale per chi passeggia o fa commissioni nel centro. Si tratta di un classico bar italiano — espresso, cappuccino, brioche, qualche stuzzichino per l'aperitivo — senza fronzoli, dove contano la regolarità del servizio e la familiarità con i clienti abituali.
+
+---
+
+### Mon Petit Caffè
+
+**Indirizzo:** Via Roma, 47
+
+Il nome francese tradisce una certa ambizione di raffinatezza, e in effetti Mon Petit Caffè si distingue dai bar più spartani del quartiere per un'attenzione particolare alla presentazione e all'ambiente. Si trova su via Roma, frequentata arteria del centro. L'offerta si orienta verso la caffetteria curata, con cappuccini lavorati e un assortimento di dolci da pasticceria selezionati. Frequentato soprattutto a metà mattina e nel pomeriggio, è il tipo di posto dove ci si siede con calma a sfogliare una rivista.
+
+---
+
+### Caffè Roma
+
+**Indirizzo:** Centro, zona corso principale
+
+Il Caffè Roma è uno dei locali storici del centro di Monfalcone, situato lungo il percorso principale che collega le piazze cittadine. Come molti caffè italiani di questo tipo, è un punto di riferimento trasversale: frequentato a colazione dai commercianti del quartiere, a pranzo per un veloce tramezzino, e nel pomeriggio per l'aperitivo. Il nome stesso evoca la tradizione dei caffè italiani di stampo novecentesco.
+
+---
+
+### Caffè Corso
+
+**Indirizzo:** Centro, zona corso
+
+Il Caffè Corso — nome che indica la sua collocazione lungo il corso principale — è un classico bar cittadino che funziona come crocevia della vita quotidiana monfalconese. Aperto dalle prime ore del mattino, è il posto dove i pendolari della Fincantieri si fermano per il primo caffè prima di entrare in cantiere, e dove nel tardo pomeriggio si ritrovano amici e famiglie per lo spritz. L'ambiente è vivace e informale.
+
+---
+
+### Bar Ritz
+
+**Indirizzo:** Piazza della Repubblica, 26  
+**Tel.:** +39 347 042 4404  
+**Dehors:** sì
+
+Il Bar Ritz occupa una posizione invidiabile sulla Piazza della Repubblica, il cuore pulsante di Monfalcone, con seating esterno che nei mesi primaverili ed estivi si riempie di monfalconesi di ogni età. È uno dei locali più riconoscibili della città, punto di riferimento sia per la colazione mattutina che per l'aperitivo serale. Seduti ai tavoli all'aperto, con la piazza animata davanti, si capisce perché questo bar — con la sua posizione centrale e la sua continuità nel tempo — sia diventato un simbolo della socialità monfalconese. Lo spritz Aperol è la bevanda più ordinata all'ora dell'aperitivo.
+
+---
+
+### Bar Nazionale
+
+**Indirizzo:** Via Duca d'Aosta, 99
+
+Su via Duca d'Aosta, la strada commerciale più lunga di Monfalcone, il Bar Nazionale è uno di quei locali di prossimità che fanno parte del tessuto invisibile ma essenziale della vita cittadina. I residenti del quartiere lo frequentano con una regolarità quasi rituale: caffè al mattino, qualche chiacchiera al banco, magari un'osteria volante a tarda mattina. Il nome — classico, inequivocabile — dice già tutto sulla sua vocazione.
+
+---
+
+### Bar De Pellegrin
+
+**Indirizzo:** Via Duca d'Aosta, 102
+
+A pochi numeri civici dal Bar Nazionale, il Bar De Pellegrin è un altro nodo della rete di bar che punteggiano via Duca d'Aosta. Il cognome nel nome suggerisce una gestione familiare, probabilmente di lunga data, come spesso accade nei bar di quartiere friulano-giuliani. L'atmosfera è quella del bar di vicinato dove ci si riconosce, ci si saluta, e si sa già cosa si vuole senza dover chiedere.
+
+---
+
+### Bar Commercio
+
+**Indirizzo:** Via Duca d'Aosta, 110
+
+Terzo della serie su via Duca d'Aosta, il Bar Commercio completa il trittico di locali di quartiere lungo questa arteria. La vicinanza dei tre esercizi riflette la densità commerciale e residenziale della zona, e la capacità del bar italiano di sopravvivere anche a pochi metri di distanza dagli altri, perché ogni cliente ha il suo. Il Commercio è frequentato specialmente da chi lavora nella zona, per la pausa pranzo e il caffè del pomeriggio.
+
+---
+
+### Roma 35
+
+**Indirizzo:** Centro, zona Piazza Repubblica / Via Roma  
+**Dehors:** sì
+
+Roma 35 è un locale giovane e dinamico del centro di Monfalcone, con dehors esterno che lo rende particolarmente attraente nelle stagioni calde. Si colloca nel segmento dell'aperitivo e del dopo-lavoro, con una proposta che va dallo spritz classico ai cocktail più elaborati. L'ambiente è informale e accogliente, frequentato da una clientela variegata che include studenti, impiegati e professionisti. Il sabato sera tende ad animarsi sensibilmente.
+
+---
+
+### Saint Mark's — Birreria Paninoteca
+
+**Indirizzo:** Viale San Marco, 4  
+**Sito web:** [menusaintmark.com](https://menusaintmark.com/)  
+**Tel.:** +39 393 6205275  
+**Orari:** pranzo lu-ve 11:30–14:30; cena tutte le sere 18:00–01:00
+
+Aperta nel 2016, Saint Mark's è il punto di riferimento per gli appassionati di birra artigianale a Monfalcone e dintorni. Il locale si definisce non soltanto birreria ma luogo di convivialità autentica, dove i beergeek condividono scoperte e gli homebrewer portano i propri esperimenti. La selezione è notevole: sette spine a rotazione completamente dedicate alle migliori birre artigianali del mondo, affiancate da tre impianti a pompa che rispettano la tradizione anglosassone della spillatura per le Ale. Oltre cinquanta etichette in bottiglia completano un'offerta eccezionale per la provincia. In cucina: panini preparati con cura, verdure fresche di giornata, affettati del territorio e hamburger di Angus irlandese macinato al momento. Non è il posto per un espresso mattutino, ma per l'aperitivo serale con birra artigianale è difficile fare meglio in zona.
+
+---
+
+### Original Joe's
+
+**Indirizzo:** Centro, zona via Roma
+
+Il pub Original Joe's introduce nella vita notturna monfalconese uno stile più anglosassone, con un'attenzione alla birra — sia in bottiglia che alla spina — e un'atmosfera da pub tradizionale. È frequentato prevalentemente nel dopocena e nel fine settimana da una clientela giovane e da appassionati di musica dal vivo, che il locale ospita periodicamente. Un'alternativa ai bar classici per chi vuole trascorrere la serata in modo più informale.
+
+---
+
+### Tiki Taka
+
+**Indirizzo:** Via Grado, 65  
+**Tel.:** +39 0481 281387 · **Email:** el.tikitaka@yahoo.it
+
+Il Tiki Taka è un pub-bar che guarda al mondo dello sport, con una programmazione televisiva che copre le principali partite. Si trova su via Grado, nella parte della città che si apre verso la pianura, e raccoglie soprattutto una clientela di quartiere affezionata. L'atmosfera è informale, il bancone è animato nelle sere di grandi eventi sportivi. Nel resto della settimana funziona come un tranquillo bar di prossimità.
+
+---
+
+### Bar Tommaso
+
+**Indirizzo:** Centro, zona corso
+
+Il Bar Tommaso è uno di quei locali senza sito web né grande presenza online, noti però a tutti i monfalconesi della zona per la qualità del caffè e per l'atmosfera genuina. Come molti bar italiani che sopravvivono da decenni, la sua forza sta nella fedeltà dei clienti abituali e in un servizio essenziale ma affidabile. Ideale per chi vuole un espresso senza fronzoli in un ambiente autentico.
+
+---
+
+### Bar Da Marino
+
+**Indirizzo:** Centro
+
+Frequentato soprattutto da lavoratori e residenti del quartiere, il Bar Da Marino è un classico esempio di bar di vicinato monfalconese: aperto dal mattino presto, gestito con una certa informalità, offre caffè, brioche, panini e spuntini veloci. Il "Da" nel nome tradisce un'appartenenza quasi familiare del locale al suo titolare, nel tipico stile dei bar italiani dove il gestore è il locale stesso.
+
+---
+
+### Bar da Mino
+
+**Indirizzo:** Zona Viale San Marco / fronte porto
+
+Affacciato verso la zona del porto, il Bar da Mino è frequentato da chi lavora nell'area portuale e cantieristica. Come il Bar Da Marino, il nome ne certifica la dimensione personale e familiare. È uno di quei bar dove alle sei e mezza del mattino c'è già gente al banco, dove il caffè si beve rigorosamente in piedi, e dove le notizie del cantiere circolano prima ancora di arrivare in ufficio.
+
+---
+
+### Bar Ai Quattro Venti
+
+**Indirizzo:** Via Luigi Galvani, 16
+
+Bar di quartiere nella zona residenziale a nord-ovest del centro, il Quattro Venti è un punto di riferimento per i residenti della zona, lontano dalle rotte turistiche. Il nome — i quattro venti — suggerisce un senso di apertura e accoglienza. Come molti bar periferici, apre presto e offre colazione, caffè e pausa pranzo in un ambiente tranquillo.
+
+---
+
+### Bar Billy
+
+**Indirizzo:** Via Terenziana, 35
+
+Il Bar Billy si trova nella zona residenziale di Monfalcone verso il confine nord-ovest del comune. È un bar di quartiere nel senso più puro del termine: clienti fissi, ritmi lenti, conversazioni che durano. Ideale per chi abita nella zona e cerca un posto dove sentirsi a casa anche fuori di casa.
+
+---
+
+### Bar Tabaccheria Edicola Primo Maggio
+
+**Indirizzo:** Via 1 Maggio, 61  
+**Tel.:** +39 0481 540144  
+**Orari:** lun-sab 05:30–19:30; dom 05:30–12:30  
+**Dehors:** sì
+
+Un locale che incarna la quintessenza del bar italiano multifunzionale: bar, tabaccheria, edicola, ricevitoria. Via 1 Maggio porta già nel nome un'identità popolare e operaia, coerente con il tessuto sociale di questo quartiere. L'apertura alle 05:30 (06:30 la domenica) dice tutto sul tipo di clientela: chi entra per primo sono i lavoratori dei cantieri, i cui turni spesso iniziano all'alba. Oltre all'espresso e ai cornetti del mattino, offre panini, ricariche telefoniche, marche da bollo, giornali. Il classico *tuttofare* di quartiere che, più di qualsiasi locale trendy, fotografa la vita reale di Monfalcone.
+
+---
+
+### Bristrot Brandi
+
+**Indirizzo:** Piazzale della Stazione, 20  
+**Orari:** lun-dom 06:00–22:00  
+**Nota:** ex-Bristrot Brandi, gestione Xu Tejuan
+
+Affacciato sul piazzale della stazione ferroviaria, questo bar è la prima o l'ultima sosta per i pendolari che ogni giorno prendono il treno verso Trieste, Gorizia o verso l'interno della regione. L'apertura alle 06:00 sette giorni su sette lo rende un servizio essenziale per chi viaggia presto. Caffè veloci al banco, brioche e qualche tramezzino. L'ambiente è quello tipico dei bar di stazione: rapido, funzionale, ma con quella capacità tutta italiana di far sentire ogni cliente di passaggio un habituée.
+
+---
+
+### Gelateria Frel — Passione di Gelato
+
+**Indirizzo:** Via Duca d'Aosta, 90  
+**Tel.:** +39 366 544 6654 · **Email:** frel.sas@libero.it  
+**Facebook:** [GelateriaFrelPassioneDiGelato](https://www.facebook.com/GelateriaFrelPassioneDiGelato/)  
+**Dehors:** sì
+
+Su via Duca d'Aosta, la strada commerciale che attraversa il cuore di Monfalcone, si trova la Gelateria Frel — il sottotitolo "Passione di Gelato" non è solo uno slogan ma una dichiarazione di intenti. Gestita da Eleonora e Francesca Russo, è una gelateria artigianale con un buon assortimento di gusti classici e stagionali. Nella stagione calda, il dehors esterno diventa uno dei punti di aggregazione del corso, con famiglie, ragazzi e passanti che si fermano per una coppetta o un cono. La posizione su via Duca d'Aosta la rende facilmente accessibile a piedi dal centro.
+
+---
+
+### Gelateria Il Buon Gelato
+
+**Indirizzo:** Via Fratelli Rosselli, 55
+
+Il Buon Gelato è una gelateria artigianale nel quartiere compreso tra il centro storico e la zona residenziale a ovest. Il nome promette semplicità e autenticità: niente di esotico o di sperimentale, ma il gelato italiano fatto come si è sempre fatto, con materie prime fresche e ricette collaudate. Frequentata soprattutto da residenti del quartiere e da famiglie nel pomeriggio e in serata.
+
+---
+
+### Bar Sport — Panzano
+
+**Indirizzo:** Via Callisto Cosulich, 44 — loc. Panzano  
+**Orari:** lun-sab 05:00–22:00; dom 08:00–22:00  
+**Dehors:** sì · Accessibile sedie a rotelle · Carte di credito accettate
+
+La frazione di Panzano, a sud del centro di Monfalcone verso la foce dell'Isonzo e la baia omonima, ha una vita di quartiere ben definita attorno a via Callisto Cosulich. Il Bar Sport è il centro di gravità sociale di questa zona: apre alle cinque del mattino nei giorni feriali, raccogliendo i primissimi lavoratori diretti ai cantieri o ai terminal portuali. L'ambiente è accogliente e attrezzato — seating esterno, accessibilità garantita, pagamenti con carta accettati — ma l'anima è quella del bar popolare che serve il quartiere con continuità e affidabilità. L'aperitivo del pomeriggio, con la visuale sulla campagna e sull'area industriale alle spalle, è un momento di pausa genuina.
+
+---
+
+### Bar Da Checco — Panzano
+
+**Indirizzo:** Via Callisto Cosulich, 56 — loc. Panzano  
+**Orari:** lun-ven 04:30–22:30; sab 06:00–20:00; dom 07:00–14:00  
+**Dehors:** sì · Carte di credito accettate
+
+Il Bar Da Checco detiene probabilmente il record di apertura anticipata tra tutti i locali di Monfalcone: alle 04:30 dei giorni feriali è già operativo, quasi un'ora prima dei più mattinieri bar di quartiere. Questo dato racconta con precisione chirurgica il contesto: Panzano è zona di lavoratori a turni, cantieristi, portuali, autotrasportatori. Il "Checco" in questione è probabilmente il fondatore o il gestore storico, e il locale ne porta il marchio di riconoscibilità. Seating esterno, caffè serissimi e cornetti freschi. Un indirizzo da segnare per chi si trova in zona all'alba.
+
+---
+
+### Bar La Bussola — Panzano
+
+**Indirizzo:** Via del Mercato, 5 — loc. Panzano  
+**Orari:** lun-ven 05:00–18:00; sab 05:00–14:00; dom chiuso  
+**Dehors:** sì · WiFi · Carte di credito accettate · Accessibile sedie a rotelle
+
+La Bussola è il bar di riferimento della piccola piazza del mercato di Panzano. Apre alle cinque di mattina dal lunedì al sabato, dedicandosi esclusivamente alla clientela lavorativa — chiude il domenica. Offre WiFi gratuito ai clienti, dettaglio non banale in un bar di quartiere, e accetta pagamenti con carta. L'ambiente è pratico e funzionale, con seating esterno sul piccolo largo del mercato. Un bar che orienta il proprio quartiere, fedele alla propria missione di servizio.
+
+---
+
+### Bar Universo — Panzano
+
+**Indirizzo:** Via Callisto Cosulich / zona Panzano  
+**Dehors:** sì
+
+Altro bar della zona di Panzano con dehors esterno, frequentato nel pomeriggio e nella prima serata dalla gente di quartiere. Il nome — Universo — suona quasi come un'aspirazione cosmopolita in una periferia industriale. In realtà è un bar di vicinato come gli altri, ma con i tavoli all'aperto che lo rendono piacevole nelle serate estive, quando Panzano si ammorbidisce e il porto si illumina in lontananza.
+
+---
+
+### Bar Cafeteria Sole Luna
+
+**Indirizzo:** Via Grado, 54a  
+**Tel.:** +39 0481 722027
+
+Lungo via Grado, la strada che collega Monfalcone alla fascia costiera, il Sole Luna è una caffetteria-bar con una presenza consolidata nel quartiere. Il nome, con le sue suggestioni di cicli e di movimenti celesti, richiama un'impostazione accogliente e orientata al relax. È un posto frequentato sia al mattino per la colazione che nel pomeriggio per lo spuntino o il caffè, con una clientela prevalentemente locale.
+
+---
+
+### La Spiaggia di Pippo — Marina Julia
+
+**Indirizzo:** Via delle Giarrette, loc. Marina Julia  
+**Dehors:** sì (solo esterno, niente posti al coperto)
+
+Marina Julia è la frazione balneare di Monfalcone, un litorale sabbioso che si estende per oltre tre chilometri. In estate il suo lungomare si anima di turisti e residenti che vengono al mare. La Spiaggia di Pippo è uno dei bar-stabilimento balneari più caratteristici: nessun posto al coperto, soltanto tavoli e sedie all'aperto direttamente sulla spiaggia o al bordo. L'offerta è quella classica del bar da mare: bibite, caffè, aperitivo con vista sull'Adriatico. Il tramonto a Marina Julia, con lo spritz in mano e le onde che sciabordano, è uno dei piaceri semplici che i monfalconesi custodiscono come un segreto condiviso.
+
+---
+
+### Piano B — Marina Julia
+
+**Indirizzo:** Via delle Giarrette, loc. Marina Julia  
+**Dehors:** sì · Posti al coperto: sì
+
+Piano B è un altro bar balneare di Marina Julia, caratterizzato dalla doppia disponibilità di posti indoor e outdoor. In una zona dove d'estate il clima può essere imprevedibile — con la bora che soffia improvvisa — la possibilità di sedersi al riparo fa la differenza. L'ambiente è casual, orientato verso la clientela balneare. Il nome suggerisce un certo spirito alternativo e giocoso.
+
+---
+
+### Beach Bar Club del Sole — Marina Julia
+
+**Indirizzo:** Via delle Giarrette / zona camping, loc. Marina Julia
+
+Il Beach Bar Club del Sole è associato al comprensorio del Club del Sole, uno dei campeggi e villaggi vacanze presenti nella fascia costiera di Monfalcone. Il bar serve sia gli ospiti del complesso che i turisti di passaggio. Aperto esclusivamente in stagione estiva, è un punto di sosta ideale prima o dopo il bagno. L'atmosfera è quella rilassata dei bar da campeggio: prendere un gelato, sedersi sotto l'ombrellone con un aperitivo, guardare il mare. Niente di memorabile fuori contesto, ma nel contesto è esattamente ciò che ci vuole.
+
+---
+
+### La Rosa dei Venti — Bar e Ristorante
+
+**Indirizzo:** Via Consiglio d'Europa, 38 — Marina Lepanto  
+**Tel.:** +39 0481 791502 / +39 347 7009856  
+**Orari:** tutti i giorni 11:00–15:00 e 19:00–24:00
+
+Situato all'interno del porto turistico Marina Lepanto, il Bar della Rosa dei Venti è parte di un ristorante di mare affermato, ma il bar al piano terra vive di vita propria. È aperto ogni giorno dalla colazione all'aperitivo serale — e fino a tardi nella stagione estiva, quando ospita musica e cene all'aperto. I "Menù Promozionali di Mezzogiorno" rendono il bar anche un punto di riferimento per i pranzi di lavoro delle aziende vicine. L'ambiente è quello di un club house portuale: vista sulle barche ormeggiate, atmosfera marinara, clientela che include armatori, diportisti e chi lavora nell'industria navale. Lo spritz con vista sull'attracco delle barche è un'esperienza che dice molto sull'anima di questa città.
+
+---
+
+### Vin & Disel
+
+**Indirizzo:** Via Terme Romane, 5  
+**Orari:** lun-ven 06:30–22:00  
+**Apertura:** dal 3 aprile 2024
+
+Il nome gioca su un'assonanza volontariamente irriverente — vino e diesel, il profumo della ristorazione e quello dei cantieri — e già da solo racconta qualcosa su Monfalcone. Aperto nella primavera del 2024, Vin & Disel si trova nella zona di Panzano verso le Terme Romane, un'area periferica ma frequentata. L'orario feriale (06:30–22:00) copre la giornata lavorativa standard, e il locale si propone come punto di sosta versatile, dall'espresso mattutino alla tavolata serale.
+
+---
+
+## Note sulle tradizioni di bar a Monfalcone
+
+Monfalcone non ha la tradizione triestina del grande caffè letterario ottocentesco, né le antiche osterie friulane dell'entroterra. È una città operaia e industriale, costruita attorno ai cantieri navali, e i suoi bar riflettono questo carattere: pratici, funzionali, aperti all'alba, spesso gestiti per decenni dalla stessa famiglia. Il valore sociale del bar monfalconese è tutto nella sua democraticità — ci si incontra tra colleghi, si fa colazione in fretta prima del turno, si commenta la partita la sera.
+
+Detto questo, Monfalcone ha due presidi di qualità pasticcera assoluta — Tamburin e Maritani — che elevan il livello artigianale ben oltre la media provinciale. Tamburin porta le radici istriane di un'eccellenza dolciaria che ha trovato nuova casa sul Carso; Maritani incarna l'ambizione di una pasticceria che guarda all'Italia intera, certificata AMPI e premiata da Gambero Rosso. Entrambe raccontano come anche una città operaia possa essere sede di artigianato dolciario di primo piano.
+
+---
+
+## Fonti
+
+- OpenStreetMap, dati estratti via Overpass API (aggiornamento maggio 2026): [openstreetmap.org](https://www.openstreetmap.org/)
+- Sito ufficiale Pasticceria Tamburin: [tamburinpasticceria.it](https://www.tamburinpasticceria.it/)
+- Sito ufficiale Pasticcerie Maritani: [maritani.it](https://www.maritani.it/)
+- Sito ufficiale Saint Mark's Birreria Paninoteca: [menusaintmark.com](https://menusaintmark.com/)
+- Pagine Gialle — Bar Tabaccheria Edicola Primo Maggio: [paginegialle.it](https://www.paginegialle.it/bartabaccheriaedicolaprimomaggio-go)
+- Pagine Gialle — La Rosa dei Venti: [paginegialle.it](https://www.paginegialle.it/ristorante-rosa-dei-venti-monfalcone)
+- Wikipedia — Monfalcone: [it.wikipedia.org/wiki/Monfalcone](https://it.wikipedia.org/wiki/Monfalcone)
+
+---
+
+## Monrupino
+
+Monrupino (in sloveno *Repentabor*, in dialetto triestino *Monrupin*) è il comune più piccolo della provincia di Trieste, con poco meno di 850 abitanti distribuiti nelle tre frazioni di Col (sede comunale), Fernetti/Fernetiči e Repen. Arroccato sull'altipiano carsico a circa 418 metri sul livello del mare, con panorami che spaziano dal Golfo di Trieste fino alle Alpi Giulie, il comune confina direttamente con la Slovenia attraverso il valico di Fernetti — uno dei principali punti di transito merci tra Italia e Balcani.
+
+Data la sua dimensione ridottissima, Monrupino non dispone di una rete di bar e caffè paragonabile ai centri urbani della regione. La cultura della colazione al bancone, dello spritz pomeridiano al bar del paese, qui si vive in modo essenziale e quasi intimo, con un'unica struttura dedita esclusivamente al servizio bar e alcune trattorie che svolgono anche la funzione di punto di incontro comunitario. Chi desidera una caffetteria specialty, una pasticceria artigianale o una gelateria si trova a pochi chilometri dalla periferia triestina — in particolare dalla frazione di Opicina/Villa Opicina — raggiungibile comodamente in auto.
+
+A rendere unica l'esperienza conviviale di Monrupino è invece la tradizione delle **osmize** (in sloveno *osmice*, da *osem* = otto): aperture stagionali di produttori agricoli del Carso che per periodi di otto giorni alla volta — annunciati tradizionalmente da un fascio di frasche appeso al cancello — aprono le porte di casa o del cortile per vendere direttamente il proprio vino, le grappe e i prodotti dell'orto. Le osmize non sono bar nel senso moderno del termine, ma rappresentano il cuore pulsante della socialità rurale carsica: si beve il vino della casa, si mangia salame, formaggio e prosciutto, si chiacchiera seduti a tavole di legno all'aperto. Nel territorio di Monrupino è attiva almeno un'osmiza stagionale, quella della famiglia Gomizelj.
+
+Il comune è storicamente bilingue, con una maggioranza di lingua slovena (circa il 64% al 1983), e questa identità si riflette anche nei nomi delle attività ristorative, spesso presentate sia in italiano sia in sloveno. L'atmosfera, nei pochi locali esistenti, è quella sobria e cordiale tipica del Carso triestino: niente eccessi, niente moda, solo il piacere genuino di stare insieme attorno a un bicchiere di Terrano o Vitovska.
+
+---
+
+### Bar "G" di Marco Gregoretti
+
+**Frazione:** Repen, Monrupino
+**Telefono:** +39 040 2338612
+**Orari:** lunedì–sabato ore 6:00–21:00
+
+Il Bar "G" di Marco Gregoretti è l'unico bar dedicato del comune di Monrupino: apre all'alba e rimane aperto per tutta la giornata lavorativa, incarnando quella funzione di presidio quotidiano che nei piccoli paesi del Carso triestino è ancora insostituibile. È qui che i residenti di Repen si fermano la mattina per un caffè espresso prima di prendere l'auto per Trieste o per Fernetti, o che al pomeriggio si trovano per una birra o un aperitivo informale dopo il lavoro.
+
+Non è un locale di tendenza né una caffetteria specialty: è il bar di paese per eccellenza, con tutta l'autenticità che questo implica nel contesto di un comune di neanche novecento abitanti. Il bancone del Bar "G" è il luogo dove si scambiano le notizie del giorno, dove si gioca a carte e si aspetta il treno della domenica. Nessun sito web, nessuna presenza social rilevante — solo il quotidiano, incarnato in un locale aperto sei giorni su sette fin dalle prime luci del mattino. Per la colazione carsica essenziale — caffè, brioche, magari un succo — questo è il posto giusto a Monrupino.
+
+---
+
+### Osmiza Gomizelj Damijana
+
+**Frazione:** area di Col / Fernetti, Monrupino
+**Telefono:** +39 347 8955085 / +39 347 4798467
+**Facebook:** [facebook.com/Osmicagomizeljdamijana](https://www.facebook.com/Osmicagomizeljdamijana/)
+**Apertura:** stagionale, a cicli di otto giorni (seguire la pagina Facebook per gli aggiornamenti)
+
+L'Osmiza Gomizelj Damijana è la realtà agricola di Monrupino che periodicamente apre le sue porte al pubblico secondo la tradizione millenaria delle osmize carsiche. Come da consuetudine, l'apertura avviene per cicli di otto giorni, segnalata dalla classica frasca — un mazzo di rami frondosi — appesa all'ingresso: un segnale visivo che i carsici riconoscono istintivamente e che indica "qui si vende vino oggi".
+
+Damijana Gomizelj propone i vini e i prodotti della propria azienda agricola in un ambiente familiare, dove l'accoglienza è quella genuina e senza fronzoli della casa di campagna carsica. Il vino viene spillato direttamente dalla botte o dalle damigiane; in tavola compaiono i classici prodotti del Carso: salumi artigianali, formaggio di malga, prosciutto cotto in casa, uova, verdure di stagione. Non è un bar né un ristorante nel senso tradizionale, ma un'esperienza di convivialità autentica che appartiene alla memoria collettiva del Carso e che, per chi la vive per la prima volta, rappresenta qualcosa di difficilmente dimenticabile. La pagina Facebook è il canale principale per sapere quando è aperta la prossima osmiza.
+
+---
+
+### Albergo Ristorante Carso
+
+**Indirizzo:** Col-Zolla n° 1, Monrupino (TS) 34016
+**Telefono:** +39 040 327113 / +39 335 5922273
+**Orari:** lunedì, martedì, giovedì, venerdì 18:00–22:00; sabato e domenica dalle 12:00 (chiuso il mercoledì)
+**Sito web:** [ristorantecarso.it](https://www.ristorantecarso.it/)
+**Email:** ristorantecarso@virgilio.it
+
+Fondato nel lontano **1835**, il Ristorante Carso è una delle istituzioni gastronomiche più antiche e radicate del comune, nonché uno dei ristoranti più longevi dell'intero altipiano carsico triestino. Situato a Col, la frazione sede del municipio, è rimasto negli anni un punto di riferimento irrinunciabile per la cucina carsica autentica: i piatti esaltano ingredienti accuratamente selezionati del territorio, dalla carne di selvaggina ai funghi di bosco, dal cren alle erbe di campo, dai prosciutti stagionati agli ortaggi dell'orto.
+
+L'ambiente è familiare, caldo, accogliente come la cucina di una nonna: servizio impeccabile, attenzione eccezionale ai dettagli e una carta dei vini che privilegia le etichette locali — Vitovska, Terrano, Malvasia del Carso — a dimostrazione di come la cultura vinicola carsica sia inscindibile dall'esperienza della tavola in questi luoghi. Anche se tecnicamente è un ristorante, il Ristorante Carso ha da sempre svolto la funzione di luogo di incontro per la comunità locale, e non è insolito che qualcuno si fermi soltanto per un bicchiere di vino del Carso o per un caffè a fine pasto in compagnia. Con quasi due secoli di storia alle spalle, rappresenta la memoria vivente della gastronomia di Monrupino.
+
+---
+
+### Gostilna Brin
+
+**Indirizzo:** Col n° 8, Monrupino / Repentabor (TS) 34016
+**Telefono:** +39 040 9778952
+**Email:** gostilnabrin8@gmail.com
+**Orari:** venerdì–domenica 12:00–15:00; venerdì–martedì 18:00–23:00
+**Apertura:** marzo 2023
+
+La Gostilna Brin, aperta nel marzo del 2023, è la proposta gastronomica più recente di Monrupino, collocata anch'essa nel nucleo di Col. Il termine sloveno *gostilna* — che significa locanda, osteria, punto di ristoro — tradisce l'anima bilingue di questo territorio, dove italiano e sloveno convivono nella quotidianità come nella ristorazione e nella toponomastica.
+
+La Brin offre cucina regionale interpretata con uno sguardo contemporaneo pur nel rispetto delle tradizioni carsiche e giuliane. Il contesto è quello di un'osteria di paese con una proposta di vini locali di qualità, adatta sia a chi cerca un pranzo nel fine settimana sia a chi vuole concludere la serata con una cena in compagnia. Il fatto che apra già il venerdì sera e rimanga aperta fino alle 23:00 la rende un punto di riferimento per la vita serale del piccolo comune — non poca cosa, in un borgo di queste dimensioni. Nonostante la giovane età, si è già inserita con naturalezza nel tessuto sociale di Monrupino, grazie a un'offerta radicata nel territorio e a un'accoglienza genuina.
+
+---
+
+### Hotel Ristorante / Restavracija Križman
+
+**Frazione:** Fernetti, Monrupino
+**Telefono:** +39 040 327115 / +39 040 327468
+**Prenotazioni:** +39 040 327002 / WhatsApp +39 335 6093744
+**Orari:** pranzo venerdì–domenica; cena mercoledì–sabato
+**Email:** info@hotelkrizman.eu
+**Sito web:** [hotelkrizman.eu](https://www.hotelkrizman.eu/)
+
+Nel cuore del Carso triestino, a due passi dalla Slovenia e a breve distanza dalla Grotta Gigante, dalla Casa Carsica e dalla Rocca di Monrupino, il Ristorante Križman è il ristorante dell'omonimo piccolo albergo e rappresenta un punto di riferimento storico per le famiglie che visitano l'area di Monrupino/Fernetti. La cucina propone piatti strettamente legati alla tradizione del territorio: prosciutto crudo del Carso tagliato rigorosamente a mano, minestra d'orzo, *bleki* (pasta fresca carsica) con zucchine e pomodorini, *strucolo* di ricotta e spinaci, pasta di rape rosse con crema di formaggio Jamar, gnocchi con le susine, cinghiale in umido con polenta, filetto di manzo cotto nel fieno. Non mancano i formaggi locali — tra cui l'eccellente Jamar, stagionato nelle cavità carsiche — accompagnati da marmellate artigianali di produzione propria.
+
+La cantina vanta una selezione curata di spumanti, champagne, vini bianchi e rossi, con una valorizzazione particolare dei produttori locali del Carso. La saletta rustica con il salone per gruppi e il fresco giardino estivo fanno di Križman un luogo adatto anche a banchetti, cresime, comunioni e ricevimenti privati. Pur non essendo un bar nel senso stretto, il ristorante dell'albergo offre un servizio bar completo agli ospiti della struttura e rappresenta per i residenti locali un'altra opzione per un aperitivo o un bicchiere di vino in compagnia, specialmente nei fine settimana. Il servizio di asporto disponibile lo rende pratico anche per chi abita nelle frazioni vicine.
+
+---
+
+## Una nota sul contesto locale
+
+Monrupino è un comune rurale di dimensioni eccezionalmente ridotte, privo di una caffetteria specialty, di una pasticceria artigianale autonoma, di una gelateria o di locali dedicati all'aperitivo nel senso metropolitano del termine. Per chi cerca la colazione triestina classica — il caffè *nero* preparato come da tradizione, la *punta di caffè*, la *brioche* con il classico ripieno alla crema o alla marmellata — il centro di Trieste e le sue frazioni a ridosso del Carso (come Opicina/Villa Opicina, a pochi chilometri) offrono una scelta molto più ampia. Anche i riti tipici dell'aperitivo cittadino triestino — lo spritz con gli *ombréti*, il Campari soda, le taglieri di *jota* e salumi — appartengono più alla città che al piccolo comune carsico.
+
+Ciò non significa, tuttavia, che la vita sociale a Monrupino sia assente o affievolita. Le osmize stagionali, i ristoranti storici e le trattorie costituiscono i veri luoghi della convivialità locale, dove ci si ritrova non per consumare velocemente ma per stare insieme attorno a un bicchiere di Terrano o Vitovska — i vini autoctoni del Carso che qui sono di casa da secoli. È una forma di socialità più lenta, più radicata, meno commerciale, profondamente legata alla terra e alla tradizione di questo angolo di Friuli Venezia Giulia a cavallo tra due mondi, due lingue, due culture.
+
+---
+
+## Fonti
+
+- OpenStreetMap contributors, dati estratti via Overpass API (maggio 2026), Comune di Monrupino / Repentabor (relation ID 179280, area ID 3600179280): nodi 692730860 (Gostilna Brin), 692730862 (Albergo Ristorante Carso), 1346599244 (Hotel Ristorante Križman), 11942426799 (Bar "G" di Marco Gregoretti), 12864121805 (Osmiza Gomizelj Damijana). Licenza ODbL.
+- Sito ufficiale Ristorante Carso: <https://www.ristorantecarso.it/>
+- Sito ufficiale Hotel Ristorante Križman: <https://www.hotelkrizman.eu/>
+- Wikipedia, voce "Monrupino": <https://it.wikipedia.org/wiki/Monrupino>
+- Pagina Facebook Osmiza Gomizelj Damijana: <https://www.facebook.com/Osmicagomizeljdamijana/>
+
+---
+
 ## Montenars
 
 Montenars (_Montenârs_ in friulano) è un piccolo comune montano della provincia di Udine, nella conca valliva formata dal torrente Orvenco, ai piedi del monte Cuarnan (1.372 m). Con i suoi 494 abitanti distribuiti tra le frazioni di San Giorgio, Sant'Elena, Santa Maria Maddalena e la borgata di Flaipano, Montenars è uno dei borghi più raccolti e silenziosi del Friuli Venezia Giulia. Il paese si trova a circa 472 metri sul livello del mare, in una zona classificata ad alta sismicità (zona 1), segnata dalla memoria del devastante terremoto del 1976 che colpì duramente tutta la zona prealpina friulana.
@@ -8596,6 +9817,124 @@ Questo sistema di gravitazione verso i centri limitrofi è tipico della struttur
 - Wikipedia – voce "Moraro", enciclopedia libera. [https://it.wikipedia.org/wiki/Moraro](https://it.wikipedia.org/wiki/Moraro)
 - Overpass API – query amenity nel bounding box del comune di Moraro, aprile 2026. [https://overpass-api.de](https://overpass-api.de)
 - Comune di Moraro – sito istituzionale. [http://www.comune.moraro.go.it](http://www.comune.moraro.go.it)
+
+---
+
+## Morsano al Tagliamento
+
+Morsano al Tagliamento — in friulano *Morsàn da lis Ocjis* nella variante standard, o *Morsan da lis Aucjis* in quella locale e veneta, che significa letteralmente "Morsano delle oche" — è un comune di circa 2.740 abitanti nella pianura veneto-friulana, ai margini meridionali della provincia di Pordenone, a ridosso del fiume Tagliamento. Il territorio comunale, che si estende per oltre 32 km², comprende il capoluogo e le frazioni di Saletto-Bando, Mussons e San Paolo, borghi rurali che conservano ciascuno un'identità ben distinta e, spesso, il proprio bar di riferimento.
+
+Per un paese di queste dimensioni, la vita sociale ruota attorno a pochi locali che fungono da punto di ritrovo quotidiano: la colazione mattutina al banco, il caffè di metà mattina tra artigiani e agricoltori, il bianco o lo spritz del dopo-lavoro. Non ci sono caffetterie specialty né pasticcerie di livello urbano, ma i bar di Morsano sono luoghi autentici di socialità friulana, dove si parla ancora in marilenghe (la lingua friulana locale) e dove la semplicità dei rituali del caffè coesiste con la generosità dell'ospitalità padana. L'unica grande manifestazione che porta movimento e forestieri è la **Sagra dell'Oca**, giunta ormai alla sua quarantesima edizione e tenuta nella prima quindicina di novembre in concomitanza con la festa del patrono san Martino (11 novembre): in quei giorni anche i bar del paese si animano di visitatori che giungono dalla provincia di Pordenone e dalle aree del veneziano.
+
+---
+
+## Capoluogo — Morsano al Tagliamento
+
+Il nucleo del capoluogo si stringe attorno alla chiesa parrocchiale di San Martino Vescovo, edificata nel Settecento su fondamenta trecentesche, e alla piazza principale, intitolata a Daniele Moro. In questo piccolo centro — percorribile a piedi in pochi minuti — si concentrano i locali di maggiore frequentazione del comune.
+
+### La Ruota
+
+**Indirizzo:** Via Roma, Morsano al Tagliamento (PN)
+
+La Ruota è uno dei bar più centrali del capoluogo, situato lungo Via Roma, l'arteria principale del paese. Il nome evocativo richiama l'iconografia del lavoro agricolo e meccanico, comune nei bar rurali friulani che un tempo servivano operai e contadini. Il locale dispone sia di posti a sedere all'interno sia di un dehors esterno, il che lo rende un punto di ritrovo in ogni stagione. Al mattino ci si ferma per il caffè espresso e la brioche; nel tardo pomeriggio si conversa davanti a un bianco del Friuli o a uno spritz con aperol, prassi radicata in tutta la pianura pordenonese. Come nella tradizione dei bar di paese del Friuli Venezia Giulia, il bancone è il cuore pulsante del locale, dove si servono cicchetti e stuzzichini nelle ore dell'aperitivo serale. Non dispone di sito web.
+
+### La Rotonda
+
+**Indirizzo:** Via Feletti, Morsano al Tagliamento (PN)
+
+Il bar La Rotonda si trova lungo Via Feletti, nei pressi di un incrocio che dà ragione al nome del locale. Con dehors all'aperto, è un classico bar di paese che vive soprattutto nelle stagioni più miti, quando i tavoli all'esterno si riempiono di pensionati e lavoratori che si concedono una pausa. L'offerta è quella tipica dei bar friulani di piccolo centro: caffè, cappuccino, tisane, bibite, vino locale al bicchiere e lo spritz nel tardo pomeriggio. È un luogo sobrio, privo di velleità gastronomiche particolari, ma fedele alla propria funzione sociale di bar di quartiere. Non dispone di sito web.
+
+### Bar ai Ferraristi
+
+**Indirizzo:** Piazza Daniele Moro, Saletto / Morsano al Tagliamento (PN)
+
+Il Bar ai Ferraristi si affaccia sulla Piazza Daniele Moro, il cuore civico del comune dove si trovano anche la biblioteca e i servizi pubblici. Il nome — che richiama i *ferraristi*, termine friulano-veneto che indica i fabbri, i lavoratori del ferro, ma anche, nel gergo contemporaneo, i tifosi della Ferrari — suggerisce un locale dai frequentatori affezionati e dalla fisionomia popolare. È il bar della piazza principale, quello in cui ci si da appuntamento prima di sbrigare commissioni in comune o di partecipare alle iniziative culturali locali. Al mattino serve la colazione; la sera del patrono (San Martino, 11 novembre) diventa naturalmente uno dei punti di riferimento per la festa e la Sagra dell'Oca. Non dispone di sito web.
+
+### Pizza Più
+
+**Indirizzo:** Piazza Daniele Moro, Morsano al Tagliamento (PN)
+
+A pochi passi dal Bar ai Ferraristi, nell'area della piazza principale, si trova Pizza Più, un esercizio di pizza al taglio e fast food che completa l'offerta del centro del capoluogo. Non è propriamente un bar, ma è uno di quei punti di ristoro informali dove ci si può fermare a qualsiasi ora per uno spuntino veloce, un trancio di pizza bianca o rossa, particolarmente frequentato nell'ora di pranzo. La pizza al taglio in Friuli Venezia Giulia ha una lunga tradizione di contaminazione con la cultura veneta e veneziana, e anche in un piccolo comune come Morsano questo tipo di esercizio assolve a un ruolo sociale importante.
+
+### Pizzeria Spaghetteria "Al Ponte"
+
+**Indirizzo:** Vicolo Vado, Morsano al Tagliamento (PN)
+
+La Pizzeria Spaghetteria Al Ponte è un ristorante-pizzeria situato in Vicolo Vado, una piccola via del centro del capoluogo che un tempo conduceva probabilmente verso un guado o un passaggio sul Tagliamento — da qui il nome evocativo. Il locale offre sia pizza che piatti di pasta, ed è il tipico punto di ristorazione che in un paese di queste dimensioni spesso funge anche da luogo dell'aperitivo pre-cena. Non dispone di sito web ufficiale noto.
+
+---
+
+## Saletto (frazione)
+
+La frazione di Saletto-Bando, o semplicemente Saletto, è una delle più vivaci del comune sotto il profilo insediativo. Si trova a nord del capoluogo, lungo le strade che portano verso San Vito al Tagliamento. Conserva una piccola piazza e alcuni esercizi commerciali di vicinato.
+
+### Venturato Caffè
+
+**Indirizzo:** Via Centro, Saletto / Morsano al Tagliamento (PN)
+
+Il Venturato Caffè prende il nome dalla famiglia Venturato, cognome diffuso nella pianura friulano-veneta tra il Tagliamento e il Livenza. Situato lungo Via Centro, è il bar di riferimento della frazione di Saletto, quello in cui i residenti del borgo si incontrano ogni mattina per la colazione e nel tardo pomeriggio per un bicchiere. In questo tipo di locale, che in friulano si chiama spesso *osteria* o *bar-osteria*, convivono la funzione del bar moderno e quella dell'antico luogo di socialità rurale: si gioca a carte, si commentano le notizie locali, si celebrano le piccole ricorrenze. Non dispone di sito web.
+
+### Tal Mior Cianton — Agriturismo
+
+**Indirizzo:** Via Comugne 9, Saletto / Morsano al Tagliamento (PN)
+**Telefono:** +39 0434 697112
+
+*Tal Mior Cianton* è una locuzione friulana che significa approssimativamente "nel miglior angolo" o "nel bel cantone", titolo eloquente per un agriturismo situato nella campagna di Saletto. Non è un bar nel senso stretto del termine, ma rientra nel tessuto dell'ospitalità locale in quanto offre ristorazione con cucina del territorio, e in molti casi — come accade nella tradizione degli agriturismi friulani — anche momenti di aperitivo con prodotti propri o locali: vini del Friuli, salumi, formaggi, frico. Il Friuli Venezia Giulia è la regione italiana con la più alta densità di agriturismi per abitante, e la pianura pordenonese non fa eccezione: strutture come questa custodiscono saperi gastronomici che nei bar di paese si trovano in forma semplificata. Il telefono è il canale di contatto principale; non risulta avere un sito web ufficiale aggiornato.
+
+---
+
+## Mussons (frazione)
+
+Mussons è la frazione più orientale del comune, situata verso il confine con la provincia di Udine e la Venezia Giulia. È un borgo agricolo tranquillo, con una propria piazza che costituisce il centro della vita comunitaria locale.
+
+### Bar Idea
+
+**Indirizzo:** Piazza Quattro Novembre, Mussons / Morsano al Tagliamento (PN)
+
+Il Bar Idea si trova sulla Piazza Quattro Novembre di Mussons, la piccola piazza che è anche il cuore del borgo. Il nome, scelto probabilmente per la sua semplicità e modernità apparente, è comune in molti bar di piccolo paese nel Nordest italiano. In un contesto rurale come Mussons, il bar della piazza è un presidio sociale fondamentale: è l'unico punto dove fare colazione senza uscire dalla frazione, dove ricevere informazioni locali, dove stringere legami con i vicini. La piazza è intitolata al 4 novembre, data celebrativa cara alle comunità rurali del Friuli che parteciparono in misura significativa alle sofferenze della Prima guerra mondiale. Non dispone di sito web.
+
+---
+
+## San Paolo (frazione)
+
+La frazione di San Paolo è collocata a nord-est del capoluogo, lungo una diramazione verso il Tagliamento. È caratterizzata da un paesaggio tipicamente friulano di bassa pianura, con cascinali e strade bianche tra i campi. In questa frazione convivono un bar-trattoria tradizionale e una realtà gastronomica più recente e innovativa.
+
+### Bar Trattoria da Pino
+
+**Indirizzo:** Via Interna, Borgo di Sopra / Borc Disore, San Paolo / San Pauli, Morsano al Tagliamento (PN)
+
+Il Bar Trattoria da Pino è un esercizio misto, che unisce la funzione del bar a quella della trattoria, come spesso accade nei borghi rurali friulani dove la clientela è troppo esigua per sostenere locali specializzati. Il nome del titolare — Pino — richiama la tradizione dei locali a gestione familiare che nel Friuli Venezia Giulia si tramandano di generazione in generazione. "Da Pino" è uno di quei luoghi dove la colazione mattutina convive con il pranzo di lavoro, e dove il caffè dopo il pasto è ancora un rito irrinunciabile. La cucina è quella della tradizione friulana: pasta fatta in casa, arrosti, frico, jota. Non dispone di sito web.
+
+### Fornâs Fattoria Ruspante
+
+**Indirizzo:** Via Fornace 1, San Paolo / San Pauli, Morsano al Tagliamento (PN)
+**Telefono:** +39 379 261 3154
+**Sito web:** [www.fornas.it](https://www.fornas.it/)
+**Email:** mandi@fornas.it
+**Social:** Facebook (`fornacefattoriaecucina`), Instagram (`fattoriafornas`)
+
+Fornâs — che in friulano significa "fornace", il vecchio forno di mattoni da cui probabilmente prende il nome la strada — è una delle realtà più interessanti del territorio di Morsano al Tagliamento, e una voce insolita per un comune così piccolo. Si tratta di una fattoria-ristorante specializzata in prodotti ruspanti, con un'offerta che comprende hamburger artigianali, pollo ruspante e fritture di qualità, preparate con carni allevate in modo naturale. Il locale, che non è un bar ma una proposta di ristorazione informale e contemporanea, ha costruito una piccola reputazione nella zona della bassa pordenonese grazie alla qualità delle materie prime e a un'atmosfera rustica e accogliente. È un esempio di come, anche in piccoli borghi della pianura friulana, stia emergendo una nuova generazione di imprenditori gastronomici che valorizza il territorio in chiave moderna, senza rinunciare al legame con la tradizione contadina. La parola *mandi* con cui inizia l'indirizzo email è il tipico saluto friulano, un modo gioioso di dire "che tu stia bene".
+
+---
+
+## Considerazioni generali
+
+Morsano al Tagliamento è un comune di piccole dimensioni e la sua offerta di bar e locali riflette fedelmente questa realtà. Non esistono pasticcerie artigianali autonome né gelaterie di riconoscimento regionale, né caffetterie specialty o torrefazioni. I bar presenti — distribuiti nel capoluogo e nelle frazioni di Saletto, Mussons e San Paolo — sono esercizi di vicinato che svolgono una funzione sociale essenziale nelle comunità rurali della pianura friulana.
+
+La tradizione della colazione friulana — caffè espresso ristretto, cappuccino, brioche o cornetto, talvolta accompagnati da un bicchiere di vino bianco per i più anziani (il cosiddetto *tajut* o *taj*, mezzo bicchiere di bianco al mattino, abitudine ancora viva nei bar di campagna) — è ben radicata anche qui. L'aperitivo del tardo pomeriggio con uno spritz (con Aperol o Select nella variante veneto-friulana della bassa pianura) o un prosecco è l'altro momento chiave della sociabilità locale.
+
+Per chi visita il territorio in occasione della **Sagra dell'Oca** (novembre), i bar del capoluogo e le frazioni rappresentano un'ottima opportunità per respirare l'atmosfera di un Friuli autentico, lontano dai circuiti turistici, dove il caffè si beve in piedi al banco e la conversazione scivola naturalmente tra italiano, friulano e veneto.
+
+---
+
+## Fonti
+
+- OpenStreetMap contributors, dati geografici su Morsano al Tagliamento e relative frazioni (licenza ODbL 1.0), consultati maggio 2026: [openstreetmap.org](https://www.openstreetmap.org)
+- Nominatim / OpenStreetMap Geocoding API, dati di indirizzo per i locali del comune, consultati maggio 2026
+- Wikipedia, voce "Morsano al Tagliamento", consultata maggio 2026: [it.wikipedia.org/wiki/Morsano_al_Tagliamento](https://it.wikipedia.org/wiki/Morsano_al_Tagliamento)
+- Sito web di Fornâs Fattoria Ruspante: [www.fornas.it](https://www.fornas.it/)
+- Comuni Italiani, scheda Morsano al Tagliamento (ISTAT 093028): [comuni-italiani.it/093/028/](https://www.comuni-italiani.it/093/028/)
+- Rete Comuni Italiani, Wiki Morsano al Tagliamento: [rete.comuni-italiani.it/wiki/Morsano_al_Tagliamento](https://rete.comuni-italiani.it/wiki/Morsano_al_Tagliamento)
 
 ---
 
@@ -8794,6 +10133,156 @@ Ciò che Mossa può offrire in modo autentico e unico è invece l'accesso dirett
 
 ---
 
+## Muggia
+
+Muggia è il comune più meridionale del Friuli-Venezia Giulia, una piccola città di poco più di 12.000 abitanti stretta tra il Golfo di Trieste e i colli del Carso, a pochi chilometri dal confine con la Slovenia. Nonostante le dimensioni contenute, Muggia ha un'identità culturale fortissima, plasmata da secoli di storia veneziana e istriana: il dialetto parlato è l'istroveneto muggesano, le calli del centro storico ricordano Venezia, e la piazza principale è ancora dominata da una loggia goticheggiante che potrebbe stare in una città della Serenissima.
+
+Questa eredità veneziana si riflette anche nella cultura del bere e dello stare al bar. A Muggia il caffè si ordina secondo il codice triestino — il *nero* per l'espresso, il *capo* per il macchiato caldo, il *capo in B* nel bicchiere — e la colazione mattutina al banco del bar è un rito sociale irrinunciabile. La piazza Marconi, cuore pulsante della cittadina, ospita storici bar con dehors che d'estate si animano dai primi pomeriggi con l'aperitivo. Il porto vecchio (il mandracchio) e il lungomare sono invece la scenografia preferita per le gelaterie e i chioschi balneari, frequentati dai muggesani e dagli escursionisti che arrivano da Trieste — distante solo 12 chilometri — in bicicletta lungo la pista ciclabile costiera.
+
+Il periodo del Carnevale merita una menzione speciale: il *Carneval de Muja* è uno dei carnevali più antichi e amati del Friuli-Venezia Giulia, con radici profonde nella tradizione veneziana e istriana. Durante i giorni del carnevale, le pasticcerie locali si riempiono di *frìtole* (frittelle veneziane di Carnevale), *crostoli* croccanti, *galani* e le immancabili *favette* triestine. L'atmosfera nei bar diventa ancora più festosa, e i locali affacciati sulle calli ospitano maschere e turisti da tutta la regione.
+
+---
+
+### Antico Caffè Marconi
+**Piazza Marconi, 4 — Muggia (TS)**
+*[www.anticocaffemarconi.it](https://www.anticocaffemarconi.it)*
+
+L'Antico Caffè Marconi è il bar più antico e più amato di Muggia, un locale che affonda le radici negli anni Trenta del Novecento e che ha attraversato quasi un secolo di storia muggesana. Fu inaugurato nei primi anni Trenta dal signor Jurman, con il supporto commerciale del marchio Hausbrandt — la storica torrefazione triestina — e da subito si affermò come punto di ritrovo della comunità locale. Nel 1938 passò nelle mani della signora Valeria, che per oltre quarant'anni gestì quello che i muggesani cominciarono ad amare come il *bar de Valeria*: un posto semplice, autentico, dove la gente del paese veniva a fare colazione, leggere il giornale, fermarsi a chiacchierare. Dal 1983 al 2011 fu gestito dalla signora Deli, persona molto stimata in paese. Nel 2011 la famiglia di Francesco, l'attuale titolare, acquistò l'immobile e ne rinnovò l'immagine, ribattezzandolo Antico Caffè Marconi in onore della piazza su cui si affaccia.
+
+Oggi il locale è una delle tappe obbligatorie per chiunque visiti Muggia. La posizione è privilegiata: in piazza Marconi, di fronte alla loggia medievale, con un bel dehors estivo che permette di fare colazione o prendere un aperitivo guardando il cuore storico della cittadina. Il servizio è attento, il caffè è di qualità, e l'atmosfera è quella del bar di paese nel senso più bello del termine — un luogo dove ci si sente a casa. Il locale accetta carte di credito e pagamenti contactless, e dispone di bagno accessibile.
+
+Cosa ordinare: il *nero* la mattina con una brioche, uno spritz all'aperitivo, o semplicemente un *capo* per spezzare il pomeriggio. Il bar è attivo su Instagram e Facebook (@antico.caffe.marconi) e organizza occasionalmente serate con eventi.
+
+---
+
+### Bar Caffè Tenda Rossa
+**Piazza Marconi — Muggia (TS)**
+*Tel. 040 224214*
+
+Il Bar Tenda Rossa si trova nella piazza principale di Muggia, proprio di fronte al Palazzo Municipale gotico — uno degli scorci più caratteristici di tutta la regione. Il locale ha attraversato una recente ristrutturazione che ne ha rinnovato gli ambienti pur mantenendo la vocazione di bar di quartiere per eccellenza. Secondo le recensioni dei visitatori, la qualità del caffè e della pasticceria è particolarmente alta: le paste vengono selezionate con cura, e il banco mattutino offre un buon assortimento di dolci tipici triestini oltre ai classici cornetti e brioche.
+
+Il nome, che rimanda alla tenda rossa dell'insegna esterna, è diventato un punto di riferimento visuale per chi cerca di orientarsi nel centro storico. D'estate i tavoli all'aperto si affacciano sulla piazza, regalando una vista diretta sulla loggia gotica e sull'atmosfera veneziana che caratterizza Muggia. L'aperitivo serale, con spritze bibite analcoliche, è frequentato da residenti e visitatori.
+
+---
+
+### Wolly & Mamy — Bikers Café
+**Piazza Marconi, 3 — Muggia (TS)**
+*Tel. 340 171 3703 | bikerscafewm@gmail.com*
+
+A pochi passi dall'Antico Caffè Marconi, sempre sulla stessa piazza, si trova il Wolly & Mamy, un bar con una personalità ben distinta: è un *bikers café*, ovvero un locale che ha fatto della cultura motociclistica il proprio stile. L'atmosfera è informale e accogliente, frequentata da appassionati di moto e da chiunque cerchi un posto senza pretese dove bere qualcosa in compagnia. Il locale è dotato di posti a sedere all'aperto, accetta pagamenti digitali e ospita saltuariamente eventi con musica dal vivo — una rarità per una piazza così piccola e raccolta.
+
+La proposta è quella di un bar generalista con prezzi contenuti (€), adatto sia alla colazione sia all'aperitivo. L'indirizzo email suggerisce una gestione attenta alla clientela e disponibile alle prenotazioni per eventi e gruppi. Per chi arriva a Muggia in moto percorrendo la strada litoranea da Trieste, questo è naturalmente il posto giusto dove fermarsi.
+
+---
+
+### MoltoGhiaccio
+**Piazza Galileo Galilei — Muggia (TS)**
+*Tel. 351 556 1046*
+
+Il MoltoGhiaccio è uno dei locali più vivaci di Muggia, situato in Piazza Galileo Galilei — una delle piazze minori del centro storico, ma non per questo meno gradevole. Il nome gioca sulla parola "ghiaccio" e lascia intuire una forte vocazione verso il gelato e i dessert freddi, ma la proposta del locale è in realtà ampia: colazione, pranzo, dessert, caffè e snack da bar fanno del MoltoGhiaccio un punto di riferimento durante tutta la giornata.
+
+Ciò che distingue questo locale è la propensione agli eventi: il MoltoGhiaccio ospita regolarmente musica dal vivo, che d'estate anima le serate nel piccolo centro di Muggia. Il dehors estivo è uno dei più caratteristici della città. Il locale è accessibile ai disabili (parcheggio, posti a sedere), accetta carte di credito e offre anche il servizio al tavolo e la consegna a domicilio. Con oltre 150 recensioni online, è uno dei locali più frequentati e recensiti di Muggia.
+
+---
+
+### Gelateria Jimmy
+**Largo Amulia, 5 — Muggia (TS)**
+*[www.gelateriajimmy.it](https://www.gelateriajimmy.it)*
+
+La Gelateria Jimmy è senza dubbio l'indirizzo dolciario più famoso di Muggia, e molti la considerano tra le migliori gelaterie dell'intera regione Friuli-Venezia Giulia. Situata in Largo Amulia, a ridosso del mandracchio — il pittoresco porto interno con barche da pesca e piccole imbarcazioni — la gelateria offre la combinazione perfetta tra gelato artigianale di altissima qualità e una delle location più belle di tutta la cittadina. I tavolini all'aperto permettono di gustare il gelato con vista diretta sul porticciolo veneziano, rendendo la sosta qui un'esperienza non solo gustativa ma anche visiva.
+
+La Jimmy è attiva da decenni: c'è chi racconta di frequentarla da ventinove anni consecutivi, e la fedeltà della clientela locale parla da sola. Il gelato è artigianale in senso pieno: creme dense e setose, frutta fresca, gusti creativi come il celebre *Pistacchio al tramonto* e la versione gelato della *Sachertorte* viennese (con granella di glassa al cioccolato e note di albicocca). Le palline sono generose — una singola pallina a 1,70 euro è già abbondante — e la scelta di gusti è ampia, con rotazione stagionale.
+
+Il servizio al tavolo è disponibile e particolarmente apprezzato. La gelateria accetta anche ordini in sloveno, testimoniando il naturale bilinguismo di questa zona di confine. Si possono ordinare torte gelato personalizzate per cerimonie. La qualità dei gelati viene sistematicamente citata come superiore a quella delle gelaterie di Trieste.
+
+Cosa ordinare: il Pistacchio al tramonto, il Sacher, la granita alla mandorla o al pistacchio. D'estate la fila è quasi sempre presente, segnale inequivocabile della qualità.
+
+---
+
+### Kiwi Kiosk
+**Lungomare Venezia — Muggia (TS)**
+
+Il Kiwi Kiosk è un bar-chiosco sul lungomare di Muggia, uno di quei posti che esistono in ogni cittadina di mare e che diventano con il tempo dei punti di riferimento assoluti per i locali. Si trova sul Lungomare Venezia, la passeggiata affacciata sul Golfo di Trieste, e la sua formula è semplice: bibite, caffè, gelati e snack serviti in un ambiente completamente outdoor, con posti a sedere all'aperto e un'accessibilità facilitata anche per famiglie con bambini e per le persone con disabilità.
+
+Con oltre 300 recensioni e una media di 4,5 stelle, il Kiwi Kiosk è uno dei locali più frequentati di Muggia in estate, quando il lungomare diventa la meta delle passeggiate serali e dei cicloturisti che arrivano da Trieste lungo la pista ciclabile costiera. Il pagamento avviene in contanti. L'atmosfera è quella del chiosco estivo per antonomasia: informale, solare, affacciato sul mare.
+
+---
+
+### Boa Beach
+**Strada per Lazzaretto, Punta Sottile — Muggia (TS)**
+*Tel. 351 773 6043*
+
+Il Boa Beach è il bar-spiaggia più remoto e selvaggio di Muggia, situato a Punta Sottile, all'estremità meridionale del territorio comunale, lungo la strada per Lazzaretto. Siamo letteralmente al confine con la Slovenia, in un tratto di costa ancora poco sviluppato e molto suggestivo. Il locale ha un'anima estiva marcata: posti a sedere all'aperto, musica dal vivo, un ambiente rilassato e informale che funziona soprattutto nei mesi caldi quando il sole sul Golfo di Trieste invita alla sosta e all'aperitivo sul mare.
+
+Con quasi 300 recensioni, il Boa Beach è molto apprezzato da chi cerca un'esperienza balneare autentica lontana dai circuiti turistici più battuti. Il locale accetta prenotazioni ed è adatto ai gruppi. La posizione eccentrica rispetto al centro di Muggia lo rende meta di chi arriva in auto o in bici lungo la costa.
+
+---
+
+### Bagno San Rocco
+**Strada per Lazzaretto, 2 — Muggia (TS)**
+*[www.bagnosanrocco.it](https://www.bagnosanrocco.it) | info@bagnosanrocco.it | Tel. 040 271263*
+
+Il Bagno San Rocco è uno dei più frequentati stabilimenti balneari della zona muggesana, situato sulla strada per Lazzaretto, nel tratto costiero a nord del centro storico, verso la frazione di San Bartolomeo. Il bar interno allo stabilimento è parte integrante dell'esperienza balneare: caffè mattutino prima del bagno, aperitivo di metà pomeriggio, bibite e snack durante l'intera giornata. Con oltre 580 recensioni online, è uno dei locali con maggiore visibilità di tutto il comune.
+
+La struttura dispone di parcheggio (raro e prezioso in questa zona di mare) e di attrezzatura completa per la balneazione. Il bar serve tutta la clientela dello stabilimento ma è accessibile anche a chi non utilizza i servizi balneari. L'atmosfera è quella del tipico bagno adriatico, con ombrelloni, lettini e il suono del mare a fare da sottofondo.
+
+---
+
+### Birra Campagnolo — Taproom & Beergarden
+**Strada delle Saline, 30 — Muggia (TS)**
+*[www.birracampagnolo.it](https://www.birracampagnolo.it) | info@birracampagnolo.it | Tel. 040 232306*
+
+Il birrificio artigianale Campagnolo è attivo dal 2007 nella Strada delle Saline di Muggia e rappresenta uno dei progetti di produzione birraria artigianale più interessanti del Friuli-Venezia Giulia. Nasce da un'idea dei fratelli Angelo e Michele Campagnolo, ispirati da un viaggio in Danimarca nel 2006, e si inserisce in una tradizione di famiglia tutta artigianale che passa dalla falegnameria all'impiantistica industriale. La loro filosofia è radicale: niente filtrazione, niente pastorizzazione, materie prime di prima scelta, maturazioni lunghe e fermentazione in bottiglia.
+
+La TapRoom-Beergarden è lo spazio dove le birre Campagnolo vengono servite alla spina e in bottiglia, letteralmente a "metro zero" dal birrificio. Il nome delle birre è tutto un programma: ogni etichetta porta il nome di una sfumatura del vento di bora, il protagonista meteorologico di questa parte del Golfo di Trieste. **Borin** è la bora leggera, **Bora Ciara** è chiara e beverina, **Bora Scura** è la scura maltata, **Refolo** è una brezza estiva, **Neverin** è fredda e precisa come una tramontana. **Striga** è l'IPA, per i palati abituati al luppolo americano. **Millefiori** è prodotta con miele di tiglio del Carso, **Capriccio di Bacco** è una IGA (Italian Grape Ale) con mosto d'uva da viticoltori del FVG scelti di anno in anno.
+
+Il beergarden è il posto ideale per un pomeriggio o una serata a Muggia fuori dai percorsi turistici convenzionali, in un'atmosfera da birreria nordeuropea calata nel paesaggio industriale ma verde delle saline muggesane. Accetta carte di credito, dispone di ampio parcheggio e spazi per disabili.
+
+---
+
+### Pasticceria Triestina Ulcigrai
+**Via O. Petronio, 1/a — Zona Industriale Noghere, Muggia (TS)**
+*[www.pasticceriatriestina.it](https://www.pasticceriatriestina.it)*
+*Orari: lun-sab 6:30–19:00; dom 8:00–13:00*
+
+La Pasticceria Triestina Ulcigrai è probabilmente il laboratorio dolciario più antico e blasonato di tutta l'area muggesana, situato nella zona industriale delle Noghere — il cuore produttivo del comune — non lontano dal confine con la Slovenia. Nonostante la posizione periferica (parcheggio ampio e comodo, spesso usata da chi è di passaggio verso la Croazia), è una tappa imprescindibile per chiunque ami la tradizione dolciaria triestina e istriana.
+
+La storia della pasticceria è intessuta di cinque generazioni familiari. La prima "fornarina" di cui si ha notizia è Domenica, detta *Meneghina*, dai cui antenati le fu tramandata l'arte della panificazione dolce. Da allora, ogni generazione ha portato avanti e raffinato questo patrimonio, portando oggi l'Ulcigrai a essere conosciuta ben oltre i confini muggesani. Affiancato al laboratorio produttivo c'è un bar-caffetteria dove si può consumare in loco: caffè espresso o cappuccino accompagnati da dolci appena usciti dal forno.
+
+Le specialità sono quelle della grande tradizione triestino-istriana: la **pinza** (il pane dolce pasquale con i semi di finocchio), la **putizza** (il rotolo dolce con ripieno di noci, pinoli, uvetta e rum), la **potica** (variante slovena dello stesso dolce), le **favette dei morti** (i piccoli biscotti di mandorle nei colori pastello tipici di Trieste, consumati per Ognissanti), i **crostoli** di Carnevale, le **frìtole** veneziane, la pasticceria secca. La produzione di torte artistiche e da cerimonia è un altro punto di forza, con decorazioni personalizzate per qualsiasi occasione.
+
+Il locale ha circa 317 recensioni online con una media di 4,4 stelle, il che testimonia la costanza della qualità. Le brioche del mattino vengono lodate come *favolose*, e i dolci tradizionali — specialmente quando regalati ad amici di fuori regione — fanno sempre una grande figura. Dispone di tavoli all'aperto, servizi per disabili e consegna a domicilio. Si vendono anche prodotti confezionati online.
+
+Cosa ordinare: la pinza pasquale (in stagione), le favette nei colori rosa e bianco, la putizza per un regalo raffinato, le brioche del mattino. Un avvertimento dai recensitori: le ciambelle non sono sempre fatte di giornata; meglio arrivare presto.
+
+---
+
+### Enoteca al Patriarca
+**Calle Giacomo Puccini, 12 — Muggia (TS)**
+*Tel. 333 117 4785*
+
+L'Enoteca al Patriarca è il punto di riferimento per chi vuole abbinare un buon aperitivo a una selezione di vini locali e qualche cicchetto tipico. Situata in una delle calli del centro storico di Muggia, questo locale unisce l'anima dell'enoteca a quella del bar e del ristorante di pesce, con una proposta che copre pranzo, cena, caffè e spuntini da bar. Con oltre 430 recensioni online, è tra i locali più frequentati del comune.
+
+La posizione nel cuore del borgo veneziano di Muggia lo rende un posto particolarmente suggestivo: le calli di Muggia hanno qualcosa di intimamente veneziano, e sedersi qui con un bicchiere di vino bianco del Carso o del Collio è un piacere genuino. La specializzazione in frutti di mare si riflette anche nella proposta degli snack da aperitivo. Per chi vuole abbinare un buon bicchiere di Vitovska o di Malvasia istriana a qualche boccone sul mare, questo è l'indirizzo giusto.
+
+---
+
+### Il caffè e le tradizioni di Muggia
+
+Muggia condivide con Trieste il rituale del caffè e il suo vocabolario unico. Il *nero* (espresso), il *capo* (macchiato caldo in tazza), il *capo in B* (macchiato in bicchiere, con più latte), la *goccia* (con appena un filo di latte): questi ordini vengono compresi perfettamente in qualsiasi bar muggesano. La principale torrefazione di riferimento per i bar locali è storicamente Hausbrandt, la storica torrefazione triestina che ha contribuito a fondare il culto del caffè in questa città di confine.
+
+La **colazione muggesana** segue i ritmi triestini: si fa al banco, veloce, spesso intorno alle sette o le otto del mattino prima di andare al lavoro. La brioche è rigorosamente sfogliata o ripiena di crema, e il caffè è quasi sempre un *nero* o un *capo*. Il weekend si allunga il rito: i bar con dehors si riempiono di famiglie e coppie che si concedono una colazione seduta, magari con una fetta di torta di mele o un pezzo di *pinza* in stagione.
+
+L'**aperitivo** a Muggia inizia intorno alle diciotto, con uno spritz (Aperol o Campari, prosecco locale, acqua frizzante, oliva o fettina di limone) o un bianco dei Colli dell'Isonzo. I bar di Piazza Marconi — l'Antico Caffè Marconi, il Tenda Rossa, il Wolly & Mamy — diventano il cuore della socialità serale durante i mesi estivi, quando i dehors si riempiono di residenti e visitatori.
+
+Durante il **Carnevale di Muggia** (gennaio-febbraio), uno degli appuntamenti culturali più importanti della regione, i bar e le pasticcerie si trasformano: le vetrine si riempiono di *frìtole*, *crostoli*, *galani* e *frittole* di ogni tipo, e l'atmosfera festosa si estende dai carri allegorici ai banconi dei bar, dove i muggesani mascherati si fermano a bere prima e dopo la sfilata.
+
+---
+
+*Fonti: Pasticceriatriestina.it, anticocaffemarconi.it, birracampagnolo.it, italiarecensioni.com, restaurantguru.it, turismofvg.it, guida-delle-societa.cybo.com, it.wikipedia.org/wiki/Muggia, gelateriajimmy.it.*
+
+---
+
 ## Muzzana del Turgnano
 
 Muzzana del Turgnano è un piccolo comune della pianura friulana in provincia di Udine, con poco meno di tremila abitanti, che si estende tra la campagna bonificata e le propaggini della laguna di Marano. Il territorio comunale comprende la capoluogo e la frazione di Muzzanelle, oltre alla zona lagunare di Portomaran, affacciata sulla Riserva Naturale della Laguna di Marano. Come nella gran parte dei centri rurali del Friuli Venezia Giulia, la vita sociale del comune ruota attorno ai pochi bar del paese: luoghi in cui ci si ritrova la mattina per il caffè o il cappuccino, si chiacchiera di lavoro e di campagna, e al calar della sera si alza lo spritz.
@@ -8851,6 +10340,188 @@ Per chi si trova a Muzzana del Turgnano in cerca di un'offerta più articolata �
 - OpenStreetMap contributors, dati estratti via Overpass API (aprile 2026): node 2639387269 (Bar Friuli), node 11786302262 (Cacciatore d'Anime), way 36709472 (Bar ristorantino Vista sul Mare – Portomaran)
 - PagineGialle.it – scheda "Cacciatore D'anime", Muzzana del Turgnano (UD), verificata aprile 2026
 - Nominatim / OpenStreetMap – confini comunali di Muzzana del Turgnano (relation 179137), bounding box 45.7629841–45.8560079 lat, 13.1068685–13.1616638 lon
+
+---
+
+## Nimis
+
+Nimis è un piccolo comune di poco più di 2.600 abitanti adagiato ai piedi delle Prealpi Giulie, nella pedemontana udinese, a circa quindici chilometri dal capoluogo di provincia. Il territorio comunale sale dai fondovalle del Torre e del Cornappo fino ai versanti collinari e boscosi della frazione di Ramandolo, celebre in tutto il mondo per l'omonimo vino DOCG. È proprio questa peculiare geografia — tra il piano friulano e le prime pendici montane — a definire il carattere della socialità locale: un ritmo lento, radicato nelle stagioni agricole, dove il bar del paese non è uno sfizio ma una necessità quotidiana, un punto di incontro imprescindibile per chi abita in un comune dove le distanze dalla città si misurano ancora a chilometri di strada provinciale.
+
+La cultura del caffè a Nimis segue i canoni della tradizione friulana pura: l'espresso mattutino al bancone, un cornetto acquistato nel panificio lì vicino, quattro chiacchiere con il barista che conosce tutti per nome. Non esistono qui le caffetterie specializzate, i latte art o i cold brew che si trovano in città — e non è una mancanza, è una scelta implicita di un luogo che ha scelto di restare se stesso. L'aperitivo, di contro, porta il segno inconfondibile del territorio: nei calici non scorrono solo spritz e Aperol, ma anche il Friulano, il Sauvignon dei Colli Orientali e, nelle occasioni speciali, il Ramandolo DOCG servito come vino da meditazione o come apertura nobile di un pasto importante. Nimis, d'altra parte, porta impressa nel suo tessuto la cicatrice del terremoto del 1976 e la determinazione silenziosa con cui la comunità si è rialzata — determinazione che nel 2002 le è valsa la Medaglia d'Oro al Merito Civile. I luoghi di ritrovo come il bar e l'osteria hanno fatto parte integrante di quel processo di ricostruzione collettiva.
+
+Va detto con onestà: Nimis è un comune piccolo, e la sua offerta di bar, caffè e locali da colazione è proporzionalmente essenziale. Non vi sono gelaterie, né pasticcerie artigianali all'interno del territorio comunale. Per esigenze di questo tipo, gli abitanti si spostano a Tarcento (quattro o cinque chilometri) o a Udine. Ciò che esiste a Nimis, però, è autentico, vissuto, privo di qualsiasi finzione turistica.
+
+---
+
+### Bar Centrale
+
+Il **Bar Centrale** è il cuore pulsante della vita sociale di Nimis. Situato nel nucleo del capoluogo, a pochi passi dall'ufficio postale e dalla filiale della FriulAdria Crédit Agricole, è il classico bar di paese friulano che svolge una funzione quasi pubblica: qui ci si incontra la mattina presto prima di andare al lavoro, si torna a metà mattina per un caffè, ci si ferma nel primo pomeriggio per una birra o un calice di vino bianco. Il nome "Centrale" — adottato da decine di bar analoghi in ogni comune d'Italia — non è una scelta di marketing ma una semplice descrizione geografica e sociale: è il bar al centro, quello di tutti.
+
+Non ha un sito web, non è presente su TripAdvisor, non ha una pagina Facebook. Questo non è un'anomalia: è la norma per i bar di paese friulani di questa dimensione, frequentati esclusivamente da residenti che non hanno bisogno di Google Maps per trovarlo. La colazione qui è quella essenziale: espresso, cappuccino, cornetto (spesso portato dal panificio vicino). L'aperitivo del pomeriggio vede in genere un bianco locale — Tocai Friulano o Sauvignon dei Colli Orientali — accompagnato da qualche cicchetto semplice. Niente di elaborato, tutto di sostanza.
+
+- **Dove:** Centro del capoluogo di Nimis (UD)
+- **Cosa ordinare:** Espresso al mattino, calice di Friulano all'aperitivo
+
+---
+
+### Bar Le Pianelle
+
+Il **Bar Le Pianelle** prende il nome dalla zona in cui si trova: la parte meridionale del comune, nei pressi della celebre **Chiesa della Madonna delle Pianelle**, santuario quattrocentesco (eretto nel 1476) tra i luoghi di culto più venerati del Friuli orientale. Questo piccolo bar serve tanto i residenti della zona pianeggiante del comune quanto i visitatori e i pellegrini che raggiungono il santuario a piedi, percorrendo i sentieri che salgono dalla pianura.
+
+La sua collocazione — circa 500 metri a sud-ovest del centro del paese, in prossimità del ristorante *Lis Campanelis* — lo rende un punto di sosta naturale per chi percorre questa parte del territorio a piedi o in bicicletta. Come il Bar Centrale, non dispone di alcuna presenza online documentata: è un luogo per locali, non per turisti. Nei fine settimana estivi, quando i frequentatori del santuario e dei sentieri aumentano, può animarsi di un pubblico più vario.
+
+- **Dove:** Area della Madonna delle Pianelle, zona sud di Nimis (UD)
+- **Cosa ordinare:** Caffè, bibite, birra — la sosta ideale dopo una passeggiata al santuario
+
+---
+
+### Al Posto Giusto
+
+**Al Posto Giusto** è il pub del comune, classificabile come locale serale piuttosto che come bar da colazione. Situato in Via Giosuè Carducci 6, a poca distanza dal centro del capoluogo, il nome — che in italiano equivale a "nel posto giusto" — lascia intendere un approccio bonario e informale, tipico dei pub di paese. In un contesto friulano, "pub" può significare cose diverse: a volte un locale con birre artigianali e internazionali, altre volte semplicemente un bar serale con qualche stuzzichino.
+
+**Al Posto Giusto** svolge con ogni probabilità la funzione di ritrovo serale per i giovani del comune e dei paesi vicini, in un'area dove l'offerta di locali notturni è naturalmente ridotta. L'aperitivo della sera — in Friuli spesso più discreto e meno cerimonioso che in Lombardia o Veneto — trova qui la sua dimensione quotidiana. Anche questo locale è privo di web presence documentabile; la sua esistenza è confermata dalle mappature OpenStreetMap.
+
+- **Dove:** Via Giosuè Carducci 6, 33045 Nimis (UD)
+- **Atmosfera:** Pub di paese, vocazione serale
+
+---
+
+### Panificio Pilon
+
+Nel Friuli dei piccoli comuni, il panificio svolge spesso la funzione che altrove compete alla pasticceria o al bar: è il luogo dove comprare il cornetto la mattina, dove si trovano le *putizze*, i *krapfen* e i dolci lievitati locali. Il **Panificio Pilon**, nel centro di Nimis, è uno di questi. Oltre al pane fresco — pilastro della cucina friulana, da quello di segale a quello bianco da accompagnare al frico — il panificio offre prodotti dolci da colazione che molti residenti acquistano prima o dopo il caffè al bar vicino.
+
+È un punto di riferimento silenzioso ma fondamentale della vita quotidiana del paese, aperto di buon mattino quando il bar è ancora chiuso o appena alzato. Il profumo del pane appena sfornato, in un paese come Nimis, è ancora qualcosa che scandisce l'orario della mattina.
+
+- **Dove:** Centro di Nimis (UD), vicino al Bar Centrale
+- **Cosa comprare:** Cornetti, pane fresco, dolci lievitati locali
+
+---
+
+### Bon Pan
+
+L'altro panificio del comune, il **Bon Pan** — il cui nome significa semplicemente "buon pane" — si trova nella zona centrale del capoluogo, in posizione leggermente più a sud rispetto al Panificio Pilon. Il nome in friulano o in dialetto veneto-friulano esprime una promessa semplice e diretta: pane buono, fatto bene. Anche Bon Pan rientra nella categoria dei luoghi dove la colazione del mattino si completa: chi non si ferma al bar compra qui il suo cornetto o la sua brioche da portare in ufficio o a casa.
+
+In assenza di pasticcerie vere e proprie nel comune, questi due panifici assolvono a un ruolo importante per la prima colazione quotidiana degli abitanti di Nimis.
+
+- **Dove:** Centro di Nimis (UD)
+- **Cosa comprare:** Pane artigianale, prodotti da forno per la colazione
+
+---
+
+### Osteria Da Ridolf
+
+L'**Osteria Da Ridolf** è il locale più antico e storicamente significativo di Nimis: la sua presenza nel capoluogo è documentata da oltre cento anni, tanto che Wikipedia la cita esplicitamente tra i *luoghi d'interesse* del comune, accanto al castello medievale, alle chiese e ai vigneti del Ramandolo DOCG. In un elenco del patrimonio locale, stare insieme a monumenti e prodotti DOP è già una forma di riconoscimento che vale più di qualsiasi stella o recensione online.
+
+Un'osteria friulana di questa longevità non è semplicemente un ristorante: è un'istituzione sociale. Le osterie storiche del Friuli erano i luoghi dove i contadini si fermavano dopo il mercato, dove si sancivano accordi verbali davanti a un bicchiere di vino, dove le generazioni si incrociavano. L'Osteria Da Ridolf — il cognome "Ridolf" è una variante friulana di Rodolfo — ha attraversato il fascismo, la Seconda Guerra Mondiale, il devastante terremoto del 1976 e la ricostruzione. Questa continuità è la sua più grande qualità.
+
+Oggi, come cento anni fa, ci si viene per mangiare i piatti della tradizione friulana — il *frico* di patate e formaggio, la polenta, le zuppe, il selvatico di stagione — e per bere i vini del territorio, primo fra tutti il Ramandolo DOCG prodotto a poche centinaia di metri. L'aperitivo qui non è uno spritz con le patatine: è un calice di Friulano o, nelle serate giuste, un assaggio di Ramandolo dolce come benvenuto. Nessun sito web, nessun profilo social, nessuna presenza su piattaforme di prenotazione. Qui si prenota (se si prenota) di persona o per telefono.
+
+- **Dove:** Nimis capoluogo (UD) — indirizzo esatto da verificare localmente
+- **Cosa bere:** Vini dei Colli Orientali del Friuli, Ramandolo DOCG
+- **Cosa mangiare:** Frico, polenta, cucina tradizionale friulana
+
+---
+
+### Arches Bistrò
+
+**Arches Bistrò** rappresenta la faccia più contemporanea della ristorazione nimisana. Situato in Via Tarcento 14 — la strada principale che collega Nimis a Tarcento e alla statale — il formato bistrò suggerisce un'impostazione informale e moderna, lontana dall'austerità delle osterie storiche. Il menu è centrato sulla carne, con cucina italiana rivisitata.
+
+In quanto bistrò, **Arches** svolge naturalmente anche la funzione di aperitivo pre-cena: il formato del locale — più rilassato di un ristorante classico, più curato di un'osteria — invita a fermarsi per un calice prima di ordinare. La prenotazione è disponibile tramite TheFork, segno di una gestione orientata anche a un pubblico non strettamente locale.
+
+- **Dove:** Via Tarcento 14, 33045 Nimis (UD)
+- **Telefono:** 335 8206395
+- **Prenotazioni:** TheFork
+- **Cosa ordinare:** Menu di carne, aperitivo serale
+
+---
+
+### Borgo Romanzo (frazione di Ramandolo)
+
+**Borgo Romanzo** è il ristorante che più di ogni altro esprime l'identità del Nimis collinare, quello del Ramandolo DOCG. Situato in Via Ramandolo 7, nel cuore della piccola frazione vitata a circa 300 metri di altitudine sopra il fondovalle, il nome è un omaggio doppio: a *borgo romanzo* come villaggio di origine latina (dal termine "romanzo" nel senso linguistico-storico, che richiama l'etimologia proposta per il nome Ramandolo — "valle delle genti latine") e, implicitamente, al celebre romanzo *Il Conte pecoraio* di Ippolito Nievo, ambientato proprio tra queste colline.
+
+Il menu riflette la cucina friulana con intelligenza: il **frico di patate con polenta grigliata** (€12) è il piatto identitario della regione nella sua forma più autentica; la faraona in doppia cottura con crema di sedano rapa e funghi di stagione (€18) mostra una mano capace di lavorare il prodotto locale con tecnica. La tagliata di manzo (€26) soddisfa i gusti più classici. Il prezzo medio si attesta intorno ai 28 euro, accessibile per un ristorante in zona DOCG.
+
+Il contesto è quello dei vigneti del Ramandolo: terrazzamenti scoscesi su suolo di *ponca* (flysch e marne), viti di Verduzzo Friulano aggrappate ai pendii, un paesaggio che cambia colore con le stagioni. Ordinare un calice di **Ramandolo DOCG** qui — magari come apertura del pasto, secondo la tradizione friulana di servire il vino più prezioso del territorio come benvenuto a tavola — è un'esperienza che nessuna guida può sostituire.
+
+- **Dove:** Via Ramandolo 7, 33045 Nimis (UD) — frazione di Ramandolo
+- **Telefono:** 353 4747558
+- **Prenotazioni:** TheFork
+- **Cosa ordinare:** Frico con polenta, Ramandolo DOCG, menù stagionale
+- **Prezzo medio:** ~€28
+
+---
+
+### Osteria di Ramandolo di Greco Pietro (frazione di Ramandolo)
+
+L'**Osteria di Ramandolo** — gestita dalla famiglia Greco — è l'altra insegna ristoratrice nella frazione vitata, situata in Via Ramandolo 22, poco distante da Borgo Romanzo. La presenza dei tavoli all'aperto è confermata: in estate, pranzare o cenare fuori con vista sui vigneti del Ramandolo è una delle esperienze più complete che questa parte del Friuli può offrire.
+
+Essere un'osteria "di Ramandolo" significa quasi per definizione proporre il vino DOCG locale — che viene prodotto da una manciata di cantine a poche centinaia di metri, tra cui la celebre **Azienda Agricola Dri Giovanni "Il Roncat"** (www.drironcat.com), una delle etichette più rappresentative dell'appellation. Il Ramandolo, con il suo profilo dolce-amabile, i profumi di frutta matura e miele, e la sua rarità (produzione limitatissima, vigneti impossibili da meccanizzare), si abbina in modo classico ai formaggi stagionati friulani, al foie gras e ai dolci a base di mandorle — ma in questo angolo di colline il suo ruolo più suggestivo è quello di accompagnare semplicemente la conversazione, come si fa con i grandi vini che non hanno bisogno di occasioni speciali per essere aperti.
+
+- **Dove:** Via Ramandolo 22, 33045 Nimis (UD) — frazione di Ramandolo
+- **Particolarità:** Tavoli all'aperto tra i vigneti del Ramandolo DOCG
+
+---
+
+### Alla Trota del Cornappo
+
+**Alla Trota del Cornappo** è uno di quei ristoranti che racconta il paesaggio in cui è immerso già nel nome: il Cornappo è il torrente alpino che scende dai boschi delle Prealpi Giulie e attraversa il territorio di Nimis prima di confluire nel Torre. Le trote di fiume, in questa parte del Friuli pedemontano, sono una specialità autentica — non un artificio da carta turistica, ma un prodotto radicato nelle tradizioni della cucina di montagna.
+
+Il locale è aperto giovedì e venerdì dalle 18 a mezzanotte, il sabato e la domenica dalle 11, il che lo caratterizza come destinazione del fine settimana e delle serate. L'aperitivo del weekend — magari con un calice di Friulano bianco fresco prima di ordinare la trota — è la formula naturale per questo tipo di locale di pedemontana.
+
+- **Dove:** Zona nord del capoluogo, Nimis (UD)
+- **Orari:** Gio-Ven 18:00–24:00; Sab-Dom 11:00–24:00
+- **Specialità:** Trota di fiume, cucina di pedemontana
+
+---
+
+### Distillecito Ceschia
+
+Il **Distillecito Ceschia** — il termine *distillecito* è una forma friulana del diminutivo affettuoso per distilleria — è un punto vendita di grappe e distillati artigianali nel centro di Nimis, in zona Via dei Fabbri. Il Friuli Venezia Giulia è la regione italiana con la tradizione grappaiola più nobile: Nonino di Percoto, Jacopo Poli, e decine di piccole distillerie locali hanno elevato la grappa da sottoprodotto contadino a distillato da meditazione. Ceschia rappresenta questa tradizione a scala comunale.
+
+La grappa non è propriamente un prodotto da bar o da colazione — ma nella cultura friulana il *gòt di grapa* (il bicchierino di grappa) ha un posto preciso nella giornata: dopo il caffè mattutino nelle giornate di freddo intenso, oppure come chiusura di un pranzo domenicale. In una piccola bottega come Ceschia, si trovano grappe di vitigni locali (Verduzzo, Friulano, Schioppettino), amari, liquori di erbe alpine e distillati stagionali.
+
+- **Dove:** Via dei Fabbri (area), 33045 Nimis (UD)
+- **Cosa comprare:** Grappa di Verduzzo, distillati locali, amari friulani
+
+---
+
+### Il Ramandolo DOCG e la cultura dell'aperitivo nimisano
+
+Parlare di bar e aperitivo a Nimis senza parlare del **Ramandolo DOCG** sarebbe un'omissione imperdonabile. Questo vino — 100% Verduzzo Friulano, unico DOCG di tutta l'area dei Colli Orientali del Friuli, con status DOCG dal 2001 e documenti storici che risalgono al 1893 — nasce esclusivamente sui terrazzamenti della frazione omonima e su una piccola porzione del territorio di Tarcento. È il vino più settentrionale del Friuli, prodotto a mano su pendii che raggiungono il 30% di inclinazione dove non entra nessun trattore, su suoli di *ponca* (flysch e marne argilloso-arenacee) che conferiscono al Verduzzo Friulano una mineralità e una complessità inconfondibili.
+
+Il disciplinare impone un contenuto alcolico minimo del 14% e un profilo dolce-amabile, con acidità vivace (minimo 4,5 g/L) che bilancia la dolcezza residua. I suoi abbinamenti classici, codificati dalla stessa denominazione, sono la pasticceria secca alle mandorle, i dolci di mele, la colomba, il panettone, i formaggi erborinati e stagionati, e — inizio di un pasto di pregio — il foie gras. Ma a Nimis il Ramandolo è prima di tutto un gesto di ospitalità: aprire una bottiglia di Ramandolo è dire agli ospiti che sono benvenuti, che questo pasto vale la pena di essere celebrato.
+
+I principali produttori operativi nel territorio comunale includono l'**Azienda Agricola Dri Giovanni "Il Roncat"** (www.drironcat.com), considerata una delle cantine di riferimento per la denominazione, e **La Roncaia** (laroncaia.it), che produce tra l'altro il Ramandolo in versione sia tradizionale che in selezioni tardive.
+
+---
+
+### Agriturismo I Comelli
+
+L'**Agriturismo I Comelli** completa il quadro dell'offerta nimisana con la formula agricola: aperto dal giovedì al domenica (giovedì e venerdì dalle 17 in poi, sabato e domenica dall'11), propone cucina contadina e vini del territorio in un contesto rurale nella zona nord del comune. Gli agriturismi friulani sono spesso l'alternativa più autentica al ristorante classico per chi cerca sapori del territorio senza filtri: prodotti dell'orto, carni allevate in loco, formaggi locali, e bottiglie della cantina vicina.
+
+- **Dove:** Zona nord di Nimis (UD)
+- **Orari:** Gio-Ven 17:00–24:00; Sab-Dom 11:00–24:00
+
+---
+
+### Considerazioni finali su Nimis
+
+Nimis è un comune dove non si va per fare il turismo del bar: non ci sono locali "instagrammabili", caffetterie specialty o pasticcerie da vetrina. Chi cerca la brioche al pistacchio o il flat white troverà le risposte a Udine o Tarcento. Ma Nimis offre qualcosa di più raro: la vita del bar friulano nella sua forma più pura, quella che non ha imparato a recitare per un pubblico esterno. Il Bar Centrale e il Bar Le Pianelle sono luoghi di comunità nel senso più letterale del termine. L'Osteria Da Ridolf — più di un secolo di storia alle spalle — è un pezzo di Friuli che ha resistito al terremoto, alla modernità e all'oblio.
+
+E poi c'è il Ramandolo, che di Nimis è la cifra più alta: un vino che si beve in piccole quantità, con attenzione, e che porta con sé il profumo di quei terrazzamenti impossibili aggrappati alle colline sopra il paese. Sedersi con un calice di Ramandolo in un'osteria del paese, in una sera di autunno quando i vigneti cambiano colore, è un'esperienza che — a saperla cercare — vale un viaggio.
+
+---
+
+### Fonti
+
+- OpenStreetMap — dati geografici del comune di Nimis (nodi: Bar Centrale, Bar Le Pianelle, Al Posto Giusto, Panificio Pilon, Bon Pan, Osteria di Ramandolo, La Valanghe, Alla Trota del Cornappo, Agriturismo I Comelli, Lis Campanelis, Distillecito Ceschia)
+- Wikipedia — voce "Nimis": storia, luoghi d'interesse, Osteria Da Ridolf, terremoto 1976, Medaglia d'Oro al Merito Civile 2002
+- Wikipedia — voce "Ramandolo (vino)": DOCG, uvaggio, disciplinare, abbinamenti, produttori
+- Wikipedia — voce "Cucina friulana": tradizioni di colazione e aperitivo in Friuli Venezia Giulia
+- Pagine Gialle — ricerche per "bar", "pasticcerie", "ristoranti" nel CAP 33045 (Nimis, UD)
+- Arches Bistrò e Borgo Romanzo: schede TheFork e Pagine Gialle
+- Azienda Agricola Dri Giovanni "Il Roncat": www.drironcat.com
+- La Roncaia: laroncaia.it
 
 ---
 
@@ -9114,6 +10785,59 @@ Le tradizioni dolciarie della zona seguono quelle del Friuli udinese più in gen
 
 ---
 
+## Palazzolo dello Stella
+
+Palazzolo dello Stella è un piccolo comune della Bassa Friulana, in provincia di Udine, attraversato dal fiume Stella che scende verso la laguna di Marano. Con poco meno di tremila abitanti distribuiti tra il capoluogo e le frazioni di Modeano, Piancada e La Fraida — oltre a numerosi casali sparsi come Isola Augusta, Casali Moretton, Paludo Sinistra e Paludo Destra — il territorio ha un carattere rurale e lagunare spiccato. Non si tratta di una meta turistica di massa, e la vita del bar riflette questa dimensione raccolta: si tratta di luoghi di prossimità, dove la gente del posto si ritrova per il caffè del mattino, qualche chiacchiera nel pomeriggio, o un bicchiere di vino locale a fine giornata. Non esistono pasticcerie o gelaterie artigianali all'interno del confine comunale — chi cerca una pasticceria si sposta verso Latisana (circa 6 km) o Rivignano Teor (circa 6 km). L'offerta di bar e caffè è concentrata principalmente lungo Via Roma nel centro del capoluogo e sull'asse di Via Nazionale, con un'eccezione di grande interesse enogastronomico nei casali di Isola Augusta, nell'angolo sudoccidentale del territorio verso la laguna.
+
+### Caffè Centro
+
+**Indirizzo:** Via Roma 56, 33056 Palazzolo dello Stella (UD)
+
+Il Caffè Centro è il punto di riferimento per la vita quotidiana del paese. Situato sul tratto principale di Via Roma, nel cuore del capoluogo, è il classico *bar del paese* della Bassa Friulana: un luogo dove si intrecciano le mattine di chi va al lavoro con un cappuccino e una brioche, le pause di mezza mattina degli artigiani del circondario, e i pomeriggi più lenti di chi si ferma a leggere il giornale. Dispone di posti a sedere sia all'interno che all'esterno, il che lo rende particolarmente vissuto nelle stagioni miti. La colazione qui segue la tradizione friulana più semplice: caffè espresso o cappuccino, qualche dolce da banco. Non una pasticceria, ma il tipo di bar che in un piccolo comune svolge un ruolo sociale insostituibile. È anche il luogo naturale per l'aperitivo serale — probabilmente con uno spritz o un calice di vino bianco friulano, nella tradizione delle osterie di paese che si fondono con il bar moderno.
+
+### Alla Fresca
+
+**Indirizzo:** Via Roma 91, 33056 Palazzolo dello Stella (UD)
+
+A un centinaio di metri dal Caffè Centro, sempre su Via Roma, si trova un secondo caffè il cui nome — *Alla Fresca* — evoca immediatamente l'idea dell'ombra, del fresco, dello stare all'aperto. Nella tradizione friulana e veneta il termine "alla fresca" designa proprio il piacere di sedersi fuori nelle sere d'estate, e il locale sembra rispecchiare questa vocazione: il dato disponibile indica posti a sedere esclusivamente all'esterno, confermando una natura prevalentemente stagionale o comunque orientata alla fruizione en plein air. È il tipo di locale ideale per un aperitivo primaverile o estivo, per uno spritz o un Aperol nelle serate tiepide della Bassa, quando il silenzio della campagna circostante rende il momento ancora più piacevole. La prossimità al Caffè Centro suggerisce che i due esercizi abbiano un'utenza in parte sovrapposta ma forse orari o caratteri leggermente differenti.
+
+### Caoduro Maurizio
+
+**Indirizzo:** Via Fornaci 57, 33056 Palazzolo dello Stella (UD)
+**Telefono:** 0431 588667
+
+Questo è l'unico bar del comune con un numero telefonico attivo registrato in Pagine Gialle sotto la categoria *Bar e Caffè*. L'indirizzo in Via Fornaci — una via che richiama tradizioni artigianali e produttive — suggerisce una collocazione leggermente decentrata rispetto al cuore di Via Roma, in una zona che nel tempo ha ospitato attività produttive locali. È il tipo di bar di quartiere o di zona periferica che serve principalmente la clientela di prossimità: artigiani, operai, residenti del vicinato. La funzione è essenzialmente quella del bar di lavoro — il caffè veloce al bancone, il panino a metà mattina, qualche bicchiere nel primo pomeriggio. Non ci sono informazioni sulle specialità o sull'arredamento, ma la presenza consolidata nelle directory locali indica una continuità di esercizio nel tempo.
+
+### Il Chiosco — Isola Augusta
+
+**Indirizzo:** Casali Isola Augusta, 33056 Palazzolo dello Stella (UD)
+**Telefono:** 0431 589537
+**Email:** chiosco@isolaugusta.com
+**Sito web:** [www.isolaugusta.com](https://www.isolaugusta.com)
+
+In questo caso si parla di qualcosa di completamente diverso rispetto ai bar di paese: Il Chiosco è il punto di degustazione e mescita della cantina **Isola Augusta**, una delle realtà vitivinicole più significative della Bassa Friulana, situata nella parte più meridionale del comune, dove il territorio si avvicina alla laguna di Marano e il paesaggio assume un carattere quasi selvaggio, tra corsi d'acqua, canneti e cielo aperto.
+
+La cantina Isola Augusta si trova letteralmente su un'isola formata dal fiume Stella e dai suoi canali, e produce vini bianchi friulani — Friulano, Pinot Grigio, Sauvignon, Malvasia Istriana — oltre a rossi come il Refosco dal Peduncolo Rosso. Il chiosco ricavato nella vecchia stalla del complesso agricolo storico è uno spazio dove la tradizione e la modernità si incontrano, come recita la filosofia della cantina, per celebrare la cultura del vino friulano. L'offerta è quella di un'enoteca informale all'aperto: calici e bottiglie dei vini di casa, abbinati a cicchetti, taglieri e prodotti tipici del territorio.
+
+Il luogo è ideale per un aperitivo fuori dall'ordinario, immerso nella natura della Bassa Friulana, lontano dai rumori della statale. I posti a sedere sono esclusivamente esterni, il che fa del Chiosco una destinazione stagionale — la primavera e l'estate sono il momento migliore per visitarlo, quando l'aria lagunare porta profumo di salsedine e i vigneti circostanti sono nel pieno del verde. È anche un punto di partenza eccellente per chi vuole esplorare in bicicletta o a piedi la riserva naturale della Foce dello Stella, che si trova a pochissima distanza.
+
+---
+
+### Nota sulla vita del bar a Palazzolo dello Stella
+
+Palazzolo dello Stella è un comune dove l'assenza di pasticcerie o gelaterie artigianali proprie è compensata dalla qualità della vita di vicinato che i bar locali garantiscono. In un paese della Bassa Friulana di queste dimensioni, il bar non è semplicemente un luogo dove si consuma un caffè: è il centro della socialità quotidiana, il punto dove ci si incontra, dove si commentano le notizie, dove si organizzano le serate. La tradizione della colazione friulana — semplice, rapida, al banco — si integra qui con la cultura dell'aperitivo serale, che nella Bassa spesso significa un bicchiere di Friulano, di Pinot Grigio o di Tocai (come ancora lo chiamano i locali) piuttosto che uno spritz. L'eccezione di Isola Augusta porta un elemento di enoturismo di qualità che si aggiunge alla trama dei bar di paese, offrendo a residenti e visitatori un motivo in più per scoprire questo angolo di Friuli poco battuto dai percorsi turistici convenzionali.
+
+---
+
+### Fonti
+
+- OpenStreetMap, relazione amministrativa comune di Palazzolo dello Stella (relation 179238), dati aggiornati maggio 2026 — nodi bar: 10123842070, 10123848453, 10123796416, 10130056624, 10958285701, 10133863410
+- Pagine Gialle / Pagine Bianche — categoria "Bar e Caffè", CAP 33056, consultazione maggio 2026
+- Sito ufficiale cantina Isola Augusta: [www.isolaugusta.com](https://www.isolaugusta.com), consultazione maggio 2026
+- Wikipedia — voce "Palazzolo dello Stella", consultazione maggio 2026
+
+---
+
 ## Palmanova
 
 Palmanova è una città-fortezza unica al mondo, fondata dalla Repubblica di Venezia nel 1593 e iscritta nel 2017 nella Lista del Patrimonio Mondiale UNESCO come parte dei "Lavori di difesa veneziani tra XVI e XVII secolo". La sua pianta stellare a nove punte, con la maestosa Piazza Grande al centro da cui si irradiano nove strade principali, ne fa uno degli esempi più compiuti di città ideale rinascimentale. Abitata da circa 5.300 palmarini, questa piccola città della pianura friulana — a venti chilometri a sud di Udine, all'incrocio tra A23 e A4 — ha una vita di bar e caffetterie che si concentra prevalentemente attorno a Piazza Grande e lungo i tre Borghi principali (Borgo Udine, Borgo Aquileia, Borgo Cividale), che prendono nome dalle tre porte di accesso alla cinta muraria.
@@ -9255,6 +10979,465 @@ Lungo i tre borghi principali (Aquileia, Cividale, Udine) si trovano invece i ba
 - Wikipedia – voce "Palmanova": [it.wikipedia.org/wiki/Palmanova](https://it.wikipedia.org/wiki/Palmanova)
 - Gambero Rosso – Miglior Bar d'Italia 2011 e 2014 (citazioni dalla pagina ufficiale della Caffetteria Torinese)
 - Ricerca consultata: aprile 2026
+
+---
+
+## Pasian di Prato
+
+Pasian di Prato (in friulano *Pasian di Prât*) è un comune di circa 9.300 abitanti nella provincia di Udine, collocato a soli tre chilometri a sud-ovest dal capoluogo, con cui forma un'unica conurbazione urbana separata soltanto dal torrente Cormor e dall'autostrada A23. Il territorio, pianeggiante e agricolo fino a pochi decenni fa, è oggi un comune residenziale densamente popolato, con frazioni vivaci come Passons, Santa Caterina, Colloredo di Prato e Bonavilla. La vicinanza con Udine condiziona i ritmi sociali: molti pasianesi lavorano e si spostano verso il capoluogo, ma i bar e le osterie locali restano punti di riferimento irrinunciabili per la colazione del mattino, il caffè a metà giornata e l'aperitivo serale.
+
+La cultura del bar a Pasian di Prato è quella tipica della pianura friulana periurbana: locali di quartiere gestiti spesso da famiglie, dove ci si ritrova la mattina presto davanti a un espresso e un cornetto, o nel tardo pomeriggio per un tajut — il classico "taglio" di vino bianco friulano — o uno spritz con Aperol o Campari. Le osterie e le trattorie del territorio fungono spesso anche da bar, e costituiscono la vera rete sociale di un comune che mantiene salde le sue radici comunitarie nonostante la prossimità con la città.
+
+---
+
+### Bar Covre
+
+**Via Santa Caterina, 38 – Pasian di Prato (frazione Santa Caterina)**
+**Tel.:** 0432 691462 / 389 1097518
+
+Il Bar Covre è uno dei locali più consolidati e riconoscibili della frazione Santa Caterina, che si sviluppa lungo la via omonima nella parte orientale del comune, a ridosso del confine con Udine. Tabaccheria e bar insieme — una formula classicissima nel Friuli periurbano — il Covre apre ogni mattina alle 6:30 e chiude alle 21:00, dal lunedì al sabato, rimanendo chiuso la domenica. È il posto dove ci si ferma prima di andare al lavoro per il caffè veloce al banco, dove si comprano le sigarette e i biglietti della lotteria, dove ci si aggiorna con i vicini di quartiere. L'atmosfera è quella dell'esercizio di quartiere autentico, senza pretese, ma con quella familiarità che rende questi posti insostituibili nella quotidianità dei pasianesi. Il banco della colazione è ben fornito, con cornetti, pasticcini e qualche dolce del giorno.
+
+---
+
+### Bar Caffetteria Edilia
+
+**Via Santa Caterina, 49 – Pasian di Prato (frazione Santa Caterina)**
+**Tel.:** 331 2927346
+
+A pochi passi dal Bar Covre lungo la stessa via, la Bar Caffetteria Edilia è un locale più orientato alla caffetteria moderna, con una proposta curata per la colazione e la pausa caffè. Dispone di tavoli all'aperto — l'outdoor seating è confermato — il che la rende particolarmente gradevole nelle stagioni miti, quando i pasianesi possono fermarsi a fare colazione o prendere un aperitivo seduti fuori, con la calma di un viale di quartiere. L'Edilia copre la fascia mattutina con brioche, fette biscottate, cappuccini e caffè di qualità, ma è anche un riferimento pomeridiano e pre-serale per chi cerca un locale tranquillo dove fermarsi. Il nome, insolito per un bar, rimanda probabilmente all'attività edilizia del territorio circostante, ricco di cantieri e insediamenti residenziali degli anni '80 e '90.
+
+---
+
+### Da Pippo Uno – Ristorante Pizzeria
+
+**Via Santa Caterina, 62 – Pasian di Prato (frazione Santa Caterina)**
+**Tel.:** 0432 690936
+
+Da Pippo Uno è un classico ristorante-pizzeria di quartiere che, come molti locali analoghi della pianura friulana, funge anche da punto di incontro per l'aperitivo e il dopo-cena. La posizione nella frazione Santa Caterina, lungo la via di collegamento verso il centro di Pasian, lo rende facilmente raggiungibile a piedi dagli abitanti della zona. L'offerta gastronomica è quella della cucina italiana informale — pizze, pasta, secondi —, ma il bancone del bar è attivo per il caffè mattutino e per l'aperitivo serale, quando i tavoli si animano con gli spritz e le stuzzicherie. Un posto senza velleità, ma affidabile e radicato nella comunità locale.
+
+---
+
+### Pizzeria Trancio d'oro
+
+**Frazione Santa Caterina – Pasian di Prato**
+
+Nelle immediate vicinanze del Bar Covre e della Bar Caffetteria Edilia, il Trancio d'oro è un locale con formula pizza al taglio e bar, molto frequentato nelle ore di punta per la pausa pranzo e il pomeriggio. Il nome evoca la tradizione della pizza in teglia, venduta a tranci — formula che nel Friuli ha preso piede soprattutto nei comuni periurbani dove la velocità e la praticità sono valori apprezzati. Non è un posto dove sedersi per una colazione elaborata, ma è ideale per un panino, un caffè, una bibita fresca o una birra in compagnia.
+
+---
+
+### Al Tucano
+
+**Pasian di Prato**
+**Tel.:** 0432 690487
+
+L'Al Tucano è un bar locale situato nella parte meridionale del territorio comunale, non lontano dalla zona di confine con Campoformido. Il numero di telefono con prefisso 0432 lo identifica come un esercizio radicato nel tessuto locale udinese-pasianense. Come molti bar di questa fascia periurbana, serve principalmente colazione, caffè e stuzzicherie leggere, con un'attenzione particolare alla clientela di quartiere — famiglie, lavoratori, anziani del vicinato. Il nome, vivace e insolito, suggerisce un ambiente informale e accogliente.
+
+---
+
+### Bar Arizona
+
+**Pasian di Prato**
+**Tel.:** 0432 699104
+
+Il Bar Arizona è un altro esercizio di quartiere presente nel territorio di Pasian di Prato, con servizio di tabacchi abbinato al bar — formula molto comune in Friuli, dove il bar-tabaccheria rappresenta storicamente il presidio sociale del vicinato. L'Arizona è aperto nella fascia mattutina e pomeridiana e serve la classica offerta bar: caffè, cornetti, bibite, aperitivi semplici. Il prefisso 0432 conferma la sua collocazione nell'area udinese, e il numero di telefono fisso è indice di una presenza stabile nel territorio.
+
+---
+
+### Bar della Piscina Swim
+
+**Pasian di Prato (zona Passons)**
+
+Un bar con ampio dehors estivo, collocato nelle vicinanze di un impianto natatorio del territorio. I bar delle piscine sono luoghi sociali particolari nel contesto friulano: frequentati d'estate da famiglie, ragazzi e sportivi, offrono bibite, gelati, cornetti, piadine e qualche aperitivo informale in uno spazio all'aperto. In autunno e inverno l'attività è ridotta, ma nei mesi estivi questo tipo di locale diventa uno dei punti di ritrovo più vivaci del comune, con un'atmosfera leggera e vacanziera a due passi da casa.
+
+---
+
+### Ibar Passons
+
+**Via Pietro Zorutti, 8 – Passons (Pasian di Prato)**
+**Tel.:** 0432 1506616
+
+La frazione di Passons, che si sviluppa nella parte più meridionale del comune lungo la via verso Campoformido, ha nel suo bar di riferimento l'Ibar Passons. Il nome leggermente moderno suggerisce un locale di gestione recente, probabilmente rinnovato negli ultimi anni, che punta su un'offerta più contemporanea rispetto ai classici bar di campagna. Situato in via Pietro Zorutti — un omaggio al celebre poeta in lingua friulana Pietro Zorutti, il cui nome ricorre spesso nella toponomastica regionale — il bar è punto di riferimento per i residenti della frazione. Serve colazione, caffè e piccoli pasti, con un occhio all'aperitivo serale.
+
+---
+
+### Quality Pizza Passons
+
+**Via Dante Alighieri, 69 – Passons (Pasian di Prato)**
+**Tel.:** 0432 541151
+
+Nella frazione Passons, lungo via Dante Alighieri, si trova questo locale che unisce pizzeria e bar in una formula tipica del Friuli periurbano. La colazione è servita al bancone con caffè e cornetti; nel pranzo e nella sera prende il sopravvento la proposta gastronomica della pizza. Come tutti i locali con cucina del territorio, la domenica mattina è un momento di socialità importante, con le famiglie che si fermano per il caffè o il cappuccino dopo la messa o la passeggiata. L'ambiente è quello del ristorantino di paese senza fronzoli, apprezzato per i prezzi contenuti e la familiarità del servizio.
+
+---
+
+### Osteriaccia
+
+**Via Dante Alighieri, 84 – Passons (Pasian di Prato)**
+**Tel.:** 0432 543066
+
+Il nome "Osteriaccia" è quello sfrontato, quasi ironico, che in Friuli spesso si dà a un'osteria di carattere — un posto che non si prende troppo sul serio ma che fa le cose per bene. Collocata in via Dante Alighieri nella frazione Passons, pochi passi dalla Quality Pizza, l'Osteriaccia è un locale vocato alla convivialità friulana: buon vino locale, *frico*, salumi del territorio, e un bancone dove chiacchierare con il gestore. Per la tradizione del *tajut* — il bicchierino di vino bianco — questo tipo di osteria è il luogo elettivo, molto più dei bar alla moderna. Si beve tra amici, si gioca a carte, si commentano le vicende del paese. Un'istituzione del tessuto sociale pasianese.
+
+---
+
+### Al Cercjeben
+
+**Via Udine, 60 – Pasian di Prato**
+**Tel.:** 0432 652527
+
+Il nome *Cercjeben* è in friulano e rimanda a qualcosa come "chi cerca trova il bene" o "cerchi pure bene" — un'espressione ironica e cordiale che caratterizza certi locali della tradizione. Situato lungo via Udine, la strada principale che collega Pasian al capoluogo, l'Al Cercjeben è un ristorante-osteria che serve come punto di sosta per i pasianesi che si muovono verso o da Udine. Oltre alla cucina, il locale offre servizio bar nella fascia mattutina e per l'aperitivo. La posizione strategica sulla direttrice principale lo rende frequentato da una clientela mista: residenti locali, lavoratori di passaggio, famiglie del quartiere.
+
+---
+
+### Rosanna & Maurizio
+
+**Via Udine, 91 – Pasian di Prato**
+**Tel.:** 0432 663245
+
+Un locale a gestione familiare lungo via Udine, il cui nome — come spesso avviene nel Friuli più autentico — porta direttamente i nomi dei gestori, quasi a ribadire che qui il calore umano viene prima di qualsiasi brand. Rosanna e Maurizio offrono cucina casalinga, vino del territorio e un servizio bar che accompagna la clientela dalla colazione al dopo-pranzo. Locali come questo sono il cuore pulsante della socialità periurbana friulana: non hanno stelle né guide, ma hanno fedeli avventori da decenni che considerano il posto come un'estensione della propria cucina.
+
+---
+
+### Gabin Food
+
+**Piazza Matteotti, 26 – Pasian di Prato**
+**Tel.:** 340 9608186
+
+Affacciato sulla piazza principale del comune, Piazza Matteotti, il Gabin Food è uno dei pochi locali con un indirizzo nel cuore civico di Pasian di Prato. La piazza del Matteotti è il punto di riferimento amministrativo del comune — vi si affacciano il municipio e i principali servizi pubblici — e il bar/locale di food che vi è collocato inevitabilmente diventa un luogo di passaggio per chi sbriga pratiche burocratiche, accompagna i figli a scuola o semplicemente attraversa il paese. Un posto pratico e comodo, con un'offerta che copre colazione, pranzo veloce e, nel pomeriggio, qualche aperitivo.
+
+---
+
+### Pinup Ristobar
+
+**Via Colloredo, 90 – Pasian di Prato (zona Colloredo di Prato)**
+**Tel.:** 320 0399569
+
+Nella zona di Colloredo di Prato, frazione del comune che si estende verso ovest, il Pinup Ristobar offre una proposta più moderna rispetto alle osterie tradizionali. Il nome evoca l'estetica retrò degli anni '50 americani, e l'ambiente è probabilmente più curato e giovanile rispetto ai bar di vicinato più anziani. Il prefisso telefonico mobile (320) suggerisce una gestione giovane e dinamica. Oltre al servizio bar — caffetteria la mattina, cocktail e aperitivi la sera — il ristobar propone cucina informale, panini e pasti veloci. Un'alternativa più contemporanea per chi vuole qualcosa di diverso dai locali tradizionali del territorio.
+
+---
+
+### Da Tony
+
+**Pasian di Prato (zona sud, confine con Campoformido)**
+**Tel.:** 345 501 4005
+
+Il Da Tony è un bar con anima sportiva e conviviale: sala biliardo, freccette, pizze e focacce, panini. Un format che in Friuli sopravvive con grande vitalità nei borghi periferici e nelle zone di confine tra comuni, dove i giovani cercano un posto dove stare la sera senza spostarsi in città. Il biliardo e le freccette sono tradizioni socialissime in queste zone, e il bar è aperto nelle ore serali quando gli altri locali chiudono. Un posto informale, rumoroso il giusto, con birre alla spina e gelato, dove l'atmosfera è quella del ritrovo di quartiere più genuino.
+
+---
+
+### Orlanda Coffee & Drinks
+
+**Pasian di Prato (zona ovest)**
+
+Un caffè dalla denominazione moderna — "coffee & drinks" — che si colloca nella parte più periferica del comune verso ovest. Probabilmente un locale aperto di recente, che punta su una proposta caffetteria contemporanea accanto ai classici drink, cercando di intercettare una clientela più giovane e attenta alla qualità dell'espresso. In una zona sempre più residenziale come quella occidentale di Pasian di Prato, locali come questo rispondono alla domanda di chi vuole un posto piacevole dove fare colazione o lavorare al laptop bevendo un buon caffè, senza doversi spostare fino ad Udine.
+
+---
+
+### Da Desi
+
+**Pasian di Prato (zona ovest)**
+
+Vicino a Orlanda Coffee & Drinks, il Da Desi è un bar di quartiere gestito probabilmente da lungo tempo dalla stessa famiglia, come suggerisce il nome familiare. I bar che portano un soprannome o un nome di persona hanno in Friuli una lunga tradizione: sono spesso i sopravvissuti dei vecchi esercizi di campagna, che si sono adattati alla crescita urbanistica del comune mantenendo però il loro carattere intimo e diretto. Il Da Desi serve la colazione mattutina, il caffè pomeridiano e qualche aperitivo serale per i residenti della zona.
+
+---
+
+### Bar Da Stefy
+
+**Pasian di Prato (zona sud)**
+
+Un altro bar-tabaccheria nella parte meridionale del comune, il Da Stefy offre il servizio tradizionale del bar-tabacchi friulano: sigarette, biglietti della lotteria, caffè, brioche, giornali. Questi locali sono rimasti un presidio sociale nelle periferie anche nell'era digitale — sono i primi ad aprire la mattina e gli ultimi a chiudere nel tardo pomeriggio, e rappresentano spesso l'unico punto di aggregazione del vicinato in zone dove non esistono piazze o altri spazi pubblici. Il prefisso telefonico mobile della gestione suggerisce una presenza moderna.
+
+---
+
+### Bar Casa di Cura
+
+**Pasian di Prato (zona est, confine con Udine)**
+
+Gestito dalla cooperativa CAMST — una delle principali realtà italiane nella ristorazione collettiva e ospedaliera — il bar della Casa di Cura serve principalmente il personale sanitario e i visitatori della struttura medica collocata nella zona orientale del comune, al confine con Udine. Questo tipo di bar, sebbene non sia un locale destinato al turismo, è parte integrante del tessuto quotidiano di Pasian: medici, infermieri, amministrativi e pazienti si fermano per un caffè, una brioche o un pranzo veloce. L'ambiente è funzionale e accogliente, con orari pensati per le esigenze di una struttura sanitaria.
+
+---
+
+### Caffè Carraro – Sede Regionale
+
+**Via Cristoforo Colombo, 210/3 – Pasian di Prato**
+**Tel.:** 0432 418917
+
+Un dettaglio di rilievo per gli appassionati di caffè: nel territorio di Pasian di Prato, lungo via Cristoforo Colombo, si trova la sede regionale di **Caffè Carraro**, la celebre torrefazione veneta fondata a Padova nel 1927 e oggi uno dei marchi del caffè più conosciuti d'Italia. Non si tratta di un bar aperto al pubblico, ma di un ufficio commerciale e distributivo che coordina la fornitura di miscele Carraro a bar e ristoranti di tutto il Friuli Venezia Giulia. La presenza di questa struttura testimonia l'importanza logistica del territorio pasianense, collocato lungo le principali vie di comunicazione verso il capoluogo. Vale la pena sapere che molti dei bar del comune — e di quelli circostanti — utilizzano miscele Carraro per i loro espresso, un marchio sinonimo di caffè italiano di qualità consolidata.
+
+---
+
+### Da Armen – Ristorante Armeno
+
+**Via Campoformido, 64 – Pasian di Prato**
+**Tel.:** 347 133 2711
+**Facebook:** facebook.com/daarmen
+
+Un caso curioso e interessante nella scena gastronomica di Pasian: il Da Armen è un piccolo ristorante di cucina armena, con proposte di kebab, spiedini, gyros e piadina. Sebbene non sia un bar nel senso stretto del termine, rappresenta un punto di sosta e socialità per il quartiere, aperto nelle ore serali e frequentato da una clientela variegata — dai giovani che cercano qualcosa di diverso alle famiglie che vogliono una cena etnica a prezzi contenuti. La sua presenza riflette il cambiamento demografico e culturale che ha interessato Pasian di Prato negli ultimi vent'anni, con nuove comunità che hanno arricchito l'offerta gastronomica del comune.
+
+---
+
+## Note sul territorio e la cultura del bar a Pasian di Prato
+
+Pasian di Prato non è un comune con una scena caffetteria o bar particolarmente sviluppata in senso turistico o culturale — come ci si aspetterebbe da Udine, Gorizia o Trieste. È invece un comune residenziale dove i bar svolgono una funzione essenzialmente sociale e quotidiana: colazione per chi va al lavoro, pausa caffè per chi lavora in zona, ritrovo serale per chi preferisce non spostarsi in città.
+
+La cultura del **tajut** — il bicchierino di vino bianco servito nelle osterie friulane — è viva anche qui, soprattutto nelle osterie più tradizionali come l'Osteriaccia e l'Al Cercjeben, che mantengono quella dimensione conviviale tipica della Bassa Friulana. Lo **spritz**, sia nella variante con Aperol che con Select o Campari, è l'aperitivo per eccellenza nel tardo pomeriggio, servito in tutti i bar del comune.
+
+La **colazione friulana** seguita a Pasian è quella semplice della pianura: espresso o cappuccino con cornetto (spesso nella variante integrale o al cioccolato), talvolta una fetta di torta casalinga nelle osterie più tradizionali. Non ci sono pasticcerie artigianali di rilievo nel comune — per dolci di qualità superiore o gelaterie artigianali i pasianesi tendono a spostarsi verso Udine o i comuni limitrofi come Martignacco (dove si trova la celebre pasticceria gelateria Gustà nel centro commerciale Città Fiera) o Tavagnacco.
+
+---
+
+## Fonti
+
+- Pagine Bianche / Pagine Gialle (tuttocitta.it, paginebianche.it) – elenchi attività commerciali, Pasian di Prato UD
+- OpenStreetMap – dati geografici e amenities, rilevamento maggio 2025-2026 (coordinate 46.03–46.07 N, 13.17–13.23 E)
+- Wikipedia (it) – *Pasian di Prato*, consultato maggio 2026
+- Wikipedia (en) – *Pasian di Prato*, consultato maggio 2026
+- Comune di Pasian di Prato – sito ufficiale (www.comune.pasiandiprato.ud.it)
+- Yelp.it – ricerca bar e locali, area Pasian di Prato/Udine, maggio 2026
+
+---
+
+## Pasiano di Pordenone
+
+Pasiano di Pordenone (_Pasiàn_ in veneto) è un comune di circa 7.900 abitanti nella provincia di Pordenone, situato nella pianura friulana a pochi chilometri a est del capoluogo. Il territorio, di antiche radici agricole, fa parte dal dopoguerra del cosiddetto "triangolo del mobile", un distretto produttivo che ha trasformato profondamente l'economia locale senza tuttavia intaccare il carattere essenzialmente rurale del paesaggio. Le frazioni del comune — Cecchini, Rivarotta, Sant'Andrea, Visinale, Azzanello, Pozzo e Belvedere — sono nuclei abitati sparsi tra campi, filari di gelsi e ville venete tutelate dall'Istituto Regionale per le Ville Venete.
+
+Come in molti comuni della Pedemontana pordenonese, la vita quotidiana ruota attorno al bar di paese: luogo di colazione mattutina, di pausa lavorativa, di cicchetto serale. La tradizione dello spritz con Select o Aperol, del tramezzino tagliato a metà sul banco, del caffè corretto con grappa locale — tutte usanze radicate nella cultura del Friuli occidentale — si ritrovano anche qui, nei piccoli bar di frazione che servono operai delle fabbriche di mobili, agricoltori, pensionati e famiglie del posto. Non esistono caffè storici blasonati né pasticcerie di fama regionale: Pasiano è un comune autentico, dove il bar è soprattutto un presidio sociale prima ancora che una destinazione gastronomica.
+
+---
+
+### Caffè Carioca
+
+**Indirizzo:** Via Coletti, 13 – Pasiano di Pordenone (capoluogo)
+**Telefono:** 0434 422088
+
+Il Caffè Carioca è il punto di riferimento del centro abitato di Pasiano di Pordenone. Situato in piena zona residenziale, è il classico bar di paese che apre al mattino presto per servire la colazione agli operai, agli artigiani e ai residenti del capoluogo prima di recarsi al lavoro. L'atmosfera è quella tipica dei bar friulani della pianura: banco in formica, macchina del caffè sempre calda, brioches scaldate e un piccolo angolo con qualche tavolino. Non aspettatevi elaborazioni contemporanee: il punto di forza è la semplicità e la familiarità. Il caffè viene servito come vuole la tradizione pordenonese — denso, corto, a temperatura perfetta — e l'aperitivo del tardo pomeriggio è l'occasione per lo spritz con i vicini. La titolare Paola Piccolo gestisce il locale con continuità e cura, garantendo quel senso di accoglienza spontanea che caratterizza i migliori bar di paese.
+
+---
+
+### Hostaria Frasca
+
+**Indirizzo:** Via Roma, Borgo dei Grilli – Pasiano di Pordenone (capoluogo)
+
+La Hostaria Frasca è uno di quei locali che in Friuli si chiamano tradizionalmente "frasca" o "osteria": un posto dove si beve vino del territorio, si chiacchiera con i paesani e si mangia qualcosa di semplice. Il nome stesso richiama l'antica tradizione friulana delle frasche, le fraschette aperte stagionalmente per smaltire le scorte di vino dell'annata — segnalate dall'omonimo ramo di vegetazione appeso sull'uscio. Situata nel Borgo dei Grilli, una piccola borgata a ridosso del centro di Pasiano, la Hostaria Frasca conserva un'atmosfera da osteria d'altri tempi, con pochi tavoli e un bancone dove si servono vini locali, bianchetti e cicchetti. È il posto ideale per un aperitivo informale o una sosta nel pomeriggio.
+
+---
+
+### Bar Centrale
+
+**Indirizzo:** Via Giuseppe Garibaldi – Cecchini di Pasiano
+
+Cecchini di Pasiano è la frazione più popolosa e vivace del comune, posta a nord del capoluogo lungo la strada verso Pordenone. Il Bar Centrale è il cuore della vita sociale di questa borgata: un locale di dimensioni contenute ma con una presenza costante di clienti durante tutta la giornata. Come suggerisce il nome, occupa una posizione centrale nella piccola piazza-slargo che costituisce il nucleo di Cecchini. Al mattino si fa colazione con caffè e cornetto; il mezzogiorno è animato dai lavoratori locali che si fermano per un panino o un piatto del giorno; il pomeriggio e la sera il bar diventa ritrovo per l'aperitivo e una birra in compagnia. Il locale dispone di qualche tavolino all'esterno nella stagione calda. È il bar più frequentato del comune dopo il Caffè Carioca.
+
+---
+
+### Beerbante
+
+**Indirizzo:** Via Codopè – Cecchini di Pasiano
+
+Il nome è tutto un programma: "Beerbante" è un gioco di parole che fonde "beer" (birra) con il termine dialettale "birbante" (furfante, briccone), evocando un'atmosfera giocosa e informale. È il locale più caratteristico di Pasiano di Pordenone dal punto di vista dell'offerta: si tratta di un bar con una selezione di birre che va oltre le solite lager industriali, con una proposta di birre artigianali e specialità che rende questo piccolo punto d'incontro di Cecchini diverso dagli altri bar della zona. L'atmosfera è quella di un pub di paese rivisitato in chiave moderna, frequentato in particolare dai più giovani della frazione e dai lavoratori delle vicine zone industriali. Si trova lungo Via Codopè, nella parte settentrionale di Cecchini, non lontano dal confine con il comune di Pordenone.
+
+---
+
+### Bar Orange
+
+**Indirizzo:** Via Centro di Rivarotta, 27 – Rivarotta di Pasiano
+
+Rivarotta è una delle frazioni più lontane dal capoluogo, adagiata a ovest del territorio comunale verso il confine con la regione Veneto. La sua storia è legata a una villa che custodisce le memorie di un antico monastero camaldolese del Duecento: Villa Chiozza-Luppis-Ricci Luppis. In questo contesto di campagna silenziosa e di architettura rurale, il Bar Orange rappresenta il presidio di socialità del villaggio. Si trova in posizione centrale rispetto all'abitato, al civico 27 di Via Centro di Rivarotta. È un bar di paese a tutti gli effetti: colazione, caffè, piccoli spuntini, e soprattutto un luogo dove ci si ferma dopo il lavoro per scambiare quattro chiacchiere. Il nome "Orange" — probabilmente un richiamo al classico aperitivo con Aperol — suggerisce che l'aperitivo serale sia una delle attività principali del locale.
+
+---
+
+### Osteria alla Fornace
+
+**Indirizzo:** Via Cornizzai – Rivarotta di Pasiano
+
+A poca distanza dal Bar Orange, lungo Via Cornizzai, si trova l'Osteria alla Fornace: un locale che porta nel nome il ricordo delle antiche fornaci da mattoni che un tempo caratterizzavano l'economia rurale della pianura friulana. L'osteria è un posto di tipo tradizionale, dove la distinzione tra bar, osteria e punto di ristoro è sottile come si addice a certi locali della campagna friulana. Ci si viene per un bicchiere di vino locale — Friulano, Refosco, o la mescita del giorno — accompagnato da qualche salume o formaggio, oppure per un pasto semplice. L'atmosfera è genuina e familiare, lontana dalle pretese gastronomiche, fedele invece a quella cultura della convivialità rurale che in Friuli sopravvive con tenacia. Il locale è frequentato principalmente dai residenti di Rivarotta e dai lavoratori della zona.
+
+---
+
+### Arcobaleno Bar
+
+**Indirizzo:** Via Capitello – Belvedere/Pozzo di Pasiano
+
+Pozzo è una piccola località del comune con la borgata di Belvedere, situata nella zona centrale del territorio di Pasiano. L'Arcobaleno Bar si trova lungo Via Capitello, nel borgo di Belvedere, e serve questa parte del comune con l'essenziale: caffè, bibite, qualche panino, e la classica sosta per l'aperitivo. Come suggerisce il nome "Arcobaleno", l'atmosfera del locale vuole essere accogliente e colorata. Si tratta di uno di quei piccoli bar di quartiere — in realtà di frazione — che in molti comuni della pianura friulana svolgono una funzione sociale preziosa, offrendo un punto di aggregazione a una comunità altrimenti costretta a spostarsi verso i centri maggiori per qualsiasi servizio.
+
+---
+
+### Bar-Ristorante-Pizzeria Al Fogolar – Jemax
+
+**Indirizzo:** Via Pedrina, 1 – Sant'Andrea di Pasiano
+**Telefono:** +39 0434 604087
+
+Sant'Andrea è una frazione di Pasiano collocata nella parte orientale del comune, verso il confine con Pravisdomini. Il nome "Fogolar" è uno dei più radicati nella cultura friulana: il focolare domestico era il centro della casa contadina, simbolo di calore, convivialità e famiglia. Il locale Jemax, che porta il soprannome "Al Fogolar", è un esercizio misto che unisce bar, ristorante e pizzeria — una formula diffusissima nella provincia di Pordenone, dove i locali multifunzione coprono le diverse esigenze di una clientela rurale e operaia. Al banco si serve il caffè mattutino e l'aperitivo serale; al ristorante si propone una cucina semplice con pizze, piatti della tradizione e grigliate. Per molti residenti di Sant'Andrea è il punto di riferimento quotidiano.
+
+---
+
+### Bar-Trattoria da Carmelo
+
+**Indirizzo:** Via Sant'Urbano, 6 – Villotta di Visinale (Pasiano di Pordenone)
+**Telefono:** 0434 620259
+**Orari:** pranzo e cena dal lunedì al sabato (chiuso martedì sera e mercoledì); aperto la domenica a pranzo
+
+La Trattoria da Carmelo è probabilmente il locale più conosciuto al di fuori del comune, citata dalla Guida Slow Food 2013 e dotata di una reputazione consolidata nella provincia di Pordenone. Si trova nella borgata di Villotta di Visinale, nella parte settentrionale del territorio comunale, in mezzo alla campagna. Gabriele, che gestisce il locale di famiglia, propone una cucina genuina e radicata nel territorio: materie prime scelte tra i piccoli produttori della zona, pasta fatta in casa (tagliatelle, gnocchi, lasagne), e piatti della tradizione friulana e veneta come il "Gallo in Tecia" — il piatto forte della casa, un gallo cotto lentamente in casseruola secondo la ricetta di una volta — il baccalà mantecato, la lepre in salmì. La cantina offre una selezione di vini friulani e nazionali. L'ambiente è curato ma familiare, con una grande sala con caminetto e un pergolato esterno per la bella stagione. Pur essendo principalmente una trattoria, il locale mantiene le caratteristiche del bar-trattoria di campagna: ci si può fermare anche solo per un caffè o un bicchiere di vino nella bella tradizione friulana. Pubblicato sulla Guida Slow Food, è una tappa da non perdere per chi vuole assaporare la cucina autentica della campagna pordenonese.
+
+---
+
+### Panetteria Pasticceria Berti
+
+**Indirizzo:** Via Roma, 101 – Pasiano di Pordenone
+**Telefono:** 0434 013019 / 0434 316959
+
+Tra i pochi esercizi dedicati alla pasticceria e alla panificazione che si trovano nel comune di Pasiano di Pordenone, la Panetteria Pasticceria Berti è l'indirizzo di riferimento per chi cerca pane artigianale e dolci da colazione. Situata lungo Via Roma, l'arteria principale del capoluogo, la bottega produce giornalmente pane di diverse tipologie e una selezione di prodotti di pasticceria: brioches, croissant, biscotteria, e specialità per le festività. Non è un luogo dove sedersi a fare colazione in senso stretto — è una panetteria-pasticceria da asporto — ma rappresenta l'unica realtà di pasticceria artigianale radicata nel comune. Molti residenti di Pasiano di Pordenone vengono qui al mattino presto per acquistare il pane fresco e qualche dolce prima di iniziare la giornata, completando poi la colazione al Caffè Carioca o a casa propria.
+
+---
+
+### Pasticceria Artigianale (locale non censito con insegna pubblica)
+
+**Telefono:** 0434 932637 / 389 5375146
+
+Nei registri delle attività commerciali di Pasiano di Pordenone compare anche un'attività artigianale di pasticceria che si descrive come specializzata in torte personalizzate, piccola pasticceria, monoporzioni, biscotteria, nonché nella vendita di vini e nella preparazione di aperitivi. Il numero di telefono e WhatsApp suggerisce un'attività di tipo laboratoriale, probabilmente con vendita su ordinazione piuttosto che con uno spaccio fisso al pubblico. Questo tipo di pasticceria "a domicilio" o "su prenotazione" è diffuso nei piccoli comuni del Friuli dove la domanda non giustifica un punto vendita fisso, ma dove l'artigianato dolciario di qualità trova ugualmente spazio attraverso ordini per compleanni, matrimoni e ricorrenze.
+
+---
+
+### Note sul territorio: aperitivo e colazione nella cultura di Pasiano
+
+Pasiano di Pordenone riflette fedelmente il modello dei piccoli comuni della pianura pordenonese: un tessuto sociale fatto di operai, artigiani e famiglie che trovano nei bar di frazione i propri punti di aggregazione quotidiana. Non c'è una "piazza del caffè" nel senso più urbano del termine — il capoluogo è un paese senza una piazza monumentale — ma il bar è comunque il centro invisibile della vita sociale.
+
+La colazione è quella friulana: caffè espresso o caffè macchiato, eventualmente corretto con un goccio di grappa (il "caffè coretto" è una tradizione radicatissima nel Friuli occidentale), brioches o cornetto. L'aperitivo serale è quello del Nordest: spritz con Aperol o Select, accompagnato da qualche stuzzichino. Nei bar di campagna come quelli di Rivarotta o Cecchini, il cicchetto serale è ancora un rito: un bicchiere di vino bianco o di Prosecco al banco, in piedi, prima di tornare a casa.
+
+La vocazione del territorio è agricola e industriale allo stesso tempo: il "triangolo del mobile" — di cui Pasiano di Pordenone fa parte insieme a Prata di Pordenone e Brugnera — ha portato ricchezza ma ha lasciato immutata la struttura rurale del paese. I bar restano luoghi di incontro tra mondi diversi: gli operai delle fabbriche di mobili, gli artigiani locali, i contadini che ancora coltivano la pianura. È in questo incrocio di tradizioni che si capisce meglio il significato del bar in un comune come Pasiano.
+
+---
+
+## Fonti
+
+- OpenStreetMap Contributors: dati sulle attività di Pasiano di Pordenone, maggio 2026 — [openstreetmap.org](https://www.openstreetmap.org)
+- Pagine Gialle: schede delle attività commerciali di Pasiano di Pordenone — [paginegialle.it](https://www.paginegialle.it)
+- Wikipedia Italia: voce "Pasiano di Pordenone" — [it.wikipedia.org/wiki/Pasiano_di_Pordenone](https://it.wikipedia.org/wiki/Pasiano_di_Pordenone)
+- Trattoria da Carmelo – Guida Slow Food 2013, scheda Pagine Gialle — [paginegialle.it/trattoriadacarmelo-pn](https://www.paginegialle.it/trattoriadacarmelo-pn)
+- Nominatim / OpenStreetMap geocoding per la localizzazione delle attività, maggio 2026
+
+---
+
+## Paularo
+
+Paularo — in friulano *Paulâr* — è un comune montano della Carnia orientale, in provincia di Udine, con poco più di 2.200 abitanti distribuiti tra il capoluogo e una serie di frazioni che popolano la Valle d'Incarojo, detta anche Val Chiarsò. Il comune si estende a 648 metri sul livello del mare, circondato dalle cime delle Alpi Carniche — il Monte Zermula a nord, il Monte Sernio a sud, la Creta Grauzaria a sud-est — e la sua posizione di confine con l'Austria, raggiungibile attraverso il Passo del Cason di Lanza, ha da sempre influenzato la cultura locale, i ritmi di vita e persino le abitudini conviviali dei paularini.
+
+La vita sociale del comune ruota attorno a un nucleo di esercizi pubblici concentrati principalmente nel capoluogo e nelle frazioni di Villamezzo, Villafuori e Casaso. Come in tutti i piccoli comuni della montagna carnica, i bar di Paularo svolgono una funzione aggregativa che va ben oltre la semplice somministrazione di bevande: sono punti di incontro quotidiani, spesso abbinati a edicole, tabaccherie o servizi di pagamento, e restano i principali luoghi di socialità in un territorio dove la dispersione degli insediamenti rende preziosa ogni occasione di comunità.
+
+La tradizione della colazione a Paularo è quella carnica e alpina per eccellenza: un caffè espresso o un macchiato al banco, accompagnato da un cornetto o da qualche dolcetto semplice, consumato in piedi in pochi minuti prima di andare al lavoro, di partire per una passeggiata in quota o di prendere la strada verso Arta Terme e Tolmezzo. La vicinanza con l'area austriaca porta qualche eco di tradizioni mitteleuropee — il tè pomeridiano, il *Kaffee mit Schlagobers* di ispirazione viennese — ma è il caffè all'italiana a farla da padrone. L'aperitivo del tardo pomeriggio è occasione di sosta e chiacchiera: uno spritz con Aperol o Campari, un bicchiere di Friulano o di Refosco, qualche oliva o stuzzichino, in un'atmosfera che nei mesi estivi si sposta volentieri sui dehors all'aperto, con la vista sulle cime carniche.
+
+Non esistono, a Paularo, pasticcerie artigianali autonome né gelaterie: per un'esperienza di pasticceria strutturata o per un gelato artigianale è necessario scendere verso Tolmezzo, il capoluogo della Carnia, distante circa sedici chilometri. Eppure, proprio per questo, i bar paularini conservano un'autenticità e un calore che i grandi centri faticano a offrire.
+
+---
+
+### Caffè Divino
+
+**Indirizzo:** Piazza Bernardino Nascimbeni, 1 — 33027 Paularo (UD)
+
+Il Caffè Divino occupa una posizione di assoluto rilievo nel tessuto sociale di Paularo: si trova direttamente su Piazza Bernardino Nascimbeni, la piazza principale del capoluogo, quello spazio attorno a cui si organizza la vita del paese e dove i paularini si ritrovano nelle occasioni importanti — la festa del patrono il 15 giugno, i mercatini, le serate d'estate. Un bar in piazza, in un comune di montagna, non è semplicemente un esercizio commerciale: è il termometro della comunità, il luogo dove si incontrano il pastore che scende dall'alpeggio, il turista che ha completato la camminata verso la Creta Grauzaria e il pensionato che sfoglia il giornale del mattino.
+
+La mattina il Caffè Divino è il primo punto di sosta per chi inizia la giornata in paese: il caffè espresso è quello denso e caldo della tradizione carnica, servito al banco con la velocità e la familiarità dei locali di paese. L'atmosfera è raccolta e intima, tipicamente alpina, con l'occhio che dal bancone può spaziare sulla piazza. Nel tardo pomeriggio il locale si anima per l'aperitivo: lo spritz è la scelta più popolare, ma non mancano i vini locali e le semplici bibite che nelle sere d'estate si sorseggiamo ai tavolini all'aperto, con il fresco che scende dalle cime. Il nome — Divino — evoca un'aspirazione di piacere e di qualità che, in questo contesto montano, si declina nella semplicità autentica della vita carnica.
+
+---
+
+### Bar alle Alpi
+
+**Indirizzo:** Via Guglielmo Marconi — 33027 Paularo, frazione Villamezzo (UD)
+
+Il Bar alle Alpi è situato lungo Via Guglielmo Marconi, l'arteria principale che attraversa la frazione di Villamezzo — in friulano *Vile di Mieç*, letteralmente "paese di mezzo" — una delle frazioni più popolate del comune di Paularo. Il nome evoca immediatamente il paesaggio circostante: le Alpi Carniche che chiudono la valle d'Incarojo con le loro cime imponenti, dal Zermula al Sernio, sono lo sfondo costante della vita in questo comune. Un bar che porta nel nome le montagne, in Carnia, è qualcosa di più di una scelta commerciale: è un dichiarazione di appartenenza al territorio.
+
+Come molti bar di paese nella montagna friulana, il Bar alle Alpi è un punto di riferimento per la comunità locale di Villamezzo e per i residenti delle frazioni vicine. La mattina registra il consueto via vai della colazione — caffè, cappuccino, cornetto — mentre nel pomeriggio diventa luogo di ritrovo per una pausa dal lavoro o per l'aperitivo del tardo pomeriggio. In estate, con l'arrivo dei turisti che scelgono la Val Chiarsò per le escursioni estive o per le vacanze in montagna lontano dalla calura della pianura, il locale accoglie anche i visitatori di passaggio, desiderosi di un caffè o di qualcosa di fresco prima di rimettersi in cammino.
+
+La posizione lungo Via Guglielmo Marconi, strada di collegamento tra le varie frazioni della Valle d'Incarojo, rende il Bar alle Alpi facilmente raggiungibile sia dai residenti che dai turisti che si muovono in automobile o in bicicletta lungo la vallata.
+
+---
+
+### Bar Italia
+
+**Indirizzo:** Piazza Julia — 33027 Paularo, frazione Villafuori (UD)
+
+Il Bar Italia di Piazza Julia si trova nella frazione di Villafuori — in friulano *Vile di Fûr*, "paese di fuori" — nella parte meridionale del comprensorio di Paularo. La Piazza Julia è uno spazio carico di storia e di simbolismo locale: è proprio qui che si trovano gli ippocastani secolari, eredi di una più vasta piantagione che avrebbe dato il nome stesso al paese — *Paularo* deriverebbe, secondo una delle etimologie più accreditate, da *poulars*, cioè "luogo degli ippocastani". Bere un caffè su questa piazza, all'ombra di quegli alberi storici, significa immergersi in qualcosa di più antico della semplice pausa quotidiana.
+
+Il Bar Italia svolge la funzione tipica dei bar di piccola frazione montana: è il luogo dove ci si ritrova al mattino, dove si commentano le notizie locali, dove si organizzano le uscite in montagna o si pianificano le gite verso i passi alpini che da Paularo conducono in Austria. Il nome — Bar Italia — appartiene a quella tradizione di bar di paese che rivendicano l'italianità con orgoglio semplice, senza fronzoli, con l'espresso al banco e la gentilezza di chi conosce ogni cliente per nome.
+
+In estate, la piazza su cui si affaccia il locale diventa uno dei pochi spazi di vita all'aperto del capoluogo; in inverno, con la neve che imbianca le cime e scende nelle frazioni più alte, il bar è rifugio caldo per chi torna dalle piste o dai sentieri innevati.
+
+---
+
+### Il Barone Rosso
+
+**Indirizzo:** Paularo (UD) — zona centro
+
+Il Barone Rosso è uno dei bar del nucleo centrale di Paularo, non lontano da Piazza Bernardino Nascimbeni. Il nome — evocativo, con quella sfumatura di avventura e di stile che richiama figure leggendarie o personaggi di fantasia — contrasta piacevolmente con l'ambiente raccolto e domestico della montagna carnica, e forse è proprio questo contrasto a rendere il locale simpatico e riconoscibile tra i paularini.
+
+Come tutti i bar del centro del paese, il Barone Rosso assolve il ruolo di punto d'incontro quotidiano per la comunità locale. La colazione mattutina, l'aperitivo serale, qualche partita a carte nel pomeriggio: sono i riti invariabili di un bar di paese, quelli che scandiscono il tempo in una comunità montana lontana dai ritmi frenetici della città. Per chi arriva a Paularo in cerca di autenticità — e chi sceglie la Val Chiarsò lo fa spesso proprio per questo — il Barone Rosso offre uno spaccato genuino della vita quotidiana carnica.
+
+---
+
+### New Look
+
+**Indirizzo:** Via Guglielmo Marconi, 34 — 33027 Paularo (UD)
+
+Lungo Via Guglielmo Marconi, a poca distanza dal Bar alle Alpi, si trova il New Look: un altro esercizio pubblico che serve la comunità di Villamezzo e del capoluogo. Il nome — anglofono, moderno — rispecchia una tendenza diffusa nei bar di paese degli anni Ottanta e Novanta, quando molti locali italiani si rinnovarono nell'estetica abbracciando nomi che suonassero contemporanei e diversi dalla tradizione. Oggi quei nomi, rimasti invariati, hanno acquisito una patina retrò che li rende quasi nostalgici.
+
+Il New Look è un bar da frequentatori abituali: ci si va la mattina per il caffè di routine, nel pomeriggio per uno spuntino o un aperitivo, la sera per due chiacchiere tra amici. In un comune come Paularo, dove il numero degli esercizi pubblici è limitato e ciascuno ha la propria clientela fidelizzata, il New Look si è ritagliato il suo spazio nella vita del paese. Via Guglielmo Marconi è la principale dorsale viaria della zona centrale del comune, e il bar risente positivamente del passaggio quotidiano di residenti e visitatori.
+
+---
+
+### Bar Pizzeria Al Fogolar
+
+**Indirizzo:** Via Roma — 33027 Paularo, frazione Casaso (UD)  
+**Telefono:** 0433 70022
+
+Il Bar Pizzeria Al Fogolar si trova lungo Via Roma, nella frazione di Casaso — in friulano *Cjasâs* — una delle localit della Valle d'Incarojo che compongono il comune di Paularo. Il nome *Fogolar* è uno dei più potenti simboli della cultura carnica e friulana: indica il focolare domestico, il fuoco al centro della casa attorno al quale si riunisce la famiglia, si cucina, si racconta la storia. Adottarlo come insegna di un locale pubblico è un gesto che dice molto sull'identità del posto: un bar-trattoria-pizzeria che vuole essere quel fuoco aggregante per la comunità locale.
+
+Il Fogolar unisce la funzione del bar — con la colazione mattutina e l'aperitivo serale — a quella della pizzeria, offrendo anche pasti completi. È il tipo di locale multifunzionale che nei piccoli comuni di montagna è spesso l'unico punto di ristorazione, e che per questo assume un'importanza sociale amplificata: è il posto dove si va per il compleanno, per la cena in compagnia, per la pizza del venerdì sera. L'atmosfera è informale e familiare, coerente con il nome: si entra come in una casa, ci si siede, si ordina senza cerimonie, si viene serviti con la naturalezza delle osterie di un tempo.
+
+La posizione nella frazione di Casaso, leggermente decentrata rispetto al nucleo principale del comune, fa del Fogolar un riferimento soprattutto per i residenti di quella parte della vallata, oltre che per i turisti che soggiornano nella zona durante le stagioni di punta — l'estate escursionistica e l'inverno sciistico.
+
+---
+
+### Country Pub Alexandra
+
+**Indirizzo:** Via Guglielmo Marconi — 33027 Paularo, zona Villamezzo (UD)
+
+Il Country Pub Alexandra è l'eccezione nel panorama degli esercizi pubblici di Paularo: non un bar tradizionale da colazione mattutina, ma un pub che guarda al modello anglosassone e propone un'atmosfera più serale e informale, pensata per chi vuole trascorrere la serata in compagnia davanti a una birra o a un cocktail. La collocazione lungo Via Guglielmo Marconi, nella zona di Villamezzo, lo inserisce nel tessuto abitativo del comune senza isolarlo.
+
+Il nome *Country*, abbinato al richiamo britannico del *Pub*, disegna l'identità di un locale che vuole strizzare l'occhio a un immaginario rurale e rilassato, adatto all'atmosfera di una valle alpina dove la vita si svolge lontano dalla frenesia urbana. L'Alexandra — verosimilmente il nome della fondatrice o di una persona cara alla famiglia gestrice — aggiunge un tocco personale che radica il locale nella sua storia familiare.
+
+In estate, quando la Val Chiarsò registra un discreto afflusso turistico, il Country Pub Alexandra può animarsi di serate con musica o di aperitivi allungati che scivolano nella cena. In inverno, quando la notte scende presto sulle cime e il termometro si abbassa, diventa rifugio caldo per chi vuole prolungare la serata dopo cena, magari con una birra artigianale o un digestivo locale.
+
+---
+
+### In dal "Palač"
+
+**Indirizzo:** Paularo (UD) — zona centro
+
+*In dal "Palač"* è tecnicamente un ristorante di cucina regionale, ma nella realtà dei piccoli comuni della Carnia la distinzione tra ristorante, osteria e bar sfuma spesso fino a diventare irrilevante: molti locali di questo tipo servono anche come punto di aperitivo e di socialità, e il confine tra il bicchiere di vino prima di cena e il pranzo completo è spesso una questione di ora più che di categoria.
+
+Il nome — *In dal Palač*, che in friulano significa "nel palazzo" o "nella casa grande" — evoca uno spazio storico, forse un edificio di pregio nel centro del paese, ed è un richiamo alla memoria collettiva della comunità paularins. La cucina è quella della tradizione carnica: *cjarsons* (i ravioli ripieni di erbe, patate e spezie tipici della Carnia, conditi con burro fuso, ricotta affumicata e cannella), *frico* croccante con la polenta, minestre di fagioli e orzo, carni d'alpeggio. La lista dei vini privilegia le etichette del Friuli orientale e della Carnia stessa.
+
+Per chi visita Paularo e vuole conoscere la gastronomia locale, *In dal Palač* rappresenta un'esperienza autentica: la cucina carnica non ha la notorietà mediatica delle gastronomie più celebrate d'Italia, ma chi la scopre rimane spesso colpito dalla sua complessità e dalla sua radice profondamente alpina.
+
+---
+
+## Nota sul tessuto degli esercizi pubblici a Paularo
+
+Paularo è un comune montano di circa 2.200 abitanti distribuiti su un vasto territorio di 84 km² nella Valle d'Incarojo. Il numero di bar e locali pubblici riflette fedelmente questa realtà: non ci sono pasticcerie artigianali autonome, gelaterie, torrefazioni specialty o caffè letterari. La cultura del dolce e del gelato artigianale è appannaggio dei centri maggiori della Carnia — in primo luogo Tolmezzo, capoluogo della Carnia a circa sedici chilometri, dove si trovano diverse gelaterie e pasticcerie strutturate.
+
+Chi visita Paularo e le sue frazioni — nel comune si distinguono le località di Villamezzo, Villafuori, Rio, Casaso, Misincinis, Dierico, Salino con le sue borgate (Lambrugno, Tavella, Castoia), Trelli e Chiaulis — trova nella rete dei bar locali un'offerta semplice ma autentica, che si esprime al meglio nel caffè al banco, nell'aperitivo serale e nella pizzeria di paese. È un modello di bar carnico radicato nella tradizione alpina: essenziale, familiare, prezioso proprio perché non tenta di imitare nessun altro. Per chi è in cerca di esperienze più elaborate, Arta Terme (a pochi chilometri verso la Val But) e soprattutto Tolmezzo offrono un'ampia scelta di pasticcerie, gelaterie e locali più strutturati.
+
+L'attrattiva principale del territorio paularin rimane la natura e il paesaggio della Val Chiarsò: le escursioni verso la Creta Grauzaria, il Monte Zermula, il Passo del Cason di Lanza; le piste da sci invernali nelle vicinanze; le acque fresche del torrente Chiarsò; i borghi storici e la memoria di Jacopo Linussio, il grande imprenditore tessile nato a Paularo nel Settecento che trasformò l'economia della Carnia. I bar del paese offrono il supporto essenziale per chi si trova in loco: una sosta, un caffè, un bicchiere di vino, un momento di calore umano nella dimensione autentica e irripetibile della montagna friulana.
+
+---
+
+## Fonti
+
+- OpenStreetMap — dati amenity comune di Paularo (UD): https://www.openstreetmap.org
+- Nominatim / OpenStreetMap — ricerca bar Paularo UD: https://nominatim.openstreetmap.org/search?q=bar+paularo+UD
+- Overpass API — query amenities nel bounding box di Paularo (46.51–46.55°N, 13.09–13.15°E): https://overpass-api.de
+- Wikipedia — Paularo: https://it.wikipedia.org/wiki/Paularo
+- Pagine Gialle — ricerca bar Paularo UD: https://www.paginegialle.it/ricerca/bar/paularo-ud
+- Pagine Gialle — ricerca gelaterie Paularo UD: https://www.paginegialle.it/ricerca/gelaterie/paularo-ud
+- Comune di Paularo — sito istituzionale: http://www.comune.paularo.ud.it
 
 ---
 
@@ -10008,6 +12191,304 @@ Lo **spritz** rimane il re dell'aperitivo, servito con Aperol o Select secondo i
 - Scheda Panificio I Sapori del Grano su Pagine Gialle
 - Sito ufficiale C'è Chi C'ha: [www.ristorantecechicha.it](https://www.ristorantecechicha.it)
 - Pagine Gialle – Ricerca "pasticcerie" a Porcia (PN): [paginegialle.it/ricerca/pasticcerie/porcia-pn](https://www.paginegialle.it/ricerca/pasticcerie/porcia-pn)
+
+---
+
+## Pordenone
+
+Pordenone è il capoluogo dell'omonima provincia, la città più grande del Friuli occidentale con i suoi cinquantaduemila abitanti, e vive la cultura del bar con la doppia anima che la connota storicamente: da un lato l'eredità veneta — la città fu sotto Venezia dal 1508 al 1866, e ancora oggi il dialetto e le abitudini quotidiane portano l'impronta della Serenissima — dall'altro la sobrietà friulana, la parsimonia del centro-nord, il piacere della convivialità senza eccessi. Il risultato è una vita da bar vivace ma non frenetica, radicata nel rituale più che nella moda.
+
+Il centro storico di Pordenone, con il suo Corso Vittorio Emanuele II affiancato da portici medievali e dominato dal Palazzo Comunale in stile gotico-veneziano del XIV-XV secolo, è il perimetro naturale della vita caffetteria della città. Sotto i portici — che gli abitanti chiamano semplicemente "i porteghi", in dialetto veneto-friulano — si consuma buona parte della vita urbana: la passeggiata del mattino con il giornale sotto il braccio, la sosta del caffè a metà giornata, l'aperitivo del tardo pomeriggio. Piazza XX Settembre e l'inizio del Corso sono il centro gravitazionale dei bar più frequentati. Nei mesi estivi i dehors occupano gli spazi aperti della piazza e del Corso fino a tarda sera, trasformando l'area in un'unica terrazza all'aperto.
+
+Lo **spritz** è il re incontrastato dell'aperitivo pordenonese. La città si trova all'intersezione culturale tra la tradizione veneta e quella friulana dello spritz: si trova la versione con Aperol (più dolce e arancione), quella con Campari (più amara, preferita dai palati locali più anziani), e lo **spritz bianco** — la variante più tipicamente friulana — fatto con vino bianco locale (spesso Pinot Grigio o Friulano del Friuli Grave DOC) e acqua gassata, senza bitter. Accompagna il bicchiere un piccolo assortimento di stuzzichini: oli, salumi della pianura pordenonese, qualche crostino con Montasio. L'**ombra** — il mezzo bicchierino di vino bianco locale al banco, eredità diretta della tradizione veneziana — sopravvive nelle osterie più tradizionali, frequentate da chi considera l'aperitivo un rito laico quotidiano.
+
+La **colazione** a Pordenone segue i ritmi del Nordest: veloce, in piedi al bancone, con un cappuccino o un caffè macchiato e una brioche (che i pordenonesi più anziani chiamano ancora "croissant" in omaggio all'influenza austriaca). Le pasticcerie migliori sfornano cornetti al burro, paste sfogliate e bigné tra le sei e le nove del mattino. La presenza di poli industriali e di uffici nella periferia porta molti lavoratori al bar prima delle otto.
+
+Il **Friuli Grave DOC**, la denominazione che copre la pianura pordenonese, è uno degli ingredienti chiave della cultura dei bar locali: Pinot Grigio, Friulano, Sauvignon, Merlot, Cabernet e Refosco dal Peduncolo Rosso si trovano al bicchiere nelle enoteche e nelle osterie del centro. La tradizione del **tajut** — il mezzo bicchiere di vino bianco sfuso consumato in piedi al bancone — accomuna Pordenone al resto della pianura friulana.
+
+Il festival letterario **Pordenonelegge** (settembre) — uno degli appuntamenti culturali più importanti del nordest italiano — porta ogni anno decine di migliaia di visitatori in città, animando bar, cortili e logge medievali del centro storico con una dimensione aggiuntiva di socialità culturale: lo spritz del pomeriggio si beve guardando la firma di un romanzo, il caffè del mattino si prende mentre si sfoglia un catalogo editoriale.
+
+---
+
+### Caffè Municipio
+
+**Piazza XX Settembre / inizio Corso Vittorio Emanuele II, 33170 Pordenone**
+
+Il Caffè Municipio occupa una posizione di assoluto privilegio: si trova all'imbocco del Corso Vittorio Emanuele II, là dove la via porticata comincia a dispiegarsi verso il cuore del centro storico, e affaccia su Piazza XX Settembre — la piazza del Palazzo Comunale con la sua facciata gotico-veneziana tra le più belle del Friuli occidentale. Classificato dai visitatori come uno dei locali storici più caratteristici di Pordenone, il Caffè Municipio si distingue per i **mobili d'epoca** e per un'atmosfera calda, vintage, che richiama i grandi caffè borghesi dell'Ottocento.
+
+Il personale è unanimemente descritto come attento e amichevole — una combinazione che ha reso il locale un punto di riferimento sia per i pordenonesi di lunga data che per i visitatori di passaggio, compresi quelli che arrivano in città per le sessioni di Pordenonelegge. Al mattino, il bancone è frequentatissimo per la colazione: espresso ristretto, cappuccino, cornetto al burro. Nel tardo pomeriggio, a partire dalle diciassette, il locale si trasforma per l'aperitivo: lo spritz è la bevanda d'elezione, spesso accompagnato da stuzzichini locali.
+
+Cosa ordinare: espresso ristretto al mattino, cappuccino con cornetto sfogliato, spritz alla sera.
+
+---
+
+### 0434 Cafe
+
+**Corso Giuseppe Garibaldi 49, 33170 Pordenone**
+
+Il 0434 Cafe porta nell'insegna il prefisso telefonico di Pordenone — un gesto di identità locale che dice già molto sull'anima del posto. Situato lungo il Corso Garibaldi, non lontano dalla stazione ferroviaria, è un locale moderno che fa convivere l'atmosfera da caffè urbano con una programmazione regolare di eventi musicali e serate a tema. Il pubblico è prevalentemente giovane e cosmopolita, attratto dalla combinazione di drink di qualità, musica non invadente e un'atmosfera *"simpatica e disponibile"* come la descrivono i frequentatori abituali.
+
+Di sera il 0434 Cafe si trasforma in uno spazio per l'aperitivo e i cocktail: non è un posto dove si va per la tradizione, ma per la vivacità. Accetta prenotazioni, offre servizi di delivery per le serate, e ha occasionalmente prenotato artisti locali per live set e DJ set nel fine settimana. Chi cerca Pordenone giovane, quella che non si ferma al Corso dei portici medievali ma guarda alla contemporaneità, trova qui un punto di riferimento.
+
+Cosa ordinare: cocktail della casa, Aperol spritz, stuzzichini da aperitivo.
+
+---
+
+### L'Elite Cafe
+
+**Zona nord-ovest di Pordenone / area stazione**
+
+L'Elite Cafe è uno di quei locali che si impongono per la cura quasi maniacale della pulizia e dell'ordine, abbinata a prezzi accessibili e a una qualità del caffè che va ben oltre la media del bar di transito. Descritto dai suoi frequentatori come *"nice, charming, very clean and hip"* — aggettivi che in Italia non si usano spesso per un bar di quartiere — ha costruito nel tempo una clientela fedele che ci torna per il caffè espresso ma che spesso si ferma anche per uno spuntino.
+
+La specialità che torna più spesso nelle testimonianze dei clienti è il **cannolo**: non l'interpretazione improvvisata di chi lo fa per completare l'offerta, ma una versione curata, con la cialda fritta al momento e il ripieno preparato in casa. Classificato tra le caffetterie e i locali per panini e sandwich, l'Elite Cafe è anche un buon posto per una pausa pranzo leggera prima di riprendere il treno o di tornare in ufficio.
+
+Cosa ordinare: espresso, cappuccino, cannolo fresco, panino artigianale.
+
+---
+
+### I Sapori del Grano
+
+**Zona centro-ovest di Pordenone**
+
+I Sapori del Grano è uno di quei incroci virtuosi tra panificio artigianale, pasticceria e bar che il nordest italiano sa produrre meglio del resto del paese. Il laboratorio è il cuore del locale: si sente l'odore del pane appena sfornato già dall'esterno, e il banco — quando ci si avvicina — rivela una varietà di pane fatto a mano (*"great place to buy handmade bread. They sell by the weight"*) che sfida qualsiasi lista della spesa. Decine di varietà, dal pane di semola al Kamut biologico, dalle pucce friulane ai grissini tiepidi.
+
+Ma I Sapori del Grano è anche un bar — e in questo si distingue dalla semplice panetteria. Dal mattino presto (apertura alle 6:30 dal lunedì al sabato), serve caffè e cappuccino ai lavoratori di passaggio, mentre le paste lievitate del giorno si esauriscono velocemente. Nel tardo pomeriggio si trasforma per l'aperitivo: il banco stuzzichini viene allestito, il vino bianco della casa appare nelle caraffe, e la clientela di quartiere si ferma per il rituale quotidiano dello spritz prima di tornare a casa.
+
+Cosa ordinare: pane artigianale al peso, cornetto sfogliato a colazione, aperitivo con stuzzichini di produzione propria.
+
+---
+
+### Osteria al Buso
+
+**Centro storico, piccola piazzetta, Pordenone**
+
+L'Osteria al Buso è uno di quei locali che i pordenonesi veri custodiscono come un segreto, pur essendo apertissimi — collocato in una delle piccole piazzette del centro storico che si aprono tra le strade porticate, lontano dai percorsi turistici più battuti. È esattamente il tipo di osteria per cui Pordenone è conosciuta tra gli amanti della vita da bar friulana: *"Bellissima osteria dove incontrarsi per bere l'aperitivo in una bella piazzetta del centro storico di Pordenone. Buona selezione di vini e crostini."*
+
+La selezione di vini locali è curata con attenzione: Friuli Grave DOC nelle principali varietà, qualche bottiglia più ambiziosa dai Colli Orientali o dal Collio per chi vuole esplorare. I **crostini** — le tartine su cui si adagiano strati di Montasio fuso, lardo di Colonnata, prosciutto crudo, baccalà mantecato — sono il complemento naturale di un bicchiere di Friulano fresco. L'ambiente è raccolto, genuino, con quell'aria da osteria di una volta che non si trova nei locali costruiti su misura per i turisti.
+
+Aperto dal martedì alla domenica (11:00–21:30), chiuso il lunedì.
+
+Cosa ordinare: spritz bianco con Friulano, ombra di vino rosso con crostini al Montasio, tagliere di salumi locali.
+
+---
+
+### La Vecia Osteria del Moro
+
+**Corso Vittorio Emanuele II, 33170 Pordenone**
+*[Presenza online: facebook/pordenone-del-moro]*
+
+La Vecia Osteria del Moro è forse il locale più storicamente significativo di Pordenone nel panorama della ristorazione e della vita da bar. L'edificio in cui è ospitato risale al **1300** — un antico convento affacciato sul Corso Vittorio Emanuele II, la via principale della città, con la facciata in stile veneziano-gotico che fa da quinta al bancone dove si beve l'aperitivo. Entrare qui significa entrare nel tempo: le volte in mattoni, le colonne in pietra, il soffitto ligneo raccontano secoli di storia pordenonese.
+
+Il menu è una dichiarazione d'identità friulana: il **muset con la brovada** (il cotechino di maiale servito con la rapa fermentata al vino rosso, il piatto più tipico del Friuli autunnale-invernale), il **baccalà** alla maniera friulano-veneta, la polenta servita con ragù di selvaggina o con il frico morbido. I vini sono scelti dal territorio: Friuli Grave DOC a prezzi onesti, qualche label più ambizioso per l'occasione speciale. Anche per chi non mangia, fermarsi per un bicchiere al bancone di questa osteria è un gesto autentico di rispetto per la storia della città.
+
+Aperta praticamente tutto il giorno, con recensioni che arrivano fino al 2025.
+
+Cosa ordinare: muset con brovada (in stagione), frico con polenta, bicchiere di Refosco dal Peduncolo Rosso, caffè corretto con grappa.
+
+---
+
+### Piazzetta Sanmarco Tredici
+
+**Largo San Marco 13 / adiacenze del Duomo, 33170 Pordenone**
+
+La Concattedrale di San Marco Evangelista di Pordenone — con la sua facciata cinquecentesca e il campanile volutamente inclinato che costituisce uno dei curiosity architettonici della città — è il punto di riferimento del quartiere antico. Attorno a Largo San Marco si concentra una micro-realtà gastronomica che attira i pordenonesi più curiosi. Il Piazzetta Sanmarco Tredici è uno dei locali più interessanti di questa area: moderno nella proposta ma radicato nella convivialità friulana, con una **terrazza esterna** che nelle belle stagioni è tra i dehors più piacevoli del centro.
+
+Il menu, pur spaziando in modo creativo, parte dai prodotti del territorio: i **cicchetti** friulano-veneziani — il piccolo boccone da accompagnare allo spritz, che qui può essere un crostino con Montasio, un bicchierino di prosciutto di San Daniele, una fettina di salame di Trieste — sono la porta d'accesso all'aperitivo. La cucina poi si avventura su terreni più elaborati (hamburger gourmet, pasta artigianale, tartare), ma l'anima resta quella dell'aperitivo all'aperto con una vista sul Duomo.
+
+Aperto dal martedì alla domenica (la sera; il mercoledì e il sabato anche a pranzo), chiuso il lunedì.
+
+Cosa ordinare: cicchetti con spritz in terrazza, hamburger gourmet, pasta artigianale.
+
+---
+
+### Urban Farmhouse
+
+**Zona centro di Pordenone**
+
+L'Urban Farmhouse è uno dei locali più giovani nell'offerta pordenonese per l'aperitivo serale: un bar con un'anima da pub, una **terrazza esterna** che viene allestita appena le temperature lo permettono (dalla primavera all'autunno), e una proposta di birre artigianali e cocktail che risponde a una domanda crescente tra i pordenonesi under 40. *"Ora hanno una terrazza esterna"* — la disponibilità di spazio all'aperto, in una città dove d'estate ci si gode ogni ora di sole possibile, è un plus non secondario.
+
+Pur non avendo l'anima della tradizione friulana (non si viene qui per l'ombra di Friulano o per il muset), l'Urban Farmhouse ha trovato il proprio spazio nell'ecosistema dell'aperitivo cittadino: ci si va per la birra artigianale servita fredda, per i cocktail preparati con buone bottiglie, per i burger da mangiare dopo il secondo spritz. Aperto dal martedì al venerdì (mezzogiorno–mezzanotte, fino alle 2:00 il venerdì), solo di sera il sabato; chiuso domenica e lunedì.
+
+Cosa ordinare: birra artigianale friulana o da importazione, Aperol spritz, burger da accompagnare a un calice di Cabernet del Friuli Grave.
+
+---
+
+### Dal Cico
+
+**Via San Giorgio 4, 33170 Pordenone**
+
+Dal Cico è uno di quei posti dove Pordenone si sente a casa propria: aperto tutti i giorni dalle undici a mezzanotte, collocato nel pieno del centro storico in Via San Giorgio, accoglie una clientela mista di pranzo, aperitivo, cena e dopocena con la stessa disinvoltura di un locale che non deve dimostrare nulla. La carne alla griglia (il carbone vivo nella cucina, i profumi che arrivano fino alla via) è una delle attrazioni principali, ma la selezione enologica è quello che distingue il Dal Cico dalla media.
+
+*"I vini sono tra i migliori del Friuli e di altre regioni"* — dice un frequentatore abituale, e non è un'esagerazione: il gestore Gino ha costruito nel tempo una carta che valorizza i produttori locali del Friuli Grave, con incursioni nei Colli Orientali e nel Collio per i curiosi. Una cena da Dal Cico è anche un'educazione sensoriale al vino friulano: si parte da un Pinot Grigio fresco con l'antipasto e si finisce con un Refosco intenso sulla carne. Il servizio, caldo e non formale, completa il quadro. Ha anche **spazio esterno**.
+
+Cosa ordinare: carne alla griglia con Merlot o Cabernet del Friuli Grave, spaghetti alle vongole, degustazione di vini friulani al bicchiere.
+
+---
+
+### Trattoria Al Lido
+
+**Zona riviera del Noncello, Pordenone**
+
+La Trattoria Al Lido è il locale pordenonese dell'aperitivo sul fiume. Collocata vicino alla sponda del Noncello nella zona sud-est della città, combina la funzione di trattoria di mare (cucina di pesce su una terraferma friulana — specialità non scontata) con quella di bar e di American bar per i cocktail serali. La **terrazza esterna** e il **posto all'aperto** sono tra i punti di forza nella bella stagione; il locale è tra i più recensiti e visitati di Pordenone.
+
+La specialità che ha reso famosa la Trattoria Al Lido sono le **tagliatelline all'aragosta** (minimo per due persone) — un piatto che sembra fuori luogo in una pianura friulana ma che qui è l'orgoglio della casa. Le serate si chiudono con grappini e bicchierini offerti dalla casa, una tradizione friulana di ospitalità che permane intatta. Il bar della serata — l'"American bar" — prepara cocktail classici con una certa competenza. I pordenonesi che ci vanno la descrivono come *"piena di locali"*, segnale di una frequentazione autentica e non turistica.
+
+Cosa ordinare: tagliatelline all'aragosta (x2 persone), spaghetti ai frutti di mare, grigliata di pesce misto, tartufo bianco affogato, cocktail classici.
+
+---
+
+### Al Boccon Divino
+
+**Zona Fiera / Sud Pordenone**
+
+Il Boccon Divino si trova nella zona meridionale della città, non lontano dal polo fieristico, e ha trovato la propria clientela tra chi lavora o visita le manifestazioni della Fiera di Pordenone. Non è un locale per turisti né un ristorante di tendenza: è il posto dove, dopo una giornata di lavoro alla Fiera o alla zona industriale, ci si siede, si ordina una pizza (la quattro formaggi è la più citata) e si beve un bel bicchiere di **vino bianco frizzante della casa**, servito in caraffa da un litro o da mezzo litro a prezzi onestissimi.
+
+Il vino bianco frizzante è un Friuli Grave DOC prodotto localmente, e la sua qualità — leggera, beverina, con quella freschezza della pianura friulana — è parte integrante dell'esperienza. Il personale parla inglese (utile per la clientela internazionale che frequenta le manifestazioni fieristiche), l'atmosfera è casual e accogliente, i prezzi sono competitivi. *"Per una cena economica in un'atmosfera piacevole e informale"* — la descrizione sintetizza tutto.
+
+Cosa ordinare: pizza quattro formaggi, carafe di vino bianco frizzante Friuli Grave, birra artigianale.
+
+---
+
+### Furlan / Vittorio — Gelateria Artigianale
+
+**Zona nord-ovest di Pordenone**
+
+La gelateria di Vittorio Furlan è considerata dai pordenonesi uno dei migliori indirizzi per il gelato artigianale in città. Non si tratta di una gelateria glamour con scaffali retroilluminati e gusti esotici: è un laboratorio artigianale nel vero senso del termine, con produzione propria, ingredienti selezionati e una cura nel risultato che si percepisce già dalla prima cucchiaiata. *"Gelato sempre ottimo, estremamente cremoso, ottima selezione di gusti, buonissimi tartufi e biscotti prodotti da loro!"*
+
+I **tartufi al cioccolato** — palline di gelato ricoperte di cioccolato fondente — sono una delle specialità più apprezzate, insieme ai **biscotti artigianali** prodotti in proprio. La selezione di gusti è ampia e ruota stagionalmente: in estate si trovano le fragole del Friuli, le ciliegie, i frutti di bosco delle colline pedemontane; in autunno arrivano i gusti alla castagna e al fico. Il **fiordilatte** e la **stracciatella** restano i capisaldi di un repertorio classico eseguito con padronanza tecnica.
+
+Cosa ordinare: tartufi al cioccolato, fiordilatte, gusti stagionali con frutta fresca del Friuli, biscotti artigianali.
+
+---
+
+### Dok — Prosciutteria ed Enoteca
+
+**Zona est di Pordenone / vicinanze del Noncello**
+*[dok.it](https://www.dok.it)*
+
+Il Dok non è semplicemente un bar o un ristorante: è un'esperienza immersiva nella cultura gastronomica friulana, collocata in uno spazio che include — o è adiacente a — un prosciuttificio produttivo. *"Outstanding restaurant showcasing the connected factory that produces prosciutto as well as various cheeses and wines."* Entrare al Dok significa fare un passo dentro la filiera del cibo friulano: la stagionatura del prosciutto, i formaggi che maturano sulle assi di legno, il vino che accompagna tutto questo.
+
+Il **prosciutto crudo** è la stella del menu: selezionato in diverse stagionature, incluse versioni invecchiate fino a **20 mesi**, rappresenta l'eccellenza della norcineria friulana. La degustazione di prosciutti con vino locale — Friulano o Pinot Grigio fresco — è un abbinamento canonico che qui trova la sua espressione più autentica. Accanto ai salumi, il Dok propone pasta, secondi di carne e un'ampia carta di vini friulani e non.
+
+Per chi vuole capire davvero cos'è la cultura del cibo e del vino nella pianura pordenonese, una visita al Dok è quasi obbligatoria.
+
+Cosa ordinare: degustazione di prosciutto crudo a diverse stagionature, tagliere con formaggi e salumi locali, Friulano o Pinot Grigio Friuli Grave come abbinamento.
+
+---
+
+### La Ferrata
+
+**Centro storico di Pordenone (area pedonale)**
+
+La Ferrata è uno di quei ristoranti del centro storico che ha trovato il favore dei visitatori internazionali — soprattutto americani ed europei in visita alla NATO base di Aviano o alla Fiera — per la sua capacità di proporre cucina regionale autentica in un ambiente accogliente e ben gestito. *"Downtown Pordenone in a very walkable area of the city. Authentic regional food that is delicious. Great atmosphere and excellent service."* Il posizionamento nella zona pedonale del centro lo rende facilmente raggiungibile a piedi dal centro.
+
+La cucina si muove tra la tradizione veneta e quella friulana: cucina di confine, come si addice a una città che ha guardato per secoli verso Venezia e verso il Friuli insieme. Il servizio è descritto come eccellente — una delle qualità più difficili da mantenere costante in un ristorante di media dimensione.
+
+Cosa ordinare: piatti regionali della cucina friulano-veneta, vini locali al bicchiere.
+
+---
+
+### Al Cavaliere Perso
+
+**Centro storico di Pordenone**
+
+Il nome è un piccolo enigma — "il cavaliere perso", il cavaliere che si è smarrito — e l'ambiente mantiene questo sapore leggermente bizzarro: un locale piccolo e curato nel centro storico, con una carta non lunghissima ma ragionata, un servizio cordiale e prezzi che non scoraggiano. Dalle recensioni: *"A small restaurant with an excellent card. Everything was great including the service. An awesome place to feel good. The price was moderate and we felt welcome!"*
+
+È il tipo di posto dove ci si torna: non per stupire i colleghi o per fare l'esperienza gastronomica dell'anno, ma per mangiare bene, stare comodi, parlare con calma. Ottimo per una cena tranquilla prima di uno spettacolo al Teatro Verdi, o per un pranzo allungato il sabato.
+
+Cosa ordinare: piatti del giorno, vino friulano al bicchiere, dolce della casa.
+
+---
+
+### Mezza Libbra
+
+**Piazza XX Settembre / Centro storico, Pordenone**
+*(Presenza a Udine e Pordenone)*
+
+La Mezza Libbra è un locale ibrido moderno: si posiziona tra il bar per la colazione e il brunch, il pub serale e il ristorante informale con hamburger e cucina americana rivisitata. Frequentato soprattutto da un pubblico giovane e dai lavoratori della zona centrale, ha orari lunghi che coprono dalla mattina alla tarda sera. Non è un indirizzo per chi cerca la tradizione friulana — la pinza dell'Epifania e il frico non sono qui di casa — ma è un'alternativa valida per chi vuole un'atmosfera internazionale in un contesto urbano.
+
+Le recensioni sono miste: c'è chi apprezza la varietà dell'offerta e la posizione strategica in Piazza XX Settembre, chi trova l'esperienza discontinua. La vicinanza con il Caffè Municipio (praticamente sullo stesso lato della piazza) crea una piccola concentrazione di locali nell'area più animata del centro.
+
+Cosa ordinare: hamburger gourmet, colazione all'americana, spritz o birra nell'aperitivo serale.
+
+---
+
+### Corner Cocktail
+
+**Centro di Pordenone**
+
+Il Corner Cocktail è il bar dedicato ai cocktail classici e contemporanei nel panorama pordenonese: non il posto dello spritz veloce prima di cena, ma il locale dove si va intenzionalmente per bere bene. Il barman è il protagonista — non scontato in una città di provincia — e la carta propone classici internazionali (Negroni, Manhattan, Whisky Sour) accanto a creazioni stagionali che giocano con botanicals locali e distillati friulani.
+
+Per la generazione cresciuta con i cocktail bar delle grandi città, il Corner Cocktail è un punto di riferimento pordenonese che non fa rimpiangere Milano o Venezia. Frequentato nel fine settimana da chi vuole chiudere la serata in modo consapevole, con un bicchiere che vale il prezzo pagato.
+
+Cosa ordinare: Negroni con gin locale, spritz in versione gourmet, cocktail di stagione con botanicals friulani.
+
+---
+
+## Tradizioni dolciarie e di colazione tipiche del pordenonese
+
+La pasticceria popolare del pordenonese riflette la posizione geografica di confine della città, a metà strada tra la tradizione friulana dell'interno e quella veneta della costa. Le specialità più radicate sono:
+
+- **Crostoli** (o grostoli): strisce di pasta fritta e spolverata di zucchero a velo, tipiche del Carnevale. Nel pordenonese si profumano con la grappa locale e si friggono in strutto o in olio di semi. Si trovano in tutte le pasticcerie tra gennaio e marzo.
+
+- **Pinza dell'Epifania**: il pane dolce con frutta secca, semi di finocchio e uvetta che si prepara la notte del cinque gennaio. Ogni famiglia ha la propria ricetta; la base è una pasta lievitata compatta. Si brucia nel falò della Pignarul (o Foghèr) — la tradizione friulana dei falò dell'Epifania che ancora sopravvive nei paesi della provincia.
+
+- **Gubana**: il dolce del Friuli orientale (tipico di Cividale e della Valle del Natisone) che ha trovato spazio anche nelle pasticcerie pordenonesi. L'impasto è lievitato, sfogliato a spirale, con un ripieno di noci, uvetta, canditi, pinoli, grappa e spezie. Si serve con un bicchierino di grappa o di slivovitz.
+
+- **Strucolo de pomi**: lo strudel di mele friulano, con pasta tirata a mano sottilissima, ripieno di mele, uvetta, noci, cannella e limone grattugiato. Diverso dallo strudel altoatesino per la consistenza della pasta e per l'uso della grappa nell'impasto.
+
+- **Frico croccante**: il disco di Montasio fuso in padella è il cicchetto per eccellenza nelle osterie pordenonesi, servito caldo accanto al bicchiere di Friulano o di Pinot Grigio. La ricetta risale al 1450 (Maestro Martino, cuoco del Patriarca di Aquileia).
+
+- **Cjarsons**: i ravioli dolce-salati della Carnia, con ripieno che può includere uvetta, cioccolato, cannella, spinaci, ricotta, rum e marmellata, conditi con burro fuso e ricotta affumicata. Si trovano nelle osterie di tradizione friulana.
+
+---
+
+## La cultura dello spritz pordenonese
+
+Lo spritz ha raggiunto Pordenone attraverso la Serenissima: durante il dominio veneziano (1508–1866), l'abitudine di "spritzzare" il vino locale con acqua o seltz era già praticata. Nel XX secolo i bitter italiani — Campari, Select, Aperol — hanno trasformato la ricetta nel cocktail che conosciamo oggi.
+
+A Pordenone convivono tre versioni:
+
+- **Spritz Aperol**: Aperol + Prosecco + soda, fetta d'arancia. Il più popolare tra i giovani e i turisti.
+- **Spritz Campari**: Campari + Prosecco + soda. Più amaro, preferito dai pordenonesi più anziani.
+- **Spritz bianco (friulano)**: Vino bianco locale (Pinot Grigio o Friulano Friuli Grave DOC) + acqua frizzante, senza bitter. La variante più autenticamente friulana, che mantiene il legame con il territorio vinicolo.
+
+L'**ombra** — il mezzo bicchiere di vino bianco al banco, ~100 ml, consumato in piedi al bancone — è la versione più arcaica e genuina dell'aperitivo friulano, e sopravvive nelle osterie storiche come l'Osteria al Buso o La Vecia Osteria del Moro.
+
+---
+
+## I vini del Friuli Grave DOC
+
+La **DOC Friuli Grave** copre la pianura pordenonese con oltre 6.500 ettari vitati ed è una delle denominazioni più estese d'Italia. Le uve coltivate nella zona includono:
+
+| Tipo | Varietà | Note |
+|------|---------|------|
+| Bianco | **Pinot Grigio** | Fresco e sapido; il più venduto della denominazione |
+| Bianco | **Friulano** | Ex Tocai; note di mandorla amara e fiori bianchi; identitario del Friuli |
+| Bianco | **Sauvignon Blanc** | Aromatico, sambuco, peperone verde |
+| Bianco | **Chardonnay** | Vinificato in acciaio nella versione base, in legno nelle selezioni |
+| Rosso | **Merlot** | Morbido e accessibile; il rosso più coltivato del Friuli |
+| Rosso | **Refosco dal Peduncolo Rosso** | Il rosso autoctono per eccellenza; tannico, frutti di bosco scuri |
+| Rosso | **Cabernet Franc** | Nervoso e speziato, nota erbacea tipica del vitigno |
+| Rosso | **Cabernet Sauvignon** | Più strutturato, vinificato in purezza o in blend |
+
+Le cantine del Friuli Grave si trovano nei comuni della pianura pordenonese: Zoppola, Fiume Veneto, Pasiano di Pordenone, Azzano Decimo, Valvasone Arzene. I vini si trovano al bicchiere nelle enoteche, nelle osterie e nei wine bar di Pordenone a prezzi accessibili.
+
+---
+
+## Fonti
+
+- Yelp Italia — ricerca geolocalizzata per Pordenone (maggio 2026): locali verificati con coordinate GPS e recensioni
+- Wikipedia: *Pordenone* (it.wikipedia.org/wiki/Pordenone)
+- Wikipedia: *Pordenone* (en.wikipedia.org/wiki/Pordenone)
+- Wikipedia: *Frico* (it.wikipedia.org/wiki/Frico)
+- Wikipedia: *Cjarsons* (it.wikipedia.org/wiki/Cjarsons)
+- Wikipedia: *Friuli Grave DOC* (en.wikipedia.org/wiki/Friuli_Grave_DOC)
+- Wikipedia: *Spritz* / *Aperol Spritz* (en.wikipedia.org/wiki/Spritz_(cocktail))
+- Consorzio Pordenone Turismo (pordenoneturismo.com)
+- Pordenonelegge – Festival letterario (pordenonelegge.it)
+- Friuli Venezia Giulia Turismo (turismofvg.it)
+- Dok Pordenone (dok.it)
 
 ---
 
