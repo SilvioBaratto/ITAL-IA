@@ -1,0 +1,19 @@
+# code-generator-managed: true
+name: ci
+"on":
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch: {}
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -e .[dev]
+      - run: ruff check .
+      - run: pytest -m "not integration"

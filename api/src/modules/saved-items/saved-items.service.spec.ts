@@ -46,8 +46,9 @@ describe('SavedItemsService', () => {
     };
 
     it('should upsert a saved item', async () => {
-      const expected = { id: 'abc', userId, ...dto, savedAt: new Date() };
-      mockPrisma.savedItem.upsert.mockResolvedValue(expected);
+      const mockResult = { id: 'abc', userId, name: dto.name, category: dto.category, regionId: dto.region, description: dto.description, address: null, mapsUrl: null, website: null, imageUrl: null, poiId: null, savedAt: new Date() };
+      mockPrisma.savedItem.upsert.mockResolvedValue(mockResult);
+      const expected = { id: 'abc', userId, name: dto.name, category: dto.category, region: dto.region, description: dto.description, address: null, mapsUrl: null, website: null, imageUrl: null, poiId: null, savedAt: new Date() };
 
       const result = await service.upsert(userId, dto);
 

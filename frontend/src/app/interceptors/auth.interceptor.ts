@@ -4,6 +4,16 @@ import { Router } from '@angular/router';
 import { AuthService } from '../services/auth.service';
 import { from, switchMap, catchError, throwError } from 'rxjs';
 
+const PUBLIC_GET_PREFIXES = ['regions', 'poi', 'comuni'];
+
+function isPublicGet(req: { method: string; url: string }): boolean {
+  if (req.method !== 'GET') return false;
+  const path = req.url.split('?')[0];
+  return PUBLIC_GET_PREFIXES.some((prefix) =>
+    new RegExp(`/api/v1/${prefix}(/|$)`).test(path),
+  );
+}
+
 let refreshPromise: Promise<string | null> | null = null;
 
 export const authInterceptor: HttpInterceptorFn = (req, next) => {
@@ -11,7 +21,7 @@ export const authInterceptor: HttpInterceptorFn = (req, next) => {
   const router = inject(Router);
 
   const token = authService.getAccessToken();
-  const authedReq = token
+  const authedReq = token && !isPublicGet(req)
     ? req.clone({ setHeaders: { Authorization: `Bearer ${token}` } })
     : req;
 

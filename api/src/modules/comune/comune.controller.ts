@@ -15,7 +15,7 @@ export class ComuneController {
 
   @Get('nearest')
   @Public()
-  @Header('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400')
+  @Header('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=604800')
   @ApiOperation({ summary: 'Find the nearest comune to given coordinates' })
   @ZodSerializerDto(NearestComuneResponseDto)
   async findNearest(@Query() query: NearestComuneQueryDto) {
@@ -28,7 +28,7 @@ export class ComuneController {
 
   @Get()
   @Public()
-  @Header('Cache-Control', 'public, max-age=86400, stale-while-revalidate=604800')
+  @Header('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=604800')
   @ApiOperation({ summary: 'List comuni by region with coordinates' })
   @ZodSerializerDto(PaginatedComuneResponseDto)
   async findByRegion(@Query() query: ComuneQueryDto) {

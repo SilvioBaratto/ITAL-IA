@@ -310,3 +310,6 @@ script.md
 
 # Oversized aggregated KB chunk (>50MB) — regenerate locally
 kb/chunked/all-chunks.json
+
+.code-generator/
+graphify-out/

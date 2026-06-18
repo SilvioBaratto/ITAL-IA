@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "regions": ["fra1"],
   "buildCommand": "npm run vercel-build",
   "installCommand": "npm install --include=dev",
   "rewrites": [

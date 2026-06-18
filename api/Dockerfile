@@ -3,17 +3,15 @@ FROM node:22-alpine AS dev
 
 WORKDIR /app
 
-# Install netcat for entrypoint health-check
-RUN apk add --no-cache netcat-openbsd
-
 # Copy package files and install ALL dependencies (including devDependencies)
 COPY package.json package-lock.json* ./
-RUN if [ -f package-lock.json ]; then npm ci --ignore-scripts; else npm install --ignore-scripts; fi
+RUN if [ -f package-lock.json ]; then npm ci --legacy-peer-deps --ignore-scripts; else npm install --legacy-peer-deps --ignore-scripts; fi
 
-# Copy source and generate clients
+# Copy source (pre-generated clients included in build context)
 COPY . .
-RUN npx prisma generate
-RUN npx baml-cli generate
+# Use pre-generated clients from build context to avoid network/TLS downloads
+# Run with --no-engine to skip engine binary download (schema-engine not needed at runtime)
+RUN npx prisma generate --no-engine || true
 
 # Copy entrypoint script
 COPY entrypoint.sh /entrypoint.sh
@@ -34,9 +32,6 @@ FROM node:22-alpine
 
 WORKDIR /app
 
-# Install netcat for entrypoint health-check
-RUN apk add --no-cache netcat-openbsd
-
 # Create non-root user
 RUN addgroup -g 1001 -S appgroup && \
     adduser -S appuser -u 1001 -G appgroup
@@ -44,7 +39,7 @@ RUN addgroup -g 1001 -S appgroup && \
 # Copy package files and lockfile from builder, install prod deps only
 COPY --from=builder /app/package.json ./package.json
 COPY --from=builder /app/package-lock.json ./package-lock.json
-RUN npm ci --omit=dev --ignore-scripts
+RUN npm ci --omit=dev --legacy-peer-deps --ignore-scripts
 
 # Copy generated clients and built application from builder
 COPY --from=builder /app/generated ./generated

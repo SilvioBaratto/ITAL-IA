@@ -49,8 +49,23 @@ describe('PoiService', () => {
 
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith({
         where: {},
-        include: { region: { select: { id: true, name: true, group: true } } },
-        orderBy: [{ regionId: 'asc' }, { category: 'asc' }, { name: 'asc' }],
+        include: {
+          comune: {
+            select: {
+              id: true,
+              name: true,
+              province: true,
+              regionId: true,
+              region: { select: { id: true, name: true, group: true } },
+            },
+          },
+        },
+        orderBy: [
+          { comune: { regionId: 'asc' } },
+          { comune: { name: 'asc' } },
+          { category: 'asc' },
+          { name: 'asc' },
+        ],
         take: 10,
         skip: 5,
       });
@@ -61,7 +76,7 @@ describe('PoiService', () => {
 
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith(
         expect.objectContaining({
-          where: { regionId: 'friuli-venezia-giulia' },
+          where: { comune: { regionId: 'friuli-venezia-giulia' } },
         }),
       );
     });
@@ -79,7 +94,7 @@ describe('PoiService', () => {
     it('should use same where for findMany and count', async () => {
       await service.findAll({ regionId: 'friuli-venezia-giulia', category: 'RESTAURANT', limit: 20, offset: 0, order: 'default' });
 
-      const expectedWhere = { regionId: 'friuli-venezia-giulia', category: 'RESTAURANT' };
+      const expectedWhere = { comune: { regionId: 'friuli-venezia-giulia' }, category: 'RESTAURANT' };
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith(
         expect.objectContaining({ where: expectedWhere }),
       );
@@ -89,7 +104,7 @@ describe('PoiService', () => {
 
   describe('findOne', () => {
     it('should return a POI with nested region', async () => {
-      const poi = { id: 'poi-1', name: 'Trattoria', region: { id: 'fvg', name: 'Friuli Venezia Giulia', group: 'NORD' } };
+      const poi = { id: 'poi-1', name: 'Trattoria', comune: { id: 'trieste', name: 'Trieste', province: 'TS', regionId: 'fvg', region: { id: 'fvg', name: 'Friuli Venezia Giulia', group: 'NORD' } } };
       mockPrisma.pointOfInterest.findUnique.mockResolvedValue(poi);
 
       const result = await service.findOne('poi-1');
@@ -97,7 +112,17 @@ describe('PoiService', () => {
       expect(result).toEqual(poi);
       expect(mockPrisma.pointOfInterest.findUnique).toHaveBeenCalledWith({
         where: { id: 'poi-1' },
-        include: { region: { select: { id: true, name: true, group: true } } },
+        include: {
+          comune: {
+            select: {
+              id: true,
+              name: true,
+              province: true,
+              regionId: true,
+              region: { select: { id: true, name: true, group: true } },
+            },
+          },
+        },
       });
     });
 
@@ -134,7 +159,7 @@ describe('PoiService', () => {
 
       expect(mockPrisma.pointOfInterest.groupBy).toHaveBeenCalledWith({
         by: ['category'],
-        where: { regionId: 'friuli-venezia-giulia' },
+        where: { comune: { regionId: 'friuli-venezia-giulia' } },
         _count: { _all: true },
         orderBy: { _count: { category: 'desc' } },
       });
@@ -156,10 +181,10 @@ describe('PoiService', () => {
 
   describe('findRelated', () => {
     it('should return up to 4 related POIs excluding the current one', async () => {
-      const poi = { category: 'RESTAURANT', regionId: 'friuli-venezia-giulia' };
+      const poi = { category: 'RESTAURANT', comune: { regionId: 'friuli-venezia-giulia' } };
       const related = [
-        { id: 'poi-2', name: 'Osteria', category: 'RESTAURANT', imageUrl: null, address: 'Via Roma' },
-        { id: 'poi-3', name: 'Pizzeria', category: 'RESTAURANT', imageUrl: null, address: null },
+        { id: 'poi-2', name: 'Osteria', category: 'RESTAURANT', imageUrl: null, address: 'Via Roma', comune: { id: 'trieste', name: 'Trieste', province: 'TS', regionId: 'friuli-venezia-giulia' } },
+        { id: 'poi-3', name: 'Pizzeria', category: 'RESTAURANT', imageUrl: null, address: null, comune: { id: 'trieste', name: 'Trieste', province: 'TS', regionId: 'friuli-venezia-giulia' } },
       ];
       mockPrisma.pointOfInterest.findUnique.mockResolvedValue(poi);
       mockPrisma.pointOfInterest.findMany.mockResolvedValue(related);
@@ -169,7 +194,7 @@ describe('PoiService', () => {
       expect(result).toEqual(related);
       expect(mockPrisma.pointOfInterest.findMany).toHaveBeenCalledWith({
         where: {
-          regionId: 'friuli-venezia-giulia',
+          comune: { regionId: 'friuli-venezia-giulia' },
           category: 'RESTAURANT',
           id: { not: 'poi-1' },
         },
@@ -179,6 +204,7 @@ describe('PoiService', () => {
           category: true,
           imageUrl: true,
           address: true,
+          comune: { select: { id: true, name: true, province: true, regionId: true } },
         },
         take: 4,
         orderBy: { name: 'asc' },
@@ -202,7 +228,7 @@ describe('PoiService', () => {
       expect(result).toEqual({ id: 'poi-1' });
       expect(mockPrisma.pointOfInterest.findFirst).toHaveBeenCalledWith({
         where: {
-          regionId: 'friuli-venezia-giulia',
+          comune: { regionId: 'friuli-venezia-giulia' },
           name: { equals: 'Trattoria', mode: 'insensitive' },
         },
         select: { id: true },

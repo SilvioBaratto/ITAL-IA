@@ -1,5 +1,6 @@
 jest.mock('../../../baml_client', () => ({
   b: {
+    ClassifyQuery: jest.fn(),
     stream: {
       StreamRAGChat: jest.fn(),
     },
@@ -10,8 +11,10 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { ChatbotService } from './chatbot.service';
 import { QdrantService } from '../qdrant/qdrant.service';
 
-type MockedBaml = { b: { stream: { StreamRAGChat: jest.Mock } } };
-const mockStreamRAGChat = (jest.requireMock('../../../baml_client') as MockedBaml).b.stream.StreamRAGChat;
+type MockedBaml = { b: { ClassifyQuery: jest.Mock; stream: { StreamRAGChat: jest.Mock } } };
+const mockBaml = jest.requireMock('../../../baml_client') as MockedBaml;
+const mockClassifyQuery = mockBaml.b.ClassifyQuery;
+const mockStreamRAGChat = mockBaml.b.stream.StreamRAGChat;
 
 const mockQdrantService = {
   search: jest.fn(),
@@ -70,6 +73,7 @@ describe('ChatbotService', () => {
 
     service = module.get<ChatbotService>(ChatbotService);
     jest.clearAllMocks();
+    mockClassifyQuery.mockResolvedValue({ categories: [], comune: null });
   });
 
   describe('streamChat', () => {
@@ -85,7 +89,9 @@ describe('ChatbotService', () => {
       expect(mockQdrantService.search).toHaveBeenCalledWith(
         'What to eat in Trieste?',
         5,
-        'Friuli Venezia Giulia',
+        'friuli-venezia-giulia',
+        undefined,
+        undefined,
       );
     });
 
@@ -101,6 +107,8 @@ describe('ChatbotService', () => {
         undefined,
         null,
         'Friuli Venezia Giulia',
+        expect.any(String),
+        null,
       );
     });
 
@@ -183,6 +191,8 @@ describe('ChatbotService', () => {
         history,
         null,
         'Friuli Venezia Giulia',
+        expect.any(String),
+        null,
       );
     });
 
@@ -201,6 +211,8 @@ describe('ChatbotService', () => {
         undefined,
         null,
         'Friuli Venezia Giulia',
+        expect.any(String),
+        null,
       );
     });
   });

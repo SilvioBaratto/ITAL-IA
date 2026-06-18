@@ -43,7 +43,7 @@ describe('PoiController', () => {
 
       const result = await controller.getStats({ regionId: 'friuli-venezia-giulia' } as any);
 
-      expect(mockPoiService.getStats).toHaveBeenCalledWith('friuli-venezia-giulia');
+      expect(mockPoiService.getStats).toHaveBeenCalledWith('friuli-venezia-giulia', undefined);
       expect(result).toEqual(stats);
     });
 
@@ -52,7 +52,7 @@ describe('PoiController', () => {
 
       await controller.getStats({} as any);
 
-      expect(mockPoiService.getStats).toHaveBeenCalledWith(undefined);
+      expect(mockPoiService.getStats).toHaveBeenCalledWith(undefined, undefined);
     });
   });
 

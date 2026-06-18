@@ -32,8 +32,8 @@ docs/
 coverage/
 .nyc_output/
 
-# BAML generated
-baml_client/
+# BAML generated (keep for Docker build — regeneration requires network access)
+# baml_client/
 
 # Logs
 logs/

@@ -16,7 +16,7 @@ export class RegionController {
   @ApiOperation({ summary: 'List all Italian regions with KB availability' })
   async findAll(@Res({ passthrough: true }) res: Response) {
     const regions = await this.regionService.findAll();
-    res.setHeader('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+    res.setHeader('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=604800');
     return regions;
   }
 }
