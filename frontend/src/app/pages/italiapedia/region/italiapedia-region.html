@@ -157,6 +157,30 @@
     }
 
     <!-- ===================================================================
+         GEO AUTO-FILTER PILL — shown when the comune filter was applied
+         automatically from the user's location. Removable via ✕.
+         =================================================================== -->
+    @if (geoFilterActive() && selectedComune(); as geoComune) {
+      <div class="mx-4 md:mx-8 mt-4">
+        <span
+          class="inline-flex items-center gap-1.5 bg-accent/15 border border-accent/30 text-accent rounded-full pl-3 pr-1.5 py-1 text-xs font-medium"
+          role="status"
+        >
+          <svg lucideMapPin class="w-3.5 h-3.5 shrink-0" strokeWidth="2" aria-hidden="true"></svg>
+          <span>La tua zona: <strong class="font-semibold">{{ geoComune.name }}</strong></span>
+          <button
+            type="button"
+            (click)="removeGeoFilter()"
+            class="shrink-0 w-5 h-5 flex items-center justify-center rounded-full hover:bg-accent/25 focus-visible:outline-primary transition-colors motion-reduce:transition-none"
+            aria-label="Rimuovi filtro posizione e mostra tutta la regione"
+          >
+            <svg lucideX class="w-3 h-3" strokeWidth="2.5" aria-hidden="true"></svg>
+          </button>
+        </span>
+      </div>
+    }
+
+    <!-- ===================================================================
          STICKY FILTER BAR — comune combobox + category pills
          =================================================================== -->
     <div

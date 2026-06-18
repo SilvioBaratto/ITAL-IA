@@ -240,6 +240,24 @@ export class ItaliapediaRegionComponent implements OnInit, OnDestroy {
     return !this.dismissedKeys().has(key);
   });
 
+  // ---------- Geo auto-filter (silent, only when permission already granted) ----------
+
+  /** One-shot latch: auto-apply the geo filter at most once per page visit. */
+  private geoAutoApplied = false;
+
+  /**
+   * The comune id currently applied *by geolocation* (vs a manual combobox
+   * pick). Drives the removable "your area" pill. Reset to null whenever the
+   * user changes the filter by hand.
+   */
+  private readonly geoAppliedComuneId = signal<string | null>(null);
+
+  /** True when the active comune filter was applied from the user's location. */
+  readonly geoFilterActive = computed<boolean>(() => {
+    const applied = this.geoAppliedComuneId();
+    return applied !== null && this.selectedComune()?.id === applied;
+  });
+
   /**
    * Cross-region hint for the combobox: when the user's detected comune
    * lives in a DIFFERENT region, surface a deep-link hint inside the
@@ -354,6 +372,38 @@ export class ItaliapediaRegionComponent implements OnInit, OnDestroy {
         this.italiapediaService.fetchStats(this.regionId(), match.id);
       });
     });
+
+    // Silent locate: the moment we learn permission is already GRANTED,
+    // fetch the position. Browsers never prompt when permission is granted,
+    // so this doesn't interrupt the user; opening a region page with state
+    // 'prompt' stays silent. (Warmed already on the landing page — this just
+    // covers direct navigation straight to a region URL.)
+    effect(() => {
+      if (this.geoService.permissionState() === 'granted') {
+        untracked(() => void this.geoService.locateIfGranted());
+      }
+    });
+
+    // Auto-apply: once the detected comune resolves to one inside THIS
+    // region (and within the distance guard), select it automatically —
+    // unless the user deep-linked a comune, already picked one by hand, or
+    // previously dismissed the suggestion for this comune. Fires at most
+    // once per page instance via the `geoAutoApplied` latch.
+    effect(() => {
+      const suggestion = this.geoSuggestion();
+      if (
+        this.geoAutoApplied ||
+        this.initialComuneSlug ||
+        this.selectedComune() ||
+        !suggestion
+      ) {
+        return;
+      }
+      const key = `${suggestion.id}:${this.regionId()}`;
+      if (this.dismissedKeys().has(key)) return;
+      this.geoAutoApplied = true;
+      untracked(() => this.selectComune(suggestion, true));
+    });
   }
 
   ngOnInit(): void {
@@ -441,6 +491,16 @@ export class ItaliapediaRegionComponent implements OnInit, OnDestroy {
   // ---------- Comune combobox wiring ----------
 
   onComuneSelected(comune: Comune | null): void {
+    // Any manual combobox change clears the "from your location" marker.
+    this.selectComune(comune, false);
+  }
+
+  /**
+   * Single entry point for applying a comune filter. `fromGeo` records
+   * whether the change originated from geolocation (drives the removable
+   * pill); a manual pick clears that marker.
+   */
+  private selectComune(comune: Comune | null, fromGeo: boolean): void {
     this.italiapediaService.setSelectedComune(comune?.id ?? null);
     // Dropping the previous paginated single-category pages keeps stale
     // lists from leaking across comune changes.
@@ -448,6 +508,7 @@ export class ItaliapediaRegionComponent implements OnInit, OnDestroy {
     // Refresh stats so pill counts reflect the new filter (e.g. 80
     // ristoranti in Trieste vs 1.347 in all of FVG).
     this.italiapediaService.fetchStats(this.regionId(), comune?.id ?? null);
+    this.geoAppliedComuneId.set(fromGeo ? (comune?.id ?? null) : null);
   }
 
   onCrossRegionNavigate(comune: Comune): void {
@@ -461,7 +522,18 @@ export class ItaliapediaRegionComponent implements OnInit, OnDestroy {
   applyGeoSuggestion(): void {
     const s = this.geoSuggestion();
     if (!s) return;
-    this.onComuneSelected(s);
+    this.selectComune(s, true);
+  }
+
+  /**
+   * Remove the location-applied filter via the pill's ✕. Clears the comune
+   * AND records a dismissal so the suggestion banner doesn't immediately
+   * pop back for the same comune. The one-shot `geoAutoApplied` latch keeps
+   * it from re-applying for the rest of this page visit.
+   */
+  removeGeoFilter(): void {
+    this.dismissGeoBanner();
+    this.selectComune(null, false);
   }
 
   dismissGeoBanner(): void {
