@@ -40,24 +40,21 @@
   <nav class="flex-1 px-3 py-3">
     @for (item of navItems; track item.route) {
     <a [routerLink]="item.route" routerLinkActive="bg-primary-light text-primary"
-      [routerLinkActiveOptions]="{ exact: item.route === '/' }"
+      [routerLinkActiveOptions]="{ exact: item.exact }"
       class="flex items-center gap-2.5 px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors mb-0.5"
       (click)="onNavClick()">
       @switch (item.icon) {
       @case ('chat') {
       <svg lucideMessageCircle class="w-4 h-4" aria-hidden="true"></svg>
       }
-      @case ('map') {
-      <svg lucideMap class="w-4 h-4" aria-hidden="true"></svg>
-      }
-      @case ('bookmark') {
-      <svg lucideBookmark class="w-4 h-4" aria-hidden="true"></svg>
-      }
-      @case ('book-open') {
+      @case ('italiapedia') {
       <svg lucideBookOpen class="w-4 h-4" aria-hidden="true"></svg>
       }
+      @case ('saved') {
+      <svg lucideBookmark class="w-4 h-4" aria-hidden="true"></svg>
       }
-      <span>{{ item.name }}</span>
+      }
+      <span>{{ item.sidebarLabel }}</span>
     </a>
     }
   </nav>

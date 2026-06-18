@@ -4,6 +4,7 @@ import { RegionService } from '../../services/region.service';
 import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 import { RegionBottomSheetComponent } from '../region-bottom-sheet/region-bottom-sheet';
 import { ChatInputComponent } from '../chat-input/chat-input';
+import { NavItem, NAV_ITEMS } from '../nav-item';
 import {
   LucideMapPin,
   LucideChevronDown,
@@ -60,36 +61,28 @@ import {
       <!-- Divider -->
       <div class="w-px h-6 bg-border" aria-hidden="true"></div>
 
-      <!-- Chat tab -->
-      <a
-        routerLink="/"
-        routerLinkActive="text-primary"
-        [routerLinkActiveOptions]="{ exact: true }"
-        class="flex-1 flex flex-col items-center justify-center gap-0.5 py-2 min-h-13 text-text-secondary transition-colors active:bg-surface-inset"
-      >
-        <svg lucideMessageCircle class="w-5 h-5" aria-hidden="true"></svg>
-        <span class="text-[10px] font-medium">Chat</span>
-      </a>
-
-      <!-- Esplora tab -->
-      <a
-        routerLink="/italiapedia"
-        routerLinkActive="text-primary"
-        class="flex-1 flex flex-col items-center justify-center gap-0.5 py-2 min-h-13 text-text-secondary transition-colors active:bg-surface-inset"
-      >
-        <svg lucideCompass class="w-5 h-5" aria-hidden="true"></svg>
-        <span class="text-[10px] font-medium">Esplora</span>
-      </a>
-
-      <!-- Saved tab -->
-      <a
-        routerLink="/saved"
-        routerLinkActive="text-primary"
-        class="flex-1 flex flex-col items-center justify-center gap-0.5 py-2 min-h-13 text-text-secondary transition-colors active:bg-surface-inset"
-      >
-        <svg lucideBookmark class="w-5 h-5" aria-hidden="true"></svg>
-        <span class="text-[10px] font-medium">Salvati</span>
-      </a>
+      <!-- Primary nav tabs — shared with the desktop sidebar via NAV_ITEMS -->
+      @for (item of navItems; track item.route) {
+        <a
+          [routerLink]="item.route"
+          routerLinkActive="text-primary"
+          [routerLinkActiveOptions]="{ exact: item.exact }"
+          class="flex-1 flex flex-col items-center justify-center gap-0.5 py-2 min-h-13 text-text-secondary transition-colors active:bg-surface-inset"
+        >
+          @switch (item.icon) {
+            @case ('chat') {
+              <svg lucideMessageCircle class="w-5 h-5" aria-hidden="true"></svg>
+            }
+            @case ('italiapedia') {
+              <svg lucideCompass class="w-5 h-5" aria-hidden="true"></svg>
+            }
+            @case ('saved') {
+              <svg lucideBookmark class="w-5 h-5" aria-hidden="true"></svg>
+            }
+          }
+          <span class="text-[10px] font-medium">{{ item.mobileLabel }}</span>
+        </a>
+      }
     </nav>
 
     <!-- Region bottom sheet -->
@@ -108,6 +101,9 @@ export class BottomTabBarComponent {
 
   readonly currentRegion = this.regionService.selectedRegion;
   readonly isRegionSheetOpen = signal(false);
+
+  /** Primary nav — shared source of truth with the desktop sidebar. */
+  readonly navItems: NavItem[] = NAV_ITEMS;
 
   openRegionSheet(): void {
     this.isRegionSheetOpen.set(true);

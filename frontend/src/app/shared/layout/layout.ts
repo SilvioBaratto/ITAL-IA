@@ -1,7 +1,8 @@
-import { Component, signal, computed, OnInit, OnDestroy, ChangeDetectionStrategy, inject, ElementRef, viewChild } from '@angular/core';
+import { Component, signal, computed, OnInit, OnDestroy, ChangeDetectionStrategy, inject, ElementRef, viewChild, DestroyRef } from '@angular/core';
+import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { Router, NavigationEnd, RouterOutlet } from '@angular/router';
 import { Title } from '@angular/platform-browser';
-import { filter, Subscription } from 'rxjs';
+import { filter } from 'rxjs';
 import { SidebarComponent } from '../sidebar/sidebar';
 import { BottomTabBarComponent } from '../bottom-tab-bar/bottom-tab-bar';
 import { ToastComponent } from '../toast/toast';
@@ -16,8 +17,8 @@ import { ToastComponent } from '../toast/toast';
 export class LayoutComponent implements OnInit, OnDestroy {
   private readonly router = inject(Router);
   private readonly titleService = inject(Title);
+  private readonly destroyRef = inject(DestroyRef);
   private readonly mainContent = viewChild<ElementRef<HTMLElement>>('mainContent');
-  private routerSub?: Subscription;
 
   routeAnnouncement = signal('');
   currentPageTitle = signal('');
@@ -29,28 +30,14 @@ export class LayoutComponent implements OnInit, OnDestroy {
 
   private resizeObserver?: ResizeObserver;
 
-  // Arrow function field preserves `this` and keeps a stable reference for removeEventListener.
-  // Intercepts clicks on the skip link (which lives in index.html, outside Angular's template)
-  // and programmatically focuses #main-content once Angular has rendered it.
-  private readonly skipLinkClickHandler = (event: MouseEvent): void => {
-    const target = event.target as HTMLAnchorElement;
-    if (target.getAttribute('href') === '#main-content') {
-      event.preventDefault();
-      this.mainContent()?.nativeElement.focus();
-    }
-  };
-
   ngOnInit() {
     this.checkScreenSize();
     this.initializeResizeObserver();
     this.initializeFocusManagement();
-    this.initializeSkipLink();
   }
 
   ngOnDestroy() {
     this.resizeObserver?.disconnect();
-    this.routerSub?.unsubscribe();
-    document.removeEventListener('click', this.skipLinkClickHandler);
   }
 
   toggleSidebar() {
@@ -70,8 +57,11 @@ export class LayoutComponent implements OnInit, OnDestroy {
   }
 
   private initializeFocusManagement() {
-    this.routerSub = this.router.events
-      .pipe(filter((e): e is NavigationEnd => e instanceof NavigationEnd))
+    this.router.events
+      .pipe(
+        filter((e): e is NavigationEnd => e instanceof NavigationEnd),
+        takeUntilDestroyed(this.destroyRef),
+      )
       .subscribe(() => this.handleRouteChange());
 
     // Handle initial load — NavigationEnd may have already fired before ngOnInit
@@ -98,9 +88,5 @@ export class LayoutComponent implements OnInit, OnDestroy {
       }
     });
     this.resizeObserver.observe(document.body);
-  }
-
-  private initializeSkipLink() {
-    document.addEventListener('click', this.skipLinkClickHandler);
   }
 }

@@ -4,11 +4,11 @@ import { AuthService } from '../../services/auth.service';
 import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 import { ThemeService } from '../../services/theme.service';
 import { RegionSelectorComponent } from '../region-selector/region-selector';
+import { NavItem, NAV_ITEMS } from '../nav-item';
 import {
   LucideX,
   LucidePlus,
   LucideMessageCircle,
-  LucideMap,
   LucideBookmark,
   LucideBookOpen,
   LucideUser,
@@ -16,12 +16,6 @@ import {
   LucideMoon,
   LucideLogOut,
 } from '@lucide/angular';
-
-interface NavItem {
-  name: string;
-  route: string;
-  icon: 'chat' | 'map' | 'bookmark' | 'book-open';
-}
 
 @Component({
   selector: 'app-sidebar',
@@ -32,7 +26,6 @@ interface NavItem {
     LucideX,
     LucidePlus,
     LucideMessageCircle,
-    LucideMap,
     LucideBookmark,
     LucideBookOpen,
     LucideUser,
@@ -55,11 +48,7 @@ export class SidebarComponent {
 
   closeSidebar = output<void>();
 
-  navItems: NavItem[] = [
-    { name: 'Chat', route: '/', icon: 'chat' },
-    { name: 'Italiapedia', route: '/italiapedia', icon: 'book-open' },
-    { name: 'Salvati', route: '/saved', icon: 'bookmark' },
-  ];
+  readonly navItems: NavItem[] = NAV_ITEMS;
 
   showSidebar = computed(() => !this.isMobile() || this.isOpen());
 

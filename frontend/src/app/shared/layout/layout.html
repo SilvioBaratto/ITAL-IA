@@ -1,4 +1,11 @@
 <div class="h-dvh overflow-hidden bg-surface flex flex-col md:block md:h-auto md:overflow-visible md:min-h-screen">
+  <!-- Skip link (target: #main-content). Native fragment focus — #main-content
+       has tabindex="-1" so the browser moves focus there on activation; no JS. -->
+  <a href="#main-content"
+     class="sr-only focus:not-sr-only focus:fixed focus:z-[100] focus:top-4 focus:left-4 focus:px-4 focus:py-2 focus:bg-primary focus:text-white focus:rounded-lg focus:text-sm focus:font-semibold focus:shadow-lg">
+    Skip to main content
+  </a>
+
   <!-- Overlay (mobile sidebar) -->
   @if (showOverlay()) {
     <div class="fixed inset-0 bg-black/20 z-40 md:hidden" (click)="closeSidebar()"></div>
@@ -8,12 +15,12 @@
   <app-sidebar [isOpen]="isSidebarOpen()" [isMobile]="isMobile()" (closeSidebar)="closeSidebar()"></app-sidebar>
 
   <!-- Main content -->
-  <main #mainContent id="main-content" tabindex="-1" [attr.aria-label]="currentPageTitle()" class="md:pl-64 flex-1 md:h-dvh flex flex-col min-h-0 focus:outline-none focus-visible:outline-none">
+  <main #mainContent id="main-content" tabindex="-1" [attr.aria-label]="currentPageTitle()" class="md:pl-64 flex-1 md:h-dvh flex flex-col min-h-0 overscroll-contain focus:outline-none focus-visible:outline-none">
     <router-outlet></router-outlet>
   </main>
 
   <!-- Screen reader route announcer -->
-  <div class="sr-only" aria-live="assertive" aria-atomic="true">
+  <div class="sr-only" aria-live="polite" aria-atomic="true">
     {{ routeAnnouncement() }}
   </div>
 
