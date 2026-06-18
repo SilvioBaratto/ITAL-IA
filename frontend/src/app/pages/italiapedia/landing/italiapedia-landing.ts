@@ -3,12 +3,15 @@ import {
   ChangeDetectionStrategy,
   inject,
   computed,
+  effect,
+  untracked,
   OnInit,
 } from '@angular/core';
 import { Title } from '@angular/platform-browser';
 import { RouterLink } from '@angular/router';
 import { RegionService } from '../../../services/region.service';
 import { ItaliapediaService } from '../../../services/italiapedia.service';
+import { GeolocationService } from '../../../services/geolocation.service';
 import { RegionCardComponent } from '../../../shared/region-card/region-card';
 import { BreadcrumbComponent, BreadcrumbItem } from '../../../shared/breadcrumb/breadcrumb';
 import { Region, RegionGroup } from '../../../models/region.model';
@@ -60,9 +63,22 @@ export interface RegionGroupEntry {
 export class ItaliapediaLandingComponent implements OnInit {
   private readonly regionService = inject(RegionService);
   private readonly italiapediaService = inject(ItaliapediaService);
+  private readonly geoService = inject(GeolocationService);
   private readonly titleService = inject(Title);
 
-  readonly loading = this.italiapediaService.loading;
+  constructor() {
+    // Warm the user's location the moment we know permission is already
+    // granted, so clicking through to a region card auto-filters to their
+    // comune with no visible delay. Never prompts — `locateIfGranted` is a
+    // no-op unless the permission state is 'granted'.
+    effect(() => {
+      if (this.geoService.permissionState() === 'granted') {
+        untracked(() => void this.geoService.locateIfGranted());
+      }
+    });
+  }
+
+  readonly loading = this.italiapediaService.statsLoading;
 
   readonly breadcrumbs: BreadcrumbItem[] = [{ label: 'Italiapedia' }];
 
@@ -70,14 +86,17 @@ export class ItaliapediaLandingComponent implements OnInit {
     return this.regionService.regions().find((r) => r.hasKB) ?? null;
   });
 
-  readonly featuredPoiCount = computed(() => this.italiapediaService.pois().length);
+  // Counts derive from the `/stats` aggregate (one row per category, with a
+  // full region-wide count each) — the same source the region detail page
+  // uses. Counting `pois().length` instead capped the hero at the POI fetch's
+  // pagination limit (100), so the landing under-reported the real total.
+  readonly featuredPoiCount = computed(() =>
+    this.italiapediaService.stats().reduce((acc, s) => acc + s.count, 0),
+  );
 
-  readonly featuredCategoryCount = computed(() => {
-    const categories = new Set(
-      this.italiapediaService.pois().map((p) => p.category),
-    );
-    return categories.size;
-  });
+  readonly featuredCategoryCount = computed(
+    () => this.italiapediaService.stats().length,
+  );
 
   readonly regionGroups = computed<RegionGroupEntry[]>(() => {
     const all = this.regionService.regions();
@@ -95,7 +114,7 @@ export class ItaliapediaLandingComponent implements OnInit {
     this.titleService.setTitle('Italiapedia');
     const featured = this.featuredRegion();
     if (featured) {
-      this.italiapediaService.fetchPois(featured.id);
+      this.italiapediaService.fetchStats(featured.id);
     }
   }
 }

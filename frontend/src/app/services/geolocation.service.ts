@@ -72,6 +72,22 @@ export class GeolocationService {
     });
   }
 
+  /**
+   * Fetch the position once, but ONLY when permission is already granted —
+   * this never shows a prompt. Safe to call from multiple pages (landing,
+   * region): internal guards skip if a position is already loaded or a
+   * request is in flight, so duplicate calls are cheap no-ops.
+   */
+  async locateIfGranted(): Promise<void> {
+    if (this.permissionState() !== 'granted') return;
+    if (this.hasPosition() || this.loading()) return;
+    try {
+      await this.getCurrentPosition();
+    } catch {
+      // denied/timeout — state is tracked on the service, nothing to do here
+    }
+  }
+
   private resolveComune(lat: number, lng: number): void {
     this.http
       .get<NearestComuneResponse>(`${environment.apiUrl}comuni/nearest`, {

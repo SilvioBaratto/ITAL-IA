@@ -48,6 +48,7 @@ export class ItaliapediaService {
   private readonly loadingSignal = signal(false);
   private readonly errorSignal = signal(false);
   private readonly statsSignal = signal<PoiStatItem[]>([]);
+  private readonly statsLoadingSignal = signal(false);
   private readonly relatedPoisSignal = signal<PointOfInterest[]>([]);
 
   readonly pois = this.poisSignal.asReadonly();
@@ -55,6 +56,11 @@ export class ItaliapediaService {
   readonly loading = this.loadingSignal.asReadonly();
   readonly error = this.errorSignal.asReadonly();
   readonly stats = this.statsSignal.asReadonly();
+  /// Tracks the in-flight state of `fetchStats` independently of the POI
+  /// `loading` flag, so the landing hero (which now derives its counts from
+  /// the stats aggregate) can show its skeleton without coupling to the
+  /// legacy flat POI fetch.
+  readonly statsLoading = this.statsLoadingSignal.asReadonly();
   readonly relatedPois = this.relatedPoisSignal.asReadonly();
 
   fetchPois(regionId: string, category?: PoiCategory): void {
@@ -93,11 +99,19 @@ export class ItaliapediaService {
     const params: Record<string, string> = { regionId };
     if (comuneId) params['comuneId'] = comuneId;
 
+    this.statsLoadingSignal.set(true);
+
     this.http
       .get<PoiStatItem[]>(`${this.endpoint}/stats`, { params })
       .subscribe({
-        next: (stats) => this.statsSignal.set(stats),
-        error: () => { /* stats are non-critical, fail silently */ },
+        next: (stats) => {
+          this.statsSignal.set(stats);
+          this.statsLoadingSignal.set(false);
+        },
+        error: () => {
+          /* stats are non-critical, fail silently */
+          this.statsLoadingSignal.set(false);
+        },
       });
   }
 
