@@ -1,19 +1,56 @@
-# code-generator-managed: true
 name: ci
+
 "on":
   push:
     branches: [main]
   pull_request:
     branches: [main]
   workflow_dispatch: {}
+
 jobs:
-  ci:
+  frontend:
+    name: Frontend — typecheck + build
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-node@v4
         with:
-          python-version: '3.12'
-      - run: pip install -e .[dev]
-      - run: ruff check .
-      - run: pytest -m "not integration"
+          node-version: 22
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      # Angular peer ranges need --legacy-peer-deps (see project conventions).
+      - run: npm ci --legacy-peer-deps
+      - run: npx tsc --noEmit -p tsconfig.app.json
+      - run: npm run build -- --configuration=production
+
+  api:
+    name: API — build + unit tests
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: api
+    env:
+      # nest build and `prisma generate` read the datasource env. Dummy values
+      # are fine: CI never opens a connection — every unit test mocks
+      # PrismaService — so no real database is required.
+      DATABASE_URL: postgresql://user:pass@localhost:5432/db
+      DIRECT_URL: postgresql://user:pass@localhost:5432/db
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: api/package-lock.json
+      # `generated/` (Prisma client + Zod schemas) and `baml_client/` are
+      # gitignored, so they must be regenerated here before build/test.
+      # postinstall already runs `prisma generate`; the explicit step keeps it
+      # deterministic, and baml has no postinstall hook.
+      - run: npm ci
+      - run: npx prisma generate
+      - run: npx baml-cli generate
+      - run: npm run build
+      - run: npm test
