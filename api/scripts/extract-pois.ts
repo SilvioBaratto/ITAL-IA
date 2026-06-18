@@ -44,8 +44,8 @@ dotenv.config({ path: join(__dirname, '..', '.env') });
 const ROOT = join(__dirname, '..', '..');
 const KB_DIR = join(ROOT, 'kb');
 
-const CONCURRENCY = 2;
-const DELAY_MS = 2000;
+const CONCURRENCY = 6;
+const DELAY_MS = 500;
 const MIN_FILE_BYTES = 200;
 
 // ---------------------------------------------------------------------------

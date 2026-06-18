@@ -43,8 +43,8 @@ const CHUNKED_DIR = join(KB_DIR, 'chunked');
 const PROGRESS_PATH = join(CHUNKED_DIR, '.progress.json');
 const ALL_CHUNKS_PATH = join(CHUNKED_DIR, 'all-chunks.json');
 
-const CONCURRENCY = 2;
-const DELAY_MS = 2000;
+const CONCURRENCY = 6;
+const DELAY_MS = 500;
 const MIN_FILE_BYTES = 200;          // per-comune files that are shorter than this are empty stubs
 const LARGE_FILE_CHARS = 60_000;     // split very long comuni (unlikely) on H2 boundaries
 

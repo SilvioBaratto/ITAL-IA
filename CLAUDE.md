@@ -52,12 +52,12 @@ Helmet -> CORS -> `/api/v1` prefix -> LoggingMiddleware -> ThrottlerGuard (100 r
 ### Modules
 
 - **auth** — validates Supabase JWT via `supabase.auth.getUser()`, injects `req.user`. `@CurrentUser()` param decorator. Account deletion cascades through Supabase then DB.
-- **chatbot** — the RAG pipeline. Embeds query (OpenAI) -> Qdrant cosine search (top 5, score >= 0.75, `italia-kb` collection) -> fetches user's trip context -> BAML `StreamRAGChat()` (GPT-5 Mini) -> SSE stream. The BAML response is a `RichChatResponse` with text, images, links, map_links, tables, sources, and item_categories.
+- **chatbot** — the RAG pipeline. Embeds query (Azure OpenAI `text-embedding-3-large`, 3072-dim) -> Qdrant cosine search (top 5, score >= 0.75, `italia-kb` collection) -> fetches user's trip context -> BAML `StreamRAGChat()` (Azure OpenAI `gpt-4.1` via the `AzureFoundry` client) -> SSE stream. The BAML response is a `RichChatResponse` with text, images, links, map_links, tables, sources, and item_categories.
 - **chat-conversation** — CRUD for conversation persistence (create, list, get, append message, update title, delete).
 - **region** — returns all 20 regions with `hasKb` flag. Cache-Control: 1hr with stale-while-revalidate.
 - **poi** — points of interest lookup, filterable by region and category (13 categories). Cache-Control: 5min.
 - **saved-items** — user bookmarks. Upsert with async best-effort POI linking (case-insensitive name match against PointOfInterest table, non-blocking).
-- **qdrant** — wraps `@qdrant/js-client-rest`. `embed()` calls OpenAI text-embedding-ada-002. `search()` does cosine similarity with optional region filter.
+- **qdrant** — wraps `@qdrant/js-client-rest`. `embed()` calls Azure OpenAI `text-embedding-3-large` (3072-dim, via `AZURE_OPENAI_EMBEDDINGS_*` env), with a runtime guard that throws if the returned vector length != `AZURE_OPENAI_EMBEDDINGS_DIM`. `search()` does cosine similarity with optional region filter.
 - **health** — `@Public()`, checks DB with `SELECT 1`.
 - **test** — in-memory CRUD for testing.
 
@@ -107,9 +107,9 @@ Playwright in `e2e/`. Tests desktop (1280x720) and mobile (Pixel 5). Run with `n
 
 ## Environment variables (`api/.env`)
 
-Required: `DATABASE_URL`, `DIRECT_URL` (Supabase pooled/session), `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, `OPENAI_API_KEY`, `QDRANT_URL`, `QDRANT_API_KEY`.
+Required: `DATABASE_URL`, `DIRECT_URL` (Supabase pooled/session), `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, `QDRANT_URL`, `QDRANT_API_KEY`. Azure OpenAI for chat + embeddings: `AZURE_OPENAI_BASE_URL`, `AZURE_OPENAI_API_VERSION`, `AZURE_OPENAI_API_KEY` (the `AzureFoundry` BAML chat client), and `AZURE_OPENAI_EMBEDDINGS_ENDPOINT`, `AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT`, `AZURE_OPENAI_EMBEDDINGS_API_VERSION`, `AZURE_OPENAI_EMBEDDINGS_API_KEY`, `AZURE_OPENAI_EMBEDDINGS_DIM` (3072), plus optional `AZURE_OPENAI_EMBEDDINGS_MODEL`.
 
-Optional: `ANTHROPIC_API_KEY`, `GOOGLE_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `CORS_ORIGINS`.
+Optional: `QDRANT_COLLECTION_NAME`, `QDRANT_SCORE_THRESHOLD`, `QDRANT_SEARCH_LIMIT`, `ANTHROPIC_API_KEY`, `GOOGLE_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `CORS_ORIGINS`.
 
 **`DATABASE_URL` vs `DIRECT_URL`** — runtime code uses `DATABASE_URL` (transaction pooler, port 6543) for efficient connection pooling across serverless cold starts. Prisma CLI commands (`migrate`, `db execute`) must use `DIRECT_URL` (session pooler, port 5432) because the transaction pooler hangs Prisma migrations indefinitely. See the "Database migrations" section below for the override pattern.
 
