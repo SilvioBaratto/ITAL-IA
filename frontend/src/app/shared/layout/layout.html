@@ -18,10 +18,15 @@
   <header
     class="md:hidden flex items-center justify-between gap-2 px-4 h-14 border-b border-border bg-surface-raised shrink-0"
     aria-label="Barra superiore">
-    <span class="font-display font-bold text-text tracking-tight truncate">{{ mobileTitle() || 'ITAL-IA' }}</span>
-    <div class="flex items-center gap-1 -mr-1">
+    <span class="font-display font-bold text-text tracking-tight">ITAL-IA</span>
+    <div class="flex items-center gap-0.5 -mr-1 min-w-0">
+      <button type="button" (click)="newChat()"
+        class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center shrink-0"
+        aria-label="Nuova chat">
+        <svg lucidePlus class="w-5 h-5" aria-hidden="true"></svg>
+      </button>
       <button type="button" (click)="themeService.toggleTheme()"
-        class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
+        class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center shrink-0"
         [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
         [attr.aria-pressed]="themeService.isDark()">
         @if (themeService.isDark()) {
@@ -30,8 +35,24 @@
         <svg lucideMoon class="w-5 h-5" aria-hidden="true"></svg>
         }
       </button>
+      @if (geoService.isAvailable() && !geoService.isDenied()) {
+      <button type="button" (click)="requestLocation()" [disabled]="geoService.loading()"
+        class="flex items-center gap-1.5 px-2.5 rounded-md hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 justify-center disabled:opacity-50 min-w-0"
+        [class.text-success]="geoService.hasPosition()"
+        [class.text-text-secondary]="!geoService.hasPosition()"
+        [attr.aria-label]="geoService.hasPosition() ? geoService.displayLocation() : 'Usa la mia posizione'">
+        @if (geoService.loading()) {
+        <svg lucideLoader class="w-5 h-5 animate-spin shrink-0" aria-hidden="true"></svg>
+        } @else {
+        <svg lucideLocate class="w-5 h-5 shrink-0" aria-hidden="true"></svg>
+        }
+        @if (geoService.hasPosition() && geoService.comuneName()) {
+        <span class="text-xs font-medium truncate max-w-20">{{ geoService.comuneName() }}</span>
+        }
+      </button>
+      }
       <a routerLink="/profile"
-        class="ml-1 w-9 h-9 rounded-full bg-primary text-white text-xs font-bold flex items-center justify-center hover:bg-primary-hover transition-colors"
+        class="ml-1 w-9 h-9 rounded-full bg-primary text-white text-xs font-bold flex items-center justify-center hover:bg-primary-hover transition-colors shrink-0"
         aria-label="Profilo">
         {{ userInitials() }}
       </a>

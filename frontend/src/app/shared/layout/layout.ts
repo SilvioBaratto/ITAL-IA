@@ -8,11 +8,13 @@ import { BottomTabBarComponent } from '../bottom-tab-bar/bottom-tab-bar';
 import { ToastComponent } from '../toast/toast';
 import { ThemeService } from '../../services/theme.service';
 import { AuthService } from '../../services/auth.service';
-import { LucideSun, LucideMoon } from '@lucide/angular';
+import { LucideSun, LucideMoon, LucidePlus, LucideLocate, LucideLoader } from '@lucide/angular';
+import { GeolocationService } from '../../services/geolocation.service';
+import { MobileChatBridgeService } from '../../services/mobile-chat-bridge.service';
 
 @Component({
   selector: 'app-layout',
-  imports: [RouterOutlet, RouterLink, SidebarComponent, BottomTabBarComponent, ToastComponent, LucideSun, LucideMoon],
+  imports: [RouterOutlet, RouterLink, SidebarComponent, BottomTabBarComponent, ToastComponent, LucideSun, LucideMoon, LucidePlus, LucideLocate, LucideLoader],
   templateUrl: './layout.html',
   styleUrl: './layout.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -24,12 +26,12 @@ export class LayoutComponent implements OnInit, OnDestroy {
   private readonly mainContent = viewChild<ElementRef<HTMLElement>>('mainContent');
 
   readonly themeService = inject(ThemeService);
+  readonly geoService = inject(GeolocationService);
   private readonly authService = inject(AuthService);
+  private readonly bridge = inject(MobileChatBridgeService);
 
   routeAnnouncement = signal('');
   currentPageTitle = signal('');
-  /** Short page label shown in the shared mobile top bar. */
-  readonly mobileTitle = signal('');
 
   /** 1–2 letter initials for the mobile profile avatar button. */
   readonly userInitials = computed(() => {
@@ -69,6 +71,20 @@ export class LayoutComponent implements OnInit, OnDestroy {
     this.isSidebarOpen.set(false);
   }
 
+  /** Start a fresh chat from any page (shared mobile top bar). */
+  newChat(): void {
+    this.bridge.resetRequested.update((v) => v + 1);
+    this.router.navigate(['/']);
+  }
+
+  async requestLocation(): Promise<void> {
+    try {
+      await this.geoService.getCurrentPosition();
+    } catch {
+      // permission/denied state is tracked on the service
+    }
+  }
+
   private checkScreenSize() {
     if (typeof window !== 'undefined') {
       const mobile = window.innerWidth < 768;
@@ -93,16 +109,6 @@ export class LayoutComponent implements OnInit, OnDestroy {
     const title = this.titleService.getTitle();
     this.routeAnnouncement.set(`Navigated to ${title}`);
     this.currentPageTitle.set(title);
-
-    const url = this.router.url.split('?')[0];
-    this.mobileTitle.set(
-      url === '/' ? 'Chat'
-        : url.startsWith('/italiapedia') ? 'Italiapedia'
-          : url.startsWith('/saved') ? 'Salvati'
-            : url.startsWith('/profile') ? 'Profilo'
-              : '',
-    );
-
     this.mainContent()?.nativeElement.focus();
   }
 

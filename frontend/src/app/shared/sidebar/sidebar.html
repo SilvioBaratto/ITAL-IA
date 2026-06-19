@@ -69,6 +69,20 @@
       <span>Profilo</span>
     </a>
 
+    <!-- Position -->
+    @if (geoService.isAvailable() && !geoService.isDenied()) {
+    <button (click)="requestLocation()" [disabled]="geoService.loading()"
+      class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 disabled:opacity-50"
+      [attr.aria-label]="geoService.hasPosition() ? geoService.displayLocation() : 'Usa la mia posizione'">
+      @if (geoService.loading()) {
+      <svg lucideLoader class="w-4 h-4 animate-spin shrink-0" aria-hidden="true"></svg>
+      } @else {
+      <svg lucideLocate class="w-4 h-4 shrink-0" [class.text-success]="geoService.hasPosition()" aria-hidden="true"></svg>
+      }
+      <span class="truncate">{{ geoService.hasPosition() ? (geoService.comuneName() || 'Posizione attiva') : 'Posizione' }}</span>
+    </button>
+    }
+
     <!-- Theme toggle -->
     <button (click)="themeService.toggleTheme()"
       class="flex items-center gap-2.5 w-full px-2.5 py-1.5 rounded-md text-sm text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11"
