@@ -55,7 +55,7 @@
 
 /* Markdown prose styles for assistant messages */
 :host ::ng-deep .prose-chat {
-  font-size: 0.9375rem;
+  font-size: 1.0625rem;
   line-height: 1.6;
   color: var(--color-text);
 }
@@ -66,21 +66,21 @@
 }
 
 :host ::ng-deep .prose-chat h1 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
   margin: 1.25rem 0 0.5rem;
   font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 :host ::ng-deep .prose-chat h2 {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   font-weight: 700;
   margin: 1.125rem 0 0.4rem;
   font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 :host ::ng-deep .prose-chat h3 {
-  font-size: 1rem;
+  font-size: 1.125rem;
   font-weight: 600;
   margin: 1rem 0 0.3rem;
   font-family: 'Bricolage Grotesque', sans-serif;
@@ -192,7 +192,7 @@
   border-spacing: 0;
   width: max-content;
   min-width: 100%;
-  font-size: 0.8125rem;
+  font-size: 1.0625rem;
   line-height: 1.45;
   text-align: left;
 }
@@ -229,11 +229,11 @@
   color: var(--color-text);
 }
 
-/* Inline citation superscript links */
+/* Inline citation links — body-size to match the generated text (not a tiny superscript) */
 :host ::ng-deep .citation-ref {
-  font-size: 0.7em;
-  line-height: 1;
-  vertical-align: super;
+  font-size: 1em;
+  line-height: inherit;
+  vertical-align: baseline;
 }
 
 :host ::ng-deep .citation-link {
@@ -277,14 +277,8 @@
 /* Mobile: slightly denser text + tighter table columns (table still scrolls
    horizontally via .table-scroll). Mirrors how Gemini compacts on phones. */
 @media (max-width: 480px) {
-  :host ::ng-deep .prose-chat {
-    font-size: 0.875rem;
-  }
-
-  :host ::ng-deep .prose-chat table {
-    font-size: 0.78125rem;
-  }
-
+  /* Gemini keeps the same reading size on mobile — no font shrink; just
+     tighten the table column gap so wide tables scroll cleanly. */
   :host ::ng-deep .prose-chat thead th,
   :host ::ng-deep .prose-chat tbody td {
     padding-right: 0.875rem;

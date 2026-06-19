@@ -5,6 +5,19 @@
   --font-display: 'Bricolage Grotesque', ui-sans-serif, system-ui, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, monospace;
 
+  /* Type scale replicated from Gemini (px-based, consistent mobile/desktop):
+     chrome 13 · secondary 15 · reading 17 · title 32 · hero 36.
+     Font-size only — Tailwind's default line-heights for these tokens already
+     land near Gemini's (e.g. text-base lh ~24px). */
+  --text-xs: 0.8125rem;    /* 13px  (was 12) */
+  --text-sm: 0.9375rem;    /* 15px  (was 14) */
+  --text-base: 1.0625rem;  /* 17px  (was 16) */
+  --text-lg: 1.25rem;      /* 20px  (was 18) */
+  --text-xl: 1.5rem;       /* 24px  (was 20) */
+  --text-2xl: 2rem;        /* 32px  (was 24) */
+  --text-3xl: 2.25rem;     /* 36px  (was 30) */
+  --text-4xl: 2.75rem;     /* 44px  (was 36, kept above 3xl) */
+
   /* Surface colors — warm off-whites */
   --color-surface: #faf8f5;
   --color-surface-raised: #ffffff;
