@@ -1,7 +1,7 @@
 <main class="flex flex-col h-full overflow-hidden" lang="it" aria-label="Profilo utente">
 
   <!-- Header -->
-  <header class="flex items-center px-4 md:px-6 py-4 border-b border-border bg-surface-raised shrink-0">
+  <header class="hidden md:flex items-center px-4 md:px-6 h-16 border-b border-border bg-surface-raised shrink-0">
     <h1 class="font-display font-bold text-lg text-text tracking-tight">Profilo</h1>
   </header>
 
@@ -65,6 +65,13 @@
           <span class="text-sm font-semibold text-text tabular-nums">{{ savedCount() }}</span>
         </div>
       </section>
+
+      <!-- Sign out -->
+      <button type="button" (click)="signOut()"
+        class="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl bg-surface-raised border border-border text-text-secondary text-sm font-medium hover:bg-surface-inset hover:text-text transition-colors min-h-11">
+        <svg lucideLogOut class="w-4 h-4" aria-hidden="true"></svg>
+        Esci
+      </button>
 
       <!-- Danger zone -->
       <section class="bg-surface-raised border border-danger/30 rounded-xl p-5 space-y-4"

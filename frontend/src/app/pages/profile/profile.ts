@@ -10,11 +10,12 @@ import { Router } from '@angular/router';
 import { firstValueFrom } from 'rxjs';
 import { AuthService } from '../../services/auth.service';
 import { SavedItemsService } from '../../services/saved-items.service';
+import { LucideLogOut } from '@lucide/angular';
 import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-profile-page',
-  imports: [],
+  imports: [LucideLogOut],
   templateUrl: './profile.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
@@ -46,6 +47,11 @@ export class ProfilePageComponent {
   readonly isDeleting = signal(false);
   readonly deleteError = signal('');
   readonly showDeleteConfirm = signal(false);
+
+  async signOut(): Promise<void> {
+    await this.authService.logout();
+    this.router.navigate(['/login'], { replaceUrl: true });
+  }
 
   confirmDelete(): void {
     this.showDeleteConfirm.set(true);

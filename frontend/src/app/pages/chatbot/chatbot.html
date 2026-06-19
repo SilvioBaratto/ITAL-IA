@@ -1,7 +1,6 @@
 <div class="flex flex-col h-full">
   <!-- Mobile header with New Chat -->
-  <div class="flex items-center justify-between px-4 h-11 border-b border-border md:hidden">
-    <span class="font-display font-bold text-sm text-text">ITAL-IA</span>
+  <div class="flex items-center justify-end px-2 h-11 border-b border-border md:hidden">
     <div class="flex items-center gap-1 -mr-2">
       @if (geoService.isAvailable() && !geoService.isDenied() && !geoService.hasPosition()) {
       <button (click)="requestLocation()" [disabled]="geoService.loading()"
@@ -23,16 +22,6 @@
         }
       </span>
       }
-      <button (click)="themeService.toggleTheme()"
-        class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
-        [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
-        [attr.aria-pressed]="themeService.isDark()">
-        @if (themeService.isDark()) {
-        <svg lucideSun class="w-5 h-5" aria-hidden="true"></svg>
-        } @else {
-        <svg lucideMoon class="w-5 h-5" aria-hidden="true"></svg>
-        }
-      </button>
       <button (click)="onNewChat()"
         class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
         aria-label="Start a new chat">
