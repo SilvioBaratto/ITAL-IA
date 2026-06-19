@@ -95,7 +95,7 @@ export class ItaliapediaPoiComponent implements OnInit, OnDestroy {
     const p = this.poi();
     const region = this.region();
     if (!p || !region) return false;
-    return this.savedItemsService.isSaved(p.name, region.name, poiCategoryToSavedCategory(p.category));
+    return this.savedItemsService.isSaved(p.name, region.id, poiCategoryToSavedCategory(p.category));
   });
 
   readonly showRelated = computed(() => this.relatedPois().length >= 2);
@@ -134,14 +134,14 @@ export class ItaliapediaPoiComponent implements OnInit, OnDestroy {
 
     if (this.isSaved()) {
       this.savedItemsService
-        .unsave(p.name, region.name, savedCategory)
+        .unsave(p.name, region.id, savedCategory)
         .subscribe();
     } else {
       this.savedItemsService
         .save({
           name: p.name,
           category: savedCategory,
-          region: region.name,
+          region: region.id,
           description: p.description ?? '',
           address: p.address ?? undefined,
           mapsUrl: p.mapsUrl ?? undefined,
