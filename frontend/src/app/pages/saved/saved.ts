@@ -40,6 +40,11 @@ interface CategoryDescriptor {
   label: string;
 }
 
+interface RegionDescriptor {
+  id: string;
+  name: string;
+}
+
 const CATEGORY_LABELS: Record<SavedItemCategory, string> = {
   RESTAURANT: 'Ristorante',
   MUSEUM: 'Museo',
@@ -57,6 +62,9 @@ const CATEGORY_BADGE_CLASSES: Record<SavedItemCategory, string> = {
   WINE: 'bg-info/10 text-info',
   EXPERIENCE: 'bg-warning/10 text-warning',
 };
+
+/** Region filter value: a region id, or 'all' to show every saved region. */
+type RegionFilter = string | 'all';
 
 @Component({
   selector: 'app-saved-page',
@@ -85,7 +93,7 @@ const CATEGORY_BADGE_CLASSES: Record<SavedItemCategory, string> = {
   styleUrl: './saved.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: {
-    '(document:keydown.escape)': 'closeMobileSheet()',
+    '(document:keydown.escape)': 'closeDetail()',
   },
 })
 export class SavedPageComponent {
@@ -103,45 +111,56 @@ export class SavedPageComponent {
   readonly total = this.savedItemsService.total;
 
   readonly selectedCategory = signal<SavedItemCategory | null>(null);
-  readonly showAllRegions = signal(false);
+  /** Region scope: 'all' (default) or a specific region id. */
+  readonly regionFilter = signal<RegionFilter>('all');
 
-  /** The item currently shown in the detail pane (desktop) or mobile bottom sheet. */
+  /** Item shown in the detail dialog (centered modal on desktop, bottom sheet on mobile). */
   readonly selectedItem = signal<SavedItem | null>(null);
-
-  /** Controls the mobile bottom sheet visibility. */
-  readonly mobileSheetOpen = signal(false);
+  /** Whether the detail dialog is open. */
+  readonly detailOpen = signal(false);
 
   private readonly detailHeading = viewChild<ElementRef<HTMLElement>>('detailHeading');
-  private readonly mobileSheetEl = viewChild<ElementRef<HTMLElement>>('mobileSheetEl');
+  private readonly dialogEl = viewChild<ElementRef<HTMLElement>>('dialogEl');
 
-  readonly skeletonItems = [0, 1, 2] as const;
+  readonly skeletonItems = [0, 1, 2, 3, 4, 5] as const;
 
   readonly currentRegionName = computed(() => this.regionService.selectedRegion().name);
 
+  /** Distinct categories present across all saved items. */
   readonly availableCategories = computed<CategoryDescriptor[]>(() => {
-    const items = this.savedItemsService.savedItems();
     const seen = new Set<SavedItemCategory>();
-    for (const item of items) {
+    for (const item of this.savedItemsService.savedItems()) {
       seen.add(item.category);
     }
-    return Array.from(seen).map((value) => ({
-      value,
-      label: CATEGORY_LABELS[value],
-    }));
+    return Array.from(seen).map((value) => ({ value, label: CATEGORY_LABELS[value] }));
+  });
+
+  /** Distinct regions present across all saved items, resolved to display names. */
+  readonly availableRegions = computed<RegionDescriptor[]>(() => {
+    const seen = new Set<string>();
+    for (const item of this.savedItemsService.savedItems()) {
+      seen.add(item.region);
+    }
+    return Array.from(seen)
+      .map((id) => ({ id, name: this.regionName(id) }))
+      .sort((a, b) => a.name.localeCompare(b.name, 'it'));
   });
 
   readonly filteredItems = computed(() => {
     const items = this.savedItemsService.savedItems();
     const category = this.selectedCategory();
-    const allRegions = this.showAllRegions();
-    const currentRegionId = this.regionService.selectedRegion().id;
+    const region = this.regionFilter();
 
     return items.filter((item) => {
       const matchesCategory = category === null || item.category === category;
-      const matchesRegion = allRegions || item.region === currentRegionId;
+      const matchesRegion = region === 'all' || item.region === region;
       return matchesCategory && matchesRegion;
     });
   });
+
+  /** Collection stats for the header strip (based on the whole collection, not the filter). */
+  readonly statCategories = computed(() => this.availableCategories().length);
+  readonly statRegions = computed(() => this.availableRegions().length);
 
   private previousBodyOverflow = '';
   private touchStartY = 0;
@@ -151,32 +170,31 @@ export class SavedPageComponent {
     this.destroyRef.onDestroy(() => this.unlockBodyScroll());
   }
 
-  selectCategory(category: SavedItemCategory | null): void {
-    this.selectedCategory.set(category);
-    this.selectedItem.set(null);
+  /** Map a region id (slug) to its display name, falling back to the id. */
+  regionName(id: string): string {
+    return this.regionService.regions().find((r) => r.id === id)?.name ?? id;
   }
 
-  selectItem(item: SavedItem): void {
+  selectCategory(category: SavedItemCategory | null): void {
+    this.selectedCategory.set(category);
+  }
+
+  selectRegion(region: RegionFilter): void {
+    this.regionFilter.set(region);
+  }
+
+  /** Opens the detail dialog for the given item (modal on desktop, sheet on mobile). */
+  openDetail(item: SavedItem): void {
     this.selectedItem.set(item);
+    this.detailOpen.set(true);
+    this.lockBodyScroll();
     setTimeout(() => this.detailHeading()?.nativeElement.focus(), 0);
   }
 
-  clearSelectedItem(): void {
+  closeDetail(): void {
+    if (!this.detailOpen()) return;
+    this.detailOpen.set(false);
     this.selectedItem.set(null);
-  }
-
-  /** Opens the mobile bottom sheet for the given item. */
-  openMobileSheet(item: SavedItem): void {
-    this.selectedItem.set(item);
-    this.mobileSheetOpen.set(true);
-    this.lockBodyScroll();
-    setTimeout(() => this.mobileSheetEl()?.nativeElement.focus(), 0);
-  }
-
-  /** Closes the mobile bottom sheet. */
-  closeMobileSheet(): void {
-    if (!this.mobileSheetOpen()) return;
-    this.mobileSheetOpen.set(false);
     this.unlockBodyScroll();
   }
 
@@ -191,18 +209,18 @@ export class SavedPageComponent {
 
   onSheetTouchEnd(): void {
     if (this.touchDeltaY > 80) {
-      this.closeMobileSheet();
+      this.closeDetail();
     }
   }
 
-  /** Focus trap — keep Tab / Shift+Tab inside the mobile sheet. */
-  onSheetKeydown(event: KeyboardEvent): void {
+  /** Focus trap — keep Tab / Shift+Tab inside the dialog. */
+  onDialogKeydown(event: KeyboardEvent): void {
     if (event.key !== 'Tab') return;
 
-    const sheetEl = this.mobileSheetEl()?.nativeElement;
-    if (!sheetEl) return;
+    const el = this.dialogEl()?.nativeElement;
+    if (!el) return;
 
-    const focusable = sheetEl.querySelectorAll<HTMLElement>(
+    const focusable = el.querySelectorAll<HTMLElement>(
       'button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])',
     );
     if (focusable.length === 0) return;
@@ -219,23 +237,6 @@ export class SavedPageComponent {
     }
   }
 
-  /** Move focus to adjacent list item (arrow key navigation for listbox pattern). */
-  focusListItem(event: Event, direction: 1 | -1): void {
-    const target = event.target as HTMLElement;
-    const sibling =
-      direction === 1
-        ? target.nextElementSibling
-        : target.previousElementSibling;
-    if (sibling instanceof HTMLElement) {
-      sibling.focus();
-    }
-  }
-
-  toggleAllRegions(): void {
-    this.showAllRegions.update((v) => !v);
-    this.selectedItem.set(null);
-  }
-
   retryLoad(): void {
     const region = this.regionService.selectedRegion();
     this.savedItemsService.loadSavedItems(region.id).subscribe({
@@ -246,7 +247,7 @@ export class SavedPageComponent {
   }
 
   loadMore(): void {
-    const region = this.showAllRegions() ? undefined : this.regionService.selectedRegion().id;
+    const region = this.regionFilter() === 'all' ? undefined : this.regionFilter();
     const category = this.selectedCategory() ?? undefined;
     this.savedItemsService.loadMore(region, category).subscribe({
       error: () => {
@@ -268,8 +269,7 @@ export class SavedPageComponent {
     };
 
     if (this.selectedItem()?.id === item.id) {
-      this.selectedItem.set(null);
-      this.closeMobileSheet();
+      this.closeDetail();
     }
 
     this.savedItemsService.unsave(item.name, item.region, item.category).subscribe();
