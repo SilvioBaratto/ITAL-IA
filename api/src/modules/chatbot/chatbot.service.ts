@@ -152,11 +152,6 @@ export class ChatbotService {
       const regionSlug = toRegionSlug(request.region);
       const regionDisplay = regionDisplayName(regionSlug);
 
-      // Tag Boundary Cloud traces so per-call usage/cost is filterable by
-      // region and user (no-op unless BOUNDARY_API_KEY is set).
-      const { setTags } = await import('../../../baml_client/tracing');
-      setTags({ region: regionSlug, userId: userId ?? 'anonymous' });
-
       const requestDatetime = buildRequestDatetime();
       const recentHistory = serializeRecentHistory(request.conversation_history);
 
