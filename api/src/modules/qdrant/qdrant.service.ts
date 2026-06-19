@@ -37,7 +37,13 @@ export class QdrantService implements OnModuleInit {
   private readonly logger = new Logger(QdrantService.name);
   private readonly client: QdrantClient;
   private readonly collectionName: string;
-  private readonly scoreThreshold: number;
+  /**
+   * Low "garbage" floor passed to Qdrant as `score_threshold` — NOT a relevance
+   * gate. Relevance is decided by top-K rank (the `limit`), because
+   * text-embedding-3-* cosine scores are not separable by an absolute cutoff
+   * (relevant matches land ~0.5-0.6). Env name kept as QDRANT_SCORE_THRESHOLD.
+   */
+  private readonly scoreFloor: number;
   private readonly defaultSearchLimit: number;
   private readonly vectorSize: number;
   private readonly azureEmbedUrl: string;
@@ -50,7 +56,7 @@ export class QdrantService implements OnModuleInit {
     });
 
     this.collectionName = config.getOrThrow<string>('QDRANT_COLLECTION_NAME');
-    this.scoreThreshold = parseFloat(
+    this.scoreFloor = parseFloat(
       config.getOrThrow<string>('QDRANT_SCORE_THRESHOLD'),
     );
     this.defaultSearchLimit = parseInt(
@@ -62,7 +68,7 @@ export class QdrantService implements OnModuleInit {
       10,
     );
 
-    if (Number.isNaN(this.scoreThreshold)) {
+    if (Number.isNaN(this.scoreFloor)) {
       throw new Error('QDRANT_SCORE_THRESHOLD must be a number');
     }
     if (Number.isNaN(this.defaultSearchLimit)) {
@@ -167,7 +173,7 @@ export class QdrantService implements OnModuleInit {
     const results = await this.client.search(this.collectionName, {
       vector,
       limit,
-      score_threshold: this.scoreThreshold,
+      score_threshold: this.scoreFloor,
       with_payload: true,
       filter,
     });

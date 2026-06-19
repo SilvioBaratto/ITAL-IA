@@ -199,7 +199,8 @@ export class ChatbotService {
 
       const searchResults = await this.qdrantService.search(
         request.user_question,
-        5,
+        // Top-K is the relevance gate now (score_threshold is just a low floor).
+        8,
         regionSlug,
         categoryFilter.length > 0 ? categoryFilter : undefined,
         effectiveComune,

@@ -88,7 +88,7 @@ describe('ChatbotService', () => {
 
       expect(mockQdrantService.search).toHaveBeenCalledWith(
         'What to eat in Trieste?',
-        5,
+        8,
         'friuli-venezia-giulia',
         undefined,
         undefined,
