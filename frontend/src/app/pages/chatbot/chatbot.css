@@ -204,9 +204,6 @@
   white-space: nowrap;
   vertical-align: bottom;
   padding: 0.25rem 1.25rem 0.5rem 0;
-  /* Single hairline under the header — the one concession to our light theme;
-     Gemini is fully borderless. Delete this line for a pixel-pure Gemini look. */
-  border-bottom: 1px solid var(--color-border);
 }
 
 :host ::ng-deep .prose-chat tbody td {
@@ -215,6 +212,10 @@
   color: var(--color-text);
   vertical-align: top;
   border: none;
+  /* Cap a single column so a long cell wraps within its column instead of
+     stretching the table off-screen; the whole table still scrolls when wide. */
+  max-width: 22rem;
+  overflow-wrap: anywhere;
 }
 
 :host ::ng-deep .prose-chat th:last-child,
