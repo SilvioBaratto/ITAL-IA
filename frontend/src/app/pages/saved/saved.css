@@ -12,12 +12,18 @@
     .detail-dialog {
       animation: sheet-slide-up 0.3s cubic-bezier(0.32, 0.72, 0, 1) both;
     }
+    .detail-dialog.is-closing {
+      animation: sheet-slide-down 0.24s ease-in forwards;
+    }
   }
 
   /* Desktop: pop in centered (keeps the translate(-50%,-50%) centering) */
   @media (min-width: 768px) {
     .detail-dialog {
       animation: modal-pop 0.18s ease-out both;
+    }
+    .detail-dialog.is-closing {
+      animation: modal-pop-out 0.18s ease-in forwards;
     }
   }
 
@@ -27,7 +33,33 @@
   }
 
   @keyframes modal-pop {
-    from { opacity: 0; transform: translate(-50%, -50%) scale(0.96); }
-    to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    /* Animate opacity + the `scale` property only — NOT transform-translate.
+       The panel is centered via Tailwind's `translate: -50% -50%` (the CSS
+       translate property); a transform-translate here would compose with it
+       and double the offset, pushing the modal off-screen. */
+    from { opacity: 0; scale: 0.96; }
+    to { opacity: 1; scale: 1; }
+  }
+
+  @keyframes sheet-slide-down {
+    from { transform: translateY(0); }
+    to { transform: translateY(100%); }
+  }
+
+  @keyframes modal-pop-out {
+    from { opacity: 1; scale: 1; }
+    to { opacity: 0; scale: 0.96; }
+  }
+
+  /* Backdrop fades in on open, out on close (mirrors the panel). */
+  .dialog-backdrop {
+    animation: backdrop-fade 0.2s ease both;
+  }
+  .dialog-backdrop.is-closing {
+    animation: backdrop-fade 0.2s ease reverse forwards;
+  }
+  @keyframes backdrop-fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 }

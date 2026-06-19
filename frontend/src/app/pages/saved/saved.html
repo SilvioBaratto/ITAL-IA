@@ -1,20 +1,4 @@
-<main class="flex flex-col h-full overflow-hidden" lang="it" aria-label="Elementi salvati">
-
-  <!-- Header -->
-  <header class="hidden md:flex items-center justify-between px-4 md:px-6 h-16 border-b border-border bg-surface-raised shrink-0">
-    <h1 class="font-display font-bold text-lg text-text tracking-tight">Salvati</h1>
-
-    <button (click)="themeService.toggleTheme()"
-      class="p-2 rounded-md text-text-secondary hover:text-text hover:bg-surface-inset transition-colors motion-reduce:transition-none min-h-11 min-w-11 flex items-center justify-center"
-      [attr.aria-label]="themeService.isDark() ? 'Passa alla modalità chiara' : 'Passa alla modalità scura'"
-      [attr.aria-pressed]="themeService.isDark()">
-      @if (themeService.isDark()) {
-      <svg lucideSun class="w-4 h-4" aria-hidden="true"></svg>
-      } @else {
-      <svg lucideMoon class="w-4 h-4" aria-hidden="true"></svg>
-      }
-    </button>
-  </header>
+<main class="flex flex-col gap-6 px-4 py-6 md:px-8 md:py-8 max-w-4xl mx-auto w-full animate-fade-in-up" lang="it" aria-label="Elementi salvati">
 
   <!-- Screen reader live region for filter/count changes -->
   <div class="sr-only" role="status" aria-live="polite">
@@ -26,9 +10,7 @@
     }
   </div>
 
-  <!-- Scrollable, centered body -->
-  <div class="flex-1 overflow-y-auto">
-    <div class="max-w-5xl mx-auto w-full px-4 md:px-6 py-4 md:py-6 flex flex-col gap-5">
+  <app-breadcrumb [crumbs]="breadcrumbs" />
 
       <!-- ── LOADING ─────────────────────────────────────────────────────── -->
       @if (loading()) {
@@ -248,20 +230,17 @@
 
       }
 
-    </div>
-  </div>
-
   <!-- ── DETAIL DIALOG — centered modal (md+) / bottom sheet (mobile) ────── -->
   @if (detailOpen()) {
 
-  <div class="fixed inset-0 z-40 bg-black/40 md:backdrop-blur-sm" (click)="closeDetail()" aria-hidden="true"></div>
+  <div class="dialog-backdrop fixed inset-0 z-40 bg-black/40 md:backdrop-blur-sm" [class.is-closing]="closing()" (click)="closeDetail()" aria-hidden="true"></div>
 
   <div #dialogEl
     class="detail-dialog fixed z-50 bg-surface-raised shadow-2xl flex flex-col
            inset-x-0 bottom-0 rounded-t-2xl max-h-[85dvh]
            md:inset-auto md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2
            md:w-[560px] md:max-w-[92vw] md:max-h-[85vh] md:rounded-2xl md:border md:border-border"
-    role="dialog" aria-modal="true" aria-labelledby="detail-title" tabindex="-1"
+    role="dialog" aria-modal="true" aria-labelledby="detail-title" tabindex="-1" [class.is-closing]="closing()"
     (keydown)="onDialogKeydown($event)" (touchstart)="onSheetTouchStart($event)"
     (touchmove)="onSheetTouchMove($event)" (touchend)="onSheetTouchEnd()">
 

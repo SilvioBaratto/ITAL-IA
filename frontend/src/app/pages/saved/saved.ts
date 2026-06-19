@@ -9,6 +9,7 @@ import {
   DestroyRef,
 } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { BreadcrumbComponent, BreadcrumbItem } from '../../shared/breadcrumb/breadcrumb';
 import { SavedItemsService } from '../../services/saved-items.service';
 import { RegionService } from '../../services/region.service';
 import { ToastService } from '../../services/toast.service';
@@ -70,6 +71,7 @@ type RegionFilter = string | 'all';
   selector: 'app-saved-page',
   imports: [
     RouterLink,
+    BreadcrumbComponent,
     LucideMapPin,
     LucideTriangleAlert,
     LucideRotateCcw,
@@ -92,7 +94,11 @@ type RegionFilter = string | 'all';
   templateUrl: './saved.html',
   styleUrl: './saved.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  // Own the scroll container (same pattern as italiapedia pages): without an
+  // explicit flex/min-height-0/overflow-y-auto host, content overflows the
+  // `h-dvh overflow-hidden` layout root on mobile and scroll is dead.
   host: {
+    style: 'flex:1; min-height:0; display:block; overflow-y:auto',
     '(document:keydown.escape)': 'closeDetail()',
   },
 })
@@ -118,11 +124,16 @@ export class SavedPageComponent {
   readonly selectedItem = signal<SavedItem | null>(null);
   /** Whether the detail dialog is open. */
   readonly detailOpen = signal(false);
+  /** True while the dialog plays its exit animation before unmounting. */
+  readonly closing = signal(false);
+  private closeTimer?: ReturnType<typeof setTimeout>;
 
   private readonly detailHeading = viewChild<ElementRef<HTMLElement>>('detailHeading');
   private readonly dialogEl = viewChild<ElementRef<HTMLElement>>('dialogEl');
 
   readonly skeletonItems = [0, 1, 2, 3, 4, 5] as const;
+
+  readonly breadcrumbs: BreadcrumbItem[] = [{ label: 'Salvati' }];
 
   readonly currentRegionName = computed(() => this.regionService.selectedRegion().name);
 
@@ -167,7 +178,10 @@ export class SavedPageComponent {
   private touchDeltaY = 0;
 
   constructor() {
-    this.destroyRef.onDestroy(() => this.unlockBodyScroll());
+    this.destroyRef.onDestroy(() => {
+      if (this.closeTimer) clearTimeout(this.closeTimer);
+      this.unlockBodyScroll();
+    });
   }
 
   /** Map a region id (slug) to its display name, falling back to the id. */
@@ -185,6 +199,11 @@ export class SavedPageComponent {
 
   /** Opens the detail dialog for the given item (modal on desktop, sheet on mobile). */
   openDetail(item: SavedItem): void {
+    if (this.closeTimer) {
+      clearTimeout(this.closeTimer);
+      this.closeTimer = undefined;
+    }
+    this.closing.set(false);
     this.selectedItem.set(item);
     this.detailOpen.set(true);
     this.lockBodyScroll();
@@ -192,7 +211,25 @@ export class SavedPageComponent {
   }
 
   closeDetail(): void {
-    if (!this.detailOpen()) return;
+    if (!this.detailOpen() || this.closing()) return;
+    const reduce =
+      typeof window !== 'undefined' &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) {
+      this.finishClose();
+      return;
+    }
+    // Keep the dialog mounted and play its exit animation, then unmount.
+    this.closing.set(true);
+    this.closeTimer = setTimeout(() => this.finishClose(), 250);
+  }
+
+  private finishClose(): void {
+    if (this.closeTimer) {
+      clearTimeout(this.closeTimer);
+      this.closeTimer = undefined;
+    }
+    this.closing.set(false);
     this.detailOpen.set(false);
     this.selectedItem.set(null);
     this.unlockBodyScroll();
