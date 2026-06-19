@@ -132,7 +132,10 @@
     }
     to {
       opacity: 1;
-      transform: translateY(0);
+      /* `none` (not translateY(0)) so the fill-forwards state leaves no
+         residual transform — otherwise the animated element becomes the
+         containing block for any position:fixed descendant (e.g. modals). */
+      transform: none;
     }
   }
 
@@ -148,7 +151,11 @@
   }
 
   .animate-fade-in-up {
-    animation: fade-in-up 0.3s ease-out both;
+    /* `backwards` (not `both`): an entry animation's resting state is the
+       element's natural state, so we don't need forwards-fill — and forwards
+       would leave a computed identity-matrix transform that becomes the
+       containing block for any position:fixed descendant (breaks modals). */
+    animation: fade-in-up 0.3s ease-out backwards;
   }
 
   .animate-slide-in {

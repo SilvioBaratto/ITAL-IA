@@ -37,11 +37,11 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
     '(document:keydown.escape)': 'onEscape()',
   },
   template: `
-    @if (isOpen()) {
+    @if (isOpen() || closing()) {
       <!-- Backdrop -->
       <div
-        class="fixed inset-0 z-50 bg-black/30 transition-opacity motion-reduce:transition-none"
-        [class.animate-fade-in]="isOpen()"
+        class="fixed inset-0 z-50 bg-black/30 animate-fade-in motion-reduce:animate-none"
+        [class.is-closing]="closing()"
         (click)="close()"
         aria-hidden="true"
       ></div>
@@ -50,6 +50,7 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
       <div
         #sheetEl
         class="fixed inset-x-0 bottom-0 z-50 bg-surface-raised rounded-t-2xl shadow-2xl max-h-[70dvh] flex flex-col animate-slide-up motion-reduce:animate-none"
+        [class.is-closing]="closing()"
         role="dialog"
         aria-modal="true"
         aria-label="Select a region"
@@ -187,6 +188,22 @@ const GROUP_LABELS: Record<RegionGroup, string> = {
           transform: translateY(0);
         }
       }
+
+      /* Exit animations — mirror the open, played while .is-closing is set */
+      .animate-fade-in.is-closing {
+        animation: fade-in 0.2s ease reverse forwards;
+      }
+      .animate-slide-up.is-closing {
+        animation: slide-down 0.24s ease-in forwards;
+      }
+      @keyframes slide-down {
+        from {
+          transform: translateY(0);
+        }
+        to {
+          transform: translateY(100%);
+        }
+      }
     }
   `,
 })
@@ -203,6 +220,9 @@ export class RegionBottomSheetComponent {
 
   readonly searchQuery = signal('');
   readonly activeIndex = signal(-1);
+  /** True while the sheet plays its exit animation before unmounting. */
+  readonly closing = signal(false);
+  private closeTimer?: ReturnType<typeof setTimeout>;
 
   readonly selectedRegion = this.regionService.selectedRegion;
 
@@ -213,16 +233,22 @@ export class RegionBottomSheetComponent {
   constructor() {
     effect(() => {
       if (this.isOpen()) {
+        if (this.closeTimer) {
+          clearTimeout(this.closeTimer);
+          this.closeTimer = undefined;
+        }
+        this.closing.set(false);
         this.searchQuery.set('');
         this.activeIndex.set(-1);
         this.lockScroll();
         setTimeout(() => this.searchInputRef()?.nativeElement.focus(), 100);
-      } else {
+      } else if (!this.closing()) {
         this.unlockScroll();
       }
     });
 
     this.destroyRef.onDestroy(() => {
+      if (this.closeTimer) clearTimeout(this.closeTimer);
       this.unlockScroll();
     });
   }
@@ -249,7 +275,21 @@ export class RegionBottomSheetComponent {
   });
 
   close() {
-    this.closed.emit();
+    if (this.closing()) return;
+    const reduce =
+      typeof window !== 'undefined' &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) {
+      this.closed.emit();
+      return;
+    }
+    // Play the exit animation, then tell the parent to unmount us.
+    this.closing.set(true);
+    this.closeTimer = setTimeout(() => {
+      this.closing.set(false);
+      this.closeTimer = undefined;
+      this.closed.emit();
+    }, 250);
   }
 
   onEscape() {
