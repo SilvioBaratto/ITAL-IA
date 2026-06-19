@@ -13,26 +13,26 @@ import { LucideX } from '@lucide/angular';
   template: `
     @for (toast of toastService.toasts(); track toast.id) {
       <div
-        class="pointer-events-auto flex items-center gap-3 px-4 py-3 rounded-xl bg-text text-surface-raised text-sm font-medium shadow-lg animate-toast-in"
+        class="pointer-events-auto flex items-center gap-2 w-[min(26rem,92vw)] px-4 py-3 rounded-xl bg-surface-raised text-text border border-border shadow-lg text-sm font-medium animate-toast-in"
         role="status"
         aria-live="polite"
         lang="it"
       >
-        <span>{{ toast.message }}</span>
+        <span class="flex-1 min-w-0 text-left leading-snug">{{ toast.message }}</span>
         @if (toast.undoAction) {
           <button
             (click)="toastService.undo(toast.id)"
-            class="shrink-0 px-3 py-1.5 rounded-md text-primary font-semibold hover:bg-white/10 transition-colors min-h-11"
+            class="shrink-0 px-3 py-1.5 rounded-lg text-primary font-semibold hover:bg-primary-light transition-colors min-h-11"
           >
             Annulla
           </button>
         }
         <button
           (click)="toastService.dismiss(toast.id)"
-          class="shrink-0 p-2 rounded-md text-surface-inset hover:text-white hover:bg-white/10 transition-colors min-h-11 min-w-11 flex items-center justify-center"
+          class="shrink-0 -mr-1 p-2 rounded-lg text-text-tertiary hover:text-text hover:bg-surface-inset transition-colors min-h-11 min-w-11 flex items-center justify-center"
           aria-label="Chiudi notifica"
         >
-          <svg lucideX class="w-3.5 h-3.5" strokeWidth="2" aria-hidden="true"></svg>
+          <svg lucideX class="w-4 h-4" strokeWidth="2" aria-hidden="true"></svg>
         </button>
       </div>
     }
