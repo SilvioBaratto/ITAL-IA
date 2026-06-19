@@ -265,13 +265,13 @@
                 @for (source of msg.richContent!.sources!; track source.url) {
                 <li [id]="'source-' + msg.id + '-' + ($index + 1)" class="group scroll-mt-4 rounded-md">
                   <a [href]="source.url" target="_blank" rel="noopener"
-                    class="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-surface-inset text-xs text-text-secondary hover:text-primary hover:bg-primary/10 transition-colors"
+                    class="inline-flex max-w-full min-w-0 items-center gap-1.5 px-2 py-1 rounded-md bg-surface-inset text-xs text-text-secondary hover:text-primary hover:bg-primary/10 transition-colors"
                     [attr.title]="source.title">
                     <span
                       class="inline-flex items-center justify-center w-4 h-4 rounded-full bg-primary/10 text-primary text-[10px] font-semibold shrink-0"
                       aria-hidden="true">{{ $index + 1 }}</span>
                     <svg lucideFileText class="w-2.5 h-2.5 shrink-0" strokeWidth="2" aria-hidden="true"></svg>
-                    <span class="truncate">{{ source.title }}</span>
+                    <span class="truncate min-w-0">{{ source.title }}</span>
                   </a>
                 </li>
                 }
