@@ -26,6 +26,11 @@ export class MarkdownPipe implements PipeTransform {
     if (!value) return '';
     const html = marked.parse(value, { async: false }) as string;
     const withCitations = inlineCitationLinks(html, msgId ?? '');
-    return this.sanitizer.bypassSecurityTrustHtml(withCitations);
+    // Wrap tables in a horizontal-scroll container so wide tables never break
+    // the chat column layout (matches the Gemini-style overflow-x behaviour).
+    const withTables = withCitations
+      .replace(/<table>/g, '<div class="table-scroll"><table>')
+      .replace(/<\/table>/g, '</table></div>');
+    return this.sanitizer.bypassSecurityTrustHtml(withTables);
   }
 }
