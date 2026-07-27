@@ -307,3 +307,10 @@ idea/
 
 # Script notes
 script.md
+
+# Knowledge base — moved to the private SilvioBaratto/kb-italia repo.
+# Purged from this repo's history; never re-commit it here.
+kb/
+
+.code-generator/
+graphify-out/
