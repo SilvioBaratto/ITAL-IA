@@ -16,7 +16,7 @@
 //   - category     (from the caller's path parsing)
 //   - created_at, updated_at
 //
-// Reuses the AzureFoundry client. Extraction is a one-shot structured
+// Reuses the GPT52 client. Extraction is a one-shot structured
 // output — no streaming, no tool use.
 
 class ExtractedPoi {
@@ -36,7 +36,7 @@ function ExtractPois(
   category: string,
   markdown_content: string
 ) -> PoiExtractionResult {
-  client AzureFoundry
+  client GPT52
 
   prompt #"
     {{ _.role("system") }}

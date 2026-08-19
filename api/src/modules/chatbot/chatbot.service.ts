@@ -169,7 +169,7 @@ export class ChatbotService {
           .ClassifyQuery(request.user_question, regionDisplay, recentHistory)
           .catch((err): QueryClassification => {
             // Classifier is a soft dependency. If it fails for any reason
-            // (Azure blip, parse error), fall back to an unfiltered search
+            // (API blip, parse error), fall back to an unfiltered search
             // so the chat still works — degraded, not dead.
             this.logger.warn(`ClassifyQuery failed, proceeding unfiltered: ${err}`);
             return classifierFallback;

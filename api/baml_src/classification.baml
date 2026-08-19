@@ -10,8 +10,8 @@
 // widens to every category in the active region. That's the correct
 // behavior for generic questions like "cosa vedere?".
 //
-// Reuses the AzureFoundry client from clients.baml so the classifier
-// runs on the same deployment as StreamRAGChat. If classifier latency
+// Reuses the GPT52 client from clients.baml so the classifier
+// runs on the same model as StreamRAGChat. If classifier latency
 // becomes a problem, define a smaller client and swap this one line.
 
 enum PoiCategoryEnum {
@@ -47,7 +47,7 @@ function ClassifyQuery(
   region: string,
   recent_history: string
 ) -> QueryClassification {
-  client AzureFoundry
+  client GPT52
 
   prompt #"
     {{ _.role("system") }}

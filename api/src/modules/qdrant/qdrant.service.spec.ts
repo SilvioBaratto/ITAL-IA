@@ -20,15 +20,15 @@ describe('QdrantService', () => {
                 QDRANT_COLLECTION_NAME: 'italia-kb',
                 QDRANT_SCORE_THRESHOLD: '0.75',
                 QDRANT_SEARCH_LIMIT: '5',
-                AZURE_OPENAI_EMBEDDINGS_ENDPOINT:
-                  'https://westeurope.api.cognitive.microsoft.com/',
-                AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT: 'text-embedding-3-large',
-                AZURE_OPENAI_EMBEDDINGS_API_VERSION: '2024-02-01',
-                AZURE_OPENAI_EMBEDDINGS_API_KEY: 'test-azure-key',
-                AZURE_OPENAI_EMBEDDINGS_DIM: '3072',
+                OPENAI_EMBEDDINGS_MODEL: 'text-embedding-3-large',
+                OPENAI_API_KEY: 'test-openai-key',
+                OPENAI_EMBEDDINGS_DIM: '3072',
               };
               return env[key];
             }),
+            // OPENAI_BASE_URL is optional — the service falls back to the
+            // public API when it's absent.
+            get: jest.fn(() => undefined),
           },
         },
       ],
@@ -36,7 +36,7 @@ describe('QdrantService', () => {
 
     service = module.get(QdrantService);
 
-    // Mock embed to avoid real Azure OpenAI calls
+    // Mock embed to avoid real OpenAI calls
     jest.spyOn(service, 'embed').mockResolvedValue(new Array(3072).fill(0));
 
     // Mock the internal Qdrant client search

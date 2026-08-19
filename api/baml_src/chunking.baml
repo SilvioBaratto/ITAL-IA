@@ -56,7 +56,7 @@ function ChunkPage(
   source_url: string,
   markdown_content: string
 ) -> PageChunkingResult {
-  client AzureFoundry
+  client GPT52
 
   prompt #"
     {{ _.role("system") }}

@@ -52,12 +52,12 @@ Helmet -> CORS -> `/api/v1` prefix -> LoggingMiddleware -> ThrottlerGuard (100 r
 ### Modules
 
 - **auth** — validates Supabase JWT via `supabase.auth.getUser()`, injects `req.user`. `@CurrentUser()` param decorator. Account deletion cascades through Supabase then DB.
-- **chatbot** — the RAG pipeline. Embeds query (Azure OpenAI `text-embedding-3-large`, 3072-dim) -> Qdrant cosine search (top 5, score >= 0.75, `italia-kb` collection) -> fetches user's trip context -> BAML `StreamRAGChat()` (Azure OpenAI `gpt-4.1` via the `AzureFoundry` client) -> SSE stream. The BAML response is a `RichChatResponse` with text, images, links, map_links, tables, sources, and item_categories.
+- **chatbot** — the RAG pipeline. Embeds query (OpenAI `text-embedding-3-large`, 3072-dim) -> Qdrant cosine search (top 5, score >= 0.75, `italia-kb` collection) -> fetches user's trip context -> BAML `StreamRAGChat()` (OpenAI `gpt-5.2` via the `GPT52` client) -> SSE stream. The BAML response is a `RichChatResponse` with text, images, links, map_links, tables, sources, and item_categories.
 - **chat-conversation** — CRUD for conversation persistence (create, list, get, append message, update title, delete).
 - **region** — returns all 20 regions with `hasKb` flag. Cache-Control: 1hr with stale-while-revalidate.
 - **poi** — points of interest lookup, filterable by region and category (13 categories). Cache-Control: 5min.
 - **saved-items** — user bookmarks. Upsert with async best-effort POI linking (case-insensitive name match against PointOfInterest table, non-blocking).
-- **qdrant** — wraps `@qdrant/js-client-rest`. `embed()` calls Azure OpenAI `text-embedding-3-large` (3072-dim, via `AZURE_OPENAI_EMBEDDINGS_*` env), with a runtime guard that throws if the returned vector length != `AZURE_OPENAI_EMBEDDINGS_DIM`. `search()` does cosine similarity with optional region filter.
+- **qdrant** — wraps `@qdrant/js-client-rest`. `embed()` POSTs to the OpenAI `/v1/embeddings` endpoint with `text-embedding-3-large` (3072-dim, via `OPENAI_API_KEY` / `OPENAI_EMBEDDINGS_MODEL`, optional `OPENAI_BASE_URL`), with a runtime guard that throws if the returned vector length != `OPENAI_EMBEDDINGS_DIM`. `search()` does cosine similarity with optional region filter.
 - **health** — `@Public()`, checks DB with `SELECT 1`.
 - **test** — in-memory CRUD for testing.
 
@@ -69,7 +69,7 @@ Path aliases in `tsconfig.json`: `@/*` -> `src/*`, `@generated/prisma`, `@genera
 
 ### BAML
 
-`baml_src/chatbot.baml` defines `StreamRAGChat` — the only LLM function used at runtime. `baml_src/clients.baml` defines LLM clients (GPT-5 Mini is the default for chat). Never edit `baml_client/` — it's auto-generated.
+`baml_src/chatbot.baml` defines `StreamRAGChat` — the only LLM function used at runtime. `baml_src/clients.baml` defines LLM clients (`GPT52` — OpenAI `gpt-5.2` — is the client used by every runtime and ingestion function). Never edit `baml_client/` — it's auto-generated.
 
 ## Frontend architecture (`frontend/`)
 
@@ -107,9 +107,9 @@ Playwright in `e2e/`. Tests desktop (1280x720) and mobile (Pixel 5). Run with `n
 
 ## Environment variables (`api/.env`)
 
-Required: `DATABASE_URL`, `DIRECT_URL` (Supabase pooled/session), `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, `QDRANT_URL`, `QDRANT_API_KEY`. Azure OpenAI for chat + embeddings: `AZURE_OPENAI_BASE_URL`, `AZURE_OPENAI_API_VERSION`, `AZURE_OPENAI_API_KEY` (the `AzureFoundry` BAML chat client), and `AZURE_OPENAI_EMBEDDINGS_ENDPOINT`, `AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT`, `AZURE_OPENAI_EMBEDDINGS_API_VERSION`, `AZURE_OPENAI_EMBEDDINGS_API_KEY`, `AZURE_OPENAI_EMBEDDINGS_DIM` (3072), plus optional `AZURE_OPENAI_EMBEDDINGS_MODEL`.
+Required: `DATABASE_URL`, `DIRECT_URL` (Supabase pooled/session), `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`, `QDRANT_URL`, `QDRANT_API_KEY`. OpenAI for chat + embeddings: `OPENAI_API_KEY` (used by the BAML `GPT52` chat client and by `QdrantService.embed()`), `OPENAI_EMBEDDINGS_MODEL` (`text-embedding-3-large`), `OPENAI_EMBEDDINGS_DIM` (3072).
 
-Optional: `QDRANT_COLLECTION_NAME`, `QDRANT_SCORE_THRESHOLD`, `QDRANT_SEARCH_LIMIT`, `ANTHROPIC_API_KEY`, `GOOGLE_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `CORS_ORIGINS`.
+Optional: `OPENAI_BASE_URL` (defaults to `https://api.openai.com/v1`), `QDRANT_COLLECTION_NAME`, `QDRANT_SCORE_THRESHOLD`, `QDRANT_SEARCH_LIMIT`, `ANTHROPIC_API_KEY`, `GOOGLE_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `CORS_ORIGINS`.
 
 **`DATABASE_URL` vs `DIRECT_URL`** — runtime code uses `DATABASE_URL` (transaction pooler, port 6543) for efficient connection pooling across serverless cold starts. Prisma CLI commands (`migrate`, `db execute`) must use `DIRECT_URL` (session pooler, port 5432) because the transaction pooler hangs Prisma migrations indefinitely. See the "Database migrations" section below for the override pattern.
 
@@ -194,7 +194,7 @@ npx ts-node -r tsconfig-paths/register scripts/chunk-kb.ts --region friuli-venez
 npx ts-node -r tsconfig-paths/register scripts/upload-to-qdrant.ts
 ```
 
-Pipeline: `kb/{region-slug}/{CATEGORY}/.comuni/{comune-slug}.md` (produced by `kb/run-deep-research.py`) → BAML `ChunkPage` → `kb/chunked/{region}/{category}/{comune}.json` → aggregated into `kb/chunked/all-chunks.json` → Azure OpenAI embeddings (batches of 16) → Qdrant upsert (`italia-kb`, cosine, vector size from `AZURE_OPENAI_EMBEDDINGS_DIM`). Every vector carries `region`, `category`, `comune_name`, `province` in its payload for multi-field filtering at retrieval time.
+Pipeline: `kb/{region-slug}/{CATEGORY}/.comuni/{comune-slug}.md` (produced by `kb/run-deep-research.py`) → BAML `ChunkPage` → `kb/chunked/{region}/{category}/{comune}.json` → aggregated into `kb/chunked/all-chunks.json` → OpenAI embeddings (batches of 16) → Qdrant upsert (`italia-kb`, cosine, vector size from `OPENAI_EMBEDDINGS_DIM`). Every vector carries `region`, `category`, `comune_name`, `province` in its payload for multi-field filtering at retrieval time.
 
 ## Deployment
 

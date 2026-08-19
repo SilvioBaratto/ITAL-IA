@@ -125,7 +125,7 @@ function StreamRAGChat(
   request_datetime: string,
   user_location: string?
 ) -> RichChatResponse {
-  client AzureFoundry
+  client GPT52
 
   prompt #"
     {{ _.role("system") }}

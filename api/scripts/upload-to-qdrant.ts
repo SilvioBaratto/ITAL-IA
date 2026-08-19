@@ -16,10 +16,10 @@ dotenv.config({ path: join(__dirname, '..', '.env') });
 const ROOT = join(__dirname, '..', '..');
 const ALL_CHUNKS_PATH = join(ROOT, 'kb', 'chunked', 'all-chunks.json');
 
-const EMBED_BATCH_SIZE = 16; // Azure embeddings: keep batches small to stay under per-request token limits
+const EMBED_BATCH_SIZE = 16; // OpenAI embeddings: keep batches small to stay under per-request token limits
 const UPSERT_BATCH_SIZE = 100;
 
-// Azure OpenAI S0 tier for this project:
+// OpenAI embeddings rate limits for this project:
 //   - 250,000 tokens/minute
 //   - 1,500 requests/minute
 // Each batch of 16 chunks ≈ 6-10K tokens, so TPM is the binding limit.
@@ -28,7 +28,7 @@ const UPSERT_BATCH_SIZE = 100;
 // MAX_EMBED_RETRIES covers those spikes with exponential backoff.
 const EMBED_DELAY_MS = 2000;
 
-// Retry-on-429 config. Azure's 429 sends a "Please retry after N
+// Retry-on-429 config. OpenAI's 429 sends a "Please retry after N
 // seconds" header (Retry-After); we honor it when present, otherwise
 // fall back to an exponential schedule: 1.5, 3, 6, 12, 24, 48 seconds.
 const MAX_EMBED_RETRIES = 6;
@@ -97,41 +97,36 @@ function chunkIdToUuid(chunkId: string): string {
 }
 
 // ---------------------------------------------------------------------------
-// Azure OpenAI Embeddings via fetch
+// OpenAI Embeddings via fetch
 // ---------------------------------------------------------------------------
-function getAzureEmbedConfig(): { url: string; apiKey: string; model: string } {
-  const endpoint = process.env.AZURE_OPENAI_EMBEDDINGS_ENDPOINT;
-  const deployment = process.env.AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT;
-  const apiVersion = process.env.AZURE_OPENAI_EMBEDDINGS_API_VERSION;
-  const apiKey = process.env.AZURE_OPENAI_EMBEDDINGS_API_KEY;
-  const model = process.env.AZURE_OPENAI_EMBEDDINGS_MODEL ?? deployment ?? '';
+function getEmbedConfig(): { url: string; apiKey: string; model: string } {
+  const baseUrl = process.env.OPENAI_BASE_URL ?? 'https://api.openai.com/v1';
+  const apiKey = process.env.OPENAI_API_KEY;
+  const model = process.env.OPENAI_EMBEDDINGS_MODEL;
 
-  if (!endpoint) throw new Error('AZURE_OPENAI_EMBEDDINGS_ENDPOINT is not set');
-  if (!deployment) throw new Error('AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT is not set');
-  if (!apiVersion) throw new Error('AZURE_OPENAI_EMBEDDINGS_API_VERSION is not set');
-  if (!apiKey) throw new Error('AZURE_OPENAI_EMBEDDINGS_API_KEY is not set');
+  if (!apiKey) throw new Error('OPENAI_API_KEY is not set');
+  if (!model) throw new Error('OPENAI_EMBEDDINGS_MODEL is not set');
 
-  const base = endpoint.replace(/\/+$/, '');
-  const url = `${base}/openai/deployments/${deployment}/embeddings?api-version=${apiVersion}`;
+  const url = `${baseUrl.replace(/\/+$/, '')}/embeddings`;
   return { url, apiKey, model };
 }
 
 async function embedTexts(texts: string[]): Promise<number[][]> {
-  const { url, apiKey } = getAzureEmbedConfig();
+  const { url, apiKey, model } = getEmbedConfig();
 
-  // Retry with exponential backoff on 429 (rate limit) and 5xx. Azure
-  // OpenAI's S0 tier has a tight TPM ceiling that we can bump against
-  // on long ingestion runs; a transient 429 should NOT kill the whole
-  // upload — retrying with a growing delay lets the quota window reset.
+  // Retry with exponential backoff on 429 (rate limit) and 5xx. OpenAI
+  // enforces a per-minute token ceiling that we can bump against on long
+  // ingestion runs; a transient 429 should NOT kill the whole upload —
+  // retrying with a growing delay lets the quota window reset.
   let lastErr: Error | null = null;
   for (let attempt = 0; attempt < MAX_EMBED_RETRIES; attempt++) {
     const res = await fetch(url, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'api-key': apiKey,
+        Authorization: `Bearer ${apiKey}`,
       },
-      body: JSON.stringify({ input: texts }),
+      body: JSON.stringify({ input: texts, model }),
     });
 
     if (res.ok) {
@@ -148,16 +143,16 @@ async function embedTexts(texts: string[]): Promise<number[][]> {
     if (res.status >= 400 && res.status < 500 && res.status !== 429) {
       const body = await res.text().catch(() => '');
       throw new Error(
-        `Azure OpenAI embeddings failed (HTTP ${res.status}): ${body.slice(0, 500)}`,
+        `OpenAI embeddings failed (HTTP ${res.status}): ${body.slice(0, 500)}`,
       );
     }
 
     const body = await res.text().catch(() => '');
     lastErr = new Error(
-      `Azure OpenAI embeddings failed (HTTP ${res.status}): ${body.slice(0, 500)}`,
+      `OpenAI embeddings failed (HTTP ${res.status}): ${body.slice(0, 500)}`,
     );
 
-    // Respect the Retry-After header if Azure sends one; otherwise
+    // Respect the Retry-After header if OpenAI sends one; otherwise
     // fall back to an exponential schedule: 1.5s, 3s, 6s, 12s, 24s, 48s.
     const retryAfter = parseInt(res.headers.get('retry-after') ?? '', 10);
     const waitMs = Number.isFinite(retryAfter) && retryAfter > 0
@@ -170,14 +165,14 @@ async function embedTexts(texts: string[]): Promise<number[][]> {
     await sleep(waitMs);
   }
 
-  throw lastErr ?? new Error('Azure OpenAI embeddings failed after all retries');
+  throw lastErr ?? new Error('OpenAI embeddings failed after all retries');
 }
 
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 async function main(): Promise<void> {
-  // Validate env (Azure embeddings env vars validated lazily by getAzureEmbedConfig)
+  // Validate env (OpenAI embeddings env vars validated lazily by getEmbedConfig)
   const qdrantUrl = process.env.QDRANT_URL;
   const qdrantApiKey = process.env.QDRANT_API_KEY;
   if (!qdrantUrl) throw new Error('QDRANT_URL is not set');
@@ -186,14 +181,14 @@ async function main(): Promise<void> {
   const collectionName = process.env.QDRANT_COLLECTION_NAME;
   if (!collectionName) throw new Error('QDRANT_COLLECTION_NAME is not set');
 
-  const vectorSizeRaw = process.env.AZURE_OPENAI_EMBEDDINGS_DIM;
-  if (!vectorSizeRaw) throw new Error('AZURE_OPENAI_EMBEDDINGS_DIM is not set');
+  const vectorSizeRaw = process.env.OPENAI_EMBEDDINGS_DIM;
+  if (!vectorSizeRaw) throw new Error('OPENAI_EMBEDDINGS_DIM is not set');
   const vectorSize = parseInt(vectorSizeRaw, 10);
   if (Number.isNaN(vectorSize)) {
-    throw new Error('AZURE_OPENAI_EMBEDDINGS_DIM must be an integer');
+    throw new Error('OPENAI_EMBEDDINGS_DIM must be an integer');
   }
 
-  const { model: embeddingModel } = getAzureEmbedConfig();
+  const { model: embeddingModel } = getEmbedConfig();
 
   // Load chunks
   console.log(`Loading chunks from ${ALL_CHUNKS_PATH}...`);
@@ -222,7 +217,7 @@ async function main(): Promise<void> {
   console.log(`  Collection created (${vectorSize}d, Cosine)\n`);
 
   // Embed and upsert in batches
-  console.log(`Embedding with ${embeddingModel} (Azure OpenAI) and upserting to Qdrant...`);
+  console.log(`Embedding with ${embeddingModel} (OpenAI) and upserting to Qdrant...`);
   console.log(`  Embed batch size: ${EMBED_BATCH_SIZE}`);
   console.log(`  Upsert batch size: ${UPSERT_BATCH_SIZE}\n`);
 
@@ -333,7 +328,7 @@ async function main(): Promise<void> {
   console.log(`Total upserted: ${totalUpserted}`);
   console.log(`Points in collection: ${info.points_count}`);
   console.log(`Vector size: ${vectorSize}`);
-  console.log(`Embedding model: ${embeddingModel} (Azure OpenAI)`);
+  console.log(`Embedding model: ${embeddingModel} (OpenAI)`);
   console.log(`Payload indexes: ${keywordIndexes.join(', ')}, page_title, chunk_index`);
 }
 

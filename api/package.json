@@ -26,7 +26,7 @@
     "seed:comuni": "ts-node -r tsconfig-paths/register scripts/seed-comuni.ts"
   },
   "dependencies": {
-    "@boundaryml/baml": "^0.222.0",
+    "@boundaryml/baml": "0.226.1",
     "@nestjs/common": "^11.0.0",
     "@nestjs/config": "^4.0.0",
     "@nestjs/core": "^11.0.0",
